@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For applications that need adeeper throat clearance such as mould making orthree dimensional carving, extended</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131559Z" creationid="ccyu" creationdate="20131105T131514Z">
+        <seg>用於需要更深的高度間隙之工件如模具製造或三維雕刻，可延長高度間隙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For larger applications requiring full process width ofasingle carriage, the second carriage can conveniently be parked atthe end ofthe gantry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130102Z" creationid="ccyu" creationdate="20131105T130102Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T120930Z" creationid="MAE" creationdate="20131105T093000Z">
         <seg>真空系統選項 - 包括真空吸附泵和風機，以及集屑系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>clearances are available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131604Z" creationid="ccyu" creationdate="20131105T131604Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
