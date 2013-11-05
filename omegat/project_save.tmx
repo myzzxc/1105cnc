@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extended gantry lengths allow forfull processing width when utilising wider carriages that accommodate multiple tools orwhen using multiple carriages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130543Z" creationid="ccyu" creationdate="20131105T130503Z">
+        <seg>延長支架長度以用於多重刀具所使用之較寬的刀架或用於多重刀架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faster and more flexible production isaseasy as choosing asingle, double oreven triple head carriage formultiple tasking operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124225Z" creationid="MAE" creationdate="20131105T093207Z">
