@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extended clearances are available at200mm, 250mm and 300mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131708Z" creationid="ccyu" creationdate="20131105T131708Z">
+        <seg>延長支架高度有 200mm、250mm 以及 300mm 可供選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extended gantries can also be utilised forcustom culling solutions where "off-the-table" material processing is required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130842Z" creationid="ccyu" creationdate="20131105T130842Z">
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130102Z" creationid="ccyu" creationdate="20131105T130102Z">
         <seg>當用於需要全部支架範圍之大型工件時，第二刀架可停放於支架末端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heavy Duty Steel Gantry</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131931Z" creationid="ccyu" creationdate="20131105T131931Z">
+        <seg>高負荷支架</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other heights are available upon request.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131745Z" creationid="ccyu" creationdate="20131105T131745Z">
+        <seg>其他高度可依需求另行訂做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Others are available on the CAMTECH and PACER systems as well.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121226Z" creationid="MAE" creationdate="20131105T093003Z">
@@ -218,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121435Z" creationid="MAE" creationdate="20131105T093004Z">
         <seg>請向 AXYZ 技術銷售專員諮詢以獲得最適合您的需求之機台組態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speak toyour AXYZ technical sales person for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131820Z" creationid="ccyu" creationdate="20131105T131820Z">
+        <seg>更多資訊請向 AXYZ 技術銷售專員諮詢。</seg>
       </tuv>
     </tu>
     <tu>
