@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>Accuracy Options - These machine options will help you locate your material and tools for more accurate cut parts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092959Z" creationid="MAE" creationdate="20131105T092959Z">
-        <seg>準確性選項-這些機選項將説明您找到您的材料和工具，更準確地切除部分。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T120645Z" creationid="MAE" creationdate="20131105T092959Z">
+        <seg>準確性選項 - 幫助材料及工具定位的選項，以更準確地切削。</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>Secondary Options - These are typically accessories to make more efficient use of your CNC Router, including misters, swarf collection feet and more.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T120512Z" creationid="MAE" creationdate="20131105T092958Z">
-        <seg>輔助選項 - 幫助用戶更有效率地使用 CNC 雕刻機之配件，包括冷卻噴嘴、集屑器和更多的配件。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T120914Z" creationid="MAE" creationdate="20131105T092958Z">
+        <seg>輔助選項 - 幫助用戶更有效率地使用 CNC 雕刻機之配件，包括冷卻噴嘴、集屑器腳座和更多的配件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,8 +168,8 @@
       <tuv lang="EN-US">
         <seg>Vacuum System Options - These options include vacuum hold down pumps and blowers, as well as swarf collection systems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093000Z" creationid="MAE" creationdate="20131105T093000Z">
-        <seg>真空系統選項-這些選項包括真空按住泵和風機，以及切屑收集系統。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T120930Z" creationid="MAE" creationdate="20131105T093000Z">
+        <seg>真空系統選項 - 包括真空吸附泵和風機，以及集屑系統。</seg>
       </tuv>
     </tu>
     <tu>
