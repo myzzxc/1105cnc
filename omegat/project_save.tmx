@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extended Gantry Height</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131244Z" creationid="ccyu" creationdate="20131105T131244Z">
+        <seg>延長支架高度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extended Gantry Length</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130223Z" creationid="ccyu" creationdate="20131105T130223Z">
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run different operations ateither end of the machine, or park one gantry forlarge job processing over virtually the entire machine length.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131234Z" creationid="ccyu" creationdate="20131105T131234Z">
+        <seg>於機台兩端同時運行不同操作，當處理需要機台長度之大型工件時可將一支架停放於機台末端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Secondary Options - These are typically accessories to make more efficient use of your CNC Router, including misters, swarf collection feet and more.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T120914Z" creationid="MAE" creationdate="20131105T092958Z">
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T114349Z" creationid="MAE" creationdate="20131105T092946Z">
         <seg>AXYZ 國際在過去的 20 年所開發選項組合為業界最多元化的組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The standard gantry clearance is150mm for all AXYZ Series machines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131325Z" creationid="ccyu" creationdate="20131105T131325Z">
+        <seg>所有 AXYZ 系列機台標準支架高度為 150mm。</seg>
       </tuv>
     </tu>
     <tu>
