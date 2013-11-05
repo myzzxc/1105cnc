@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>Most of these options apply to the AXYZ Series machine exclusively.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093001Z" creationid="MAE" creationdate="20131105T093001Z">
-        <seg>大多數這些選項僅適用于 AXYZ 系列機。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121033Z" creationid="MAE" creationdate="20131105T093001Z">
+        <seg>以上選項多數為 AXYZ 系列機台獨有。</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>Others are available on the CAMTECH and PACER systems as well.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093003Z" creationid="MAE" creationdate="20131105T093003Z">
-        <seg>其他人是恒發和起搏器系統上可用。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121226Z" creationid="MAE" creationdate="20131105T093003Z">
+        <seg>其他可用於 CAMTECH 和 PACER 系統，</seg>
       </tuv>
     </tu>
     <tu>
