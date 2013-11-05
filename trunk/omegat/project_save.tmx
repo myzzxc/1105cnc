@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both carriages may be configured with automatic tool changer carousels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130203Z" creationid="ccyu" creationdate="20131105T130203Z">
+        <seg>兩組刀皆可與自動換刀轉盤配合使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CNC System Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T114314Z" creationid="MAE" creationdate="20131105T092950Z">
@@ -70,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extended Gantry Length</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130223Z" creationid="ccyu" creationdate="20131105T130223Z">
+        <seg>延長支架長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faster and more flexible production isaseasy as choosing asingle, double oreven triple head carriage formultiple tasking operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124225Z" creationid="MAE" creationdate="20131105T093207Z">
         <seg>選擇單頭、雙頭甚至三頭刀架以進行多工操作，能更快速且更靈活的生產。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For larger applications requiring full process width ofasingle carriage, the second carriage can conveniently be parked atthe end ofthe gantry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130102Z" creationid="ccyu" creationdate="20131105T130102Z">
+        <seg>當用於需要全部支架範圍之大型工件時，第二刀架可停放於支架末端。</seg>
       </tuv>
     </tu>
     <tu>
