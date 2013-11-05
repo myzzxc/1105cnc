@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each carriage isindependently driven to maintain part accuracy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125832Z" creationid="ccyu" creationdate="20131105T125832Z">
+        <seg>每組刀架皆獨立驅動以保持精確度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faster and more flexible production isaseasy as choosing asingle, double oreven triple head carriage formultiple tasking operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124225Z" creationid="MAE" creationdate="20131105T093207Z">
