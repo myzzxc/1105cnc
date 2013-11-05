@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Atangential knife isacutting blade that follows the plot lines of ashape byincrementally rotating the blade to match the path.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153433Z" creationid="ccyu" creationdate="20131105T153433Z">
+        <seg>裁刀於切削時會配合切削路徑旋轉刀鋒，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic feed drills are fixture mounted tools that combine linear feed and rotation forall drilling operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151621Z" creationid="ccyu" creationdate="20131105T151449Z">
