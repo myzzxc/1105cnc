@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiple Carriages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125356Z" creationid="ccyu" creationdate="20131105T125356Z">
+        <seg>多刀架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiple Tools</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124634Z" creationid="MAE" creationdate="20131105T093201Z">
@@ -176,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>profile, trim and drill inaseamless sequence.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093210Z" creationid="MAE" creationdate="20131105T093210Z">
-        <seg>設定檔、 修剪和鑽 inaseamless 序列。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125123Z" creationid="MAE" creationdate="20131105T093210Z">
+        <seg>切削、修邊以及鑽孔無間斷地進行。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
