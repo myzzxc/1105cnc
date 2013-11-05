@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>Combined with an HSD quick release spindle, and using aseven ortwenty-one position automatic carousel, the ATC system isthe fastest method ofchanging tools on a regular basis and willdeliver adramatic improvement inthroughput capacity when processing multiple tool operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093200Z" creationid="MAE" creationdate="20131105T093200Z">
-        <seg>結合 HSD 快速釋放主軸上，並使用 aseven ortwenty 一個位置自動輪播，ATC 系統時經常的基礎和 willdeliver 擔改進 inthroughput 能力上的最快方法 ofchanging 工具處理多個操作的工具。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T123654Z" creationid="MAE" creationdate="20131105T093200Z">
+        <seg>結合 HSD 快速釋放主軸，並使用七或二十一段自動轉盤，ATC 系統為最快速的換刀系統並能藉由多工操作大幅改進產出能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>Multiple Tools</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093201Z" creationid="MAE" creationdate="20131105T093201Z">
-        <seg>多個工具</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T123716Z" creationid="MAE" creationdate="20131105T093201Z">
+        <seg>多工具</seg>
       </tuv>
     </tu>
     <tu>
