@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_2" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accuracy Options - These machine options will help you locate your material and tools for more accurate cut parts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092959Z" creationid="MAE" creationdate="20131105T092959Z">
+        <seg>準確性選項-這些機選項將説明您找到您的材料和工具，更準確地切除部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CNC System Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092950Z" creationid="MAE" creationdate="20131105T092950Z">
+        <seg>數控系統選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuration Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093008Z" creationid="MAE" creationdate="20131105T093008Z">
+        <seg>配置選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuration Options - These describe the different styles of gantry and tooling configurations that are currently available forAXYZ Systems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092954Z" creationid="MAE" creationdate="20131105T092954Z">
+        <seg>配置選項-這些描述龍門和模具是當前可用的 forAXYZ 系統的配置不同的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cutting Options - These are the primary cutting tools that are available, including routers, knives, drills and more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092955Z" creationid="MAE" creationdate="20131105T092955Z">
+        <seg>切割選項-這些是可用，包括路由器、 刀、 鑽頭和更多的主切削工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrated Solutions Delivering everything our Customers need</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093006Z" creationid="MAE" creationdate="20131105T093006Z">
+        <seg>集成的解決方案提供我們的客戶所需要的一切</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of these options apply to the AXYZ Series machine exclusively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093001Z" creationid="MAE" creationdate="20131105T093001Z">
+        <seg>大多數這些選項僅適用于 AXYZ 系列機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Others are available on the CAMTECH and PACER systems as well.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093003Z" creationid="MAE" creationdate="20131105T093003Z">
+        <seg>其他人是恒發和起搏器系統上可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secondary Options - These are typically accessories to make more efficient use of your CNC Router, including misters, swarf collection feet and more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092958Z" creationid="MAE" creationdate="20131105T092958Z">
+        <seg>輔助選項-這些通常是配件，使您的數控路由器，包括噴霧器、 切屑集合腳和更多更有效地使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speak toan AXYZ technical sales specialist to configure the machine to best suit your needs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093004Z" creationid="MAE" creationdate="20131105T093004Z">
+        <seg>發言 toan AXYZ 技術銷售專家來配置機器以最適合您的需要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The machine options have been divided into 5 sections:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092952Z" creationid="MAE" creationdate="20131105T092952Z">
+        <seg>機選項已經被分為 5 部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The option set that AXYZ International has developed over the last 20years iseasily the most diverse in the industry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092946Z" creationid="MAE" creationdate="20131105T092946Z">
+        <seg>選項設置 AXYZ 國際制定了在過去的 20 年 iseasily 最不同行業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through ongoing research and development, and close ties with our industry partners and vendors, AXYZ has been able to create a large set of machine options that add enormous value toour customers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092949Z" creationid="MAE" creationdate="20131105T092949Z">
+        <seg>正在進行的研究和發展，與我們的行業合作夥伴和供應商的密切聯繫，通過 AXYZ 已經能夠創建一大組的添加巨大價值做好客戶的機選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vacuum System Options - These options include vacuum hold down pumps and blowers, as well as swarf collection systems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093000Z" creationid="MAE" creationdate="20131105T093000Z">
+        <seg>真空系統選項-這些選項包括真空按住泵和風機，以及切屑收集系統。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
