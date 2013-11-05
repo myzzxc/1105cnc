@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drill heads are available ina5 tool Lshape ora9 tool Lshape.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151051Z" creationid="ccyu" creationdate="20131105T151051Z">
+        <seg>有 5 頭 L 形或 9 頭 L 形鑽頭可供選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each carriage isindependently driven to maintain part accuracy.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125832Z" creationid="ccyu" creationdate="20131105T125832Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T140000Z" creationid="ccyu" creationdate="20131105T140000Z">
         <seg>電漿切削</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pneumatic/Electric Drills</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151120Z" creationid="ccyu" creationdate="20131105T151120Z">
+        <seg>氣動/電鑽</seg>
       </tuv>
     </tu>
     <tu>
