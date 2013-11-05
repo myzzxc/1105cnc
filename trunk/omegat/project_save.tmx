@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cutting Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T133339Z" creationid="ccyu" creationdate="20131105T133339Z">
+        <seg>切削選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cutting Options - These are the primary cutting tools that are available, including routers, knives, drills and more.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T115923Z" creationid="MAE" creationdate="20131105T092955Z">
