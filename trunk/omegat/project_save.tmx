@@ -382,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The engraver equipped AXYZ Router table isagreat alternative forlarge format engraving.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145859Z" creationid="ccyu" creationdate="20131105T145707Z">
+        <seg>裝有雕刻器之 AXYZ 路達台為大型雕刻的良好選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The engraver isspecifically designed forlight duty engraving on an AXYZ Series orMillennium CNC Router.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145711Z" creationid="ccyu" creationdate="20131105T145313Z">
+        <seg>雕刻器為專門為了 AXYZ 系列或 Millennium CNC 雕刻機進行輕型所設計，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The helical pinions  would normally be driven bythe optional high performance servo motors through precision planetary gearboxes, resulting inavery rigid and powerful drive system suitable foruse in all high precision and demanding applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134400Z" creationid="ccyu" creationdate="20131105T133330Z">
@@ -450,6 +466,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134253Z" creationid="MAE" creationdate="20131105T093000Z">
         <seg>真空系統配件 - 包括真空吸附泵和風機，以及集屑系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With an industry proven 6.35mm top-loading spindle, it iswell suited totackle awide range of materials including plastics, aluminium, brass, and more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145628Z" creationid="ccyu" creationdate="20131105T145628Z">
+        <seg>使用業界認證的 6.35mm 上載式主軸，其適用於夾固多種材料如塑膠、鋁黃銅以及更多材料。</seg>
       </tuv>
     </tu>
     <tu>
