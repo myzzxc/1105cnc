@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>ATC - Automatic Tool Changer</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093156Z" creationid="MAE" creationdate="20131105T093156Z">
-        <seg>ATC-自動換刀裝置</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121615Z" creationid="MAE" creationdate="20131105T093156Z">
+        <seg>ATC - 自動換刀器</seg>
       </tuv>
     </tu>
     <tu>
@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>The AXYZ 7G and 21G automatic tool changer systems provide an easy and convenient method ofrunning jobsrequiring multiple routing tools.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093158Z" creationid="MAE" creationdate="20131105T093158Z">
-        <seg>AXYZ 7 G 和 21 G 自動工具更換器系統提供方便快捷的方法 ofrunning jobsrequiring 多個路由工具。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T122059Z" creationid="MAE" creationdate="20131105T093158Z">
+        <seg>AXYZ 7G 和 21G 自動換刀系統提供運行多路徑工作方便快捷的方法。</seg>
       </tuv>
     </tu>
     <tu>
