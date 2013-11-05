@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With asimple yetpowerful pneumatic quick release feature, these spindles can be operated manually orinconjunction with ourATC automatic tool changer carousel forautomatic changing oftool bits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134914Z" creationid="ccyu" creationdate="20131105T134812Z">
+        <seg>藉由簡單強大的氣動快速釋放裝置，主軸可以手動操作或結合 ATC 自動換刀轉盤進行自動換刀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and quieter running.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132919Z" creationid="ccyu" creationdate="20131105T132919Z">
