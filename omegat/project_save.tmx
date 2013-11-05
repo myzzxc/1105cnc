@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This method provides forstraight cut corners atany angle aswell astrue radii when called for.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153651Z" creationid="ccyu" creationdate="20131105T153651Z">
+        <seg>此方法能提供邊角直線切割同時能依要求半徑導角。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This tooling configuration is popular forapplications that typically require only two orthree tooling processes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124520Z" creationid="MAE" creationdate="20131105T093208Z">
