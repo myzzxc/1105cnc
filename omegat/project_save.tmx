@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collet Spindles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134958Z" creationid="ccyu" creationdate="20131105T134958Z">
+        <seg>筒夾主軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combined with an HSD quick release spindle, and using aseven ortwenty-one position automatic carousel, the ATC system isthe fastest method ofchanging tools on a regular basis and willdeliver adramatic improvement inthroughput capacity when processing multiple tool operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125527Z" creationid="MAE" creationdate="20131105T093200Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121226Z" creationid="MAE" creationdate="20131105T093003Z">
         <seg>其他可用於 CAMTECH 和 PACER 系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our Elte line of collet and covernut spindles is precision balanced forfast, clean cutting and ultra-quiet operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T135526Z" creationid="ccyu" creationdate="20131105T135526Z">
+        <seg>我們 Elte 產品線的筒夾和帽套主軸能提供快速、乾淨切削以及超靜音操作的平衡。</seg>
       </tuv>
     </tu>
     <tu>
