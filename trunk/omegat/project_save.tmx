@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tangential knife is arobust knife cutting tool intended forheavier, thicker and harder materials than atraditional drag knife can accommodate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153222Z" creationid="ccyu" creationdate="20131105T153222Z">
+        <seg>裁刀為耐用的切削刀具，用於傳統拖刀無法處理之較厚重以及較硬的材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This tooling configuration is popular forapplications that typically require only two orthree tooling processes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124520Z" creationid="MAE" creationdate="20131105T093208Z">
