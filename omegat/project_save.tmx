@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>Extended gantries can also be utilised forcustom culling solutions where "off-the-table" material processing is required.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130842Z" creationid="ccyu" creationdate="20131105T130842Z">
-        <seg>延長支架同時可使用於“非常規”之客製化製程。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132841Z" creationid="ccyu" creationdate="20131105T130842Z">
+        <seg>延長支架同時可使用於“非常規”之客製化換刀行程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,8 +280,8 @@
       <tuv lang="EN-US">
         <seg>The helical rack and pinion system is designed to provide superior high speed performance delivering greater accuracy, smoother culling</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132513Z" creationid="ccyu" creationdate="20131105T132513Z">
-        <seg>斜齒條和齒輪系統旨在提供優良的高速性能提供更準確、 更順暢撲殺</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132853Z" creationid="ccyu" creationdate="20131105T132513Z">
+        <seg>螺旋齒條和齒輪系統之設計能提供優越的高速性能並提供更準確、更順暢的換刀</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +338,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T120930Z" creationid="MAE" creationdate="20131105T093000Z">
         <seg>真空系統選項 - 包括真空吸附泵和風機，以及集屑系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and quieter running.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132919Z" creationid="ccyu" creationdate="20131105T132919Z">
+        <seg>以及更安靜的運行。</seg>
       </tuv>
     </tu>
     <tu>
