@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quick Release Spindles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134437Z" creationid="ccyu" creationdate="20131105T134437Z">
+        <seg>快速釋放主軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rout.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124849Z" creationid="MAE" creationdate="20131105T093209Z">
@@ -278,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 5.0HP and 10.8 HP HSD quick release spindles are incredibly quiet and robust.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134547Z" creationid="ccyu" creationdate="20131105T134547Z">
+        <seg>5.0HP 和 10.8 HP HSD 快速釋放主軸極為安靜和耐用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The AXYZ 7G and 21G automatic tool changer systems provide an easy and convenient method ofrunning jobsrequiring multiple routing tools.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T122059Z" creationid="MAE" creationdate="20131105T093158Z">
@@ -288,8 +304,8 @@
       <tuv lang="EN-US">
         <seg>The helical pinions  would normally be driven bythe optional high performance servo motors through precision planetary gearboxes, resulting inavery rigid and powerful drive system suitable foruse in all high precision and demanding applications.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T133330Z" creationid="ccyu" creationdate="20131105T133330Z">
-        <seg>螺旋齒條和齒輪由高性能的伺服馬達透過行星齒輪變速箱驅動，可為高精密和高品質要求之應用提供穩定且強大的驅動系統</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134400Z" creationid="ccyu" creationdate="20131105T133330Z">
+        <seg>螺旋齒條和齒輪可由高性能的選配伺服馬達透過行星齒輪變速箱驅動，可為高精密和高品質要求之應用提供穩定且強大的驅動系統</seg>
       </tuv>
     </tu>
     <tu>
