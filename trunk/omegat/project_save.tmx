@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>Combined with an HSD quick release spindle, and using aseven ortwenty-one position automatic carousel, the ATC system isthe fastest method ofchanging tools on a regular basis and willdeliver adramatic improvement inthroughput capacity when processing multiple tool operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T123839Z" creationid="MAE" creationdate="20131105T093200Z">
-        <seg>結合 HSD 快速釋放主軸，並使用七或二十一段自動轉盤，ATC 系統為最快速的換刀系統並能藉由多工具操作大幅改進產出能力。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124653Z" creationid="MAE" creationdate="20131105T093200Z">
+        <seg>結合 HSD 快速釋放主軸，並使用七或二十一段自動轉盤，ATC 系統為最快速的換刀系統並能藉由多刀具操作大幅改進產出能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>Multiple Tools</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T123716Z" creationid="MAE" creationdate="20131105T093201Z">
-        <seg>多工具</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124634Z" creationid="MAE" creationdate="20131105T093201Z">
+        <seg>多刀具</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>This tooling configuration is popular forapplications that typically require only two orthree tooling processes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T093208Z" creationid="MAE" creationdate="20131105T093208Z">
-        <seg>這種模具配置是通常要求只有兩個兩三家工裝過程的流行 forapplications。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124520Z" creationid="MAE" creationdate="20131105T093208Z">
+        <seg>此加工組態常用於一般僅使用兩刀或三刀之加工製程。</seg>
       </tuv>
     </tu>
     <tu>
