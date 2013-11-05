@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multi-Spindle Drilling Head</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T150050Z" creationid="ccyu" creationdate="20131105T150050Z">
+        <seg>多軸鑽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiple Carriages</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125512Z" creationid="ccyu" creationdate="20131105T125356Z">
@@ -384,8 +392,8 @@
       <tuv lang="EN-US">
         <seg>The engraver equipped AXYZ Router table isagreat alternative forlarge format engraving.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145859Z" creationid="ccyu" creationdate="20131105T145707Z">
-        <seg>裝有雕刻器之 AXYZ 路達台為大型雕刻的良好選擇。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145948Z" creationid="ccyu" creationdate="20131105T145707Z">
+        <seg>裝有雕刻器之 AXYZ 路達台為大型雕刻的良好選擇，</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134914Z" creationid="ccyu" creationdate="20131105T134812Z">
         <seg>藉由簡單強大的氣動快速釋放裝置，主軸可以手動操作或結合 ATC 自動換刀轉盤進行自動換刀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With four mounting bolts and aquick power disconnect plug, it is very easy toinstall and uninstall from the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T150040Z" creationid="ccyu" creationdate="20131105T145946Z">
+        <seg>其包含四個安裝螺栓和快速電源插頭，非常容易從路達台上裝卸。</seg>
       </tuv>
     </tu>
     <tu>
