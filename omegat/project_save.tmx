@@ -48,16 +48,16 @@
       <tuv lang="EN-US">
         <seg>Configuration Options - These describe the different styles of gantry and tooling configurations that are currently available forAXYZ Systems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092954Z" creationid="MAE" creationdate="20131105T092954Z">
-        <seg>配置選項-這些描述龍門和模具是當前可用的 forAXYZ 系統的配置不同的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T114948Z" creationid="MAE" creationdate="20131105T092954Z">
+        <seg>組態選項 - 為 AXYZ 系統目前所生產之不同樣式的支架與加工組態。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cutting Options - These are the primary cutting tools that are available, including routers, knives, drills and more.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092955Z" creationid="MAE" creationdate="20131105T092955Z">
-        <seg>切割選項-這些是可用，包括路由器、 刀、 鑽頭和更多的主切削工具。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T114943Z" creationid="MAE" creationdate="20131105T092955Z">
+        <seg>切削選項 - 是可用，包括路由器、 刀、 鑽頭和更多的主切削工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>The machine options have been divided into 5 sections:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131105T092952Z" creationid="MAE" creationdate="20131105T092952Z">
-        <seg>機選項已經被分為 5 部分：</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T114440Z" creationid="MAE" creationdate="20131105T092952Z">
+        <seg>機台選項可分為五個部分：</seg>
       </tuv>
     </tu>
     <tu>
