@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An integrated fume extraction grid is also available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145053Z" creationid="ccyu" creationdate="20131105T145053Z">
+        <seg>另有整合式抽氣網可供使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available in3, 5 and 10HP models, and operating atmaximum speeds of18,000 (3 HP) and 24,000 rpm (5and 10 HP) with high-speed ceramic angular contact bearings, their excellent design provides years of trouble free use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T135951Z" creationid="ccyu" creationdate="20131105T135951Z">
@@ -126,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Engraver</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145107Z" creationid="ccyu" creationdate="20131105T145107Z">
+        <seg>雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extended Gantry Height</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131244Z" creationid="ccyu" creationdate="20131105T131244Z">
@@ -202,6 +218,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132529Z" creationid="ccyu" creationdate="20131105T132443Z">
         <seg>螺旋齒條</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes torch, power supply and torch height control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144957Z" creationid="ccyu" creationdate="20131105T144957Z">
+        <seg>包含了電漿炬、電源供應器和電漿炬高度控制。</seg>
       </tuv>
     </tu>
     <tu>
