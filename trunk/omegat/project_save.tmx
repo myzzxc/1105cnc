@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extended gantries can also be utilised forcustom culling solutions where "off-the-table" material processing is required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130842Z" creationid="ccyu" creationdate="20131105T130842Z">
+        <seg>延長支架同時可使用於“非常規”之客製化製程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extended gantry lengths allow forfull processing width when utilising wider carriages that accommodate multiple tools orwhen using multiple carriages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130543Z" creationid="ccyu" creationdate="20131105T130503Z">
@@ -134,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiple Gantries</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130853Z" creationid="ccyu" creationdate="20131105T130853Z">
+        <seg>多重支架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiple Tools</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125520Z" creationid="MAE" creationdate="20131105T093201Z">
         <seg>多重刀具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple gantries on asingle machine bed offer the user flexibility inmachine use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131000Z" creationid="ccyu" creationdate="20131105T131000Z">
+        <seg>使用多重支架於單一機床上可使機台運用更為彈性。</seg>
       </tuv>
     </tu>
     <tu>
