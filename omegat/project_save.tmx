@@ -54,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic feed drills can be added to almost any carriage configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T152240Z" creationid="ccyu" creationdate="20131105T152240Z">
+        <seg>自動進給鑽頭可添加至幾乎任何刀架組態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available in3, 5 and 10HP models, and operating atmaximum speeds of18,000 (3 HP) and 24,000 rpm (5and 10 HP) with high-speed ceramic angular contact bearings, their excellent design provides years of trouble free use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T135951Z" creationid="ccyu" creationdate="20131105T135951Z">
         <seg>可用於 3、5 以及 10HP 型，使用高速陶瓷斜角軸承最大速度為 18,000 (3 HP) 和 24,000 rpm (5and 10 HP) ，其優異的設計提供了長久的耐用性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available with pneumatic feed and either pneumatic orelectric rotation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T152042Z" creationid="ccyu" creationdate="20131105T151904Z">
+        <seg>可使用氣動進給和氣動或電動旋轉，</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134110Z" creationid="MAE" creationdate="20131105T092946Z">
         <seg>AXYZ 國際在過去的 20 年所開發配件組合為業界最多元化的組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pneumatic I electric combination is  best forheavier duty orcontinuous use applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T152039Z" creationid="ccyu" creationdate="20131105T152039Z">
+        <seg>氣動/電動組合最適合於高負荷或連續使用之應用。</seg>
       </tuv>
     </tu>
     <tu>
