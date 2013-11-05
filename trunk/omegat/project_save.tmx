@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multi Purpose Tangential Knife</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T152858Z" creationid="ccyu" creationdate="20131105T152858Z">
+        <seg>多用途裁刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi-Spindle Drilling Head</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T150050Z" creationid="ccyu" creationdate="20131105T150050Z">
