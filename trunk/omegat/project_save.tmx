@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>Accuracy Options - These machine options will help you locate your material and tools for more accurate cut parts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T120645Z" creationid="MAE" creationdate="20131105T092959Z">
-        <seg>準確性選項 - 幫助材料及工具定位的選項，以更準確地切削。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134245Z" creationid="MAE" creationdate="20131105T092959Z">
+        <seg>準確性配件 - 幫助材料及工具定位的配件，以更準確地切削。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>CNC System Options</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T114314Z" creationid="MAE" creationdate="20131105T092950Z">
-        <seg>CNC 系統選項</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134149Z" creationid="MAE" creationdate="20131105T092950Z">
+        <seg>CNC 系統配件</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,16 +56,16 @@
       <tuv lang="EN-US">
         <seg>Configuration Options</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121604Z" creationid="MAE" creationdate="20131105T093008Z">
-        <seg>組態選項</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134301Z" creationid="MAE" creationdate="20131105T093008Z">
+        <seg>組態配件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Configuration Options - These describe the different styles of gantry and tooling configurations that are currently available forAXYZ Systems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T115950Z" creationid="MAE" creationdate="20131105T092954Z">
-        <seg>組態選項 - AXYZ 系統目前可用之不同樣式的支架與加工組態。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134157Z" creationid="MAE" creationdate="20131105T092954Z">
+        <seg>組態配件 - AXYZ 系統目前可用之不同樣式的支架與加工組態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>Cutting Options - These are the primary cutting tools that are available, including routers, knives, drills and more.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T115923Z" creationid="MAE" creationdate="20131105T092955Z">
-        <seg>切削選項 - 可用的主要切削工具，包括路達、刀具、鑽頭和更多的切削工具。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134218Z" creationid="MAE" creationdate="20131105T092955Z">
+        <seg>切削配件 - 可用的主要切削工具，包括路達、刀具、鑽頭和更多的切削工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>Most of these options apply to the AXYZ Series machine exclusively.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121033Z" creationid="MAE" creationdate="20131105T093001Z">
-        <seg>以上選項多數為 AXYZ 系列機台獨有。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134257Z" creationid="MAE" creationdate="20131105T093001Z">
+        <seg>以上配件多數為 AXYZ 系列機台獨有。</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,8 +256,8 @@
       <tuv lang="EN-US">
         <seg>Secondary Options - These are typically accessories to make more efficient use of your CNC Router, including misters, swarf collection feet and more.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T120914Z" creationid="MAE" creationdate="20131105T092958Z">
-        <seg>輔助選項 - 幫助用戶更有效率地使用 CNC 雕刻機之配件，包括冷卻噴嘴、集屑器腳座和更多的配件。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134234Z" creationid="MAE" creationdate="20131105T092958Z">
+        <seg>輔助配件 - 幫助用戶更有效率地使用 CNC 雕刻機之配件，包括冷卻噴嘴、集屑器腳座和更多的配件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,16 +304,16 @@
       <tuv lang="EN-US">
         <seg>The machine options have been divided into 5 sections:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T114440Z" creationid="MAE" creationdate="20131105T092952Z">
-        <seg>機台選項可分為五個部分：</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z" creationid="MAE" creationdate="20131105T092952Z">
+        <seg>機台配件可分為五個部分：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The option set that AXYZ International has developed over the last 20years iseasily the most diverse in the industry.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T114349Z" creationid="MAE" creationdate="20131105T092946Z">
-        <seg>AXYZ 國際在過去的 20 年所開發選項組合為業界最多元化的組合。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134110Z" creationid="MAE" creationdate="20131105T092946Z">
+        <seg>AXYZ 國際在過去的 20 年所開發配件組合為業界最多元化的組合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,8 +336,8 @@
       <tuv lang="EN-US">
         <seg>Through ongoing research and development, and close ties with our industry partners and vendors, AXYZ has been able to create a large set of machine options that add enormous value toour customers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T114413Z" creationid="MAE" creationdate="20131105T092949Z">
-        <seg>藉由不斷進行研發，並與業界合作夥伴和供應商的密切合作，AXYZ 有能力生產為我們客戶帶來極大價值之大型機台組合。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134144Z" creationid="MAE" creationdate="20131105T092949Z">
+        <seg>藉由不斷進行研發，並與業界合作夥伴和供應商的密切合作，AXYZ 有能力生產為我們客戶帶來極大價值之大型機台配件組合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="EN-US">
         <seg>Vacuum System Options - These options include vacuum hold down pumps and blowers, as well as swarf collection systems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T120930Z" creationid="MAE" creationdate="20131105T093000Z">
-        <seg>真空系統選項 - 包括真空吸附泵和風機，以及集屑系統。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134253Z" creationid="MAE" creationdate="20131105T093000Z">
+        <seg>真空系統配件 - 包括真空吸附泵和風機，以及集屑系統。</seg>
       </tuv>
     </tu>
     <tu>
