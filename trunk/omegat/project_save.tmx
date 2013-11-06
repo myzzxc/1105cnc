@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High Quality Extended Versitility Workhorse System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T142301Z" creationid="ccyu" creationdate="20131106T142301Z">
+        <seg>高品質多功能加工系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Includes torch, power supply and torch height control.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144957Z" creationid="ccyu" creationdate="20131105T144957Z">
