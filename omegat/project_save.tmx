@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>For cutting non-ferrous metals including aluminium, brass and copper, the Unist mister operates with more precision and reliability than any other dispensing system available.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052401Z" creationid="MAE" creationdate="20131106T052401Z">
-        <seg>當切削非鐵金屬如鋁、黃銅以及銅，Unist 冷卻噴嘴操作比起其他噴嘴系統更精準且更可靠。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053401Z" creationid="MAE" creationdate="20131106T052401Z">
+        <seg>當切削非鐵金屬如鋁、黃銅以及銅，Unist 切削液噴嘴操作比起其他噴嘴系統更精準且更可靠。</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="EN-US">
         <seg>Secondary Options - These are typically accessories to make more efficient use of your CNC Router, including misters, swarf collection feet and more.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134234Z" creationid="MAE" creationdate="20131105T092958Z">
-        <seg>輔助配件 - 幫助用戶更有效率地使用 CNC 雕刻機之配件，包括冷卻噴嘴、集屑器腳座和更多的配件。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053347Z" creationid="MAE" creationdate="20131105T092958Z">
+        <seg>輔助配件 - 幫助用戶更有效率地使用 CNC 雕刻機之配件，包括切削液噴嘴、集屑器腳座和更多的配件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +800,16 @@
       <tuv lang="EN-US">
         <seg>Unist Mister</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052111Z" creationid="MAE" creationdate="20131106T052111Z">
-        <seg>Unist 冷卻噴嘴</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053320Z" creationid="MAE" creationdate="20131106T052111Z">
+        <seg>Unist 切削液噴嘴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use forscanning hand made or old parts forwhich CAD data is not available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053219Z" creationid="MAE" creationdate="20131106T053219Z">
+        <seg>用於手工製作零件或無 CAD 資料之老舊零件掃描。</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031727Z" creationid="MAE" creationdate="20131106T031727Z">
         <seg>塑膠刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vortex Cold Guns</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053245Z" creationid="MAE" creationdate="20131106T053245Z">
+        <seg>渦流冷卻槍</seg>
       </tuv>
     </tu>
     <tu>
