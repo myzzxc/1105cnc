@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Used primarily for large format vinyl cutting, cutting paper mask onacrylic sheets for painting, and forcutting paint grip with standard vinyl cutting blades and blade holder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T032732Z" creationid="MAE" creationdate="20131106T032732Z">
+        <seg>主要用於大型塑膠工件切割、切割壓克力噴漆樣版以及切割膠漆塗料，使用標準塑膠切割刀具與刀架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vacuum System Options - These options include vacuum hold down pumps and blowers, as well as swarf collection systems.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134253Z" creationid="MAE" creationdate="20131105T093000Z">
