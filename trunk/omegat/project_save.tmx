@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pneumatic Switching</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071856Z" creationid="MAE" creationdate="20131106T071856Z">
+        <seg>氣動開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pneumatic/Electric Drills</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151120Z" creationid="ccyu" creationdate="20131105T151120Z">
@@ -728,8 +736,8 @@
       <tuv lang="EN-US">
         <seg>The ACM swarf collection system isa high pressure swarf collector that is configured forthe efficient collection of aluminium, aluminium composite, wood and plastic swarf.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071700Z" creationid="MAE" creationdate="20131106T071700Z">
-        <seg>ACM 集屑系統為一種高壓集屑器，可用於swarf collection system isa high pressure swarf collector that is configured forthe efficient collection of aluminium, aluminium composite, wood and plastic swarf.</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071838Z" creationid="MAE" creationdate="20131106T071700Z">
+        <seg>ACM 集屑系統為一種高壓集屑器，可有效收集鋁、鋁合金、木製品以及塑膠切屑。</seg>
       </tuv>
     </tu>
     <tu>
