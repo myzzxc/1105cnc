@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-vacuum zone switching is an innovative solution that allows the routers vacuum hold down to be automatically switched over depending on which zone the tool isoperating in.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072625Z" creationid="MAE" creationdate="20131106T072619Z">
+        <seg>自動真空區切換為創新性解決方案，允許路達自動切換真空抽氣至刀具操作區域，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic feed drills are fixture mounted tools that combine linear feed and rotation forall drilling operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151621Z" creationid="ccyu" creationdate="20131105T151449Z">
