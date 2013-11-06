@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Carso software is included with the scanner which can edit the data before automatically creating the machining path forthe router to follow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053102Z" creationid="MAE" creationdate="20131106T053102Z">
+        <seg>掃描器包含先進的 Carso 軟體，可於自動建立加工路徑前編輯數據。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aluminium gantries provide an ideal balance of strength to mass formost cutting applications however forsituations that benefit from the greater mass of asteel gantry, our heavy duty steel gantries are available forany AXYZ Series machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132322Z" creationid="ccyu" creationdate="20131105T132322Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125832Z" creationid="ccyu" creationdate="20131105T125832Z">
         <seg>每組刀架皆獨立驅動以保持精確度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Easily mounts to the AXYZ machine to scan the surface of awork piece.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052909Z" creationid="MAE" creationdate="20131106T052909Z">
+        <seg>能簡便地安裝於 AXYZ 機台上以進行工件表面掃描。</seg>
       </tuv>
     </tu>
     <tu>
