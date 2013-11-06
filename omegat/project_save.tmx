@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regenerative Blower for Vacuum Hold Down</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070621Z" creationid="MAE" creationdate="20131106T070621Z">
+        <seg>真空抽氣使用之再生式鼓風機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rout.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124849Z" creationid="MAE" creationdate="20131105T093209Z">
@@ -690,6 +698,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054138Z" creationid="MAE" creationdate="20131106T054138Z">
         <seg>5Y 壓力腳與高容量壓力腳為同要重要的配件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The 8.5HP regenerative blower option isa low cost solution forvacuum hold down where the required cutparts are a minimum of1250 sq cm insize.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070833Z" creationid="MAE" creationdate="20131106T070643Z">
+        <seg>8.5HP 再生式鼓風機為低價的真空抽氣解決方案，適用於尺寸 1250 平方公分以上工件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vacuum Arm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070850Z" creationid="MAE" creationdate="20131106T070850Z">
+        <seg>真空臂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vacuum System Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T060643Z" creationid="MAE" creationdate="20131106T060643Z">
@@ -992,8 +1016,8 @@
       <tuv lang="EN-US">
         <seg>Vacuum System Options - These options include vacuum hold down pumps and blowers, as well as swarf collection systems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065141Z" creationid="MAE" creationdate="20131105T093000Z">
-        <seg>真空系統配件 - 包括真空抽氣泵和風機，以及集屑系統。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070637Z" creationid="MAE" creationdate="20131105T093000Z">
+        <seg>真空系統配件 - 包括真空抽氣泵和鼓風機，以及集屑系統。</seg>
       </tuv>
     </tu>
     <tu>
