@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 6000 Series offers a full 2159mm of processing width standard to ensure your materials willfit without culling them down.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T140635Z" creationid="ccyu" creationdate="20131106T140635Z">
+        <seg>6000 系列能處理工件寬度達 2159mm 以確保能完全容納您的材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 8.5HP regenerative blower option isa low cost solution forvacuum hold down where the required cutparts are a minimum of1250 sq cm insize.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070833Z" creationid="MAE" creationdate="20131106T070643Z">
