@@ -912,8 +912,8 @@
       <tuv lang="EN-US">
         <seg>Vacuum System Options - These options include vacuum hold down pumps and blowers, as well as swarf collection systems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134253Z" creationid="MAE" creationdate="20131105T093000Z">
-        <seg>真空系統配件 - 包括真空吸附泵和風機，以及集屑系統。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T060655Z" creationid="MAE" creationdate="20131105T093000Z">
+        <seg>真空系統配件 - 包括真空減壓泵和風機，以及集屑系統。</seg>
       </tuv>
     </tu>
     <tu>
