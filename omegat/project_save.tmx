@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>5 HP systems are also available forsmaller machine applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065645Z" creationid="MAE" creationdate="20131106T065645Z">
+        <seg>同時也有 5 HP 系統供小型機台應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A high performance camera mounted on the head of the machine, the power behind the AVS lies initssoftware which is fully integrated within the new AXYZ A2MC machine control system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034800Z" creationid="MAE" creationdate="20131106T034800Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034022Z" creationid="MAE" creationdate="20131106T034022Z">
         <seg>適用標準 20mm 夾頭，可用於所有 5 HP 和 10 HP 主軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mink Rotary Claw Pump</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065853Z" creationid="MAE" creationdate="20131106T065853Z">
+        <seg>Mink 爪式轉子泵</seg>
       </tuv>
     </tu>
     <tu>
