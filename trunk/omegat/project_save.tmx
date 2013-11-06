@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Becker Dry Vane Vacuum Hold Down Pump</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T064920Z" creationid="MAE" creationdate="20131106T064920Z">
+        <seg>Becker 乾式葉片真空減壓泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both carriages may be configured with automatic tool changer carousels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130203Z" creationid="ccyu" creationdate="20131105T130203Z">
