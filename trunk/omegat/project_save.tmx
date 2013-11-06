@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACM Swarf Collection System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071540Z" creationid="MAE" creationdate="20131106T071540Z">
+        <seg>ACM 集屑系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATC - Automatic Tool Changer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121615Z" creationid="MAE" creationdate="20131105T093156Z">
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070833Z" creationid="MAE" creationdate="20131106T070643Z">
         <seg>8.5HP 再生式鼓風機為低價的真空抽氣解決方案，適用於尺寸 1250 平方公分以上工件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ACM swarf collection system isa high pressure swarf collector that is configured forthe efficient collection of aluminium, aluminium composite, wood and plastic swarf.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071700Z" creationid="MAE" creationdate="20131106T071700Z">
+        <seg>ACM 集屑系統為一種高壓集屑器，可用於swarf collection system isa high pressure swarf collector that is configured forthe efficient collection of aluminium, aluminium composite, wood and plastic swarf.</seg>
       </tuv>
     </tu>
     <tu>
