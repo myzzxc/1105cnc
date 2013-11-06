@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pop-up Pins are the most reliable method of ensuring your materials  are on straight; and with the fullpneumatic retraction, there is nofear of any cutting tool collision with the pin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T045858Z" creationid="MAE" creationdate="20131106T045858Z">
+        <seg>彈出銷為確保材料於一直線上最可靠的方法；且使用氣動收縮可避免刀具與彈出銷碰撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pop-up location Pins</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T045349Z" creationid="MAE" creationdate="20131106T045349Z">
@@ -754,6 +762,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131604Z" creationid="ccyu" creationdate="20131105T131604Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>laser Digitiser</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050010Z" creationid="MAE" creationdate="20131106T050010Z">
+        <seg>雷射數位轉換器</seg>
       </tuv>
     </tu>
     <tu>
