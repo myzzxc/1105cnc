@@ -360,8 +360,8 @@
       <tuv lang="EN-US">
         <seg>Oscillating Knife</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T030037Z" creationid="MAE" creationdate="20131106T030037Z">
-        <seg>振動刀</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T030457Z" creationid="MAE" creationdate="20131106T030037Z">
+        <seg>擺動刀</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +466,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T122059Z" creationid="MAE" creationdate="20131105T093158Z">
         <seg>AXYZ 7G 和 21G 自動換刀系統提供運行多路徑工作方便快捷的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The AXYZ oscillating tangential knife option isan important tool forany company that needs to process thin flexible materials including foam core, gator foam, corrugated plastic orcardboard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T030451Z" creationid="MAE" creationdate="20131106T030416Z">
+        <seg>AXYZ 擺動裁刀配件為加工輕薄彈性材料之重要刀具，可需要處理薄柔性材料包括泡沫核心，鱷魚泡沫、 波紋塑膠 orcardboard。</seg>
       </tuv>
     </tu>
     <tu>
