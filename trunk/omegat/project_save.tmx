@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Processing materials up to 1842mm wide, the 5000 Series can accommodate full sheets of most common substrates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T135459Z" creationid="ccyu" creationdate="20131106T135459Z">
+        <seg>可加工材料寬度達 1842mm ，5000 系列可完全容納多數常見基板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Providing 175 CFM, the Becker 10HP  is aquiet and reliable source forvacuum hold down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065258Z" creationid="MAE" creationdate="20131106T065258Z">
@@ -894,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 4000 Series machine is popular in the commercial sign, woodworking, marine, POP, and education industries for iI's fit with many common materials, and overall footprint.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T135150Z" creationid="ccyu" creationdate="20131106T135150Z">
+        <seg>4000 系列機台廣泛用於廣告看板、木工、船舶、POP 以及教育產業, 其適用於多數常見材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 5.0HP and 10.8 HP HSD quick release spindles are incredibly quiet and robust.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134547Z" creationid="ccyu" creationdate="20131105T134547Z">
@@ -930,6 +946,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T130335Z" creationid="ccyu" creationdate="20131106T130335Z">
         <seg>AXYZ 4000 系列 CNC 雕刻機為 AXYZ 所製造最小的全尺寸機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The AXYZ 5000 Series CNC Router is our most popular size format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T135255Z" creationid="ccyu" creationdate="20131106T135255Z">
+        <seg>AXYZ 5000 系列 CNC 雕刻機為 AXYZ 最受歡迎的機台尺寸。</seg>
       </tuv>
     </tu>
     <tu>
