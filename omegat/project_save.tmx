@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Series ---</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T130143Z" creationid="ccyu" creationdate="20131106T130143Z">
+        <seg>系列 ---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Series System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081357Z" creationid="MAE" creationdate="20131106T081357Z">
@@ -1298,6 +1306,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T154855Z" creationid="ccyu" creationdate="20131105T145946Z">
         <seg>其包含四個安裝螺栓和快速電源插頭，非常容易從路達桌上裝卸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With more than 20 years of experience and thousands of CNC Routers installed and operating every day, AXYZ prides itself on manufacturing and selling robust, durable, and easy to use CNC Routers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T130123Z" creationid="ccyu" creationdate="20131106T130123Z">
+        <seg>擁有超過  20 年的經驗且已安裝數千台 CNC 雕刻機，AXYZ 有自信製造及銷售強大、耐用且使用簡便的 CNC 雕刻機。</seg>
       </tuv>
     </tu>
     <tu>
