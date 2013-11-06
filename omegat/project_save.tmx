@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Zone Switching</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072408Z" creationid="MAE" creationdate="20131106T072408Z">
+        <seg>自動區域切換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic feed drills are fixture mounted tools that combine linear feed and rotation forall drilling operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151621Z" creationid="ccyu" creationdate="20131105T151449Z">
@@ -582,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pneumatic vacuum valves are an option that easily allows the opening and closing of vacuum zones on your CNC Router, without repeatedly turning the ball valves on and off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072152Z" creationid="MAE" creationdate="20131106T072152Z">
+        <seg>使用氣動真空閥可方便地切換 CNC 雕刻機上的真空區，無須重複開關球形閥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pneumatic/Electric Drills</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151120Z" creationid="ccyu" creationdate="20131105T151120Z">
@@ -674,6 +690,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053347Z" creationid="MAE" creationdate="20131105T092958Z">
         <seg>輔助配件 - 幫助用戶更有效率地使用 CNC 雕刻機之配件，包括切削液噴嘴、集屑器腳座和更多的配件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple pneumatic toggle switches open and close the vacuum hold down zones.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072303Z" creationid="MAE" creationdate="20131106T072303Z">
+        <seg>簡單氣動切換開關可打開和關閉真空抽氣區域，</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +922,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T152039Z" creationid="ccyu" creationdate="20131105T152039Z">
         <seg>氣動/電動組合最適合於高負荷或連續使用之應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pneumatic switches are standard with auto zone switching systems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072359Z" creationid="MAE" creationdate="20131106T072359Z">
+        <seg>標準氣動開關包含自動區域切換系統。</seg>
       </tuv>
     </tu>
     <tu>
