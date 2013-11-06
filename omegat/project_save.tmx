@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ 5000 Series machines are commonly found in businesses that specialise in plastic fabrication, aluminium composite fabrication, signmaking, woodworking, solid surface fabrication, POP fabrication and more and are often configured with multiple spindles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T140102Z" creationid="ccyu" creationdate="20131106T140102Z">
+        <seg>AXYZ 5000 系列機台常被塑膠加工、鋁合金加工、看板製作、木工、硬質表面加工、POP 加工產業以及更多須使用多軸加工的產業使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ CNC Routers have the widest range of machine options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081447Z" creationid="MAE" creationdate="20131106T081447Z">
