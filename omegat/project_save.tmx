@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scantech Surface Scanner</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052638Z" creationid="MAE" creationdate="20131106T052638Z">
+        <seg>Scantech 表面掃描器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Secondary Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050449Z" creationid="MAE" creationdate="20131106T050449Z">
@@ -694,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result isacontinuous output of a microfine lubricant mist providing better cut finish and longer tool bitlife.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052613Z" creationid="MAE" creationdate="20131106T052613Z">
+        <seg>其連續噴出之微潤滑油霧提供更好的切削表面和更長的刀具壽命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The standard gantry clearance is150mm for all AXYZ Series machines.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131325Z" creationid="ccyu" creationdate="20131105T131325Z">
@@ -738,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124520Z" creationid="MAE" creationdate="20131105T093208Z">
         <seg>此加工組態常用於一般僅使用兩刀或三刀之加工製程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Three dimensional laser scanner forreverse engineering a 3D surface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052758Z" creationid="MAE" creationdate="20131106T052758Z">
+        <seg>用於三維表面逆向工程之三維雷射掃描器。</seg>
       </tuv>
     </tu>
     <tu>
