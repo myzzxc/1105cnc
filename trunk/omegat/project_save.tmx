@@ -352,8 +352,8 @@
       <tuv lang="EN-US">
         <seg>Intergrated pressure foot with adjustable tension tohold down materials under heavy cutpressures.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034348Z" creationid="MAE" creationdate="20131106T034348Z">
-        <seg>整合式可調張力壓力支腳能於切割時的高壓下固定材料。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050704Z" creationid="MAE" creationdate="20131106T034348Z">
+        <seg>整合式可調張力壓力腳能於切割時的高壓下固定材料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +626,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132853Z" creationid="ccyu" creationdate="20131105T132513Z">
         <seg>螺旋齒條和齒輪系統之設計能提供優越的高速性能並提供更準確、更順暢的換刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The high capacity swarf extraction foot isavital component ofyour AXYZ International CNC Router machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050811Z" creationid="MAE" creationdate="20131106T050811Z">
+        <seg>高容量集屑腳為 AXYZ 國際雕刻機台的重要的元件，</seg>
       </tuv>
     </tu>
     <tu>
