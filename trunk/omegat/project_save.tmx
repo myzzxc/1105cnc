@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For larger hold down requirements, multiple pumps are often run in parallel to create greater CFM flow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065558Z" creationid="MAE" creationdate="20131106T065558Z">
+        <seg>若有更大的抽氣需求，可並行使用多重泵以產生更大的 CFM 流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hardened steel pop-up location pins are pneumatically activated to allow fast, repeatable placement of your cutting materials onto the machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T045544Z" creationid="MAE" creationdate="20131106T045544Z">
