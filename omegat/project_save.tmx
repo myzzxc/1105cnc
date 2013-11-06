@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The laser digitiser provides afast and accurate way of capturing the geometry of any two dimentional part that is placed on the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050223Z" creationid="MAE" creationdate="20131106T050223Z">
+        <seg>雷射數位轉換器可快速且精確地抓取所有放置於路達桌上的二維零件外觀尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine options have been divided into 5 sections:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z" creationid="MAE" creationdate="20131105T092952Z">
