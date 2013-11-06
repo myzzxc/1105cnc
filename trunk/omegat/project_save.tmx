@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ CNC Routers have the widest range of machine options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081447Z" creationid="MAE" creationdate="20131106T081447Z">
+        <seg>AXYZ CNC 雕刻機提供最大範圍的機台配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ Vision System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034437Z" creationid="MAE" creationdate="20131106T034437Z">
@@ -358,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Focusing on productivity, AXYZ has engineered machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081630Z" creationid="MAE" creationdate="20131106T081630Z">
+        <seg>專注於生產力Focusing on productivity, AXYZ has engineered machine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For applications that need adeeper throat clearance such as mould making orthree dimensional carving, extended</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131559Z" creationid="ccyu" creationdate="20131105T131514Z">
@@ -558,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081405Z" creationid="MAE" creationdate="20131106T081405Z">
+        <seg>配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oscillating Knife</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T030457Z" creationid="MAE" creationdate="20131106T030037Z">
@@ -714,6 +738,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081319Z" creationid="MAE" creationdate="20131106T081319Z">
         <seg>系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Series System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081357Z" creationid="MAE" creationdate="20131106T081357Z">
+        <seg>系列系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,6 +1210,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132919Z" creationid="ccyu" creationdate="20131105T132919Z">
         <seg>以及更安靜的運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081521Z" creationid="MAE" creationdate="20131106T081521Z">
+        <seg>，</seg>
       </tuv>
     </tu>
     <tu>
