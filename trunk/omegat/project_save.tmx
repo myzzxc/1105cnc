@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6000 series machines are often built with automatic vacuum zone switching toenable continuous operation on multiple sheets of material.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T141115Z" creationid="ccyu" creationdate="20131106T141115Z">
+        <seg>6000 系列機台通常配有自動真空區域切換以進行多組料連續操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A high performance camera mounted on the head of the machine, the power behind the AVS lies initssoftware which is fully integrated within the new AXYZ A2MC machine control system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034800Z" creationid="MAE" creationdate="20131106T034800Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T122059Z" creationid="MAE" creationdate="20131105T093158Z">
         <seg>AXYZ 7G 和 21G 自動換刀系統提供運行多路徑工作方便快捷的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The AXYZ 8000 Series has the largest standard width of our smaller format machines with an impressive 2635mm process width.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T141359Z" creationid="ccyu" creationdate="20131106T141359Z">
+        <seg>AXYZ 8000 系列為小型機台中可處理最大工件寬度的機台，加工寬度可達 2635mm。</seg>
       </tuv>
     </tu>
     <tu>
