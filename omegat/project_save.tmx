@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vinyl Knife</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031727Z" creationid="MAE" creationdate="20131106T031727Z">
+        <seg>塑膠刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With an industry proven 6.35mm top-loading spindle, it iswell suited totackle awide range of materials including plastics, aluminium, brass, and more.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T154830Z" creationid="ccyu" creationdate="20131105T145628Z">
