@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACM Swan Collection System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082250Z" creationid="MAE" creationdate="20131106T082250Z">
+        <seg>ACM 集屑系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACM Swarf Collection System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071540Z" creationid="MAE" creationdate="20131106T071540Z">
@@ -142,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic Tool Changer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082114Z" creationid="MAE" creationdate="20131106T082114Z">
+        <seg>自動換刀器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic feed drills are fixture mounted tools that combine linear feed and rotation forall drilling operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151621Z" creationid="ccyu" creationdate="20131105T151449Z">
@@ -190,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Becker Dry Vane Vacuum</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082223Z" creationid="MAE" creationdate="20131106T082223Z">
+        <seg>Becker 乾式葉片泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Becker Dry Vane Vacuum Hold Down Pump</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065122Z" creationid="MAE" creationdate="20131106T064920Z">
@@ -198,10 +222,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bellows Seal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082204Z" creationid="MAE" creationdate="20131106T082204Z">
+        <seg>波紋密封管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both carriages may be configured with automatic tool changer carousels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130203Z" creationid="ccyu" creationdate="20131105T130203Z">
         <seg>兩組刀皆可與自動換刀轉盤配合使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brush Donut</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082141Z" creationid="MAE" creationdate="20131106T082141Z">
+        <seg>刷環</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +424,8 @@
       <tuv lang="EN-US">
         <seg>Focusing on productivity, AXYZ has engineered machine configurations and tooling options to provide your business with the router best suited to your needs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082054Z" creationid="MAE" creationdate="20131106T081844Z">
-        <seg>專注於生產，AXYZ 所設計製造之機台組合及刀具配件可提供最合乎客戶需求的雕刻機。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082103Z" creationid="MAE" creationdate="20131106T081844Z">
+        <seg>專注於生產，AXYZ 所設計製造之機台組態及刀具配件可提供最合乎客戶需求的雕刻機。</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Laser Digitiser</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082125Z" creationid="MAE" creationdate="20131106T082125Z">
+        <seg>雷射數位轉換器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mink Rotary Claw Pump</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065853Z" creationid="MAE" creationdate="20131106T065853Z">
@@ -586,6 +634,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131000Z" creationid="ccyu" creationdate="20131105T131000Z">
         <seg>使用多重支架於單一機床上可使機台運用更為彈性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nose Rider Collar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082147Z" creationid="MAE" creationdate="20131106T082147Z">
+        <seg>凸出式移動接環</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pop-Up Location Pins</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082132Z" creationid="MAE" creationdate="20131106T082132Z">
+        <seg>彈出式定位銷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pop-up Pins are the most reliable method of ensuring your materials  are on straight; and with the fullpneumatic retraction, there is nofear of any cutting tool collision with the pin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T045858Z" creationid="MAE" creationdate="20131106T045858Z">
@@ -698,6 +762,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134437Z" creationid="ccyu" creationdate="20131105T134437Z">
         <seg>快速釋放主軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regenerative Blower</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082237Z" creationid="MAE" creationdate="20131106T082237Z">
+        <seg>再生式鼓風機</seg>
       </tuv>
     </tu>
     <tu>
