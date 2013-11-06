@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ Vision System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034437Z" creationid="MAE" creationdate="20131106T034437Z">
+        <seg>AXYZ 視覺系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accuracy Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034417Z" creationid="MAE" creationdate="20131106T034417Z">
+        <seg>準確性配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accuracy Options - These machine options will help you locate your material and tools for more accurate cut parts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134245Z" creationid="MAE" creationdate="20131105T092959Z">
@@ -306,6 +322,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121522Z" creationid="MAE" creationdate="20131105T093006Z">
         <seg>整合式解決方案提供我們的客戶一切所需</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intergrated pressure foot with adjustable tension tohold down materials under heavy cutpressures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034348Z" creationid="MAE" creationdate="20131106T034348Z">
+        <seg>整合式可調張力壓力支腳能於切割時的高壓下固定材料。</seg>
       </tuv>
     </tu>
     <tu>
