@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High Capacity Pressure Foot</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050653Z" creationid="MAE" creationdate="20131106T050653Z">
+        <seg>高容量壓力腳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Includes torch, power supply and torch height control.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144957Z" creationid="ccyu" creationdate="20131105T144957Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T032827Z" creationid="MAE" creationdate="20131106T032827Z">
         <seg>也可用於切割大型塑膠看板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a particularly useful option forconverting existing templates and fixtures into automated cutting files where original drawings donot exist.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050419Z" creationid="MAE" creationdate="20131106T050419Z">
+        <seg>特別用於無原始圖檔時，轉換現有模板或裝置為自動切割檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +522,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131234Z" creationid="ccyu" creationdate="20131105T131234Z">
         <seg>於機台兩端同時運行不同操作，當處理需要機台長度之大型工件時可將一支架停放於機台末端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secondary Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050449Z" creationid="MAE" creationdate="20131106T050449Z">
+        <seg>輔助配件</seg>
       </tuv>
     </tu>
     <tu>
