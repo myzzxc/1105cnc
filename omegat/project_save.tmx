@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure Foot Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T060153Z" creationid="MAE" creationdate="20131106T060153Z">
+        <seg>壓力腳配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick Release Spindles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134437Z" creationid="ccyu" creationdate="20131105T134437Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144805Z" creationid="ccyu" creationdate="20131105T144805Z">
         <seg>AXYZ 機台之 Hypertherm 電漿切削配件與優異的控制提供了無懈可擊的組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Nose Rider Collar sets the protrusion of the cutting tool through the bottom ofthe foot to ensure an accurate and consistent depth of cut.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T060138Z" creationid="MAE" creationdate="20131106T060138Z">
+        <seg>凸出式移動接環使刀具由壓力腳下方突出以確保精準且一致的切割深度。</seg>
       </tuv>
     </tu>
     <tu>
