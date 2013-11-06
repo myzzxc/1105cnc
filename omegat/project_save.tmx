@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User friendly, hand held machine subconsole provides ease ofoperation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153359Z" creationid="ccyu" creationdate="20131106T153359Z">
+        <seg>對使用者友善之手持式控制器可方便操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vacuum Arm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070850Z" creationid="MAE" creationdate="20131106T070850Z">
