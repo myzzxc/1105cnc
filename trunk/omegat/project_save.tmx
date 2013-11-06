@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unist Mister</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052111Z" creationid="MAE" creationdate="20131106T052111Z">
+        <seg>Unist 冷卻噴嘴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Used primarily for large format vinyl cutting, cutting paper mask onacrylic sheets for painting, and forcutting paint grip with standard vinyl cutting blades and blade holder.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T032834Z" creationid="MAE" creationdate="20131106T032732Z">
