@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The primary application isdigital print finishing where the camera isable toquickly find and recognise conventional registration marks and adjust the machine cutting path to achieve exact alignment with printed shapes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T035235Z" creationid="MAE" creationdate="20131106T035235Z">
+        <seg>主要應用為攝影機可快速辨識數位列印圖層之傳統註冊標示，並調整機台切割路徑以精確符合列印圖形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The standard gantry clearance is150mm for all AXYZ Series machines.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131325Z" creationid="ccyu" creationdate="20131105T131325Z">
