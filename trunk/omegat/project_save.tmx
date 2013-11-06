@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CNC Router Systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072949Z" creationid="MAE" creationdate="20131106T072949Z">
+        <seg>CNC 雕刻系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CNC System Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134149Z" creationid="MAE" creationdate="20131105T092950Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031447Z" creationid="MAE" creationdate="20131106T031447Z">
         <seg>上述材料由傳統路達或刀具加工具極具挑戰性，但擺動刀可輕易處理以上材料，提供乾淨的切邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This allows the operator to easily clear  the machine bed of parts and waste and then reload the cutting area with more material to allow virtually continuous operation of the AXYZ Router.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072917Z" creationid="MAE" creationdate="20131106T072917Z">
+        <seg>幫助操作員輕鬆清裡機床零件和廢料，然後重新裝載更多的材料，使 AXYZ 雕刻機操作幾近連續。</seg>
       </tuv>
     </tu>
     <tu>
