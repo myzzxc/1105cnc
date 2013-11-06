@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All AXYZ Series tables have thefollowing standard and available options:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153006Z" creationid="ccyu" creationdate="20131106T153006Z">
+        <seg>所有 AXYZ 系列桌台階包以下標準及選配配件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aluminium gantries provide an ideal balance of strength to mass formost cutting applications however forsituations that benefit from the greater mass of asteel gantry, our heavy duty steel gantries are available forany AXYZ Series machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132322Z" creationid="ccyu" creationdate="20131105T132322Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131000Z" creationid="ccyu" creationdate="20131105T131000Z">
         <seg>使用多重支架於單一機床上可使機台運用更為彈性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next generation AXYZ A2MC control system forsmooth reliable operation and easy connection to network for program transfer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153217Z" creationid="ccyu" creationdate="20131106T153217Z">
+        <seg>新一代 AXYZ A2MC 控制系統可更平順可靠地操作，且具簡便網路程式傳送功能。</seg>
       </tuv>
     </tu>
     <tu>
