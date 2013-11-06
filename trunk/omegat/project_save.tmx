@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ROUTING - ENGRAVING - 3D CARVING - PLASMA - PRINT TO CUT - KNIFE CUTTING - MOULD MAKING - PROFILING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T142541Z" creationid="ccyu" creationdate="20131106T142541Z">
+        <seg>選路 - 雕刻 - 3D 雕刻 - 電漿 - 印刷切割 - 刀具切削 - 模具製造 - 切削</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regenerative Blower</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082237Z" creationid="MAE" creationdate="20131106T082237Z">
