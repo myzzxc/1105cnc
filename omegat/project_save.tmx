@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Mink pump is oil free and can be run continuously if required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070331Z" creationid="MAE" creationdate="20131106T070331Z">
+        <seg>Mink 泵為無油式，可持續運轉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Mink rotary claw pump isan ideal high performance solution for powerful vacuum hold down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065953Z" creationid="MAE" creationdate="20131106T065953Z">
@@ -818,6 +826,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z" creationid="MAE" creationdate="20131105T092952Z">
         <seg>機台配件可分為五個部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The non-contacting design of the rotors leads to a longer pump life with lowmaintenance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070501Z" creationid="MAE" creationdate="20131106T070501Z">
+        <seg>非接觸式轉子設計能提供更長的壽命以及低維護需求。</seg>
       </tuv>
     </tu>
     <tu>
