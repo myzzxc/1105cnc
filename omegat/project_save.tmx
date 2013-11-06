@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Itfitsto a standard 20mm collet and works with all5 HP and 10 HP spindles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034022Z" creationid="MAE" creationdate="20131106T034022Z">
+        <seg>適用標準 20mm 夾頭，可用於所有 5 HP 和 10 HP 主軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most of these options apply to the AXYZ Series machine exclusively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134257Z" creationid="MAE" creationdate="20131105T093001Z">
@@ -514,6 +522,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145711Z" creationid="ccyu" creationdate="20131105T145313Z">
         <seg>雕刻器為專門為了 AXYZ 系列或 Millennium CNC 雕刻機進行輕型所設計，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The heavy duty drag knife is designed for knife cutting applications that involve heavy gauge flexible materials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T033828Z" creationid="MAE" creationdate="20131106T033828Z">
+        <seg>重型拖刀專為重型彈性材料切割應用設計，</seg>
       </tuv>
     </tu>
     <tu>
