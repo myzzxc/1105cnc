@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ CNC Routers have the widest range of machine options available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081846Z" creationid="MAE" creationdate="20131106T081825Z">
+        <seg>AXYZ CNC 雕刻機提供最大範圍的機台配件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ Vision System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034437Z" creationid="MAE" creationdate="20131106T034437Z">
@@ -370,6 +378,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081630Z" creationid="MAE" creationdate="20131106T081630Z">
         <seg>專注於生產力Focusing on productivity, AXYZ has engineered machine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focusing on productivity, AXYZ has engineered machine configurations and tooling options to provide your business with the router best suited to your needs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082054Z" creationid="MAE" creationdate="20131106T081844Z">
+        <seg>專注於生產，AXYZ 所設計製造之機台組合及刀具配件可提供最合乎客戶需求的雕刻機。</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +762,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081357Z" creationid="MAE" creationdate="20131106T081357Z">
         <seg>系列系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Series System Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081814Z" creationid="MAE" creationdate="20131106T081814Z">
+        <seg>系列系統配件</seg>
       </tuv>
     </tu>
     <tu>
