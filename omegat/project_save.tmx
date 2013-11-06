@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>Becker Dry Vane Vacuum Hold Down Pump</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T064920Z" creationid="MAE" creationdate="20131106T064920Z">
-        <seg>Becker 乾式葉片真空減壓泵</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065122Z" creationid="MAE" creationdate="20131106T064920Z">
+        <seg>Becker 乾式葉片真空抽氣泵</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Providing 175 CFM, the Becker 10HP  is aquiet and reliable source forvacuum hold down.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065258Z" creationid="MAE" creationdate="20131106T065258Z">
+        <seg>提供 175 CFM， Becker 10HP 為安靜且耐用的真空抽氣設備，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick Release Spindles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134437Z" creationid="ccyu" creationdate="20131105T134437Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z" creationid="MAE" creationdate="20131106T054732Z">
         <seg>藉由獨特內部旋渦式設計能高效率地吸取切屑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The 10HP Becker dryvane vacuum pump is perfectly suited forvacuum  hold down on allAXYZ Series Routers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065154Z" creationid="MAE" creationdate="20131106T065103Z">
+        <seg>10HP Becker 乾式葉片真空泵適合用於所有 AXYZ 系列雕刻機真空抽氣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -920,8 +936,8 @@
       <tuv lang="EN-US">
         <seg>Vacuum System Options - These options include vacuum hold down pumps and blowers, as well as swarf collection systems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T060655Z" creationid="MAE" creationdate="20131105T093000Z">
-        <seg>真空系統配件 - 包括真空減壓泵和風機，以及集屑系統。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065141Z" creationid="MAE" creationdate="20131105T093000Z">
+        <seg>真空系統配件 - 包括真空抽氣泵和風機，以及集屑系統。</seg>
       </tuv>
     </tu>
     <tu>
