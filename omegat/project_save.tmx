@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has been specifically engineered to accept 50mm or100mm diameter hose and allows formanual adjustment ofthe ride height forfaster material and tool setup often demanded intodays busy workplace.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054506Z" creationid="MAE" creationdate="20131106T054506Z">
+        <seg>其設計適用於直徑 50mm 或 100mm 軟管，並能手動調整高度以加速材料和工具的安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a particularly useful option forconverting existing templates and fixtures into automated cutting files where original drawings donot exist.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050419Z" creationid="MAE" creationdate="20131106T050419Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131820Z" creationid="ccyu" creationdate="20131105T131820Z">
         <seg>更多資訊請向 AXYZ 技術銷售專員諮詢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swarf extraction is highly efficient thanks tothe unique internal cyclonic design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z" creationid="MAE" creationdate="20131106T054732Z">
+        <seg>藉由獨特內部旋渦式設計能高效率地吸取切屑。</seg>
       </tuv>
     </tu>
     <tu>
