@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cold airgun isasimple device that utilises filtered, compressed airand a venturi effect expansion chamber to produce cold airforspot cooling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053719Z" creationid="MAE" creationdate="20131106T053719Z">
+        <seg>冷卻氣槍使用過濾壓縮空氣，並利用流量效應膨脹室產生冷空氣以進行冷卻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The engraver equipped AXYZ Router table isagreat alternative forlarge format engraving.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T154847Z" creationid="ccyu" creationdate="20131105T145707Z">
