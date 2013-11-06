@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 5Y pressure foot plays justasvital arole asthe high capacity pressure foot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054138Z" creationid="MAE" creationdate="20131106T054138Z">
+        <seg>5Y 壓力腳與高容量壓力腳為同要重要的配件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The AXYZ 7G and 21G automatic tool changer systems provide an easy and convenient method ofrunning jobsrequiring multiple routing tools.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T122059Z" creationid="MAE" creationdate="20131105T093158Z">
@@ -766,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This cost effective option eliminates heat related parts growth, most common to plastics and softmetal machining and serves to provide better edge finish and longer tool bitlife.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054007Z" creationid="MAE" creationdate="20131106T054007Z">
+        <seg>此高成本效益配件可避免塑膠和軟金屬加工常見的熱相關零件膨脹，並提供更好的邊緣表面及更長的刀具壽命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This method provides forstraight cut corners atany angle aswell astrue radii when called for.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153651Z" creationid="ccyu" creationdate="20131105T153651Z">
@@ -810,6 +826,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053320Z" creationid="MAE" creationdate="20131106T052111Z">
         <seg>Unist 切削液噴嘴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Universal 5Y Pressure Foot</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054027Z" creationid="MAE" creationdate="20131106T054027Z">
+        <seg>通用 5Y 壓力腳</seg>
       </tuv>
     </tu>
     <tu>
