@@ -486,6 +486,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DESOUTTER ELECTRIC DRILL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131508Z" creationid="ccyu" creationdate="20131107T131508Z">
+        <seg>DESOUTTER 電動鑽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DESOUTTER PNEUMATIC DRILL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131502Z" creationid="ccyu" creationdate="20131107T131502Z">
+        <seg>DESOUTTER 氣動鑽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DISTRIBUTOR DISCOUNT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T025332Z" creationid="MAE" creationdate="20131107T022753Z">
@@ -850,6 +866,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022548Z" creationid="MAE" creationdate="20131107T022548Z">
         <seg>金屬加工和製程刀具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MULTI SPINDLE 5 TOOL DRILLING HEAD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131554Z" creationid="ccyu" creationdate="20131107T131554Z">
+        <seg>多軸 5 刀鑽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MULTI SPINDLE 9 TOOL DRILLING HEAD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131608Z" creationid="ccyu" creationdate="20131107T131608Z">
+        <seg>多軸 9 刀鑽頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TANGENTIAL KNIFE CARTRIDGE FOR SABER BLADE HOLDER (blade included)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131353Z" creationid="ccyu" creationdate="20131107T131353Z">
+        <seg>彎刀之裁刀刀架（含刀片）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TOTAL LIST PRICE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022717Z" creationid="MAE" creationdate="20131107T022717Z">
@@ -1762,6 +1802,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153359Z" creationid="ccyu" creationdate="20131106T153359Z">
         <seg>對使用者友善之手持式控制器可方便操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VINYL HEAD &amp; KNIFE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131425Z" creationid="ccyu" creationdate="20131107T131425Z">
+        <seg>塑膠頭 &amp; 刀具</seg>
       </tuv>
     </tu>
     <tu>
