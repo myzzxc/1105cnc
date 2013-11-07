@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• 250 mm ball screw Zaxis stroke with astandard 150 mm clearance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T114704Z" creationid="ccyu" creationdate="20131107T114704Z">
+        <seg>• 250 mm 滾珠螺桿 Z 軸行程，含 150 mm 間隙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Standard connectivity to NC files from virtually any CAM software package including AXYZ PANELBuilder, EnRoute, ArtCam, Type 3,Mastercam, ProfileLab and more.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T110149Z" creationid="ccyu" creationdate="20131107T110149Z">
