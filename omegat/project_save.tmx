@@ -454,6 +454,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DUAL Y CARRIAGE STEPPER (Dual Y ready same price)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125009Z" creationid="ccyu" creationdate="20131107T125009Z">
+        <seg>雙 Y 刀架步進器（雙 Y 配置價格不變）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DUAL Z CARRIAGE STEPPER (Dual Z ready same price)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125023Z" creationid="ccyu" creationdate="20131107T125023Z">
+        <seg>雙 Z 刀架步進器（雙 Z 配置價格不變）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drill heads are available ina5 tool Lshape ora9 tool Lshape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151051Z" creationid="ccyu" creationdate="20131105T151051Z">
