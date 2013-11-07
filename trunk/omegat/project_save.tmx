@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2438mm x 1524mm Process Area</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143734Z" creationid="ccyu" creationdate="20131107T143734Z">
+        <seg>2438mm x 1524mm 加工區域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4004 * (1524mm x 1219mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142153Z" creationid="ccyu" creationdate="20131107T142153Z">
@@ -254,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ 4008 Series CNC Router – Single Head</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143750Z" creationid="ccyu" creationdate="20131107T143750Z">
+        <seg>AXYZ 4008 系列雕刻機 – 單頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ 5000 Series machines are commonly found in businesses that specialise in plastic fabrication, aluminium composite fabrication, signmaking, woodworking, solid surface fabrication, POP fabrication and more and are often configured with multiple spindles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T140102Z" creationid="ccyu" creationdate="20131106T140102Z">
@@ -369,6 +385,14 @@
         <seg>Ad</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143603Z" creationid="ccyu" creationdate="20131107T143603Z">
+        <seg>增加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143805Z" creationid="ccyu" creationdate="20131107T143805Z">
         <seg>增加</seg>
       </tuv>
     </tu>
@@ -2320,8 +2344,8 @@
       <tuv lang="EN-US">
         <seg>Twin 5HP Elte Spindles – Twin Y configuration.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143618Z" creationid="ccyu" creationdate="20131107T143618Z">
-        <seg> 雙 5HP Elte 主軸 – 雙 Y 組態。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143811Z" creationid="ccyu" creationdate="20131107T143618Z">
+        <seg>雙 5HP Elte 主軸 – 雙 Y 組態。</seg>
       </tuv>
     </tu>
     <tu>
