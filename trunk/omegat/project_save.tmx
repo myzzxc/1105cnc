@@ -1668,6 +1668,14 @@
         <seg>切削、修邊以及鑽孔無間斷地進行。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Standard connectivity to NC files from virtually any CAM software package including AXYZ PANELBuilder, EnRoute, ArtCam, Type 3,Mastercam, ProfileLab and more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T110149Z" creationid="ccyu" creationdate="20131107T110149Z">
+        <seg>• 標準支援包括 AXYZ PANELBuilder、EnRoute、ArtCam、Type 3、Mastercam、ProfileLab 以及更多 CAM 套裝軟體之 NC 檔案。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
