@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYl A2MC Controller</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T120741Z" creationid="ccyu" creationdate="20131107T120741Z">
+        <seg>AXYl A2MC 控制器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accuracy Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034417Z" creationid="MAE" creationdate="20131106T034417Z">
@@ -898,6 +906,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022733Z" creationid="MAE" creationdate="20131107T022733Z">
         <seg>印刷切割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PROCESS WIDTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T120735Z" creationid="ccyu" creationdate="20131107T120735Z">
+        <seg>加工寬度</seg>
       </tuv>
     </tu>
     <tu>
