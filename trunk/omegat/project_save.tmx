@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3048mm x 2159 Process Area</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144158Z" creationid="ccyu" creationdate="20131107T144158Z">
+        <seg>3048mm x 2159 加工區域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4004 * (1524mm x 1219mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142153Z" creationid="ccyu" creationdate="20131107T142153Z">
@@ -302,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ 6010 Series CNC Router – Single Head</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144207Z" creationid="ccyu" creationdate="20131107T144207Z">
+        <seg>AXYZ 6010 系列雕刻機 – 單頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ CNC Routers have the widest range of machine options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081447Z" creationid="MAE" creationdate="20131106T081447Z">
@@ -482,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145053Z" creationid="ccyu" creationdate="20131105T145053Z">
         <seg>另有整合式抽氣網可供使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As above with Vacuum Bed, 11.5hp blower and silencer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144252Z" creationid="ccyu" creationdate="20131107T144252Z">
+        <seg>上列包含真空床、8.5hp 鼓風機和消音器</seg>
       </tuv>
     </tu>
     <tu>
