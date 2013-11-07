@@ -382,6 +382,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BUSCH MINK PUMP 4.8KW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T135214Z" creationid="ccyu" creationdate="20131107T135214Z">
+        <seg>BUSCH MINK 泵 4.8KW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BUSCH MINK PUMP 6.8KW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T135219Z" creationid="ccyu" creationdate="20131107T135219Z">
+        <seg>BUSCH MINK 泵 6.8KW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BUSCH MINK PUMP 6.8KW with vac protection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T135259Z" creationid="ccyu" creationdate="20131107T135259Z">
+        <seg>BUSCH MINK 泵 6.8KW 含真空保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Becker Dry Vane Vacuum</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082223Z" creationid="MAE" creationdate="20131106T082223Z">
@@ -1554,6 +1578,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130732Z" creationid="ccyu" creationdate="20131107T130732Z">
         <seg>紙箱切刀之裁刀刀架（含刀片）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TANGENTIAL KNIFE CARTRIDGE FOR CREASING WHEEL( wheel not included)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T135203Z" creationid="ccyu" creationdate="20131107T135203Z">
+        <seg>壓花輪之裁刀刀架（不含壓花輪）</seg>
       </tuv>
     </tu>
     <tu>
