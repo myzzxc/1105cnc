@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>* All models include A2MC controller and Artcam Express</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142138Z" creationid="ccyu" creationdate="20131107T142138Z">
+        <seg>* 所有型號皆包含 A2MC 控制器和 Artcam Express</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>21G TOOLCHANGER with 5 ISO 30 cones</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130010Z" creationid="ccyu" creationdate="20131107T130010Z">
@@ -26,6 +34,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125937Z" creationid="ccyu" creationdate="20131107T125305Z">
         <seg>24000 RPM  / 電流轉向器 380 V - 含 3 組 ISO 30 錐型夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4004 * (1524mm x 1219mm PROCESS AREA)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142153Z" creationid="ccyu" creationdate="20131107T142153Z">
+        <seg>4004 * (1524mm x 1219mm 加工區域)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4004 * (1524mm x 1219mm) WITH VACUUM BED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142259Z" creationid="ccyu" creationdate="20131107T142259Z">
+        <seg>4004 * (1524mm x 1219mm) 含真空床</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,8 +1008,8 @@
       <tuv lang="EN-US">
         <seg>KNIFE MATTING (Price per square meter of process area)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141928Z" creationid="ccyu" creationdate="20131107T141928Z">
-        <seg>刀墊 (Price per square meter of process area)</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142025Z" creationid="ccyu" creationdate="20131107T141928Z">
+        <seg>刀墊（加工區域每平方米價格）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,6 +2282,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T051055Z" creationid="MAE" creationdate="20131106T051055Z">
         <seg>若無優異的切屑和灰塵吸取功能，會消耗許多清理時間，並可能對員工造成危害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X AXIS EXTENSION COST PER 2 FEET (600mm)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142243Z" creationid="ccyu" creationdate="20131107T142243Z">
+        <seg>X 每 2 英尺 (600 mm) 延伸價</seg>
       </tuv>
     </tu>
     <tu>
