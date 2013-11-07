@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High torque / high speed motors and drives onall three axes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115050Z" creationid="ccyu" creationdate="20131107T115050Z">
+        <seg>三軸高扭力 / 高速馬達和驅動器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Includes torch, power supply and torch height control.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144957Z" creationid="ccyu" creationdate="20131105T144957Z">
@@ -954,6 +962,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T142541Z" creationid="ccyu" creationdate="20131106T142541Z">
         <seg>選路 - 雕刻 - 3D 雕刻 - 電漿 - 印刷切割 - 刀具切削 - 模具製造 - 切削</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rack and pinion drive system forXand Yaxes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T114938Z" creationid="ccyu" creationdate="20131107T114938Z">
+        <seg> X 軸和 Y 軸之齒條和齒輪傳動系統。</seg>
       </tuv>
     </tu>
     <tu>
