@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTO GANTRY SQUARING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133142Z" creationid="ccyu" creationdate="20131107T133142Z">
+        <seg>自動支架方形定位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ 4004  1220mm x 1524mm Process Area  AXYZ 4004 Series CNC Router – Single Head    Includes:  5HP Elte spindle, Artcam Express software, High Capacity pressure foot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023043Z" creationid="MAE" creationdate="20131107T022955Z">
