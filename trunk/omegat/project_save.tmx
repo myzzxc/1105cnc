@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAM-DUCT Software</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134425Z" creationid="ccyu" creationdate="20131107T134425Z">
+        <seg>CAM-DUCT 軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CNC Router Systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072949Z" creationid="MAE" creationdate="20131106T072949Z">
@@ -1102,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PANELBUILDER 2D &amp; True Nesting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134417Z" creationid="ccyu" creationdate="20131107T134417Z">
+        <seg>PANELBUILDER 2D &amp; 鈑金排版軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PLASMA CUTTING BED AND FUME RECEIVER - LARGE (1220mm x 1830mm)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132154Z" creationid="ccyu" creationdate="20131107T132142Z">
@@ -1346,6 +1362,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132211Z" creationid="ccyu" creationdate="20131107T132211Z">
         <seg>SCANTECH 3D 掃描器含軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERIES TABLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134509Z" creationid="ccyu" creationdate="20131107T134509Z">
+        <seg>系列桌台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERVO DRIVES 2X &amp; Y  - 3 drives</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134449Z" creationid="ccyu" creationdate="20131107T134449Z">
+        <seg>伺服驅動器 2X &amp; Y  - 3 組驅動器</seg>
       </tuv>
     </tu>
     <tu>
