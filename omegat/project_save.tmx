@@ -334,6 +334,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BELLOWS SEAL FOR HIGH CAPACITY PRESSURE FOOT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132354Z" creationid="ccyu" creationdate="20131107T132354Z">
+        <seg>高容量壓力腳波紋密封管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BRUSH RING ATTACHMENT FOR HIGH CAPACITY PRESSURE FOOT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132322Z" creationid="ccyu" creationdate="20131107T132322Z">
+        <seg>高容量壓力腳刷環附件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Becker Dry Vane Vacuum</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082223Z" creationid="MAE" creationdate="20131106T082223Z">
@@ -982,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOSE RIDER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132450Z" creationid="ccyu" creationdate="20131107T132450Z">
+        <seg>凸出式移動接環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next generation AXYZ A2MC control system forsmooth reliable operation and easy connection to network for program transfer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153217Z" creationid="ccyu" creationdate="20131106T153217Z">
@@ -1066,6 +1090,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132230Z" creationid="ccyu" creationdate="20131107T132230Z">
         <seg>壓力腳 - 高容量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRESSURE FOOT - UNIVERSAL 5Y</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132414Z" creationid="ccyu" creationdate="20131107T132414Z">
+        <seg>壓力腳 - 萬用 5Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,6 +1890,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153359Z" creationid="ccyu" creationdate="20131106T153359Z">
         <seg>對使用者友善之手持式控制器可方便操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VACUUM SWITCHING MANIFOLD (DUAL Z TOOLING CONFIGURATIONS)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132538Z" creationid="ccyu" creationdate="20131107T132538Z">
+        <seg>真空切換歧管（雙 Z 加工組態）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VACUUM SWITCHING MANIFOLD (TRIPLE Z TOOLING CONFIGURATIONS)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132549Z" creationid="ccyu" creationdate="20131107T132549Z">
+        <seg>真空切換歧管（三 Z 加工組態）</seg>
       </tuv>
     </tu>
     <tu>
