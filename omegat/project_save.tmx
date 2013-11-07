@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACM DUST EXTRACTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132623Z" creationid="ccyu" creationdate="20131107T132623Z">
+        <seg>ACM 集屑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACM Swan Collection System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082250Z" creationid="MAE" creationdate="20131106T082250Z">
@@ -1394,6 +1402,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z" creationid="MAE" creationdate="20131106T054732Z">
         <seg>藉由獨特內部旋渦式設計能高效率地吸取切屑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T-SLOT CLAMPING KIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132640Z" creationid="ccyu" creationdate="20131107T132640Z">
+        <seg>T 形槽夾具組</seg>
       </tuv>
     </tu>
     <tu>
