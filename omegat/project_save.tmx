@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ad</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143603Z" creationid="ccyu" creationdate="20131107T143603Z">
+        <seg>增加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add  Twin 5HP Elte Spindles – Twin Y configuration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023244Z" creationid="MAE" creationdate="20131107T023244Z">
@@ -1138,6 +1146,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144957Z" creationid="ccyu" creationdate="20131105T144957Z">
         <seg>包含了電漿炬、電源供應器和電漿炬高度控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes: 5HP Elte spindle, Artcam Express software, High Capacity pressure foot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143548Z" creationid="ccyu" creationdate="20131107T143548Z">
+        <seg>包含： 5HP Elte 主軸、Artcam Express 軟體、高容量壓力腳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2302,10 +2318,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Twin 5HP Elte Spindles – Twin Y configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143618Z" creationid="ccyu" creationdate="20131107T143618Z">
+        <seg> 雙 5HP Elte 主軸 – 雙 Y 組態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Twin 5HP Elte Spindles – Twin Z configuration.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023215Z" creationid="MAE" creationdate="20131107T023215Z">
-        <seg>雙 5HP Elte 主軸– 雙 Z 組態。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143554Z" creationid="MAE" creationdate="20131107T023215Z">
+        <seg>雙 5HP Elte 主軸 – 雙 Z 組態。</seg>
       </tuv>
     </tu>
     <tu>
