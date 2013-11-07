@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10006 * (3270 mm x 1829 mm PROCESS AREA)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142624Z" creationid="ccyu" creationdate="20131107T142624Z">
+        <seg>10006 * (3270 mm x 1829 mm 加工區域)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10006 * (3270 mm x 1829 mm) WITH VACUUM BED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142644Z" creationid="ccyu" creationdate="20131107T142644Z">
+        <seg>10006 * (3270 mm x 1829 mm) 含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>21G TOOLCHANGER with 5 ISO 30 cones</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130010Z" creationid="ccyu" creationdate="20131107T130010Z">
@@ -1366,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PUMP SILENCER (2.5" fits all blowers &amp; silencers)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142914Z" creationid="ccyu" creationdate="20131107T142914Z">
+        <seg>泵消音器（2.5" 適合所有鼓風機 &amp; 消音器）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plasma Cutting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T140000Z" creationid="ccyu" creationdate="20131105T140000Z">
@@ -2206,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VAC EXTENSION PIVOTING ARM  AND 2" VAC HOSE length 50ft (4008 - 6022)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142827Z" creationid="ccyu" creationdate="20131107T142827Z">
+        <seg>真空延伸旋轉臂和 2" 真空軟管 50ft (4008 - 6022)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VACUUM SWITCHING MANIFOLD (DUAL Z TOOLING CONFIGURATIONS)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132538Z" creationid="ccyu" creationdate="20131107T132538Z">
@@ -2353,6 +2385,22 @@
         <seg>X AXIS EXTENSION COST PER 2 FEET (600mm) WITH VACUUM BED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142452Z" creationid="ccyu" creationdate="20131107T142452Z">
+        <seg>X 軸每 2 英尺 (600 mm) 延伸價，含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X AXIS EXTENSION COST PER 2 FEET(600mm)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142630Z" creationid="ccyu" creationdate="20131107T142630Z">
+        <seg>X 軸每 2 英尺 (600 mm) 延伸價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X AXIS EXTENSION COST PER 2 FEET(600mm) WITH VACUUM BED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142652Z" creationid="ccyu" creationdate="20131107T142652Z">
         <seg>X 軸每 2 英尺 (600 mm) 延伸價，含真空床</seg>
       </tuv>
     </tu>
