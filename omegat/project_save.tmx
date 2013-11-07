@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All spindles with 24000 RPM capability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115819Z" creationid="ccyu" creationdate="20131107T115819Z">
+        <seg>所有主軸轉速皆可達 24000 RPM。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aluminium gantries provide an ideal balance of strength to mass formost cutting applications however forsituations that benefit from the greater mass of asteel gantry, our heavy duty steel gantries are available forany AXYZ Series machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132322Z" creationid="ccyu" creationdate="20131105T132322Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022630Z" creationid="MAE" creationdate="20131107T022630Z">
         <seg>多重刀具配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many different tooling configurations available, including multiple spindles as well asHSD 5 and 10.8 HP quick release spindles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115730Z" creationid="ccyu" creationdate="20131107T115730Z">
+        <seg>多種不同刀具組態可供使用，包括多重主軸，以及 HSD 5 和 10.8 HP 快速釋放主軸。</seg>
       </tuv>
     </tu>
     <tu>
