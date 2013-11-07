@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COLLET DRAG KNIFE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130257Z" creationid="ccyu" creationdate="20131107T130257Z">
+        <seg>筒夾 拖刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collet Spindles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134958Z" creationid="ccyu" creationdate="20131105T134958Z">
@@ -942,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OSCILLATING KNIFE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130300Z" creationid="ccyu" creationdate="20131107T130300Z">
+        <seg>擺動刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081405Z" creationid="MAE" creationdate="20131106T081405Z">
@@ -1266,6 +1282,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z" creationid="MAE" creationdate="20131106T054732Z">
         <seg>藉由獨特內部旋渦式設計能高效率地吸取切屑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TANGENTIAL KNIFE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130308Z" creationid="ccyu" creationdate="20131107T130308Z">
+        <seg>裁刀</seg>
       </tuv>
     </tu>
     <tu>
