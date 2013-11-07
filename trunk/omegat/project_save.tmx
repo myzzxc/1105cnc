@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1220mm x 1524mm Process Area</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143419Z" creationid="ccyu" creationdate="20131107T143419Z">
+        <seg>1220mm x 1524mm 加工區域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>21G TOOLCHANGER with 5 ISO 30 cones</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130010Z" creationid="ccyu" creationdate="20131107T130010Z">
@@ -54,9 +62,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>24000 RPM / INVERTER 380 V - with 3 ISO 30 cones</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143311Z" creationid="ccyu" creationdate="20131107T143311Z">
+        <seg>24000 RPM  / 電流轉向器 380 V - 含 3 組 ISO 30 錐型夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>24000RPM  / INVERTER 380 V - with 3 ISO 30 cones</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125937Z" creationid="ccyu" creationdate="20131107T125305Z">
+        <seg>24000 RPM  / 電流轉向器 380 V - 含 3 組 ISO 30 錐型夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>24000RPM / INVERTER 380 V - with 3 ISO 30 cones</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143251Z" creationid="ccyu" creationdate="20131107T143251Z">
         <seg>24000 RPM  / 電流轉向器 380 V - 含 3 組 ISO 30 錐型夾頭</seg>
       </tuv>
     </tu>
@@ -218,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023043Z" creationid="MAE" creationdate="20131107T022955Z">
         <seg>AXYZ 4004  1220mm x 1524mm 加工處理面積  AXYZ 4004 系列 CNC 雕刻機 – 單頭    包含：  5HP Elte 主軸、Artcam Express 軟體、高容量壓力腳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ 4004 Series CNC Router – Single Head</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143441Z" creationid="ccyu" creationdate="20131107T143441Z">
+        <seg>AXYZ 4004 系列雕刻機 – 單頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,10 +1046,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HP ELTE 24000 RPM / INVERTER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143240Z" creationid="ccyu" creationdate="20131107T143240Z">
+        <seg>HP ELTE 24000 RPM  / 電流轉向器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HYPERTHERM POWERMAX 85  PLASMA CUTTER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131928Z" creationid="ccyu" creationdate="20131107T131928Z">
         <seg>HYPERTHERM POWERMAX 85  電漿切削器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HYPERTHERM POWERMAX 85 PLASMA CUTTER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143339Z" creationid="ccyu" creationdate="20131107T143339Z">
+        <seg>HYPERTHERM POWERMAX 85 電漿切削器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TANGENTIAL KNIFE CARTRIDGE FOR 45 DEGREE BLADE HOLDER (5 blades include</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143320Z" creationid="ccyu" creationdate="20131107T143320Z">
+        <seg>45 度刀之裁刀刀架（含 5 組刀片）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TANGENTIAL KNIFE CARTRIDGE FOR 45 DEGREE BLADE HOLDER (5 blades included)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130548Z" creationid="ccyu" creationdate="20131107T130516Z">
@@ -2321,6 +2377,14 @@
         <seg>VAC EXTENSION PIVOTING ARM  AND 2" VAC HOSE length 50ft (4008 - 6022)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142827Z" creationid="ccyu" creationdate="20131107T142827Z">
+        <seg>真空延伸旋轉臂和 2" 真空軟管 50ft (4008 - 6022)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VAC EXTENSION PIVOTING ARM AND 2" VAC HOSE length 50ft (4008 - 6022)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143348Z" creationid="ccyu" creationdate="20131107T143348Z">
         <seg>真空延伸旋轉臂和 2" 真空軟管 50ft (4008 - 6022)</seg>
       </tuv>
     </tu>
