@@ -1320,8 +1320,8 @@
       <tuv lang="EN-US">
         <seg>LOCAL TAXES AND IMPORT DUTIES ARE NOT INCLUDED.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023451Z" creationid="MAE" creationdate="20131107T023451Z">
-        <seg>不含當地稅稅賦和進口稅。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T150802Z" creationid="MAE" creationdate="20131107T023451Z">
+        <seg>不含當地稅賦和進口稅。</seg>
       </tuv>
     </tu>
     <tu>
