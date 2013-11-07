@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10006 * (3270 mm x 1829 mm PROCESS AREA) X AXIS EXTENSION COST PER 2 FEET(600mm)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143134Z" creationid="ccyu" creationdate="20131107T143134Z">
+        <seg>10006 * (3270 mm x 1829 mm 加工區域) X 軸每 2 英尺 (600 mm) 延伸價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10006 * (3270 mm x 1829 mm) WITH VACUUM BED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142644Z" creationid="ccyu" creationdate="20131107T142644Z">
@@ -198,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTOZONE MANAGEMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143008Z" creationid="ccyu" creationdate="20131107T143008Z">
+        <seg>自動區域管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ 4004  1220mm x 1524mm Process Area  AXYZ 4004 Series CNC Router – Single Head    Includes:  5HP Elte spindle, Artcam Express software, High Capacity pressure foot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023043Z" creationid="MAE" creationdate="20131107T022955Z">
@@ -258,6 +274,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023033Z" creationid="MAE" creationdate="20131107T023033Z">
         <seg>AXYZ 5010  3048mm x 1841mm 加工處理面積  AXYZ 4004 系列 CNC 雕刻機 – 單頭    包含：  5HP Elte 主軸、Artcam Express 軟體、高容量壓力腳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ PRICE  LIST 2013</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142926Z" creationid="ccyu" creationdate="20131107T142926Z">
+        <seg>AXYZ 價目表 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ PRICE LIST 2013</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143043Z" creationid="ccyu" creationdate="20131107T143030Z">
+        <seg>AXYZ 價目表 2013</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +482,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T152042Z" creationid="ccyu" creationdate="20131105T151904Z">
         <seg>可使用氣動進給和氣動或電動旋轉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BARCODE READER WITH CABLE ( Panelbuilder only)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142956Z" creationid="ccyu" creationdate="20131107T142956Z">
+        <seg>條碼讀取機含電纜（僅適用於 Panelbuilder）</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +798,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS from 150mm to 200mm (per Z)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143148Z" creationid="ccyu" creationdate="20131107T143148Z">
+        <seg>延長 Z 軸間隙 &amp; 進程，從 150mm 至 200mm (每一 Z 軸）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS from 150mm to 250mm (per Z)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143200Z" creationid="ccyu" creationdate="20131107T143200Z">
+        <seg>延長 Z 軸間隙 &amp; 進程，從 150mm 至 250mm (每一 Z 軸）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS from 150mm to 300mm (per Z)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143205Z" creationid="ccyu" creationdate="20131107T143205Z">
+        <seg>延長 Z 軸間隙 &amp; 進程，從 150mm 至 300mm (每一 Z 軸）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS from 150mm to 450mm (per Z)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143216Z" creationid="ccyu" creationdate="20131107T143216Z">
+        <seg>延長 Z 軸間隙 &amp; 進程，從 150mm 至 450mm (每一 Z 軸）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each carriage isindependently driven to maintain part accuracy.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125832Z" creationid="ccyu" creationdate="20131105T125832Z">
@@ -922,6 +994,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141808Z" creationid="ccyu" creationdate="20131107T141808Z">
         <seg>長螺旋齒條 [4.2m 至 7.9m（如 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HELICAL RACK [up to 3.7m long ( eg.4012)]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143234Z" creationid="ccyu" creationdate="20131107T143234Z">
+        <seg>螺旋齒條  [3.7m 以下（如 4012）]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1593,6 +1673,14 @@
         <seg>SERVO DRIVES 2X &amp; Y  - 3 drives</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134449Z" creationid="ccyu" creationdate="20131107T134449Z">
+        <seg>伺服驅動器 2X &amp; Y  - 3 組驅動器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERVO DRIVES 2X &amp; Y - 3 drives</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143226Z" creationid="ccyu" creationdate="20131107T143226Z">
         <seg>伺服驅動器 2X &amp; Y  - 3 組驅動器</seg>
       </tuv>
     </tu>
