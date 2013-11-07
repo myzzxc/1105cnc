@@ -328,8 +328,8 @@
       <tuv lang="EN-US">
         <seg>Available insizes that fit most AXYZ Router tables, the swivelling vacuum arm allows forsnag free, full process table operation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071514Z" creationid="MAE" creationdate="20131106T071514Z">
-        <seg>尺寸適合大多數 AXYZ 路達桌，旋轉真空臂允許使操作無阻礙、並能完全使用路達桌。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T135040Z" creationid="MAE" creationdate="20131106T071514Z">
+        <seg>尺寸適合大多數 AXYZ 路達桌，旋轉真空臂允許無阻礙、全進程路達桌操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +586,38 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151051Z" creationid="ccyu" creationdate="20131105T151051Z">
         <seg>有 5 頭 L 形或 9 頭 L 形鑽頭可供選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS  from 150mm to 200mm (per Z)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134843Z" creationid="ccyu" creationdate="20131107T134843Z">
+        <seg>延長 Z 軸間隙 &amp; 進程，從 150mm 至 200mm (每一 Z 軸）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS  from 150mm to 250mm (per Z)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T135118Z" creationid="ccyu" creationdate="20131107T135118Z">
+        <seg>延長 Z 軸間隙 &amp; 進程，從 150mm 至 250mm (每一 Z 軸）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS  from 150mm to 300mm (per Z)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T135124Z" creationid="ccyu" creationdate="20131107T135124Z">
+        <seg>延長 Z 軸間隙 &amp; 進程，從 150mm 至 300mm (每一 Z 軸）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS  from 150mm to 450mm (per Z)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T135130Z" creationid="ccyu" creationdate="20131107T135130Z">
+        <seg>延長 Z 軸間隙 &amp; 進程，從 150mm 至 450mm (每一 Z 軸）</seg>
       </tuv>
     </tu>
     <tu>
