@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GANTRY OPTIONS AND CONFIGURATIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124506Z" creationid="ccyu" creationdate="20131107T124502Z">
+        <seg>支架配件和組態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hardened steel pop-up location pins are pneumatically activated to allow fast, repeatable placement of your cutting materials onto the machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T045544Z" creationid="MAE" creationdate="20131106T045544Z">
@@ -734,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KNIFE OPTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124730Z" creationid="ccyu" creationdate="20131107T124730Z">
+        <seg>刀具配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOCAL TAXES AND IMPORT DUTIES ARE NOT INCLUDED.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023451Z" creationid="MAE" creationdate="20131107T023451Z">
@@ -746,6 +762,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082125Z" creationid="MAE" creationdate="20131106T082125Z">
         <seg>雷射數位轉換器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MACHINE COST TO DEALER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124715Z" creationid="ccyu" creationdate="20131107T124612Z">
+        <seg>經銷價</seg>
       </tuv>
     </tu>
     <tu>
@@ -1578,6 +1602,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023215Z" creationid="MAE" creationdate="20131107T023215Z">
         <seg>雙 5HP Elte 主軸– 雙 Z 組態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>US$</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124743Z" creationid="ccyu" creationdate="20131107T124743Z">
+        <seg>美金$</seg>
       </tuv>
     </tu>
     <tu>
