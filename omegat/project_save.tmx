@@ -1710,6 +1710,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• All vacuum hold down beds come configured with a minimum of 5 independently controlled zones foroptimum hold down management.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115615Z" creationid="ccyu" creationdate="20131107T115615Z">
+        <seg>• 所有真空固定床皆設置最少 5 個獨立控制區以最佳化固定管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Standard aluminium universal hold down bed combines T-Slot clamping with vacuum hold down distribution system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115428Z" creationid="ccyu" creationdate="20131107T115428Z">
+        <seg>• 標準鋁萬用固定床，結合 T 形夾槽和真空固定系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Standard connectivity to NC files from virtually any CAM software package including AXYZ PANELBuilder, EnRoute, ArtCam, Type 3,Mastercam, ProfileLab and more.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T110149Z" creationid="ccyu" creationdate="20131107T110149Z">
