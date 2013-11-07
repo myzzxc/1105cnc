@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High tolerance THK bearings on X, Y, and Zaxes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115157Z" creationid="ccyu" creationdate="20131107T115157Z">
+        <seg>高承重 X、Y 以及 Z 軸 THK 軸承。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High torque / high speed motors and drives onall three axes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115050Z" creationid="ccyu" creationdate="20131107T115050Z">
@@ -930,6 +938,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T060153Z" creationid="MAE" creationdate="20131106T060153Z">
         <seg>壓力腳配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process lengths configurable in600mm increments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115257Z" creationid="ccyu" creationdate="20131107T115257Z">
+        <seg>加工長度組態以 600mm 增加。</seg>
       </tuv>
     </tu>
     <tu>
