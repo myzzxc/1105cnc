@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>AXYZ 4004  1220mm x 1524mm Process Area  AXYZ 4004 Series CNC Router – Single Head    Includes:  5HP Elte spindle, Artcam Express software, High Capacity pressure foot.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022955Z" creationid="MAE" creationdate="20131107T022955Z">
-        <seg>AXYZ 4004  1220mm x 1524mm 加工處理面積  AXYZ 4004 系列 CNC 雕刻機 – 單頭    包含：  5HP Elte 物軸、Artcam Express 軟體、高容量壓力腳。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023043Z" creationid="MAE" creationdate="20131107T022955Z">
+        <seg>AXYZ 4004  1220mm x 1524mm 加工處理面積  AXYZ 4004 系列 CNC 雕刻機 – 單頭    包含：  5HP Elte 主軸、Artcam Express 軟體、高容量壓力腳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add  Twin 5HP Elte Spindles – Twin Y configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023244Z" creationid="MAE" creationdate="20131107T023244Z">
+        <seg>增加  雙 5HP Elte 主軸– 雙 Y 組態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Carso software is included with the scanner which can edit the data before automatically creating the machining path forthe router to follow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053102Z" creationid="MAE" creationdate="20131106T053102Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145053Z" creationid="ccyu" creationdate="20131105T145053Z">
         <seg>另有整合式抽氣網可供使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As above with Vacuum Bed, 8.5hp blower and silencer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023142Z" creationid="MAE" creationdate="20131107T023142Z">
+        <seg>如上，含真空床、8.5hp 鼓風機和消音器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1474,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125724Z" creationid="ccyu" creationdate="20131105T125724Z">
         <seg>可安裝多重刀架於支架上同時進行多份相同工作以增加效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Twin 5HP Elte Spindles – Twin Z configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023215Z" creationid="MAE" creationdate="20131107T023215Z">
+        <seg>雙 5HP Elte 主軸– 雙 Z 組態。</seg>
       </tuv>
     </tu>
     <tu>
