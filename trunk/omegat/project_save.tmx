@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOCAL TAXES AND IMPORT DUTIES ARE NOT INCLUDED.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023451Z" creationid="MAE" creationdate="20131107T023451Z">
+        <seg>不含當地稅稅賦和進口稅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laser Digitiser</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082125Z" creationid="MAE" creationdate="20131106T082125Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T135526Z" creationid="ccyu" creationdate="20131105T135526Z">
         <seg>我們 Elte 產品線的筒夾和帽套主軸能提供快速、乾淨切削以及超靜音操作的平衡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRICES ARE EX WORKS TORONTO, CANADA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023426Z" creationid="MAE" creationdate="20131107T023426Z">
+        <seg>價格為加拿大多倫多工廠交貨價。</seg>
       </tuv>
     </tu>
     <tu>
