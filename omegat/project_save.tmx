@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>24000RPM  / INVERTER 380 V - with 3 ISO 30 cones</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125341Z" creationid="ccyu" creationdate="20131107T125305Z">
+        <seg>24000RPM  / 電流轉向器 380 V - 含 3 組 ISO 30 角錐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5 HP systems are also available forsmaller machine applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065645Z" creationid="MAE" creationdate="20131106T065645Z">
@@ -456,16 +464,16 @@
       <tuv lang="EN-US">
         <seg>DUAL Y CARRIAGE STEPPER (Dual Y ready same price)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125009Z" creationid="ccyu" creationdate="20131107T125009Z">
-        <seg>雙 Y 刀架步進器（雙 Y 配置價格不變）</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125141Z" creationid="ccyu" creationdate="20131107T125009Z">
+        <seg>雙 Y 刀架步進器（雙 Y 現貨價格相同）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>DUAL Z CARRIAGE STEPPER (Dual Z ready same price)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125023Z" creationid="ccyu" creationdate="20131107T125023Z">
-        <seg>雙 Z 刀架步進器（雙 Z 配置價格不變）</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125146Z" creationid="ccyu" creationdate="20131107T125023Z">
+        <seg>雙 Z 刀架步進器（雙 Z 現貨價格相同）</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124506Z" creationid="ccyu" creationdate="20131107T124502Z">
         <seg>支架配件和組態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HP ELTE 24000 RPM  / INVERTER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125310Z" creationid="ccyu" creationdate="20131107T125231Z">
+        <seg>HP ELTE 24000 RPM  / 電流轉向器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1250,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022717Z" creationid="MAE" creationdate="20131107T022717Z">
         <seg>總價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRIPLE Z CARRIAGE STEPPER (Triple Z ready same price)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125207Z" creationid="ccyu" creationdate="20131107T125207Z">
+        <seg>三 Z 刀架步進器（三 Z 現貨價格相同）</seg>
       </tuv>
     </tu>
     <tu>
