@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>21G TOOLCHANGER with 5 ISO 30 cones</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130010Z" creationid="ccyu" creationdate="20131107T130010Z">
+        <seg>21G 換刀器含 5 組 ISO 30 錐型夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>24000 RPM  / INVERTER 380 V - with 3 ISO 30 cones</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125944Z" creationid="ccyu" creationdate="20131107T125412Z">
+        <seg>24000 RPM  / 電流轉向器 380 V - 含 3 組 ISO 30 錐型夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>24000RPM  / INVERTER 380 V - with 3 ISO 30 cones</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125341Z" creationid="ccyu" creationdate="20131107T125305Z">
-        <seg>24000RPM  / 電流轉向器 380 V - 含 3 組 ISO 30 角錐</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125937Z" creationid="ccyu" creationdate="20131107T125305Z">
+        <seg>24000 RPM  / 電流轉向器 380 V - 含 3 組 ISO 30 錐型夾頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +42,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T141115Z" creationid="ccyu" creationdate="20131106T141115Z">
         <seg>6000 系列機台通常配有自動真空區域切換以進行多組料連續操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7G TOOLCHANGER with 4 ISO 30 cones</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125952Z" creationid="ccyu" creationdate="20131107T125931Z">
+        <seg>7G 換刀器含 4 組 ISO 30 錐型夾頭</seg>
       </tuv>
     </tu>
     <tu>
