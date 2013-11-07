@@ -1046,6 +1046,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PLASMA CUTTING BED AND FUME RECEIVER - LARGE (1220mm x 1830mm)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132154Z" creationid="ccyu" creationdate="20131107T132142Z">
+        <seg>電漿切削床和抽氣設備 - 大 (1220mm x 1220mm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PLASMA CUTTING BED AND FUME RECEIVER - SMALL (1220mm x 1220mm)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132145Z" creationid="ccyu" creationdate="20131107T132132Z">
+        <seg>電漿切削床和抽氣設備 - 小 (1220mm x 1220mm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRESSURE FOOT - HIGH CAPACITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132230Z" creationid="ccyu" creationdate="20131107T132230Z">
+        <seg>壓力腳 - 高容量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRICES ARE EX WORKS TORONTO, CANADA.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023426Z" creationid="MAE" creationdate="20131107T023426Z">
@@ -1218,6 +1242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022738Z" creationid="MAE" creationdate="20131107T022738Z">
         <seg>掃描器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCANTECH 3D scanner with software</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132211Z" creationid="ccyu" creationdate="20131107T132211Z">
+        <seg>SCANTECH 3D 掃描器含軟體</seg>
       </tuv>
     </tu>
     <tu>
