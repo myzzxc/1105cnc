@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4014 -4026)]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141813Z" creationid="ccyu" creationdate="20131107T141813Z">
+        <seg>4014 -4026）]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5 HP systems are also available forsmaller machine applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065645Z" creationid="MAE" creationdate="20131106T065645Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081846Z" creationid="MAE" creationdate="20131106T081825Z">
         <seg>AXYZ CNC 雕刻機提供最大範圍的機台配件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ IP VISION SYSTEM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141822Z" creationid="ccyu" creationdate="20131107T141822Z">
+        <seg>AXYZ IP 視覺系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,8 +824,16 @@
       <tuv lang="EN-US">
         <seg>HELICAL RACK  [up to 3.7m long ( eg.4012)]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141614Z" creationid="ccyu" creationdate="20131107T141614Z">
-        <seg>螺旋齒條  [最長 3.7m (( eg.4012)]</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141701Z" creationid="ccyu" creationdate="20131107T141614Z">
+        <seg>螺旋齒條  [3.7m 以下（如 4012）]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HELICAL RACK LONG [4.2m to 7.9m long ( eg.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141808Z" creationid="ccyu" creationdate="20131107T141808Z">
+        <seg>長螺旋齒條 [4.2m 至 7.9m（如 </seg>
       </tuv>
     </tu>
     <tu>
@@ -954,6 +978,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034022Z" creationid="MAE" creationdate="20131106T034022Z">
         <seg>適用標準 20mm 夾頭，可用於所有 5 HP 和 10 HP 主軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>KNIFE MATTING (Price per square meter of process area)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141928Z" creationid="ccyu" creationdate="20131107T141928Z">
+        <seg>刀墊 (Price per square meter of process area)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1234,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132145Z" creationid="ccyu" creationdate="20131107T132132Z">
         <seg>電漿切削床和抽氣設備 - 小 (1220mm x 1220mm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POP UP PINS (each) (Y less 70mm)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141857Z" creationid="ccyu" creationdate="20131107T141857Z">
+        <seg>彈出式定位銷（每支）（Y 小於 70mm）</seg>
       </tuv>
     </tu>
     <tu>
