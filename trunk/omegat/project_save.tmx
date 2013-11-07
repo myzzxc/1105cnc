@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GANTRY AND TABLE EXTENSIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124416Z" creationid="ccyu" creationdate="20131107T124416Z">
+        <seg>支架和桌台延伸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hardened steel pop-up location pins are pneumatically activated to allow fast, repeatable placement of your cutting materials onto the machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T045544Z" creationid="MAE" creationdate="20131106T045544Z">
