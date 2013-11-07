@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3048mm x 1841mm Process Area</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144132Z" creationid="ccyu" creationdate="20131107T144132Z">
+        <seg>3048mm x 1841mm 加工區域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4004 * (1524mm x 1219mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142153Z" creationid="ccyu" creationdate="20131107T142153Z">
@@ -278,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ 5010 Series CNC Router – Single Head</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144148Z" creationid="ccyu" creationdate="20131107T144148Z">
+        <seg>AXYZ 5010 系列雕刻機 – 單頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ 6000 Series machines are commonly found in signmaking, solid surface fabrication, aluminium fabrication, plastics fabrication, marine fabrication, woodworking and more.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T140813Z" creationid="ccyu" creationdate="20131106T140813Z">
@@ -426,6 +442,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115819Z" creationid="ccyu" creationdate="20131107T115819Z">
         <seg>所有主軸轉速皆可達 24000 RPM。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All twin spindle configurations include an additional</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144103Z" creationid="ccyu" creationdate="20131107T144103Z">
+        <seg>所有雙主軸組態標準配備皆包含額外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All twin spindle configurations include an additional pressure foot and T-gantry as standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144034Z" creationid="ccyu" creationdate="20131107T144034Z">
+        <seg>所有雙主軸組態標準配備皆包含額外壓力腳和 T 形支架。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2650,6 +2682,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050010Z" creationid="MAE" creationdate="20131106T050010Z">
         <seg>雷射數位轉換器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pressure foot and T-gantry as standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144107Z" creationid="ccyu" creationdate="20131107T144107Z">
+        <seg>壓力腳和 T 形支架。</seg>
       </tuv>
     </tu>
     <tu>
