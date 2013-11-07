@@ -646,6 +646,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MATERIAL HOLD DOWN OPTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022709Z" creationid="MAE" creationdate="20131107T022709Z">
+        <seg>材料真空固定配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>METAL FABRICATION AND PROCESS TOOLS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022548Z" creationid="MAE" creationdate="20131107T022548Z">
+        <seg>金屬加工和製程刀具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MULTI TOOL OPTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022630Z" creationid="MAE" creationdate="20131107T022630Z">
+        <seg>多重刀具配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mink Rotary Claw Pump</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065853Z" creationid="MAE" creationdate="20131106T065853Z">
@@ -894,6 +918,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SOFTWARE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022719Z" creationid="MAE" creationdate="20131107T022719Z">
+        <seg>軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPINDLE OPTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022514Z" creationid="MAE" creationdate="20131107T022514Z">
+        <seg>主軸配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SWARF COLLECTION ATTACHMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022608Z" creationid="MAE" creationdate="20131107T022608Z">
+        <seg>集屑附件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scantech Surface Scanner</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052638Z" creationid="MAE" creationdate="20131106T052638Z">
@@ -978,6 +1026,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z" creationid="MAE" creationdate="20131106T054732Z">
         <seg>藉由獨特內部旋渦式設計能高效率地吸取切屑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOTAL LIST PRICE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022717Z" creationid="MAE" creationdate="20131107T022717Z">
+        <seg>總價</seg>
       </tuv>
     </tu>
     <tu>
