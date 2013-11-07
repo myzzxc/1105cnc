@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5010 * (1841mm x 3048mm PROCESS AREA)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142317Z" creationid="ccyu" creationdate="20131107T142317Z">
+        <seg>5010 * (1841mm x 3048mm 加工區域)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5010 * (1841mm x 3048mm) WITH VACUUM BED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142428Z" creationid="ccyu" creationdate="20131107T142428Z">
+        <seg>5010 * (1841mm x 3048mm) 含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6000 series machines are often built with automatic vacuum zone switching toenable continuous operation on multiple sheets of material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T141115Z" creationid="ccyu" creationdate="20131106T141115Z">
@@ -78,10 +94,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6010 * (2159mm x 3048mm PROCESS AREA)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142506Z" creationid="ccyu" creationdate="20131107T142506Z">
+        <seg>6010 * (2159mm x 3048mm 加工區域)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6010 * (2159mm x 3048mm) WITH VACUUM BED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142523Z" creationid="ccyu" creationdate="20131107T142523Z">
+        <seg>6010 * (2159mm x 3048mm) 含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7G TOOLCHANGER with 4 ISO 30 cones</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125952Z" creationid="ccyu" creationdate="20131107T125931Z">
         <seg>7G 換刀器含 4 組 ISO 30 錐型夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8010 * (2635mm x 3048mm PROCESS AREA)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142559Z" creationid="ccyu" creationdate="20131107T142544Z">
+        <seg>8010 * (2635mm x 3048mm 加工區域)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8010 * (2635mm x 3048mm) WITH VACUUM BED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142551Z" creationid="ccyu" creationdate="20131107T142551Z">
+        <seg>8010 * (2635mm x 3048mm) 含真空床</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,10 +2334,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>X AXIS EXTENSION COST PER 2 FEET  (600mm) WITH VACUUM BED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142532Z" creationid="ccyu" creationdate="20131107T142532Z">
+        <seg>X 軸每 2 英尺 (600 mm) 延伸價，含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>X AXIS EXTENSION COST PER 2 FEET (600mm)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142243Z" creationid="ccyu" creationdate="20131107T142243Z">
-        <seg>X 每 2 英尺 (600 mm) 延伸價</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142355Z" creationid="ccyu" creationdate="20131107T142243Z">
+        <seg>X 軸每 2 英尺 (600 mm) 延伸價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X AXIS EXTENSION COST PER 2 FEET (600mm) WITH VACUUM BED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142452Z" creationid="ccyu" creationdate="20131107T142452Z">
+        <seg>X 軸每 2 英尺 (600 mm) 延伸價，含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X AXIS EXTENSTION COST PER 2 FEET(600mm)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142409Z" creationid="ccyu" creationdate="20131107T142338Z">
+        <seg>X 軸每 2 英尺 (600 mm) 延伸價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X AXIZ EXTENSION COST PER 2 FEET (600mm) WITH VACUUM BED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142615Z" creationid="ccyu" creationdate="20131107T142615Z">
+        <seg>X 軸每 2 英尺 (600 mm) 延伸價，含真空床</seg>
       </tuv>
     </tu>
     <tu>
