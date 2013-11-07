@@ -350,6 +350,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BECKER 10HP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133704Z" creationid="ccyu" creationdate="20131107T133704Z">
+        <seg>BECKER 泵 10HP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BECKER 10HP with vac protection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133824Z" creationid="ccyu" creationdate="20131107T133824Z">
+        <seg>BECKER 泵 10HP 含真空保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BELLOWS SEAL FOR HIGH CAPACITY PRESSURE FOOT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132354Z" creationid="ccyu" creationdate="20131107T132354Z">
@@ -1238,6 +1254,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REGENERATIVE BLOWER 11.5HP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133557Z" creationid="ccyu" creationdate="20131107T133557Z">
+        <seg>再生鼓風機 11.5HP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REGENERATIVE BLOWER 14.75HP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133605Z" creationid="ccyu" creationdate="20131107T133605Z">
+        <seg>再生鼓風機 14.75HP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REGENERATIVE BLOWER 20HP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133614Z" creationid="ccyu" creationdate="20131107T133614Z">
+        <seg>再生鼓風機 20HP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REGENERATIVE BLOWER 8.5HP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133550Z" creationid="ccyu" creationdate="20131107T133308Z">
@@ -1874,6 +1914,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131706Z" creationid="ccyu" creationdate="20131107T131706Z">
         <seg>UNIST 切削液噴嘴 / 潤滑噴嘴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UPGRADE TO ARTCAM INSIGNA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133838Z" creationid="ccyu" creationdate="20131107T133838Z">
+        <seg>升級 ARTCAM INSIGNA</seg>
       </tuv>
     </tu>
     <tu>
