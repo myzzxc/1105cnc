@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HYPERTHERM POWERMAX 85  PLASMA CUTTER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131928Z" creationid="ccyu" creationdate="20131107T131928Z">
+        <seg>HYPERTHERM POWERMAX 85  電漿切削器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hardened steel pop-up location pins are pneumatically activated to allow fast, repeatable placement of your cutting materials onto the machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T045544Z" creationid="MAE" creationdate="20131106T045544Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124730Z" creationid="ccyu" creationdate="20131107T124730Z">
         <seg>刀具配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LASER DIGITIZER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131752Z" creationid="ccyu" creationdate="20131107T131752Z">
+        <seg>雷射數位轉換器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UNIST MISTER / LUBRICATOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131706Z" creationid="ccyu" creationdate="20131107T131706Z">
+        <seg>UNIST 切削液噴嘴 / 潤滑噴嘴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>US$</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124743Z" creationid="ccyu" creationdate="20131107T124743Z">
@@ -1814,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VORTEX GUN - COLD AIR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131728Z" creationid="ccyu" creationdate="20131107T131728Z">
+        <seg>渦流槍 - 冷風</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vacuum Arm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070850Z" creationid="MAE" creationdate="20131106T070850Z">
@@ -1850,6 +1882,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053245Z" creationid="MAE" creationdate="20131106T053245Z">
         <seg>渦流冷卻槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WESTERN ENGRAVER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z" creationid="ccyu" creationdate="20131107T131747Z">
+        <seg>WESTERN 雕刻器</seg>
       </tuv>
     </tu>
     <tu>
