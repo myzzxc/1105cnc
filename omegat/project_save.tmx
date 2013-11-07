@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ 4004  1220mm x 1524mm Process Area  AXYZ 4004 Series CNC Router – Single Head    Includes:  5HP Elte spindle, Artcam Express software, High Capacity pressure foot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022955Z" creationid="MAE" creationdate="20131107T022955Z">
+        <seg>AXYZ 4004  1220mm x 1524mm 加工處理面積  AXYZ 4004 系列 CNC 雕刻機 – 單頭    包含：  5HP Elte 物軸、Artcam Express 軟體、高容量壓力腳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ 5000 Series machines are commonly found in businesses that specialise in plastic fabrication, aluminium composite fabrication, signmaking, woodworking, solid surface fabrication, POP fabrication and more and are often configured with multiple spindles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T140102Z" creationid="ccyu" creationdate="20131106T140102Z">
@@ -82,6 +90,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081846Z" creationid="MAE" creationdate="20131106T081825Z">
         <seg>AXYZ CNC 雕刻機提供最大範圍的機台配件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ International Packages Prices</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022815Z" creationid="MAE" creationdate="20131107T022815Z">
+        <seg>AXYZ 國際包裝價格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ International Packages Prices AXYZ 5010  3048mm x 1841mm Process Area  AXYZ 5010 Series CNC Router – Single Head    Includes:  5HP Elte spindle, Artcam Express software, High Capacity pressure foot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023033Z" creationid="MAE" creationdate="20131107T023033Z">
+        <seg>AXYZ 5010  3048mm x 1841mm 加工處理面積  AXYZ 4004 系列 CNC 雕刻機 – 單頭    包含：  5HP Elte 主軸、Artcam Express 軟體、高容量壓力腳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +410,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134218Z" creationid="MAE" creationdate="20131105T092955Z">
         <seg>切削配件 - 可用的主要切削工具，包括路達、刀具、鑽頭和更多的切削工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DISTRIBUTOR DISCOUNT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022753Z" creationid="MAE" creationdate="20131107T022753Z">
+        <seg>經銷商優惠</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRINT TO CUT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022733Z" creationid="MAE" creationdate="20131107T022733Z">
+        <seg>印刷切割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plasma Cutting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T140000Z" creationid="ccyu" creationdate="20131105T140000Z">
@@ -914,6 +954,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131234Z" creationid="ccyu" creationdate="20131105T131234Z">
         <seg>於機台兩端同時運行不同操作，當處理需要機台長度之大型工件時可將一支架停放於機台末端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCANNER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022738Z" creationid="MAE" creationdate="20131107T022738Z">
+        <seg>掃描器</seg>
       </tuv>
     </tu>
     <tu>
