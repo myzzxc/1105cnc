@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYl Smart Console</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T125309Z" creationid="ccyu" creationdate="20131108T125309Z">
+        <seg>AXYl 智慧主控台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accuracy Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034417Z" creationid="MAE" creationdate="20131106T034417Z">
@@ -2282,6 +2290,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z" creationid="MAE" creationdate="20131105T092952Z">
         <seg>機台配件可分為五個部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The multipurpose bed system is also fully functional as a t-slot clamping and fixturing bed for non-vacuum hold down situations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T125248Z" creationid="ccyu" creationdate="20131108T125248Z">
+        <seg>多功能床台系統同時也完全支援 T 形槽夾具及夾具床等非真空夾固功能。</seg>
       </tuv>
     </tu>
     <tu>
