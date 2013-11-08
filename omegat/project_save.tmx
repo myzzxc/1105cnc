@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It provides a graphical preview and current status of a running job and allows program feeds and speeds to be changed without pausing the program.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130318Z" creationid="ccyu" creationdate="20131108T130318Z">
+        <seg>其提供了圖形化預覽和目前運行中作業之狀態，並允許程式進料和行進中更改速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Itfitsto a standard 20mm collet and works with all5 HP and 10 HP spindles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034022Z" creationid="MAE" creationdate="20131106T034022Z">
@@ -1330,6 +1338,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124730Z" creationid="ccyu" creationdate="20131107T124730Z">
         <seg>刀具配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Knife Cutting Solutions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130420Z" creationid="ccyu" creationdate="20131108T130420Z">
+        <seg>刀具切削解決方案</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2314,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T125248Z" creationid="ccyu" creationdate="20131108T125248Z">
         <seg>多功能床台系統同時也完全支援 T 形槽夾具及夾具床等非真空夾固功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new AXYZ Smart Console brings unprecedented ease of use, context sensitive menus, realtime display of machine status and many more timesaving, useability and productivity features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130134Z" creationid="ccyu" creationdate="20131108T130134Z">
+        <seg>全新 AXYZ 智慧主控台帶來了前所未有的易用功能選單、即時機台狀態顯示以及更多的省時、實用和高產能功能。</seg>
       </tuv>
     </tu>
     <tu>
