@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will work with all 5 and 10 HP spindles (Elte or HSD).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141923Z" creationid="ccyu" creationdate="20131108T141923Z">
+        <seg>可用於所有 5 和 10 HP 主軸 (Elte 或 HSD)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Itfitsto a standard 20mm collet and works with all5 HP and 10 HP spindles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034022Z" creationid="MAE" creationdate="20131106T034022Z">
@@ -2530,6 +2538,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054007Z" creationid="MAE" creationdate="20131106T054007Z">
         <seg>此高成本效益配件可避免塑膠和軟金屬加工常見的熱相關零件膨脹，並提供更好的邊緣表面及更長的刀具壽命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a heavy duty drag knife system that willfit into a standard 20 mm collet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141828Z" creationid="ccyu" creationdate="20131108T141828Z">
+        <seg>此重型夾頭拖刀系統使用 20 mm 標準筒夾，</seg>
       </tuv>
     </tu>
     <tu>
