@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Series machines include a high performance zoned vacuum bed, which allows areas of the surface to be opened orclosed tovacuum hold down as needed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T123548Z" creationid="ccyu" creationdate="20131108T123548Z">
+        <seg>所有系列機台包含高效能分區真空床，可於需要固定時於不同區域表面打開或關閉真空，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All spindles with 24000 RPM capability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115819Z" creationid="ccyu" creationdate="20131107T115819Z">
