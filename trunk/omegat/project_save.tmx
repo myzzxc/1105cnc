@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A selection of optional interchangeable cartridges are available which can accommodate standard knife blades as well as pizza wheel cutters, creasing wheels and 45° blades.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143109Z" creationid="ccyu" creationdate="20131108T143109Z">
+        <seg>具有選配可交換式刀匣可供選擇，刀匣同時適用於標準刀鋒、輪形刀、壓花輪以及 45 度角刀鋒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACM DUST EXTRACTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132623Z" creationid="ccyu" creationdate="20131107T132623Z">
@@ -1318,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Integrated pressure foot with adjustable tension to hold down materials under heavy cut pressures.The heavy duty drag knife is designed for knife cutting applications that involve heavy gauge flexible materials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T142819Z" creationid="ccyu" creationdate="20131108T142819Z">
+        <seg>整合式可調張力壓力腳能於切割時的高壓下固定材料，重型拖刀專為重型彈性材料切割應用設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intergrated pressure foot with adjustable tension tohold down materials under heavy cutpressures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050704Z" creationid="MAE" creationdate="20131106T034348Z">
@@ -2350,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Tangential Knife adds the robustness needed for heavier knife cutting applications than the vinyl knife can accommodate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143046Z" creationid="ccyu" creationdate="20131108T143015Z">
+        <seg>裁刀為堅固耐用的切削刀具，用於塑膠刀無法處理之較厚重材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cold airgun isasimple device that utilises filtered, compressed airand a venturi effect expansion chamber to produce cold airforspot cooling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053719Z" creationid="MAE" creationdate="20131106T053719Z">
@@ -2496,8 +2520,8 @@
       <tuv lang="EN-US">
         <seg>The tangential knife is arobust knife cutting tool intended forheavier, thicker and harder materials than atraditional drag knife can accommodate.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153222Z" creationid="ccyu" creationdate="20131105T153222Z">
-        <seg>裁刀為耐用的切削刀具，用於傳統拖刀無法處理之較厚重以及較硬的材料。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143032Z" creationid="ccyu" creationdate="20131105T153222Z">
+        <seg>裁刀為堅固耐用的切削刀具，用於傳統拖刀無法處理之較厚重以及較硬的材料。</seg>
       </tuv>
     </tu>
     <tu>
