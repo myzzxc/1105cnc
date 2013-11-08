@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High Performance Vacuum Bed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T123245Z" creationid="ccyu" creationdate="20131108T123245Z">
+        <seg>高效能真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High Quality Extended Versitility Workhorse System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T142301Z" creationid="ccyu" creationdate="20131106T142301Z">
@@ -2070,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The A2MC connects to your local network forinstant program download.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T123226Z" creationid="ccyu" creationdate="20131108T123226Z">
+        <seg>A2MC 可連接內部網路下載程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The A2MC is AXYZ International's next generation machine control system and is fitted as standard on all Series machines.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T122701Z" creationid="ccyu" creationdate="20131108T122647Z">
@@ -2578,6 +2594,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z" creationid="ccyu" creationdate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With 8Gb internal memory, there is plenty of room forprograms which run fast and smoothly on S-Curve trajectories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T123230Z" creationid="ccyu" creationdate="20131108T123142Z">
+        <seg>含 8Gb 內部記憶體，有足夠空間可快速順暢地執行 S-Curve 軌跡程式，</seg>
       </tuv>
     </tu>
     <tu>
