@@ -2174,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tangential Knife Cartridge for Box Cutter Blades</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T154423Z" creationid="ccyu" creationdate="20131108T154423Z">
+        <seg>紙箱切刀之裁刀刀架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 10HP Becker dryvane vacuum pump is perfectly suited forvacuum  hold down on allAXYZ Series Routers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065154Z" creationid="MAE" creationdate="20131106T065103Z">
@@ -2616,8 +2624,8 @@
       <tuv lang="EN-US">
         <seg>This tangential knife cartridge is specially designed to hold knife blades at a 45° angle and can be used to create 'v' cuts in materials such as Xanita, Reboard and others.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T152446Z" creationid="ccyu" creationdate="20131108T152446Z">
-        <seg>裁刀刀架係特別為 45 度設計This tangential knife cartridge is specially designed to hold knife blades at a 45° angle and can be used to create 'v' cuts in materials such as Xanita, Reboard and others.</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T154401Z" creationid="ccyu" creationdate="20131108T152446Z">
+        <seg>裁刀刀架係特別為裝載 45 度刀鋒設計，並可於合板 (Xanita、Reboard) 以及其他板材上進行 "V" 形切割。</seg>
       </tuv>
     </tu>
     <tu>
