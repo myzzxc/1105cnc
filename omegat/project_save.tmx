@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buill on the rugged platform of our CNC Router product line, the knife systems are buill to meet specific application needs for each ofour customers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T135335Z" creationid="ccyu" creationdate="20131108T135335Z">
+        <seg>其建立於我們的 CNC 雕刻機產線上的堅固平台，切削系統專為我們客戶特別需求所製造。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Built to handle an oversized 8foot wide sheet, the machine bed size willenable your business to manufacture large signs and machine large shapes without additional processing off the machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T141734Z" creationid="ccyu" creationdate="20131106T141734Z">
@@ -1570,6 +1578,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T030457Z" creationid="MAE" creationdate="20131106T030037Z">
         <seg>擺動刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oscillating Tangential Knife</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T135342Z" creationid="ccyu" creationdate="20131108T135342Z">
+        <seg>擺動裁刀</seg>
       </tuv>
     </tu>
     <tu>
