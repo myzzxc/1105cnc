@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tangential Knife Cartridge for Saber Blade</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z" creationid="ccyu" creationdate="20131108T160917Z">
+        <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 10HP Becker dryvane vacuum pump is perfectly suited forvacuum  hold down on allAXYZ Series Routers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065154Z" creationid="MAE" creationdate="20131106T065103Z">
@@ -2626,6 +2634,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072917Z" creationid="MAE" creationdate="20131106T072917Z">
         <seg>幫助操作員輕鬆清裡機床零件和廢料，然後重新裝載更多的材料，使 AXYZ 雕刻機操作幾近連續。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This cartridge allows the use ofarotary 'Pizza Wheel' blade which is ideal forcutting tough orabrasive materials such as gasket.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160900Z" creationid="ccyu" creationdate="20131108T160900Z">
+        <seg>此刀匣可使用旋轉“披薩輪形”刀，非常適用於切割或研磨如墊片等材料。</seg>
       </tuv>
     </tu>
     <tu>
