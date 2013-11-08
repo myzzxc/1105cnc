@@ -2182,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tangential Knife Cartridge for Creasing Wheels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T154857Z" creationid="ccyu" creationdate="20131108T154857Z">
+        <seg>壓花輪之裁刀刀架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 10HP Becker dryvane vacuum pump is perfectly suited forvacuum  hold down on allAXYZ Series Routers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065154Z" creationid="MAE" creationdate="20131106T065103Z">
@@ -2390,10 +2398,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The box cutter cartridge holds straight, multi purpose blades suitable forcutting awide variety of materials from thin polyester film to thick card and foam board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T154851Z" creationid="ccyu" creationdate="20131108T154851Z">
+        <seg>紙箱切刀之裁刀刀架垂直固定用於切割多種不同材料之多功能刀具，可切割塑膠薄片、厚卡紙以及泡綿板等材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cold airgun isasimple device that utilises filtered, compressed airand a venturi effect expansion chamber to produce cold airforspot cooling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053719Z" creationid="MAE" creationdate="20131106T053719Z">
         <seg>冷卻氣槍使用過濾壓縮空氣，並利用流量效應膨脹室產生冷空氣以進行冷卻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The creasing wheel cartridge can be fitted with arange ofdifferent sized and profiled creasing wheels for use in sample making applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T154958Z" creationid="ccyu" creationdate="20131108T154958Z">
+        <seg>壓花輪刀架The creasing wheel cartridge can be fitted with arange ofdifferent sized and profiled creasing wheels for use in sample making applications.</seg>
       </tuv>
     </tu>
     <tu>
