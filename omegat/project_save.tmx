@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blade oscillation and tangential control ensures that the cutting blade delivers accurate cuts even on thicker materials without excessive over cut.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T135923Z" creationid="ccyu" creationdate="20131108T135850Z">
+        <seg>刀鋒擺動與切線控制能確保即使材料較厚也能精準的切削且無多餘切削。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both carriages may be configured with automatic tool changer carousels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130203Z" creationid="ccyu" creationdate="20131105T130203Z">
@@ -2286,6 +2294,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Oscillating Tangential knife is designed to provide high accuracy cutting of a wide range of semi rigid materials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T135532Z" creationid="ccyu" creationdate="20131108T135532Z">
+        <seg>擺動裁刀之設計可提供大範圍半剛性材料之高精確切割，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Oscillating knife in conjunction with the AXYZ AVS Vision System delivers incredible value for any print to cut operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140511Z" creationid="ccyu" creationdate="20131108T140511Z">
+        <seg>擺動刀配合 AXYZ AVS 視覺系統使用能勝任任何的印刷切割操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Oscillating knife is available with a wide range of blade lengths and attack angles, to suit a wide variety of materials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140207Z" creationid="ccyu" creationdate="20131108T140144Z">
+        <seg>擺動刀有廣泛的刀鋒長度範圍及不同攻角可供選擇，以滿足各種材料切割需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cold airgun isasimple device that utilises filtered, compressed airand a venturi effect expansion chamber to produce cold airforspot cooling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053719Z" creationid="MAE" creationdate="20131106T053719Z">
@@ -2682,6 +2714,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031727Z" creationid="MAE" creationdate="20131106T031727Z">
         <seg>塑膠刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vinyl Knife Head</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140534Z" creationid="ccyu" creationdate="20131108T140534Z">
+        <seg>塑膠刀頭</seg>
       </tuv>
     </tu>
     <tu>
