@@ -592,7 +592,7 @@
       <tuv lang="EN-US">
         <seg>Automatic feed drills can be added to almost any carriage configuration.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T152240Z" creationid="ccyu" creationdate="20131105T152240Z">
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155949Z" creationid="ccyu" creationdate="20131105T152240Z">
         <seg>自動進給鑽頭可添加至幾乎任何刀架組態</seg>
       </tuv>
     </tu>
@@ -1024,7 +1024,7 @@
       <tuv lang="EN-US">
         <seg>Each carriage isindependently driven to maintain part accuracy.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125832Z" creationid="ccyu" creationdate="20131105T125832Z">
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160005Z" creationid="ccyu" creationdate="20131105T125832Z">
         <seg>每組刀架皆獨立驅動以保持精確度。</seg>
       </tuv>
     </tu>
@@ -1088,7 +1088,7 @@
       <tuv lang="EN-US">
         <seg>Extended gantry lengths allow forfull processing width when utilising wider carriages that accommodate multiple tools orwhen using multiple carriages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130543Z" creationid="ccyu" creationdate="20131105T130503Z">
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155955Z" creationid="ccyu" creationdate="20131105T130503Z">
         <seg>延長支架長度以用於多重刀具所使用之較寬的刀架或用於多重刀架。</seg>
       </tuv>
     </tu>
@@ -1096,7 +1096,7 @@
       <tuv lang="EN-US">
         <seg>Faster and more flexible production isaseasy as choosing asingle, double oreven triple head carriage formultiple tasking operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124225Z" creationid="MAE" creationdate="20131105T093207Z">
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160018Z" creationid="MAE" creationdate="20131105T093207Z">
         <seg>選擇單頭、雙頭甚至三頭刀架以進行多工操作，能更快速且更靈活的生產。</seg>
       </tuv>
     </tu>
@@ -1144,7 +1144,7 @@
       <tuv lang="EN-US">
         <seg>For larger applications requiring full process width ofasingle carriage, the second carriage can conveniently be parked atthe end ofthe gantry.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130102Z" creationid="ccyu" creationdate="20131105T130102Z">
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160000Z" creationid="ccyu" creationdate="20131105T130102Z">
         <seg>當用於需要全部支架範圍之大型工件時，第二刀架可停放於支架末端。</seg>
       </tuv>
     </tu>
@@ -1552,8 +1552,8 @@
       <tuv lang="EN-US">
         <seg>Multiple Carriages</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155800Z" creationid="ccyu" creationdate="20131105T125356Z">
-        <seg>多重刀匣</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160014Z" creationid="ccyu" creationdate="20131105T125356Z">
+        <seg>多重刀架</seg>
       </tuv>
     </tu>
     <tu>
@@ -2168,24 +2168,24 @@
       <tuv lang="EN-US">
         <seg>Tangential Knife Cartridge for 45° Blades</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T152253Z" creationid="ccyu" creationdate="20131108T152253Z">
-        <seg>45 度刀之裁刀刀架</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160030Z" creationid="ccyu" creationdate="20131108T152253Z">
+        <seg>45 度刀之裁刀匣</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tangential Knife Cartridge for Box Cutter Blades</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T154423Z" creationid="ccyu" creationdate="20131108T154423Z">
-        <seg>紙箱切刀之裁刀刀架</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160047Z" creationid="ccyu" creationdate="20131108T154423Z">
+        <seg>紙箱切刀之裁刀匣</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tangential Knife Cartridge for Creasing Wheels</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T154857Z" creationid="ccyu" creationdate="20131108T154857Z">
-        <seg>壓花輪之裁刀刀架</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160103Z" creationid="ccyu" creationdate="20131108T154857Z">
+        <seg>壓花輪之裁刀匣</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,8 +2408,8 @@
       <tuv lang="EN-US">
         <seg>The box cutter cartridge holds straight, multi purpose blades suitable forcutting awide variety of materials from thin polyester film to thick card and foam board.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T154851Z" creationid="ccyu" creationdate="20131108T154851Z">
-        <seg>紙箱切刀之裁刀刀架垂直固定用於切割多種不同材料之多功能刀具，可切割塑膠薄片、厚卡紙以及泡綿板等材料。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160101Z" creationid="ccyu" creationdate="20131108T154851Z">
+        <seg>紙箱切刀之裁刀匣垂直固定用於切割多種不同材料之多功能刀具，可切割塑膠薄片、厚卡紙以及泡綿板等材料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2424,8 +2424,8 @@
       <tuv lang="EN-US">
         <seg>The creasing wheel cartridge can be fitted with arange ofdifferent sized and profiled creasing wheels for use in sample making applications.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155231Z" creationid="ccyu" creationdate="20131108T154958Z">
-        <seg>壓花輪刀架可用於樣品製作應用之壓花輪，可裝載多種不同尺寸以及外型。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160125Z" creationid="ccyu" creationdate="20131108T154958Z">
+        <seg>壓花輪刀匣可用於樣品製作應用之壓花輪，可裝載多種不同尺寸以及外型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,8 +2664,8 @@
       <tuv lang="EN-US">
         <seg>This tangential knife cartridge is specially designed to hold knife blades at a 45° angle and can be used to create 'v' cuts in materials such as Xanita, Reboard and others.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T154401Z" creationid="ccyu" creationdate="20131108T152446Z">
-        <seg>裁刀刀架係特別為裝載 45 度刀鋒設計，並可於合板 (Xanita、Reboard) 以及其他板材上進行 "V" 形切割。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160044Z" creationid="ccyu" creationdate="20131108T152446Z">
+        <seg>裁刀匣係特別為裝載 45 度刀鋒設計，並可於合板 (Xanita、Reboard) 以及其他板材上進行 "V" 形切割。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2696,7 +2696,7 @@
       <tuv lang="EN-US">
         <seg>To improve efficiency, multiple carriages can  be mounted on one gantry toallow you to  run multiple versions ofthe same job.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125724Z" creationid="ccyu" creationdate="20131105T125724Z">
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160010Z" creationid="ccyu" creationdate="20131105T125724Z">
         <seg>可安裝多重刀架於支架上同時進行多份相同工作以增加效率。</seg>
       </tuv>
     </tu>
