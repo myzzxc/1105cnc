@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may also be used for cutting vinyl on flex faced and vacuum formed pan signs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141217Z" creationid="ccyu" creationdate="20131108T140843Z">
+        <seg>也可用於切割金屬看板上之軟面及真空成形塑膠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It provides a graphical preview and current status of a running job and allows program feeds and speeds to be changed without pausing the program.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130318Z" creationid="ccyu" creationdate="20131108T130318Z">
@@ -2610,6 +2618,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053219Z" creationid="MAE" creationdate="20131106T053219Z">
         <seg>用於手工製作零件或無 CAD 資料之老舊零件掃描。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used for large format vinyl cutting, cutting paper mask on acrylic sheets for painting, and for cutting sand blast mask.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140845Z" creationid="ccyu" creationdate="20131108T140824Z">
+        <seg>用於大型塑膠工件切割、壓克力噴漆樣版切割以及噴沙樣板切割，</seg>
       </tuv>
     </tu>
     <tu>
