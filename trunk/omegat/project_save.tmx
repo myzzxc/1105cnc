@@ -1552,8 +1552,8 @@
       <tuv lang="EN-US">
         <seg>Multiple Carriages</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125512Z" creationid="ccyu" creationdate="20131105T125356Z">
-        <seg>多重刀架</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155800Z" creationid="ccyu" creationdate="20131105T125356Z">
+        <seg>多重刀匣</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tangential Knife Cartridge for Pizza Wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155551Z" creationid="ccyu" creationdate="20131108T155551Z">
+        <seg>輪形刀之裁刀刀架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 10HP Becker dryvane vacuum pump is perfectly suited forvacuum  hold down on allAXYZ Series Routers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065154Z" creationid="MAE" creationdate="20131106T065103Z">
@@ -2418,6 +2426,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155231Z" creationid="ccyu" creationdate="20131108T154958Z">
         <seg>壓花輪刀架可用於樣品製作應用之壓花輪，可裝載多種不同尺寸以及外型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The creasing wheels which are sold separately are easily interchanged using a precision push fit mechanism.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155528Z" creationid="ccyu" creationdate="20131108T155528Z">
+        <seg>壓花輪另行販售，藉由精密推入固定機構可輕鬆更換。</seg>
       </tuv>
     </tu>
     <tu>
