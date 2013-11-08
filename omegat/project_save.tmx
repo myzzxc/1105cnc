@@ -2070,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The A2MC is AXYZ International's next generation machine control system and is fitted as standard on all Series machines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T122701Z" creationid="ccyu" creationdate="20131108T122647Z">
+        <seg>A2MC 為 AXYZ 國際之新一代機台控制系統，其為所有系列機台之標準配備，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ACM swarf collection system isa high pressure swarf collector that is configured forthe efficient collection of aluminium, aluminium composite, wood and plastic swarf.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071838Z" creationid="MAE" creationdate="20131106T071700Z">
