@@ -2718,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zone gasketing ensures the virtual elimination of any zone to zone vacuum bleed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T123908Z" creationid="ccyu" creationdate="20131108T123908Z">
+        <seg>分區真空密封確保各區域間不會漏真空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and quieter running.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132919Z" creationid="ccyu" creationdate="20131105T132919Z">
