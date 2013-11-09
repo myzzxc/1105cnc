@@ -2560,8 +2560,8 @@
       <tuv lang="EN-US">
         <seg>The primary application isdigital print finishing where the camera isable toquickly find and recognise conventional registration marks and adjust the machine cutting path to achieve exact alignment with printed shapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T035235Z" creationid="MAE" creationdate="20131106T035235Z">
-        <seg>主要應用為攝影機可快速辨識數位列印圖層之傳統註冊標示，並調整機台切割路徑以精確符合列印圖形。</seg>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T075856Z" creationid="MAE" creationdate="20131106T035235Z">
+        <seg>主要應用為攝影機可快速辨識數位列印圖層之傳統定位標誌，並調整機台切割路徑以精確符合列印圖形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2970,6 +2970,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T130123Z" creationid="ccyu" creationdate="20131106T130123Z">
         <seg>擁有超過  20 年的經驗且已安裝數千台 CNC 雕刻機，AXYZ 有自信製造及銷售強大、耐用且使用簡便的 CNC 雕刻機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With such a wide choice  of tooling you can now process a vast range  of rigid and semi rigid materials from foam board and cardboard to plastics, woods and aluminium all on the same machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T075635Z" creationid="ccyu" creationdate="20131109T075635Z">
+        <seg>多種刀具選擇可處理廣泛的剛性和半剛性材料，於同一機台上可處理泡綿板、瓦愣紙、塑膠、木材及鋁等材料。</seg>
       </tuv>
     </tu>
     <tu>
