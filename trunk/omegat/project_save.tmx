@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A selection of optional interchangeable cartridges are available which can accommodate standard knife blades as well as pizza wheel cutters, creasing wheels and 45degree blades.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082158Z" creationid="ccyu" creationdate="20131109T082158Z">
+        <seg>具有選配可交換式刀匣可供選擇，刀匣同時適用於標準刀鋒、輪形刀、壓花輪以及 45 度角刀鋒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A selection of optional interchangeable cartridges are available which can accommodate standard knife blades as well as pizza wheel cutters, creasing wheels and 45° blades.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143109Z" creationid="ccyu" creationdate="20131108T143109Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143008Z" creationid="ccyu" creationdate="20131107T143008Z">
         <seg>自動區域管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AVS-IP - AXYZ Vision System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082225Z" creationid="ccyu" creationdate="20131109T082225Z">
+        <seg>AVS-IP - AXYZ 視覺系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Oscillating knife in conjunction with the AXYZ AVS-IP system delivers incredible value for any print to cut operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082213Z" creationid="ccyu" creationdate="20131109T082213Z">
+        <seg>擺動刀配合 AXYZ AVS-IP 視覺系統使用能勝任任何的印刷切割操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Oscillating knife is available with a wide range of blade lengths and attack angles, to suit a wide variety of materials.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140207Z" creationid="ccyu" creationdate="20131108T140144Z">
@@ -2682,6 +2706,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031447Z" creationid="MAE" creationdate="20131106T031447Z">
         <seg>上述材料由傳統路達或刀具加工具極具挑戰性，但擺動刀可輕易處理以上材料，提供乾淨的切邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These spindles can be used manually or in conjunction with our ATC automatic tool changer carousel for automatic changing of tool bits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082136Z" creationid="ccyu" creationdate="20131109T082136Z">
+        <seg>這些主軸可手動或配合 ATC 自動換刀轉盤進行換刀。</seg>
       </tuv>
     </tu>
     <tu>
