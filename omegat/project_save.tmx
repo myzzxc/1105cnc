@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print to Cut  Router &amp; Knife Combinations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T080741Z" creationid="ccyu" creationdate="20131109T080741Z">
+        <seg>印刷切割路達 &amp; 刀具組合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Process lengths configurable in600mm increments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115257Z" creationid="ccyu" creationdate="20131107T115257Z">
