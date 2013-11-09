@@ -398,10 +398,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ International – Canada</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083340Z" creationid="ccyu" creationdate="20131109T083340Z">
+        <seg>AXYZ 國際 — 加拿大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ International – India</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083603Z" creationid="ccyu" creationdate="20131109T083603Z">
+        <seg>AXYZ 國際 — 印度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ International – Poland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083539Z" creationid="ccyu" creationdate="20131109T083539Z">
+        <seg>AXYZ 國際 — 波蘭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ International – UK</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083304Z" creationid="ccyu" creationdate="20131109T083304Z">
         <seg>AXYZ 國際 — 英國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ International – USA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083451Z" creationid="ccyu" creationdate="20131109T083451Z">
+        <seg>AXYZ 國際 — 美國</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bangalore, India 560 010 Phone: +91 80 2314 6628</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083618Z" creationid="ccyu" creationdate="20131109T083618Z">
+        <seg>Bangalore, India 560 010 電話： +91 80 2314 6628</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Becker Dry Vane Vacuum</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082223Z" creationid="MAE" creationdate="20131106T082223Z">
@@ -814,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burlington, ON L7L 5L1 Phone: +1 905 634 4940</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083358Z" creationid="ccyu" creationdate="20131109T083358Z">
+        <seg>Burlington, ON L7L 5L1 電話： +1 905 634 4940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By bringing the hole drilling process onto your CNC Router, you  can reduce the material handling and potential damage toyour components, and atthe same time reduce your labour costs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T150904Z" creationid="ccyu" creationdate="20131105T150904Z">
@@ -862,10 +910,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calgary, AB T2C 5C5 Phone: +1 403 236 4464</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083442Z" creationid="ccyu" creationdate="20131109T083442Z">
+        <seg>Calgary, AB T2C 5C5 電話： +1 403 236 4464</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Carpet, Felt and other Single-ply Cloth or Fabric, Vinyl and more...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T134321Z" creationid="ccyu" creationdate="20131108T134321Z">
         <seg>地毯、毛毯和其他單層布料或織物、乙烯塑膠和更多材料…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cincinnati, OH 45241 Phone: +1 513 771 7444</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083459Z" creationid="ccyu" creationdate="20131109T083459Z">
+        <seg>Cincinnati, OH 45241 電話： +1 513 771 7444</seg>
       </tuv>
     </tu>
     <tu>
@@ -1146,6 +1210,70 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160018Z" creationid="MAE" creationdate="20131105T093207Z">
         <seg>選擇單頭、雙頭甚至三頭刀架以進行多工操作，能更快速且更靈活的生產。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax: +1 403 279 4206</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083447Z" creationid="ccyu" creationdate="20131109T083447Z">
+        <seg>傳真： +1 403 279 4206</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax: +1 450 624 9685</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083429Z" creationid="ccyu" creationdate="20131109T083414Z">
+        <seg>傳真： +1 450 624 9685</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax: +1 513 326 5283</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083504Z" creationid="ccyu" creationdate="20131109T083504Z">
+        <seg>傳真： +1 513 326 5283</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax: +1 678 381 2304</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083521Z" creationid="ccyu" creationdate="20131109T083521Z">
+        <seg>傳真： +1 678 381 2304</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax: +1 714 974 6277</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083535Z" creationid="ccyu" creationdate="20131109T083535Z">
+        <seg>傳真： +1 714 974 6277</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax: +1 905 634 4966</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083403Z" creationid="ccyu" creationdate="20131109T083403Z">
+        <seg>傳真： + 1 905 634 4966</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax: +48 58 58 58 119</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083600Z" creationid="ccyu" creationdate="20131109T083600Z">
+        <seg>傳真： +48 58 58 58 119</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax: +91 80 2314 6662</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083634Z" creationid="ccyu" creationdate="20131109T083634Z">
+        <seg>傳真: +91 80 2314 6662</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,6 +1638,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Laval, QC H7L 5Z9 Phone: +1 450 624 9898</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083418Z" creationid="ccyu" creationdate="20131109T083413Z">
+        <seg>Laval, QC H7L 5Z9 電話： +1 450 624 9898</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lawrenceville, GA 30043 Phone: +1 678 381 2300</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083515Z" creationid="ccyu" creationdate="20131109T083515Z">
+        <seg>Lawrenceville, GA 30043 電話： +1 678 381 2300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE COST TO DEALER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124715Z" creationid="ccyu" creationdate="20131107T124612Z">
@@ -1686,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oswobodzenia 1 40-403 Katowice, Poland Phone: +48 32 259 75 50</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083549Z" creationid="ccyu" creationdate="20131109T083549Z">
+        <seg>Oswobodzenia 1 40-403 Katowice, Poland 電話： +48 32 259 75 50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other heights are available upon request.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131745Z" creationid="ccyu" creationdate="20131105T131745Z">
@@ -1794,6 +1946,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142914Z" creationid="ccyu" creationdate="20131107T142914Z">
         <seg>泵消音器（2.5" 適合所有鼓風機 &amp; 消音器）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phone: +44 115 975 8100 Fax: +44 115 979 4600</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083334Z" creationid="ccyu" creationdate="20131109T083334Z">
+        <seg>電話： +44 115 975 8100 傳真： +44 115 979 4600</seg>
       </tuv>
     </tu>
     <tu>
@@ -3162,6 +3322,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142615Z" creationid="ccyu" creationdate="20131107T142615Z">
         <seg>X 軸每 2 英尺 (600 mm) 延伸價，含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yorba Linda, CA 92887 Phone: +1 714 974 6200</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083530Z" creationid="ccyu" creationdate="20131109T083530Z">
+        <seg>Yorba Linda, CA 92887 電話： +1 714 974 6200</seg>
       </tuv>
     </tu>
     <tu>
