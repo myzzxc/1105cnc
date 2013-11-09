@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The AXYZ Vision System is a low cost solution, fast to setup, easy to use and suitable for most print to cut applications using router, knife or both cutting tools.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082508Z" creationid="ccyu" creationdate="20131109T082508Z">
+        <seg>AXYZ 視覺系統為低成本的解決方案，可快速地安裝，使用方便，適合大多數使用路達、刀具或這兩種切割工具之列印刷切割應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The AXYZ brand offers the most diverse range of CNC Routers in the industry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T124426Z" creationid="ccyu" creationdate="20131106T124426Z">
@@ -3214,6 +3222,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Automatic compensation for all location, rotation, stretch and skew distortions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082533Z" creationid="ccyu" creationdate="20131109T082533Z">
+        <seg>• 自動補償所有位置、旋轉、拉伸和扭曲變形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Fully integrated with AXYZ A2MC controller</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082545Z" creationid="ccyu" creationdate="20131109T082545Z">
+        <seg>• 完全整合 AXYZ A2MC 控制器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Intuitive operator interface with full colour graphical image for fast and accurate operation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082751Z" creationid="ccyu" creationdate="20131109T082751Z">
+        <seg>• 直覺的操作介面，彩色圖形化的圖像可供快速、準確地操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Standard aluminium universal hold down bed combines T-Slot clamping with vacuum hold down distribution system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115428Z" creationid="ccyu" creationdate="20131107T115428Z">
@@ -3226,6 +3258,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T110149Z" creationid="ccyu" creationdate="20131107T110149Z">
         <seg>• 標準支援包括 AXYZ PANELBuilder、EnRoute、ArtCam、Type 3、Mastercam、ProfileLab 以及更多 CAM 套裝軟體之 NC 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Works with programs from any CAM software</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082613Z" creationid="ccyu" creationdate="20131109T082613Z">
+        <seg>• 適用於任何 CAM 軟體之程式</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
