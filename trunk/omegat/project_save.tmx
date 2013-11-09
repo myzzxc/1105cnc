@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Routing Spindle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T081446Z" creationid="ccyu" creationdate="20131109T081446Z">
+        <seg>選路主軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run different operations ateither end of the machine, or park one gantry forlarge job processing over virtually the entire machine length.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131234Z" creationid="ccyu" creationdate="20131105T131234Z">
