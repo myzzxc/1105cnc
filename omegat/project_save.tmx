@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ International – UK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083304Z" creationid="ccyu" creationdate="20131109T083304Z">
+        <seg>AXYZ 國際 — 英國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ PRICE  LIST 2013</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142926Z" creationid="ccyu" creationdate="20131107T142926Z">
@@ -1790,10 +1798,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Phone: +44 190 237 5600 Fax: +44 190 237 5662</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083322Z" creationid="ccyu" creationdate="20131109T083322Z">
+        <seg>電話： +44 190 237 5600 傳真： +44 190 237 5662</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plasma Cutting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T140000Z" creationid="ccyu" creationdate="20131105T140000Z">
         <seg>電漿切削</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please contact your local AXYZ representative for detailed information and system requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083242Z" creationid="ccyu" creationdate="20131109T083242Z">
+        <seg>請與您當地的 AXYZ 代表聯繫以取得更詳細的資訊和系統需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3010,6 +3034,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z" creationid="ccyu" creationdate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When it comes to machine vision and camera registration AXYZ has a state of the art solution available which offers outstanding performance and return on investment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083141Z" creationid="ccyu" creationdate="20131109T083141Z">
+        <seg>AXYZ 於機器視覺和攝影定位系統中有最先進的解決方案可供選用，提供卓越的性能和投資回報。</seg>
       </tuv>
     </tu>
     <tu>
