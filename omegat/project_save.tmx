@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ International reserves the right to make design changes without prior notice</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T084041Z" creationid="ccyu" creationdate="20131109T084041Z">
+        <seg>AXYZ 國際保留更改設計的權力，恕不另行通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ International – Canada</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083340Z" creationid="ccyu" creationdate="20131109T083340Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053102Z" creationid="MAE" creationdate="20131106T053102Z">
         <seg>掃描器包含先進的 Carso 軟體，可於自動建立加工路徑前編輯數據。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Albrighton Business Park, Newport Road, Albrighton, Wolverhampton, England WV7 3ET Tel: +44 190 237 6382 Fax: +44 190 237 5662 Email: enquiries@axyz.com Web: www.axyz.com</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T084127Z" creationid="ccyu" creationdate="20131109T084127Z">
+        <seg>Albrighton Business Park, Newport Road, Albrighton, Wolverhampton, England WV7 3ET 電話： +44 190 237 6382 傳真： +44 190 237 5662 電子信箱： enquiries@axyz.com 網址： www.axyz.com</seg>
       </tuv>
     </tu>
     <tu>
