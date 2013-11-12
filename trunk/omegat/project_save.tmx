@@ -2024,10 +2024,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overall Dimensions continued:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082000Z" creationid="Judy" creationdate="20131112T081929Z">
+        <seg>次頁接續：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overall Dimensions:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081417Z" creationid="Judy" creationdate="20131112T081417Z">
-        <seg>外形尺寸：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081919Z" creationid="Judy" creationdate="20131112T081417Z">
+        <seg>外部尺寸：</seg>
       </tuv>
     </tu>
     <tu>
