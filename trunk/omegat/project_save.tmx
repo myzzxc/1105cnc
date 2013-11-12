@@ -657,16 +657,16 @@
       <tuv lang="EN-US">
         <seg>Air Supply</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083236Z" creationid="Judy" creationdate="20131112T083236Z">
-        <seg>氣體供應</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090441Z" creationid="Judy" creationdate="20131112T083236Z">
+        <seg>空氣供應</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Air Supply Chart</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090256Z" creationid="Judy" creationdate="20131112T090256Z">
-        <seg>氣體供應表</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090620Z" creationid="Judy" creationdate="20131112T090256Z">
+        <seg>空氣供應表</seg>
       </tuv>
     </tu>
     <tu>
@@ -689,8 +689,8 @@
       <tuv lang="EN-US">
         <seg>All Router Tables equipped with air tools come prefitted with a water filter/separator (Please see picture below).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T084112Z" creationid="Judy" creationdate="20131112T084112Z">
-        <seg>所有雕刻機工作台皆配有將氣體與水份過濾分離之設備。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090457Z" creationid="Judy" creationdate="20131112T084112Z">
+        <seg>所有雕刻機工作台皆配有將空氣與水過濾分離之設備。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1699,8 +1699,8 @@
       <tuv lang="EN-US">
         <seg>If you do not have any of these then the requirements are minimal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T085623Z" creationid="Judy" creationdate="20131112T085623Z">
-        <seg>若未有上述設備，則為最小氣體需求。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090610Z" creationid="Judy" creationdate="20131112T085623Z">
+        <seg>若未配置上述設備，則適用最低空氣需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1923,8 +1923,8 @@
       <tuv lang="EN-US">
         <seg>MACHINE AIR REQUIREMENTS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083324Z" creationid="Judy" creationdate="20131112T083122Z">
-        <seg>機台之氣體供應需求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090430Z" creationid="Judy" creationdate="20131112T083122Z">
+        <seg>機台之空氣供應需求</seg>
       </tuv>
     </tu>
     <tu>
@@ -1989,6 +1989,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081728Z" creationid="Judy" creationdate="20131112T081728Z">
         <seg>最小門寬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum Air Pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090638Z" creationid="Judy" creationdate="20131112T090638Z">
+        <seg>最低空氣壓力</seg>
       </tuv>
     </tu>
     <tu>
@@ -3068,16 +3076,16 @@
       <tuv lang="EN-US">
         <seg>The air requirements will vary depending if you have a HSD Quick Release Spindle, Pneumatic drill, Electric Drill or Dual mister.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090116Z" creationid="Judy" creationdate="20131112T085523Z">
-        <seg>氣體需求會因機台配有 HSD 快拆主軸、氣動鑽、電動鑽或雙噴頭而異。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090531Z" creationid="Judy" creationdate="20131112T085523Z">
+        <seg>空氣需求會因機台配有 HSD 快拆主軸、氣動鑽、電動鑽或雙噴頭而異。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The air supply input is shown below.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083428Z" creationid="Judy" creationdate="20131112T083428Z">
-        <seg>氣體供應輸入如下圖所示。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090445Z" creationid="Judy" creationdate="20131112T083428Z">
+        <seg>空氣供應輸入如下圖所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3252,8 +3260,8 @@
       <tuv lang="EN-US">
         <seg>The recommendations on the Air Supply chart are for one unit so if your machine has two Spindles, drills or misters you will need to double the figures.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090240Z" creationid="Judy" creationdate="20131112T090015Z">
-        <seg>建議氣體供應表適用於單套裝置，若機台配有兩組主軸、鑽頭或噴頭則需加倍計算。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090616Z" creationid="Judy" creationdate="20131112T090015Z">
+        <seg>建議空氣供應表適用於單套裝置，若機台配有兩組主軸、鑽頭或噴頭則需加倍計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3812,8 +3820,8 @@
       <tuv lang="EN-US">
         <seg>You will need to supply an air compressor or an air feed that is capable of delivering sufficient air supply to your router system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T084534Z" creationid="Judy" creationdate="20131112T084534Z">
-        <seg>因此需自行準備一台空氣壓縮機或是可提供雕刻機系統充足氣體的氣體供應設備。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090524Z" creationid="Judy" creationdate="20131112T084534Z">
+        <seg>因此需自行準備一台空氣壓縮機或是可提供雕刻機系統充足空氣之設備。</seg>
       </tuv>
     </tu>
     <tu>
