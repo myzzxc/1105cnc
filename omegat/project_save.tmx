@@ -647,6 +647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air Supply</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083236Z" creationid="Judy" creationdate="20131112T083236Z">
+        <seg>氣體供應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Albrighton Business Park, Newport Road, Albrighton, Wolverhampton, England WV7 3ET Tel: +44 190 237 6382 Fax: +44 190 237 5662 Email: enquiries@axyz.com Web: www.axyz.com</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T084127Z" creationid="ccyu" creationdate="20131109T084127Z">
@@ -1875,8 +1883,8 @@
       <tuv lang="EN-US">
         <seg>MACHINE AIR REQUIREMENTS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083122Z" creationid="Judy" creationdate="20131112T083122Z">
-        <seg>機台之氣體需求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083324Z" creationid="Judy" creationdate="20131112T083122Z">
+        <seg>機台之氣體供應需求</seg>
       </tuv>
     </tu>
     <tu>
@@ -3013,6 +3021,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143046Z" creationid="ccyu" creationdate="20131108T143015Z">
         <seg>裁刀為堅固耐用的切削刀具，用於塑膠刀無法處理之較厚重材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The air supply input is shown below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083428Z" creationid="Judy" creationdate="20131112T083428Z">
+        <seg>氣體供應輸入如下圖所示。</seg>
       </tuv>
     </tu>
     <tu>
