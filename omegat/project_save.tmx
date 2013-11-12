@@ -1761,6 +1761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended for the long term operation of the table that an air drier is used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083730Z" creationid="Judy" creationdate="20131112T083730Z">
+        <seg>長期運作之機台建議使用空氣乾燥器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may also be used for cutting vinyl on flex faced and vacuum formed pan signs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141217Z" creationid="ccyu" creationdate="20131108T140843Z">
@@ -3077,6 +3085,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145711Z" creationid="ccyu" creationdate="20131105T145313Z">
         <seg>雕刻器為專門為了 AXYZ 系列或 Millennium CNC 雕刻機進行輕型所設計，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fitting is a ¼” (6.35mm) quick disconnect fitting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083625Z" creationid="Judy" creationdate="20131112T083625Z">
+        <seg>¼” (6.35 毫米) 之快速斷開接頭。</seg>
       </tuv>
     </tu>
     <tu>
