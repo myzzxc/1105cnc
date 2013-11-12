@@ -1265,6 +1265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the configuration of your machine you will need to provide 1, 2 or 3 separate power supplies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092531Z" creationid="Judy" creationdate="20131112T092459Z">
+        <seg>根據機台配置可能需要 1、 2 或 3 組獨立電源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drill heads are available ina5 tool Lshape ora9 tool Lshape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151051Z" creationid="ccyu" creationdate="20131105T151051Z">
@@ -1977,6 +1985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MACHINE SYSTEM POWER REQUIREMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092357Z" creationid="Judy" creationdate="20131112T092357Z">
+        <seg>機台系統電源需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MATERIAL HOLD DOWN OPTIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022709Z" creationid="MAE" creationdate="20131107T022709Z">
@@ -2397,6 +2413,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T080226Z" creationid="Judy" creationdate="20131112T080041Z">
         <seg>請將本文件最後一頁表格完成、簽名並繳回，以確保無安裝上的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please note: If you install a regulator on your air line prior to the machine, it must be capable of delivering the flow and pressure required for your machine configuration in order to ensure correct operation of your machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092331Z" creationid="Judy" creationdate="20131112T092314Z">
+        <seg>請注意：若在安裝機台前於空氣管路上安裝調節器，必須符合機台配置使空氣流動及加壓以確保機台能正確運作。</seg>
       </tuv>
     </tu>
     <tu>
