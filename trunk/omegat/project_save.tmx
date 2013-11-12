@@ -671,6 +671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Router Tables equipped with air tools come prefitted with a water filter/separator (Please see picture below).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T084112Z" creationid="Judy" creationdate="20131112T084112Z">
+        <seg>所有雕刻機工作台皆配有將氣體與水份過濾分離之設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Series machines include a high performance zoned vacuum bed, which allows areas of the surface to be opened orclosed tovacuum hold down as needed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T123548Z" creationid="ccyu" creationdate="20131108T123548Z">
