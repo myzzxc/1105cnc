@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* It is also an option to load from the side of the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082452Z" creationid="Judy" creationdate="20131112T082452Z">
+        <seg>* 也可由此方向搬運機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10006 * (3270 mm x 1829 mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142624Z" creationid="ccyu" creationdate="20131107T142624Z">
@@ -2026,8 +2034,8 @@
       <tuv lang="EN-US">
         <seg>Overall Dimensions continued:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082000Z" creationid="Judy" creationdate="20131112T081929Z">
-        <seg>次頁接續：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082239Z" creationid="Judy" creationdate="20131112T081929Z">
+        <seg>接續外部尺寸：</seg>
       </tuv>
     </tu>
     <tu>
