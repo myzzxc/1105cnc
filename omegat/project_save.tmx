@@ -13,11 +13,36 @@
       </tuv>
     </tu>
     <tu>
+      <note>？</note>
       <tuv lang="EN-US">
         <seg>* It is also an option to load from the side of the table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082452Z" creationid="Judy" creationdate="20131112T082452Z">
         <seg>* 也可由此方向搬運機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0.5 m</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082954Z" creationid="Judy" creationdate="20131112T082954Z">
+        <seg>0.5 公尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 m</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082956Z" creationid="Judy" creationdate="20131112T082956Z">
+        <seg>1 公尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.5 m</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082959Z" creationid="Judy" creationdate="20131112T082959Z">
+        <seg>1.5 公尺</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +99,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081802Z" creationid="Judy" creationdate="20131112T081802Z">
         <seg>1680 毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 m</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082951Z" creationid="Judy" creationdate="20131112T082951Z">
+        <seg>2 公尺</seg>
       </tuv>
     </tu>
     <tu>
@@ -1032,6 +1065,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clearances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082918Z" creationid="Judy" creationdate="20131112T082918Z">
+        <seg>間隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collet Spindles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134958Z" creationid="ccyu" creationdate="20131105T134958Z">
@@ -1456,6 +1497,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Front</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082934Z" creationid="Judy" creationdate="20131112T082921Z">
+        <seg>前方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GANTRY AND TABLE EXTENSIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124416Z" creationid="ccyu" creationdate="20131107T124416Z">
@@ -1808,10 +1857,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082936Z" creationid="Judy" creationdate="20131112T082925Z">
+        <seg>左方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Length</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081436Z" creationid="Judy" creationdate="20131112T081436Z">
         <seg>長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MACHINE AIR REQUIREMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083122Z" creationid="Judy" creationdate="20131112T083122Z">
+        <seg>機台之氣體需求</seg>
       </tuv>
     </tu>
     <tu>
@@ -2368,6 +2433,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rear</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082940Z" creationid="Judy" creationdate="20131112T082940Z">
+        <seg>後方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regenerative Blower</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082237Z" creationid="MAE" creationdate="20131106T082237Z">
@@ -2380,6 +2453,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133313Z" creationid="MAE" creationdate="20131106T070621Z">
         <seg>真空抽氣使用之再生鼓風機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082946Z" creationid="Judy" creationdate="20131112T082946Z">
+        <seg>右方</seg>
       </tuv>
     </tu>
     <tu>
@@ -2644,6 +2725,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081822Z" creationid="Judy" creationdate="20131112T081822Z">
         <seg>表 1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 2.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083001Z" creationid="Judy" creationdate="20131112T083001Z">
+        <seg>表 2.0</seg>
       </tuv>
     </tu>
     <tu>
