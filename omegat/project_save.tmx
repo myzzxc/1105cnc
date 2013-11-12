@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1025 kg</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081813Z" creationid="Judy" creationdate="20131112T081813Z">
+        <seg>1025 公斤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1220mm x 1524mm Process Area</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143419Z" creationid="ccyu" creationdate="20131107T143419Z">
@@ -46,10 +54,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1350 mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081802Z" creationid="Judy" creationdate="20131112T081802Z">
+        <seg>1350 毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1680 mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081802Z" creationid="Judy" creationdate="20131112T081802Z">
+        <seg>1680 毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>21G TOOLCHANGER with 5 ISO 30 cones</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130010Z" creationid="ccyu" creationdate="20131107T130010Z">
         <seg>21G 換刀器含 5 組 ISO 30 錐型夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2250 mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081801Z" creationid="Judy" creationdate="20131112T081801Z">
+        <seg>2250 毫米</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +138,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144158Z" creationid="ccyu" creationdate="20131107T144158Z">
         <seg>3048mm x 2159 加工區域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3050 mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081759Z" creationid="Judy" creationdate="20131112T081759Z">
+        <seg>3050 毫米</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142551Z" creationid="ccyu" creationdate="20131107T142551Z">
         <seg>8010 * (2635mm x 3048mm) 含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>890 mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081806Z" creationid="Judy" creationdate="20131112T081806Z">
+        <seg>890 毫米</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,6 +1152,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deck Height (h2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081752Z" creationid="Judy" creationdate="20131112T081620Z">
+        <seg>桌面高度 (h2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drill heads are available ina5 tool Lshape ora9 tool Lshape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151051Z" creationid="ccyu" creationdate="20131105T151051Z">
@@ -1490,8 +1546,8 @@
       <tuv lang="EN-US">
         <seg>Height (h1)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081446Z" creationid="Judy" creationdate="20131112T081446Z">
-        <seg>高度（h1）</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081622Z" creationid="Judy" creationdate="20131112T081446Z">
+        <seg>高度 (h1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1796,6 +1852,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115730Z" creationid="ccyu" creationdate="20131107T115730Z">
         <seg>多種不同刀具組態可供使用，包括多重主軸，以及 HSD 5 和 10.8 HP 快速釋放主軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Min Door Width</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081728Z" creationid="Judy" creationdate="20131112T081728Z">
+        <seg>最小門寬</seg>
       </tuv>
     </tu>
     <tu>
@@ -2552,6 +2616,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 1.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081822Z" creationid="Judy" creationdate="20131112T081822Z">
+        <seg>表 1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table Width</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081457Z" creationid="Judy" creationdate="20131112T081457Z">
@@ -2882,8 +2954,8 @@
       <tuv lang="EN-US">
         <seg>The following diagrams should help you lay all this out.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081408Z" creationid="Judy" creationdate="20131112T081408Z">
-        <seg>下列表格提供詳細資料。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081720Z" creationid="Judy" creationdate="20131112T081408Z">
+        <seg>下列圖表提供詳細資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3372,6 +3444,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z" creationid="ccyu" creationdate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Kgs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081819Z" creationid="Judy" creationdate="20131112T081745Z">
+        <seg>重量</seg>
       </tuv>
     </tu>
     <tu>
