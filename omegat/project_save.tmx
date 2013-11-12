@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ ROUTER TABLES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T074716Z" creationid="Judy" creationdate="20131112T074716Z">
+        <seg>AXYZ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ Vision System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034437Z" creationid="MAE" creationdate="20131106T034437Z">
@@ -1930,6 +1938,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141857Z" creationid="ccyu" creationdate="20131107T141857Z">
         <seg>彈出式定位銷（每支）（Y 小於 70mm）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRE-INSTALLATION GUIDE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T074732Z" creationid="Judy" creationdate="20131112T074732Z">
+        <seg>安裝前指南</seg>
       </tuv>
     </tu>
     <tu>
