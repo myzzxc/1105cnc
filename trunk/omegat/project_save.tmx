@@ -637,6 +637,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>?
+</note>
+      <tuv lang="EN-US">
+        <seg>Any hold up to the installation, because of non-availability of supplies may result in your machine not being installed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081045Z" creationid="Judy" creationdate="20131112T081045Z">
+        <seg>由於缺乏電源供應而造成安裝程序之延遲，將可能導致機台無法安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>As above with Vacuum Bed, 11.5hp blower and silencer</seg>
       </tuv>
@@ -1974,6 +1984,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PREPARING THE SPACE FOR THE MACHINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081124Z" creationid="Judy" creationdate="20131112T081124Z">
+        <seg>準備放置機台之空間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRESSURE FOOT - HIGH CAPACITY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132230Z" creationid="ccyu" creationdate="20131107T132230Z">
@@ -3058,6 +3076,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124520Z" creationid="MAE" creationdate="20131105T093208Z">
         <seg>此加工組態常用於一般僅使用兩刀或三刀之加工製程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will likely be the most difficult part of the whole installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081155Z" creationid="Judy" creationdate="20131112T081155Z">
+        <seg>此將會是安裝程序中最困難的部分。</seg>
       </tuv>
     </tu>
     <tu>
