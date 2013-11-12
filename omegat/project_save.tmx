@@ -1689,6 +1689,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not have any of these then the requirements are minimal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T085623Z" creationid="Judy" creationdate="20131112T085623Z">
+        <seg>若未有上述設備，則為最小氣體需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In these instances please use the same clearance as show below for the front of the table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082728Z" creationid="Judy" creationdate="20131112T082547Z">
@@ -3045,6 +3053,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143046Z" creationid="ccyu" creationdate="20131108T143015Z">
         <seg>裁刀為堅固耐用的切削刀具，用於塑膠刀無法處理之較厚重材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>?</note>
+      <tuv lang="EN-US">
+        <seg>The air requirements will vary depending if you have a HSD Quick Release Spindle, Pneumatic drill, Electric Drill or Dual mister.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T085523Z" creationid="Judy" creationdate="20131112T085523Z">
+        <seg>氣體需求會因機台配有 HSD 快拆主軸、氣動鑽、電動鑽而異。</seg>
       </tuv>
     </tu>
     <tu>
