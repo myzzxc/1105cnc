@@ -3769,6 +3769,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will need to supply an air compressor or an air feed that is capable of delivering sufficient air supply to your router system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T084534Z" creationid="Judy" creationdate="20131112T084534Z">
+        <seg>因此需自行準備一台空氣壓縮機或是可提供雕刻機系統充足氣體的氣體供應設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will soon be taking delivery of your AXYZ Router Table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T075805Z" creationid="Judy" creationdate="20131112T075448Z">
