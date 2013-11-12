@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(Total air flow required will be the sum of all your options)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090820Z" creationid="Judy" creationdate="20131112T090820Z">
+        <seg>（總空氣流量需求為所有項目之總和）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Use the highest air pressure of all your options)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090732Z" creationid="Judy" creationdate="20131112T090732Z">
+        <seg>（所有工具皆使用最高的空氣壓力）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* All models include A2MC controller and Artcam Express</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142138Z" creationid="ccyu" creationdate="20131107T142138Z">
@@ -651,6 +667,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053102Z" creationid="MAE" creationdate="20131106T053102Z">
         <seg>掃描器包含先進的 Carso 軟體，可於自動建立加工路徑前編輯數據。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Air Flow Required</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090743Z" creationid="Judy" creationdate="20131112T090743Z">
+        <seg>空氣流量需求</seg>
       </tuv>
     </tu>
     <tu>
@@ -3452,8 +3476,8 @@
       <tuv lang="EN-US">
         <seg>Tooling Option</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090302Z" creationid="Judy" creationdate="20131112T090302Z">
-        <seg>工具選項</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090709Z" creationid="Judy" creationdate="20131112T090302Z">
+        <seg>工具項目</seg>
       </tuv>
     </tu>
     <tu>
