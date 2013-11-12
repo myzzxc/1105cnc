@@ -1616,6 +1616,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In these instances please use the same clearance as show below for the front of the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082728Z" creationid="Judy" creationdate="20131112T082547Z">
+        <seg>於此情況下請使用下表之間隙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Includes torch, power supply and torch height control.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144957Z" creationid="ccyu" creationdate="20131105T144957Z">
