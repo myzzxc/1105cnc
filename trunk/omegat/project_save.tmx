@@ -1369,6 +1369,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electric Drill</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091649Z" creationid="Judy" creationdate="20131112T091649Z">
+        <seg>電動鑽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Engraver</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145107Z" creationid="ccyu" creationdate="20131105T145107Z">
@@ -1613,6 +1621,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143240Z" creationid="ccyu" creationdate="20131107T143240Z">
         <seg>HP ELTE 24000 RPM  / 電流轉向器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HSD Spindle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091801Z" creationid="Judy" creationdate="20131112T091801Z">
+        <seg>HSD 主軸</seg>
       </tuv>
     </tu>
     <tu>
@@ -2041,6 +2057,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mister Option</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091756Z" creationid="Judy" creationdate="20131112T091756Z">
+        <seg>噴頭配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Model</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081433Z" creationid="Judy" creationdate="20131112T081433Z">
@@ -2133,6 +2157,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130300Z" creationid="ccyu" creationdate="20131107T130300Z">
         <seg>擺動刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Option</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091705Z" creationid="Judy" creationdate="20131112T091705Z">
+        <seg>配件</seg>
       </tuv>
     </tu>
     <tu>
@@ -2373,6 +2405,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141521Z" creationid="ccyu" creationdate="20131108T141521Z">
         <seg>其包含繪圖筆頭及刀片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pneumatic Drill Option</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091715Z" creationid="Judy" creationdate="20131112T091640Z">
+        <seg>電動鑽配件</seg>
       </tuv>
     </tu>
     <tu>
@@ -2821,6 +2861,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083001Z" creationid="Judy" creationdate="20131112T083001Z">
         <seg>表 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 3.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091813Z" creationid="Judy" creationdate="20131112T091813Z">
+        <seg>表 3.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3484,8 +3532,8 @@
       <tuv lang="EN-US">
         <seg>Tooling Option</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090709Z" creationid="Judy" creationdate="20131112T090302Z">
-        <seg>工具項目</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091740Z" creationid="Judy" creationdate="20131112T090302Z">
+        <seg>工具配件</seg>
       </tuv>
     </tu>
     <tu>
