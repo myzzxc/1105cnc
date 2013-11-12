@@ -575,6 +575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ does not provide an air compressor with the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T084306Z" creationid="Judy" creationdate="20131112T084306Z">
+        <seg>AXYZ 工作台並未提供空氣壓縮機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ has the capacity tobuild the Series CNC Routers inawide variety ofmachine sizes, tooling configurations and hold down options.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T145016Z" creationid="ccyu" creationdate="20131106T145016Z">
@@ -3597,6 +3605,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z" creationid="ccyu" creationdate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend that you check this unit regularly to ensure proper operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T084155Z" creationid="Judy" creationdate="20131112T084155Z">
+        <seg>建議定期檢查此項設備以確保機台運作正常。</seg>
       </tuv>
     </tu>
     <tu>
