@@ -1488,6 +1488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Height (h1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081446Z" creationid="Judy" creationdate="20131112T081446Z">
+        <seg>高度（h1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helical Rack</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132529Z" creationid="ccyu" creationdate="20131105T132443Z">
@@ -1532,6 +1540,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115050Z" creationid="ccyu" creationdate="20131107T115050Z">
         <seg>三軸高扭力 / 高速馬達和驅動器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identify and clear an area ready for the machine, making sure all your doors and entrances are large enough to get the machine through.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081337Z" creationid="Judy" creationdate="20131112T081337Z">
+        <seg>規劃並清理空間供機台放置，確保入口與門的大小可足以使機台通過。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1720,6 +1736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Length</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081436Z" creationid="Judy" creationdate="20131112T081436Z">
+        <seg>長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE COST TO DEALER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124715Z" creationid="ccyu" creationdate="20131107T124612Z">
@@ -1780,6 +1804,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065853Z" creationid="MAE" creationdate="20131106T065853Z">
         <seg>Mink 爪式轉子泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Model</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081433Z" creationid="Judy" creationdate="20131112T081433Z">
+        <seg>型號</seg>
       </tuv>
     </tu>
     <tu>
@@ -1924,6 +1956,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T135526Z" creationid="ccyu" creationdate="20131105T135526Z">
         <seg>我們 Elte 產品線的筒夾和帽套主軸能提供快速、乾淨切削以及超靜音操作的平衡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall Dimensions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081417Z" creationid="Judy" creationdate="20131112T081417Z">
+        <seg>外形尺寸：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2512,6 +2552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table Width</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081457Z" creationid="Judy" creationdate="20131112T081457Z">
+        <seg>工作台寬度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tangential Knife Cartridge for 45° Blades</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160030Z" creationid="ccyu" creationdate="20131108T152253Z">
@@ -2828,6 +2876,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145711Z" creationid="ccyu" creationdate="20131105T145313Z">
         <seg>雕刻器為專門為了 AXYZ 系列或 Millennium CNC 雕刻機進行輕型所設計，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following diagrams should help you lay all this out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081408Z" creationid="Judy" creationdate="20131112T081408Z">
+        <seg>下列表格提供詳細資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3324,6 +3380,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083141Z" creationid="ccyu" creationdate="20131109T083141Z">
         <seg>AXYZ 於機器視覺和攝影定位系統中有最先進的解決方案可供選用，提供卓越的性能和投資回報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081438Z" creationid="Judy" creationdate="20131112T081438Z">
+        <seg>寬度</seg>
       </tuv>
     </tu>
     <tu>
