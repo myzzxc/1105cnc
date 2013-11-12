@@ -183,6 +183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 phase 380-440 volts 50/60 Hertz</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092854Z" creationid="Judy" creationdate="20131112T092854Z">
+        <seg>3 相 380-440 伏 50/60 赫茲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3048mm x 1841mm Process Area</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144132Z" creationid="ccyu" creationdate="20131107T144132Z">
@@ -1777,6 +1785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Input Power Requirements for Low Voltage Systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092909Z" creationid="Judy" creationdate="20131112T092909Z">
+        <seg>低電壓系統之輸入電源需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installing an AXYZ Router Table is actually quite simple and can be accomplished in just a few hours IF you are ready for it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T075950Z" creationid="Judy" creationdate="20131112T075758Z">
@@ -2625,6 +2641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Router Power Supply</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092648Z" creationid="Judy" creationdate="20131112T092648Z">
+        <seg>雕刻機電源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Routing Spindle</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T081446Z" creationid="ccyu" creationdate="20131109T081446Z">
@@ -3222,6 +3246,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155528Z" creationid="ccyu" creationdate="20131108T155528Z">
         <seg>壓花輪另行販售，藉由精密推入固定機構可輕鬆更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current requirements depend largely on the size and number of spindles that you have on the machine:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092822Z" creationid="Judy" creationdate="20131112T092818Z">
+        <seg>電流需求大部分視主軸大小與數目而定：</seg>
       </tuv>
     </tu>
     <tu>
