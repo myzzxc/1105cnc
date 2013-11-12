@@ -2062,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please ensure you complete, sign and return the sheet on the last page to ensure a trouble free installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T080226Z" creationid="Judy" creationdate="20131112T080041Z">
+        <seg>請將本文件最後一頁表格完成、簽名並繳回，以確保無安裝上的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plotting pens and blades included.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141521Z" creationid="ccyu" creationdate="20131108T141521Z">
