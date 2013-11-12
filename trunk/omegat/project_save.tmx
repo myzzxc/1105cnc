@@ -183,10 +183,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 Phase 208-240 volts 50/60 Hertz</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T093136Z" creationid="Judy" creationdate="20131112T093028Z">
+        <seg>3 相 208-240 volts 50/60 Hertz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 Phase 380-480 volts 50/60 Hertz</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T093144Z" creationid="Judy" creationdate="20131112T093144Z">
+        <seg>3 相 380-480 volts 50/60 Hertz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 phase 380-440 volts 50/60 Hertz</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092854Z" creationid="Judy" creationdate="20131112T092854Z">
-        <seg>3 相 380-440 伏 50/60 赫茲</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T093125Z" creationid="Judy" creationdate="20131112T092854Z">
+        <seg>3 相 380-440 volts 50/60 Hertz</seg>
       </tuv>
     </tu>
     <tu>
@@ -1785,6 +1801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Input Power Requirements for High Voltage Systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T093048Z" creationid="Judy" creationdate="20131112T093048Z">
+        <seg>高電壓系統之輸入電源需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Input Power Requirements for Low Voltage Systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092909Z" creationid="Judy" creationdate="20131112T092909Z">
@@ -2049,6 +2073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Main Disconnect Fuse</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092942Z" creationid="Judy" creationdate="20131112T092942Z">
+        <seg>主斷開保險絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many different tooling configurations available, including multiple spindles as well asHSD 5 and 10.8 HP quick release spindles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115730Z" creationid="ccyu" creationdate="20131107T115730Z">
@@ -2181,6 +2213,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082147Z" creationid="MAE" creationdate="20131106T082147Z">
         <seg>凸出式移動接環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of Spindles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092917Z" creationid="Judy" creationdate="20131112T092917Z">
+        <seg>主軸數量</seg>
       </tuv>
     </tu>
     <tu>
@@ -2789,6 +2829,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072303Z" creationid="MAE" creationdate="20131106T072303Z">
         <seg>簡單氣動切換開關可打開和關閉真空抽氣區域，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size of Spindles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092924Z" creationid="Judy" creationdate="20131112T092924Z">
+        <seg>主軸大小</seg>
       </tuv>
     </tu>
     <tu>
