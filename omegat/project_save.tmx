@@ -32,16 +32,16 @@
       <tuv lang="EN-US">
         <seg>(Total air flow required will be the sum of all your options)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090820Z" creationid="Judy" creationdate="20131112T090820Z">
-        <seg>（總空氣流量需求為所有項目之總和）</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085403Z" creationid="Judy" creationdate="20131112T090820Z">
+        <seg>（總空氣流量需求為所有配件之總和）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(Use the highest air pressure of all your options)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090732Z" creationid="Judy" creationdate="20131112T090732Z">
-        <seg>（所有工具皆使用最高的空氣壓力）</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085348Z" creationid="Judy" creationdate="20131112T090732Z">
+        <seg>（所有工具皆套用最高的空氣壓力）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4014,8 +4014,8 @@
       <tuv lang="EN-US">
         <seg>The recommendations on the Air Supply chart are for one unit so if your machine has two Spindles, drills or misters you will need to double the figures.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090616Z" creationid="Judy" creationdate="20131112T090015Z">
-        <seg>建議空氣供應表適用於單套裝置，若機台配有兩組主軸、鑽頭或噴頭則需加倍計算。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085312Z" creationid="Judy" creationdate="20131112T090015Z">
+        <seg>空氣供應表之建議數值僅適用於單套裝置，若機台配有兩組主軸、鑽頭或噴頭則需加倍計算。</seg>
       </tuv>
     </tu>
     <tu>
