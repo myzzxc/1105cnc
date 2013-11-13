@@ -1132,8 +1132,8 @@
       <tuv lang="EN-US">
         <seg>Both of these devices have interconnect cables which plug directly into a modbus controller for the automatic turn on and off of the starter box by the controller.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T064858Z" creationid="Judy" creationdate="20131113T064858Z">
-        <seg>並兩相連接至 modbus 控制器以自動啟動或關閉啟動台。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091529Z" creationid="Judy" creationdate="20131113T064858Z">
+        <seg>並兩相連接至 modbus 控制器以自動開啟或關閉啟動台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2036,8 +2036,8 @@
       <tuv lang="EN-US">
         <seg>If you have ordered a blower instead of a dry vane pump, the blower will be mounted in place of the pump.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T064129Z" creationid="Judy" creationdate="20131113T064129Z">
-        <seg>若您訂購鼓風機而非乾式葉片泵，則鼓風機則會安裝在圖中乾式葉片泵的位置上。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091428Z" creationid="Judy" creationdate="20131113T064129Z">
+        <seg>若訂購配件為鼓風機而非乾式葉片泵，則鼓風機則會安裝在圖中乾式葉片泵的位置上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2868,8 +2868,8 @@
       <tuv lang="EN-US">
         <seg>Please consult the charts for the proper current requirements.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065216Z" creationid="Judy" creationdate="20131113T065216Z">
-        <seg>所需適當電流請參閱下表。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091549Z" creationid="Judy" creationdate="20131113T065216Z">
+        <seg>適用電流請參閱下表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,8 +4238,8 @@
       <tuv lang="EN-US">
         <seg>To the right is a picture of the motor stand with the extraction system blower and a Pump used for vacuum holdown.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T063840Z" creationid="Judy" creationdate="20131113T063822Z">
-        <seg>右圖為除塵風機與真空抽氣泵之馬達底座。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091345Z" creationid="Judy" creationdate="20131113T063822Z">
+        <seg>右圖為除塵風機與真空泵之馬達底座。</seg>
       </tuv>
     </tu>
     <tu>
