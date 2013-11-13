@@ -1308,16 +1308,16 @@
       <tuv lang="EN-US">
         <seg>Connecting to the router if you do not have a company network:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T072146Z" creationid="Judy" creationdate="20131113T072054Z">
-        <seg>無公司網路的情況下連接雕刻機工作台至電腦：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T072603Z" creationid="Judy" creationdate="20131113T072054Z">
+        <seg>無公司網路的情況下連接至路由器：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Connecting to the router table with a company network:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T072118Z" creationid="Judy" creationdate="20131113T070359Z">
-        <seg>藉由公司網路連接雕刻機工作台至電腦：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T072356Z" creationid="Judy" creationdate="20131113T070359Z">
+        <seg>連接雕刻機工作台至公司網路：</seg>
       </tuv>
     </tu>
     <tu>
