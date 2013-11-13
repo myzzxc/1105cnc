@@ -1946,6 +1946,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are supplying your own Unit you will need to ensure you have the correct piping or necessary reducer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065753Z" creationid="Judy" creationdate="20131113T065753Z">
+        <seg>若使用自行準備之除塵裝置，需確保備有正確管路或漸縮管。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not have any of these then the requirements are minimal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090610Z" creationid="Judy" creationdate="20131112T085623Z">
