@@ -2476,8 +2476,8 @@
       <tuv lang="EN-US">
         <seg>On the following page is a FAX-BACK questionnaire that will further help us to serve you better.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075254Z" creationid="Judy" creationdate="20131113T075215Z">
-        <seg>下頁為傳真回覆問卷，將幫助我們提供您更好的服務。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075535Z" creationid="Judy" creationdate="20131113T075215Z">
+        <seg>下頁為回傳問卷，將幫助我們提供您更好的服務。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2765,8 +2765,8 @@
       <tuv lang="EN-US">
         <seg>Please note that if you do not return your FAX-BACK sheet it may delay your install.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075348Z" creationid="Judy" creationdate="20131113T075248Z">
-        <seg>請注意，若未傳真回覆此表將可能延誤機台安裝。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075543Z" creationid="Judy" creationdate="20131113T075248Z">
+        <seg>請注意，若未回傳此表將可能延誤機台安裝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2781,8 +2781,8 @@
       <tuv lang="EN-US">
         <seg>Please take a few minutes to complete and return this form by email no later than 1 week  prior to installation .</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075458Z" creationid="Judy" creationdate="20131113T075458Z">
-        <seg>請花費數分鐘時間完成下表</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075725Z" creationid="Judy" creationdate="20131113T075458Z">
+        <seg>請花費數分鐘完成下表並至少於機台安裝前一週以電子郵件回傳。</seg>
       </tuv>
     </tu>
     <tu>
