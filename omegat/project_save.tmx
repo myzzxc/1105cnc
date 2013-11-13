@@ -2458,6 +2458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One cable will hook up to your computer and the other cable will hook up to the router system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073546Z" creationid="Judy" creationdate="20131113T073546Z">
+        <seg>其中一條網路線連接至電腦，另一條則連接至路由器系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Option</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091705Z" creationid="Judy" creationdate="20131112T091705Z">
@@ -3447,6 +3455,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031145Z" creationid="MAE" creationdate="20131106T030416Z">
         <seg>AXYZ 擺動裁刀配件為加工輕薄彈性材料之重要刀具，可處理泡棉，展立板、塑膠瓦楞或瓦楞紙，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Axyz installation technician will connect the system together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073755Z" creationid="Judy" creationdate="20131113T073755Z">
+        <seg>AXYZ 安裝技術人員將會連接此兩套系統。</seg>
       </tuv>
     </tu>
     <tu>
