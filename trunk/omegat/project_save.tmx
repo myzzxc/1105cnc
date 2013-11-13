@@ -2052,8 +2052,8 @@
       <tuv lang="EN-US">
         <seg>In order to communicate to the router table you will require a computer and a network device called a router (see below.) The router which you will need to supply will be able to assign IP addresses.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073036Z" creationid="Judy" creationdate="20131113T073036Z">
-        <seg>需使用電腦及路由器（見下圖）與雕刻機工作台進行通信，且需使用能提供 IP 位址之路由器。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092222Z" creationid="Judy" creationdate="20131113T073036Z">
+        <seg>需使用電腦及路由器（見下圖）與雕刻機工作台進行通信，且應使用能提供 IP 位址之路由器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,8 +4094,8 @@
       <tuv lang="EN-US">
         <seg>There are many different types of Network Routers, D-link or Linksys are the ones we recommend.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073138Z" creationid="Judy" creationdate="20131113T073138Z">
-        <seg>有許多不同類型的網路路由器，建議使用 D-link 或 Linksys。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092250Z" creationid="Judy" creationdate="20131113T073138Z">
+        <seg>網路路由器的種類眾多，建議使用 D-link 或 Linksys。</seg>
       </tuv>
     </tu>
     <tu>
