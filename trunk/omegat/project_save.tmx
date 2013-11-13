@@ -2706,6 +2706,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please Note: Do not plug either Ethernet cables in the WAN port on the Router.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074844Z" creationid="Judy" creationdate="20131113T074844Z">
+        <seg>請注意：請勿將網路線插入路由器的 WAN 埠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please Note: It is the responsibility of the customer to ensure that power is connected in a manner that meets local electrical code.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T043732Z" creationid="Judy" creationdate="20131113T043732Z">
@@ -2759,6 +2767,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141521Z" creationid="ccyu" creationdate="20131108T141521Z">
         <seg>其包含繪圖筆頭及刀片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plug the second Ethernet cable into another LAN port on the router, and then plug the other end of the second Ethernet cable into the router systems port on the machine electrical box.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074702Z" creationid="Judy" creationdate="20131113T074702Z">
+        <seg>接著將第二條網路線的一端插入路由器的另一個 LAN 埠，並將網路線的另一端插入機台電箱的路由器系統埠。</seg>
       </tuv>
     </tu>
     <tu>
