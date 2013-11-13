@@ -63,30 +63,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>0.5 m</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082954Z" creationid="Judy" creationdate="20131112T082954Z">
-        <seg>0.5 公尺</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>1 m</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082956Z" creationid="Judy" creationdate="20131112T082956Z">
-        <seg>1 公尺</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>1.5 m</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082959Z" creationid="Judy" creationdate="20131112T082959Z">
-        <seg>1.5 公尺</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>10006 * (3270 mm x 1829 mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142624Z" creationid="ccyu" creationdate="20131107T142624Z">
@@ -115,14 +91,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143419Z" creationid="ccyu" creationdate="20131107T143419Z">
         <seg>1220mm x 1524mm 加工區域</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>2 m</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082951Z" creationid="Judy" creationdate="20131112T082951Z">
-        <seg>2 公尺</seg>
       </tuv>
     </tu>
     <tu>
@@ -2028,8 +1996,8 @@
       <tuv lang="EN-US">
         <seg>Identify and clear an area ready for the machine, making sure all your doors and entrances are large enough to get the machine through.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081337Z" creationid="Judy" creationdate="20131112T081337Z">
-        <seg>規劃並清理空間供機台放置，確保入口與門的大小可足以使機台通過。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084206Z" creationid="Judy" creationdate="20131112T081337Z">
+        <seg>規劃並清理空間供機台放置，確保入口與門的大小足以使機台通過。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,8 +2060,8 @@
       <tuv lang="EN-US">
         <seg>In these instances please use the same clearance as show below for the front of the table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T041905Z" creationid="Judy" creationdate="20131112T082547Z">
-        <seg>此時請依下表保持機台間隙。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084259Z" creationid="Judy" creationdate="20131112T082547Z">
+        <seg>此時請依下表間隙擺設機台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,8 +3894,8 @@
       <tuv lang="EN-US">
         <seg>The fitting is a ¼” (6.35mm) quick disconnect fitting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070013Z" creationid="Judy" creationdate="20131112T083625Z">
-        <seg>¼” (6.35 mm) 之快速斷開接頭。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084441Z" creationid="Judy" creationdate="20131112T083625Z">
+        <seg>使用 ¼ 英吋 (6.35 毫米) 之快速斷開接頭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4230,8 +4198,8 @@
       <tuv lang="EN-US">
         <seg>This will likely be the most difficult part of the whole installation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081155Z" creationid="Judy" creationdate="20131112T081155Z">
-        <seg>此將會是安裝程序中最困難的部分。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084149Z" creationid="Judy" creationdate="20131112T081155Z">
+        <seg>此項作業可能會是安裝程序中最困難的部分。</seg>
       </tuv>
     </tu>
     <tu>
