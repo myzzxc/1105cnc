@@ -633,8 +633,8 @@
       <tuv lang="EN-US">
         <seg>AXYZ supplies Vacuum Pumps or Blowers with its Vacuum System Option.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T044328Z" creationid="Judy" creationdate="20131113T044328Z">
-        <seg>BlowerAXYZ 的真空系統配件包括真空泵或鼓風機。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T044832Z" creationid="Judy" creationdate="20131113T044328Z">
+        <seg>AXYZ 的真空系統配件包含真空泵或鼓風機，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1389,6 +1389,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160005Z" creationid="ccyu" creationdate="20131105T125832Z">
         <seg>每組刀架皆獨立驅動以保持精確度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each pump or blower will be supplied complete with a starter switch, and a wired remote starter box.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T044816Z" creationid="Judy" creationdate="20131113T044757Z">
+        <seg>真空泵或鼓風機配有</seg>
       </tuv>
     </tu>
     <tu>
@@ -3845,8 +3853,8 @@
       <tuv lang="EN-US">
         <seg>Vacuum Hold Down Power</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T043904Z" creationid="Judy" creationdate="20131113T043904Z">
-        <seg>真空抑制電源</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T044642Z" creationid="Judy" creationdate="20131113T043904Z">
+        <seg>真空系統電源</seg>
       </tuv>
     </tu>
     <tu>
