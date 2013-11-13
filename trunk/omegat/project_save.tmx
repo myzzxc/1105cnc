@@ -3524,6 +3524,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The dust extraction system includes an 8.5HP (6.3Kw) blower, a dust collection manifold, and a canister with internal filter for chip collection and applicable hoses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T063645Z" creationid="Judy" creationdate="20131113T063645Z">
+        <seg>除塵系統包含 8.5HP (6.3Kw) 除塵風機、除塵集管與收集晶片與適用軟管的過濾罐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The electrician must install an earthing rod within 2m of the router table and connect it to the machine grounding post.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T043631Z" creationid="Judy" creationdate="20131113T043631Z">
@@ -3864,6 +3872,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160010Z" creationid="ccyu" creationdate="20131105T125724Z">
         <seg>可安裝多重刀架於支架上同時進行多份相同工作以增加效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To the right is a picture of the motor stand with the extraction system blower and a Pump used for vacuum holdown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T063822Z" creationid="Judy" creationdate="20131113T063822Z">
+        <seg>右圖為除塵風機與</seg>
       </tuv>
     </tu>
     <tu>
