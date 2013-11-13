@@ -3653,8 +3653,8 @@
       <tuv lang="EN-US">
         <seg>The AXYZ 8.5HP (6.3Kw) dust extraction blower comes mounted on a stand along with your vacuum holdown pump/blower.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T063130Z" creationid="Judy" creationdate="20131113T063130Z">
-        <seg>將 AXYZ 8.5HP (6.3Kw) 除塵風機安裝在真空抽氣泵和鼓風機的底座上。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091102Z" creationid="Judy" creationdate="20131113T063130Z">
+        <seg>將 AXYZ 8.5HP (6.3Kw) 除塵風機安裝在真空抽氣泵或鼓風機之底座上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3862,8 +3862,8 @@
       <tuv lang="EN-US">
         <seg>The dust extraction system includes an 8.5HP (6.3Kw) blower, a dust collection manifold, and a canister with internal filter for chip collection and applicable hoses.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T063645Z" creationid="Judy" creationdate="20131113T063645Z">
-        <seg>除塵系統包含 8.5HP (6.3Kw) 除塵風機、除塵集管與收集晶片與適用軟管的過濾罐。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091239Z" creationid="Judy" creationdate="20131113T063645Z">
+        <seg>除塵系統包含 8.5HP (6.3Kw) 除塵風機、集塵管與收集晶片與適用軟管的過濾罐。</seg>
       </tuv>
     </tu>
     <tu>
