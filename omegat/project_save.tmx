@@ -671,6 +671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ – 2BH Regenerative Blower</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T051034Z" creationid="Judy" creationdate="20131113T051034Z">
+        <seg>AXYZ – 2BH 再生式鼓風機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ-VLTF Dry Vane Vacuum Pump 10HP (7.4Kw)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050341Z" creationid="Judy" creationdate="20131113T050341Z">
@@ -843,14 +851,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132322Z" creationid="ccyu" creationdate="20131105T132322Z">
         <seg>鋁支架為大多數應用提供理想的強度與重量平衡，但 AXYZ 系列所有機台同時也為需要高負荷之應用提供鋼支架。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Amps</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050635Z" creationid="Judy" creationdate="20131113T050233Z">
-        <seg>所需</seg>
       </tuv>
     </tu>
     <tu>
@@ -2812,7 +2812,7 @@
       <tuv lang="EN-US">
         <seg>Required</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050611Z" creationid="Judy" creationdate="20131113T050244Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050939Z" creationid="Judy" creationdate="20131113T050244Z">
         <seg>電流</seg>
       </tuv>
     </tu>
@@ -4346,5 +4346,16 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">M009118370 Pre-Installation Guide 4008 1C-2Z(2106).docx</prop>
+      <prop type="prev">Input Voltage Level</prop>
+      <prop type="next">Required</prop>
+      <tuv lang="EN-US">
+        <seg>Amps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050935Z" creationid="Judy" creationdate="20131113T050935Z">
+        <seg>所需</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
