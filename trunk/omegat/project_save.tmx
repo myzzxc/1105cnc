@@ -383,6 +383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACM Extraction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081209Z" creationid="Judy" creationdate="20131113T081209Z">
+        <seg>ACM 除塵系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACM Swan Collection System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082250Z" creationid="MAE" creationdate="20131106T082250Z">
@@ -2146,6 +2154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is there a suitable earthing rod installed near the machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081332Z" creationid="Judy" creationdate="20131113T081332Z">
+        <seg>安裝於機台附近的適當接地棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can also be used forcutting vinyl on large format flex faced signs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T032827Z" creationid="MAE" creationdate="20131106T032827Z">
@@ -2588,8 +2604,8 @@
       <tuv lang="EN-US">
         <seg>One three phase fused (MCB or Motor Rated Fuse) supply?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080541Z" creationid="Judy" creationdate="20131113T080541Z">
-        <seg>是否有一組三相電源具有保險絲保護裝置（微型斷路器或馬達額定保險絲）？</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081132Z" creationid="Judy" creationdate="20131113T080541Z">
+        <seg>具有保險絲（微型斷路器或馬達額定保險絲）之三相電源？</seg>
       </tuv>
     </tu>
     <tu>
@@ -3846,8 +3862,8 @@
       <tuv lang="EN-US">
         <seg>The electrician must install an earthing rod within 2m of the router table and connect it to the machine grounding post.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T043631Z" creationid="Judy" creationdate="20131113T043631Z">
-        <seg>電氣技術員必須於雕刻機工作台安裝接地棒並連接至機台的接地柱。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081402Z" creationid="Judy" creationdate="20131113T043631Z">
+        <seg>電氣技術員必須於雕刻機工作台 2 公尺內安裝接地棒並與機台的接地柱連接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4606,8 +4622,8 @@
       <tuv lang="EN-US">
         <seg>YES NO</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080547Z" creationid="Judy" creationdate="20131113T080547Z">
-        <seg>是 否</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081135Z" creationid="Judy" creationdate="20131113T080547Z">
+        <seg>有 無</seg>
       </tuv>
     </tu>
     <tu>
