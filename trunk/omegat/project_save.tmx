@@ -1748,8 +1748,8 @@
       <tuv lang="EN-US">
         <seg>First, plug in one side of the Ethernet cable into the LAN port of the router, then plug the same cable into your computer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074230Z" creationid="Judy" creationdate="20131113T074051Z">
-        <seg>首先，將網路線一端插入路由器的 LAN 埠，另一端則連接至電腦。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092646Z" creationid="Judy" creationdate="20131113T074051Z">
+        <seg>首先，將第一條網路線一端插入路由器的 LAN 埠，另一端則連接至電腦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2596,8 +2596,8 @@
       <tuv lang="EN-US">
         <seg>One cable will hook up to your computer and the other cable will hook up to the router system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092408Z" creationid="Judy" creationdate="20131113T073546Z">
-        <seg>其中一條連接機台與電腦，另一條則連接機台與路由器系統，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092712Z" creationid="Judy" creationdate="20131113T073546Z">
+        <seg>其中一條連接電腦，另一條則連接路由器系統，</seg>
       </tuv>
     </tu>
     <tu>
