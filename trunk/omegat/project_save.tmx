@@ -1476,8 +1476,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the configuration of your machine you will need to provide 1, 2 or 3 separate power supplies.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092531Z" creationid="Judy" creationdate="20131112T092459Z">
-        <seg>根據機台配置可能需要 1、 2 或 3 組獨立電源。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085637Z" creationid="Judy" creationdate="20131112T092459Z">
+        <seg>依據機台配置可能需要 1 至 3 組的獨立電源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2917,8 +2917,8 @@
       <tuv lang="EN-US">
         <seg>Please note: If you install a regulator on your air line prior to the machine, it must be capable of delivering the flow and pressure required for your machine configuration in order to ensure correct operation of your machine.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092331Z" creationid="Judy" creationdate="20131112T092314Z">
-        <seg>請注意：若在安裝機台前於空氣管路上安裝調節器，必須符合機台配置使空氣流動及加壓以確保機台能正確運作。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085542Z" creationid="Judy" creationdate="20131112T092314Z">
+        <seg>請注意：若在安裝機台前於空氣管路上安裝調節器，其空氣輸送及加壓必須符合機台配置以確保機台正確運作。</seg>
       </tuv>
     </tu>
     <tu>
