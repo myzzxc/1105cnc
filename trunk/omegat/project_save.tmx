@@ -263,6 +263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5GB or Higher</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080118Z" creationid="Judy" creationdate="20131113T080118Z">
+        <seg>5GB 或更高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6000 series machines are often built with automatic vacuum zone switching toenable continuous operation on multiple sheets of material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T141115Z" creationid="ccyu" creationdate="20131106T141115Z">
@@ -895,6 +903,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Any additional time our engineer is required to stay on-site due to incomplete preparations will result in charges.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075905Z" creationid="Judy" creationdate="20131113T075905Z">
+        <seg>若有準備不周而導致安裝工程師之作業延誤將會額外收費。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>?
 </note>
       <tuv lang="EN-US">
@@ -1290,6 +1306,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Company Name………………………………………………………….…………………</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075924Z" creationid="Judy" creationdate="20131113T075924Z">
+        <seg>公司名稱………………………………………………………….…………………</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080009Z" creationid="Judy" creationdate="20131113T080009Z">
+        <seg>元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer Minimum Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080016Z" creationid="Judy" creationdate="20131113T080016Z">
+        <seg>電腦最低需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuration Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134301Z" creationid="MAE" creationdate="20131105T093008Z">
@@ -1334,6 +1374,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083953Z" creationid="ccyu" creationdate="20131109T083953Z">
         <seg>立即與 AXYZ 聯繫以取得更多的資訊和關於您特殊機台需求之報價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact Name………………………………………………..……………………………..</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075917Z" creationid="Judy" creationdate="20131113T075917Z">
+        <seg>連絡人姓名………………………………………………..……………………………..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +1894,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143339Z" creationid="ccyu" creationdate="20131107T143339Z">
         <seg>HYPERTHERM POWERMAX 85 電漿切削器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard Drive Space</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080111Z" creationid="Judy" creationdate="20131113T080111Z">
+        <seg>硬碟空間</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,6 +2530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On Site Existing Spec</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080057Z" creationid="Judy" creationdate="20131113T080053Z">
+        <seg>現有規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the following page is a FAX-BACK questionnaire that will further help us to serve you better.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075535Z" creationid="Judy" creationdate="20131113T075215Z">
@@ -2486,6 +2550,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074235Z" creationid="Judy" creationdate="20131113T073546Z">
         <seg>其中一條網路線連接至電腦，另一條則連接至路由器系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080104Z" creationid="Judy" creationdate="20131113T080104Z">
+        <seg>作業系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,6 +2750,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142914Z" creationid="ccyu" creationdate="20131107T142914Z">
         <seg>泵消音器（2.5" 適合所有鼓風機 &amp; 消音器）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phone Number: …………………………………………….………………………………</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075940Z" creationid="Judy" creationdate="20131113T075933Z">
+        <seg>電話…………………………………………….………………………………</seg>
       </tuv>
     </tu>
     <tu>
@@ -2915,6 +2995,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Processor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080100Z" creationid="Judy" creationdate="20131113T080100Z">
+        <seg>處理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Providing 175 CFM, the Becker 10HP  is aquiet and reliable source forvacuum hold down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065258Z" creationid="MAE" creationdate="20131106T065258Z">
@@ -2927,6 +3015,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134437Z" creationid="ccyu" creationdate="20131105T134437Z">
         <seg>快速釋放主軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAM Memory</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080107Z" creationid="Judy" creationdate="20131113T080107Z">
+        <seg>RAM 記憶體</seg>
       </tuv>
     </tu>
     <tu>
