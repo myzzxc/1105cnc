@@ -1769,6 +1769,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If ACM extraction is also specified a THIRD three phase power supply is also required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T043247Z" creationid="Judy" creationdate="20131113T043247Z">
+        <seg>若配有 ACM 集屑器則需使用第三組三相電源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not have any of these then the requirements are minimal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090610Z" creationid="Judy" creationdate="20131112T085623Z">
@@ -2476,8 +2484,8 @@
       <tuv lang="EN-US">
         <seg>Please ensure that TWO three phase power supplies are available for machine and vacuum.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T042934Z" creationid="Judy" creationdate="20131113T042934Z">
-        <seg>請確保此兩組三相電源適用於機器與真空狀態。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T043307Z" creationid="Judy" creationdate="20131113T042934Z">
+        <seg>請確保兩組三相電源適用於機器與真空抽氣泵。</seg>
       </tuv>
     </tu>
     <tu>
