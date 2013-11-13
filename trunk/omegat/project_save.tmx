@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>( 3.7Kw) (3 Phase)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050155Z" creationid="Judy" creationdate="20131113T050155Z">
+        <seg>( 3.7Kw) (3 相)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(3Phase)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050353Z" creationid="Judy" creationdate="20131113T050353Z">
+        <seg>(3 相)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Total air flow required will be the sum of all your options)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090820Z" creationid="Judy" creationdate="20131112T090820Z">
@@ -655,10 +671,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ-VLTF Dry Vane Vacuum Pump 10HP (7.4Kw)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050341Z" creationid="Judy" creationdate="20131113T050341Z">
+        <seg>AXYZ-VLTF 乾式葉片真空泵 10HP (7.4Kw)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ-VLTF Dry Vane Vacuum Pump 5HP</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050137Z" creationid="Judy" creationdate="20131113T050131Z">
-        <seg>AXYZ - VLTF 乾式葉片真空抽氣泵 5HP</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050333Z" creationid="Judy" creationdate="20131113T050131Z">
+        <seg>AXYZ - VLTF 乾式葉片真空泵 5HP</seg>
       </tuv>
     </tu>
     <tu>
@@ -819,6 +843,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132322Z" creationid="ccyu" creationdate="20131105T132322Z">
         <seg>鋁支架為大多數應用提供理想的強度與重量平衡，但 AXYZ 系列所有機台同時也為需要高負荷之應用提供鋼支架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050233Z" creationid="Judy" creationdate="20131113T050233Z">
+        <seg>電流</seg>
       </tuv>
     </tu>
     <tu>
@@ -1649,6 +1681,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fusing Required</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050252Z" creationid="Judy" creationdate="20131113T050252Z">
+        <seg>保險絲需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GANTRY AND TABLE EXTENSIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124416Z" creationid="ccyu" creationdate="20131107T124416Z">
@@ -1869,6 +1909,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092909Z" creationid="Judy" creationdate="20131112T092909Z">
         <seg>低電壓系統之輸入電源需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input Voltage Level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050213Z" creationid="Judy" creationdate="20131113T050209Z">
+        <seg>輸入電壓</seg>
       </tuv>
     </tu>
     <tu>
@@ -2181,6 +2229,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065853Z" creationid="MAE" creationdate="20131106T065853Z">
         <seg>Mink 爪式轉子泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mink – Rotary Vacuum Pump 7.4HP (5.5Kw) (3 Phase)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050453Z" creationid="Judy" creationdate="20131113T050453Z">
+        <seg>Mink – 旋轉式真空泵 7.4HP (5.5Kw) (3 Phase)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,6 +2798,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133313Z" creationid="MAE" creationdate="20131106T070621Z">
         <seg>真空抽氣使用之再生鼓風機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050244Z" creationid="Judy" creationdate="20131113T050244Z">
+        <seg>需求</seg>
       </tuv>
     </tu>
     <tu>
@@ -4103,6 +4167,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142615Z" creationid="ccyu" creationdate="20131107T142615Z">
         <seg>X 軸每 2 英尺 (600 mm) 延伸價，含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X-MINK Rotary Vane Pump</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050423Z" creationid="Judy" creationdate="20131113T050423Z">
+        <seg>X-MINK 旋轉式葉片泵</seg>
       </tuv>
     </tu>
     <tu>
