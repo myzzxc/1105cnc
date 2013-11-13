@@ -2084,16 +2084,16 @@
       <tuv lang="EN-US">
         <seg>Input Power Requirements for High Voltage Systems</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T093048Z" creationid="Judy" creationdate="20131112T093048Z">
-        <seg>高電壓系統之輸入電源需求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085822Z" creationid="Judy" creationdate="20131112T093048Z">
+        <seg>高壓系統之輸入電源需求</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Input Power Requirements for Low Voltage Systems</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092909Z" creationid="Judy" creationdate="20131112T092909Z">
-        <seg>低電壓系統之輸入電源需求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085816Z" creationid="Judy" creationdate="20131112T092909Z">
+        <seg>低壓系統之輸入電源需求</seg>
       </tuv>
     </tu>
     <tu>
@@ -2204,8 +2204,8 @@
       <tuv lang="EN-US">
         <seg>It is recommended that the units be protected MCB’s or motor rated fuses.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T042941Z" creationid="Judy" creationdate="20131113T042523Z">
-        <seg>建議使用微型斷路器或馬達額定保險絲保護裝置。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090025Z" creationid="Judy" creationdate="20131113T042523Z">
+        <seg>建議使用微型斷路器或馬達額定保險絲以保護設備。</seg>
       </tuv>
     </tu>
     <tu>
