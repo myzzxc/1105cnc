@@ -1308,8 +1308,8 @@
       <tuv lang="EN-US">
         <seg>Connecting to the router table with a company network:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070359Z" creationid="Judy" creationdate="20131113T070359Z">
-        <seg>將雕刻機工作台連接至電腦：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070859Z" creationid="Judy" creationdate="20131113T070359Z">
+        <seg>將雕刻機工作台連接至公司網路：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +1934,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090610Z" creationid="Judy" creationdate="20131112T085623Z">
         <seg>若未配置上述設備，則適用最低空氣需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have a company network, you will need a network jack from your router table location or a network cable which can be directly connected to the router table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T071030Z" creationid="Judy" creationdate="20131113T070843Z">
+        <seg>可使用雕刻機工作台之網路插座或網路線連接至公司網路。</seg>
       </tuv>
     </tu>
     <tu>
