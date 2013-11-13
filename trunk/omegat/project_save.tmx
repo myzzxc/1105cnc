@@ -4372,6 +4372,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will need to supply 2 Ethernet cables long enough to reach the router table and your network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073400Z" creationid="Judy" creationdate="20131113T073400Z">
+        <seg>需使用兩條長度足夠的乙太網路線將雕刻機工作台連接至網路，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will need to supply an Ethernet cable which is long enough to reach the router table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T071947Z" creationid="Judy" creationdate="20131113T071947Z">
