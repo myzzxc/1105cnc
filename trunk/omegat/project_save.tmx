@@ -932,8 +932,8 @@
       <tuv lang="EN-US">
         <seg>Any hold up to the installation, because of non-availability of supplies may result in your machine not being installed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081045Z" creationid="Judy" creationdate="20131112T081045Z">
-        <seg>由於缺乏電源供應而造成安裝程序之延遲，將可能導致機台無法安裝。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084003Z" creationid="Judy" creationdate="20131112T081045Z">
+        <seg>由於準備不足而造成安裝程序之延遲，將可能導致機台無法安裝。</seg>
       </tuv>
     </tu>
     <tu>
