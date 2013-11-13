@@ -2170,6 +2170,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is there a dedicated network point located close to the machine position for network communication?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081744Z" creationid="Judy" creationdate="20131113T081744Z">
+        <seg>機台附近備有專用網路孔供網路通信使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there a second network point close by for a computer that will be used with the machine?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081856Z" creationid="Judy" creationdate="20131113T081856Z">
+        <seg>控制機台的電腦附近備有另一個專用網路孔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is there a suitable earthing rod installed near the machine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081332Z" creationid="Judy" creationdate="20131113T081332Z">
@@ -2911,6 +2927,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T080226Z" creationid="Judy" creationdate="20131112T080041Z">
         <seg>請將本文件最後一頁表格完成、簽名並繳回，以確保無安裝上的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please note it is the customers responsibility to provide unloading and handling facilities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081956Z" creationid="Judy" creationdate="20131113T081956Z">
+        <seg>請注意，客戶必須自行安排卸貨與搬運人員。</seg>
       </tuv>
     </tu>
     <tu>
