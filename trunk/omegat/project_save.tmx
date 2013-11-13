@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Please refer to Table 3.0 for the necessary requirements)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081555Z" creationid="Judy" creationdate="20131113T081555Z">
+        <seg>（所需總量請參閱表 3.0）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Total air flow required will be the sum of all your options)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090820Z" creationid="Judy" creationdate="20131112T090820Z">
@@ -1502,6 +1510,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092531Z" creationid="Judy" creationdate="20131112T092459Z">
         <seg>根據機台配置可能需要 1、 2 或 3 組獨立電源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have sufficient compressed air available in your work shop?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081507Z" creationid="Judy" creationdate="20131113T081441Z">
+        <seg>充足的壓縮空氣供機台使用</seg>
       </tuv>
     </tu>
     <tu>
