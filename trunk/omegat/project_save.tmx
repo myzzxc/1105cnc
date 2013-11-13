@@ -33,8 +33,8 @@
       <tuv lang="EN-US">
         <seg>* It is also an option to load from the side of the table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082452Z" creationid="Judy" creationdate="20131112T082452Z">
-        <seg>* 也可由此方向搬運機台。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T041835Z" creationid="Judy" creationdate="20131112T082452Z">
+        <seg>* 也可由此方向填裝材料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1779,8 +1779,8 @@
       <tuv lang="EN-US">
         <seg>In these instances please use the same clearance as show below for the front of the table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082728Z" creationid="Judy" creationdate="20131112T082547Z">
-        <seg>於此情況下請使用下表之間隙。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T041905Z" creationid="Judy" creationdate="20131112T082547Z">
+        <seg>此時請依下表保持機台間隙。</seg>
       </tuv>
     </tu>
     <tu>
