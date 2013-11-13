@@ -255,6 +255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50mm and 70mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070315Z" creationid="Judy" creationdate="20131113T070315Z">
+        <seg>50mm 和 70mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6000 series machines are often built with automatic vacuum zone switching toenable continuous operation on multiple sheets of material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T141115Z" creationid="ccyu" creationdate="20131106T141115Z">
@@ -1218,6 +1226,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COMPUTER REQUIREMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070334Z" creationid="Judy" creationdate="20131113T070334Z">
+        <seg>電腦需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calgary, AB T2C 5C5 Phone: +1 403 236 4464</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083442Z" creationid="ccyu" creationdate="20131109T083442Z">
@@ -1286,6 +1302,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134157Z" creationid="MAE" creationdate="20131105T092954Z">
         <seg>組態配件 - AXYZ 系統目前可用之不同樣式的支架與加工組態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connecting to the router table with a company network:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070359Z" creationid="Judy" creationdate="20131113T070359Z">
+        <seg>將雕刻機工作台連接至電腦：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1844,8 +1868,8 @@
       <tuv lang="EN-US">
         <seg>High Capacity Pressure Foot</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091304Z" creationid="MAE" creationdate="20131106T050653Z">
-        <seg>高容量壓腳</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070255Z" creationid="MAE" creationdate="20131106T050653Z">
+        <seg>高容量壓力腳</seg>
       </tuv>
     </tu>
     <tu>
@@ -2743,6 +2767,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T045349Z" creationid="MAE" creationdate="20131106T045349Z">
         <seg>彈出式定位銷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressure Foot - Universal 5Y</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070308Z" creationid="Judy" creationdate="20131113T070229Z">
+        <seg>壓力腳 - 萬用 5Y</seg>
       </tuv>
     </tu>
     <tu>
