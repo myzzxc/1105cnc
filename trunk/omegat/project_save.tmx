@@ -1306,6 +1306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connecting the Ethernet cables correctly is very important to establish communication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073914Z" creationid="Judy" creationdate="20131113T073914Z">
+        <seg>正確連接乙太網路線對建立雕刻機工作台的通信相當重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting to the router if you do not have a company network:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T072603Z" creationid="Judy" creationdate="20131113T072054Z">
@@ -1678,6 +1686,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083634Z" creationid="ccyu" creationdate="20131109T083634Z">
         <seg>傳真: +91 80 2314 6662</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, plug in one side of the Ethernet cable into the LAN port of the router, then plug the same cable into your computer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074051Z" creationid="Judy" creationdate="20131113T074051Z">
+        <seg>首先，</seg>
       </tuv>
     </tu>
     <tu>
