@@ -633,8 +633,8 @@
       <tuv lang="EN-US">
         <seg>AXYZ supplies Vacuum Pumps or Blowers with its Vacuum System Option.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T044832Z" creationid="Judy" creationdate="20131113T044328Z">
-        <seg>AXYZ 的真空系統配件包含真空泵或鼓風機，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T045707Z" creationid="Judy" creationdate="20131113T044328Z">
+        <seg>AXYZ 的真空系統配件可選擇真空泵或鼓風機，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1403,8 +1403,8 @@
       <tuv lang="EN-US">
         <seg>Each pump or blower will be supplied complete with a starter switch, and a wired remote starter box.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T044934Z" creationid="Judy" creationdate="20131113T044757Z">
-        <seg>皆配有啟動按鈕與有線遠端啟動器。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T045714Z" creationid="Judy" creationdate="20131113T044757Z">
+        <seg>兩者皆配有啟動按鈕與有線遠端啟動器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3363,6 +3363,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The customer will choose the best location for the pump or blower as close to the machine as possible, and can also connect the piping prior to the arrival of the AXYZ installation technician.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T045656Z" creationid="Judy" creationdate="20131113T045656Z">
+        <seg>客戶應盡可能選擇最靠近機台的最佳位置放置真空泵與鼓風機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The electrician must install an earthing rod within 2m of the router table and connect it to the machine grounding post.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T043631Z" creationid="Judy" creationdate="20131113T043631Z">
@@ -3655,6 +3663,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124520Z" creationid="MAE" creationdate="20131105T093208Z">
         <seg>此加工組態常用於一般僅使用兩刀或三刀之加工製程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will allow you to connect your pump or blower to the machine’s vacuum manifold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T045537Z" creationid="Judy" creationdate="20131113T045537Z">
+        <seg>可供真空泵或鼓風機連接至機台的真空歧管。</seg>
       </tuv>
     </tu>
     <tu>
