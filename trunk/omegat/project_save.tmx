@@ -678,6 +678,22 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ-2BH Regenerative Blower 11.5HP (8.5Kw) (3PH ONLY)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T051405Z" creationid="Judy" creationdate="20131113T051405Z">
+        <seg>AXYZ-2BH 再生式鼓風機 11.5HP (8.5Kw) (僅 3 相)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ-2BH Regenerative Blower 14.75HP (11Kw) (3PH ONLY)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T051429Z" creationid="Judy" creationdate="20131113T051429Z">
+        <seg>AXYZ-2BH 再生式鼓風機 14.75HP (11Kw) (僅 3 相)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>？</note>
       <tuv lang="EN-US">
         <seg>AXYZ-2BH Regenerative Blower 8.5HP (6.3Kw) (3PH ONLY)</seg>
