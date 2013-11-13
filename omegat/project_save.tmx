@@ -1346,6 +1346,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080308Z" creationid="Judy" creationdate="20131113T080308Z">
+        <seg>確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting the Ethernet cables correctly is very important to establish communication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074116Z" creationid="Judy" creationdate="20131113T073914Z">
@@ -1462,6 +1470,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125146Z" creationid="ccyu" creationdate="20131107T125023Z">
         <seg>雙 Z 刀架步進器（雙 Z 現貨價格相同）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DVD Drive</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080226Z" creationid="Judy" creationdate="20131113T080226Z">
+        <seg>DVD 磁碟機</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2314,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MACHINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080339Z" creationid="Judy" creationdate="20131113T080339Z">
+        <seg>機台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE AIR REQUIREMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090430Z" creationid="Judy" creationdate="20131112T083122Z">
@@ -2374,6 +2398,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115730Z" creationid="ccyu" creationdate="20131107T115730Z">
         <seg>多種不同刀具組態可供使用，包括多重主軸，以及 HSD 5 和 10.8 HP 快速釋放主軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Media Drive</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080146Z" creationid="Judy" creationdate="20131113T080146Z">
+        <seg>媒體磁碟機</seg>
       </tuv>
     </tu>
     <tu>
@@ -3103,6 +3135,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050939Z" creationid="Judy" creationdate="20131113T050244Z">
         <seg>電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080304Z" creationid="Judy" creationdate="20131113T080304Z">
+        <seg>需求</seg>
       </tuv>
     </tu>
     <tu>
