@@ -431,6 +431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AXYZ - VLTF Dry Vane Vacuum Pump</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050124Z" creationid="Judy" creationdate="20131113T050124Z">
+        <seg>AXYZ - VLTF 乾式葉片真空泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AXYZ 4004  1220mm x 1524mm Process Area  AXYZ 4004 Series CNC Router – Single Head    Includes:  5HP Elte spindle, Artcam Express software, High Capacity pressure foot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023043Z" creationid="MAE" creationdate="20131107T022955Z">
@@ -643,6 +651,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T045439Z" creationid="Judy" creationdate="20131113T045352Z">
         <seg>AXYZ 同時配有三條 3 公尺長 50 毫米內徑之 PVC 管路以及六組 90 度 50 毫米內徑之彎管，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXYZ-VLTF Dry Vane Vacuum Pump 5HP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050137Z" creationid="Judy" creationdate="20131113T050131Z">
+        <seg>AXYZ - VLTF 乾式葉片真空抽氣泵 5HP</seg>
       </tuv>
     </tu>
     <tu>
@@ -1029,6 +1045,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082204Z" creationid="MAE" creationdate="20131106T082204Z">
         <seg>波紋密封管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Below you will see the required power for your pump or blower specified at various voltage levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050052Z" creationid="Judy" creationdate="20131113T050052Z">
+        <seg>以下為真空泵與鼓風機於不同電壓下之電源需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3365,8 +3389,8 @@
       <tuv lang="EN-US">
         <seg>The customer will choose the best location for the pump or blower as close to the machine as possible, and can also connect the piping prior to the arrival of the AXYZ installation technician.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T045656Z" creationid="Judy" creationdate="20131113T045656Z">
-        <seg>客戶應盡可能選擇最靠近機台的最佳位置放置真空泵與鼓風機</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T045928Z" creationid="Judy" creationdate="20131113T045656Z">
+        <seg>客戶應盡可能選擇鄰近機台的最佳位置放置真空泵或鼓風機，並可於技術人員安裝機台前先行架設管路。</seg>
       </tuv>
     </tu>
     <tu>
