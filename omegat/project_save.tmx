@@ -399,6 +399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACM Dust Extraction System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062203Z" creationid="Judy" creationdate="20131113T062203Z">
+        <seg>ACM 集屑系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACM Swan Collection System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082250Z" creationid="MAE" creationdate="20131106T082250Z">
@@ -1574,6 +1582,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155955Z" creationid="ccyu" creationdate="20131105T130503Z">
         <seg>延長支架長度以用於多重刀具所使用之較寬的刀架或用於多重刀架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extraction System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062152Z" creationid="Judy" creationdate="20131113T062152Z">
+        <seg>集屑系統</seg>
       </tuv>
     </tu>
     <tu>
