@@ -1940,8 +1940,8 @@
       <tuv lang="EN-US">
         <seg>If you have a company network, you will need a network jack from your router table location or a network cable which can be directly connected to the router table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T071056Z" creationid="Judy" creationdate="20131113T070843Z">
-        <seg>可經由雕刻機工作台之網路插座或網路線連接至公司網路，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T071835Z" creationid="Judy" creationdate="20131113T070843Z">
+        <seg>可由雕刻機工作台之網路插座或網路線連接至公司網路，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,6 +4328,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083530Z" creationid="ccyu" creationdate="20131109T083530Z">
         <seg>Yorba Linda, CA 92887 電話： +1 714 974 6200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will need to supply an Ethernet cable which is long enough to reach the router table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T071947Z" creationid="Judy" creationdate="20131113T071947Z">
+        <seg>需自備長度足以連接至雕刻機工作台的乙太網路線。</seg>
       </tuv>
     </tu>
     <tu>
