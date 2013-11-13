@@ -849,8 +849,16 @@
       <tuv lang="EN-US">
         <seg>Amps</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050233Z" creationid="Judy" creationdate="20131113T050233Z">
-        <seg>電流</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050635Z" creationid="Judy" creationdate="20131113T050233Z">
+        <seg>所需</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amps Required</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050529Z" creationid="Judy" creationdate="20131113T050529Z">
+        <seg>所需電流</seg>
       </tuv>
     </tu>
     <tu>
@@ -1683,8 +1691,8 @@
       <tuv lang="EN-US">
         <seg>Fusing Required</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050252Z" creationid="Judy" creationdate="20131113T050252Z">
-        <seg>保險絲需求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050537Z" creationid="Judy" creationdate="20131113T050252Z">
+        <seg>所需保險絲</seg>
       </tuv>
     </tu>
     <tu>
@@ -2804,8 +2812,8 @@
       <tuv lang="EN-US">
         <seg>Required</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050244Z" creationid="Judy" creationdate="20131113T050244Z">
-        <seg>需求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050611Z" creationid="Judy" creationdate="20131113T050244Z">
+        <seg>電流</seg>
       </tuv>
     </tu>
     <tu>
