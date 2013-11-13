@@ -625,8 +625,8 @@
       <tuv lang="EN-US">
         <seg>AXYZ supplies Vacuum Pumps or Blowers with its Vacuum System Option.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T045707Z" creationid="Judy" creationdate="20131113T044328Z">
-        <seg>AXYZ 的真空系統配件可選擇真空泵或鼓風機，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090350Z" creationid="Judy" creationdate="20131113T044328Z">
+        <seg>AXYZ 真空系統配件可選擇真空泵或鼓風機，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1580,8 +1580,8 @@
       <tuv lang="EN-US">
         <seg>Each pump or blower will be supplied complete with a starter switch, and a wired remote starter box.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T064504Z" creationid="Judy" creationdate="20131113T044757Z">
-        <seg>兩者皆配有啟動按鈕與有線遠端啟動台。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090407Z" creationid="Judy" creationdate="20131113T044757Z">
+        <seg>兩者皆配有啟動開關與有線遠端啟動台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2004,8 +2004,8 @@
       <tuv lang="EN-US">
         <seg>If ACM extraction is also specified a THIRD three phase power supply is also required.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T043247Z" creationid="Judy" creationdate="20131113T043247Z">
-        <seg>若配有 ACM 集屑器則需使用第三組三相電源。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090229Z" creationid="Judy" creationdate="20131113T043247Z">
+        <seg>若配有 ACM 除塵系統則需準備第三組三相電源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2860,8 +2860,8 @@
       <tuv lang="EN-US">
         <seg>Please Note: It is the responsibility of the customer to ensure that power is connected in a manner that meets local electrical code.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T043732Z" creationid="Judy" creationdate="20131113T043732Z">
-        <seg>請注意：客戶有義務確保電源連接符合當地電氣規範。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090323Z" creationid="Judy" creationdate="20131113T043732Z">
+        <seg>請注意：客戶有義務確保電源連接符合當地電氣法規。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2885,8 +2885,8 @@
       <tuv lang="EN-US">
         <seg>Please ensure that TWO three phase power supplies are available for machine and vacuum.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T043908Z" creationid="Judy" creationdate="20131113T042934Z">
-        <seg>請確保兩組三相電源適用於機器與真空系統。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090155Z" creationid="Judy" creationdate="20131113T042934Z">
+        <seg>請確保備有兩組三相電源適用機台和真空系統。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,8 +3870,8 @@
       <tuv lang="EN-US">
         <seg>The electrician must install an earthing rod within 2m of the router table and connect it to the machine grounding post.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081402Z" creationid="Judy" creationdate="20131113T043631Z">
-        <seg>電氣技術員必須於雕刻機工作台 2 公尺內安裝接地棒並與機台的接地柱連接。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090301Z" creationid="Judy" creationdate="20131113T043631Z">
+        <seg>電氣技術人員必須於雕刻機工作台 2 公尺內安裝接地棒並與機台的接地柱連接。</seg>
       </tuv>
     </tu>
     <tu>
