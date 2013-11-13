@@ -1154,6 +1154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both of these devices have interconnect cables which plug directly into a modbus controller for the automatic turn on and off of the starter box by the controller.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T064858Z" creationid="Judy" creationdate="20131113T064858Z">
+        <seg>並兩相連接至 modbus 控制器以自動啟動或關閉啟動台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brush Donut</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082141Z" creationid="MAE" creationdate="20131106T082141Z">
