@@ -103,34 +103,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>1025 kg</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081813Z" creationid="Judy" creationdate="20131112T081813Z">
-        <seg>1025 公斤</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>1220mm x 1524mm Process Area</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143419Z" creationid="ccyu" creationdate="20131107T143419Z">
         <seg>1220mm x 1524mm 加工區域</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>1350 mm</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081802Z" creationid="Judy" creationdate="20131112T081802Z">
-        <seg>1350 毫米</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>1680 mm</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081802Z" creationid="Judy" creationdate="20131112T081802Z">
-        <seg>1680 毫米</seg>
       </tuv>
     </tu>
     <tu>
@@ -147,14 +123,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130010Z" creationid="ccyu" creationdate="20131107T130010Z">
         <seg>21G 換刀器含 5 組 ISO 30 錐型夾頭</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>2250 mm</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081801Z" creationid="Judy" creationdate="20131112T081801Z">
-        <seg>2250 毫米</seg>
       </tuv>
     </tu>
     <tu>
@@ -235,14 +203,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144158Z" creationid="ccyu" creationdate="20131107T144158Z">
         <seg>3048mm x 2159 加工區域</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>3050 mm</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081759Z" creationid="Judy" creationdate="20131112T081759Z">
-        <seg>3050 毫米</seg>
       </tuv>
     </tu>
     <tu>
@@ -339,14 +299,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142551Z" creationid="ccyu" creationdate="20131107T142551Z">
         <seg>8010 * (2635mm x 3048mm) 含真空床</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>890 mm</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081806Z" creationid="Judy" creationdate="20131112T081806Z">
-        <seg>890 毫米</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,8 +3566,8 @@
       <tuv lang="EN-US">
         <seg>The fitting is a ¼” (6.35mm) quick disconnect fitting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083625Z" creationid="Judy" creationdate="20131112T083625Z">
-        <seg>¼” (6.35 毫米) 之快速斷開接頭。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070013Z" creationid="Judy" creationdate="20131112T083625Z">
+        <seg>¼” (6.35 mm) 之快速斷開接頭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3752,6 +3704,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T161531Z" creationid="ccyu" creationdate="20131108T161220Z">
         <seg>彎刀為堅固耐用之多功能刀具，非常適用於切割厚度 1-2mm 以下之硬質材料如層板、合成樹脂、Sintra 板以及類似材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sizes will depend on the attachment you have ordered as follows:-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065913Z" creationid="Judy" creationdate="20131113T065913Z">
+        <seg>管管路大小取決於訂購配件，如以下所示：</seg>
       </tuv>
     </tu>
     <tu>
