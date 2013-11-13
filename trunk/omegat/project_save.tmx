@@ -241,8 +241,8 @@
       <tuv lang="EN-US">
         <seg>5GB or Higher</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080118Z" creationid="Judy" creationdate="20131113T080118Z">
-        <seg>5GB 或更高</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093339Z" creationid="Judy" creationdate="20131113T080118Z">
+        <seg>5GB 以上</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,8 +890,8 @@
       <tuv lang="EN-US">
         <seg>Any additional time our engineer is required to stay on-site due to incomplete preparations will result in charges.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075905Z" creationid="Judy" creationdate="20131113T075905Z">
-        <seg>若有準備不周而導致安裝工程師之作業延誤將會額外收費。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093156Z" creationid="Judy" creationdate="20131113T075905Z">
+        <seg>若有準備不周而導致安裝工程師之作業時間延誤將會額外收費。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1292,8 +1292,8 @@
       <tuv lang="EN-US">
         <seg>Company Name………………………………………………………….…………………</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075924Z" creationid="Judy" creationdate="20131113T075924Z">
-        <seg>公司名稱………………………………………………………….…………………</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093237Z" creationid="Judy" creationdate="20131113T075924Z">
+        <seg>公司名稱…………………………………………………………………………</seg>
       </tuv>
     </tu>
     <tu>
@@ -1372,8 +1372,8 @@
       <tuv lang="EN-US">
         <seg>Contact Name………………………………………………..……………………………..</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075917Z" creationid="Judy" creationdate="20131113T075917Z">
-        <seg>連絡人姓名………………………………………………..……………………………..</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093259Z" creationid="Judy" creationdate="20131113T075917Z">
+        <seg>連絡人姓名…………………………………………………………………………</seg>
       </tuv>
     </tu>
     <tu>
@@ -2148,8 +2148,8 @@
       <tuv lang="EN-US">
         <seg>Is there a second network point close by for a computer that will be used with the machine?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081856Z" creationid="Judy" creationdate="20131113T081856Z">
-        <seg>控制機台的電腦附近備有另一個專用網路孔</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093610Z" creationid="Judy" creationdate="20131113T081856Z">
+        <seg>控制機台的電腦附近也備有專用網路孔</seg>
       </tuv>
     </tu>
     <tu>
@@ -2604,8 +2604,8 @@
       <tuv lang="EN-US">
         <seg>One three phase fused (MCB or Motor Rated Fuse) supply?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081132Z" creationid="Judy" creationdate="20131113T080541Z">
-        <seg>具有保險絲（微型斷路器或馬達額定保險絲）之三相電源？</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093411Z" creationid="Judy" creationdate="20131113T080541Z">
+        <seg>配有保險絲（微型斷路器或馬達額定保險絲）之三相電源</seg>
       </tuv>
     </tu>
     <tu>
@@ -2812,8 +2812,8 @@
       <tuv lang="EN-US">
         <seg>Phone Number: …………………………………………….………………………………</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075940Z" creationid="Judy" creationdate="20131113T075933Z">
-        <seg>電話…………………………………………….………………………………</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093318Z" creationid="Judy" creationdate="20131113T075933Z">
+        <seg>聯絡電話…………………………………………………………………………</seg>
       </tuv>
     </tu>
     <tu>
@@ -2925,8 +2925,8 @@
       <tuv lang="EN-US">
         <seg>Please take a few minutes to complete and return this form by email no later than 1 week  prior to installation .</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075725Z" creationid="Judy" creationdate="20131113T075458Z">
-        <seg>請花費數分鐘完成下表並至少於機台安裝前一週以電子郵件回傳。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093137Z" creationid="Judy" creationdate="20131113T075458Z">
+        <seg>請花一點時間完成下表並最遲於機台安裝前一週以電子郵件回傳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3341,8 +3341,8 @@
       <tuv lang="EN-US">
         <seg>Sign: …………………………………… Print: …………………………………Date: ………………….........................</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T072314Z" creationid="Judy" creationdate="20131113T072314Z">
-        <seg>簽名：…………………………………… 姓名：…………………………………日期：……………………………………</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093655Z" creationid="Judy" creationdate="20131113T072314Z">
+        <seg>簽名：…………………………………… 姓名：…………………………………… 日期：……………………………………</seg>
       </tuv>
     </tu>
     <tu>
