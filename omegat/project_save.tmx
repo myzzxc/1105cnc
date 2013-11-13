@@ -678,6 +678,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>？</note>
+      <tuv lang="EN-US">
+        <seg>AXYZ-2BH Regenerative Blower 8.5HP (6.3Kw) (3PH ONLY)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T051323Z" creationid="Judy" creationdate="20131113T051308Z">
+        <seg>AXYZ-2BH 再生式鼓風機 8.5HP (6.3Kw) (僅 3 相)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>AXYZ-VLTF Dry Vane Vacuum Pump 10HP (7.4Kw)</seg>
       </tuv>
@@ -2243,8 +2252,8 @@
       <tuv lang="EN-US">
         <seg>Mink – Rotary Vacuum Pump 7.4HP (5.5Kw) (3 Phase)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050453Z" creationid="Judy" creationdate="20131113T050453Z">
-        <seg>Mink – 旋轉式真空泵 7.4HP (5.5Kw) (3 Phase)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T051312Z" creationid="Judy" creationdate="20131113T050453Z">
+        <seg>Mink – 旋轉式真空泵 7.4HP (5.5Kw) (3 相)</seg>
       </tuv>
     </tu>
     <tu>
