@@ -1922,6 +1922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have ordered a blower instead of a dry vane pump, the blower will be mounted in place of the pump.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T064129Z" creationid="Judy" creationdate="20131113T064129Z">
+        <seg>若您訂購鼓風機而非乾式葉片泵，則鼓風機則會安裝在圖中乾式葉片泵的位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your order includes an AXYZ 8.5HP (6.3Kw) dust extraction system, these instructions apply to your installation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062650Z" creationid="Judy" creationdate="20131113T062342Z">
@@ -3878,8 +3886,8 @@
       <tuv lang="EN-US">
         <seg>To the right is a picture of the motor stand with the extraction system blower and a Pump used for vacuum holdown.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T063822Z" creationid="Judy" creationdate="20131113T063822Z">
-        <seg>右圖為除塵風機與</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T063840Z" creationid="Judy" creationdate="20131113T063822Z">
+        <seg>右圖為除塵風機與真空抽氣泵之馬達底座。</seg>
       </tuv>
     </tu>
     <tu>
