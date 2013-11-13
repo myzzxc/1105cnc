@@ -2586,6 +2586,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One three phase fused (MCB or Motor Rated Fuse) supply?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080541Z" creationid="Judy" creationdate="20131113T080541Z">
+        <seg>是否有一組三相電源具有保險絲保護裝置（微型斷路器或馬達額定保險絲）？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operating System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080104Z" creationid="Judy" creationdate="20131113T080104Z">
@@ -4332,6 +4340,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VACUUM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080556Z" creationid="Judy" creationdate="20131113T080556Z">
+        <seg>真空系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VACUUM SWITCHING MANIFOLD (DUAL Z TOOLING CONFIGURATIONS)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132538Z" creationid="ccyu" creationdate="20131107T132538Z">
@@ -4584,6 +4600,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050423Z" creationid="Judy" creationdate="20131113T050423Z">
         <seg>X-MINK 旋轉式葉片泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YES NO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080547Z" creationid="Judy" creationdate="20131113T080547Z">
+        <seg>是 否</seg>
       </tuv>
     </tu>
     <tu>
