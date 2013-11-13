@@ -1308,8 +1308,8 @@
       <tuv lang="EN-US">
         <seg>Connecting the Ethernet cables correctly is very important to establish communication.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073914Z" creationid="Judy" creationdate="20131113T073914Z">
-        <seg>正確連接乙太網路線對建立雕刻機工作台的通信相當重要。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074116Z" creationid="Judy" creationdate="20131113T073914Z">
+        <seg>正確連接網路線對建立雕刻機工作台的通信相當重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1692,8 +1692,8 @@
       <tuv lang="EN-US">
         <seg>First, plug in one side of the Ethernet cable into the LAN port of the router, then plug the same cable into your computer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074051Z" creationid="Judy" creationdate="20131113T074051Z">
-        <seg>首先，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074230Z" creationid="Judy" creationdate="20131113T074051Z">
+        <seg>首先，將網路線一端插入路由器的 LAN 埠，另一端則連接至電腦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2476,8 +2476,8 @@
       <tuv lang="EN-US">
         <seg>One cable will hook up to your computer and the other cable will hook up to the router system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073546Z" creationid="Judy" creationdate="20131113T073546Z">
-        <seg>其中一條網路線連接至電腦，另一條則連接至路由器系統。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074235Z" creationid="Judy" creationdate="20131113T073546Z">
+        <seg>其中一條網路線連接至電腦，另一條則連接至路由器系統，</seg>
       </tuv>
     </tu>
     <tu>
