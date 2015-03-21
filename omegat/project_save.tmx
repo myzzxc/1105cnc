@@ -1532,16 +1532,16 @@
       <tuv lang="EN-US">
         <seg>EXAMPLE 1: The customer does not want to put Digifort 16 licenses and analytical, so he gets the Base version and a Professional Pack of 8 additional licenses Professional (DGFPR1008V6 DGFPR1108V6 +), moreover it must acquire a license basis Analytical and a pack of 16 permits analytical (DGFAN1000V1 + DGFAN1116V1).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143001Z" creationid="CCYU" creationdate="20150321T143001Z">
-        <seg>範例 1：客戶不想購買 16 組 Digifort 和分析軟體的授權，因此他可以購買基本版加上包含 8 組額外授權碼的專業包 (DGFPR1008V6 DGFPR1108V6 +)，此外還必須購買基本分析軟體和 16 組分析授權 (DGFAN1000V1 + DGFAN1116V1)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T144228Z" creationid="CCYU" creationdate="20150321T143001Z">
+        <seg>範例 1：客戶不想購買 16 組 Digifort 和分析軟體的授權，因此他可以購買基本版加上包含 8 組額外授權碼的專業包 (DGFPR1008V6 DGFPR1108V6 +)，此外還必須購買分析軟體和 16 組分析授權 (DGFAN1000V1 + DGFAN1116V1)。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>EXAMPLE 2: The client has already Digifort surveillance and want to use the existing fixed cameras for four analytics licenses, then he must acquire the analytics base l and a pack of four analytics licenses (DGFAN1000V1 DGFAN1104V1 +), so he can run these licenses in any desired camera.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143606Z" creationid="CCYU" creationdate="20150321T143606Z">
-        <seg>範例 2：用戶已經擁有 Digifort 監控並想為有的固定式攝影機取得四組授權，則必須購買基本分析軟體 和四組授權包 (DGFAN1000V1 DGFAN1104V1+)，如此便可以將授權碼用於欲使用之攝影機。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T144140Z" creationid="CCYU" creationdate="20150321T143606Z">
+        <seg>範例 2：用戶已經擁有 Digifort 監控並想為有的固定式攝影機取得四組授權，則必須購買基本分析軟體 和四組分析授權包 (DGFAN1000V1 DGFAN1104V1+)，如此便可以將授權碼用於欲使用之攝影機。</seg>
       </tuv>
     </tu>
     <tu>
