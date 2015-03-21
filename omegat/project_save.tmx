@@ -1402,6 +1402,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Counting analytics (people, objects, cars) are purely statistical and do not reflect reality, must be only used for statistics, we don´t recommend the use of counting people in shops, malls or places where the entrance is overcrowding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140433Z" creationid="CCYU" creationdate="20150321T140433Z">
+        <seg>計數分析（人、物件、汽車）為純統計資料，不能完全代表真實數據，因此僅能作為統計資料使用。我們 不建議於商店、賣場內或人潮擁擠的入口處使用人頭計數功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut aluminium, sheet metal and stainless steel upto 12mm thick atcutting speeds over 5m/min with excellent edge quality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144522Z" creationid="ccyu" creationdate="20131105T144522Z">
@@ -4182,8 +4190,8 @@
       <tuv lang="EN-US">
         <seg>This four licenses are used to run analytics on any network camera, but limited to only four cameras at a time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135315Z" creationid="CCYU" creationdate="20150321T135229Z">
-        <seg>這 4 組授權碼可用於任何網路攝像機的分析，但每次只限四台攝像機。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140519Z" creationid="CCYU" creationdate="20150321T135229Z">
+        <seg>這 4 組授權碼可用於任何網路攝像機的分析，但每次只限四台攝影機。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4516,6 +4524,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We recommend using analytical only fixed cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140530Z" creationid="CCYU" creationdate="20150321T140510Z">
+        <seg>建議僅使用固定式攝影機進行分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weight Kgs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081819Z" creationid="Judy" creationdate="20131112T081745Z">
@@ -4680,6 +4696,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083530Z" creationid="ccyu" creationdate="20131109T083530Z">
         <seg>Yorba Linda, CA 92887 電話： +1 714 974 6200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need a dedicated server to run analytics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140614Z" creationid="CCYU" creationdate="20150321T140614Z">
+        <seg>需要一個專用伺服器以進行分析。</seg>
       </tuv>
     </tu>
     <tu>
