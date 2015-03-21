@@ -2012,8 +2012,8 @@
       <tuv lang="EN-US">
         <seg>If the client wishes to run analytics on four cameras, you must purchase four licenses.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135105Z" creationid="CCYU" creationdate="20150321T135105Z">
-        <seg>如果用戶欲進行四個監視器的分析，必須購買 4 個許可證。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135239Z" creationid="CCYU" creationdate="20150321T135105Z">
+        <seg>如果用戶欲進行四個攝影機的分析，必須購買 4 組授權碼，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4160,6 +4160,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065057Z" creationid="Judy" creationdate="20131113T064937Z">
         <seg>除塵風機需使用獨立的三相電源，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This four licenses are used to run analytics on any network camera, but limited to only four cameras at a time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135315Z" creationid="CCYU" creationdate="20150321T135229Z">
+        <seg>這 4 組授權碼可用於任何網路攝像機的分析，但每次只限四台攝像機。</seg>
       </tuv>
     </tu>
     <tu>
