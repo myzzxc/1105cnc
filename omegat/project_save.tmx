@@ -1834,6 +1834,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the use of Digifort analytics, it is necessary that the customer has installed Digifort Surveillance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T142036Z" creationid="CCYU" creationdate="20150321T142036Z">
+        <seg>欲使用 Digifort 分析，客戶必須先安裝 Digifort 監控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Front</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082934Z" creationid="Judy" creationdate="20131112T082921Z">
@@ -1886,6 +1894,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143234Z" creationid="ccyu" creationdate="20131107T143234Z">
         <seg>螺旋齒條  [3.7m 以下（如 4012）]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOW TO OBTAIN DIGIFORT ANALYTICS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141949Z" creationid="CCYU" creationdate="20150321T141949Z">
+        <seg>如何取得 DIGIFORT 分析</seg>
       </tuv>
     </tu>
     <tu>
