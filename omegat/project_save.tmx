@@ -2010,6 +2010,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the client wishes to run analytics on four cameras, you must purchase four licenses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135105Z" creationid="CCYU" creationdate="20150321T135105Z">
+        <seg>如果用戶欲進行四個監視器的分析，必須購買 4 個許可證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are supplying your own Unit you will need to ensure you have the correct piping or necessary reducer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065753Z" creationid="Judy" creationdate="20131113T065753Z">
@@ -2046,6 +2054,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062650Z" creationid="Judy" creationdate="20131113T062342Z">
         <seg>本段為 AXYZ 8.5HP (6.3Kw) 除塵系統之安裝指示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In an analytical license are provided all the analytical set above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135106Z" creationid="CCYU" creationdate="20150321T135020Z">
+        <seg>分析軟體皆含有一組授權碼，</seg>
       </tuv>
     </tu>
     <tu>
