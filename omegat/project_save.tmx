@@ -2058,6 +2058,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the customer doesn´t have Digifort Surveillance, then he must acquire one of the following versions: Standard, Professional or Enterprise and get the license for cameras corresponding analytics licenses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T142305Z" creationid="CCYU" creationdate="20150321T142305Z">
+        <seg>如果客戶沒有 Digifort 監控，請務必取得以下版本：標準版、專業版或企業版，並為每一台攝影機取得專屬分析授權碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are supplying your own Unit you will need to ensure you have the correct piping or necessary reducer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065753Z" creationid="Judy" creationdate="20131113T065753Z">
