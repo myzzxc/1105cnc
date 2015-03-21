@@ -1538,6 +1538,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXAMPLE 2: The client has already Digifort surveillance and want to use the existing fixed cameras for four analytics licenses, then he must acquire the analytics base l and a pack of four analytics licenses (DGFAN1000V1 DGFAN1104V1 +), so he can run these licenses in any desired camera.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143606Z" creationid="CCYU" creationdate="20150321T143606Z">
+        <seg>範例 2：用戶已經擁有 Digifort 監控並想為有的固定式攝影機取得四組授權，則必須購買基本分析軟體 和四組授權包 (DGFAN1000V1 DGFAN1104V1+)，如此便可以將授權碼用於欲使用之攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXAMPLE 3: The client already have Digifort Professional surveillance with 32 cameras and will acquire more 4 cameras exclusive for video analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143739Z" creationid="CCYU" creationdate="20150321T143739Z">
+        <seg>範例 3：用戶已經有 Digifort 監控專業版和 32 架設影機，另外打算購買 4 套影像分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS  from 150mm to 200mm (per Z)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134843Z" creationid="ccyu" creationdate="20131107T134843Z">
