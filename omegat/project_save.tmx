@@ -2154,6 +2154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case the customer must acquire 4 Digifort Surveillance licenses + Analytics Base License + 4 pack Analytics license (DGFPR1104V6 + DGFAN1000V1 + DGFAN1104V1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143921Z" creationid="CCYU" creationdate="20150321T143921Z">
+        <seg>這種情況下必須購買 4 套 Digifort 監控授權 + 分析軟體 + 4 組分析授權 (DGFPR1104V6 + DGFAN1000V1 + DGFAN1104V1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Includes torch, power supply and torch height control.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144957Z" creationid="ccyu" creationdate="20131105T144957Z">
