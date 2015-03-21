@@ -888,6 +888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Analytics are considered statistics, subject to false alarms, so it should be considered the environment and the kind of installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140049Z" creationid="CCYU" creationdate="20150321T140049Z">
+        <seg>分析是以統計方法進行，有時會有假警報，所以應考量安裝的環境和機種。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any additional time our engineer is required to stay on-site due to incomplete preparations will result in charges.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093156Z" creationid="Judy" creationdate="20131113T075905Z">
@@ -2342,6 +2350,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081436Z" creationid="Judy" creationdate="20131112T081436Z">
         <seg>長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like in a single license the client receives various analytics, he can also choose the desired analytics and run on the specified camera, and you can still run at the same time several analytics on the same camera, except the capture of the face, left objects and missing objects that should run separated with another configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135856Z" creationid="CCYU" creationdate="20150321T135856Z">
+        <seg>用和可使用如同單套授權之各種分析功能，也可以選擇在指定的攝影機上進行所需的分析，同時也能在單一攝影機上進行多種分析，但臉部辨識、剩餘物品和遺失物的辨識必須使用其它單獨的設置來進行。</seg>
       </tuv>
     </tu>
     <tu>
