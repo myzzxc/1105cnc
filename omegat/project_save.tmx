@@ -4052,6 +4052,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The official license must be installed on the official machine because won’t possible to reactivated it on another machine later, so please test the machine before installing the official license.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141917Z" creationid="CCYU" creationdate="20150321T141917Z">
+        <seg>官方授權碼必須安裝在正式的機器上，因為一旦啟用後，便無法更換機器重新啟用。因此務必在安裝官方授權碼前先行測試機器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The option set that AXYZ International has developed over the last 20years iseasily the most diverse in the industry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134110Z" creationid="MAE" creationdate="20131105T092946Z">
