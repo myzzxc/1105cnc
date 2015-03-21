@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A good server will behave around 16 licenses (Base INTEL CORE I7 940).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140801Z" creationid="CCYU" creationdate="20150321T140801Z">
+        <seg>良好的伺服器能同時運行約 16 組分析（使用 INTEL CORE I7 940 的情況下）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A high performance camera mounted on the head of the machine, the power behind the AVS lies initssoftware which is fully integrated within the new AXYZ A2MC machine control system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034800Z" creationid="MAE" creationdate="20131106T034800Z">
@@ -3848,6 +3856,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090445Z" creationid="Judy" creationdate="20131112T083428Z">
         <seg>空氣供應輸入如下圖所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The analytics are available only in version 6.4 - Customers of earlier versions need to UPGRADE.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140904Z" creationid="CCYU" creationdate="20150321T140904Z">
+        <seg>分析功能僅適用於 6.4 版，舊版軟體必須升級。</seg>
       </tuv>
     </tu>
     <tu>
