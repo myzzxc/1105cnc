@@ -1530,6 +1530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXAMPLE 1: The customer does not want to put Digifort 16 licenses and analytical, so he gets the Base version and a Professional Pack of 8 additional licenses Professional (DGFPR1008V6 DGFPR1108V6 +), moreover it must acquire a license basis Analytical and a pack of 16 permits analytical (DGFAN1000V1 + DGFAN1116V1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143001Z" creationid="CCYU" creationdate="20150321T143001Z">
+        <seg>範例 1：客戶不想購買 16 組 Digifort 和分析軟體的授權，因此他可以購買基本版加上包含 8 組額外授權碼的專業包 (DGFPR1008V6 DGFPR1108V6 +)，此外還必須購買基本分析軟體和 16 組分析授權 (DGFAN1000V1 + DGFAN1116V1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS  from 150mm to 200mm (per Z)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134843Z" creationid="ccyu" creationdate="20131107T134843Z">
@@ -3984,6 +3992,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145711Z" creationid="ccyu" creationdate="20131105T145313Z">
         <seg>雕刻器為專門為了 AXYZ 系列或 Millennium CNC 雕刻機進行輕型所設計，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The example was done with the Professional, but is valid for the Standard and Enterprise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143115Z" creationid="CCYU" creationdate="20150321T143115Z">
+        <seg>此範例為專業版，但也適用標準版和企業版。</seg>
       </tuv>
     </tu>
     <tu>
