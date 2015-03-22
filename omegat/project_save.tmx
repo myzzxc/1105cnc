@@ -1068,6 +1068,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the object moves toward and away from the camera, the PTZ will zoom to attempt to keep the matched object the same size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151123Z" creationid="CCYU" creationdate="20150322T151123Z">
+        <seg>當物體靠近或遠離鏡頭時，PTZ 攝影機會嘗試放大縮小以維持匹配物體相同的大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you can see, the person that we are tracking has moved to the lower right of the image.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150414Z" creationid="CCYU" creationdate="20150322T150414Z">
@@ -1849,6 +1857,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151051Z" creationid="ccyu" creationdate="20131105T151051Z">
         <seg>有 5 頭 L 形或 9 頭 L 形鑽頭可供選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Due to PTZ cameras all having different zoom, focus and moving speeds each PTZ has to be calibrated so that the algorithm knows how much to move each PTZ.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151345Z" creationid="CCYU" creationdate="20150322T151345Z">
+        <seg>因為 PTZ 攝影機有不同放大倍率、焦距，且每台 PTZ 攝影機的移動速度必須經過校正使演算法能正確地移動每台 PTZ 攝影機。</seg>
       </tuv>
     </tu>
     <tu>
