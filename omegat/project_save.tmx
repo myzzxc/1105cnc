@@ -2450,6 +2450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left objects:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060112Z" creationid="CCYU" creationdate="20150322T060112Z">
+        <seg>剩餘物件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Length</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081436Z" creationid="Judy" creationdate="20131112T081436Z">
