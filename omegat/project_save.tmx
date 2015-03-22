@@ -1404,6 +1404,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calibrating the width of expected objects allows the counting line to increase it’s accuracy further.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T141044Z" creationid="CCYU" creationdate="20150322T140922Z">
+        <seg>使用已知物體來校正寬度能使計數線更加精準，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calibration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092325Z" creationid="CCYU" creationdate="20150322T092325Z">
@@ -5365,6 +5373,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123553Z" creationid="CCYU" creationdate="20150322T123553Z">
         <seg>這是一個相當難以解決的問題，而人員追蹤器已經能解決大部分的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is because if it sees an object twice the width of what it expects it can increase the count by two!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T141040Z" creationid="CCYU" creationdate="20150322T141040Z">
+        <seg>因為如果它看到物件的它所期望的它可以由兩個增加的計數寬度的兩倍 ！</seg>
       </tuv>
     </tu>
     <tu>
