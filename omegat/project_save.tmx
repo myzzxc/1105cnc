@@ -5361,6 +5361,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is like a reversed office scanner.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140010Z" creationid="CCYU" creationdate="20150322T140010Z">
+        <seg>此功能類似掃描器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is why we have camera shake cancellation, this will eliminate a lot of the changing values and the model will look more like the previous models.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105244Z" creationid="CCYU" creationdate="20150322T105244Z">
@@ -5820,8 +5828,8 @@
       <tuv lang="EN-US">
         <seg>What it does is keep a log of what it is seeing so that it knows what is passing through the line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T135526Z" creationid="CCYU" creationdate="20150322T135325Z">
-        <seg>此功能僅會持續紀錄所拍攝之畫面以便知道通過計數線的物體是什麼。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140112Z" creationid="CCYU" creationdate="20150322T135325Z">
+        <seg>此功能僅會持續紀錄所通過之畫面以便知道通過計數線的物體是什麼。</seg>
       </tuv>
     </tu>
     <tu>
