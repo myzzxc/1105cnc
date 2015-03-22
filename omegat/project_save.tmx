@@ -2415,6 +2415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the car was then removed it would leave a hole in the learnt background:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112513Z" creationid="CCYU" creationdate="20150322T112424Z">
+        <seg>如果這輛車離開了，便會在辨識的背景中留下一個空洞：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the client wishes to run analytics on four cameras, you must purchase four licenses.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135239Z" creationid="CCYU" creationdate="20150321T135105Z">
@@ -2443,6 +2451,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T111813Z" creationid="CCYU" creationdate="20150322T111813Z">
         <seg>如果畫面中一輛停著的車：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If we visualize the learnt background as transparent blue pixels, the internal representation of the scenes background would cover the whole screen:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112437Z" creationid="CCYU" creationdate="20150322T112344Z">
+        <seg>假設辨識出的背景是藍色透明像素，在此場景中，演算法內部顯示的背景將覆蓋整個螢幕：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3411,6 +3427,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105517Z" creationid="CCYU" creationdate="20150322T105517Z">
         <seg>3/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 4 of 11</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112346Z" creationid="CCYU" creationdate="20150322T112346Z">
+        <seg>4/11 頁</seg>
       </tuv>
     </tu>
     <tu>
