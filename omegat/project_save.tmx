@@ -5401,6 +5401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is an automatic calibration tool written that can get the user 95% of the way towards a good calibration but the last bit may have to be fine tuned depending on PTZ.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151846Z" creationid="CCYU" creationdate="20150322T151846Z">
+        <seg>自動校正工具能禳使用者達到 95% 的良好校正，但最後的細部調整則依 PTZ 攝影機而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These grouped pixels are the tracked objects that you see in the web page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104509Z" creationid="CCYU" creationdate="20150322T104509Z">
@@ -6046,6 +6054,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083141Z" creationid="ccyu" creationdate="20131109T083141Z">
         <seg>AXYZ 於機器視覺和攝影定位系統中有最先進的解決方案可供選用，提供卓越的性能和投資回報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When matching the object, the algorithm can sometimes match against something that isn’t actually the object it was looking for.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152022Z" creationid="CCYU" creationdate="20150322T152022Z">
+        <seg>當進行物體匹配時，此演算法有時會匹配到非目標的物體。</seg>
       </tuv>
     </tu>
     <tu>
