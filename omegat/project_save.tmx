@@ -2498,6 +2498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loitering:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060921Z" creationid="CCYU" creationdate="20150322T060921Z">
+        <seg>遊蕩：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080339Z" creationid="Judy" creationdate="20131113T080339Z">
