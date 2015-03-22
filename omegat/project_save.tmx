@@ -712,6 +712,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abandoned/Removed Object How does it work?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092236Z" creationid="CCYU" creationdate="20150322T092236Z">
+        <seg>遺落/取走物體
+運作原理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accuracy Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034417Z" creationid="MAE" creationdate="20131106T034417Z">
@@ -1034,6 +1043,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Tracking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092417Z" creationid="CCYU" creationdate="20150322T092417Z">
+        <seg>自動追蹤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Zone Switching</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072408Z" creationid="MAE" creationdate="20131106T072408Z">
@@ -1338,6 +1355,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calibration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092325Z" creationid="CCYU" creationdate="20150322T092325Z">
+        <seg>校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera tampering:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061421Z" creationid="CCYU" creationdate="20150322T061314Z">
@@ -1366,6 +1391,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083459Z" creationid="ccyu" creationdate="20131109T083459Z">
         <seg>Cincinnati, OH 45241 電話： +1 513 771 7444</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classification Counting Line</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092410Z" creationid="CCYU" creationdate="20150322T092354Z">
+        <seg>分類
+計數線</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2032,24 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060252Z" creationid="CCYU" creationdate="20150322T060205Z">
         <seg>此篩選器在 6.6 版中已重新設計並最佳化，當物件遺落在設定的區域內時，便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire &amp; Smoke Detection How does it work?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092453Z" creationid="CCYU" creationdate="20150322T092453Z">
+        <seg>火災和煙霧偵測
+運作原理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Smoke</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092506Z" creationid="CCYU" creationdate="20150322T092506Z">
+        <seg>火災
+煙霧</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,6 +3274,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142914Z" creationid="ccyu" creationdate="20131107T142914Z">
         <seg>泵消音器（2.5" 適合所有鼓風機 &amp; 消音器）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 1 of 11</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092523Z" creationid="CCYU" creationdate="20150322T092523Z">
+        <seg>1/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>People</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092318Z" creationid="CCYU" creationdate="20150322T092318Z">
+        <seg>人</seg>
       </tuv>
     </tu>
     <tu>
