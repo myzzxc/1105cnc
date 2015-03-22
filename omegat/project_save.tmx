@@ -4857,6 +4857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The people tracker works the same way as the surveillance tracker in that it ‘learns’ the background of the camera view and can work out what are foreground objects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120356Z" creationid="CCYU" creationdate="20150322T120356Z">
+        <seg>人員追蹤和監視追蹤器的運作原理相同，其「辨識」攝影機畫面中的背景，然後便能分辨出前景物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pneumatic I electric combination is  best forheavier duty orcontinuous use applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T152039Z" creationid="ccyu" creationdate="20131105T152039Z">
