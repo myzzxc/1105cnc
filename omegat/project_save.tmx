@@ -3519,6 +3519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page 6 of 11</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T125147Z" creationid="CCYU" creationdate="20150322T125147Z">
+        <seg>6/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>People</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092318Z" creationid="CCYU" creationdate="20150322T092318Z">
@@ -4933,6 +4941,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134110Z" creationid="MAE" creationdate="20131105T092946Z">
         <seg>AXYZ 國際在過去的 20 年所開發配件組合為業界最多元化的組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The people tracker is a younger algorithm than the surveillance tracker so tuning and improvements will occur over time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T125143Z" creationid="CCYU" creationdate="20150322T125143Z">
+        <seg>人員追蹤器相較監控追蹤器是一個較新的演算法，所以仍需要時間進行調整和改進。</seg>
       </tuv>
     </tu>
     <tu>
