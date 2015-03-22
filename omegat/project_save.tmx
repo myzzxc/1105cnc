@@ -4849,6 +4849,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The counting line is only one pixel thin and cannot know that the object is longer than one pixel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T135329Z" creationid="CCYU" creationdate="20150322T135310Z">
+        <seg>計數線寬度只有一個像素，因此無法得知該物件是否大於一個像素，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The creasing wheel cartridge can be fitted with arange ofdifferent sized and profiled creasing wheels for use in sample making applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160125Z" creationid="ccyu" creationdate="20131108T154958Z">
@@ -5806,6 +5814,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081819Z" creationid="Judy" creationdate="20131112T081745Z">
         <seg>重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What it does is keep a log of what it is seeing so that it knows what is passing through the line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T135526Z" creationid="CCYU" creationdate="20150322T135325Z">
+        <seg>此功能僅會持續紀錄所拍攝之畫面以便知道通過計數線的物體是什麼。</seg>
       </tuv>
     </tu>
     <tu>
