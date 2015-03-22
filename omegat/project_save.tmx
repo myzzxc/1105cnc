@@ -1602,6 +1602,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distributed Processing:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063823Z" creationid="CCYU" creationdate="20150322T063823Z">
+        <seg>分散式處理：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have sufficient compressed air available in your work shop?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081507Z" creationid="Judy" creationdate="20131113T081441Z">
@@ -4015,6 +4023,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031145Z" creationid="MAE" creationdate="20131106T030416Z">
         <seg>AXYZ 擺動裁刀配件為加工輕薄彈性材料之重要刀具，可處理泡棉，展立板、塑膠瓦楞或瓦楞紙，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Advanced Analytical provides that if the camera is in an environment that has trepidation, internally cancel the interference in the analytical analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063816Z" creationid="CCYU" creationdate="20150322T063816Z">
+        <seg>進階解析能在解析分析時，消除攝影機所受環境的干擾。</seg>
       </tuv>
     </tu>
     <tu>
