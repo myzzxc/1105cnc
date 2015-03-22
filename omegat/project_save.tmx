@@ -4344,6 +4344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That person talks to someone and their objects join together, then they walk off to where they came from.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124659Z" creationid="CCYU" creationdate="20150322T124659Z">
+        <seg>那個人正在與另一個人交談，使得物體像素結合在一起，接著他們往他們來的方向走回去，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 10HP Becker dryvane vacuum pump is perfectly suited forvacuum  hold down on allAXYZ Series Routers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065154Z" creationid="MAE" creationdate="20131106T065103Z">
@@ -4933,6 +4941,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T121738Z" creationid="CCYU" creationdate="20150322T121738Z">
         <seg>人員追蹤器則會觀察這兩個物體，當他們分開時，認定「此物體看起來像是穿著藍色上衣的物體，因此是不久之前所看到的穿藍色上衣的物體」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The persons jumper is actually blue on the front and white on the back.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124739Z" creationid="CCYU" creationdate="20150322T124739Z">
+        <seg>那個人的運動衫前面是藍色而背面是白色，</seg>
       </tuv>
     </tu>
     <tu>
