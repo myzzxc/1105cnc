@@ -4876,6 +4876,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type of camera, video server, type of bond to be used, positioning the camera, angle, distance, height, lighting, use of the shutter, lighting and other characteristics, are fundamental to the success of the system, so it is advisable for those involved doing a course with a specialized company to better understanding of these items.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091542Z" creationid="CCYU" creationdate="20150322T091542Z">
+        <seg>攝影機類型、影像伺服器、使用之連結器，攝影機位置、角度、距離、高度、照明、快門、光線和其它特性，都是影響系統好壞的因素。因此建議諮詢專業人員或公司，以更了解這些器材。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UNIST MISTER / LUBRICATOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131706Z" creationid="ccyu" creationdate="20131107T131706Z">
