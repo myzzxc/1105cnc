@@ -1420,6 +1420,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calibration allows the tracker to calculate the area of an object and also the speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T133050Z" creationid="CCYU" creationdate="20150322T133039Z">
+        <seg>校正後，追蹤器能計算物體的面積以及速度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera tampering:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061421Z" creationid="CCYU" creationdate="20150322T061314Z">
@@ -1601,6 +1609,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T140056Z" creationid="ccyu" creationdate="20131105T140056Z">
         <seg>快速由路達轉換為電漿切削器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Correct calibration allows the camera to know that one metre in the algorithm is equal to one metre in reality.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132942Z" creationid="CCYU" creationdate="20150322T132821Z">
+        <seg>正確的校正能使攝影機計算藉由演算法計算出真實世界中物體的實際長度。</seg>
       </tuv>
     </tu>
     <tu>
