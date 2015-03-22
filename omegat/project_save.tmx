@@ -3744,6 +3744,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page 11 of 11</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155702Z" creationid="CCYU" creationdate="20150322T155702Z">
+        <seg>11/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page 2 of 11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104000Z" creationid="CCYU" creationdate="20150322T104000Z">
@@ -4982,6 +4990,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T111749Z" creationid="CCYU" creationdate="20150322T111749Z">
         <seg>此演算法的運作方式是尋找背景中出現的空缺或新增的像素，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The algorithm may lean on the side of caution and produce false positives.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155539Z" creationid="CCYU" creationdate="20150322T155539Z">
+        <seg>演算法設定較為保守，因此可能會產生假警報。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6311,6 +6327,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T154855Z" creationid="ccyu" creationdate="20131105T145946Z">
         <seg>其包含四個安裝螺栓和快速電源插頭，非常容易從路達桌上裝卸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With more test footage we will be able to fine tune the algorithm to produce better results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155658Z" creationid="CCYU" creationdate="20150322T155658Z">
+        <seg>當收集更多的畫面後，我們將能夠對演算法進行細部微調以得到更好得結果。</seg>
       </tuv>
     </tu>
     <tu>
