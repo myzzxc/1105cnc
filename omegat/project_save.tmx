@@ -2390,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the model is messed up, then the algorithm can’t decide what is a foreground pixel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104641Z" creationid="CCYU" creationdate="20150322T104627Z">
+        <seg>如果模型過於混雜，此演算法則無法確定前景像素是什麼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are supplying your own Unit you will need to ensure you have the correct piping or necessary reducer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065753Z" creationid="Judy" creationdate="20131113T065753Z">
@@ -3104,8 +3112,8 @@
       <tuv lang="EN-US">
         <seg>Once we have all these object pixels, they are grouped together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104248Z" creationid="CCYU" creationdate="20150322T104248Z">
-        <seg>最後全部的Once we have all these object pixels, they are grouped together.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104404Z" creationid="CCYU" creationdate="20150322T104248Z">
+        <seg>最後全部的物體像素會組合成一個群組，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4876,6 +4884,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092250Z" creationid="Judy" creationdate="20131113T073138Z">
         <seg>網路路由器的種類眾多，建議使用 D-link 或 Linksys。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These grouped pixels are the tracked objects that you see in the web page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104509Z" creationid="CCYU" creationdate="20150322T104509Z">
+        <seg>這些群組像素便是網頁上所看到的追蹤物體。</seg>
       </tuv>
     </tu>
     <tu>
