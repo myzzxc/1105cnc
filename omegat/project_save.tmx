@@ -2247,6 +2247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if we have a top down camera placement of two people following each other through an area:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T142346Z" creationid="CCYU" creationdate="20150322T142346Z">
+        <seg>例如，當攝影機由上往下拍攝的情況下，如果有兩人接連通過此區域：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, once the two cameras above are calibrated the group of object pixels on the left can be converted to 1.5m2 and 4m2 on the right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T134107Z" creationid="CCYU" creationdate="20150322T134107Z">
