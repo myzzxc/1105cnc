@@ -4736,6 +4736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The accuracy of this is very good with correct camera placement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140758Z" creationid="CCYU" creationdate="20150322T140758Z">
+        <seg>當攝影機正確架設時能得到相當精確的結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The addition of an object to a scene and being abandoned has a similar method of detection but instead of looking for a hole in the learnt background it looks for a new object that has been stationary long enough to become part of the background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112923Z" creationid="CCYU" creationdate="20150322T112923Z">
@@ -6006,6 +6014,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060529Z" creationid="CCYU" creationdate="20150322T060529Z">
         <seg>此篩選器也已升級到 6.6 版，當設定點上的物件被取走時，便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this log it can count grouped foreground pixels as objects through the line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140801Z" creationid="CCYU" creationdate="20150322T140718Z">
+        <seg>此紀錄可於物體通過時計算前景像素，</seg>
       </tuv>
     </tu>
     <tu>
