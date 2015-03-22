@@ -1118,8 +1118,8 @@
       <tuv lang="EN-US">
         <seg>Auto tracking works by matching what it saw in a PTZ cameras last video frame with what it can see in this video frame and moves the PTZ if what it matched has moved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150314Z" creationid="CCYU" creationdate="20150322T150240Z">
-        <seg>自動追蹤功能會將 PTZ 攝影機的最後一個影像畫面與目前的影像中所看到的物體進行配對，如果配對之物體移動時便會隨之移動 PTZ。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150522Z" creationid="CCYU" creationdate="20150322T150240Z">
+        <seg>自動追蹤功能會將 PTZ 攝影機的最後一個影像畫面與目前的影像中所看到的物體進行匹配，如果匹配之物體移動時便會隨之移動 PTZ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4885,6 +4885,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124857Z" creationid="CCYU" creationdate="20150322T124857Z">
         <seg>此時攝影機看到一個白色上衣的物體，而之前卻沒有白色上衣的物體走進來！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The camera searches the video frame to match the same shape.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150505Z" creationid="CCYU" creationdate="20150322T150505Z">
+        <seg>攝影機搜尋影像畫面，以進行相同形狀的匹配。</seg>
       </tuv>
     </tu>
     <tu>
