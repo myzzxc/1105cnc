@@ -2439,6 +2439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there was a scene with a parked car:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T111813Z" creationid="CCYU" creationdate="20150322T111813Z">
+        <seg>如果畫面中一輛停著的車：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are supplying your own Unit you will need to ensure you have the correct piping or necessary reducer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065753Z" creationid="Judy" creationdate="20131113T065753Z">
@@ -4525,6 +4533,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090445Z" creationid="Judy" creationdate="20131112T083428Z">
         <seg>空氣供應輸入如下圖所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The algorithm looks for holes or additions to the background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T111749Z" creationid="CCYU" creationdate="20150322T111749Z">
+        <seg>此演算法的運作方式是尋找背景中出現的空缺或新增的像素，</seg>
       </tuv>
     </tu>
     <tu>
