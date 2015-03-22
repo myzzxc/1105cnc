@@ -952,6 +952,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any Advanced Analytical configuration allows that after the object classes registration, any alarm will be triggered only by a defined object type, as cars, people, etc...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063336Z" creationid="CCYU" creationdate="20150322T063336Z">
+        <seg>完成物體分類的設定後，在所有的進階分析設定中，便能自行設置觸發警報的物體類型，如汽車、人等等……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any additional time our engineer is required to stay on-site due to incomplete preparations will result in charges.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093156Z" creationid="Judy" creationdate="20131113T075905Z">
@@ -1310,6 +1318,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061421Z" creationid="CCYU" creationdate="20150322T061314Z">
         <seg>攝影機受入侵偵測：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera trepidation canceling:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063552Z" creationid="CCYU" creationdate="20150322T063552Z">
+        <seg>攝影機干擾消除：</seg>
       </tuv>
     </tu>
     <tu>
