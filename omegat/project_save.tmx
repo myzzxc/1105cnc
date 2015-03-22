@@ -1412,6 +1412,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calibration allows the camera to correctly work out what a group of 30 pixels is in reality.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132510Z" creationid="CCYU" creationdate="20150322T132510Z">
+        <seg>經過校正後，攝像機能正確的計算出 30 像素的實際大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera tampering:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061421Z" creationid="CCYU" creationdate="20150322T061314Z">
@@ -2183,6 +2191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132229Z" creationid="CCYU" creationdate="20150322T132229Z">
+        <seg>例如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For larger applications requiring full process width ofasingle carriage, the second carriage can conveniently be parked atthe end ofthe gantry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160000Z" creationid="ccyu" creationdate="20131105T130102Z">
@@ -2411,6 +2427,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092007Z" creationid="CCYU" creationdate="20150322T092007Z">
         <seg>運作原理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, a group of 30 pixels means nothing to the camera without calibration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132215Z" creationid="CCYU" creationdate="20150322T132215Z">
+        <seg>然而，若攝影機未經校正，一組 30 像素便無任何意義。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5181,6 +5205,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031447Z" creationid="MAE" creationdate="20131106T031447Z">
         <seg>上述材料由傳統路達或刀具加工具極具挑戰性，但擺動刀可輕易處理以上材料，提供乾淨的切邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These objects are roughly the same amount of pixels but are obviously different sizes in the real world.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132327Z" creationid="CCYU" creationdate="20150322T132327Z">
+        <seg>這些物件居有大致相同數量的像素，但在現實世界中的大小明顯不同。</seg>
       </tuv>
     </tu>
     <tu>
