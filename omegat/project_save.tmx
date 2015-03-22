@@ -2178,6 +2178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Included modules in the analysis package:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T053149Z" creationid="CCYU" creationdate="20150322T053136Z">
+        <seg>分析軟體包含下列模組：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Includes torch, power supply and torch height control.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144957Z" creationid="ccyu" creationdate="20131105T144957Z">
@@ -2926,6 +2934,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142914Z" creationid="ccyu" creationdate="20131107T142914Z">
         <seg>泵消音器（2.5" 適合所有鼓風機 &amp; 消音器）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>People Counting:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T053202Z" creationid="CCYU" creationdate="20150322T053202Z">
+        <seg>人數計算：</seg>
       </tuv>
     </tu>
     <tu>
