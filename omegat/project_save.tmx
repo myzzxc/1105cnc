@@ -4548,6 +4548,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The system works in two ways: With Physical Sensor or with Virtual Sensor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084040Z" creationid="CCYU" creationdate="20150322T084040Z">
+        <seg>系統有兩種運作方式：使用物理感測器或使用虛擬感測器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tampering module allows that an alarm be triggered when the camera is attacked, the alarm is detected by camera motion, focus, brightness change, obstruction and vandalism.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061908Z" creationid="CCYU" creationdate="20150322T061401Z">
@@ -4988,6 +4996,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Virtual sensor :</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084049Z" creationid="CCYU" creationdate="20150322T084049Z">
+        <seg>虛擬感測器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vortex Cold Guns</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053245Z" creationid="MAE" creationdate="20131106T053245Z">
@@ -5040,6 +5056,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083141Z" creationid="ccyu" creationdate="20131109T083141Z">
         <seg>AXYZ 於機器視覺和攝影定位系統中有最先進的解決方案可供選用，提供卓越的性能和投資回報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When passing by the camera, Digifort LPR get a photo of the vehicle´s plate, registering it on a images database, with date, hour and camera information, allowing a lot of consults and a more effective traffic management.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083959Z" creationid="CCYU" creationdate="20150322T083959Z">
+        <seg>當車輛通過攝影機時，Digifort LPR 會拍攝車牌並存入影像資料庫中，紀錄日期、時間和攝影機資訊，以便更有效地進行分析和交通管理。</seg>
       </tuv>
     </tu>
     <tu>
