@@ -1893,6 +1893,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to the use of colour to detect fire, if the colour range of the camera is incorrect the fire detection algorithm could fail.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155211Z" creationid="CCYU" creationdate="20150322T155211Z">
+        <seg>因為火災偵測是利用顏色，若攝影機的顏色範圍不正確，則可能無法偵測到火焰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EACH ADDITIONAL SERVO AXIS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141519Z" creationid="ccyu" creationdate="20131107T141519Z">
@@ -2420,6 +2428,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124506Z" creationid="ccyu" creationdate="20131107T124502Z">
         <seg>支架配件和組態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting test footage for the fire and detection algorithm is difficult as objects have to be set on fire!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155433Z" creationid="CCYU" creationdate="20150322T155433Z">
+        <seg>測試火災偵測演算法的畫面很困難，因為必須讓物體著火！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5638,6 +5654,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123553Z" creationid="CCYU" creationdate="20150322T123553Z">
         <seg>這是一個相當難以解決的問題，而人員追蹤器已經能解決大部分的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is also an issue when a camera changes to night mode as colour information is lost.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155313Z" creationid="CCYU" creationdate="20150322T155313Z">
+        <seg>當攝影機設定為夜間模式時，損失的顏色資訊也會是一個問題。</seg>
       </tuv>
     </tu>
     <tu>
