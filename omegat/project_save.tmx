@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if a white car comes along and passes through this pixel we will see lots of white or 255 pixels:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103956Z" creationid="CCYU" creationdate="20150322T103956Z">
+        <seg>然而，當一輛白色轎車經過這個像素時，會出現大量的白色或 255 的像素：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identify and clear an area ready for the machine, making sure all your doors and entrances are large enough to get the machine through.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084206Z" creationid="Judy" creationdate="20131112T081337Z">
@@ -3094,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once we have all these object pixels, they are grouped together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104248Z" creationid="CCYU" creationdate="20150322T104248Z">
+        <seg>最後全部的Once we have all these object pixels, they are grouped together.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One cable will hook up to your computer and the other cable will hook up to the router system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092712Z" creationid="Judy" creationdate="20131113T073546Z">
@@ -3314,6 +3330,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092523Z" creationid="CCYU" creationdate="20150322T092523Z">
         <seg>1/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 2 of 11</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104000Z" creationid="CCYU" creationdate="20150322T104000Z">
+        <seg>2/11 頁</seg>
       </tuv>
     </tu>
     <tu>
@@ -4411,6 +4435,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143046Z" creationid="ccyu" creationdate="20131108T143015Z">
         <seg>裁刀為堅固耐用的切削刀具，用於塑膠刀無法處理之較厚重材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The VCA tracker then makes this a foreground, or object, pixel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104252Z" creationid="CCYU" creationdate="20150322T104217Z">
+        <seg>接著 VCA 追蹤器會將此部份認定為前景（物體）像素，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5541,6 +5573,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052440Z" creationid="CCYU" creationdate="20150322T052416Z">
         <seg>你能利用分析軟體生成事件報告和統計圖表，如計算物件、遺落物件、臉部偵測等等……系統中紀錄的所有事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can see this is different from what is usually there.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104049Z" creationid="CCYU" creationdate="20150322T104049Z">
+        <seg>可由上圖看出與平常背景的不同。</seg>
       </tuv>
     </tu>
     <tu>
