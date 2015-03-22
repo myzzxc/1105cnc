@@ -5329,6 +5329,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They will be accurately counted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T142703Z" creationid="CCYU" creationdate="20150322T142703Z">
+        <seg>此時就能精確地計算到兩個人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Grid can work in metric units (meters) or imperial unit (North American Standard).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071331Z" creationid="CCYU" creationdate="20150322T071331Z">
@@ -5830,6 +5838,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124941Z" creationid="CCYU" creationdate="20150322T124941Z">
         <seg>我們嘗試透過調整色彩隨著時間變化的模型來解決這些問題，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can see that the counting line will see two separate objects as they pass through the counting line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T142629Z" creationid="CCYU" creationdate="20150322T142629Z">
+        <seg>由圖能看出當他們通過計線時，會辨識出兩個單獨的物體，</seg>
       </tuv>
     </tu>
     <tu>
