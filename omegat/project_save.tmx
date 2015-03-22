@@ -792,6 +792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Algorithms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091912Z" creationid="CCYU" creationdate="20150322T091912Z">
+        <seg>演算法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All AXYZ Series tables have thefollowing standard and available options:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153006Z" creationid="ccyu" creationdate="20131106T153006Z">
@@ -1486,6 +1494,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093259Z" creationid="Judy" creationdate="20131113T075917Z">
         <seg>連絡人姓名…………………………………………………………………………</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091737Z" creationid="CCYU" creationdate="20150322T091737Z">
+        <seg>目錄</seg>
       </tuv>
     </tu>
     <tu>
@@ -5000,6 +5016,23 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132549Z" creationid="ccyu" creationdate="20131107T132549Z">
         <seg>真空切換歧管（三 Z 加工組態）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VCA Algorithm Training</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091837Z" creationid="CCYU" creationdate="20150322T091729Z">
+        <seg>VCA 演算法教學</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VCA Algorithm Training Contents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091909Z" creationid="CCYU" creationdate="20150322T091904Z">
+        <seg>VCA 演算法教學
+目錄</seg>
       </tuv>
     </tu>
     <tu>
