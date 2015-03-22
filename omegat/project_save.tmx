@@ -1618,6 +1618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digifort LPR is na intelligent eletronic module, that uses OCR capabilities for automatic recognition of vehicles' plates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083127Z" creationid="CCYU" creationdate="20150322T083127Z">
+        <seg>Digifort LPR 是一套智慧型電子車牌識別模組，利用光學文字辨識的功能進行車牌自動識別。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direction Control:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062539Z" creationid="CCYU" creationdate="20150322T062539Z">
