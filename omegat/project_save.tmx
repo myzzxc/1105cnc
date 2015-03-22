@@ -4551,6 +4551,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The addition of an object to a scene and being abandoned has a similar method of detection but instead of looking for a hole in the learnt background it looks for a new object that has been stationary long enough to become part of the background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112923Z" creationid="CCYU" creationdate="20150322T112923Z">
+        <seg>場景中新增的物體也利用與取走物體類似的偵測方法，但不是去尋找辨識背景中的空洞，而是尋找在畫面中停留時間夠久，因而成為辨識背景一部分的新增物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>?</note>
       <tuv lang="EN-US">
         <seg>The air requirements will vary depending if you have a HSD Quick Release Spindle, Pneumatic drill, Electric Drill or Dual mister.</seg>
