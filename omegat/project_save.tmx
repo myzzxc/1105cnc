@@ -5826,10 +5826,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a counting line is set up, it does similar background/foreground modelling as the tracker but along the line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T135224Z" creationid="CCYU" creationdate="20150322T135056Z">
+        <seg>當設定計數線時，會沿著計數線上進行類似追蹤器的背景/前景模型建立，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a human looks at a yellow car, they will say it is yellow - of course it is.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123831Z" creationid="CCYU" creationdate="20150322T123831Z">
         <seg>當一個人看到一輛黃色轎車時，他當然會知道它是黃色的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an object passes through the line, it knows that it is not the background and an important object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T135222Z" creationid="CCYU" creationdate="20150322T135222Z">
+        <seg>當物體通過計數線時，便能知道不是背景而是重要的物件。</seg>
       </tuv>
     </tu>
     <tu>
