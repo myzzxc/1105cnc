@@ -2112,8 +2112,8 @@
       <tuv lang="EN-US">
         <seg>For example, if a pixel is looking at a piece a tarmac the whole time, which is generally black, the model for this pixel would look like this:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103629Z" creationid="CCYU" creationdate="20150322T103629Z">
-        <seg>例如，如果一個像素依看起來一直維持黑色，模型圖元看一塊停機坪的整個時間，通常是黑色，這個圖元的模型將如下所示：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103843Z" creationid="CCYU" creationdate="20150322T103629Z">
+        <seg>例如，如果一個像素看起來一直維持黑色，此像素的模型如下所示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4474,8 +4474,8 @@
       <tuv lang="EN-US">
         <seg>The camera ‘learns’ what is background by modelling each pixel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103452Z" creationid="CCYU" creationdate="20150322T103452Z">
-        <seg>攝影機藉由模擬每個像素來「辨識」背景，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103658Z" creationid="CCYU" creationdate="20150322T103452Z">
+        <seg>攝影機藉由建立每個像素的模型來「辨識」背景，</seg>
       </tuv>
     </tu>
     <tu>
