@@ -1027,6 +1027,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you can see, when the car pixel value passes through, it is much harder to tell if this is different to what is usually there.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105010Z" creationid="CCYU" creationdate="20150322T105010Z">
+        <seg>正如圖型所示，當車輛經過時，很難判斷此像素與平常有什麼不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aselection of optional interchangeable cartridges are available which can accommodate standard knife blades aswell aspizza wheel cutters, creasing wheels and 45degree blades.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T154218Z" creationid="ccyu" creationdate="20131105T154218Z">
@@ -2114,6 +2122,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103843Z" creationid="CCYU" creationdate="20150322T103629Z">
         <seg>例如，如果一個像素看起來一直維持黑色，此像素的模型如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, if the camera is shaking, the pixel value is changing all the time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104808Z" creationid="CCYU" creationdate="20150322T104808Z">
+        <seg>例如，當攝影機抖動時，像素值會一直變化，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4668,6 +4684,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z" creationid="MAE" creationdate="20131105T092952Z">
         <seg>機台配件可分為五個部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The model may look something like this:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104853Z" creationid="CCYU" creationdate="20150322T104853Z">
+        <seg>此模型看起來會類似於下圖：</seg>
       </tuv>
     </tu>
     <tu>
