@@ -2414,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a 1920x1080 HD image there are 1920 pixels across and 1080 pixels down.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103154Z" creationid="CCYU" creationdate="20150322T103154Z">
+        <seg>在 1920x1080 HD 影像中，水平有 1920 像素而垂直方向有 1080 像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In an analytical license are provided all the analytical set above.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135106Z" creationid="CCYU" creationdate="20150321T135020Z">
@@ -2434,6 +2442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085007Z" creationid="CCYU" creationdate="20150322T085007Z">
         <seg>使用物理感測器則伺服器的需求量會較低，因此相較使用虛擬感測器的情況下，能處理更多的車牌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the digital world pixels are always a number between 0 and 255.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103312Z" creationid="CCYU" creationdate="20150322T103312Z">
+        <seg>在數位世界中，像素是一個介於 0 到 255 之間的數，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3346,6 +3362,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084435Z" creationid="CCYU" creationdate="20150322T084435Z">
         <seg>物理感測器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pixels are the small square bits that make up a digital image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103053Z" creationid="CCYU" creationdate="20150322T103053Z">
+        <seg>像素是構成數位影像的微小方塊，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5549,6 +5573,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T075805Z" creationid="Judy" creationdate="20131112T075448Z">
         <seg>AXYZ 雕刻機工作台即將運送到達。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zero is black and 255 is white.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103332Z" creationid="CCYU" creationdate="20150322T103332Z">
+        <seg>0 代表黑色而 255 代表白色。</seg>
       </tuv>
     </tu>
     <tu>
