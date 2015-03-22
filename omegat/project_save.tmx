@@ -2274,6 +2274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How does it work?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092007Z" creationid="CCYU" creationdate="20150322T092007Z">
+        <seg>運作原理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identify and clear an area ready for the machine, making sure all your doors and entrances are large enough to get the machine through.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084206Z" creationid="Judy" creationdate="20131112T081337Z">
@@ -3835,6 +3843,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Surveillance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091945Z" creationid="CCYU" creationdate="20150322T091945Z">
+        <seg>監控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swarf extraction is highly efficient thanks tothe unique internal cyclonic design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z" creationid="MAE" creationdate="20131106T054732Z">
@@ -4876,6 +4892,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tracker</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091938Z" creationid="CCYU" creationdate="20150322T091938Z">
+        <seg>追蹤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Twin 5HP Elte Spindles – Twin Y configuration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143811Z" creationid="ccyu" creationdate="20131107T143618Z">
@@ -5177,6 +5201,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083959Z" creationid="CCYU" creationdate="20150322T083959Z">
         <seg>當車輛通過攝影機時，Digifort LPR 會拍攝車牌並存入影像資料庫中，紀錄日期、時間和攝影機資訊，以便更有效地進行分析和交通管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why wouldn’t it work?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092108Z" creationid="CCYU" creationdate="20150322T092108Z">
+        <seg>為何無法正確運作？</seg>
       </tuv>
     </tu>
     <tu>
