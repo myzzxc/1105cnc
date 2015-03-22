@@ -2018,6 +2018,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a proper functioning of the LPR, it is necessary that the integrator or the user has good knowledge of the infrastructure needed in this process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091114Z" creationid="CCYU" creationdate="20150322T091055Z">
+        <seg>若要使 LPR 正常運作，系統商或使用者必須清楚地了解運作所需之基礎設施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For applications that need adeeper throat clearance such as mould making orthree dimensional carving, extended</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131559Z" creationid="ccyu" creationdate="20131105T131514Z">
