@@ -5522,6 +5522,30 @@
         <seg>  能與外部資料庫整合</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  Has internal database to record additional information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085445Z" creationid="CCYU" creationdate="20150322T085445Z">
+        <seg>  內部資料庫能紀錄額外資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  Integration with control access devices</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085541Z" creationid="CCYU" creationdate="20150322T085541Z">
+        <seg>  能與通行控制裝置整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  Works with analog cameras converted to IP and IP cameras (see specifications)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085655Z" creationid="CCYU" creationdate="20150322T085655Z">
+        <seg>  適用轉換為 IP 之類比攝影機和 IP 攝影機（請見規格表）</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">M009118370 Pre-Installation Guide 4008 1C-2Z(2106).docx</prop>
