@@ -4593,6 +4593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The car would eventually get learnt as part of the background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112000Z" creationid="CCYU" creationdate="20150322T112000Z">
+        <seg>這輛車會被視作背景的一部分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cold airgun isasimple device that utilises filtered, compressed airand a venturi effect expansion chamber to produce cold airforspot cooling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053719Z" creationid="MAE" creationdate="20131106T053719Z">
