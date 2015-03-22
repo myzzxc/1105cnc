@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A fire has a distinctive colour and it also flickers in a distinctive way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153427Z" creationid="CCYU" creationdate="20150322T153427Z">
+        <seg>火焰具有一種獨特的顏色，且它會以一種獨特的方式閃爍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A good server will behave around 16 licenses (Base INTEL CORE I7 940).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140801Z" creationid="CCYU" creationdate="20150321T140801Z">
@@ -2185,6 +2193,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060252Z" creationid="CCYU" creationdate="20150322T060205Z">
         <seg>此篩選器在 6.6 版中已重新設計並最佳化，當物件遺落在設定的區域內時，便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153349Z" creationid="CCYU" creationdate="20150322T153349Z">
+        <seg>火災</seg>
       </tuv>
     </tu>
     <tu>
@@ -5094,6 +5110,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143115Z" creationid="CCYU" creationdate="20150321T143115Z">
         <seg>此範例為專業版，但也適用標準版和企業版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fire &amp; smoke detection algorithm works by sampling the colour, frequency and characteristics over time of the pixels in an image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153338Z" creationid="CCYU" creationdate="20150322T153338Z">
+        <seg>火災和煙霧偵測演算法的工作原理為針對影像中的像素顏色、頻率和特徵隨時間的變化進行取樣。</seg>
       </tuv>
     </tu>
     <tu>
