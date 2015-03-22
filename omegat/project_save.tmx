@@ -5081,6 +5081,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tracker can work out what is background and what are foreground object pixels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T131846Z" creationid="CCYU" creationdate="20150322T131846Z">
+        <seg>追蹤器可以計算出背景和前景物體像素，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The vacuum arm hose steel support arm effectively and conveniently provides a  third hand insupporting the dust extraction vacuum hose.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071148Z" creationid="MAE" creationdate="20131106T071148Z">
