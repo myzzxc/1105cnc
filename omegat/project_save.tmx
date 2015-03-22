@@ -1626,6 +1626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digifort LPR can be used on highways, streets, parkings, shoppings or any place where its necessary to identify the plate of the car.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085111Z" creationid="CCYU" creationdate="20150322T085111Z">
+        <seg>Digifort LPR 可用於高速公路、街道、停車場、賣場或任何需要辨識車牌的地點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digifort LPR is na intelligent eletronic module, that uses OCR capabilities for automatic recognition of vehicles' plates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083127Z" creationid="CCYU" creationdate="20150322T083127Z">
@@ -2322,6 +2330,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In physical sensor option, the server will be required less and will can process more plates that in Virtual Sensor case.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085007Z" creationid="CCYU" creationdate="20150322T085007Z">
+        <seg>使用物理感測器則伺服器的需求量會較低，因此相較使用虛擬感測器的情況下，能處理更多的車牌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In these instances please use the same clearance as show below for the front of the table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131114T031209Z" creationid="Judy" creationdate="20131112T082547Z">
@@ -2518,6 +2534,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034022Z" creationid="MAE" creationdate="20131106T034022Z">
         <seg>適用標準 20mm 夾頭，可用於所有 5 HP 和 10 HP 主軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its also needs a ethernet I/O module connected to the sensor, that will delivery automatically the signal to Digifort, that will read the plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084816Z" creationid="CCYU" creationdate="20150322T084816Z">
+        <seg>同時還需要一組連接至感測器的乙太網路 I/O 模組，以自動將訊號傳至 Digifort 進行車牌辨識。</seg>
       </tuv>
     </tu>
     <tu>
