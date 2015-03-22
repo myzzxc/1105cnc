@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A person wanders in towards the camera and has a blue jumper on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124446Z" creationid="CCYU" creationdate="20150322T124446Z">
+        <seg>當一個穿著藍色運動衫的人在鏡頭前徘徊時，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A robust AXYZ cutting table is the perfect partner for your Á at bed printer allowing you to use the right cutting tool for all printed materials.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T080531Z" creationid="ccyu" creationdate="20131109T080531Z">
@@ -5097,6 +5105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are more problems though!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124325Z" creationid="CCYU" creationdate="20150322T124325Z">
+        <seg>然而還有更多的問題！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These grouped pixels are the tracked objects that you see in the web page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104509Z" creationid="CCYU" creationdate="20150322T104509Z">
@@ -5197,6 +5213,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T113301Z" creationid="CCYU" creationdate="20150322T113301Z">
         <seg>如此一來，便難以判別是否為遺落或被取走的物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes the people tracker much more suited to indoor environments where the lighting is more controlled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124259Z" creationid="CCYU" creationdate="20150322T124259Z">
+        <seg>這使得人員追蹤較適合用於光線受到控制的室內環境中。</seg>
       </tuv>
     </tu>
     <tu>
