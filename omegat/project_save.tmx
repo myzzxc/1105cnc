@@ -4705,6 +4705,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The camera is now seeing an object that has a white upper half and nothing came in with a white upper half!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124857Z" creationid="CCYU" creationdate="20150322T124857Z">
+        <seg>此時攝影機看到一個白色上衣的物體，而之前卻沒有白色上衣的物體走進來！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The camera ‘learns’ what is background by modelling each pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103658Z" creationid="CCYU" creationdate="20150322T103452Z">
@@ -5622,6 +5630,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141452Z" creationid="CCYU" creationdate="20150321T141452Z">
         <seg>強烈建議在購買前先試用分析軟體，可在網路上下載 30 天試用版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We attempt to solve these problems by adjusting the colour model over time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124941Z" creationid="CCYU" creationdate="20150322T124941Z">
+        <seg>我們嘗試透過調整色彩隨著時間變化的模型來解決這些問題，</seg>
       </tuv>
     </tu>
     <tu>
