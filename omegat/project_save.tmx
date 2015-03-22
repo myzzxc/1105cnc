@@ -5626,6 +5626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a camera looks at a yellow car, it sees a bit of black where shadows are, white where the sun is glinting off it and in the current sunset lighting conditions it maybe that the yellow is actually more like orange!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124203Z" creationid="CCYU" creationdate="20150322T124203Z">
+        <seg>而當一架攝影機看到一輛黃色轎車時，如果在陰影下會看來有點黑色，在大太陽下會認為他是白色的，而在夕陽下黃色便會更像是橙色 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a human looks at a yellow car, they will say it is yellow - of course it is.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123831Z" creationid="CCYU" creationdate="20150322T123831Z">
