@@ -712,6 +712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abandoned and remove objects uses the same method of learning the background as the surveillance tracker but applies a different method to detect relevant objects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T111533Z" creationid="CCYU" creationdate="20150322T111533Z">
+        <seg>監控追蹤器利用相同的方法辨識背景，但以不同的方式偵測相關的物體，進而分辨遺落和被取走的物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abandoned/Removed Object</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105850Z" creationid="CCYU" creationdate="20150322T105850Z">
