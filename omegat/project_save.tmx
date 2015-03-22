@@ -1645,6 +1645,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Counting Line</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T134640Z" creationid="CCYU" creationdate="20150322T134640Z">
+        <seg>計數線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Counting analytics (people, objects, cars) are purely statistical and do not reflect reality, must be only used for statistics, we don´t recommend the use of counting people in shops, malls or places where the entrance is overcrowding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140433Z" creationid="CCYU" creationdate="20150321T140433Z">
@@ -3603,6 +3611,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T125147Z" creationid="CCYU" creationdate="20150322T125147Z">
         <seg>6/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 7 of 11</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T134633Z" creationid="CCYU" creationdate="20150322T134633Z">
+        <seg>7/11 頁</seg>
       </tuv>
     </tu>
     <tu>
