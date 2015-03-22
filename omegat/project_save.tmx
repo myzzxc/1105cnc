@@ -816,6 +816,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All events generated in the video analysis modules can be searched via records with the opportunity to seek your footage on NVR system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071934Z" creationid="CCYU" creationdate="20150322T071934Z">
+        <seg>當需要找尋使用者存放在 NVR 系統中的影像時，都能透過搜尋紀錄的功能來尋找影像分析模組所產生的所有事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All spindles with 24000 RPM capability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115819Z" creationid="ccyu" creationdate="20131107T115819Z">
