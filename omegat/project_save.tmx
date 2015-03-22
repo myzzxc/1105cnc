@@ -2279,6 +2279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if we are tracking a slow moving car, it could move past a stationary car and the algorithm may select the stationary car.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152213Z" creationid="CCYU" creationdate="20150322T152213Z">
+        <seg>例如，當追蹤一輛緩慢移動的車輛時，它可能會經過一輛靜止的汽車，而此時演算法可能會誤選靜止的汽車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if we have a top down camera placement of two people following each other through an area:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T142346Z" creationid="CCYU" creationdate="20150322T142346Z">
@@ -6078,6 +6086,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083959Z" creationid="CCYU" creationdate="20150322T083959Z">
         <seg>當車輛通過攝影機時，Digifort LPR 會拍攝車牌並存入影像資料庫中，紀錄日期、時間和攝影機資訊，以便更有效地進行分析和交通管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When zooming, the image can go out of focus, which makes it incredibly difficult to match the object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152330Z" creationid="CCYU" creationdate="20150322T152330Z">
+        <seg>當進行縮放時，可能會造成失焦，因而使物體的匹配變得困難。</seg>
       </tuv>
     </tu>
     <tu>
