@@ -4844,6 +4844,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can generate reports and statistical graphs of all events generated in the system as counting objects, abandoned objects, face detection, etc...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052416Z" creationid="CCYU" creationdate="20150322T052416Z">
+        <seg>你能利用分析軟體能生成報告和統計圖表，如計算物件、遺落物件、臉部偵測等等……系統中紀錄的所有事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need a dedicated server to run analytics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140614Z" creationid="CCYU" creationdate="20150321T140614Z">
