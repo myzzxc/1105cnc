@@ -1618,6 +1618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digifort LPR allows you reliably identify vehicles with restrictions (stolen car, not licensed, unpaid fines, etc...), alerting the authorities when they´ve passed through inspection, allowing immediate action such as seizure of the vehicle, surrender of passengers and any other action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083709Z" creationid="CCYU" creationdate="20150322T083709Z">
+        <seg>Digifort LPR 能有效的辨識出預先設定之車輛（如失竊車輛、無牌照車輛、閥單位繳納之車輛等等……），當以上車輛通過時便能通知政府管理機關，以立即進行適當處置，如扣押車輛，逮捕駕駛和其它行動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digifort LPR is na intelligent eletronic module, that uses OCR capabilities for automatic recognition of vehicles' plates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083127Z" creationid="CCYU" creationdate="20150322T083127Z">
