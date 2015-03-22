@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the tracker to know what an ‘object’ is it must know how to separate the background from the people/cars/ etc moving in the foreground.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T102817Z" creationid="CCYU" creationdate="20150322T102817Z">
+        <seg>追蹤器要辨識「物體」時，必須將人/車輛/等移動的物體與背景分離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the use of Digifort analytics, it is necessary that the customer has installed Digifort Surveillance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T142036Z" creationid="CCYU" creationdate="20150321T142036Z">
@@ -4772,6 +4780,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084239Z" creationid="CCYU" creationdate="20150322T084239Z">
         <seg>偵測到車輛的運動時會觸發虛擬感測器，接著系統會在車輛通過攝影機的指定區域時識別車牌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The way it does this is to model each pixel to ‘learn’ the background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103011Z" creationid="CCYU" creationdate="20150322T103011Z">
+        <seg>達成此目的的方法是模擬每個像素以「辨識」背景，</seg>
       </tuv>
     </tu>
     <tu>
