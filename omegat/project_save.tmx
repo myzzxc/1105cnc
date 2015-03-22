@@ -4992,6 +4992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is why we have camera shake cancellation, this will eliminate a lot of the changing values and the model will look more like the previous models.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105244Z" creationid="CCYU" creationdate="20150322T105244Z">
+        <seg>這也是為什麼我們的攝影機具有防震動設計的原因，如此便能消除大量的數值變化，使模型看起來更接近上述易於辨識的模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This method provides forstraight cut corners atany angle aswell astrue radii when called for.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153651Z" creationid="ccyu" creationdate="20131105T153651Z">
