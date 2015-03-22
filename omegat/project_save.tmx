@@ -840,6 +840,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow alarms to be triggered when a car, person, animal or other pre-registered classification stop for a specified time in a virtual area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062533Z" creationid="CCYU" creationdate="20150322T062533Z">
+        <seg>當人員、車量、動物或其它預先設定之分類的物體，在指定之虛擬區域內停止超過設定的時間時，便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows alarms can be triggered from a configurable speed of objects in the scene.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062400Z" creationid="CCYU" creationdate="20150322T062400Z">
+        <seg>畫面中的物體超過設定的速度時便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows an alarm to be triggered when a person, car, animal or other pre registered classification flows in a virtual area for a certain set time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061210Z" creationid="CCYU" creationdate="20150322T061210Z">
@@ -1550,6 +1566,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T051226Z" creationid="CCYU" creationdate="20150322T051226Z">
         <seg>Digifort 分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direction Control:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062539Z" creationid="CCYU" creationdate="20150322T062539Z">
+        <seg>方向控制：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3615,6 +3639,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062252Z" creationid="CCYU" creationdate="20150322T062252Z">
         <seg>超速警報：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stopped objects:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062418Z" creationid="CCYU" creationdate="20150322T062418Z">
+        <seg>物體停止：</seg>
       </tuv>
     </tu>
     <tu>
