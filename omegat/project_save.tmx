@@ -5314,6 +5314,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reason for this is that various other objects in a scene could match the pixel characteristics of a fire but not other characteristics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154321Z" creationid="CCYU" creationdate="20150322T154321Z">
+        <seg>如此運作的原因是畫面中其它各種物體可能與火災的畫素特徵吻合而誤判為火災。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The recommendations on the Air Supply chart are for one unit so if your machine has two Spindles, drills or misters you will need to double the figures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085312Z" creationid="Judy" creationdate="20131112T090015Z">
