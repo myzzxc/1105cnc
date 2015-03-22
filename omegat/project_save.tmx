@@ -2519,6 +2519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if the camera is put at a really shallow pitch, there is no separation between the objects:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T143729Z" creationid="CCYU" creationdate="20150322T143729Z">
+        <seg>然而，當攝影機的角度接近水平時，就無法將兩物體分開：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it does some extra things to solve the problem of when object move behind each other.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120558Z" creationid="CCYU" creationdate="20150322T120558Z">
@@ -3643,6 +3651,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T134633Z" creationid="CCYU" creationdate="20150322T134633Z">
         <seg>7/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 8 of 11</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T143733Z" creationid="CCYU" creationdate="20150322T143733Z">
+        <seg>8/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 9 of 11</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T144539Z" creationid="CCYU" creationdate="20150322T144536Z">
+        <seg>9/11 頁</seg>
       </tuv>
     </tu>
     <tu>
@@ -4881,10 +4905,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The counting line cannot count two objects because they are joined as they pass through the line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T143901Z" creationid="CCYU" creationdate="20150322T143901Z">
+        <seg>計數線無法計算到兩個物體，因為他們通過計數線時看起來是一個物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The counting line is only one pixel thin and cannot know that the object is longer than one pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T135329Z" creationid="CCYU" creationdate="20150322T135310Z">
         <seg>計數線寬度只有一個像素，因此無法得知該物件是否大於一個像素，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The counting line just sees a really long object but is still within the calibration width so counts it as one object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T144534Z" creationid="CCYU" creationdate="20150322T144534Z">
+        <seg>計數線只辨識到一件很長的物體，但範圍仍然落在是校正寬度內，所以視為一個物體。</seg>
       </tuv>
     </tu>
     <tu>
