@@ -5169,6 +5169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a really hard problem to solve and the people tracker does a very good job of solving it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123553Z" creationid="CCYU" creationdate="20150322T123553Z">
+        <seg>這是一個相當難以解決的問題，而人員追蹤器已經能解決大部分的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is why we have camera shake cancellation, this will eliminate a lot of the changing values and the model will look more like the previous models.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105244Z" creationid="CCYU" creationdate="20150322T105244Z">
