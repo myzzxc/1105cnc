@@ -3194,6 +3194,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Physical Sensor:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084435Z" creationid="CCYU" creationdate="20150322T084435Z">
+        <seg>物理感測器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plasma Cutting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T140000Z" creationid="ccyu" creationdate="20131105T140000Z">
@@ -4600,6 +4608,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141451Z" creationid="ccyu" creationdate="20131108T141344Z">
         <seg>塑膠切割刀具可輕易地外加於任何 Z 軸上，如出圖機般的使用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The virtual sensor eliminates the use of accessories that initialize the plate reading, but virtual sensor require more processing of the server.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084428Z" creationid="CCYU" creationdate="20150322T084408Z">
+        <seg>使用虛擬感測器則無須使用啟動車牌辨識功能的配件，但虛擬感測器需要更多的運算伺服器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The virtual sensor is triggered by the motion detection of the automobile, the system recognizes the plate of the vehicle when it passes in the designated area of the camera.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084239Z" creationid="CCYU" creationdate="20150322T084239Z">
+        <seg>偵測到車輛的運動時會觸發虛擬感測器，接著系統會在車輛通過攝影機的指定區域時識別車牌。</seg>
       </tuv>
     </tu>
     <tu>
