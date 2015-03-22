@@ -840,6 +840,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows that all captured faces be filed in a database for further research and reporting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060658Z" creationid="CCYU" creationdate="20150322T060658Z">
+        <seg>所有偵測到的臉部畫面會存檔於資料庫中，可用於進一步的研究和報告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Almost any combination of router and knife tools can be conÀ gured on single or multiple heads with the optional AVS-IP camera registration system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T080207Z" creationid="ccyu" creationdate="20131109T080207Z">
@@ -1742,6 +1750,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062345Z" creationid="Judy" creationdate="20131113T062152Z">
         <seg>除塵系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Face Detection:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060540Z" creationid="CCYU" creationdate="20150322T060540Z">
+        <seg>臉部偵測：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4856,6 +4872,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T054909Z" creationid="CCYU" creationdate="20150322T054909Z">
         <seg>在 6.6 版中也增加了此篩選器，此功能可以建立一道虛擬的閘門，當一件物體或一個人通過此閘門後，至下一個物體通過前會有一段空檔，利用此功能便能將前後兩物體通過特定區域之間的空檔時間消除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this filter, also upgraded to version 6.6 is possible to pinpoint an object and trigger alarms if it is removed from the site.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060529Z" creationid="CCYU" creationdate="20150322T060529Z">
+        <seg>此篩選器也已升級到 6.6 版，當設定點上的物件被取走時，便會觸發警報。</seg>
       </tuv>
     </tu>
     <tu>
