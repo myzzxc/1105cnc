@@ -4236,6 +4236,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The analytical allows surveillance shows the following options: Areas and virtual lines configured, show the object rectangle, display area in meters or imperial measurement of the object, object traces of the movement, classification of objects, display height of the objects, speed of the objects, display counters with the current index scores (which enables the counters to be cleaned together or separately on the screen).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T073452Z" creationid="CCYU" creationdate="20150322T073452Z">
+        <seg>分析軟體能依選擇顯示以下監控資訊：設定之區域和虛擬線、顯示物體方塊，物體面積（可顯示公制或英制）、物體運動軌跡、物體分類、顯示物體高度、物體速度、顯示目前計數資料（能同時清除或分別清除螢幕上的計數器紀錄）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The analytics are available only in version 6.4 - Customers of earlier versions need to UPGRADE.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140904Z" creationid="CCYU" creationdate="20150321T140904Z">
