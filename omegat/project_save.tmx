@@ -2455,6 +2455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is a really busy scene, then the learnt background will not be stable - there will be lots of potential objects messing up the learnt background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T113156Z" creationid="CCYU" creationdate="20150322T113156Z">
+        <seg>若場景過於雜亂，則辨識背景會不穩定——則大量的可能目標物體會破壞辨識的背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there was a scene with a parked car:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T111813Z" creationid="CCYU" creationdate="20150322T111813Z">
@@ -5101,6 +5109,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105244Z" creationid="CCYU" creationdate="20150322T105244Z">
         <seg>這也是為什麼我們的攝影機具有防震動設計的原因，如此便能消除大量的數值變化，使模型看起來更接近上述易於辨識的模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes it very difficult to apply sensible decisions towards raising abandoned or removed objects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T113301Z" creationid="CCYU" creationdate="20150322T113301Z">
+        <seg>如此一來，便難以判別是否為遺落或被取走的物體。</seg>
       </tuv>
     </tu>
     <tu>
