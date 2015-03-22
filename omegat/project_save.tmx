@@ -4350,8 +4350,8 @@
       <tuv lang="EN-US">
         <seg>The tampering module allows that an alarm be triggered when the camera is attacked, the alarm is detected by camera motion, focus, brightness change, obstruction and vandalism.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061401Z" creationid="CCYU" creationdate="20150322T061401Z">
-        <seg>入侵偵測The tampering module allows that an alarm be triggered when the camera is attacked, the alarm is detected by camera motion, focus, brightness change, obstruction and vandalism.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061908Z" creationid="CCYU" creationdate="20150322T061401Z">
+        <seg>入侵偵測模組能於攝影機遭受攻擊時發出警報，當偵測到攝像機移動、對焦、亮度改變、受遮蔽和破壞時便會觸發警報。</seg>
       </tuv>
     </tu>
     <tu>
