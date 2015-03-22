@@ -2648,6 +2648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a group of pixels fall under both the colour range and flicker frequency over time we can flag those as fire blobs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153909Z" creationid="CCYU" creationdate="20150322T153909Z">
+        <seg>如果一組像素值介於顏色範圍內，且閃爍隨時間變化的頻率也在範圍內時，便能認定為火焰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it finds a match it can move the PTZ by the amount needed to get the object in the middle again - in this case the red arrow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150929Z" creationid="CCYU" creationdate="20150322T150909Z">
@@ -5118,6 +5126,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153338Z" creationid="CCYU" creationdate="20150322T153338Z">
         <seg>火災和煙霧偵測演算法的工作原理為針對影像中的像素顏色、頻率和特徵隨時間的變化進行取樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fire blobs are then processed again to reduce false detections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154036Z" creationid="CCYU" creationdate="20150322T154012Z">
+        <seg>接著會再進行一次火焰畫面的運算以降低錯誤偵測的機會。</seg>
       </tuv>
     </tu>
     <tu>
