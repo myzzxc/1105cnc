@@ -2295,6 +2295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, ‘rotate left’ on one PTZ might move 10° where another camera might move 30°!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151515Z" creationid="CCYU" creationdate="20150322T151515Z">
+        <seg>例如，同樣的「左側旋轉」指令，一台 PTZ 攝影機可能轉動 10°，而另一台攝影機可能轉動 30°！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132229Z" creationid="CCYU" creationdate="20150322T132229Z">
@@ -2363,6 +2371,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124506Z" creationid="ccyu" creationdate="20131107T124502Z">
         <seg>支架配件和組態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good PTZ calibration is essential for accurate tracking.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151637Z" creationid="CCYU" creationdate="20150322T151637Z">
+        <seg>要進行精確的追蹤，良好的 PTZ 攝影機是不可或缺的。</seg>
       </tuv>
     </tu>
     <tu>
