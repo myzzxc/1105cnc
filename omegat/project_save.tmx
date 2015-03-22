@@ -5363,8 +5363,8 @@
       <tuv lang="EN-US">
         <seg>This is like a reversed office scanner.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140010Z" creationid="CCYU" creationdate="20150322T140010Z">
-        <seg>此功能類似掃描器，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140325Z" creationid="CCYU" creationdate="20150322T140010Z">
+        <seg>此功能類似一台掃描器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5894,6 +5894,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083959Z" creationid="CCYU" creationdate="20150322T083959Z">
         <seg>當車輛通過攝影機時，Digifort LPR 會拍攝車牌並存入影像資料庫中，紀錄日期、時間和攝影機資訊，以便更有效地進行分析和交通管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where an office scanner moves across the page, the counting line stays still and the objects move through it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140339Z" creationid="CCYU" creationdate="20150322T140309Z">
+        <seg>只是描器會掃過整個頁面，而計數線是固定不動讓物體通過它。</seg>
       </tuv>
     </tu>
     <tu>
