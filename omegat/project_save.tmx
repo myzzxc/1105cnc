@@ -2423,6 +2423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it relies on good colour models of the objects to be able to work out which object is which when doing its decisions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123734Z" creationid="CCYU" creationdate="20150322T123734Z">
+        <seg>然而，追蹤需要依靠物體本身的良好色彩模型，以便能夠正確地分辨出各個物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identify and clear an area ready for the machine, making sure all your doors and entrances are large enough to get the machine through.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084206Z" creationid="Judy" creationdate="20131112T081337Z">
@@ -5614,6 +5622,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120848Z" creationid="CCYU" creationdate="20150322T120848Z">
         <seg>人員追蹤的模型包含了攝影畫面中每個物體的顏色分佈：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a human looks at a yellow car, they will say it is yellow - of course it is.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123831Z" creationid="CCYU" creationdate="20150322T123831Z">
+        <seg>當一個人看到一輛黃色轎車時，他當然會知道它是黃色的。</seg>
       </tuv>
     </tu>
     <tu>
