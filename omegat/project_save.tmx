@@ -2167,6 +2167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if two people, one with a blue top and one with a red top, walk together and chat for a few seconds then split up and walk off in opposite directions, the surveillance tracker would have a really hard time working out which object is which.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T121458Z" creationid="CCYU" creationdate="20150322T121458Z">
+        <seg>例如現在有兩個人，其中一人穿著藍色上衣、另一人穿紅色上衣，他們一起散步和聊天，過了一下他們分開並走向相反的方向，監控追蹤器便會難以清楚分辨出兩個人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For larger applications requiring full process width ofasingle carriage, the second carriage can conveniently be parked atthe end ofthe gantry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160000Z" creationid="ccyu" creationdate="20131105T130102Z">
@@ -4893,6 +4901,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120356Z" creationid="CCYU" creationdate="20150322T120356Z">
         <seg>人員追蹤和監視追蹤器的運作原理相同，其「辨識」攝影機畫面中的背景，然後便能分辨出前景物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The people tracker would look at the two objects when they split up and thinks ‘This object sort of looks like an object with a blue top half, so that must be the object I saw earlier with a blue top half’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T121738Z" creationid="CCYU" creationdate="20150322T121738Z">
+        <seg>人員追蹤器則會觀察這兩個物體，當他們分開時，認定「此物體看起來像是穿著藍色上衣的物體，因此是不久之前所看到的穿藍色上衣的物體」。</seg>
       </tuv>
     </tu>
     <tu>
