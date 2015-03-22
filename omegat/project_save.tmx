@@ -335,6 +335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A red car travelling quickly through the image would not be classed as a fire due to its overall movement contrasting the movement of a fire.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154512Z" creationid="CCYU" creationdate="20150322T154512Z">
+        <seg>一輛紅色的汽車快速通過畫面不會被歸類為火災，因為其整體的運動和火災特徵並不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A robust AXYZ cutting table is the perfect partner for your Á at bed printer allowing you to use the right cutting tool for all printed materials.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T080531Z" creationid="ccyu" creationdate="20131109T080531Z">
@@ -4381,6 +4389,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092924Z" creationid="Judy" creationdate="20131112T092924Z">
         <seg>主軸大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smoke</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154518Z" creationid="CCYU" creationdate="20150322T154518Z">
+        <seg>煙霧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smoke has a smooth texture with an absence of sharp edges.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154712Z" creationid="CCYU" creationdate="20150322T154712Z">
+        <seg>煙霧具有平滑的線條，缺少銳利的邊緣。</seg>
       </tuv>
     </tu>
     <tu>
