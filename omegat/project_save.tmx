@@ -840,6 +840,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows an alarm to be triggered when a person, car, animal or other pre registered classification flows in a virtual area for a certain set time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061210Z" creationid="CCYU" creationdate="20150322T061210Z">
+        <seg>當某人、車、動物或其它預先設定之分類的物體，在指定之虛擬區域內逗留超過設定的時間時，便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows that all captured faces be filed in a database for further research and reporting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060658Z" creationid="CCYU" creationdate="20150322T060658Z">
@@ -1262,6 +1270,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083442Z" creationid="ccyu" creationdate="20131109T083442Z">
         <seg>Calgary, AB T2C 5C5 電話： +1 403 236 4464</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera tampering:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061359Z" creationid="CCYU" creationdate="20150322T061314Z">
+        <seg>攝影機入侵偵測：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,6 +4344,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052017Z" creationid="CCYU" creationdate="20150322T052017Z">
         <seg>此系統能在事件發生時產生警報，例如以下情況：車輛逆向行駛、外人侵入私有地、或甚至在發現行跡可疑的人時發出警告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tampering module allows that an alarm be triggered when the camera is attacked, the alarm is detected by camera motion, focus, brightness change, obstruction and vandalism.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061401Z" creationid="CCYU" creationdate="20150322T061401Z">
+        <seg>入侵偵測The tampering module allows that an alarm be triggered when the camera is attacked, the alarm is detected by camera motion, focus, brightness change, obstruction and vandalism.</seg>
       </tuv>
     </tu>
     <tu>
