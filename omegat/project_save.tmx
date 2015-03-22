@@ -4180,6 +4180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The analysis module allows the configuration of the measures of the scenario is facilitated by a 3D grid for easy handling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071240Z" creationid="CCYU" creationdate="20150322T071240Z">
+        <seg>此分析模組中能以 3D 網格來設定各種事件腳本，操作相當簡便。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The analytical Server Base comes with basic licenses for LEFT OBJECTS, MISSING OBJECTS AND FACE CAPTURE, these modules were developed by Digifort and may be used in many cameras the customer desires.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141342Z" creationid="CCYU" creationdate="20150321T141342Z">
