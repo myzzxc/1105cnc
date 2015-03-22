@@ -2722,6 +2722,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Object Counting:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T054918Z" creationid="CCYU" creationdate="20150322T054918Z">
+        <seg>物件計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On Site Existing Spec</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080057Z" creationid="Judy" creationdate="20131113T080053Z">
@@ -4800,6 +4808,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T075635Z" creationid="ccyu" creationdate="20131109T075635Z">
         <seg>多種刀具選擇可處理廣泛的剛性和半剛性材料，於同一機台上可處理泡綿板、瓦愣紙、塑膠、木材及鋁等材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this filter, also added in version 6.6, we can create virtual gates that would create a gap in which an object or person goes through a certain area of the next object that must pass, thereby delimiting a space of time between the passage of two objects within an area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T054909Z" creationid="CCYU" creationdate="20150322T054909Z">
+        <seg>在 6.6 版中也增加了此篩選器，此功能可以建立一道虛擬的閘門，當一件物體或一個人通過此閘門後，至下一個物體通過前會有一段空檔，利用此功能便能將前後兩物體通過特定區域之間的空檔時間消除。</seg>
       </tuv>
     </tu>
     <tu>
