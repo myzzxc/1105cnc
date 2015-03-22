@@ -3659,6 +3659,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tailgating:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T054258Z" creationid="CCYU" creationdate="20150322T054258Z">
+        <seg>虛擬閘門：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tangential Knife Cartridge for 45° Blades</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160030Z" creationid="ccyu" creationdate="20131108T152253Z">
