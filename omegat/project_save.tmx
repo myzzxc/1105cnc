@@ -5518,16 +5518,40 @@
       <tuv lang="EN-US">
         <seg>  Allows integration with external database</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085416Z" creationid="CCYU" creationdate="20150322T085416Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090612Z" creationid="CCYU" creationdate="20150322T085416Z">
         <seg>  能與外部資料庫整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  Allows searches by date, time, plate, set characters, end plate, used cameras and other</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090620Z" creationid="CCYU" creationdate="20150322T090426Z">
+        <seg> 能依日期、時間、車牌、設定字元、後車牌、攝影機和其它項目進行搜尋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  Allows you to generate reports of suspicious cars</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090622Z" creationid="CCYU" creationdate="20150322T090447Z">
+        <seg> 能產生可疑車輛報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  Allows you to print photos of cars plate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090624Z" creationid="CCYU" creationdate="20150322T090505Z">
+        <seg> 能列印車牌照片</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>  Allows you to read the plate of the vehicle at speeds up to 150 km/h</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090021Z" creationid="CCYU" creationdate="20150322T090021Z">
-        <seg>  能辨識出時速 150 公里以下之車牌</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090618Z" creationid="CCYU" creationdate="20150322T090021Z">
+        <seg> 能辨識出時速 150 公里以下之車牌</seg>
       </tuv>
     </tu>
     <tu>
@@ -5542,32 +5566,32 @@
       <tuv lang="EN-US">
         <seg>  Integration with control access devices</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085541Z" creationid="CCYU" creationdate="20150322T085541Z">
-        <seg>  能與通行控制裝置整合</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090614Z" creationid="CCYU" creationdate="20150322T085541Z">
+        <seg> 能與通行控制裝置整合</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>  There is no limit to record of plates on database</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085855Z" creationid="CCYU" creationdate="20150322T085855Z">
-        <seg>  資料庫紀錄之車牌數量無限制</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090520Z" creationid="CCYU" creationdate="20150322T085855Z">
+        <seg> 資料庫紀錄之車牌數量無限制</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>  Works with Virtual or Physical Tie</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085808Z" creationid="CCYU" creationdate="20150322T085808Z">
-        <seg>  適用虛擬或物理感測器</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090523Z" creationid="CCYU" creationdate="20150322T085808Z">
+        <seg> 適用虛擬或物理感測器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>  Works with analog cameras converted to IP and IP cameras (see specifications)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085655Z" creationid="CCYU" creationdate="20150322T085655Z">
-        <seg>  適用轉換為 IP 之類比攝影機和 IP 攝影機（請見規格表）</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090525Z" creationid="CCYU" creationdate="20150322T085655Z">
+        <seg> 適用轉換為 IP 之類比攝影機和 IP 攝影機（請見規格表）</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
