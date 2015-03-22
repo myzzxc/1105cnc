@@ -4028,6 +4028,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The counter module allows that different objects, with different characteristics such as size and speed could be counted as different types.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T055309Z" creationid="CCYU" creationdate="20150322T055309Z">
+        <seg>計數器模組能計算具有不同特性的物體，如尺寸和速度不同的物體能作為不同類型來計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The creasing wheel cartridge can be fitted with arange ofdifferent sized and profiled creasing wheels for use in sample making applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160125Z" creationid="ccyu" creationdate="20131108T154958Z">
@@ -4416,6 +4424,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124520Z" creationid="MAE" creationdate="20131105T093208Z">
         <seg>此加工組態常用於一般僅使用兩刀或三刀之加工製程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This way you can get reports from different periods.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T055417Z" creationid="CCYU" creationdate="20150322T055417Z">
+        <seg>如此能讓使用者獲取不同時間的報告。</seg>
       </tuv>
     </tu>
     <tu>
