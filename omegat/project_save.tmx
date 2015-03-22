@@ -1068,6 +1068,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you can see, the person that we are tracking has moved to the lower right of the image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150414Z" creationid="CCYU" creationdate="20150322T150414Z">
+        <seg>畫面中所追蹤的人往右下方移動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you can see, when the car pixel value passes through, it is much harder to tell if this is different to what is usually there.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105010Z" creationid="CCYU" creationdate="20150322T105010Z">
@@ -1104,6 +1112,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072408Z" creationid="MAE" creationdate="20131106T072408Z">
         <seg>自動區域切換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto tracking works by matching what it saw in a PTZ cameras last video frame with what it can see in this video frame and moves the PTZ if what it matched has moved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150314Z" creationid="CCYU" creationdate="20150322T150240Z">
+        <seg>自動追蹤功能會將 PTZ 攝影機的最後一個影像畫面與目前的影像中所看到的物體進行配對，如果配對之物體移動時便會隨之移動 PTZ。</seg>
       </tuv>
     </tu>
     <tu>
