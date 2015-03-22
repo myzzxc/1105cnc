@@ -2874,6 +2874,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Object Classes Registration:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071346Z" creationid="CCYU" creationdate="20150322T071346Z">
+        <seg>物體分類設定：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Object Counting:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T054918Z" creationid="CCYU" creationdate="20150322T054918Z">
@@ -3499,6 +3507,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Research and Reporting:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071501Z" creationid="CCYU" creationdate="20150322T071501Z">
+        <seg>研究和報告：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082946Z" creationid="Judy" creationdate="20131112T082946Z">
@@ -4051,6 +4067,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Advanced Analytical provides a pre-registration of objects to be detected by size and speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071452Z" creationid="CCYU" creationdate="20150322T071452Z">
+        <seg>進階分析中能依物體的大小和速度預先設定分類。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Advanced Analytical provides that if the camera is in an environment that has trepidation, internally cancel the interference in the analytical analysis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063816Z" creationid="CCYU" creationdate="20150322T063816Z">
@@ -4544,6 +4568,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082136Z" creationid="ccyu" creationdate="20131109T082136Z">
         <seg>這些主軸可手動或配合 ATC 自動換刀轉盤進行換刀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Grid can work in metric units (meters) or imperial unit (North American Standard).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071331Z" creationid="CCYU" creationdate="20150322T071331Z">
+        <seg>網格單位能設定為公制（公尺）或英制（北美標準）。</seg>
       </tuv>
     </tu>
     <tu>
