@@ -2110,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if a pixel is looking at a piece a tarmac the whole time, which is generally black, the model for this pixel would look like this:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103629Z" creationid="CCYU" creationdate="20150322T103629Z">
+        <seg>例如，如果一個像素依看起來一直維持黑色，模型圖元看一塊停機坪的整個時間，通常是黑色，這個圖元的模型將如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For larger applications requiring full process width ofasingle carriage, the second carriage can conveniently be parked atthe end ofthe gantry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160000Z" creationid="ccyu" creationdate="20131105T130102Z">
@@ -4464,6 +4472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The camera ‘learns’ what is background by modelling each pixel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103452Z" creationid="CCYU" creationdate="20150322T103452Z">
+        <seg>攝影機藉由模擬每個像素來「辨識」背景，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cold airgun isasimple device that utilises filtered, compressed airand a venturi effect expansion chamber to produce cold airforspot cooling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053719Z" creationid="MAE" creationdate="20131106T053719Z">
@@ -4772,6 +4788,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071148Z" creationid="MAE" creationdate="20131106T071148Z">
         <seg>真空鋼管臂能有效且便利地提供真空吸塵軟管支撐，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The values in between are grey.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103400Z" creationid="CCYU" creationdate="20150322T103400Z">
+        <seg>介於之間數值為灰色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5579,8 +5603,8 @@
       <tuv lang="EN-US">
         <seg>Zero is black and 255 is white.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103332Z" creationid="CCYU" creationdate="20150322T103332Z">
-        <seg>0 代表黑色而 255 代表白色。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103340Z" creationid="CCYU" creationdate="20150322T103332Z">
+        <seg>0 代表黑色而 255 代表白色，</seg>
       </tuv>
     </tu>
     <tu>
