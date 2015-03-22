@@ -5164,6 +5164,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With the physical sensor, you will need to use a infrared sensor or a inductive sensor placed on the the track to the detection of the car.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084611Z" creationid="CCYU" creationdate="20150322T084611Z">
+        <seg>物理感測器需要在車輛行經的路線上使用紅外感測器或電磁感測器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With this filter, also added in version 6.6, we can create virtual gates that would create a gap in which an object or person goes through a certain area of the next object that must pass, thereby delimiting a space of time between the passage of two objects within an area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T054909Z" creationid="CCYU" creationdate="20150322T054909Z">
