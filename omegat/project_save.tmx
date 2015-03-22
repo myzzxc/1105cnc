@@ -1506,6 +1506,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digifort Analytics</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T051226Z" creationid="CCYU" creationdate="20150322T051226Z">
+        <seg>Digifort 分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have sufficient compressed air available in your work shop?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081507Z" creationid="Judy" creationdate="20131113T081441Z">
