@@ -2223,6 +2223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, once the two cameras above are calibrated the group of object pixels on the left can be converted to 1.5m2 and 4m2 on the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T134107Z" creationid="CCYU" creationdate="20150322T134107Z">
+        <seg>例如，當上圖中的兩架攝影機都經過校正後，左圖的像素相當於 1.5m2，而右圖的像素等於 4m2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132229Z" creationid="CCYU" creationdate="20150322T132229Z">
@@ -5742,6 +5750,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124941Z" creationid="CCYU" creationdate="20150322T124941Z">
         <seg>我們嘗試透過調整色彩隨著時間變化的模型來解決這些問題，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can then say that anything between 1m2 and 2m2 is a human and 3m2 and 5m2 is a car.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T134215Z" creationid="CCYU" creationdate="20150322T134215Z">
+        <seg>此時能將介於 1m2 和 2m2 之間的物體視為人，而介於 3m2 和 5m2 之間的物體視為車。</seg>
       </tuv>
     </tu>
     <tu>
