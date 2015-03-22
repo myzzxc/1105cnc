@@ -5379,8 +5379,8 @@
       <tuv lang="EN-US">
         <seg>This is because if it sees an object twice the width of what it expects it can increase the count by two!</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T141040Z" creationid="CCYU" creationdate="20150322T141040Z">
-        <seg>因為如果它看到物件的它所期望的它可以由兩個增加的計數寬度的兩倍 ！</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T141544Z" creationid="CCYU" creationdate="20150322T141040Z">
+        <seg>因為當偵測到物體寬度為預期的兩倍時，便能判別出是兩個物體 ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5421,6 +5421,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153651Z" creationid="ccyu" creationdate="20131105T153651Z">
         <seg>此方法能提供邊角直線切割同時能依要求半徑導角。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This occurs when people walk under the camera holding hands, or are otherwise linked together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T141709Z" creationid="CCYU" creationdate="20150322T141709Z">
+        <seg>例如兩人牽手經過攝影機，或以其他方式相連在一起的情況下。</seg>
       </tuv>
     </tu>
     <tu>
