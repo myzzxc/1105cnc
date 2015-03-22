@@ -4401,6 +4401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smoke also has distinctive movement characteristics which can be tracked over time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154927Z" creationid="CCYU" creationdate="20150322T154927Z">
+        <seg>煙霧還具有獨特的運動特性，可以隨著時間進行追蹤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoke has a smooth texture with an absence of sharp edges.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154712Z" creationid="CCYU" creationdate="20150322T154712Z">
@@ -5426,6 +5434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The texture will change rapidly over time when looking at the same pixels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154843Z" creationid="CCYU" creationdate="20150322T154843Z">
+        <seg>在同一個像素中，線條會隨著時間快速改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tracker can work out what is background and what are foreground object pixels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T131846Z" creationid="CCYU" creationdate="20150322T131846Z">
@@ -5542,6 +5558,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082136Z" creationid="ccyu" creationdate="20131109T082136Z">
         <seg>這些主軸可手動或配合 ATC 自動換刀轉盤進行換刀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These traits of smoke can be used to detect pixels that can be classed as smoke blobs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155035Z" creationid="CCYU" creationdate="20150322T155035Z">
+        <seg>這些煙霧的特性可以用於偵測歸類為煙霧的像素。</seg>
       </tuv>
     </tu>
     <tu>
