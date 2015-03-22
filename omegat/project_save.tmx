@@ -712,6 +712,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abandoned/Removed Object</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105850Z" creationid="CCYU" creationdate="20150322T105850Z">
+        <seg>遺落/取走物體
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abandoned/Removed Object How does it work?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092236Z" creationid="CCYU" creationdate="20150322T092236Z">
@@ -5032,6 +5041,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This rarely happens, as objects are usually all kinds of different values and moving so we can generally workout that it isn’t ‘background’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105840Z" creationid="CCYU" creationdate="20150322T105752Z">
+        <seg>但這情況很少發生，因為物體通常是各種不同的值且會移動，所以一般情況下可以判別出物體不是「背景」，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This robust knife design features Exacto style blades available in many sizes and strengths.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T142542Z" creationid="ccyu" creationdate="20131108T142538Z">
@@ -5397,6 +5414,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141452Z" creationid="CCYU" creationdate="20150321T141452Z">
         <seg>強烈建議在購買前先試用分析軟體，可在網路上下載 30 天試用版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have done lots and lots of tuning at VCA to prevent these situations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105838Z" creationid="CCYU" creationdate="20150322T105838Z">
+        <seg>我們已經針對 VCA 進行了大量的微調以防止這種情況發生。</seg>
       </tuv>
     </tu>
     <tu>
