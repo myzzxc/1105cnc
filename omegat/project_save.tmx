@@ -1276,8 +1276,8 @@
       <tuv lang="EN-US">
         <seg>Camera tampering:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061359Z" creationid="CCYU" creationdate="20150322T061314Z">
-        <seg>攝影機入侵偵測：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061421Z" creationid="CCYU" creationdate="20150322T061314Z">
+        <seg>攝影機受入侵偵測：</seg>
       </tuv>
     </tu>
     <tu>
