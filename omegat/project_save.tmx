@@ -1818,6 +1818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filter redesigned and optimized for version 6.6 that can trigger alarms when an object is left in a zone configured virtual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060252Z" creationid="CCYU" creationdate="20150322T060205Z">
+        <seg>此篩選器在 6.6 版中已重新設計並最佳化，當物件遺落在設定的區域內時，便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, plug in one side of the Ethernet cable into the LAN port of the router, then plug the same cable into your computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092646Z" creationid="Judy" creationdate="20131113T074051Z">
@@ -2452,8 +2460,8 @@
       <tuv lang="EN-US">
         <seg>Left objects:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060112Z" creationid="CCYU" creationdate="20150322T060112Z">
-        <seg>剩餘物件：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060215Z" creationid="CCYU" creationdate="20150322T060112Z">
+        <seg>遺落物件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3679,6 +3687,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T054258Z" creationid="CCYU" creationdate="20150322T054258Z">
         <seg>虛擬閘門：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taken object:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060323Z" creationid="CCYU" creationdate="20150322T060323Z">
+        <seg>取走物件：</seg>
       </tuv>
     </tu>
     <tu>
