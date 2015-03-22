@@ -1444,6 +1444,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Camera placement determines the accuracy of the counting line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T141937Z" creationid="CCYU" creationdate="20150322T141937Z">
+        <seg>攝影機的安裝位置決定了計數線的準確性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera tampering:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061421Z" creationid="CCYU" creationdate="20150322T061314Z">
