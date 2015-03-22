@@ -880,6 +880,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows the analytical processing is balanced between multiple servers using the client-server architecture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T064043Z" creationid="CCYU" creationdate="20150322T064043Z">
+        <seg>利用客戶端--伺服器架構來平均分配分析之運算到多台伺服器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows you to track virtual barriers that could trigger alarms if they are exceeded.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062242Z" creationid="CCYU" creationdate="20150322T062242Z">
