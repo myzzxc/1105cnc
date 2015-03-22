@@ -2610,6 +2610,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Live surveillance:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T072503Z" creationid="CCYU" creationdate="20150322T072503Z">
+        <seg>即時監控：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load balancing allows for flexibility when necessary expansion of the system of video analysis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T064324Z" creationid="CCYU" creationdate="20150322T064324Z">
@@ -4396,6 +4404,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The module lets you generate reports from any event in analytical format Lines, Bars and Pizza.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T072214Z" creationid="CCYU" creationdate="20150322T072214Z">
+        <seg>此模組能由任一事件中生成分析報告，報告的圖表格式包含了折線圖、長條圖和圓餅圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The multipurpose bed system is also fully functional as a t-slot clamping and fixturing bed for non-vacuum hold down situations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T125248Z" creationid="ccyu" creationdate="20131108T125248Z">
@@ -5192,6 +5208,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062109Z" creationid="CCYU" creationdate="20150322T062109Z">
         <seg>使用者能自行設定受遮蔽的百分比以觸發警報，也能調整當亮度改變時是否觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set advanced filters by Date / Time, Camera, Zones, Types of event and object types in the research and event reports.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T072446Z" creationid="CCYU" creationdate="20150322T072446Z">
+        <seg>使用者也能在研究和報告中設定進階篩選方式，例如依日期/時間、攝影機、區域、事件種類和物體進行篩選。</seg>
       </tuv>
     </tu>
     <tu>
