@@ -1118,8 +1118,8 @@
       <tuv lang="EN-US">
         <seg>Auto tracking works by matching what it saw in a PTZ cameras last video frame with what it can see in this video frame and moves the PTZ if what it matched has moved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150522Z" creationid="CCYU" creationdate="20150322T150240Z">
-        <seg>自動追蹤功能會將 PTZ 攝影機的最後一個影像畫面與目前的影像中所看到的物體進行匹配，如果匹配之物體移動時便會隨之移動 PTZ。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150917Z" creationid="CCYU" creationdate="20150322T150240Z">
+        <seg>自動追蹤功能會將 PTZ 攝影機的最後一個影像畫面與目前的影像中所看到的物體進行匹配，如果匹配之物體移動時便會隨之移動 PTZ 攝影機。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2571,6 +2571,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090229Z" creationid="Judy" creationdate="20131113T043247Z">
         <seg>若配有 ACM 除塵系統則需準備第三組三相電源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it finds a match it can move the PTZ by the amount needed to get the object in the middle again - in this case the red arrow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150929Z" creationid="CCYU" creationdate="20150322T150909Z">
+        <seg>如果找到一個匹配的物體時，便能適當地移動 PTZ 攝影機使物體再次回到畫面中間，此時的移動方向上圖的紅色箭頭。</seg>
       </tuv>
     </tu>
     <tu>
