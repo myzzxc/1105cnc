@@ -786,6 +786,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a period of time this missing object can be raised as a removed object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112623Z" creationid="CCYU" creationdate="20150322T112623Z">
+        <seg>經過一段時間後，消失的物體會被視為被取走的物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air Flow Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090743Z" creationid="Judy" creationdate="20131112T090743Z">
