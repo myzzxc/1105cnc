@@ -856,6 +856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows alarms to be generated in the possible scenarios: objects that come into a virtual area, objects that leave a virtual area, objects that appear within a virtual area and objects that disappear within a virtual area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062930Z" creationid="CCYU" creationdate="20150322T062930Z">
+        <seg>在預設可能的情況下產生警報，如：物體進入虛擬的區域範圍內、離開虛擬的區域範圍、出現在虛擬的區域範圍內、和消失在虛擬的區域範圍內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows an alarm to be triggered when a person, car, animal or other pre registered classification flows in a virtual area for a certain set time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T061210Z" creationid="CCYU" creationdate="20150322T061210Z">
@@ -1878,6 +1886,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083634Z" creationid="ccyu" creationdate="20131109T083634Z">
         <seg>傳真: +91 80 2314 6662</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter by Object:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062945Z" creationid="CCYU" creationdate="20150322T062945Z">
+        <seg>物體篩選：</seg>
       </tuv>
     </tu>
     <tu>
