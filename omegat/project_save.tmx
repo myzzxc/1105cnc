@@ -2719,6 +2719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can group these pixels together to create tracked objects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132052Z" creationid="CCYU" creationdate="20150322T132052Z">
+        <seg>它能將這些像素組合成一個群組，建立追蹤的物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It cannot workout that there are two objects there!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120743Z" creationid="CCYU" creationdate="20150322T120743Z">
