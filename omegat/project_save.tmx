@@ -2407,6 +2407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it does some extra things to solve the problem of when object move behind each other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120558Z" creationid="CCYU" creationdate="20150322T120558Z">
+        <seg>然而，其中還有加入其他演算功能以解決物體間相互遮蔽的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identify and clear an area ready for the machine, making sure all your doors and entrances are large enough to get the machine through.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084206Z" creationid="Judy" creationdate="20131112T081337Z">
@@ -2683,6 +2691,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T032827Z" creationid="MAE" creationdate="20131106T032827Z">
         <seg>也可用於切割大型塑膠看板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It cannot workout that there are two objects there!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120743Z" creationid="CCYU" creationdate="20150322T120743Z">
+        <seg>因此無法分辨出有兩個物體！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5550,6 +5566,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083141Z" creationid="ccyu" creationdate="20131109T083141Z">
         <seg>AXYZ 於機器視覺和攝影定位系統中有最先進的解決方案可供選用，提供卓越的性能和投資回報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When one object moves behind the other, the camera can only detect that there are foreground, object pixels there and groups them together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120722Z" creationid="CCYU" creationdate="20150322T120722Z">
+        <seg>當一個物體移動至其他物體後方時，攝影機只能偵測到有前景物體，而全部的像素都組合在一起，</seg>
       </tuv>
     </tu>
     <tu>
