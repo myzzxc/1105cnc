@@ -856,6 +856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows you to track virtual barriers that could trigger alarms if they are exceeded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062242Z" creationid="CCYU" creationdate="20150322T062242Z">
+        <seg>此功能在使用者追蹤之虛擬障礙超出設定範圍時能觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Almost any combination of router and knife tools can be conÀ gured on single or multiple heads with the optional AVS-IP camera registration system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T080207Z" creationid="ccyu" creationdate="20131109T080207Z">
@@ -3603,6 +3611,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speed alarm:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062252Z" creationid="CCYU" creationdate="20150322T062252Z">
+        <seg>超速警報：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swarf extraction is highly efficient thanks tothe unique internal cyclonic design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z" creationid="MAE" creationdate="20131106T054732Z">
@@ -4772,6 +4788,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Virtual barriers:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062117Z" creationid="CCYU" creationdate="20150322T062117Z">
+        <seg>虛擬障礙：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vortex Cold Guns</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053245Z" creationid="MAE" creationdate="20131106T053245Z">
@@ -5008,6 +5032,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052440Z" creationid="CCYU" creationdate="20150322T052416Z">
         <seg>你能利用分析軟體生成事件報告和統計圖表，如計算物件、遺落物件、臉部偵測等等……系統中紀錄的所有事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set a percentage level of obstruction to fire alarms and whether the alarm should be triggered by a change of lighting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062109Z" creationid="CCYU" creationdate="20150322T062109Z">
+        <seg>使用者能自行設定受遮蔽的百分比以觸發警報，也能調整當亮度改變時是否觸發警報。</seg>
       </tuv>
     </tu>
     <tu>
