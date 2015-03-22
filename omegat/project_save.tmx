@@ -1412,6 +1412,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calibration allows classification to be performed on objects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T133122Z" creationid="CCYU" creationdate="20150322T133122Z">
+        <seg>同時也能對物體進行分類。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calibration allows the camera to correctly work out what a group of 30 pixels is in reality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132510Z" creationid="CCYU" creationdate="20150322T132510Z">
@@ -1456,6 +1464,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083459Z" creationid="ccyu" creationdate="20131109T083459Z">
         <seg>Cincinnati, OH 45241 電話： +1 513 771 7444</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T133126Z" creationid="CCYU" creationdate="20150322T133126Z">
+        <seg>分類</seg>
       </tuv>
     </tu>
     <tu>
@@ -3299,6 +3315,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075535Z" creationid="Judy" creationdate="20131113T075215Z">
         <seg>下頁為回傳問卷，將幫助我們提供您更好的服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the camera is calibrated and we know how much area is represented by a group of pixels we can classify the object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T133421Z" creationid="CCYU" creationdate="20150322T133421Z">
+        <seg>當攝像機經過校正後，我們就能知道一組像素所代表的面積，從而進行物體分類。</seg>
       </tuv>
     </tu>
     <tu>
