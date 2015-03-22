@@ -2498,6 +2498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is important to focus that Digifort reposibility lies solely in the software operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090918Z" creationid="CCYU" creationdate="20150322T090918Z">
+        <seg>請注意 Digifort 只負責軟體操作功能。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended for the long term operation of the table that an air drier is used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083730Z" creationid="Judy" creationdate="20131112T083730Z">
@@ -5560,6 +5568,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085445Z" creationid="CCYU" creationdate="20150322T085445Z">
         <seg>  內部資料庫能紀錄額外資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  Identifies the reading plate accuracy index in different colors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090754Z" creationid="CCYU" creationdate="20150322T090754Z">
+        <seg>  不同車牌顏色亦能精確辨識</seg>
       </tuv>
     </tu>
     <tu>
