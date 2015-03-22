@@ -1426,6 +1426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuration by 3D Grid:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T064341Z" creationid="CCYU" creationdate="20150322T064341Z">
+        <seg>3D 網格設置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080308Z" creationid="Judy" creationdate="20131113T080308Z">
@@ -2590,6 +2598,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135856Z" creationid="CCYU" creationdate="20150321T135856Z">
         <seg>用和可使用如同單套授權之各種分析功能，也可以選擇在指定的攝影機上進行所需的分析，同時也能在單一攝影機上進行多種分析，但臉部辨識、剩餘物品和遺失物的辨識必須使用其它單獨的設置來進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load balancing allows for flexibility when necessary expansion of the system of video analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T064324Z" creationid="CCYU" creationdate="20150322T064324Z">
+        <seg>負載分散能在系統增加影像分析需求時有更大的運算彈性。</seg>
       </tuv>
     </tu>
     <tu>
