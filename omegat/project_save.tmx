@@ -1682,6 +1682,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even though many people come together to count area, the filter can separate them and to count individually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T053642Z" creationid="CCYU" creationdate="20150322T053642Z">
+        <seg>即使多人同時出現於計算範圍內，篩選器仍可以將他們分開單獨計數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export Sales Albrighton Business Park Newport Road, Albrighton Wolverhampton, England WV7 3ET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083803Z" creationid="ccyu" creationdate="20131109T083803Z">
@@ -2686,6 +2694,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082147Z" creationid="MAE" creationdate="20131106T082147Z">
         <seg>凸出式移動接環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now in version 6.6, the people counting the filter becomes functional, with this feature you can tell people at the entrance of shopping malls, banks and so on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T053532Z" creationid="CCYU" creationdate="20150322T053532Z">
+        <seg>於 6.6 版中，人數計算篩選器的功能更加完整，使用者能利用此功能來計算商場、銀行入口等處所經過的人數。</seg>
       </tuv>
     </tu>
     <tu>
