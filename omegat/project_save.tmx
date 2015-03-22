@@ -1628,7 +1628,7 @@
       <tuv lang="EN-US">
         <seg>Digifort LPR can be used on highways, streets, parkings, shoppings or any place where its necessary to identify the plate of the car.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085111Z" creationid="CCYU" creationdate="20150322T085111Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085248Z" creationid="CCYU" creationdate="20150322T085111Z">
         <seg>Digifort LPR 可用於高速公路、街道、停車場、賣場或任何需要辨識車牌的地點。</seg>
       </tuv>
     </tu>
@@ -1958,6 +1958,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083634Z" creationid="ccyu" creationdate="20131109T083634Z">
         <seg>傳真: +91 80 2314 6662</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Features:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085344Z" creationid="CCYU" creationdate="20150322T085344Z">
+        <seg>特點：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5300,6 +5308,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You also can automate gates and locations where only authorized cars are allowed entry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085340Z" creationid="CCYU" creationdate="20150322T085126Z">
+        <seg>也能利用此系統，自動為授權通行的車輛開啟閘門。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can generate reports and statistical graphs of all events generated in the system as counting objects, abandoned objects, face detection, etc...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052440Z" creationid="CCYU" creationdate="20150322T052416Z">
@@ -5496,6 +5512,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082613Z" creationid="ccyu" creationdate="20131109T082613Z">
         <seg>• 適用於任何 CAM 軟體之程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  Allows integration with external database</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085416Z" creationid="CCYU" creationdate="20150322T085416Z">
+        <seg>  能與外部資料庫整合</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
