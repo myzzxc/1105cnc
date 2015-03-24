@@ -1197,6 +1197,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assessment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150822Z" creationid="CCYU" creationdate="20150324T150822Z">
+        <seg>評估標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atangential knife isacutting blade that follows the plot lines of ashape byincrementally rotating the blade to match the path.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153433Z" creationid="ccyu" creationdate="20131105T153433Z">
@@ -3457,6 +3465,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum sample size</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150835Z" creationid="CCYU" creationdate="20150324T150835Z">
+        <seg>最小樣本數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mink Rotary Claw Pump</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065853Z" creationid="MAE" creationdate="20131106T065853Z">
@@ -4794,6 +4810,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 3.1- Test program for evaluating adhesive anchor systems in uncracked concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150805Z" creationid="CCYU" creationdate="20150324T150805Z">
+        <seg>表 3.1 - 評估無裂紋混凝土中黏結錨栓系統之測試計畫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table Width</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081457Z" creationid="Judy" creationdate="20131112T081457Z">
@@ -4854,6 +4878,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z" creationid="ccyu" creationdate="20131108T160917Z">
         <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test no.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150851Z" creationid="CCYU" creationdate="20150324T150851Z">
+        <seg>測試編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test ref.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150940Z" creationid="CCYU" creationdate="20150324T150934Z">
+        <seg>測試參考內容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150811Z" creationid="CCYU" creationdate="20150324T150811Z">
+        <seg>測試</seg>
       </tuv>
     </tu>
     <tu>
