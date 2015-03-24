@@ -5179,6 +5179,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The compliance date is the date by which relevant evaluation reports must comply with the requirements of the criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T135407Z" creationid="CCYU" creationdate="20150324T135407Z">
+        <seg>生效日期為相關評估報告必須符合標準要求之日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The counter module allows that different objects, with different characteristics such as size and speed could be counted as different types.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T055309Z" creationid="CCYU" creationdate="20150322T055309Z">
@@ -6336,6 +6344,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T135222Z" creationid="CCYU" creationdate="20150322T135222Z">
         <seg>當物體通過計數線時，便能知道不是背景而是重要的物件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When existing acceptance criteria are revised, the Evaluation Committee will decide whether the revised document should carry only an "approved" date, or an "approved" date combined with a "compliance" date.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T135313Z" creationid="CCYU" creationdate="20150324T135313Z">
+        <seg>當現有的驗收標準修訂後，評估委員會將決定修訂之文件僅標注「核准」日期，或包含「核准」日期和「生效」日期。</seg>
       </tuv>
     </tu>
     <tu>
