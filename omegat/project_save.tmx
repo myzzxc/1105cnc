@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Previously editorially revised April 2014, October 2013, August 2013)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T125106Z" creationid="CCYU" creationdate="20150324T125106Z">
+        <seg>（早期修訂日期 2014年4月、2013年10月、2013年8月）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Total air flow required will be the sum of all your options)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085403Z" creationid="Judy" creationdate="20131112T090820Z">
@@ -3709,6 +3717,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141440Z" creationid="ccyu" creationdate="20131107T141412Z">
         <seg>精密切割墊（每張）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PREFACE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T125113Z" creationid="CCYU" creationdate="20150324T125113Z">
+        <seg>前言</seg>
       </tuv>
     </tu>
     <tu>
