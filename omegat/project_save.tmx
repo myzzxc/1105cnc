@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirmation of the bond/slip force relationship in accordance with Section 10.4.9.2 is required if a torque-controlled adhesive anchor system is to be evaluated with Table 3.6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150327Z" creationid="CCYU" creationdate="20150324T150327Z">
+        <seg>若要依表3.6評估控制扭矩黏結錨固系統時，必須確認外力和黏結/滑落之間的相關性符合第10.4.9.2條。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting the Ethernet cables correctly is very important to establish communication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092527Z" creationid="Judy" creationdate="20131113T073914Z">
@@ -6280,6 +6288,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070637Z" creationid="MAE" creationdate="20131105T093000Z">
         <seg>真空系統配件 - 包括真空抽氣泵和鼓風機，以及集屑系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification of installation at decreased installation temperatures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150440Z" creationid="CCYU" creationdate="20150324T150440Z">
+        <seg>驗證於低溫下之安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification of installation direction (horizontal and overhead).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150410Z" creationid="CCYU" creationdate="20150324T150410Z">
+        <seg>驗證安裝方向（水平和懸空）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification of minimum member thickness to prevent splitting and blow-through.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150627Z" creationid="CCYU" creationdate="20150324T150627Z">
+        <seg>驗證黏結物之最小厚度，以避免分裂和穿孔。</seg>
       </tuv>
     </tu>
     <tu>
