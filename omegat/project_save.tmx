@@ -2377,6 +2377,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Five*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151801Z" creationid="CCYU" creationdate="20150324T151801Z">
+        <seg>五組*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focusing on productivity, AXYZ has engineered machine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081630Z" creationid="MAE" creationdate="20131106T081630Z">
@@ -4630,6 +4638,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T135631Z" creationid="CCYU" creationdate="20150324T135631Z">
         <seg>請見 ICC-ES網站以了解更多關於生效日期的詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitivity to hole cleaning, diy substrate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151852Z" creationid="CCYU" creationdate="20150324T151730Z">
+        <seg>鑽孔清潔度對乾燥基材之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitivity to hole cleaning, installation in water-saturated concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151956Z" creationid="CCYU" creationdate="20150324T151829Z">
+        <seg>鑽孔清潔度對混凝土含水條件下安裝之敏感性</seg>
       </tuv>
     </tu>
     <tu>
@@ -7020,19 +7044,27 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>max</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151738Z" creationid="CCYU" creationdate="20150324T151738Z">
+        <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>min</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151537Z" creationid="CCYU" creationdate="20150324T151537Z">
-        <seg>最小值</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151745Z" creationid="CCYU" creationdate="20150324T151537Z">
+        <seg>最小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>min max</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151435Z" creationid="CCYU" creationdate="20150324T151435Z">
-        <seg>最小值
-最大值</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151741Z" creationid="CCYU" creationdate="20150324T151435Z">
+        <seg>最小
+最大</seg>
       </tuv>
     </tu>
     <tu>
