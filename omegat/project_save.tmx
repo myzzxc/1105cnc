@@ -2377,10 +2377,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Five"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152501Z" creationid="CCYU" creationdate="20150324T152501Z">
+        <seg>Five*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Five*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151801Z" creationid="CCYU" creationdate="20150324T151801Z">
         <seg>五組*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Five1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152409Z" creationid="CCYU" creationdate="20150324T152409Z">
+        <seg>五組‡</seg>
       </tuv>
     </tu>
     <tu>
@@ -4646,6 +4662,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151852Z" creationid="CCYU" creationdate="20150324T151730Z">
         <seg>鑽孔清潔度對乾燥基材之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitivity to hole cleaning, installation in a water-filled hole8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152543Z" creationid="CCYU" creationdate="20150324T152543Z">
+        <seg>鑽孔清潔度對鑽孔充滿水條件下安裝之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitivity to hole cleaning, installation in submerged concrete8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152620Z" creationid="CCYU" creationdate="20150324T152620Z">
+        <seg>鑽孔清潔度對浸於水中的混凝安裝之敏感性</seg>
       </tuv>
     </tu>
     <tu>
