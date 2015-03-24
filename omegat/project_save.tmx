@@ -3489,6 +3489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New acceptance criteria will only have an "approved" date, which is the date the document was approved by the Evaluation Committee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T134947Z" creationid="CCYU" creationdate="20150324T134947Z">
+        <seg>新驗收標準僅具有一個「核准」日期，即為評估委員會核准文件之日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next generation AXYZ A2MC control system forsmooth reliable operation and easy connection to network for program transfer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153217Z" creationid="ccyu" creationdate="20131106T153217Z">
