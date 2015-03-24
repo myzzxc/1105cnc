@@ -2729,6 +2729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ICC-ES may consider alternate criteria for report approval, provided the report applicant submits data demonstrating that the alternate criteria are at least equivalent to the criteria set forth in this document, and otherwise demonstrate compliance with the performance features of the codes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143059Z" creationid="CCYU" creationdate="20150324T143059Z">
+        <seg>若申請者能提供資料證明替代標準至少等效於此規範訂定之標準，並另外證明效能特性符合規範，ICC-ES 將考量核准替代標準報告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identify and clear an area ready for the machine, making sure all your doors and entrances are large enough to get the machine through.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084206Z" creationid="Judy" creationdate="20131112T081337Z">
