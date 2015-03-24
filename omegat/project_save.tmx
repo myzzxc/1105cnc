@@ -1084,6 +1084,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approved September 2014 Compliance date January 15, 2015</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123704Z" creationid="CCYU" creationdate="20150324T123704Z">
+        <seg>2014年9月核准
+2015年1月15日生效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As above with Vacuum Bed, 11.5hp blower and silencer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144252Z" creationid="ccyu" creationdate="20131107T144252Z">
@@ -4101,6 +4110,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T060153Z" creationid="MAE" creationdate="20131106T060153Z">
         <seg>壓力腳配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previously approved May 2014, December 2013, June 2013, February 2013, February 2012, June 2011, November 2009, June 2009, October 2008, August 2008, May 2008, February 2008, January 2008, October 2007, June 2007, February 2007, June 2006</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123810Z" creationid="CCYU" creationdate="20150324T123810Z">
+        <seg>早期核准版本 2014年5月'2013 年 12 月、 2013 年 6 月，2013 年 2 月，2012 年 2 月，2011 年 6 月，2009 年 11 月，2009 年 6 月，2008 年 10 月，2008 年 8 月，2008 年 5 月，2008 年 2 月，2008 年 1 月，2007 年 10 月，2007 年 6 月，2007 年 2 月，2006 年 6 月</seg>
       </tuv>
     </tu>
     <tu>
