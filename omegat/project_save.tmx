@@ -5459,6 +5459,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The provisions of this code are not intended to prevent the installation of any materials or to prohibit any design or method of construction not specifically prescribed by this code, provided that any such alternative has been approved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T132507Z" creationid="CCYU" creationdate="20150324T132507Z">
+        <seg>此規範之條款旨意非用於避免安裝未於此法規中所提及之任何材料、或禁止任何未說明之設計、或未闡述之施工方法，上述替代方案若經核准仍可進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reason for this is that various other objects in a scene could match the pixel characteristics of a fire but not other characteristics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154321Z" creationid="CCYU" creationdate="20150322T154321Z">
