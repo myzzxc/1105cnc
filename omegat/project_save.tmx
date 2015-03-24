@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evaluation reports issued by ICC Evaluation Service, LLC (ICC-ES), are based upon performance features of the International family of codes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T130326Z" creationid="CCYU" creationdate="20150324T130321Z">
+        <seg>由ICC (ICC-ES) 所發行之評估報告係根據相關國際法規之效能特性所製作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even though many people come together to count area, the filter can separate them and to count individually.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T053642Z" creationid="CCYU" creationdate="20150322T053642Z">
