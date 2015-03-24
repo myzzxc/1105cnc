@@ -5219,6 +5219,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The criteria was developed through a transparent process involving public hearings of the ICC-ES Evaluation Committee, and/or on-line postings where public comment was solicited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T134848Z" creationid="CCYU" creationdate="20150324T134848Z">
+        <seg>本標準經過透明的程序而制定，包括舉行 ICC-ES 評估委員之公聽會，並匯集網路上之意見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The current requirements depend largely on the size and number of spindles that you have on the machine:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092822Z" creationid="Judy" creationdate="20131112T092818Z">
