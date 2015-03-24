@@ -802,6 +802,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acceptance criteria are developed for use solely by ICC-ES for purposes of issuing ICC-ES evaluation reports.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143916Z" creationid="CCYU" creationdate="20150324T143916Z">
+        <seg>驗收標準僅作為ICC-ES發行ICC-ES評估報告之用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accuracy Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034417Z" creationid="MAE" creationdate="20131106T034417Z">
@@ -1746,6 +1754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T140056Z" creationid="ccyu" creationdate="20131105T140056Z">
         <seg>快速由路達轉換為電漿切削器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright ©2014</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143924Z" creationid="CCYU" creationdate="20150324T143924Z">
+        <seg>版權所有©2014年</seg>
       </tuv>
     </tu>
     <tu>
@@ -3517,6 +3533,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132450Z" creationid="ccyu" creationdate="20131107T132450Z">
         <seg>凸出式移動接環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE: The Preface for ICC-ES acceptance criteria was revised in July 2011 to reflect changes in policy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143739Z" creationid="CCYU" creationdate="20150324T143739Z">
+        <seg>註：ICC-ES 驗收標準之前言於2011年7月修訂，以反映政策變化。</seg>
       </tuv>
     </tu>
     <tu>
