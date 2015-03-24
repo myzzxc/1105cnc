@@ -4690,6 +4690,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensitivity to installation in a water-filled hole8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152819Z" creationid="CCYU" creationdate="20150324T152819Z">
+        <seg>鑽孔充滿水條件下對安裝之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitivity to installation in submerged concrete®</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152904Z" creationid="CCYU" creationdate="20150324T152904Z">
+        <seg>混凝土浸於水中對安裝之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitivity to installation in water-saturated concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152832Z" creationid="CCYU" creationdate="20150324T152745Z">
+        <seg>混凝土含水條件下對安裝之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitivity to mixing effort</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152713Z" creationid="CCYU" creationdate="20150324T152713Z">
+        <seg>混合比例敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Series</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081319Z" creationid="MAE" creationdate="20131106T081319Z">
