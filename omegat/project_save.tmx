@@ -295,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Subsidiary of the international Code Council®</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123519Z" creationid="CCYU" creationdate="20150324T123519Z">
+        <seg>國際規範委員會 (international Code Council®) 附屬機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A choice of powerful routing spindles are perfect for cutting hard or thick substrates such as acrylic, aluminium, wood and ACM which can all be cut in a single pass for maximum throughput.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T081938Z" creationid="ccyu" creationdate="20131109T081938Z">
@@ -363,6 +371,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143109Z" creationid="ccyu" creationdate="20131108T143109Z">
         <seg>具有選配可交換式刀匣可供選擇，刀匣同時適用於標準刀鋒、輪形刀、壓花輪以及 45 度角刀鋒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ACCEPTANCE CRITERIA FOR POST-INSTALLED ADHESIVE ANCHORS IN CONCRETE ELEMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123611Z" creationid="CCYU" creationdate="20150324T123611Z">
+        <seg>混凝土元件黏合後安裝錨固驗收標準</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,8 +2674,8 @@
       <tuv lang="EN-US">
         <seg>ICC EVALUATION SERVICE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123200Z" creationid="CCYU" creationdate="20150324T123200Z">
-        <seg>ICC EVALUATION SERVICE （美國國際法規委員會評估服務）</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123420Z" creationid="CCYU" creationdate="20150324T123200Z">
+        <seg>ICC EVALUATION SERVICE （國際規範委員會評估服務）</seg>
       </tuv>
     </tu>
     <tu>
