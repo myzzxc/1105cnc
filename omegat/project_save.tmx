@@ -5715,6 +5715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This acceptance criteria has been issued to provide interested parties with guidelines for demonstrating compliance with performance features of the codes referenced in the criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T134328Z" creationid="CCYU" creationdate="20150324T134328Z">
+        <seg>發行此驗收標準之目標，為供相關單位驗證符合規範之效能特性之參考指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows the operator to easily clear  the machine bed of parts and waste and then reload the cutting area with more material to allow virtually continuous operation of the AXYZ Router.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072917Z" creationid="MAE" creationdate="20131106T072917Z">
