@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Some reports may also reference older code families such as the BOCA National Codes, the Standard Codes, and the Uniform Codes.) Section 104.11 of the International Building Code* reads as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T130426Z" creationid="CCYU" creationdate="20150324T130426Z">
+        <seg>（某些報告也會參考舊代碼家庭如博國家法規、 標準的代碼和統一代碼）。節 104.11 的國際建築代碼 * 如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Total air flow required will be the sum of all your options)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085403Z" creationid="Judy" creationdate="20131112T090820Z">
@@ -2080,8 +2088,8 @@
       <tuv lang="EN-US">
         <seg>Evaluation reports issued by ICC Evaluation Service, LLC (ICC-ES), are based upon performance features of the International family of codes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T130326Z" creationid="CCYU" creationdate="20150324T130321Z">
-        <seg>由ICC (ICC-ES) 所發行之評估報告係根據相關國際法規之效能特性所製作。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T130440Z" creationid="CCYU" creationdate="20150324T130321Z">
+        <seg>由ICC (ICC-ES) 所發行之評估報告係根據相關國際規範訂定之效能特性所製作。</seg>
       </tuv>
     </tu>
     <tu>
