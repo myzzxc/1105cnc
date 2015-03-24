@@ -2656,6 +2656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ICC EVALUATION SERVICE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123200Z" creationid="CCYU" creationdate="20150324T123200Z">
+        <seg>ICC EVALUATION SERVICE （美國國際法規委員會評估服務）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identify and clear an area ready for the machine, making sure all your doors and entrances are large enough to get the machine through.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084206Z" creationid="Judy" creationdate="20131112T081337Z">
@@ -3348,6 +3356,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081433Z" creationid="Judy" creationdate="20131112T081433Z">
         <seg>型號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most Widely Accepted and Trusted</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123233Z" creationid="CCYU" creationdate="20150324T123233Z">
+        <seg>全球公認領導者</seg>
       </tuv>
     </tu>
     <tu>
