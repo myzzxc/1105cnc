@@ -327,6 +327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A deletion indicator (-&gt;) is provided in the margin where any significant wording has been deleted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T142636Z" creationid="CCYU" creationdate="20150324T142636Z">
+        <seg>重要更改處會標示刪除記號(-&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A fire has a distinctive colour and it also flickers in a distinctive way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153427Z" creationid="CCYU" creationdate="20150322T153427Z">
@@ -2797,6 +2805,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T111813Z" creationid="CCYU" creationdate="20150322T111813Z">
         <seg>如果畫面中一輛停著的車：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this criteria is a revised edition, a solid vertical line (|) in the margin within the criteria indicates a change from the previous edition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T142638Z" creationid="CCYU" creationdate="20150324T142532Z">
+        <seg>若此標準為修訂版，標準中會以分隔號 (|) 指明相對先前版本之變更，</seg>
       </tuv>
     </tu>
     <tu>
