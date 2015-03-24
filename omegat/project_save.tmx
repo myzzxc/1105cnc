@@ -1605,6 +1605,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chpt6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151108Z" creationid="CCYU" creationdate="20150324T151108Z">
+        <seg>第6章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cincinnati, OH 45241 Phone: +1 513 771 7444</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083459Z" creationid="ccyu" creationdate="20131109T083459Z">
@@ -3329,6 +3337,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load and displacement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151001Z" creationid="CCYU" creationdate="20150324T151001Z">
+        <seg>負載和位移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load balancing allows for flexibility when necessary expansion of the system of video analysis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T064324Z" creationid="CCYU" creationdate="20150322T064324Z">
@@ -4306,6 +4322,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purpose</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150944Z" creationid="CCYU" creationdate="20150324T150944Z">
+        <seg>目的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick Release Spindles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134437Z" creationid="ccyu" creationdate="20131105T134437Z">
@@ -4382,6 +4406,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T144653Z" creationid="CCYU" creationdate="20150321T144653Z">
         <seg>Digifort 分析軟體授權購買建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference tension in low- strength concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151207Z" creationid="CCYU" creationdate="20150324T151207Z">
+        <seg>低強度混凝土中之參考張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151058Z" creationid="CCYU" creationdate="20150324T151058Z">
+        <seg>參考測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,6 +4926,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150851Z" creationid="CCYU" creationdate="20150324T150851Z">
         <seg>測試編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test parameters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150947Z" creationid="CCYU" creationdate="20150324T150947Z">
+        <seg>測試參數</seg>
       </tuv>
     </tu>
     <tu>
