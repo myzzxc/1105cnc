@@ -103,6 +103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10a and 10b.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150033Z" creationid="CCYU" creationdate="20150324T150033Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1220mm x 1524mm Process Area</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143419Z" creationid="ccyu" creationdate="20131107T143419Z">
@@ -4372,8 +4380,8 @@
       <tuv lang="EN-US">
         <seg>Reliability tests to verify the bond/slip force relationship are given in Table 3.6, Test Nos.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145705Z" creationid="CCYU" creationdate="20150324T145705Z">
-        <seg>可靠度測試表 3.6，測試 Nos 給出，以驗證債券/滑移力關係。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150027Z" creationid="CCYU" creationdate="20150324T145705Z">
+        <seg>可靠度測試用以確認外力和黏結/滑落之間的相關性，列於表 3.6 之 測試編號10a和10b中。</seg>
       </tuv>
     </tu>
     <tu>
