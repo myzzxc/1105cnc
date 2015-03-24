@@ -2369,6 +2369,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Five per concrete batch</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151513Z" creationid="CCYU" creationdate="20150324T151507Z">
+        <seg>每批混凝土五組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focusing on productivity, AXYZ has engineered machine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081630Z" creationid="MAE" creationdate="20131106T081630Z">
@@ -4410,6 +4418,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reference tension in high- strength concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151522Z" creationid="CCYU" creationdate="20150324T151522Z">
+        <seg>高強度混凝土中之參考張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference tension in low- strength concrete</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151207Z" creationid="CCYU" creationdate="20150324T151207Z">
@@ -4438,6 +4454,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133313Z" creationid="MAE" creationdate="20131106T070621Z">
         <seg>真空抽氣使用之再生鼓風機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reliability tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151544Z" creationid="CCYU" creationdate="20150324T151544Z">
+        <seg>可靠度測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -4918,6 +4942,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z" creationid="ccyu" creationdate="20131108T160917Z">
         <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension, confined, single anchor away from edges</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151406Z" creationid="CCYU" creationdate="20150324T151406Z">
+        <seg>受力、雙側錨固、單側邊緣錨固</seg>
       </tuv>
     </tu>
     <tu>
@@ -6956,6 +6988,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>high</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151530Z" creationid="CCYU" creationdate="20150324T151530Z">
+        <seg>高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>laser Digitiser</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050010Z" creationid="MAE" creationdate="20131106T050010Z">
@@ -6964,10 +7004,35 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>low</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151415Z" creationid="CCYU" creationdate="20150324T151415Z">
+        <seg>低</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>materials including, but not limited to Graphic Foam boards, Closed Cell Foam, Plastic-covered Foam,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T132900Z" creationid="ccyu" creationdate="20131108T132900Z">
         <seg>材料如圖形泡綿板、發泡塑膠、塑膠包覆泡綿、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>min</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151537Z" creationid="CCYU" creationdate="20150324T151537Z">
+        <seg>最小值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>min max</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151435Z" creationid="CCYU" creationdate="20150324T151435Z">
+        <seg>最小值
+最大值</seg>
       </tuv>
     </tu>
     <tu>
