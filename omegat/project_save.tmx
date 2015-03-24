@@ -4554,6 +4554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Service condition tests for environmental exposure (sulfur).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145323Z" creationid="CCYU" creationdate="20150324T145323Z">
+        <seg>環境暴露（硫化物）工作環境測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sign: …………………………………… Print: …………………………………Date: ………………….........................</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093655Z" creationid="Judy" creationdate="20131113T072314Z">
@@ -6824,6 +6832,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125123Z" creationid="MAE" creationdate="20131105T093210Z">
         <seg>切削、修邊以及鑽孔無間斷地進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>seismic simulation tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145115Z" creationid="CCYU" creationdate="20150324T145115Z">
+        <seg>地震模擬測試</seg>
       </tuv>
     </tu>
     <tu>
