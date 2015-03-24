@@ -1050,6 +1050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An alternative material, design or method of construction shall be approved where the building official finds that the proposed design is satisfactory and complies with the intent of the provisions of this code, and that the material, method or work offered is, for the purpose intended, at least the equivalent of that prescribed in this code in quality, strength, effectiveness, fire resistance, durability and safety.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T132640Z" creationid="CCYU" creationdate="20150324T132640Z">
+        <seg>替代材料、 設計或施工方法均須經建築官員從何處查找建議的設計是令人滿意，並遵守本守則條文的原意和材料、 方法或工作提供為目的的意欲，至少是相當於那所訂明的這段代碼在品質、 強度、 有效性、 耐火性耐久性和安全性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An integrated fume extraction grid is also available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145053Z" creationid="ccyu" creationdate="20131105T145053Z">
@@ -5461,8 +5469,8 @@
       <tuv lang="EN-US">
         <seg>The provisions of this code are not intended to prevent the installation of any materials or to prohibit any design or method of construction not specifically prescribed by this code, provided that any such alternative has been approved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T132507Z" creationid="CCYU" creationdate="20150324T132507Z">
-        <seg>此規範之條款旨意非用於避免安裝未於此法規中所提及之任何材料、或禁止任何未說明之設計、或未闡述之施工方法，上述替代方案若經核准仍可進行。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T132702Z" creationid="CCYU" creationdate="20150324T132507Z">
+        <seg>此規範之條款旨意非用於避免安裝未於此法規中所提及之任何材料、或禁止任何未說明之設計、或進行未闡述之施工方法，上述替代方案若經核准仍可進行。</seg>
       </tuv>
     </tu>
     <tu>
