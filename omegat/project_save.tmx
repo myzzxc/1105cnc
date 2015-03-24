@@ -3001,6 +3001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation safety tests to assess the effect of the presence of standing water in the drilled hole or submerged conditions when hole cleaning is conducted in accordance with manufacturer's published installation instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145638Z" creationid="CCYU" creationdate="20150324T145431Z">
+        <seg>安裝安全測試用以評估當鑽孔已按照製造商提供之安裝說明進行清潔後，鑽孔中積水或完全淹沒條件下造成的影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installing an AXYZ Router Table is actually quite simple and can be accomplished in just a few hours IF you are ready for it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T082328Z" creationid="Judy" creationdate="20131112T075758Z">
@@ -4362,6 +4370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reliability tests to verify the bond/slip force relationship are given in Table 3.6, Test Nos.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145705Z" creationid="CCYU" creationdate="20150324T145705Z">
+        <seg>可靠度測試表 3.6，測試 Nos 給出，以驗證債券/滑移力關係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050939Z" creationid="Judy" creationdate="20131113T050244Z">
@@ -4556,8 +4572,8 @@
       <tuv lang="EN-US">
         <seg>Service condition tests for environmental exposure (sulfur).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145323Z" creationid="CCYU" creationdate="20150324T145323Z">
-        <seg>環境暴露（硫化物）工作環境測試</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145437Z" creationid="CCYU" creationdate="20150324T145323Z">
+        <seg>環境暴露（硫化物）工作條件測試</seg>
       </tuv>
     </tu>
     <tu>
