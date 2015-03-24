@@ -4458,6 +4458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the ICC-ES web site for more information on compliance dates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T135631Z" creationid="CCYU" creationdate="20150324T135631Z">
+        <seg>請見 ICC-ES網站以了解更多關於生效日期的詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Series</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081319Z" creationid="MAE" creationdate="20131106T081319Z">
