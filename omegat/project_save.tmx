@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Perform tests with deformed reinforcing bars conforming to the mechanical requirements of 9.4.3.2.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184527Z" creationid="CCYU" creationdate="20150325T184527Z">
+        <seg>‖依9.4.3.2.1之機械強度要求進行強化鋼筋變形測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Refer to 3.4 for multiple anchor element types.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173242Z" creationid="CCYU" creationdate="20150325T173209Z">
