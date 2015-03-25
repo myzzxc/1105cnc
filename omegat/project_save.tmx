@@ -2953,6 +2953,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Test 7b is not performed, limit the calculated anchor tension resistance to f'c = 2500 psi regardless of the in-place concrete strength.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173921Z" creationid="CCYU" creationdate="20150325T173921Z">
+        <seg>若不進行測試7b，無論原地混凝土強度為何，計算之錨固抗張力限制為f'c = 2500 psi 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a group of pixels fall under both the colour range and flicker frequency over time we can flag those as fire blobs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153909Z" creationid="CCYU" creationdate="20150322T153909Z">
