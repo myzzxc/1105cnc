@@ -4858,6 +4858,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shear capacity of steel element having a non-uniform cross section*"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122430Z" creationid="CCYU" creationdate="20150325T122430Z">
+        <seg>具有非均質截面鋼材之抗剪力***</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shear, single anchor away from edges</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122505Z" creationid="CCYU" creationdate="20150325T122505Z">
+        <seg>剪力、單側邊緣錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sign: …………………………………… Print: …………………………………Date: ………………….........................</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093655Z" creationid="Judy" creationdate="20131113T072314Z">
