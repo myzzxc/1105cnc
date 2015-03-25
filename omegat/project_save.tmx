@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Refer to 3.4 for multiple anchor element types.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173242Z" creationid="CCYU" creationdate="20150325T173209Z">
+        <seg>‡‡多錨固元件類型請參閱3.4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Test 2f may be omitted if Test 2g is performed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173049Z" creationid="CCYU" creationdate="20150325T173049Z">
+        <seg>**如果已執行測試2g，則可以省略測試2f。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Test all diameters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172157Z" creationid="CCYU" creationdate="20150325T172157Z">
@@ -7340,6 +7356,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>^Alternatively, tests may be performed as confined tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173349Z" creationid="CCYU" creationdate="20150325T173349Z">
+        <seg>§§也能以雙側錨固進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>^Where MPII specifies multiple embedment depths for single anchor diameter, test anchor at minimum or maximum embedment depth as noted, whereby hefimJhefimin 2 5.0 (4.7.2).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172003Z" creationid="CCYU" creationdate="20150325T172003Z">
@@ -7501,10 +7525,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tfRefer to 4.7.2.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173109Z" creationid="CCYU" creationdate="20150325T173109Z">
+        <seg>††請參閱4.7.2.2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>§Optional test.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172137Z" creationid="CCYU" creationdate="20150325T172137Z">
-        <seg>§非必須測試。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173123Z" creationid="CCYU" creationdate="20150325T172137Z">
+        <seg>§非必要測試。</seg>
       </tuv>
     </tu>
     <tu>
