@@ -87,6 +87,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*For definition of high- and low-strength concrete, refer to 4.3.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T123407Z" creationid="CCYU" creationdate="20150325T123402Z">
+        <seg>*高強度和高強度混凝土之定義請參閱4.3.4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10006 * (3270 mm x 1829 mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142624Z" creationid="ccyu" creationdate="20131107T142624Z">
