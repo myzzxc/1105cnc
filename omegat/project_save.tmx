@@ -113,8 +113,8 @@
       <tuv lang="EN-US">
         <seg>*Test the nominal 1/2 in.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172302Z" creationid="CCYU" creationdate="20150325T172302Z">
-        <seg>**測試在名標稱直徑 1/2 英吋</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172623Z" creationid="CCYU" creationdate="20150325T172302Z">
+        <seg>**測試標稱直徑1/2英吋，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2581,6 +2581,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065558Z" creationid="MAE" creationdate="20131106T065558Z">
         <seg>若有更大的抽氣需求，可並行使用多重泵以產生更大的 CFM 流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For overhead and horizontal orientations, test the largest diameter for which recognition is sought.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172557Z" creationid="CCYU" creationdate="20150325T172557Z">
+        <seg>懸空和水平方向，測試規範之最大直徑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7360,6 +7368,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131604Z" creationid="ccyu" creationdate="20131105T131604Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>diameter or the smallest nominal diameter if it is larger than 1/2 in.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172637Z" creationid="CCYU" creationdate="20150325T172437Z">
+        <seg>或當標稱直徑大於1/2英吋時測試其最小標稱直徑。</seg>
       </tuv>
     </tu>
     <tu>
