@@ -5010,6 +5010,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Research in concretes of equal compressive strength but significantly different ages indicates that higher bond strengths can result when anchors are installed in older concrete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200212Z" creationid="CCYU" creationdate="20150325T200212Z">
+        <seg>研究顯示，施加相同壓應力度於不同時間完工之混凝土時，錨固安裝於完工較久之混凝土中會有較高的黏結強度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resistance to alkalinity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121850Z" creationid="CCYU" creationdate="20150325T121850Z">
@@ -6855,6 +6863,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151846Z" creationid="CCYU" creationdate="20150322T151846Z">
         <seg>自動校正工具能禳使用者達到 95% 的良好校正，但最後的細部調整則依 PTZ 攝影機而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, an upper limit is placed on the age of the concrete used for determination of bond strength.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200334Z" creationid="CCYU" creationdate="20150325T200334Z">
+        <seg>因此，黏結強度測試使用之混凝土具有完工後擺放最長時間限制。</seg>
       </tuv>
     </tu>
     <tu>
