@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Tests shall be required if hole cleaning equipment and technique varies from that used for tests in accordance with Table 3.1,3.2 or 3.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192133Z" creationid="CCYU" creationdate="20150325T192133Z">
+        <seg>**若使用之孔洞清潔設備和技術與表3.1、3.2或3.3相異，則必須進行該測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"min</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120244Z" creationid="CCYU" creationdate="20150325T120244Z">
@@ -171,6 +179,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T171454Z" creationid="CCYU" creationdate="20150325T123402Z">
         <seg>*高強度和低強度混凝土之定義請參閱4.3.4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*Test bars in three test specimens for a total of six tests with cast-in bars and six tests with post-installed bars.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T191942Z" creationid="CCYU" creationdate="20150325T191942Z">
+        <seg>‡共六項鑄入鋼筋測試和六項後安裝鋼筋測試使用三組鋼筋測試樣品。</seg>
       </tuv>
     </tu>
     <tu>
