@@ -5858,6 +5858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test members shall be at least 21 days old at the time of anchor installation and testing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T195258Z" creationid="CCYU" creationdate="20150325T195258Z">
+        <seg>測試構件應於錨固安裝和測試至少21天前便完工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test no.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150851Z" creationid="CCYU" creationdate="20150324T150851Z">
