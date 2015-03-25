@@ -4826,6 +4826,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>R4.3.S Testing of anchors in concrete less than 21 days old constitutes testing in a nonstandard concrete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T195856Z" creationid="CCYU" creationdate="20150325T195856Z">
+        <seg>R4.3.5 使用完工少於 21 天之混凝土進行錨固測試便視為使用非標準混凝土進行測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RAM Memory</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080107Z" creationid="Judy" creationdate="20131113T080107Z">
@@ -5854,6 +5862,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192835Z" creationid="CCYU" creationdate="20150325T192835Z">
         <seg>測試編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test members older than 18 months shall not be used for tests to determine the bond strength unless comparison tests with concrete aged less than 3 months are conducted in accordance with 9.1 and assessed in accordance with 10.4.1.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T195638Z" creationid="CCYU" creationdate="20150325T195638Z">
+        <seg>除非按照9.1使用完工3個月以內之混凝土進行比對測試並符合10.4.1.2，不得使用完工18個月以上之測試構件進行黏結強度測試，。</seg>
       </tuv>
     </tu>
     <tu>
