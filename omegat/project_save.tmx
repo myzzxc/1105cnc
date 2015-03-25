@@ -938,6 +938,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Table 3.8:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T175223Z" creationid="CCYU" creationdate="20150325T175223Z">
+        <seg>表3.8增訂：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Carso software is included with the scanner which can edit the data before automatically creating the machining path forthe router to follow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053102Z" creationid="MAE" creationdate="20131106T053102Z">
@@ -2851,8 +2859,8 @@
       <tuv lang="EN-US">
         <seg>High installation tension (torque or unconfined tension), two anchors near an edge**</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122252Z" creationid="CCYU" creationdate="20150325T122252Z">
-        <seg>高安裝張力（扭矩或單側固定受力）、接近邊緣之雙側錨固</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T175027Z" creationid="CCYU" creationdate="20150325T122252Z">
+        <seg>高安裝張力（扭矩或單側固定受拉力）、接近邊緣之雙側錨固</seg>
       </tuv>
     </tu>
     <tu>
@@ -5100,8 +5108,8 @@
       <tuv lang="EN-US">
         <seg>Sustained tension residual capacity, confined test</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120930Z" creationid="CCYU" creationdate="20150325T120930Z">
-        <seg>持續受力殘餘應力、雙側錨固測試</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T175003Z" creationid="CCYU" creationdate="20150325T120930Z">
+        <seg>持續受拉力殘餘應力、雙側錨固測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -5340,8 +5348,8 @@
       <tuv lang="EN-US">
         <seg>Tension, confined single anchor away from edges</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121511Z" creationid="CCYU" creationdate="20150325T121511Z">
-        <seg>受力、雙側錨固、單側邊緣錨固</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T174934Z" creationid="CCYU" creationdate="20150325T121511Z">
+        <seg>拉力、雙側錨固、單側邊緣錨固</seg>
       </tuv>
     </tu>
     <tu>
@@ -5356,16 +5364,16 @@
       <tuv lang="EN-US">
         <seg>Tension, unconfined single anchor away from edges88</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121723Z" creationid="CCYU" creationdate="20150325T121723Z">
-        <seg>受力、雙側錨固、單側邊緣錨固</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T174941Z" creationid="CCYU" creationdate="20150325T121723Z">
+        <seg>拉力、雙側錨固、單側邊緣錨固</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tension, unconfined, single anchor away from edges88</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121643Z" creationid="CCYU" creationdate="20150325T121643Z">
-        <seg>受力、雙側錨固、單側邊緣錨固</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T175009Z" creationid="CCYU" creationdate="20150325T121643Z">
+        <seg>拉力、雙側錨固、單側邊緣錨固</seg>
       </tuv>
     </tu>
     <tu>
@@ -7559,8 +7567,8 @@
       <tuv lang="EN-US">
         <seg>t+tTest in concrete having a measured compressive strength of 3000±500 psi at the time of testing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T174858Z" creationid="CCYU" creationdate="20150325T174858Z">
-        <seg>†††函數測試時有 3000±500 psi 實測的抗壓強度的混凝土中。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T175146Z" creationid="CCYU" creationdate="20150325T174858Z">
+        <seg>†††於實測抗壓強度3000±500 psi之混凝土中進行測試。</seg>
       </tuv>
     </tu>
     <tu>
