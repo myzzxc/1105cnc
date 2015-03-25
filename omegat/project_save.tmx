@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"min</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120244Z" creationid="CCYU" creationdate="20150325T120244Z">
+        <seg>nmin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>( 3.7Kw) (3 Phase)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050155Z" creationid="Judy" creationdate="20131113T050155Z">
@@ -2379,8 +2387,8 @@
       <tuv lang="EN-US">
         <seg>Five"</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152501Z" creationid="CCYU" creationdate="20150324T152501Z">
-        <seg>Five*</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120156Z" creationid="CCYU" creationdate="20150324T152501Z">
+        <seg>五組*</seg>
       </tuv>
     </tu>
     <tu>
@@ -7056,6 +7064,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132919Z" creationid="ccyu" creationdate="20131105T132919Z">
         <seg>以及更安靜的運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>areq</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120305Z" creationid="CCYU" creationdate="20150325T120305Z">
+        <seg>αreq</seg>
       </tuv>
     </tu>
     <tu>
