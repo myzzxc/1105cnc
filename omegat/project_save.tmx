@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Test all diameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172157Z" creationid="CCYU" creationdate="20150325T172157Z">
+        <seg>‖測試所有直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"min</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120244Z" creationid="CCYU" creationdate="20150325T120244Z">
@@ -91,6 +99,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T171454Z" creationid="CCYU" creationdate="20150325T123402Z">
         <seg>*高強度和低強度混凝土之定義請參閱4.3.4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*Test small, medium, and large diameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172110Z" creationid="CCYU" creationdate="20150325T172110Z">
+        <seg>‡測試小、中、大直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*Test the nominal 1/2 in.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172302Z" creationid="CCYU" creationdate="20150325T172302Z">
+        <seg>**測試在名標稱直徑 1/2 英吋</seg>
       </tuv>
     </tu>
     <tu>
@@ -7441,6 +7465,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145115Z" creationid="CCYU" creationdate="20150324T145115Z">
         <seg>地震模擬測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§Optional test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172137Z" creationid="CCYU" creationdate="20150325T172137Z">
+        <seg>§非必須測試。</seg>
       </tuv>
     </tu>
     <tu>
