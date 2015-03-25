@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"*Test is required only for anchors having a cross-sectional area, within five anchor diameters of the shear failure plane, that is less than that of a threaded bolt having the same nominal diameter as the anchor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T174803Z" creationid="CCYU" creationdate="20150325T174735Z">
+        <seg>***測試僅須於錨固截面直徑小於五倍剪切破壞平面之錨固直徑時進行，即為小於與錨固具有相同標稱直徑之螺栓直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Refer to 3.4 for multiple anchor element types.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173242Z" creationid="CCYU" creationdate="20150325T173209Z">
@@ -5340,8 +5348,8 @@
       <tuv lang="EN-US">
         <seg>Tension, confined, single anchor away from edges</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151406Z" creationid="CCYU" creationdate="20150324T151406Z">
-        <seg>受力、雙側錨固、單側邊緣錨固</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T174921Z" creationid="CCYU" creationdate="20150324T151406Z">
+        <seg>拉力、雙側錨固、單側邊緣錨固</seg>
       </tuv>
     </tu>
     <tu>
@@ -7545,6 +7553,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145115Z" creationid="CCYU" creationdate="20150324T145115Z">
         <seg>地震模擬測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>t+tTest in concrete having a measured compressive strength of 3000±500 psi at the time of testing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T174858Z" creationid="CCYU" creationdate="20150325T174858Z">
+        <seg>†††函數測試時有 3000±500 psi 實測的抗壓強度的混凝土中。</seg>
       </tuv>
     </tu>
     <tu>
