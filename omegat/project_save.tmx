@@ -1501,6 +1501,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bar installation in injected hole, horizontal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182935Z" creationid="CCYU" creationdate="20150325T182935Z">
+        <seg>水平安裝鋼筋於注模孔中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bar size</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181252Z" creationid="CCYU" creationdate="20150325T181252Z">
@@ -1966,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corrosion resistance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183230Z" creationid="CCYU" creationdate="20150325T183230Z">
+        <seg>抗腐蝕性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corrugated Cardboard and Plastic, Gasket Materials, Rubber, Cork,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T133018Z" creationid="ccyu" creationdate="20131108T133018Z">
@@ -2178,6 +2194,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155211Z" creationid="CCYU" creationdate="20150322T155211Z">
         <seg>因為火災偵測是利用顏色，若攝影機的顏色範圍不正確，則可能無法偵測到火焰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Durabiltiy</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183121Z" creationid="CCYU" creationdate="20150325T183121Z">
+        <seg>耐久性</seg>
       </tuv>
     </tu>
     <tu>
@@ -3269,6 +3293,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143548Z" creationid="ccyu" creationdate="20131107T143548Z">
         <seg>包含： 5HP Elte 主軸、Artcam Express 軟體、高容量壓力腳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Injection in clear tube</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183046Z" creationid="CCYU" creationdate="20150325T183046Z">
+        <seg>潔淨管路中注模</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Injection verification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183010Z" creationid="CCYU" creationdate="20150325T183010Z">
+        <seg>注模驗證</seg>
       </tuv>
     </tu>
     <tu>
@@ -4818,6 +4858,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resistance to alkalinity*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183143Z" creationid="CCYU" creationdate="20150325T183143Z">
+        <seg>抗鹼性#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resistance to sulfur"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183213Z" creationid="CCYU" creationdate="20150325T183213Z">
+        <seg>抗硫化物#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resistance to sulfur8</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122003Z" creationid="CCYU" creationdate="20150325T122003Z">
@@ -5194,6 +5250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slice test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183145Z" creationid="CCYU" creationdate="20150325T183145Z">
+        <seg>切片測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slice tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121853Z" creationid="CCYU" creationdate="20150325T121853Z">
@@ -5462,6 +5526,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z" creationid="ccyu" creationdate="20131108T160917Z">
         <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ten</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183152Z" creationid="CCYU" creationdate="20150325T183152Z">
+        <seg>十組</seg>
       </tuv>
     </tu>
     <tu>
@@ -6763,6 +6835,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Three</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182942Z" creationid="CCYU" creationdate="20150325T182942Z">
+        <seg>三組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Three dimensional laser scanner forreverse engineering a 3D surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052758Z" creationid="MAE" creationdate="20131106T052758Z">
@@ -7712,6 +7792,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181759Z" creationid="CCYU" creationdate="20150325T181759Z">
         <seg>7db</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lib</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183200Z" creationid="CCYU" creationdate="20150325T183200Z">
+        <seg>11b</seg>
       </tuv>
     </tu>
     <tu>
