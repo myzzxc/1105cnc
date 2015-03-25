@@ -5866,6 +5866,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Testing by ITEA and manufacturer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193741Z" creationid="CCYU" creationdate="20150325T193741Z">
+        <seg>由ITEA和製造商進行測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you for purchasing an AXYZ Router Table and for completing the PreInstallation checklist.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075025Z" creationid="Judy" creationdate="20131113T075025Z">
