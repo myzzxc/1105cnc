@@ -1138,6 +1138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All tests conducted by the manufacturer shall be witnessed by the ITEA for conformance with the requirements of this criteria in accordance with 12.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T195010Z" creationid="CCYU" creationdate="20150325T195010Z">
+        <seg>由製造商進行的所有測試皆應由ITEA見證符合此標準12.1之規範要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All twin spindle configurations include an additional</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144103Z" creationid="ccyu" creationdate="20131107T144103Z">
