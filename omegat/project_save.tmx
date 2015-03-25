@@ -7788,10 +7788,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>customary and European metric.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184307Z" creationid="CCYU" creationdate="20150325T184307Z">
+        <seg>而歐規</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>db.max</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183748Z" creationid="CCYU" creationdate="20150325T183748Z">
         <seg>db,max</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dbmax is maximum size sought for recognition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184342Z" creationid="CCYU" creationdate="20150325T184342Z">
+        <seg>db,max 為認證之最大尺寸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7977,6 +7993,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173123Z" creationid="CCYU" creationdate="20150325T172137Z">
         <seg>§非必要測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§Sizes are U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184236Z" creationid="CCYU" creationdate="20150325T184236Z">
+        <seg>§尺寸為英制</seg>
       </tuv>
     </tu>
     <tu>
