@@ -2841,6 +2841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the purposes of this assessment, statistical equivalence shall be demonstrated by a two-sided Student's t-Test at a probability of 95% with a confidence level of 90 percent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194850Z" creationid="CCYU" creationdate="20150325T194850Z">
+        <seg>此評估中，統計等效應使用雙尾 t-檢定，於95%機率下滿足90%信賴水準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the tracker to know what an ‘object’ is it must know how to separate the background from the people/cars/ etc moving in the foreground.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T102817Z" creationid="CCYU" creationdate="20150322T102817Z">
