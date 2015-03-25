@@ -1034,6 +1034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional results of tests performed by the manufacturer shall be permitted to be considered only if the results are statistically equivalent to those of the ITEA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194411Z" creationid="CCYU" creationdate="20150325T194411Z">
+        <seg>製造商所進行之其它所有額外測試結果，必須與ITEA之結果為統計上等效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Carso software is included with the scanner which can edit the data before automatically creating the machining path forthe router to follow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053102Z" creationid="MAE" creationdate="20131106T053102Z">
