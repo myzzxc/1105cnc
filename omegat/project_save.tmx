@@ -113,8 +113,8 @@
       <tuv lang="EN-US">
         <seg>*Test the nominal 1/2 in.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172623Z" creationid="CCYU" creationdate="20150325T172302Z">
-        <seg>**測試標稱直徑1/2英吋，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173010Z" creationid="CCYU" creationdate="20150325T172302Z">
+        <seg>#測試標稱直徑1/2英吋，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2589,6 +2589,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172557Z" creationid="CCYU" creationdate="20150325T172557Z">
         <seg>懸空和水平方向，測試規範之最大直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For tests conducted in accordance with 9.1, tests shall be performed with a nominal 1/2 in.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172808Z" creationid="CCYU" creationdate="20150325T172808Z">
+        <seg>依照9.1進行之測試，測試只能以標稱直徑1/2英吋之描固進行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7336,6 +7344,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172003Z" creationid="CCYU" creationdate="20150325T172003Z">
         <seg>†MPII 中指定單一錨固直徑之多重埋設深度，依其範圍測試錨固之最小或最大埋設深度，其中 hef,max/hef,min ≤ 5.0 (4.7.2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>anchor only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172814Z" creationid="CCYU" creationdate="20150325T172814Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
