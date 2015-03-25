@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decreased installation temperature"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182730Z" creationid="CCYU" creationdate="20150325T182730Z">
+        <seg>低溫下安裝*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the configuration of your machine you will need to provide 1, 2 or 3 separate power supplies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085637Z" creationid="Judy" creationdate="20131112T092459Z">
@@ -3285,6 +3293,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050213Z" creationid="Judy" creationdate="20131113T050209Z">
         <seg>輸入電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation at deep embedment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182841Z" creationid="CCYU" creationdate="20150325T182841Z">
+        <seg>深埋設安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation procedure verification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182819Z" creationid="CCYU" creationdate="20150325T182819Z">
+        <seg>安裝程序驗證</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,6 +5026,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensitivity to installation direction"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182759Z" creationid="CCYU" creationdate="20150325T182759Z">
+        <seg>對安裝方向之敏感性#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sensitivity to installation direction8</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121456Z" creationid="CCYU" creationdate="20150325T121456Z">
@@ -5046,6 +5078,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121420Z" creationid="CCYU" creationdate="20150325T121420Z">
         <seg>對持續負荷之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitivity to sustained load at maximum long-term temperature"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182646Z" creationid="CCYU" creationdate="20150325T182646Z">
+        <seg>於最大長期溫度下對持續負荷之敏感性</seg>
       </tuv>
     </tu>
     <tu>
