@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#*Use minimum member thickness hmin for these tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T174038Z" creationid="CCYU" creationdate="20150325T174038Z">
+        <seg>##此類測試使用最小構件厚度hmin。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>( 3.7Kw) (3 Phase)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050155Z" creationid="Judy" creationdate="20131113T050155Z">
