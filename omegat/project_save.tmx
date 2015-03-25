@@ -1140,6 +1140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application of torque, confined, single anchor away from edges</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121554Z" creationid="CCYU" creationdate="20150325T121554Z">
+        <seg>施加扭矩、雙側錨固、單側邊緣錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Approved September 2014 Compliance date January 15, 2015</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123704Z" creationid="CCYU" creationdate="20150324T123704Z">
@@ -4706,6 +4714,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensitivity to installation direction8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121456Z" creationid="CCYU" creationdate="20150325T121456Z">
+        <seg>對安裝方向之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sensitivity to installation in a water-filled hole8</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152819Z" creationid="CCYU" creationdate="20150324T152819Z">
@@ -4782,6 +4798,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145437Z" creationid="CCYU" creationdate="20150324T145323Z">
         <seg>環境暴露（硫化物）工作條件測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Service-condition tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121608Z" creationid="CCYU" creationdate="20150325T121608Z">
+        <seg>工作條件測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -5066,9 +5090,57 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tension at elevated temperatures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121747Z" creationid="CCYU" creationdate="20150325T121747Z">
+        <seg>高溫之張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension in high-strength concrete""</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121703Z" creationid="CCYU" creationdate="20150325T121703Z">
+        <seg>高強度混凝土中之張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension in low-strength concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121625Z" creationid="CCYU" creationdate="20150325T121625Z">
+        <seg>低強度混凝土中之張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension, confined single anchor away from edges</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121511Z" creationid="CCYU" creationdate="20150325T121511Z">
+        <seg>受力、雙側錨固、單側邊緣錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tension, confined, single anchor away from edges</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151406Z" creationid="CCYU" creationdate="20150324T151406Z">
+        <seg>受力、雙側錨固、單側邊緣錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension, unconfined single anchor away from edges88</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121723Z" creationid="CCYU" creationdate="20150325T121723Z">
+        <seg>受力、雙側錨固、單側邊緣錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension, unconfined, single anchor away from edges88</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121643Z" creationid="CCYU" creationdate="20150325T121643Z">
         <seg>受力、雙側錨固、單側邊緣錨固</seg>
       </tuv>
     </tu>
@@ -6319,6 +6391,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091740Z" creationid="Judy" creationdate="20131112T090302Z">
         <seg>工具配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Torque test**</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121538Z" creationid="CCYU" creationdate="20150325T121538Z">
+        <seg>扭矩測試‡‡</seg>
       </tuv>
     </tu>
     <tu>
