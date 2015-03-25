@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>""Optional test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192507Z" creationid="CCYU" creationdate="20150325T192507Z">
+        <seg>##非必要測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>""Tests are optional if test results of Test lb can be shown to be statistically equivalent to or greater than the results of Test la.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173614Z" creationid="CCYU" creationdate="20150325T173614Z">
@@ -1014,6 +1022,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T175223Z" creationid="CCYU" creationdate="20150325T175223Z">
         <seg>表3.8增訂：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Table 3.9:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192515Z" creationid="CCYU" creationdate="20150325T192515Z">
+        <seg>表3.9增訂：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3229,6 +3245,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T142638Z" creationid="CCYU" creationdate="20150324T142532Z">
         <seg>若此標準為修訂版，標準中會以分隔號 (|) 指明相對先前版本之變更，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this test is not performed, the evaluation report shall note that the value of f c to be used in the determination of development and splice lengths in accordance with ACI318 shall not exceed 2500 psi (17.2 MPa).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192457Z" creationid="CCYU" creationdate="20150325T192457Z">
+        <seg>若未進行此測試，應於評估報告中標明用於決定開發和拼接長度之 f'c 值符合ACI318，不得超過2500psi (17.2 MPa)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8033,6 +8057,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184236Z" creationid="CCYU" creationdate="20150325T184236Z">
         <seg>§尺寸為英制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§§Optional test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192148Z" creationid="CCYU" creationdate="20150325T192148Z">
+        <seg>§§非必要測試，</seg>
       </tuv>
     </tu>
     <tu>
