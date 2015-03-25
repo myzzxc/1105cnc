@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>""Tests are optional if test results of Test lb can be shown to be statistically equivalent to or greater than the results of Test la.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173614Z" creationid="CCYU" creationdate="20150325T173614Z">
+        <seg>‖‖若測試1b之結果統計上等於或大於測試1a之結果，此測試為非必要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Refer to 3.4 for multiple anchor element types.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173242Z" creationid="CCYU" creationdate="20150325T173209Z">
