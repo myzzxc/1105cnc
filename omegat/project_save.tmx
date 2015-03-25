@@ -5234,6 +5234,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 3.8- Test program for evaluating deformed reinforcing bars for use in post-installed reinforcing bar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181039Z" creationid="CCYU" creationdate="20150325T181039Z">
+        <seg>表 3.8 - 評估後安裝強化鋼筋變形之測試計畫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table Width</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081457Z" creationid="Judy" creationdate="20131112T081457Z">
