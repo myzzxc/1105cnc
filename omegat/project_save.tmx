@@ -2761,6 +2761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High installation tension (torque or unconfined tension), two anchors near an edge**</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122252Z" creationid="CCYU" creationdate="20150325T122252Z">
+        <seg>高安裝張力（扭矩或單側固定受力）、接近邊緣之雙側錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High tolerance THK bearings on X, Y, and Zaxes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115157Z" creationid="ccyu" creationdate="20131107T115157Z">
@@ -3541,6 +3549,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150835Z" creationid="CCYU" creationdate="20150324T150835Z">
         <seg>最小樣本數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum spacing and edge distance to preclude splitting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122122Z" creationid="CCYU" creationdate="20150325T122122Z">
+        <seg>避免分裂之最小空間和邊距</seg>
       </tuv>
     </tu>
     <tu>
