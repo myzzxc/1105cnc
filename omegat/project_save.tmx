@@ -2857,6 +2857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ida</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T123223Z" creationid="CCYU" creationdate="20150325T123223Z">
+        <seg>7da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identify and clear an area ready for the machine, making sure all your doors and entrances are large enough to get the machine through.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084206Z" creationid="Judy" creationdate="20131112T081337Z">
@@ -3101,6 +3109,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145638Z" creationid="CCYU" creationdate="20150324T145431Z">
         <seg>安裝安全測試用以評估當鑽孔已按照製造商提供之安裝說明進行清潔後，鑽孔中積水或完全淹沒條件下造成的影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation tests**</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T123311Z" creationid="CCYU" creationdate="20150325T123311Z">
+        <seg>安裝測試##</seg>
       </tuv>
     </tu>
     <tu>
@@ -3541,6 +3557,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090638Z" creationid="Judy" creationdate="20131112T090638Z">
         <seg>最低空氣壓力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum member thickness8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T123240Z" creationid="CCYU" creationdate="20150325T123240Z">
+        <seg>最小構件厚度</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,6 +4618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Round-robin tests for regional concrete variation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T123151Z" creationid="CCYU" creationdate="20150325T123151Z">
+        <seg>混凝土區域內差異之循環測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rout.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124849Z" creationid="MAE" creationdate="20131105T093209Z">
@@ -5158,6 +5190,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z" creationid="ccyu" creationdate="20131108T160917Z">
         <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ten"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T123318Z" creationid="CCYU" creationdate="20150325T123318Z">
+        <seg>十組#</seg>
       </tuv>
     </tu>
     <tu>
@@ -7304,6 +7344,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151415Z" creationid="CCYU" creationdate="20150324T151415Z">
         <seg>低</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lowtn</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T123217Z" creationid="CCYU" creationdate="20150325T123217Z">
+        <seg>low†††</seg>
       </tuv>
     </tu>
     <tu>
