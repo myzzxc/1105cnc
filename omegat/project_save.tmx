@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current and potential test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183527Z" creationid="CCYU" creationdate="20150325T183339Z">
+        <seg>電化學測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut aluminium, sheet metal and stainless steel upto 12mm thick atcutting speeds over 5m/min with excellent edge quality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144522Z" creationid="ccyu" creationdate="20131105T144522Z">
@@ -5302,6 +5310,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131820Z" creationid="ccyu" creationdate="20131105T131820Z">
         <seg>更多資訊請向 AXYZ 技術銷售專員諮詢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183533Z" creationid="CCYU" creationdate="20150325T183533Z">
+        <seg>特殊條件</seg>
       </tuv>
     </tu>
     <tu>
