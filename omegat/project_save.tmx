@@ -1846,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Curing time at standard, minimum and maximum temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121837Z" creationid="CCYU" creationdate="20150325T121837Z">
+        <seg>標準、最高和最低溫度下之固化時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut aluminium, sheet metal and stainless steel upto 12mm thick atcutting speeds over 5m/min with excellent edge quality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144522Z" creationid="ccyu" creationdate="20131105T144522Z">
@@ -3673,6 +3681,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not used (test omitted)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122046Z" creationid="CCYU" creationdate="20150325T122046Z">
+        <seg>未使用（略過測試）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now in version 6.6, the people counting the filter becomes functional, with this feature you can tell people at the entrance of shopping malls, banks and so on.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T053532Z" creationid="CCYU" creationdate="20150322T053532Z">
@@ -4538,6 +4554,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resistance to alkalinity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121850Z" creationid="CCYU" creationdate="20150325T121850Z">
+        <seg>抗鹼性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resistance to sulfur8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122003Z" creationid="CCYU" creationdate="20150325T122003Z">
+        <seg>抗硫化物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082946Z" creationid="Judy" creationdate="20131112T082946Z">
@@ -4834,6 +4866,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slice tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121853Z" creationid="CCYU" creationdate="20150325T121853Z">
+        <seg>切片測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoke</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154518Z" creationid="CCYU" creationdate="20150322T154518Z">
@@ -5086,6 +5126,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z" creationid="ccyu" creationdate="20131108T160917Z">
         <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ten*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121922Z" creationid="CCYU" creationdate="20150325T121922Z">
+        <seg>十組#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension at decreased installation temperature8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121811Z" creationid="CCYU" creationdate="20150325T121811Z">
+        <seg>低溫下安裝之張力</seg>
       </tuv>
     </tu>
     <tu>
