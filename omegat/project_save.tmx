@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>"Test 2f may be omitted if Test 2g is performed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173049Z" creationid="CCYU" creationdate="20150325T173049Z">
-        <seg>**如果已執行測試2g，則可以省略測試2f。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T191137Z" creationid="CCYU" creationdate="20150325T173049Z">
+        <seg>**若已執行測試2g，則可以省略測試2f。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +58,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172157Z" creationid="CCYU" creationdate="20150325T172157Z">
         <seg>‖測試所有直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Tests are not required if corresponding test has been performed in accordance with Table 3.1, 3.2 or 3.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T191124Z" creationid="CCYU" creationdate="20150325T191124Z">
+        <seg>#若以進行符合相關測試以已執行測試2g，則可以省略測試2f。</seg>
       </tuv>
     </tu>
     <tu>
