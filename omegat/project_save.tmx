@@ -1469,6 +1469,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bar embed ment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181335Z" creationid="CCYU" creationdate="20150325T181335Z">
+        <seg>鋼筋埋設深</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bar size</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181252Z" creationid="CCYU" creationdate="20150325T181252Z">
+        <seg>鋼筋尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Becker Dry Vane Vacuum</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082223Z" creationid="MAE" creationdate="20131106T082223Z">
@@ -5236,8 +5252,8 @@
       <tuv lang="EN-US">
         <seg>Table 3.8- Test program for evaluating deformed reinforcing bars for use in post-installed reinforcing bar</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181039Z" creationid="CCYU" creationdate="20150325T181039Z">
-        <seg>表 3.8 - 評估後安裝強化鋼筋變形之測試計畫</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181233Z" creationid="CCYU" creationdate="20150325T181039Z">
+        <seg>表 3.8 - 評估用於後安裝強化鋼筋連接之後安裝強化鋼筋變形測試計畫</seg>
       </tuv>
     </tu>
     <tu>
@@ -7456,6 +7472,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131604Z" creationid="ccyu" creationdate="20131105T131604Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>connections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181240Z" creationid="CCYU" creationdate="20150325T181240Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
