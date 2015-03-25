@@ -4866,6 +4866,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sustained tension residual capacity, confined test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120930Z" creationid="CCYU" creationdate="20150325T120930Z">
+        <seg>持續受力殘餘應力、雙側錨固測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swarf extraction is highly efficient thanks tothe unique internal cyclonic design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z" creationid="MAE" creationdate="20131106T054732Z">
