@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(lb + 50 mm).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184150Z" creationid="CCYU" creationdate="20150325T184150Z">
+        <seg>（lb + 50 毫米）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* All models include A2MC controller and Artcam Express</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142138Z" creationid="ccyu" creationdate="20131107T142138Z">
@@ -7712,6 +7720,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173349Z" creationid="CCYU" creationdate="20150325T173349Z">
         <seg>§§也能以雙側錨固進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>^Tests performed in test specimens in accordance with Fig. 4.5 and having minimum length/thickness of£b + 2 in.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184138Z" creationid="CCYU" creationdate="20150325T184138Z">
+        <seg>†進行測試之樣品規範請參照圖4.5，其最小長度/厚度為 lb+ 2英吋</seg>
       </tuv>
     </tu>
     <tu>
