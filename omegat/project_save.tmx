@@ -4988,16 +4988,16 @@
       <tuv lang="EN-US">
         <seg>Sensitivity to hole cleaning, installation in water-saturated concrete</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151956Z" creationid="CCYU" creationdate="20150324T151829Z">
-        <seg>鑽孔清潔度對混凝土含水條件下安裝之敏感性</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182339Z" creationid="CCYU" creationdate="20150324T151829Z">
+        <seg>混凝土含水條件下安裝對鑽孔清潔度之敏感性</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sensitivity to hole cleaning, saturated concrete"'**</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182311Z" creationid="CCYU" creationdate="20150325T182311Z">
-        <seg>混凝土含水條件下對鑽孔清潔度之敏感性</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182543Z" creationid="CCYU" creationdate="20150325T182311Z">
+        <seg>混凝土含水條件下對鑽孔清潔度之敏感性#,**</seg>
       </tuv>
     </tu>
     <tu>
@@ -7656,6 +7656,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181629Z" creationid="CCYU" creationdate="20150325T181629Z">
         <seg>1b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ldb</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182557Z" creationid="CCYU" creationdate="20150325T182557Z">
+        <seg>7db</seg>
       </tuv>
     </tu>
     <tu>
