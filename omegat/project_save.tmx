@@ -4738,6 +4738,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensitivity to sustained load</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121420Z" creationid="CCYU" creationdate="20150325T121420Z">
+        <seg>對持續負荷之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Series</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081319Z" creationid="MAE" creationdate="20131106T081319Z">
@@ -7161,6 +7169,22 @@
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151741Z" creationid="CCYU" creationdate="20150324T151435Z">
         <seg>最小
 最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>min^f</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121433Z" creationid="CCYU" creationdate="20150325T121433Z">
+        <seg>min††</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mintT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121343Z" creationid="CCYU" creationdate="20150325T121343Z">
+        <seg>min††</seg>
       </tuv>
     </tu>
     <tu>
