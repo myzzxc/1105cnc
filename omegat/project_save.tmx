@@ -4666,6 +4666,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensitivity to freezing/thawing conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120648Z" creationid="CCYU" creationdate="20150325T120648Z">
+        <seg>對冰凍/解凍之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sensitivity to hole cleaning, diy substrate</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151852Z" creationid="CCYU" creationdate="20150324T151730Z">
