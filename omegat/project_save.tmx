@@ -1541,6 +1541,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bond resistance88</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181729Z" creationid="CCYU" creationdate="20150325T181729Z">
+        <seg>黏結強度§§</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bond/splitting behavior</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181845Z" creationid="CCYU" creationdate="20150325T181845Z">
+        <seg>黏結/分離性質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both carriages may be configured with automatic tool changer carousels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130203Z" creationid="ccyu" creationdate="20131105T130203Z">
@@ -2989,6 +3005,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143622Z" creationid="CCYU" creationdate="20150324T143159Z">
         <seg>當安裝與使用未正確遵循適用之產品、材料或施工方法之規範以滿足效能表現、或經常發生故障、或不合理之損壞時，ICC-ES保留拒絕發出或續發任何評估報告之權利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Id</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181659Z" creationid="CCYU" creationdate="20150325T181659Z">
+        <seg>1d</seg>
       </tuv>
     </tu>
     <tu>
@@ -7584,6 +7608,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181629Z" creationid="CCYU" creationdate="20150325T181629Z">
         <seg>1b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ldh</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181759Z" creationid="CCYU" creationdate="20150325T181759Z">
+        <seg>7db</seg>
       </tuv>
     </tu>
     <tu>
