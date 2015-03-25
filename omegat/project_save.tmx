@@ -4858,6 +4858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reference</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192833Z" creationid="CCYU" creationdate="20150325T192833Z">
+        <seg>參考測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference tension in high- strength concrete</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151522Z" creationid="CCYU" creationdate="20150324T151522Z">
@@ -4918,6 +4926,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050939Z" creationid="Judy" creationdate="20131113T050244Z">
         <seg>電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requirement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192849Z" creationid="CCYU" creationdate="20150325T192849Z">
+        <seg>要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -5418,6 +5434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Statistical equivalence is required for each anchor element material type.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193050Z" creationid="CCYU" creationdate="20150325T193050Z">
+        <seg>統計等效值是每個錨元素的材料類型所必需的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stopped objects:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062418Z" creationid="CCYU" creationdate="20150322T062418Z">
@@ -5562,10 +5586,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 3.6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192856Z" creationid="CCYU" creationdate="20150325T192856Z">
+        <seg>表3.6 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 3.8- Test program for evaluating deformed reinforcing bars for use in post-installed reinforcing bar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181233Z" creationid="CCYU" creationdate="20150325T181039Z">
         <seg>表 3.8 - 評估用於後安裝強化鋼筋連接之後安裝強化鋼筋變形測試計畫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 3.9 - Additional tests required for assessment of multiple anchor element material types</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192809Z" creationid="CCYU" creationdate="20150325T192809Z">
+        <seg>表3.9 - 控制扭矩黏結錨固之多錨固元件材料類型評估的額外測試要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -5734,6 +5774,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T175009Z" creationid="CCYU" creationdate="20150325T121643Z">
         <seg>拉力、雙側錨固、單側邊緣錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test No.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192835Z" creationid="CCYU" creationdate="20150325T192835Z">
+        <seg>測試編號</seg>
       </tuv>
     </tu>
     <tu>
@@ -6995,6 +7043,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Torque test to establish statistical equivalence with tested anchor element type.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193053Z" creationid="CCYU" creationdate="20150325T193030Z">
+        <seg>建立錨固元件類型統計等效值之扭矩測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Torque test**</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121538Z" creationid="CCYU" creationdate="20150325T121538Z">
@@ -7880,6 +7936,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172637Z" creationid="CCYU" creationdate="20150325T172437Z">
         <seg>或當標稱直徑大於1/2英吋時測試其最小標稱直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for torque-controlled adhesive anchors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192813Z" creationid="CCYU" creationdate="20150325T192813Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
