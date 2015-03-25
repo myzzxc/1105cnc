@@ -287,6 +287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>35 db</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182029Z" creationid="CCYU" creationdate="20150325T182029Z">
+        <seg>35db</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4004 * (1524mm x 1219mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142153Z" creationid="ccyu" creationdate="20131107T142153Z">
@@ -403,6 +411,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142551Z" creationid="ccyu" creationdate="20131107T142551Z">
         <seg>8010 * (2635mm x 3048mm) 含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&gt;0.8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182220Z" creationid="CCYU" creationdate="20150325T182220Z">
+        <seg>≥0.8</seg>
       </tuv>
     </tu>
     <tu>
@@ -4940,8 +4956,16 @@
       <tuv lang="EN-US">
         <seg>Sensitivity to hole cleaning, diy substrate</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151852Z" creationid="CCYU" creationdate="20150324T151730Z">
-        <seg>鑽孔清潔度對乾燥基材之敏感性</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182135Z" creationid="CCYU" creationdate="20150324T151730Z">
+        <seg>乾燥基材對鑽孔清潔度之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitivity to hole cleaning, dry substrate*'**</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182153Z" creationid="CCYU" creationdate="20150325T182127Z">
+        <seg>乾燥基材對鑽孔清潔度之敏感性#,**</seg>
       </tuv>
     </tu>
     <tu>
@@ -4966,6 +4990,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151956Z" creationid="CCYU" creationdate="20150324T151829Z">
         <seg>鑽孔清潔度對混凝土含水條件下安裝之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitivity to hole cleaning, saturated concrete"'**</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182311Z" creationid="CCYU" creationdate="20150325T182311Z">
+        <seg>混凝土含水條件下對鑽孔清潔度之敏感性</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,6 +5134,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072303Z" creationid="MAE" creationdate="20131106T072303Z">
         <seg>簡單氣動切換開關可打開和關閉真空抽氣區域，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Six1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182047Z" creationid="CCYU" creationdate="20150325T182047Z">
+        <seg>六組‡</seg>
       </tuv>
     </tu>
     <tu>
@@ -5438,6 +5478,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T174934Z" creationid="CCYU" creationdate="20150325T121511Z">
         <seg>拉力、雙側錨固、單側邊緣錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension, confined, reinforcing bars in corner condition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182016Z" creationid="CCYU" creationdate="20150325T182016Z">
+        <seg>拉力、雙側埋設、位於角落之強化鋼筋</seg>
       </tuv>
     </tu>
     <tu>
