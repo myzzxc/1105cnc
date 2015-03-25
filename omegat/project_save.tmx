@@ -7300,6 +7300,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>^Where MPII specifies multiple embedment depths for single anchor diameter, test anchor at minimum or maximum embedment depth as noted, whereby hefimJhefimin 2 5.0 (4.7.2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172003Z" creationid="CCYU" creationdate="20150325T172003Z">
+        <seg>†MPII 中指定單一錨固直徑之多重埋設深度，依其範圍測試錨固之最小或最大埋設深度，其中 hef,max/hef,min ≤ 5.0 (4.7.2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and quieter running.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132919Z" creationid="ccyu" creationdate="20131105T132919Z">
