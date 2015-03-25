@@ -3193,6 +3193,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If statistical equivalence cannot be shown, all tests must be repeated for that anchor element.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193300Z" creationid="CCYU" creationdate="20150325T193300Z">
+        <seg>若無法得到統計等效值，該錨固元件必須重複進行所有測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the car was then removed it would leave a hole in the learnt background:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112513Z" creationid="CCYU" creationdate="20150322T112424Z">
@@ -5436,8 +5444,8 @@
       <tuv lang="EN-US">
         <seg>Statistical equivalence is required for each anchor element material type.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193050Z" creationid="CCYU" creationdate="20150325T193050Z">
-        <seg>統計等效值是每個錨元素的材料類型所必需的。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193129Z" creationid="CCYU" creationdate="20150325T193050Z">
+        <seg>每種錨元件材料類型都必需有統計等效值，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,6 +5598,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192856Z" creationid="CCYU" creationdate="20150325T192856Z">
         <seg>表3.6 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 3.7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193307Z" creationid="CCYU" creationdate="20150325T193307Z">
+        <seg>表3.7</seg>
       </tuv>
     </tu>
     <tu>
