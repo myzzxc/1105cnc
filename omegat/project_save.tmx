@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>...the system is not updating when sales are made during the course of a day and it is also not decoding the security tags?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115635Z" creationid="CCYU" creationdate="20150406T115635Z">
+        <seg>…當日銷售貨物將未於系統上更新，也未解除防盜扣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10006 * (3270 mm x 1829 mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142624Z" creationid="ccyu" creationdate="20131107T142624Z">
@@ -3109,6 +3117,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092007Z" creationid="CCYU" creationdate="20150322T092007Z">
         <seg>運作原理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How does this affect replenishment?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115655Z" creationid="CCYU" creationdate="20150406T115655Z">
+        <seg>此問題對補貨造成的影響為何？</seg>
       </tuv>
     </tu>
     <tu>
