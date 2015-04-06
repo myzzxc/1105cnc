@@ -1877,6 +1877,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carry out an inventory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120121Z" creationid="CCYU" creationdate="20150406T120121Z">
+        <seg>進行盤點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chpt6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151108Z" creationid="CCYU" creationdate="20150324T151108Z">
@@ -3453,6 +3461,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143921Z" creationid="CCYU" creationdate="20150321T143921Z">
         <seg>這種情況下必須購買 4 套 Digifort 監控授權 + 分析軟體 + 4 組分析授權 (DGFPR1104V6 + DGFAN1000V1 + DGFAN1104V1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this way, they would be removed from the stock and also cannot be read again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120114Z" creationid="CCYU" creationdate="20150406T120114Z">
+        <seg>如此便能將遺失貨品從系統的庫存中去除，使存貨不再顯示於系統中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7223,6 +7239,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134144Z" creationid="MAE" creationdate="20131105T092949Z">
         <seg>藉由不斷進行研發，並與業界合作夥伴和供應商的密切合作，AXYZ 有能力生產為我們客戶帶來極大價值之大型機台配件組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To empty the alarms of the till drawers one by one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120102Z" creationid="CCYU" creationdate="20150406T120102Z">
+        <seg>逐一解除收銀臺警報。</seg>
       </tuv>
     </tu>
     <tu>
