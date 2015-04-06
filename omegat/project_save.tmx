@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During delivery replenishment using 25R, garments missing from the shop floor won’t be requested.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120026Z" creationid="CCYU" creationdate="20150406T120026Z">
+        <seg>使用25R進行送貨時，將不會要求補充店內遺失的服飾。送貨以及正常補貨都將受到影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EACH ADDITIONAL SERVO AXIS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141519Z" creationid="ccyu" creationdate="20131107T141519Z">
@@ -3113,10 +3121,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How could we solve this situation?如何解決此問題？</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120036Z" creationid="CCYU" creationdate="20150406T120036Z">
+        <seg>如何解決此問題？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How does it work?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092007Z" creationid="CCYU" creationdate="20150322T092007Z">
         <seg>運作原理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How does this affect customer service?對客服造成的影響？</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115939Z" creationid="CCYU" creationdate="20150406T115939Z">
+        <seg>此問題對客服造成的影響為何？</seg>
       </tuv>
     </tu>
     <tu>
@@ -3269,6 +3293,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135239Z" creationid="CCYU" creationdate="20150321T135105Z">
         <seg>如果用戶欲進行四個攝影機的分析，必須購買 4 組授權碼，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the customer asks for a specific size we will read that the units are on the shop floor but they have already been sold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115951Z" creationid="CCYU" creationdate="20150406T115951Z">
+        <seg>若顧客要求更換尺寸，系統會顯示店內仍有存貨，但實際上存貨已售出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5006,6 +5038,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150027Z" creationid="CCYU" creationdate="20150324T145705Z">
         <seg>可靠度測試用以確認外力和黏結/滑落之間的相關性，列於表 3.6 之 測試編號10a和10b中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replenishment will not be requested because according to the system the amount of units on the shop floor has not decreased.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115910Z" creationid="CCYU" creationdate="20150406T115910Z">
+        <seg>因為系統中的店內存貨量未減少，因此不會要求補貨。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6883,6 +6923,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are 2 ways of solving this situation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120049Z" creationid="CCYU" creationdate="20150406T120049Z">
+        <seg>有2種解決方案：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are many different types of Network Routers, D-link or Linksys are the ones we recommend.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092250Z" creationid="Judy" creationdate="20131113T073138Z">
@@ -7692,6 +7740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Which part of the delivery process could be affected by this?將對送貨程序的哪一部分造成影響？</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120009Z" creationid="CCYU" creationdate="20150406T120009Z">
+        <seg>此問題將對送貨程序的哪部分造成影響？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Why wouldn’t it work?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092108Z" creationid="CCYU" creationdate="20150322T092108Z">
@@ -8088,6 +8144,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184342Z" creationid="CCYU" creationdate="20150325T184342Z">
         <seg>db,max 為認證之最大尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>delivery replenishment will be affected as well as the normal replenishment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120032Z" creationid="CCYU" creationdate="20150406T120032Z">
+        <seg>送貨以及正常補貨都將受到影響。&lt;segment 0013&gt;
+</seg>
       </tuv>
     </tu>
     <tu>
