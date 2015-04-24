@@ -6266,6 +6266,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Arduino 9 Axes Motion Shield is based on the BNO055 absolute orientation sensor (datasheet) from Bosch Sensortec GmbH.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T124619Z" creationid="CCYU" creationdate="20150424T124619Z">
+        <seg>Arduino九軸運動擴充模組使用Bosch Sensortec公司之BNO055絕對定向感測器（數據資料表）為基礎架構，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Axyz installation technician will connect the system together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073755Z" creationid="Judy" creationdate="20131113T073755Z">
