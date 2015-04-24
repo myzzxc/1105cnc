@@ -2985,6 +2985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gravity vector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125827Z" creationid="CCYU" creationdate="20150424T125827Z">
+        <seg>重力向量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HELICAL RACK  [up to 3.7m long ( eg.4012)]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141701Z" creationid="ccyu" creationdate="20131107T141614Z">
@@ -3449,6 +3457,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, it incorporates an intelligent interrupt engine, which allows for triggering interrupts based on</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130010Z" creationid="CCYU" creationdate="20150424T125859Z">
+        <seg>此外，感測器也整合了智慧斷電引擎，並根據以下條件斷電</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In an analytical license are provided all the analytical set above.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135106Z" creationid="CCYU" creationdate="20150321T135020Z">
@@ -3659,7 +3675,7 @@
       <tuv lang="EN-US">
         <seg>It also provides the sensor fusion signals such as</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125822Z" creationid="CCYU" creationdate="20150424T125654Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125919Z" creationid="CCYU" creationdate="20150424T125654Z">
         <seg>它也提供以下感測器合成訊號</seg>
       </tuv>
     </tu>
@@ -8474,6 +8490,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145115Z" creationid="CCYU" creationdate="20150324T145115Z">
         <seg>地震模擬測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>slow or no motion recognition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130033Z" creationid="CCYU" creationdate="20150424T130033Z">
+        <seg>慢速或未偵測到運動</seg>
       </tuv>
     </tu>
     <tu>
