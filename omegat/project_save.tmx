@@ -263,6 +263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 TinkerKit Inputs: IN2 and IN3 (in white), these connectors are routed to the Arduino A2 and A3 analog input pins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131353Z" creationid="CCYU" creationdate="20150424T131353Z">
+        <seg>2組TinkerKit輸入：IN2和IN3（白色），這須接頭將接至Arduino類比輸入針腳A2和A3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>21 of 61</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200554Z" creationid="CCYU" creationdate="20150325T200554Z">
@@ -6895,6 +6903,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141917Z" creationid="CCYU" creationdate="20150321T141917Z">
         <seg>官方授權碼必須安裝在正式的機器上，因為一旦啟用後，便無法更換機器重新啟用。因此務必在安裝官方授權碼前先行測試機器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The on-board connectors are :</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131056Z" creationid="CCYU" creationdate="20150424T131056Z">
+        <seg>電路板上具有以下連接頭：</seg>
       </tuv>
     </tu>
     <tu>
