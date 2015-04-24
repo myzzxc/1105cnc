@@ -3337,6 +3337,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INTERRUPT PIN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133015Z" creationid="CCYU" creationdate="20150424T133015Z">
+        <seg>中斷針腳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Id</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181659Z" creationid="CCYU" creationdate="20150325T181659Z">
@@ -3531,8 +3539,8 @@
       <tuv lang="EN-US">
         <seg>In addition, it incorporates an intelligent interrupt engine, which allows for triggering interrupts based on</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130010Z" creationid="CCYU" creationdate="20150424T125859Z">
-        <seg>此外，感測器也整合了智慧斷電引擎，並根據以下條件斷電</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133051Z" creationid="CCYU" creationdate="20150424T125859Z">
+        <seg>此外，感測器也整合了智慧中斷引擎，並根據以下條件中斷</seg>
       </tuv>
     </tu>
     <tu>
@@ -5174,6 +5182,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133550Z" creationid="ccyu" creationdate="20131107T133308Z">
         <seg>再生鼓風機 8.5HP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RESET PIN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133101Z" creationid="CCYU" creationdate="20150424T133101Z">
+        <seg>重置針腳</seg>
       </tuv>
     </tu>
     <tu>
@@ -8094,8 +8110,8 @@
       <tuv lang="EN-US">
         <seg>When using the Arduino 9 Axes Motion Shield, be sure to solder the Interrupt bridge and Reset bridge in the correct position depending on the board used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132747Z" creationid="CCYU" creationdate="20150424T132747Z">
-        <seg>當使用Arduino九軸運動擴充模組時，請務必依據使用的電路板將斷電 (Interrupt) 橋接和重置 (Reset) 橋接焊接在正確的位置。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133034Z" creationid="CCYU" creationdate="20150424T132747Z">
+        <seg>當使用Arduino九軸運動擴充模組時，請務必依據使用的電路板將中斷 (Interrupt) 橋接和重置 (Reset) 橋接焊接在正確的位置。</seg>
       </tuv>
     </tu>
     <tu>
