@@ -6282,6 +6282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The BNO055 is a System in Package (SiP), integrating a triaxial 14-bit accelerometer, a triaxial 16-bit gyroscope with a range of ±2000 degrees per second, a triaxial geomagnetic sensor and a 32-bit microcontroller running the BSX3.0 FusionLib software.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125233Z" creationid="CCYU" creationdate="20150424T125233Z">
+        <seg>BNO055為系統級封裝 (SiP)，整合一組三軸14位元加速度計、一組範圍為每秒±2000度之三軸16位元陀螺儀、一組三軸地磁感測器和一組以BSX3.0 FusionLib軟體運行之32位元微控制器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Bellows Seal significantly enhances the dust extraction process byhelping  to create acyclonic vortex within the pressure foot chamber.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T055349Z" creationid="MAE" creationdate="20131106T055349Z">
