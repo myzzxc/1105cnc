@@ -6474,6 +6474,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Arduino 9 Axes Motion Shield is compatible with Uno, Yùn, Leonardo, Ethernet, Mega and Due boards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132506Z" creationid="CCYU" creationdate="20150424T132506Z">
+        <seg>Arduino九軸運動擴充模組與Uno、Yùn、Leonardo、Ethernet、Mega和Due電路板相容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Axyz installation technician will connect the system together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073755Z" creationid="Judy" creationdate="20131113T073755Z">
