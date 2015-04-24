@@ -3137,6 +3137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Holder Type Uno</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120803Z" creationid="CCYU" creationdate="20150424T120803Z">
+        <seg>Uno型電路板保護殼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How could we solve this situation?如何解決此問題？</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120036Z" creationid="CCYU" creationdate="20150406T120036Z">
@@ -3701,6 +3709,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090918Z" creationid="CCYU" creationdate="20150322T090918Z">
         <seg>請注意 Digifort 只負責軟體操作功能。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is made in such a way that it can also be used when working with breadboards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120739Z" creationid="CCYU" creationdate="20150424T120739Z">
+        <seg>其設計也能與麵包版一同使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7047,6 +7063,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120311Z" creationid="CCYU" creationdate="20150424T120311Z">
         <seg>可使用螺絲將電路板固定於保護殼的預留鎖孔上，即使移動電路板也不會分離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They can be used in different colors to tell your board from friends’ working with you, and they also help prevent table scratches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120642Z" creationid="CCYU" creationdate="20150424T120642Z">
+        <seg>同時使用多塊電路板時可以利用不同顏色的保護殼來區別電路板，保護殼也能避免電路板刮傷桌面。</seg>
       </tuv>
     </tu>
     <tu>
