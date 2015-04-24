@@ -279,6 +279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 TinkerKit TWI: these connectors (4-pin in white) are routed on the Arduino TWI interface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131749Z" creationid="CCYU" creationdate="20150424T131739Z">
+        <seg>2組TinkerKit TWI：此類接口（白色4-針腳）會導向Arduino TWI介面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>21 of 61</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200554Z" creationid="CCYU" creationdate="20150325T200554Z">
@@ -1713,6 +1721,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130203Z" creationid="ccyu" creationdate="20131105T130203Z">
         <seg>兩組刀皆可與自動換刀轉盤配合使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both connect to the same TWI interface to allow you to create a chain of TWI devices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131906Z" creationid="CCYU" creationdate="20150424T131906Z">
+        <seg>兩組接口都連接至同一TWI介面以便玩家建立TWI裝置鏈。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4773,6 +4789,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083811Z" creationid="ccyu" creationdate="20131109T083811Z">
         <seg>電話： +44 190 237 6382 傳真： +44 190 237 5662</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical Characteristics</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131911Z" creationid="CCYU" creationdate="20150424T131911Z">
+        <seg>物理特性</seg>
       </tuv>
     </tu>
     <tu>
