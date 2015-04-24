@@ -1589,6 +1589,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BOARD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132821Z" creationid="CCYU" creationdate="20150424T132821Z">
+        <seg>電路板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BRUSH RING ATTACHMENT FOR HIGH CAPACITY PRESSURE FOOT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132322Z" creationid="ccyu" creationdate="20131107T132322Z">
@@ -5514,6 +5522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See table:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132801Z" creationid="CCYU" creationdate="20150424T132801Z">
+        <seg>請參閱下表：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the ICC-ES web site for more information on compliance dates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T135631Z" creationid="CCYU" creationdate="20150324T135631Z">
@@ -8072,6 +8088,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083959Z" creationid="CCYU" creationdate="20150322T083959Z">
         <seg>當車輛通過攝影機時，Digifort LPR 會拍攝車牌並存入影像資料庫中，紀錄日期、時間和攝影機資訊，以便更有效地進行分析和交通管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using the Arduino 9 Axes Motion Shield, be sure to solder the Interrupt bridge and Reset bridge in the correct position depending on the board used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132747Z" creationid="CCYU" creationdate="20150424T132747Z">
+        <seg>當使用Arduino九軸運動擴充模組時，請務必依據使用的電路板將斷電 (Interrupt) 橋接和重置 (Reset) 橋接焊接在正確的位置。</seg>
       </tuv>
     </tu>
     <tu>
