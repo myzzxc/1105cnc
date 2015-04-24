@@ -1365,6 +1365,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arduino 9 Axes Motion Shield</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T124055Z" creationid="CCYU" creationdate="20150424T124055Z">
+        <seg>Arduino 9 Axes Motion Shield 九軸運動擴充模組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As above with Vacuum Bed, 11.5hp blower and silencer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144252Z" creationid="ccyu" creationdate="20131107T144252Z">
