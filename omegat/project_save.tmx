@@ -2022,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connecting TinkerKit modules can simplify the creation of a project or a prototype.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131027Z" creationid="CCYU" creationdate="20150424T131027Z">
+        <seg>連接TinkerKit模組能簡化專案或原型的建立過程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting the Ethernet cables correctly is very important to establish communication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092527Z" creationid="Judy" creationdate="20131113T073914Z">
@@ -3589,6 +3597,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050213Z" creationid="Judy" creationdate="20131113T050209Z">
         <seg>輸入電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input and Output</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130756Z" creationid="CCYU" creationdate="20150424T130756Z">
+        <seg>輸入和輸出</seg>
       </tuv>
     </tu>
     <tu>
@@ -6999,6 +7015,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125518Z" creationid="CCYU" creationdate="20150424T125518Z">
         <seg>此感測器能測量三維加速度、橫擺速率和3個垂直軸之個別磁場強度數據。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shield features several TinkerKit input/output and communication interfaces.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130908Z" creationid="CCYU" creationdate="20150424T130908Z">
+        <seg>擴充模組具有多組TinkerKit輸入/輸出和通訊介面，</seg>
       </tuv>
     </tu>
     <tu>
