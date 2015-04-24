@@ -3585,6 +3585,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Arduino IDE you will find the following examples, go to File -&gt; Examples of Arduino IDE, under NAxesMotion, there are 4 sketches for the use of 9 Axes Motion Shield:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133857Z" creationid="CCYU" creationdate="20150424T133857Z">
+        <seg>於Arduino IDE中提供了以下範例，請選擇NAxesMotion中的File -&gt; Examples of Arduino IDE，共有4種九軸運動擴充模組範例圖：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the digital world pixels are always a number between 0 and 255.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103312Z" creationid="CCYU" creationdate="20150322T103312Z">
