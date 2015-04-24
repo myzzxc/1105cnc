@@ -3673,6 +3673,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It fits every UNO sized boards, and you can choose among a number of nice colors, as they’re all of the same size and they can all be used on the same type of boards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120323Z" creationid="CCYU" creationdate="20150424T120003Z">
+        <seg>保護殼適用於各種尺寸的UNO電路板，有多種絢麗的色彩供君挑選，全部適用於同一類型的電路板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has been specifically engineered to accept 50mm or100mm diameter hose and allows formanual adjustment ofthe ride height forfaster material and tool setup often demanded intodays busy workplace.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054506Z" creationid="MAE" creationdate="20131106T054506Z">
@@ -7031,6 +7039,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155035Z" creationid="CCYU" creationdate="20150322T155035Z">
         <seg>這些煙霧的特性可以用於偵測歸類為煙霧的像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They can be screwed to the board, as they have ad-hoc holes, so that they don’t detach when the board is moved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120311Z" creationid="CCYU" creationdate="20150424T120311Z">
+        <seg>可使用螺絲將電路板固定於保護殼的預留鎖孔上，即使移動電路板也不會分離。</seg>
       </tuv>
     </tu>
     <tu>
