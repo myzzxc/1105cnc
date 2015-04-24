@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132332Z" creationid="CCYU" creationdate="20150424T132332Z">
+        <seg>相容性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Component</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080009Z" creationid="Judy" creationdate="20131113T080009Z">
@@ -2981,6 +2989,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T142036Z" creationid="CCYU" creationdate="20150321T142036Z">
         <seg>欲使用 Digifort 分析，客戶必須先安裝 Digifort 監控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Four screw holes allow the board to be attached to a surface or case.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132140Z" creationid="CCYU" creationdate="20150424T132140Z">
+        <seg>電路板上具有四個螺絲孔以便安裝於平面上或機箱內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4317,6 +4333,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122046Z" creationid="CCYU" creationdate="20150325T122046Z">
         <seg>未使用（略過測試）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that the distance between digital pins 7 and 8 is 160 mil (0.16"), not an even multiple of the 100 mil spacing of the other pins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132330Z" creationid="CCYU" creationdate="20150424T132330Z">
+        <seg>請注意數位針腳7和8之間的距離為160 mil（0.16英吋），與其它針腳的100 mil間距不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6887,6 +6911,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z" creationid="MAE" creationdate="20131105T092952Z">
         <seg>機台配件可分為五個部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum length and width of the 9 Axes Motion Shield PCB are 2.7 and 2.1 inches respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132028Z" creationid="CCYU" creationdate="20150424T132028Z">
+        <seg>九軸運動擴充模組電路板的最大長度和寬度分別為2.7和2.1英吋。</seg>
       </tuv>
     </tu>
     <tu>
