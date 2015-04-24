@@ -2358,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EAGLE files: arduino_9AxesShield-reference-design.zip</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130547Z" creationid="CCYU" creationdate="20150424T130547Z">
+        <seg>EAGLE 檔案：arduino_9AxesShield-reference-design.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXAMPLE 1: The customer does not want to put Digifort 16 licenses and analytical, so he gets the Base version and a Professional Pack of 8 additional licenses Professional (DGFPR1008V6 DGFPR1108V6 +), moreover it must acquire a license basis Analytical and a pack of 16 permits analytical (DGFAN1000V1 + DGFAN1116V1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T144228Z" creationid="CCYU" creationdate="20150321T143001Z">
@@ -4369,6 +4377,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operating Voltage          5V</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130452Z" creationid="CCYU" creationdate="20150424T130452Z">
+        <seg>操作電壓 5V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Option</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091705Z" creationid="Judy" creationdate="20131112T091705Z">
@@ -4906,6 +4922,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130609Z" creationid="CCYU" creationdate="20150424T130609Z">
+        <seg>電源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power Consumption      50mW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130505Z" creationid="CCYU" creationdate="20150424T130505Z">
+        <seg>消耗功率 50mW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pre Installation Form</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075400Z" creationid="Judy" creationdate="20131113T075400Z">
@@ -5370,6 +5402,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Schematic &amp; Reference Design</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130531Z" creationid="CCYU" creationdate="20150424T130531Z">
+        <seg>電路圖和參考設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schematic: arduino_9AxesShield-schematic.pdf</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130600Z" creationid="CCYU" creationdate="20150424T130600Z">
+        <seg>電路圖：arduino_9AxesShield-schematic.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Secondary Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050449Z" creationid="MAE" creationdate="20131106T050449Z">
@@ -5726,6 +5774,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062418Z" creationid="CCYU" creationdate="20150322T062418Z">
         <seg>物體停止：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130448Z" creationid="CCYU" creationdate="20150424T130448Z">
+        <seg>簡介</seg>
       </tuv>
     </tu>
     <tu>
@@ -6318,6 +6374,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141625Z" creationid="CCYU" creationdate="20150321T141625Z">
         <seg>分析軟體授權碼由國外寄送，交貨時間約 5-10 天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Arduino 9 Axes Motion Shield has no power jack and is powered only when attached to an Arduino board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130746Z" creationid="CCYU" creationdate="20150424T130746Z">
+        <seg>Arduino九軸運動擴充模組無電源插座，僅能插入至Arduino電路板使用。</seg>
       </tuv>
     </tu>
     <tu>
