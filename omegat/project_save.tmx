@@ -1669,6 +1669,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BareMinimum</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134320Z" creationid="CCYU" creationdate="20150424T134320Z">
+        <seg>最低限度 (BareMinimum)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Becker Dry Vane Vacuum</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082223Z" creationid="MAE" creationdate="20131106T082223Z">
@@ -2566,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Euler</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134337Z" creationid="CCYU" creationdate="20150424T134337Z">
+        <seg>尤拉 (Euler)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Euler angles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125726Z" creationid="CCYU" creationdate="20150424T125726Z">
@@ -2590,10 +2606,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example code to describe the Bare Minimum</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134313Z" creationid="CCYU" creationdate="20150424T134313Z">
+        <seg>說明最低限度之範例程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example code to stream Accelerometer data</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134127Z" creationid="CCYU" creationdate="20150424T134101Z">
-        <seg>加速度器數據串流範例程式</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134327Z" creationid="CCYU" creationdate="20150424T134101Z">
+        <seg>加速度器數據串流之範例程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example code to stream Euler data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134353Z" creationid="CCYU" creationdate="20150424T134353Z">
+        <seg>尤拉數據串流之範例程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -4293,6 +4325,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134257Z" creationid="MAE" creationdate="20131105T093001Z">
         <seg>以上配件多數為 AXYZ 系列機台獨有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Motion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134357Z" creationid="CCYU" creationdate="20150424T134357Z">
+        <seg>運動</seg>
       </tuv>
     </tu>
     <tu>
