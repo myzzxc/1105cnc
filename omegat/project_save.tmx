@@ -2582,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133600Z" creationid="CCYU" creationdate="20150424T133600Z">
+        <seg>範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export Sales Albrighton Business Park Newport Road, Albrighton Wolverhampton, England WV7 3ET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083803Z" creationid="ccyu" creationdate="20131109T083803Z">
@@ -2869,6 +2877,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053401Z" creationid="MAE" creationdate="20131106T052401Z">
         <seg>當切削非鐵金屬如鋁、黃銅以及銅，Unist 切削液噴嘴操作比起其他噴嘴系統更精準且更可靠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example to use 9 Axes Motion Shield with ArduinoUNO solder the Interrupt bridge on the pin D2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133423Z" creationid="CCYU" creationdate="20150424T133423Z">
+        <seg>例如與ArduinoUNO同時使用Arduino九軸運動擴充模組時，將中斷橋接至針腳D2。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,6 +5118,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080100Z" creationid="Judy" creationdate="20131113T080100Z">
         <seg>處理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Programming</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133444Z" creationid="CCYU" creationdate="20150424T133444Z">
+        <seg>編寫程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -7383,6 +7407,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T142703Z" creationid="CCYU" creationdate="20150322T142703Z">
         <seg>此時就能精確地計算到兩個人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The 9 Axes Motion Shield can be programmed with the Arduino software (download).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133557Z" creationid="CCYU" creationdate="20150424T133557Z">
+        <seg>Arduino九軸運動擴充模組能以Arduino軟體（下載）編寫程式。</seg>
       </tuv>
     </tu>
     <tu>
