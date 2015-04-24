@@ -2494,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Euler angles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125726Z" creationid="CCYU" creationdate="20150424T125726Z">
+        <seg>尤拉角</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evaluation reports issued by ICC Evaluation Service, LLC (ICC-ES), are based upon performance features of the International family of codes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T130440Z" creationid="CCYU" creationdate="20150324T130321Z">
@@ -3649,6 +3657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also provides the sensor fusion signals such as</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125822Z" creationid="CCYU" creationdate="20150424T125654Z">
+        <seg>它也提供以下感測器合成訊號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can also be used forcutting vinyl on large format flex faced signs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T032827Z" creationid="MAE" creationdate="20131106T032827Z">
@@ -3893,6 +3909,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135856Z" creationid="CCYU" creationdate="20150321T135856Z">
         <seg>用和可使用如同單套授權之各種分析功能，也可以選擇在指定的攝影機上進行所需的分析，同時也能在單一攝影機上進行多種分析，但臉部辨識、剩餘物品和遺失物的辨識必須使用其它單獨的設置來進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linear acceleration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125741Z" creationid="CCYU" creationdate="20150424T125741Z">
+        <seg>線性加速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -4954,6 +4978,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quaternion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125715Z" creationid="CCYU" creationdate="20150424T125715Z">
+        <seg>四元數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick Release Spindles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134437Z" creationid="ccyu" creationdate="20131105T134437Z">
@@ -5198,6 +5230,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082946Z" creationid="Judy" creationdate="20131112T082946Z">
         <seg>右方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotation vector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125732Z" creationid="CCYU" creationdate="20150424T125732Z">
+        <seg>旋轉向量</seg>
       </tuv>
     </tu>
     <tu>
@@ -6871,6 +6911,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T161531Z" creationid="ccyu" creationdate="20131108T161220Z">
         <seg>彎刀為堅固耐用之多功能刀具，非常適用於切割厚度 1-2mm 以下之硬質材料如層板、合成樹脂、Sintra 板以及類似材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sensor features three-dimensional acceleration, yaw rate and magnetic field strength data each in 3 perpendicular axes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125518Z" creationid="CCYU" creationdate="20150424T125518Z">
+        <seg>此感測器能測量三維加速度、橫擺速率和3個垂直軸之個別磁場強度數據。</seg>
       </tuv>
     </tu>
     <tu>
