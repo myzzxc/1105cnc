@@ -6939,6 +6939,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The shield is TinkerKit compatible, which means you can quickly create projects by plugging TinkerKit modules to the board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130422Z" creationid="CCYU" creationdate="20150424T130422Z">
+        <seg>此擴充模組與TinkerKit相容，玩家能插入TinkerKit模組至電路板，快速的建立專案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sizes will depend on the attachment you have ordered as follows:-</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091927Z" creationid="Judy" creationdate="20131113T065913Z">
@@ -8260,6 +8268,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>any motion (slope) detection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130148Z" creationid="CCYU" creationdate="20150424T130148Z">
+        <seg>偵測到任何運動（傾斜）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>areq</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120305Z" creationid="CCYU" creationdate="20150325T120305Z">
@@ -8353,6 +8369,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151530Z" creationid="CCYU" creationdate="20150324T151530Z">
         <seg>高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>high-g-detection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130213Z" creationid="CCYU" creationdate="20150424T130213Z">
+        <seg>偵測到高g力。</seg>
       </tuv>
     </tu>
     <tu>
