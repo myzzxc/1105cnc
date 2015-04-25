@@ -5515,6 +5515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Powering an Arduino and the GSM shield from a USB connection is not recommended, as USB cannot provide the required current when the modem is in heavy use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T140032Z" creationid="CCYU" creationdate="20150425T140032Z">
+        <seg>不建議以USB連接供應Arduino和GSM擴充模組板電源，因為當數據機流量大時，USB無法提供足夠功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pre Installation Form</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075400Z" creationid="Judy" creationdate="20131113T075400Z">
