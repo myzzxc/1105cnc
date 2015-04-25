@@ -641,8 +641,16 @@
       <tuv lang="EN-US">
         <seg>A000024 (without PoE)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133653Z" creationid="Judy" creationdate="20150425T133653Z">
-        <seg>A000024 （無PoE）</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133701Z" creationid="Judy" creationdate="20150425T133653Z">
+        <seg>A000024（無PoE）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A000025 (with PoE)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133658Z" creationid="Judy" creationdate="20150425T133658Z">
+        <seg>A000025（有PoE）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1441,6 +1449,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T124055Z" creationid="CCYU" creationdate="20150424T124055Z">
         <seg>Arduino 9 Axes Motion Shield 九軸運動擴充模組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arduino Ethernet Shield</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133706Z" creationid="Judy" creationdate="20150425T133706Z">
+        <seg>Arduino乙太網路擴充模組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arduino Ethernet Shield 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133711Z" creationid="Judy" creationdate="20150425T133711Z">
+        <seg>第二代Arduino乙太網路擴充模組</seg>
       </tuv>
     </tu>
     <tu>
@@ -5479,6 +5503,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T060153Z" creationid="MAE" creationdate="20131106T060153Z">
         <seg>壓力腳配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous Versions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133703Z" creationid="Judy" creationdate="20150425T133703Z">
+        <seg>先前版本</seg>
       </tuv>
     </tu>
     <tu>
