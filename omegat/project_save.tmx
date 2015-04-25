@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conformity Declaration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134914Z" creationid="CCYU" creationdate="20150424T134914Z">
+        <seg>符合性聲明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting TinkerKit modules can simplify the creation of a project or a prototype.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131027Z" creationid="CCYU" creationdate="20150424T131027Z">
