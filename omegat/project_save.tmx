@@ -2134,6 +2134,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection speed: 10/100Mb</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013759Z" creationid="CCYU" creationdate="20150425T013759Z">
+        <seg>連線速度：10/100 Mb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection with Arduino on SPI port</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013830Z" creationid="CCYU" creationdate="20150425T013830Z">
+        <seg>以SPI連接埠與Arduino連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contact AXYZ today for more information and  a machine quotation based on your speciÀ c needs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083953Z" creationid="ccyu" creationdate="20131109T083953Z">
@@ -2446,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EAGLE files: arduino-Ethernet-Shield2-V2-reference-design.zip</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013843Z" creationid="CCYU" creationdate="20150425T013843Z">
+        <seg>EAGLE檔案：arduino-Ethernet-Shield2-V2-reference-design.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EAGLE files: arduino_9AxesShield-reference-design.zip</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130547Z" creationid="CCYU" creationdate="20150424T130547Z">
@@ -2586,6 +2610,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145107Z" creationid="ccyu" creationdate="20131105T145107Z">
         <seg>雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ethernet Controller: W5500 with internal 32K buffer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013750Z" creationid="CCYU" creationdate="20150425T013750Z">
+        <seg>乙太網路控制器：W5500包含32K內部緩衝區</seg>
       </tuv>
     </tu>
     <tu>
@@ -4017,6 +4049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Join us now, Arduino is you!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013612Z" creationid="CCYU" creationdate="20150425T013612Z">
+        <seg>此刻就加入我們吧，Arduino就是你們！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just plug this module onto your Arduino Board, connect it to your network with an RJ45 cable (not included) and follow a few simple steps to start controlling your world through the internet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T011857Z" creationid="CCYU" creationdate="20150425T011354Z">
@@ -4589,6 +4629,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130452Z" creationid="CCYU" creationdate="20150424T130452Z">
         <seg>操作電壓 5V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operating voltage 5V (supplied from the Arduino Board)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013716Z" creationid="CCYU" creationdate="20150425T013716Z">
+        <seg>操作電壓 5V（由Arduino電路板供電）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5454,6 +5502,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080304Z" creationid="Judy" creationdate="20131113T080304Z">
         <seg>需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requires an Arduino Board (not included)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013650Z" creationid="CCYU" creationdate="20150425T013650Z">
+        <seg>需與Arduino電路板（未包含）搭配使用</seg>
       </tuv>
     </tu>
     <tu>
