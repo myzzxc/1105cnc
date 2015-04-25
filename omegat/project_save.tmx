@@ -4804,8 +4804,8 @@
       <tuv lang="EN-US">
         <seg>ON: indicates that the Board and Shield are powered</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133435Z" creationid="Judy" creationdate="20150425T133435Z">
-        <seg>ON：電路板和模組版已啟動。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141005Z" creationid="Judy" creationdate="20150425T133435Z">
+        <seg>ON：電路板和模組板已通電。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4870,6 +4870,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075535Z" creationid="Judy" creationdate="20131113T075215Z">
         <seg>下頁為回傳問卷，將幫助我們提供您更好的服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: shows that the Shield is getting power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T140955Z" creationid="CCYU" creationdate="20150425T140955Z">
+        <seg>ON：模組板已通電。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6435,6 +6443,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Status: switches on when the modem is powered and data is being transferred to/from the GSM/GPRS network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141052Z" creationid="CCYU" creationdate="20150425T141052Z">
+        <seg>狀態：當數據機通電且從GSM/GPRS網路傳輸資料時亮起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stopped objects:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062418Z" creationid="CCYU" creationdate="20150322T062418Z">
@@ -7888,6 +7904,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125518Z" creationid="CCYU" creationdate="20150424T125518Z">
         <seg>此感測器能測量三維加速度、橫擺速率和3個垂直軸之個別磁場強度數據。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shield contains a number of status LEDs:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T140916Z" creationid="CCYU" creationdate="20150425T140916Z">
+        <seg>擴充模組板含有多組LED指示燈：</seg>
       </tuv>
     </tu>
     <tu>
