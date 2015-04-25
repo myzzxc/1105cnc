@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1421,6 +1421,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arduino GSM Shield 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133206Z" creationid="Judy" creationdate="20150425T133206Z">
+        <seg>第二代Arduino GSM擴充模組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As above with Vacuum Bed, 11.5hp blower and silencer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144252Z" creationid="ccyu" creationdate="20131107T144252Z">
@@ -1440,6 +1448,14 @@
         <seg>As always with Arduino, every element of the platform – hardware, software and documentation – is  freely available and open-source.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T012203Z" creationid="CCYU" creationdate="20150425T012203Z">
+        <seg>一如Arduino的初衷，其平台上所有元件，包含硬體、軟體和說明文件皆為免費開源形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As always with Arduino, every element of the platform – hardware, software and documentation – is freely available and open-source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133225Z" creationid="Judy" creationdate="20150425T133225Z">
         <seg>一如Arduino的初衷，其平台上所有元件，包含硬體、軟體和說明文件皆為免費開源形式。</seg>
       </tuv>
     </tu>
@@ -2442,6 +2458,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081507Z" creationid="Judy" creationdate="20131113T081441Z">
         <seg>充足的壓縮空氣供機台使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download: PDF of GSM shield schematic, Reference design</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133214Z" creationid="Judy" creationdate="20150425T133214Z">
+        <seg>下載：GSM擴充模組電路圖和參考設計之PDF檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -3481,6 +3505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hundreds of thousands of Arduino boards are already fueling people’s creativity all over the world, everyday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133229Z" creationid="Judy" creationdate="20150425T133229Z">
+        <seg>現今世界上，Arduino電路板每天都協助玩家們創造出成千上萬的新應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ICC EVALUATION SERVICE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123420Z" creationid="CCYU" creationdate="20150324T123200Z">
@@ -4141,6 +4173,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T011857Z" creationid="CCYU" creationdate="20150425T011354Z">
         <seg>只要將模組板插入至Arduino電路板上，以RJ45網路線（未包含）連接到您的網路，並經過幾道簡單的設定步驟，就能使用網路來進行控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just plug this module onto your Arduino board, plug in a SIM card from an operator offering GPRS coverage and follow a few simple instructions to start controlling your world through the internet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133222Z" creationid="Judy" creationdate="20150425T133222Z">
+        <seg>只要將模組板插入至Arduino電路板上，插入GPRS電信商之SIM卡，並經過幾道簡單的設定步驟，就能使用網路來進行控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5618,6 +5658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Requires an Arduino board (not included)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133230Z" creationid="Judy" creationdate="20150425T133230Z">
+        <seg>需與Arduino電路板（未包含）搭配使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Research and Reporting:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071501Z" creationid="CCYU" creationdate="20150322T071501Z">
@@ -6826,6 +6874,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Arduino GSM Shield connects your Arduino to the internet using the GPRS wireless network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133220Z" creationid="Judy" creationdate="20150425T133220Z">
+        <seg>Arduino GSM擴充模組利用GPRS無線網路使Arduino連接至網際網路，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Axyz installation technician will connect the system together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073755Z" creationid="Judy" creationdate="20131113T073755Z">
@@ -6870,6 +6926,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T021546Z" creationid="CCYU" creationdate="20150425T021453Z">
         <seg>第二代Arduino乙太網路擴充模組具有標準RJ-45連接，包含整合電路變壓器並能以乙太網路供電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GSM library is included with Arduino IDE 1.0.4 and later.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133217Z" creationid="Judy" creationdate="20150425T133217Z">
+        <seg>Arduino IDE 1.0.4以及更新版本包含GSM資料庫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7923,6 +7987,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means you can learn exactly how it's made and use its design as the starting point for your own circuits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133227Z" creationid="Judy" creationdate="20150425T133227Z">
+        <seg>如此一來，玩家們可以完整學習其設計原理並利用Arduino來開始設計您自己的電路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This method provides forstraight cut corners atany angle aswell astrue radii when called for.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153651Z" creationid="ccyu" creationdate="20131105T153651Z">
@@ -8612,6 +8684,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With antenna connector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133209Z" creationid="Judy" creationdate="20150425T133209Z">
+        <seg>包含天線連接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With asimple yetpowerful pneumatic quick release feature, these spindles can be operated manually orinconjunction with ourATC automatic tool changer carousel forautomatic changing oftool bits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134914Z" creationid="ccyu" creationdate="20131105T134812Z">
@@ -8632,6 +8712,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T154855Z" creationid="ccyu" creationdate="20131105T145946Z">
         <seg>其包含四個安裝螺栓和快速電源插頭，非常容易從路達桌上裝卸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With integrated antenna</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133207Z" creationid="Judy" creationdate="20150425T133207Z">
+        <seg>包含整合式天線</seg>
       </tuv>
     </tu>
     <tu>
@@ -8788,6 +8876,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also make/receive voice calls (you will need an external speaker and microphone circuit) and send/receive SMS messages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133224Z" creationid="Judy" creationdate="20150425T133224Z">
+        <seg>您也可以撥打/接聽電話（需要外接喇叭和麥克風）以及傳送/接收簡訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can generate reports and statistical graphs of all events generated in the system as counting objects, abandoned objects, face detection, etc...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052440Z" creationid="CCYU" creationdate="20150322T052416Z">
@@ -8896,6 +8992,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172003Z" creationid="CCYU" creationdate="20150325T172003Z">
         <seg>†MPII 中指定單一錨固直徑之多重埋設深度，依其範圍測試錨固之最小或最大埋設深度，其中 hef,max/hef,min ≤ 5.0 (4.7.2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`Schematic &amp; Reference Design</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133211Z" creationid="Judy" creationdate="20150425T133211Z">
+        <seg>電路圖和參考設計</seg>
       </tuv>
     </tu>
     <tu>
