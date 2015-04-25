@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013903Z" creationid="CCYU" creationdate="20150425T013903Z">
+        <seg>說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digifort Analytic modules possess powerful video analysis that used together will allow the monitoring is more efficient and intelligent, helping operators to achieve a higher rate of accidents in the capture and detecting events.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T051637Z" creationid="CCYU" creationdate="20150322T051637Z">
@@ -3965,6 +3973,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050419Z" creationid="MAE" creationdate="20131106T050419Z">
         <seg>特別用於無原始圖檔時，轉換現有模板或裝置為自動切割檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is based on the Wiznet W5500 Ethernet chip (datasheet).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T014102Z" creationid="CCYU" creationdate="20150425T014102Z">
+        <seg>其使用Wiznet W5500乙太網路晶片（數據資料表）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5698,6 +5714,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Schematic:     arduino-Ethernet-Shield2-V2-reference-design.pdf</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013900Z" creationid="CCYU" creationdate="20150425T013900Z">
+        <seg>電路圖：arduino-Ethernet-Shield2-V2-reference-design.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Schematic: arduino_9AxesShield-schematic.pdf</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130600Z" creationid="CCYU" creationdate="20150424T130600Z">
@@ -6694,6 +6718,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132506Z" creationid="CCYU" creationdate="20150424T132506Z">
         <seg>Arduino九軸運動擴充模組與Uno、Yùn、Leonardo、Ethernet、Mega和Due電路板相容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Arduino Ethernet Shield 2 allows an Arduino Board to connect to the internet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T014023Z" creationid="CCYU" creationdate="20150425T014023Z">
+        <seg>第二代Arduino乙太網路擴充模組能讓Arduino電路板連接至網路，</seg>
       </tuv>
     </tu>
     <tu>
