@@ -3289,6 +3289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GPRS maximum data downlink and uplink transfer speed is 85.6 kbps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135206Z" creationid="CCYU" creationdate="20150425T135206Z">
+        <seg>GPRS最大資料下行和上行傳送速率為85.6 kbps。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Getting test footage for the fire and detection algorithm is difficult as objects have to be set on fire!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155433Z" creationid="CCYU" creationdate="20150322T155433Z">
@@ -4222,6 +4230,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130318Z" creationid="ccyu" creationdate="20131108T130318Z">
         <seg>其提供了圖形化預覽和目前運行中作業之狀態，並允許程式進料和行進中更改速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports TCP/UDP and HTTP protocols through a GPRS connection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135143Z" creationid="CCYU" creationdate="20150425T135143Z">
+        <seg>其支援經由GPRS連線之TCP/UDP和HTTP通訊協定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7636,6 +7652,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most recent revision of the board uses the 1.0 pinout on rev 3 of the Arduino Uno board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135455Z" creationid="CCYU" creationdate="20150425T135455Z">
+        <seg>最新版擴充電路板使用Arduino UNO電路板(rev 3)之1.0針腳排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The multipurpose bed system is also fully functional as a t-slot clamping and fixturing bed for non-vacuum hold down situations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T125248Z" creationid="ccyu" creationdate="20131108T125248Z">
@@ -8384,6 +8408,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160010Z" creationid="ccyu" creationdate="20131105T125724Z">
         <seg>可安裝多重刀架於支架上同時進行多份相同工作以增加效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To interface with the cellular network, the board requires a SIM card provided by a network operator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135409Z" creationid="CCYU" creationdate="20150425T135409Z">
+        <seg>若要藉由行動網路連接，電路板需要安裝一張由網路營運商提供之SIM卡。</seg>
       </tuv>
     </tu>
     <tu>
