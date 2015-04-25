@@ -3401,6 +3401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hundreds of thousands of Arduino Boards are already fueling people’s creativity all over the world, everyday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013527Z" creationid="CCYU" creationdate="20150425T013527Z">
+        <seg>現今世界上，Arduino電路板每天都協助玩家們創造出成千上萬的新應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ICC EVALUATION SERVICE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123420Z" creationid="CCYU" creationdate="20150324T123200Z">
