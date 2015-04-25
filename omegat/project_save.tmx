@@ -263,6 +263,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>12V Output</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023142Z" creationid="CCYU" creationdate="20150425T023142Z">
+        <seg>12V輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1500V isolation (input to output)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023508Z" creationid="CCYU" creationdate="20150425T023508Z">
+        <seg>1500V 絕緣（輸入至輸出）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 TinkerKit Inputs: IN2 and IN3 (in white), these connectors are routed to the Arduino A2 and A3 analog input pins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131548Z" creationid="CCYU" creationdate="20150424T131353Z">
@@ -3337,6 +3353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High efficiency DC/DC converter: typ 85% @ 80% load</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023443Z" creationid="CCYU" creationdate="20150425T023443Z">
+        <seg>高效率DC/DC轉換器：於80%負載時，一般為 85% </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High installation tension (torque or unconfined tension), two anchors near an edge**</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T175027Z" creationid="CCYU" creationdate="20150325T122252Z">
@@ -3469,6 +3493,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143622Z" creationid="CCYU" creationdate="20150324T143159Z">
         <seg>當安裝與使用未正確遵循適用之產品、材料或施工方法之規範以滿足效能表現、或經常發生故障、或不合理之損壞時，ICC-ES保留拒絕發出或續發任何評估報告之權利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEEE802.3af compliant</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023045Z" creationid="CCYU" creationdate="20150425T023045Z">
+        <seg>相容 IEEE802.3af </seg>
       </tuv>
     </tu>
     <tu>
@@ -3813,6 +3845,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130756Z" creationid="CCYU" creationdate="20150424T130756Z">
         <seg>輸入和輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input voltage range 36V to 57V</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023109Z" creationid="CCYU" creationdate="20150425T023109Z">
+        <seg>輸入電壓範圍36V至57V</seg>
       </tuv>
     </tu>
     <tu>
@@ -4761,6 +4801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overload and short-circuit protection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023129Z" creationid="CCYU" creationdate="20150425T023129Z">
+        <seg>過載和短路保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overview</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T113948Z" creationid="CCYU" creationdate="20150424T113948Z">
@@ -5190,6 +5238,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151120Z" creationid="ccyu" creationdate="20131105T151120Z">
         <seg>氣動/電鑽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PoE module features as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023011Z" creationid="CCYU" creationdate="20150425T023011Z">
+        <seg>PoE 模組特性如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6882,6 +6938,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shield does not come with a built in PoE module, it is a separate component that must be added on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023706Z" creationid="CCYU" creationdate="20150425T023706Z">
+        <seg>標準擴充板不包含內建PoE模組，必須另外擴充。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Tangential Knife adds the robustness needed for heavier knife cutting applications than the vinyl knife can accommodate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143046Z" creationid="ccyu" creationdate="20131108T143015Z">
@@ -7095,6 +7159,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T134848Z" creationid="CCYU" creationdate="20150324T134848Z">
         <seg>本標準經過透明的程序而制定，包括舉行 ICC-ES 評估委員之公聽會，並匯集網路上之意見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current Shield has a Power over Ethernet (PoE) module designed to extract power from a conventional twisted pair Category 5 Ethernet cable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022927Z" creationid="CCYU" creationdate="20150425T022833Z">
+        <seg>此版本之擴充板具有乙太網路供電 (PoE) 模組，能由傳統5類雙絞乙太網路線供電。</seg>
       </tuv>
     </tu>
     <tu>
