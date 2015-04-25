@@ -4162,6 +4162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also possible to make voice calls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141540Z" creationid="CCYU" creationdate="20150425T141540Z">
+        <seg>也可進行語音通話，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is based on the Wiznet W5500 Ethernet chip (datasheet).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T014102Z" creationid="CCYU" creationdate="20150425T014102Z">
@@ -7926,8 +7934,8 @@
       <tuv lang="EN-US">
         <seg>The shield comes with a on-board audio jack as well,  and it can be used for both microphone and line inputs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141403Z" creationid="CCYU" creationdate="20150425T141403Z">
-        <seg>擴充模組板上包含一組音訊插孔，可用於麥克風和線路輸入，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141508Z" creationid="CCYU" creationdate="20150425T141403Z">
+        <seg>擴充模組板上包含一組音訊插孔，可插入麥克風和線路輸入，</seg>
       </tuv>
     </tu>
     <tu>
@@ -8120,6 +8128,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124325Z" creationid="CCYU" creationdate="20150322T124325Z">
         <seg>然而還有更多的問題！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two small buttons on the shield.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141652Z" creationid="CCYU" creationdate="20150425T141652Z">
+        <seg>擴充模組板上有兩個小按鈕，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9321,6 +9337,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T072446Z" creationid="CCYU" creationdate="20150322T072446Z">
         <seg>使用者也能在研究和報告中設定進階篩選方式，例如依日期/時間、攝影機、區域、事件種類和物體進行篩選。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don’t need to add a speaker and microphone.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141604Z" creationid="CCYU" creationdate="20150425T141604Z">
+        <seg>無須外加喇叭和麥克風。</seg>
       </tuv>
     </tu>
     <tu>
