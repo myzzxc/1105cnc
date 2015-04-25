@@ -7227,6 +7227,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most recent revision of the board exposes the 1.0 pinout on rev 3 of the Arduino UNO Board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T021031Z" creationid="CCYU" creationdate="20150425T021015Z">
+        <seg>最新版擴充電路板使用Arduino UNO電路板(rev 3)之1.0針腳排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The multipurpose bed system is also fully functional as a t-slot clamping and fixturing bed for non-vacuum hold down situations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T125248Z" creationid="ccyu" creationdate="20131108T125248Z">
