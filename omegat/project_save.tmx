@@ -6778,6 +6778,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ethernet Shield 2 connects to an Arduino Board using long wire-wrap</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T020112Z" creationid="CCYU" creationdate="20150425T020039Z">
+        <seg>第二代Arduino乙太網路擴充模組使用自身電路板上的長針腳連接至Arduino電路板，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Hypertherm plasma cutting option with AXYZ machine and control excellence provides an unbeatable combination.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144805Z" creationid="ccyu" creationdate="20131105T144805Z">
@@ -8003,6 +8011,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the Ethernet library to write sketches that connect to the Internet using the Shield.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T015906Z" creationid="CCYU" creationdate="20150425T015906Z">
+        <seg>利用乙太網路資料庫來編寫網路擴充模組連接到網路的電路圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Used for large format vinyl cutting, cutting paper mask on acrylic sheets for painting, and for cutting sand blast mask.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140845Z" creationid="ccyu" creationdate="20131108T140824Z">
@@ -8832,6 +8848,14 @@
         <seg>for torque-controlled adhesive anchors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192813Z" creationid="CCYU" creationdate="20150325T192813Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>headers extending through the Shield.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T020044Z" creationid="CCYU" creationdate="20150425T020044Z">
         <seg></seg>
       </tuv>
     </tu>
