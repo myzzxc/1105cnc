@@ -247,6 +247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>100M: indicates the presence of a 100 Mb/s network connection (as opposed to 10 Mb/s)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133617Z" creationid="Judy" creationdate="20150425T133617Z">
+        <seg>100M：已連接100 Mb/s網路（未亮燈則為10 Mb/s網路）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10a and 10b.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150033Z" creationid="CCYU" creationdate="20150324T150033Z">
@@ -631,6 +639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A000024 (without PoE)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133653Z" creationid="Judy" creationdate="20150425T133653Z">
+        <seg>A000024 （無PoE）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCEPTANCE CRITERIA FOR POST-INSTALLED ADHESIVE ANCHORS IN CONCRETE ELEMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123611Z" creationid="CCYU" creationdate="20150324T123611Z">
@@ -683,6 +699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071540Z" creationid="MAE" creationdate="20131106T071540Z">
         <seg>ACM 集屑系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ACT: flashes when RX or TX activity is present</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133629Z" creationid="Judy" creationdate="20150425T133629Z">
+        <seg>ACT：當RX或TX活動時閃爍</seg>
       </tuv>
     </tu>
     <tu>
@@ -1425,6 +1449,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133206Z" creationid="Judy" creationdate="20150425T133206Z">
         <seg>第二代Arduino GSM擴充模組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arduino communicates with both the W5500 and SD card using the SPI bus (through the ICSP header).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133418Z" creationid="Judy" creationdate="20150425T133418Z">
+        <seg>Arduino能利用SPI匯流排（透過ICSP針腳）與W5500和SD卡進行通訊，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FDX: indicates that the network connection is full duplex</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133614Z" creationid="Judy" creationdate="20150425T133437Z">
+        <seg>FDX：網路連接為全雙工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face Detection:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060540Z" creationid="CCYU" creationdate="20150322T060540Z">
@@ -3141,6 +3181,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172808Z" creationid="CCYU" creationdate="20150325T172808Z">
         <seg>依照9.1進行之測試，測試只能以標稱直徑1/2英吋之描固進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the W5500, set digital pin 10 as a high output.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133429Z" creationid="Judy" creationdate="20150425T133429Z">
+        <seg>若要取消選擇W5500，設定數位針腳10為高電位輸出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3705,6 +3753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are using both peripherals in your program, this should be taken care of by the corresponding libraries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133425Z" creationid="Judy" creationdate="20150425T133425Z">
+        <seg>若程式中同時使用兩組通訊介面時，必須使用對應之資料庫進行處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not have any of these then the requirements are minimal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090610Z" creationid="Judy" creationdate="20131112T085623Z">
@@ -3729,10 +3785,27 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you're not using one of the peripherals in your program, however, you'll need to explicitly deselect it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133426Z" creationid="Judy" creationdate="20150425T133426Z">
+        <seg>程式不使用其中一組通訊介面時，必須明確地將其取消選擇，
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your order includes an AXYZ 8.5HP (6.3Kw) dust extraction system, these instructions apply to your installation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062650Z" creationid="Judy" creationdate="20131113T062342Z">
         <seg>本段為 AXYZ 8.5HP (6.3Kw) 除塵系統之安裝指示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important Note</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133630Z" creationid="Judy" creationdate="20150425T133630Z">
+        <seg>重要資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -4217,6 +4290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LINK: indicates the presence of a network link and flashes when the Shield transmits or receives data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133436Z" creationid="Judy" creationdate="20150425T133436Z">
+        <seg>LINK：已連接網路，當模組版傳輸或接收資料時會閃爍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LL.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T134325Z" creationid="ccyu" creationdate="20131108T134325Z">
@@ -4633,6 +4714,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that because the W5500 and SD card share the SPI bus, only one at a time can be active.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133424Z" creationid="Judy" creationdate="20150425T133424Z">
+        <seg>請注意因為W5500和SD卡共享SPI匯流排，因此一次僅能啟用一組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the distance between digital pins 7 and 8 is 160 mil (0.16"), not an even multiple of the 100 mil spacing of the other pins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132330Z" creationid="CCYU" creationdate="20150424T132330Z">
@@ -4665,6 +4754,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ON: indicates that the Board and Shield are powered</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133435Z" creationid="Judy" creationdate="20150425T133435Z">
+        <seg>ON：電路板和模組版已啟動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OSCILLATING KNIFE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130300Z" creationid="ccyu" creationdate="20131107T130300Z">
@@ -4693,6 +4790,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080057Z" creationid="Judy" creationdate="20131113T080053Z">
         <seg>現有規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On both boards, pin 10 is used to select the W5500 and pin 4 for the SD card.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133421Z" creationid="Judy" creationdate="20150425T133421Z">
+        <seg>兩塊電路板上皆使用針腳10選擇W5500而以針腳4選擇SD卡，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Mega, the hardware SS pin, 53, is not used to select either the W5500 or the SD card, but it must be kept as an output or the SPI interface won't work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133423Z" creationid="Judy" creationdate="20150425T133423Z">
+        <seg>Mega上的硬體SS針腳53不能用於選擇W5500或SD卡，此針腳必須作為輸出否則SPI介面無法運作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5527,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080100Z" creationid="Judy" creationdate="20131113T080100Z">
         <seg>處理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product Code</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133651Z" creationid="Judy" creationdate="20150425T133651Z">
+        <seg>產品代碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -6930,6 +7051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ethernet Shield 2 is, at present time, not compatible with the Arduino Zero Pro Board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133633Z" creationid="Judy" creationdate="20150425T133633Z">
+        <seg>第二代乙太網路擴充模組目前不相容於Arduino Zero Pro電路板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The GSM library is included with Arduino IDE 1.0.4 and later.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133217Z" creationid="Judy" creationdate="20150425T133217Z">
@@ -7010,10 +7139,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shield contains a number of information LEDs:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133433Z" creationid="Judy" creationdate="20150425T133433Z">
+        <seg>擴充模組板含有多組LED指示燈：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shield does not come with a built in PoE module, it is a separate component that must be added on.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023706Z" creationid="CCYU" creationdate="20150425T023706Z">
         <seg>標準擴充板不包含內建PoE模組，必須另外擴充。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shield provides a standard RJ45 Ethernet jack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133430Z" creationid="Judy" creationdate="20150425T133430Z">
+        <seg>擴充模組板提供標準RJ45乙太網路接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7387,6 +7532,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum length and width of the Uno PCB are 2.7 and 2.1 inches respectively, with the USB connector and power jack extending beyond the former dimension.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133641Z" creationid="Judy" creationdate="20150425T133641Z">
+        <seg>Uno電路板的最大長度和寬度分別為2.7和2.1英吋，上述尺寸不包含凸出之USB連接口和電源接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The model may look something like this:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104853Z" creationid="CCYU" creationdate="20150322T104853Z">
@@ -7559,6 +7712,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194040Z" creationid="CCYU" creationdate="20150325T194040Z">
         <seg>參考、可靠性和工作條件所需之最小樣本數大小列於表3.1、3.2、3.3、3.6和3.7中，而此標準中，表3.8所列之所有測試均須由ITEA（第 12 章）使用其設備進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reset button on the Shield resets both the W5500 and the Arduino Board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133432Z" creationid="Judy" creationdate="20150425T133432Z">
+        <seg>擴充模組板上之重置按鈕能同時重置W5500和Arduino電路板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7803,6 +7964,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These pins cannot be used for general I/O.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133422Z" creationid="Judy" creationdate="20150425T133422Z">
+        <seg>上述針腳不能作為一般I/O。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These spindles can be used manually or in conjunction with our ATC automatic tool changer carousel for automatic changing of tool bits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082136Z" creationid="ccyu" creationdate="20131109T082136Z">
@@ -7947,6 +8116,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is on digital pins 10, 11, 12, and 13 on the Uno and pins 50, 51, and 52 on the Mega.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133420Z" creationid="Judy" creationdate="20150425T133420Z">
+        <seg>此接點位於Uno上的數位針腳10、11、12和13以及Mega上的針腳50、51以及52。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is why we have camera shake cancellation, this will eliminate a lot of the changing values and the model will look more like the previous models.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105244Z" creationid="CCYU" creationdate="20150322T105244Z">
@@ -8087,6 +8264,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134144Z" creationid="MAE" creationdate="20131105T092949Z">
         <seg>藉由不斷進行研發，並與業界合作夥伴和供應商的密切合作，AXYZ 有能力生產為我們客戶帶來極大價值之大型機台配件組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do this with the SD card, set pin 4 as an output and write a high to it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133427Z" creationid="Judy" creationdate="20150425T133427Z">
+        <seg>要取消選擇SD卡則將針腳4設定為輸出並寫入高電位；</seg>
       </tuv>
     </tu>
     <tu>
@@ -9040,6 +9225,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081521Z" creationid="MAE" creationdate="20131106T081521Z">
         <seg>，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>between digital pins 7 and 8 is 160 mil (0.16"), not an even multiple of the 100 mil spacing of the other pins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133649Z" creationid="Judy" creationdate="20150425T133649Z">
+        <seg>請注意數位針腳7和8之間的距離為160 mil（0.16英吋），與其它針腳的100 mil間距不同。</seg>
       </tuv>
     </tu>
     <tu>
