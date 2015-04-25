@@ -6618,6 +6618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Arduino Ethernet Shield 2 connects your Arduino to the internet in mere minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T011222Z" creationid="CCYU" creationdate="20150425T011222Z">
+        <seg>第二代 Arduino 乙太網路擴充模組 (Ethernet Shield 2) 能讓 Arduino 在短時間內連接至網路，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Axyz installation technician will connect the system together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T073755Z" creationid="Judy" creationdate="20131113T073755Z">
