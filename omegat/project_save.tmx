@@ -5284,8 +5284,8 @@
       <tuv lang="EN-US">
         <seg>Pin 2 is connected to the M10’s TX pin and pin 3 to its RX pin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134815Z" creationid="CCYU" creationdate="20150425T134815Z">
-        <seg>針腳2連接至M10之TX針腳，而針腳3連接至RX針腳。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134849Z" creationid="CCYU" creationdate="20150425T134815Z">
+        <seg>針腳2連接至M10之TX針腳，而針腳3連接至RX針腳，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7131,6 +7131,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The M10 is a Quad-band GSM/GPRS modem that works at the following frequencies: GSM850MHz, GSM900MHz, DCS1800MHz and PCS1900MHz.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135013Z" creationid="CCYU" creationdate="20150425T135013Z">
+        <seg>M10為四頻GSM/GPRS數據機，適用於下列頻率：GSM850MHz、GSM900MHz、DCS1800MHz和PCS1900MHz，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Mink pump is oil free and can be run continuously if required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070331Z" creationid="MAE" creationdate="20131106T070331Z">
@@ -7600,6 +7608,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104853Z" creationid="CCYU" creationdate="20150322T104853Z">
         <seg>此模型看起來會類似於下圖：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The modem's PWRKEY pin is connected to Arduino pin 7.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134847Z" creationid="CCYU" creationdate="20150425T134847Z">
+        <seg>數據機之PWRKEY針腳連接至Arduino針腳7。</seg>
       </tuv>
     </tu>
     <tu>
