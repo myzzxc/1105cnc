@@ -4210,6 +4210,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended to power the board with an external power supply that can provide between 700mA and 1000mA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135752Z" creationid="CCYU" creationdate="20150425T135752Z">
+        <seg>建議使用能提供700mA至1000mA間之外接電源為擴充模組板供電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is very hard to tell this is an object (foreground) pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105606Z" creationid="CCYU" creationdate="20150322T105606Z">
@@ -5495,6 +5503,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130505Z" creationid="CCYU" creationdate="20150424T130505Z">
         <seg>消耗功率 50mW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135626Z" creationid="CCYU" creationdate="20150425T135618Z">
+        <seg>電源需求</seg>
       </tuv>
     </tu>
     <tu>
@@ -7616,6 +7632,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133641Z" creationid="Judy" creationdate="20150425T133641Z">
         <seg>Uno電路板的最大長度和寬度分別為2.7和2.1英吋，上述尺寸不包含凸出之USB連接口和電源接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The micro to nano SIM adapter is included in the box.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135611Z" creationid="CCYU" creationdate="20150425T135611Z">
+        <seg>配件中包含micro和nano SIM轉接卡。</seg>
       </tuv>
     </tu>
     <tu>
