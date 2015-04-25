@@ -4001,6 +4001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just plug this module onto your Arduino Board, connect it to your network with an RJ45 cable (not included) and follow a few simple steps to start controlling your world through the internet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T011354Z" creationid="CCYU" creationdate="20150425T011354Z">
+        <seg>只要將模組板插入至Arduino電路板上，用 （不含稅） RJ45 電纜將其連接到您的網路和遵循幾個簡單的步驟來開始控制你通過互聯網的世界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KNIFE MATTING (Price per square meter of process area)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142025Z" creationid="ccyu" creationdate="20131107T141928Z">
@@ -6620,8 +6628,8 @@
       <tuv lang="EN-US">
         <seg>The Arduino Ethernet Shield 2 connects your Arduino to the internet in mere minutes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T011222Z" creationid="CCYU" creationdate="20150425T011222Z">
-        <seg>第二代 Arduino 乙太網路擴充模組 (Ethernet Shield 2) 能讓 Arduino 在短時間內連接至網路，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T011632Z" creationid="CCYU" creationdate="20150425T011222Z">
+        <seg>第二代Arduino乙太網路擴充模組 (Ethernet Shield 2) 能讓Arduino在短時間內連接至網路，</seg>
       </tuv>
     </tu>
     <tu>
