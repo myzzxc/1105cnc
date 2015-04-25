@@ -6850,6 +6850,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Wiznet W5500 provides a network (IP) stack capable of both TCP and UDP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T014825Z" creationid="CCYU" creationdate="20150425T014825Z">
+        <seg>Wiznet W5500提供支援TCP和UDP之網路 (IP) 堆疊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The accuracy of this is very good with correct camera placement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140758Z" creationid="CCYU" creationdate="20150322T140758Z">
