@@ -4041,6 +4041,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports up to eight  simultaneous socket connections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T015158Z" creationid="CCYU" creationdate="20150425T015158Z">
+        <seg>支援最多同時八組通訊端連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will work with all 5 and 10 HP spindles (Elte or HSD).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141923Z" creationid="ccyu" creationdate="20131108T141923Z">
