@@ -3985,6 +3985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is compatible with the Arduino Uno and Mega (using the Ethernet library).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T021917Z" creationid="CCYU" creationdate="20150425T021917Z">
+        <seg>此模組與Arduino Uno和Mega相容（使用乙太網路資料庫）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is important to focus that Digifort reposibility lies solely in the software operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090918Z" creationid="CCYU" creationdate="20150322T090918Z">
@@ -7579,6 +7587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is an onboard micro-SD card slot, which can be used to store files for serving over the network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T021736Z" creationid="CCYU" creationdate="20150425T021736Z">
+        <seg>電路板上包含一組micro-SD卡插槽，用於儲存網路設定之檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, an upper limit is placed on the age of the concrete used for determination of bond strength.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200334Z" creationid="CCYU" creationdate="20150325T200334Z">
@@ -8037,8 +8053,8 @@
       <tuv lang="EN-US">
         <seg>Use the Ethernet library to write sketches that connect to the Internet using the Shield.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T015906Z" creationid="CCYU" creationdate="20150425T015906Z">
-        <seg>利用乙太網路資料庫來編寫網路擴充模組連接到網路的電路圖。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T021925Z" creationid="CCYU" creationdate="20150425T015906Z">
+        <seg>利用乙太網路資料庫來編寫網路擴充模組連接到網路之設定。</seg>
       </tuv>
     </tu>
     <tu>
