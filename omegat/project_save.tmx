@@ -4762,6 +4762,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Newer versions of the board will turn the modem on automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142052Z" creationid="CCYU" creationdate="20150425T142052Z">
+        <seg>較新版本之模組板會自動開啟數據機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next generation AXYZ A2MC control system forsmooth reliable operation and easy connection to network for program transfer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153217Z" creationid="ccyu" creationdate="20131106T153217Z">
