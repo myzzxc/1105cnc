@@ -5266,6 +5266,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previous revisions of the Shield were not compatible with the Mega and needed to be manually reset after power-up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022626Z" creationid="CCYU" creationdate="20150425T022626Z">
+        <seg>前一版擴充模組與Mega不相容，通電後必須手動重置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previously approved May 2014, December 2013, June 2013, February 2013, February 2012, June 2011, November 2009, June 2009, October 2008, August 2008, May 2008, February 2008, January 2008, October 2007, June 2007, February 2007, June 2006</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T124008Z" creationid="CCYU" creationdate="20150324T123810Z">
@@ -6862,6 +6870,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140207Z" creationid="ccyu" creationdate="20131108T140144Z">
         <seg>擺動刀有廣泛的刀鋒長度範圍及不同攻角可供選擇，以滿足各種材料切割需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shield also includes a reset controller, to ensure that the W5500 Ethernet module is properly reset on power-up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022519Z" creationid="CCYU" creationdate="20150425T022519Z">
+        <seg>此模組也包含一組重置控制器，可確保W5500乙太網路模組在通電時能正確重置。</seg>
       </tuv>
     </tu>
     <tu>
