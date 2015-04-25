@@ -1421,6 +1421,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As always with Arduino, every element of the platform – hardware, software and documentation – is  freely available and open-source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T012203Z" creationid="CCYU" creationdate="20150425T012203Z">
+        <seg>一如Arduino的初衷，其平台上所有元件，包含硬體、軟體和說明文件皆為免費開源形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As such we require a high quality PTZ camera for auto tracking.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152436Z" creationid="CCYU" creationdate="20150322T152436Z">
