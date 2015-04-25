@@ -2158,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection with Arduino Uno on pins 2, 3 (Software Serial) and 7 (reset).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T133000Z" creationid="CCYU" creationdate="20150425T133000Z">
+        <seg>連接Arduino Uno針腳2、3（軟體序列）和7（重置）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection with Arduino on SPI port</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013830Z" creationid="CCYU" creationdate="20150425T013830Z">
