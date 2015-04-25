@@ -3105,6 +3105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For early versions of the shield, it was necessary to press the power button to turn on the modem.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142020Z" creationid="CCYU" creationdate="20150425T142020Z">
+        <seg>早期版本之擴充模組板，必須按下電源按鈕以打開數據機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example to use 9 Axes Motion Shield with ArduinoUNO solder the Interrupt bridge on the pin D2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133423Z" creationid="CCYU" creationdate="20150424T133423Z">
@@ -7428,6 +7436,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The button labeled "Power" is connected to the modem and will power the modem on and off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141933Z" creationid="CCYU" creationdate="20150425T141933Z">
+        <seg>標示"Power"之按鈕連接至數據機，用於開啟和關閉數據機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The button labeled "Reset" is tied to the Arduino reset pin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141748Z" creationid="CCYU" creationdate="20150425T141724Z">
+        <seg>標示"Reset"之按鈕與Arduino重置針腳相連，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The camera is now seeing an object that has a white upper half and nothing came in with a white upper half!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124857Z" creationid="CCYU" creationdate="20150322T124857Z">
@@ -9025,6 +9049,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083959Z" creationid="CCYU" creationdate="20150322T083959Z">
         <seg>當車輛通過攝影機時，Digifort LPR 會拍攝車牌並存入影像資料庫中，紀錄日期、時間和攝影機資訊，以便更有效地進行分析和交通管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When pressed, it will restart the sketch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141821Z" creationid="CCYU" creationdate="20150425T141821Z">
+        <seg>按下此按鈕時，電路會重新啟動。</seg>
       </tuv>
     </tu>
     <tu>
