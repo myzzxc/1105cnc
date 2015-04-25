@@ -4003,8 +4003,8 @@
       <tuv lang="EN-US">
         <seg>Just plug this module onto your Arduino Board, connect it to your network with an RJ45 cable (not included) and follow a few simple steps to start controlling your world through the internet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T011354Z" creationid="CCYU" creationdate="20150425T011354Z">
-        <seg>只要將模組板插入至Arduino電路板上，用 （不含稅） RJ45 電纜將其連接到您的網路和遵循幾個簡單的步驟來開始控制你通過互聯網的世界。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T011857Z" creationid="CCYU" creationdate="20150425T011354Z">
+        <seg>只要將模組板插入至Arduino電路板上，以RJ45網路線（未包含）連接到您的網路，並經過幾道簡單的設定步驟，就能使用網路來進行控制。</seg>
       </tuv>
     </tu>
     <tu>
