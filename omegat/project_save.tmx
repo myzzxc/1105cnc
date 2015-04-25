@@ -7643,6 +7643,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means you can learn  exactly how it's made and use its design as the starting point for your own circuits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T012444Z" creationid="CCYU" creationdate="20150425T012444Z">
+        <seg>如此一來，玩家們可以完整學習其設計原理並利用Arduino來開始設計您自己的電路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This method provides forstraight cut corners atany angle aswell astrue radii when called for.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153651Z" creationid="ccyu" creationdate="20131105T153651Z">
