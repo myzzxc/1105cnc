@@ -3779,8 +3779,8 @@
       <tuv lang="EN-US">
         <seg>If you are using both peripherals in your program, this should be taken care of by the corresponding libraries.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133425Z" creationid="Judy" creationdate="20150425T133425Z">
-        <seg>若程式中同時使用兩組通訊介面時，必須使用對應之資料庫進行處理。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134441Z" creationid="Judy" creationdate="20150425T133425Z">
+        <seg>若程式中同時使用兩組通訊介面時，必須使用對應之程式館進行處理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4164,8 +4164,8 @@
       <tuv lang="EN-US">
         <seg>It is compatible with the Arduino Uno and Mega (using the Ethernet library).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T021917Z" creationid="CCYU" creationdate="20150425T021917Z">
-        <seg>此模組與Arduino Uno和Mega相容（使用乙太網路資料庫）。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134424Z" creationid="CCYU" creationdate="20150425T021917Z">
+        <seg>此模組與Arduino Uno和Mega相容（使用乙太網路程式館）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5278,6 +5278,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084435Z" creationid="CCYU" creationdate="20150322T084435Z">
         <seg>物理感測器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pin 2 is connected to the M10’s TX pin and pin 3 to its RX pin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134815Z" creationid="CCYU" creationdate="20150425T134815Z">
+        <seg>針腳2連接至M10之TX針腳，而針腳3連接至RX針腳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7099,10 +7107,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The GSM library has a large number of methods to communicate with the shield.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134604Z" creationid="CCYU" creationdate="20150425T134412Z">
+        <seg>GSM程式館具有大量的與擴充模組板通訊之方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The GSM library is included with Arduino IDE 1.0.4 and later.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133217Z" creationid="Judy" creationdate="20150425T133217Z">
-        <seg>Arduino IDE 1.0.4以及更新版本包含GSM資料庫。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134445Z" creationid="Judy" creationdate="20150425T133217Z">
+        <seg>Arduino IDE 1.0.4以及更新版本包含GSM程式館。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7646,8 +7662,8 @@
       <tuv lang="EN-US">
         <seg>The onboard micro-SD card reader is accessible through the SD Library.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022049Z" creationid="CCYU" creationdate="20150425T022049Z">
-        <seg>電路板上之micro-SD卡讀卡機能透過SD資料庫存取，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134431Z" creationid="CCYU" creationdate="20150425T022049Z">
+        <seg>電路板上之micro-SD卡讀卡機能透過SD程式館存取，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7808,6 +7824,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134126Z" creationid="CCYU" creationdate="20150425T134126Z">
         <seg>此擴充模組使用Quectel之無線數據機M10（數據資料表），可藉由AT指令與電路板進行通訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shield uses digital pins 2 and 3 for software serial communication with the M10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134721Z" creationid="CCYU" creationdate="20150425T134721Z">
+        <seg>擴充模組板使用數位針腳2和3作為與M10之軟體序列通訊，</seg>
       </tuv>
     </tu>
     <tu>
@@ -8470,8 +8494,8 @@
       <tuv lang="EN-US">
         <seg>Use the Ethernet library to write sketches that connect to the Internet using the Shield.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T021925Z" creationid="CCYU" creationdate="20150425T015906Z">
-        <seg>利用乙太網路資料庫來編寫網路擴充模組連接到網路之設定。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134419Z" creationid="CCYU" creationdate="20150425T015906Z">
+        <seg>利用乙太網路程式館來編寫網路擴充模組連接到網路之設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8847,8 +8871,8 @@
       <tuv lang="EN-US">
         <seg>When working with this library, SS is on Pin 4.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022134Z" creationid="CCYU" creationdate="20150425T022134Z">
-        <seg>當使用此資料庫時，SS位於針腳4。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134436Z" creationid="CCYU" creationdate="20150425T022134Z">
+        <seg>當使用此程式館時，SS位於針腳4。</seg>
       </tuv>
     </tu>
     <tu>
