@@ -7291,10 +7291,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The onboard micro-SD card reader is accessible through the SD Library.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022049Z" creationid="CCYU" creationdate="20150425T022049Z">
+        <seg>電路板上之micro-SD卡讀卡機能透過SD資料庫存取，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The option set that AXYZ International has developed over the last 20years iseasily the most diverse in the industry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134110Z" creationid="MAE" creationdate="20131105T092946Z">
         <seg>AXYZ 國際在過去的 20 年所開發配件組合為業界最多元化的組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The original revision of the Shield contained a full-size SD card slot; this is not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022324Z" creationid="CCYU" creationdate="20150425T022324Z">
+        <seg>前一版本之擴充模組包含一組正常尺寸之SD卡插槽；此模組未支援。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8424,6 +8440,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133034Z" creationid="CCYU" creationdate="20150424T132747Z">
         <seg>當使用Arduino九軸運動擴充模組時，請務必依據使用的電路板將中斷 (Interrupt) 橋接和重置 (Reset) 橋接焊接在正確的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When working with this library, SS is on Pin 4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022134Z" creationid="CCYU" creationdate="20150425T022134Z">
+        <seg>當使用此資料庫時，SS位於針腳4。</seg>
       </tuv>
     </tu>
     <tu>
