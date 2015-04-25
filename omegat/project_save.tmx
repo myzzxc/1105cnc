@@ -3817,6 +3817,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have an early version of the shield, and it does not turn on automatically, you can solder a jumper to the CTRL/D7 pad on the reverse side of the board, and it will turn on when an attached Arduino receives power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142539Z" creationid="CCYU" creationdate="20150425T142539Z">
+        <seg>如果您擁有早期版本之模組板且它不會自動開啟，可以在電路板背面焊上跳線至CTRL/D7接點，則其所連接之Arduino通電時模組板會自動開啟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have ordered a blower instead of a dry vane pump, the blower will be mounted in place of the pump.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091428Z" creationid="Judy" creationdate="20131113T064129Z">
@@ -6343,6 +6351,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121608Z" creationid="CCYU" creationdate="20150325T121608Z">
         <seg>工作條件測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Several of the modem pins are exposed on the underside of the board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142617Z" creationid="CCYU" creationdate="20150425T142617Z">
+        <seg>電路板底部有許多數據機的針腳，</seg>
       </tuv>
     </tu>
     <tu>
