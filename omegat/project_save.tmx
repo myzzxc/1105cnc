@@ -4842,6 +4842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On board indicators</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T140444Z" creationid="CCYU" creationdate="20150425T140439Z">
+        <seg>電路板指示燈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On both boards, pin 10 is used to select the W5500 and pin 4 for the SD card.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133421Z" creationid="Judy" creationdate="20150425T133421Z">
@@ -7660,6 +7668,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The modem can pull up to 2A of current at peak usage, which can occur during data transmission.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T140334Z" creationid="CCYU" creationdate="20150425T140334Z">
+        <seg>數據機在傳輸資料時最高會消耗2安培的電流，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The modem's PWRKEY pin is connected to Arduino pin 7.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134847Z" creationid="CCYU" creationdate="20150425T134847Z">
@@ -8200,6 +8216,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054007Z" creationid="MAE" creationdate="20131106T054007Z">
         <seg>此高成本效益配件可避免塑膠和軟金屬加工常見的熱相關零件膨脹，並提供更好的邊緣表面及更長的刀具壽命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This current is provided through the large orange capacitor on the board's surface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T140422Z" creationid="CCYU" creationdate="20150425T140422Z">
+        <seg>此電流由電路板上之大型橙色電容供應。</seg>
       </tuv>
     </tu>
     <tu>
