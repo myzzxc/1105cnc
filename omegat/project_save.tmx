@@ -4730,6 +4730,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Net: blinks when the modem is communicating with the radio network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141148Z" creationid="CCYU" creationdate="20150425T141148Z">
+        <seg>網路：當數據機與無線網路通訊時閃爍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New acceptance criteria will only have an "approved" date, which is the date the document was approved by the Evaluation Committee.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T134947Z" creationid="CCYU" creationdate="20150324T134947Z">
@@ -4846,6 +4854,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T140444Z" creationid="CCYU" creationdate="20150425T140439Z">
         <seg>電路板指示燈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On board interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141219Z" creationid="CCYU" creationdate="20150425T141219Z">
+        <seg>電路板介面</seg>
       </tuv>
     </tu>
     <tu>
@@ -7904,6 +7920,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125518Z" creationid="CCYU" creationdate="20150424T125518Z">
         <seg>此感測器能測量三維加速度、橫擺速率和3個垂直軸之個別磁場強度數據。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shield comes with a on-board audio jack as well,  and it can be used for both microphone and line inputs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141403Z" creationid="CCYU" creationdate="20150425T141403Z">
+        <seg>擴充模組板上包含一組音訊插孔，可用於麥克風和線路輸入，</seg>
       </tuv>
     </tu>
     <tu>
