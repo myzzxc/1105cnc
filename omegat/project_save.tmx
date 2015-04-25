@@ -6786,6 +6786,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ethernet Shield 2 has a standard RJ-45 connection, with an integrated line transformer and Power over Ethernet enabled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T021546Z" creationid="CCYU" creationdate="20150425T021453Z">
+        <seg>第二代Arduino乙太網路擴充模組具有標準RJ-45連接，包含整合電路變壓器並能以乙太網路供電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Hypertherm plasma cutting option with AXYZ machine and control excellence provides an unbeatable combination.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144805Z" creationid="ccyu" creationdate="20131105T144805Z">
