@@ -7027,6 +7027,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Arduino GSM Shield allows an Arduino board to connect to the internet, make/receive voice calls and send/receive SMS messages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134005Z" creationid="CCYU" creationdate="20150425T134005Z">
+        <seg>Arduino GSM擴充模組能讓Arduino電路板連接至網路、撥打/接聽電話以及傳送/接收簡訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Arduino GSM Shield connects your Arduino to the internet using the GPRS wireless network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133220Z" creationid="Judy" creationdate="20150425T133220Z">
@@ -7792,6 +7800,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130422Z" creationid="CCYU" creationdate="20150424T130422Z">
         <seg>此擴充模組與TinkerKit相容，玩家能插入TinkerKit模組至電路板，快速的建立專案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shield uses a radio modem M10 by Quectel (datasheet).  It is possible to communicate with the board using AT commands.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134126Z" creationid="CCYU" creationdate="20150425T134126Z">
+        <seg>此擴充模組使用Quectel之無線數據機M10（數據資料表），可藉由AT指令與電路板進行通訊。</seg>
       </tuv>
     </tu>
     <tu>
