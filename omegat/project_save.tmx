@@ -5067,6 +5067,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that on the Leonardo ETH, the Serial class refers to USB (CDC) communication; for TTL serial on pins 0 and 1, use the Serial1 class.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131044Z" creationid="CCYU" creationdate="20150426T131044Z">
+        <seg>請注意Leonardo ETH上之序列級參照USB (CDC) 通訊；針腳0和1上之TTL序列使用Serial1級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the distance between digital pins 7 and 8 is 160 mil (0.16"), not an even multiple of the 100 mil spacing of the other pins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132330Z" creationid="CCYU" creationdate="20150424T132330Z">
