@@ -7966,6 +7966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The input voltage to the Arduino board when it's using an external power source (as opposed to 5 volts from the USB connection or other regulated power source).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T123626Z" creationid="CCYU" creationdate="20150426T123626Z">
+        <seg>使用外部電源時，Arduino 電路板之電壓輸入（非USB連接或其它穩壓的電源之5伏特）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The laser digitiser provides afast and accurate way of capturing the geometry of any two dimentional part that is placed on the table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050223Z" creationid="MAE" creationdate="20131106T050223Z">
