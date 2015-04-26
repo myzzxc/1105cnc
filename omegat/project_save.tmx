@@ -6163,6 +6163,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the datasheet for complete information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142752Z" creationid="CCYU" creationdate="20150425T142752Z">
+        <seg>完整資訊請參閱數據資料表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Seismic qualification for reinforcing bar connections*"</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183706Z" creationid="CCYU" creationdate="20150325T183706Z">
@@ -8240,6 +8248,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133422Z" creationid="Judy" creationdate="20150425T133422Z">
         <seg>上述針腳不能作為一般I/O。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These provide access to the modem for features like speaker output and microphone input.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142732Z" creationid="CCYU" creationdate="20150425T142732Z">
+        <seg>這些針腳具有存取數據機的功能如喇叭輸出和麥克風輸入，</seg>
       </tuv>
     </tu>
     <tu>
