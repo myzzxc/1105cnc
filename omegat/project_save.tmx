@@ -6613,6 +6613,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Serial: 0 (RX) and 1 (TX): used to receive (RX) and transmit (TX) TTL serial data using the ATmega32U4 hardware serial capability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T130116Z" creationid="CCYU" creationdate="20150426T130116Z">
+        <seg>序列：0 (RX)和1 (TX)：利用ATmega32U4硬體序列功能接收(RX)和傳送(TX) TTL序列資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Series</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081319Z" creationid="MAE" creationdate="20131106T081319Z">
