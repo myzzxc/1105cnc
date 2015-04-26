@@ -8927,6 +8927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that if you have a shield that uses SPI, but does NOT have a 6-pin ICSP connector that connects to the Leonardo's 6-pin ICSP header, the shield will not work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T132614Z" creationid="CCYU" creationdate="20150426T132614Z">
+        <seg>因此若具有使用SPI之擴充模組，但卻沒有連接到Leonardo 6針ICSP頭座之6針腳ICSP連接器時，擴充模組將無法運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means you can learn  exactly how it's made and use its design as the starting point for your own circuits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T012444Z" creationid="CCYU" creationdate="20150425T012444Z">
