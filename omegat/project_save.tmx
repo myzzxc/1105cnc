@@ -639,6 +639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A properly configured shield can read the IOREF pin voltage and select the appropriate power source or enable voltage translators on the outputs for working with the 5V or 3.3V.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124835Z" creationid="CCYU" creationdate="20150426T124835Z">
+        <seg>正確設定之擴充模組板能讀取IOREF針腳電壓並選擇合適電源或對輸出進行變壓以提供5V或3.3V的電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A red car travelling quickly through the image would not be classed as a fire due to its overall movement contrasting the movement of a fire.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154512Z" creationid="CCYU" creationdate="20150322T154512Z">
