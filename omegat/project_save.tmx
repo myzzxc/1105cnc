@@ -6757,6 +6757,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supplying voltage via the 5V or 3.3V pins bypasses the regulator, and can damage your board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124259Z" creationid="CCYU" creationdate="20150426T124259Z">
+        <seg>以5V或3.3V針腳供應電壓將不會經過穩壓器，可能會損壞電路板，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Surveillance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091945Z" creationid="CCYU" creationdate="20150322T091945Z">
@@ -7706,6 +7714,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055004Z" creationid="Judy" creationdate="20150426T055004Z">
         <seg>電路板能透過外接電源供應器、選配乙太網路供電(PoE)或micro USB連接來供電。外接電源（非USB）可使用交流轉直流變壓器或電池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The board can be supplied with power either from the DC power jack (7 - 12V), the USB connector (5V), or the VIN pin of the board (7-12V).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124141Z" creationid="CCYU" creationdate="20150426T124141Z">
+        <seg>電路板可使用直流電源插頭(7 - 12V)、USB接頭(5V)或電路板針腳(7-12V)供電。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8758,6 +8774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This pin outputs a regulated 5V from the regulator on the board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124035Z" creationid="CCYU" creationdate="20150426T124035Z">
+        <seg>此針腳輸出由電路板上穩壓器供應之5V電壓，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This rarely happens, as objects are usually all kinds of different values and moving so we can generally workout that it isn’t ‘background’.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105840Z" creationid="CCYU" creationdate="20150322T105752Z">
@@ -9259,6 +9283,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T134215Z" creationid="CCYU" creationdate="20150322T134215Z">
         <seg>此時能將介於 1m2 和 2m2 之間的物體視為人，而介於 3m2 和 5m2 之間的物體視為車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We don't advise it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124313Z" creationid="CCYU" creationdate="20150426T124313Z">
+        <seg>因此不建議使用。</seg>
       </tuv>
     </tu>
     <tu>
