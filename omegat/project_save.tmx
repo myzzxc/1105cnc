@@ -2967,6 +2967,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External Interrupts: 3 (interrupt 0), 2 (interrupt 1), 0 (interrupt 2), 1 (interrupt 3) and 7 (interrupt 4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131332Z" creationid="CCYU" creationdate="20150426T131332Z">
+        <seg>外部中斷：3（中斷0）、2（中斷1）、0（中斷2）、1（中斷3）和7（中斷4）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extraction System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062345Z" creationid="Judy" creationdate="20131113T062152Z">
@@ -6961,6 +6969,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125207Z" creationid="ccyu" creationdate="20131107T125207Z">
         <seg>三 Z 刀架步進器（三 Z 現貨價格相同）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TWI: 2 (SDA) and 3 (SCL): they support TWI communication using the Wire library.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131203Z" creationid="CCYU" creationdate="20150426T131203Z">
+        <seg>TWI: 2 (SDA)和3 (SCL)：支援使用Wire程式館進行TWI通訊。</seg>
       </tuv>
     </tu>
     <tu>
