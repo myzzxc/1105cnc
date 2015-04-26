@@ -8703,6 +8703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These pins support SPI communication using the SPI library. Note that the SPI pins are not connected to any of the digital I/O pins as they are on the Uno, They are only available on the ICSP connector.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T132348Z" creationid="CCYU" creationdate="20150426T132348Z">
+        <seg>這些針腳支援使用SPI程式庫進行SPI通訊。請注意SPI針腳與Uno上設置不同，未連接到任何數位I/O針腳，只有ICSP連接器上之針腳可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These provide access to the modem for features like speaker output and microphone input.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142732Z" creationid="CCYU" creationdate="20150425T142732Z">
