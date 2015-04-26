@@ -5507,6 +5507,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PWM: 3, 5, 6, 9, 10, 11 and 13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131810Z" creationid="CCYU" creationdate="20150426T131810Z">
+        <seg>PWM：3、5、6、9、10、11和13。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page 1 of 11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092523Z" creationid="CCYU" creationdate="20150322T092523Z">
@@ -6013,6 +6021,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide 8-bit PWM output with the analogWrite() function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131839Z" creationid="CCYU" creationdate="20150426T131839Z">
+        <seg>以analogWrite()函數提供8位元PWM。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Providing 175 CFM, the Becker 10HP  is aquiet and reliable source forvacuum hold down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065258Z" creationid="MAE" creationdate="20131106T065258Z">
@@ -6481,6 +6497,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T135631Z" creationid="CCYU" creationdate="20150324T135631Z">
         <seg>請見 ICC-ES網站以了解更多關於生效日期的詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the attachInterrupt() function for details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131731Z" creationid="CCYU" creationdate="20150426T131731Z">
+        <seg>詳細資訊請見attachInterrupt()函數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8651,6 +8675,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132327Z" creationid="CCYU" creationdate="20150322T132327Z">
         <seg>這些物件居有大致相同數量的像素，但在現實世界中的大小明顯不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These pins can be configured to trigger an interrupt on a low value, a rising or falling edge, or a change in value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131706Z" creationid="CCYU" creationdate="20150426T131706Z">
+        <seg>以上針腳可設定為低電位、上升或下降緣、或以數值改變來觸發中斷。</seg>
       </tuv>
     </tu>
     <tu>
