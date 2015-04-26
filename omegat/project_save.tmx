@@ -1535,8 +1535,8 @@
       <tuv lang="EN-US">
         <seg>Arduino communicates with both the W5500 and SD card using the SPI bus (through the ICSP header).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133418Z" creationid="Judy" creationdate="20150425T133418Z">
-        <seg>Arduino能利用SPI匯流排（透過ICSP針腳）與W5500和SD卡進行通訊，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131929Z" creationid="Judy" creationdate="20150425T133418Z">
+        <seg>Arduino能利用SPI匯流排（透過ICSP頭座）與W5500和SD卡進行通訊，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4629,8 +4629,8 @@
       <tuv lang="EN-US">
         <seg>Leads from a battery can be inserted in the Gnd and Vin pin headers of the POWER connector. The board can operate on an external supply of 6 to 20 volts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055545Z" creationid="Judy" creationdate="20150426T055545Z">
-        <seg>電池接線之針腳需插入電源連接器之Gnd和Vin針腳座，電路板可使用6至20伏特之外部電源運作。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131945Z" creationid="Judy" creationdate="20150426T055545Z">
+        <seg>電池接線之針腳需插入電源連接器之Gnd和Vin頭座，電路板可使用6至20伏特之外部電源運作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6417,6 +6417,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022719Z" creationid="MAE" creationdate="20131107T022719Z">
         <seg>軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPI: on the ICSP header.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T132017Z" creationid="CCYU" creationdate="20150426T132017Z">
+        <seg>SPI：位於ICSP頭座上，</seg>
       </tuv>
     </tu>
     <tu>
