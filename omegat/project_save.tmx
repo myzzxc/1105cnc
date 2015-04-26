@@ -9711,6 +9711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can supply voltage through this pin, or, if supplying voltage via the power jack, access it through this pin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T123853Z" creationid="CCYU" creationdate="20150426T123853Z">
+        <seg>可使用此針腳輸入電壓，或當使用電源插頭時由此針腳提取電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You don’t need to add a speaker and microphone.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141604Z" creationid="CCYU" creationdate="20150425T141604Z">
