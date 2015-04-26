@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -223,6 +223,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 A (only when powered via the external power supply)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053303Z" creationid="Judy" creationdate="20150426T053303Z">
+        <seg>1 A（僅適用透過外接電源供應的情況下）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10 used for W5500 select</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053124Z" creationid="Judy" creationdate="20150426T053124Z">
+        <seg>10用於選擇W5500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10006 * (3270 mm x 1829 mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142624Z" creationid="ccyu" creationdate="20131107T142624Z">
@@ -411,6 +427,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182029Z" creationid="CCYU" creationdate="20150325T182029Z">
         <seg>35db</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4 used for SD card select</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053114Z" creationid="Judy" creationdate="20150426T053114Z">
+        <seg>4用於選擇SD卡</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,6 +1410,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Analog Input Pins</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053141Z" creationid="Judy" creationdate="20150426T053141Z">
+        <seg>類比輸入針腳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analytics are considered statistics, subject to false alarms, so it should be considered the environment and the kind of installation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140049Z" creationid="CCYU" creationdate="20150321T140049Z">
@@ -1473,6 +1505,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133206Z" creationid="Judy" creationdate="20150425T133206Z">
         <seg>第二代Arduino GSM擴充模組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arduino Pins reserved:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053041Z" creationid="Judy" creationdate="20150426T053041Z">
+        <seg>Arduino保留針腳：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2086,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clock Speed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053451Z" creationid="Judy" creationdate="20150426T053451Z">
+        <seg>時脈速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collet Spindles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134958Z" creationid="ccyu" creationdate="20131105T134958Z">
@@ -2374,6 +2422,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DC Current for 3.3V Pin</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053234Z" creationid="Judy" creationdate="20150426T053234Z">
+        <seg>3.3V針腳之直流電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DC Current per I/O Pin</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053215Z" creationid="Judy" creationdate="20150426T053215Z">
+        <seg>每一I/O針腳之直流電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESOUTTER ELECTRIC DRILL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131508Z" creationid="ccyu" creationdate="20131107T131508Z">
@@ -2494,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digital I/O Pins</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T052925Z" creationid="Judy" creationdate="20150426T052925Z">
+        <seg>數位I/O針腳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direction Control:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062539Z" creationid="CCYU" creationdate="20150322T062539Z">
@@ -2570,6 +2642,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141519Z" creationid="ccyu" creationdate="20131107T141519Z">
         <seg>每一額外伺服軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EAGLE files: Arduino-Leonardo-ETH-XX-reference-design.zip Schematic: Arduino-Leonardo-ETH-XX-schematic.pdf</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053941Z" creationid="Judy" creationdate="20150426T053934Z">
+        <seg>EAGLE檔案：Arduino-Leonardo-ETH-XX-reference-design.zip 
+電路圖：Arduino-Leonardo-ETH-XX-schematic.pdf</seg>
       </tuv>
     </tu>
     <tu>
@@ -3053,6 +3134,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152409Z" creationid="CCYU" creationdate="20150324T152409Z">
         <seg>五組‡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flash Memory</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053305Z" creationid="Judy" creationdate="20150426T053305Z">
+        <seg>快閃記憶體</seg>
       </tuv>
     </tu>
     <tu>
@@ -3705,6 +3794,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If supplied with less than 7V, however, the 5V pin may supply less than five volts and the board may be unstable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055659Z" creationid="Judy" creationdate="20150426T055659Z">
+        <seg>若供應之電壓低於7V，則5V針腳供應之電源可能低於5V而使電路板不穩定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the car was then removed it would leave a hole in the learnt background:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112513Z" creationid="CCYU" creationdate="20150322T112424Z">
@@ -3773,6 +3870,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192457Z" creationid="CCYU" creationdate="20150325T192457Z">
         <seg>若未進行此測試，應於評估報告中標明用於決定開發和拼接長度之 f'c 值符合ACI318，不得超過2500psi (17.2 MPa)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If using more than 12V, the voltage regulator may overheat and damage the board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055824Z" creationid="Judy" creationdate="20150426T055824Z">
+        <seg>若供應電壓高於12V，穩壓器可能過熱而使電路板受損。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,6 +4107,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Input Voltage Plug (limits)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T052855Z" creationid="Judy" creationdate="20150426T052855Z">
+        <seg>輸入電壓（極限值）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input Voltage Plug (recommended)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T052837Z" creationid="Judy" creationdate="20150426T052837Z">
+        <seg>輸入電壓（建議值）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input Voltage PoE (limits)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T052915Z" creationid="Judy" creationdate="20150426T052915Z">
+        <seg>PoE輸入電壓（極限值）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Input and Output</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130756Z" creationid="CCYU" creationdate="20150424T130756Z">
@@ -4106,6 +4235,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also has other implications for the behaviour of the board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T042108Z" creationid="Judy" creationdate="20150426T041824Z">
+        <seg>此外，電路板還有其它功能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also provides the sensor fusion signals such as</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125919Z" creationid="CCYU" creationdate="20150424T125654Z">
@@ -4134,6 +4271,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120743Z" creationid="CCYU" creationdate="20150322T120743Z">
         <seg>因此無法分辨出有兩個物體！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. The Leonardo ETH differs from the preceding Ethernet board in that the ATmega32u4 has built-in USB communication, eliminating the need for an external USB-to-serial converter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T041312Z" creationid="Judy" creationdate="20150426T014505Z">
+        <seg>支援微控制器所需組件皆已整合於電路板中；只需使用USB線連接至電腦或使用交流轉直流電源供應器供電或使用電池供電。Leonardo ETH與早期乙太網路擴充模組不同，其ATmega32u4具有內建USB通訊，無需使用外接USB至序列轉接器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4330,6 +4475,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KB (ATmega32u4) of which 4 KB used by bootloader</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053441Z" creationid="Judy" creationdate="20150426T053441Z">
+        <seg>KB (ATmega32u4)，其中4 KB用於開機載入程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KNIFE MATTING (Price per square meter of process area)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142025Z" creationid="ccyu" creationdate="20131107T141928Z">
@@ -4406,6 +4559,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083515Z" creationid="ccyu" creationdate="20131109T083515Z">
         <seg>Lawrenceville, GA 30043 電話： +1 678 381 2300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leads from a battery can be inserted in the Gnd and Vin pin headers of the POWER connector. The board can operate on an external supply of 6 to 20 volts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055545Z" creationid="Judy" creationdate="20150426T055545Z">
+        <seg>電池接線之針腳需插入電源連接器之Gnd和Vin針腳座，電路板可使用6至20伏特之外部電源運作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,6 +4743,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080146Z" creationid="Judy" creationdate="20131113T080146Z">
         <seg>媒體磁碟機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Micro SD card, with active voltage translators</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053914Z" creationid="Judy" creationdate="20150426T053914Z">
+        <seg>Micro SD記憶卡，包含主動式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microcontroller</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T052810Z" creationid="Judy" creationdate="20150426T052810Z">
+        <seg>微控制器</seg>
       </tuv>
     </tu>
     <tu>
@@ -4786,6 +4963,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next to the IOREF pin you can find another (currently not in use) pin, that is reserved for future usage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T052751Z" creationid="Judy" creationdate="20150426T052751Z">
+        <seg>IOREF針腳旁有另一針腳（目前未使用），該針腳保留供未來使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nose Rider Collar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082147Z" creationid="MAE" creationdate="20131106T082147Z">
@@ -4966,6 +5151,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080104Z" creationid="Judy" creationdate="20131113T080104Z">
         <seg>作業系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operating Voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T052817Z" creationid="Judy" creationdate="20150426T052817Z">
+        <seg>操作電壓</seg>
       </tuv>
     </tu>
     <tu>
@@ -5218,6 +5411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PWM Channels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053027Z" creationid="Judy" creationdate="20150426T053027Z">
+        <seg>PWM通道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page 1 of 11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092523Z" creationid="CCYU" creationdate="20150322T092523Z">
@@ -5370,6 +5571,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pin 10 is reserved for the Wiznet interface, SS for the SD card is on Pin 4. The board uses the standardized 1.0 pinout, consisting of:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043025Z" creationid="Judy" creationdate="20150426T043025Z">
+        <seg>針腳10保留給Wiznet介面、針腳4為SD卡之SS，電路板使用標準化1.0針腳排列，包含：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pin 2 is connected to the M10’s TX pin and pin 3 to its RX pin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134849Z" creationid="CCYU" creationdate="20150425T134815Z">
@@ -5491,6 +5700,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plus, it has the new W5500 TCP/IP Embedded Ethernet Controller onboard. An optional Power over Ethernet module can be added to the board as well. The Leonardo ETH has the same Wiznet Ethernet interface as the Ethernet Shield 2. An onboard microSD card reader, which can be used to store files for serving over the network, is accessible through the SD Library.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T042732Z" creationid="Judy" creationdate="20150426T042732Z">
+        <seg>其具有新版W5500 TCP/IP嵌入式乙太網路控制器， 也能輸入外接電源至乙太網路模組。Leonardo ETH具有和第二代乙太網路擴充模組相同的Wiznet乙太網路介面，內建microSD卡讀卡機可透過SD程式館存取網路設定檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pneumatic Drill Option</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091715Z" creationid="Judy" creationdate="20131112T091640Z">
@@ -5567,6 +5784,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130505Z" creationid="CCYU" creationdate="20150424T130505Z">
         <seg>消耗功率 50mW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power Over Ethernet ready Magnetic Jack</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053652Z" creationid="Judy" creationdate="20150426T053652Z">
+        <seg>乙太網路供電
+磁性接頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -7259,6 +7485,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Leonardo ETH is a microcontroller board based on the ATmega32U4 (datasheet) and the new W5500 TCP/IP Embedded Ethernet Controller (datasheet). It has 20 digital input/output pins (of which 7 can be used as PWM outputs and 12 as analog inputs), a 16 MHz crystal oscillator, a RJ45 connection, a micro USB connector, a power jack, an ICSP header, and a reset button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T013648Z" creationid="Judy" creationdate="20150426T013240Z">
+        <seg>The Leonardo ETH係以ATmega32U4（數據資料表）和新款W5500 TCP/IP嵌入式乙太網路控制器（數據資料表）為基礎架構之微控制器電路板，它具有20組數位輸入/輸出針腳（其中針腳7可作為PWM輸出而針腳12為類比輸入）、 16 MHz晶體振蕩器、RJ45連接口、micro USB連接口、電源接口、ICSP頭座針腳以及重置按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The M10 is a Quad-band GSM/GPRS modem that works at the following frequencies: GSM850MHz, GSM900MHz, DCS1800MHz and PCS1900MHz.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135013Z" creationid="CCYU" creationdate="20150425T135013Z">
@@ -7351,6 +7585,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133430Z" creationid="Judy" creationdate="20150425T133430Z">
         <seg>擴充模組板提供標準RJ45乙太網路接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shield that uses the IOREF pin will be compatible with both 3V3 and 5V (e.g Due and Uno) IO levels Arduino Boards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043830Z" creationid="Judy" creationdate="20150426T043830Z">
+        <seg>使用IOREF針腳之擴充模組能相容Arduino電路板之3V3和5V（如Due和Uno）IO電壓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7456,6 +7698,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140904Z" creationid="CCYU" creationdate="20150321T140904Z">
         <seg>分析功能僅適用於 6.4 版，舊版軟體必須升級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The board can be powered also via an external power supply, via an optional Power over Ethernet (PoE) module, or using the micro USB connection.  External (non-USB) power can come either from an AC-to-DC adapter (wall-wart) or battery.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055004Z" creationid="Judy" creationdate="20150426T055004Z">
+        <seg>電路板能透過外接電源供應器、選配乙太網路供電(PoE)或micro USB連接來供電。外接電源（非USB）可使用交流轉直流變壓器或電池。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7948,6 +8198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The recommended range is from 7 to 12 volts. The power pins are as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055902Z" creationid="Judy" creationdate="20150426T055902Z">
+        <seg>建議電壓範圍為7至12伏特，以下為電源針腳：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The required minimum sample size of reference, reliability and service-condition test numbers given in Tables 3.1, 3.2, 3.3, 3,6, and 3.7 and all tests in Table 3.8 of this standard shall be performed by the ITEA (Chapter 12) in their facility.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194040Z" creationid="CCYU" creationdate="20150325T194040Z">
@@ -8324,6 +8582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This allows the Leonardo ETH to appear to a connected computer as a mouse and keyboard, in addition to a virtual (CDC) serial / COM port.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T041657Z" creationid="Judy" creationdate="20150426T041657Z">
+        <seg>此設計使Leonardo ETH能以虛擬(CDC) 序列/COM連接埠，如同滑鼠和鍵盤一般直接連接至電腦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows the operator to easily clear  the machine bed of parts and waste and then reload the cutting area with more material to allow virtually continuous operation of the AXYZ Router.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072917Z" creationid="MAE" creationdate="20131106T072917Z">
@@ -8520,6 +8786,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T055417Z" creationid="CCYU" creationdate="20150322T055417Z">
         <seg>如此能讓使用者獲取不同時間的報告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will allow to connect the Leonardo ETH to Shields that use the I2C or TWI bus communication for their functioning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043435Z" creationid="Judy" creationdate="20150426T043435Z">
+        <seg>此設計使您能利用I2C或TWI匯流排連接擴充模組至Leonardo ETH進行通訊以執行其功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8933,6 +9207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>W5500 TCP/IP Embedded Ethernet Controller</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053506Z" creationid="Judy" creationdate="20150426T053506Z">
+        <seg>W5500 TCP/IP嵌入式乙太網路控制器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WESTERN ENGRAVER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z" creationid="ccyu" creationdate="20131107T131747Z">
@@ -9105,6 +9387,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133034Z" creationid="CCYU" creationdate="20150424T132747Z">
         <seg>當使用Arduino九軸運動擴充模組時，請務必依據使用的電路板將中斷 (Interrupt) 橋接和重置 (Reset) 橋接焊接在正確的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using the power adapter, it can be connected by plugging a 2.1mm center-positive plug into the board's power jack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055301Z" creationid="Judy" creationdate="20150426T055201Z">
+        <seg>當使用變壓器時，使用2.1mm內正極電源插頭插入變路板上之電源接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9509,6 +9799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>added SDA and SCL pins: beside the AREF pin, two TWI pins have been added.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043147Z" creationid="Judy" creationdate="20150426T043147Z">
+        <seg>增加SDA和SCL針腳：AREF針腳旁增加兩組TWI針腳，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>anchor only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172814Z" creationid="CCYU" creationdate="20150325T172814Z">
@@ -9811,6 +10109,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173109Z" creationid="CCYU" creationdate="20150325T173109Z">
         <seg>††請參閱4.7.2.2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the IOREF: it allows the shields to adapt to the IO voltage level provided by the Board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043611Z" creationid="Judy" creationdate="20150426T043611Z">
+        <seg>IOREF：使擴充模組能調整至適用電路板提供之IO電壓， </seg>
       </tuv>
     </tu>
     <tu>
