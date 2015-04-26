@@ -2791,6 +2791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each pin can provide or receive a maximum of 40 mA and has an internal pull-up resistor (disconnected by default) of 20-50 kOhms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125831Z" creationid="CCYU" creationdate="20150426T125831Z">
+        <seg>每一針腳能提供或接收之最大電流為40 mA，且其具有20-50千歐姆之內部提升電阻（預設為斷開連接）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each pump or blower will be supplied complete with a starter switch, and a wired remote starter box.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090407Z" creationid="Judy" creationdate="20131113T044757Z">
@@ -4007,6 +4015,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133051Z" creationid="CCYU" creationdate="20150424T125859Z">
         <seg>此外，感測器也整合了智慧中斷引擎，並根據以下條件中斷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, some pins have specialized functions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125907Z" creationid="CCYU" creationdate="20150426T125907Z">
+        <seg>此外，某些針腳具有特定功能：</seg>
       </tuv>
     </tu>
     <tu>
