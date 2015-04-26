@@ -2783,6 +2783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each of the 14 digital pins on the Leonardo ETH board can be used as input or output, using the pinMode(), digitalWrite(), and digitalRead() functions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125437Z" creationid="CCYU" creationdate="20150426T125429Z">
+        <seg>Leonardo ETH電路板上的14組數位針腳中，每一針腳都能利用pinMode()、digitalWrite()、和digitalRead()函數作為輸入或輸出，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each pump or blower will be supplied complete with a starter switch, and a wired remote starter box.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090407Z" creationid="Judy" creationdate="20131113T044757Z">
@@ -8643,6 +8651,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120642Z" creationid="CCYU" creationdate="20150424T120642Z">
         <seg>同時使用多塊電路板時可以利用不同顏色的保護殼來區別電路板，保護殼也能避免電路板刮傷桌面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They operate at 5 volts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125518Z" creationid="CCYU" creationdate="20150426T125518Z">
+        <seg>操作電壓為5伏特。</seg>
       </tuv>
     </tu>
     <tu>
