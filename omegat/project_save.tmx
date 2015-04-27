@@ -1210,6 +1210,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the processor resets, the bootloader starts, remaining active for about 8 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142513Z" creationid="CCYU" creationdate="20150427T142513Z">
+        <seg>處理器重置後，開機載入程式啟動，持續約 8 秒鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air Flow Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090743Z" creationid="Judy" creationdate="20131112T090743Z">
@@ -8103,6 +8111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bootloader can also be initiated by pressing the reset button on the Leonardo.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142616Z" creationid="CCYU" creationdate="20150427T142616Z">
+        <seg>也可以藉由按下 Leonardo 上的重置按鈕啟動開機載入程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The box cutter cartridge holds straight, multi purpose blades suitable forcutting awide variety of materials from thin polyester film to thick card and foam board.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160101Z" creationid="ccyu" creationdate="20131108T154851Z">
@@ -9924,6 +9940,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122422Z" creationid="CCYU" creationdate="20150427T122337Z">
         <seg>當此針腳為高電位時，LED 燈亮起；低電位時 LED 燈熄滅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When this happens, the processor will reset, breaking the USB connection to the computer (meaning that the virtual serial / COM port will disappear).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142403Z" creationid="CCYU" creationdate="20150427T142403Z">
+        <seg>觸發重置時，處理器會重置並切斷至電腦端的 USB 連線（代表虛擬序列 / COM 連接埠會消失），</seg>
       </tuv>
     </tu>
     <tu>
