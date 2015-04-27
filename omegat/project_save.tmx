@@ -687,6 +687,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A000022 (without PoE)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144949Z" creationid="CCYU" creationdate="20150427T144949Z">
+        <seg>A000022（無 PoE）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A000023 (with PoE)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144958Z" creationid="CCYU" creationdate="20150427T144958Z">
+        <seg>A000023（有 PoE）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A000024 (without PoE)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133701Z" creationid="Judy" creationdate="20150425T133653Z">
@@ -1537,6 +1553,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T124055Z" creationid="CCYU" creationdate="20150424T124055Z">
         <seg>Arduino 9 Axes Motion Shield 九軸運動擴充模組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arduino Ethernet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T145012Z" creationid="CCYU" creationdate="20150427T145012Z">
+        <seg>Arduino 乙太網路擴充模組</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,6 +3962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If more than 500 mA is applied to the USB port, the fuse will automatically break the connection until the short or overload is removed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144825Z" creationid="CCYU" creationdate="20150427T144825Z">
+        <seg>若 USB 連接埠的電流超過 500 mA 時，保險絲將會自動切斷連接直到短路或超載情況排除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If statistical equivalence cannot be shown, all tests must be repeated for that anchor element.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193300Z" creationid="CCYU" creationdate="20150325T193300Z">
@@ -5213,8 +5245,8 @@
       <tuv lang="EN-US">
         <seg>Note that the distance between digital pins 7 and 8 is 160 mil (0.16"), not an even multiple of the 100 mil spacing of the other pins.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132330Z" creationid="CCYU" creationdate="20150424T132330Z">
-        <seg>請注意數位針腳7和8之間的距離為160 mil（0.16英吋），與其它針腳的100 mil間距不同。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144935Z" creationid="CCYU" creationdate="20150424T132330Z">
+        <seg>請注意數位針腳 7 和 8 之間的距離為 160 mil（0.16 英吋），與其它針腳的 100 mil 間距不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8451,6 +8483,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132028Z" creationid="CCYU" creationdate="20150424T132028Z">
         <seg>九軸運動擴充模組電路板的最大長度和寬度分別為2.7和2.1英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum length and width of the Leonardo ETH PCB are 2.7 and 2.1 inches respectively, with the RJ45 connector and power jack extending beyond the former dimension.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144917Z" creationid="CCYU" creationdate="20150427T144917Z">
+        <seg>Leonardo ETH 電路板的最大長度和寬度分別為 2.7 和 2.1 英吋，上述尺寸不包含凸出之 RJ45 連接口和電源接口。</seg>
       </tuv>
     </tu>
     <tu>
