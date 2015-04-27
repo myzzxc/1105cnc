@@ -5691,6 +5691,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pins A0-A5 appear in the same locations as on the Uno; inputs A6-A11 are on digital i/o pins 4, 6, 8, 9, 10, and 12 respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122750Z" creationid="CCYU" creationdate="20150427T122750Z">
+        <seg>針腳 A0-A5 位置與 Uno 上相同；輸入 A6-A11 分別位於數位 i/o 針腳 4、6、8、9、10 和 12。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixels are the small square bits that make up a digital image.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103053Z" creationid="CCYU" creationdate="20150322T103053Z">
