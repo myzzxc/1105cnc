@@ -8647,6 +8647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reset is triggered when the Leonardo's virtual (CDC) serial / COM port is opened at 1200 baud and then closed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142217Z" creationid="CCYU" creationdate="20150427T142217Z">
+        <seg>當 Leonardo 的虛擬 (CDC) 序列 / COM 連接埠以每秒 1200 序列 (baud) 傳輸速率開啟然後關閉時，將觸發重置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result isacontinuous output of a microfine lubricant mist providing better cut finish and longer tool bitlife.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052613Z" creationid="MAE" creationdate="20131106T052613Z">
