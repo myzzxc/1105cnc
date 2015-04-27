@@ -1298,6 +1298,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the Leonardo ETH example sketches work as they do with the Ethernet shield 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141529Z" creationid="CCYU" creationdate="20150427T141529Z">
+        <seg>所有 Leonardo ETH 範例與第二代乙太網路擴充模組工作原理都相同，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All twin spindle configurations include an additional</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144103Z" creationid="ccyu" creationdate="20131107T144103Z">
@@ -1673,6 +1681,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072625Z" creationid="MAE" creationdate="20131106T072619Z">
         <seg>自動真空區切換為創新性解決方案，允許路達自動切換真空抽氣至刀具操作區域，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic (Software) Reset</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141709Z" creationid="CCYU" creationdate="20150427T141709Z">
+        <seg>自動（軟體）重置</seg>
       </tuv>
     </tu>
     <tu>
@@ -4863,6 +4879,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092942Z" creationid="Judy" creationdate="20131112T092942Z">
         <seg>主斷開保險絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure to change the network settings for your network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141702Z" creationid="CCYU" creationdate="20150427T141702Z">
+        <seg>請務必更改網路為正確的設置。</seg>
       </tuv>
     </tu>
     <tu>
