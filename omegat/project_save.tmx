@@ -8639,6 +8639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is a built-in LED connected to the digital pin 13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122306Z" creationid="CCYU" creationdate="20150427T122306Z">
+        <seg>內建LED 連接至數位針腳 13，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is an automatic calibration tool written that can get the user 95% of the way towards a good calibration but the last bit may have to be fine tuned depending on PTZ.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151846Z" creationid="CCYU" creationdate="20150322T151846Z">
