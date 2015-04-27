@@ -7766,6 +7766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Leonardo ETH appears as a generic keyboard and mouse, and can be programmed to control these input devices using the Keyboard and Mouse classes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130743Z" creationid="CCYU" creationdate="20150427T130743Z">
+        <seg>Leonardo ETH 於電腦中顯示為通用的鍵盤和滑鼠，並且可以使用鍵盤和滑鼠級來編寫程式以控制這些輸入裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Leonardo ETH is a microcontroller board based on the ATmega32U4 (datasheet) and the new W5500 TCP/IP Embedded Ethernet Controller (datasheet). It has 20 digital input/output pins (of which 7 can be used as PWM outputs and 12 as analog inputs), a 16 MHz crystal oscillator, a RJ45 connection, a micro USB connector, a power jack, an ICSP header, and a reset button.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T013648Z" creationid="Judy" creationdate="20150426T013240Z">
@@ -7995,6 +8003,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140904Z" creationid="CCYU" creationdate="20150321T140904Z">
         <seg>分析功能僅適用於 6.4 版，舊版軟體必須升級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The board can also connect to a wired network via Ethernet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130910Z" creationid="CCYU" creationdate="20150427T130910Z">
+        <seg>電路板也可以透過乙太網路連接到網路，</seg>
       </tuv>
     </tu>
     <tu>
@@ -8935,6 +8951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ethernet Library is fully supported.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130959Z" creationid="CCYU" creationdate="20150427T130959Z">
+        <seg>完全支援乙太網路程式館。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Grid can work in metric units (meters) or imperial unit (North American Standard).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071331Z" creationid="CCYU" creationdate="20150322T071331Z">
@@ -9748,6 +9772,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T135222Z" creationid="CCYU" creationdate="20150322T135222Z">
         <seg>當物體通過計數線時，便能知道不是背景而是重要的物件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When connecting to a network, you will need to provide an IP address and a MAC address.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130926Z" creationid="CCYU" creationdate="20150427T130926Z">
+        <seg>連接到網路時，需要提供一個 IP 位址和 MAC 位址。</seg>
       </tuv>
     </tu>
     <tu>
