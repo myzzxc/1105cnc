@@ -1973,6 +1973,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the analog inputs measure from ground to 5 volts, though it is possible to change the upper end of their range using the AREF pin and the analogReference() function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124743Z" creationid="CCYU" creationdate="20150427T124743Z">
+        <seg>預設情況下類比輸入測量接地電位至 5 伏特，但可以藉由 AREF 針腳和 analogReference() 函數改變其電壓範圍的上端值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAM-DUCT Software</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134425Z" creationid="ccyu" creationdate="20131107T134425Z">
@@ -8643,6 +8651,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120049Z" creationid="CCYU" creationdate="20150406T120049Z">
         <seg>有2種解決方案：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are a couple of other pins on the board:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124801Z" creationid="CCYU" creationdate="20150427T124801Z">
+        <seg>電路板上有幾個其它的針腳：</seg>
       </tuv>
     </tu>
     <tu>
