@@ -1925,6 +1925,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring this line LOW to reset the microcontroller.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124936Z" creationid="CCYU" creationdate="20150427T124936Z">
+        <seg>將此針腳調整為低電位以重置微控制器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brush Donut</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082141Z" creationid="MAE" creationdate="20131106T082141Z">
@@ -2178,6 +2186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125527Z" creationid="MAE" creationdate="20131105T093200Z">
         <seg>結合 HSD 快速釋放主軸，並使用七或二十一段自動轉盤，ATC 系統為最快速的換刀系統並能藉由多重刀具操作大幅改進產出能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Communication</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125112Z" creationid="CCYU" creationdate="20150427T125112Z">
+        <seg>通訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -6213,6 +6229,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reference voltage for the analog inputs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124815Z" creationid="CCYU" creationdate="20150427T124810Z">
+        <seg>類比輸入的參考電壓，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regenerative Blower</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082237Z" creationid="MAE" creationdate="20131106T082237Z">
@@ -9231,6 +9255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typically used to add a reset button to shields that block the one on the board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125106Z" creationid="CCYU" creationdate="20150427T125106Z">
+        <seg>通常會加上一個重置按鈕至遮住電路板的擴充模組上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UNIST MISTER / LUBRICATOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131706Z" creationid="ccyu" creationdate="20131107T131706Z">
@@ -9307,6 +9339,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T032834Z" creationid="MAE" creationdate="20131106T032732Z">
         <seg>主要用於大型塑膠工件切割、切割壓克力噴漆樣版以及切割膠漆塗料，使用標準塑膠切割刀具與刀架，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used with analogReference().</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124831Z" creationid="CCYU" creationdate="20150427T124831Z">
+        <seg>與 analogReference() 函數一同使用。</seg>
       </tuv>
     </tu>
     <tu>
