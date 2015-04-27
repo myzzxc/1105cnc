@@ -1410,6 +1410,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although most computers provide their own internal protection, the fuse provides an extra layer of protection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144700Z" creationid="CCYU" creationdate="20150427T144700Z">
+        <seg>雖然大多數電腦自身設有其內部保護裝置，此保險絲能提供額外的保護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aluminium gantries provide an ideal balance of strength to mass formost cutting applications however forsituations that benefit from the greater mass of asteel gantry, our heavy duty steel gantries are available forany AXYZ Series machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132322Z" creationid="ccyu" creationdate="20131105T132322Z">
@@ -7874,6 +7882,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140218Z" creationid="CCYU" creationdate="20150427T140110Z">
         <seg>Leonardo ETH 能使用 Arduino 軟體（下載）編寫程式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Leonardo ETH has a resettable polyfuse that protects your computer's USB ports from shorts and overcurrent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144545Z" creationid="CCYU" creationdate="20150427T144545Z">
+        <seg>Leonardo ETH 設有可重置的聚合物保險絲以保護電腦的 USB 連接不短路或電流過載，</seg>
       </tuv>
     </tu>
     <tu>
