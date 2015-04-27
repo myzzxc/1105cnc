@@ -583,6 +583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A SoftwareSerial library allows for serial communication on any of the Leonardo ETH's digital pins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130307Z" creationid="CCYU" creationdate="20150427T130307Z">
+        <seg>SoftwareSerial 程式館允許 Leonardo ETH 上的所有數位針腳進行序列通訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Subsidiary of the international Code Council®</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123519Z" creationid="CCYU" creationdate="20150324T123519Z">
@@ -7461,6 +7469,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ATmega32U4 also supports I2C (TWI) and SPI communication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130331Z" creationid="CCYU" creationdate="20150427T130331Z">
+        <seg>ATmega32U4 也支援 I2C (TWI) 和 SPI 通訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ATmega32U4 provides UART TTL (5V) serial communication, which is available on digital pins 0 (RX) and 1 (TX).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125349Z" creationid="CCYU" creationdate="20150427T125245Z">
@@ -7810,6 +7826,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140207Z" creationid="ccyu" creationdate="20131108T140144Z">
         <seg>擺動刀有廣泛的刀鋒長度範圍及不同攻角可供選擇，以滿足各種材料切割需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The RX and TX LEDs on the board will flash when data is being transmitted via the USB connection to the computer (but not for serial communication on pins 0 and 1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130149Z" creationid="CCYU" creationdate="20150427T130149Z">
+        <seg>當資料透過連接到電腦之 USB 傳送時，電路板上的 RX 和 TX 指示燈會閃爍（但透過針腳 0 和 1 的序列通訊時不會閃爍）。</seg>
       </tuv>
     </tu>
     <tu>
