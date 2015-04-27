@@ -4403,6 +4403,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It communicates using the AVR109 protocol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140728Z" creationid="CCYU" creationdate="20150427T140728Z">
+        <seg>其使用 AVR109 協定進行通訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. The Leonardo ETH differs from the preceding Ethernet board in that the ATmega32u4 has built-in USB communication, eliminating the need for an external USB-to-serial converter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T041312Z" creationid="Judy" creationdate="20150426T014505Z">
@@ -7497,6 +7505,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130331Z" creationid="CCYU" creationdate="20150427T130331Z">
         <seg>ATmega32U4 也支援 I2C (TWI) 和 SPI 通訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ATmega32U4 on the Arduino Leonardo ETH comes pre-burned with a bootloader that allows you to upload new code to it without the use of an external hardware programmer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140658Z" creationid="CCYU" creationdate="20150427T140658Z">
+        <seg>Arduino Leonardo ETH 上的 ATmega32U4 出廠時已預先燒錄開機載入程式，無需使用外接硬體程式編輯器便能上傳新的程式碼，</seg>
       </tuv>
     </tu>
     <tu>
