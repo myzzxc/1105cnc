@@ -7389,6 +7389,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 32U4 also allows for serial (CDC) communication over USB and appears as a virtual COM port to software on the computer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125553Z" creationid="CCYU" creationdate="20150427T125553Z">
+        <seg>32U4 也能透過 USB 作為軟體中的虛擬 COM 連接埠以進行序列 (CDC) 通訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 4000 Series machine is popular in the commercial sign, woodworking, marine, POP, and education industries for iI's fit with many common materials, and overall footprint.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T135150Z" creationid="ccyu" creationdate="20131106T135150Z">
@@ -8011,6 +8019,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112000Z" creationid="CCYU" creationdate="20150322T112000Z">
         <seg>這輛車會被視作背景的一部分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The chip also acts as a full speed USB 2.0 device, using standard USB COM drivers. On Windows, a .inf file is required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125704Z" creationid="CCYU" creationdate="20150427T125704Z">
+        <seg>此晶片為一個全速 USB 2.0 裝置，使用標準的 COM USB 驅動程式。於 Windows 作業系統中需要一個 .inf 檔案。</seg>
       </tuv>
     </tu>
     <tu>
