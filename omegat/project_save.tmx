@@ -2783,6 +2783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each analog input provides 10 bits of resolution (i.e. 1024 different values).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124418Z" creationid="CCYU" creationdate="20150427T124418Z">
+        <seg>每組類比輸入提供 10 位元的解析度（即 1024 個不同數值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each carriage isindependently driven to maintain part accuracy.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160005Z" creationid="ccyu" creationdate="20131105T125832Z">
