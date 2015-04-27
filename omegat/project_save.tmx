@@ -3290,6 +3290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For details, see the referenceand tutorials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140358Z" creationid="CCYU" creationdate="20150427T140358Z">
+        <seg>詳細資訊請參閱參考資訊和教學。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For early versions of the shield, it was necessary to press the power button to turn on the modem.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142020Z" creationid="CCYU" creationdate="20150425T142020Z">
@@ -6613,6 +6621,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select "Arduino Leonardo ETH from the Tools &gt; Board menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140310Z" creationid="CCYU" creationdate="20150427T140310Z">
+        <seg>由 Tools &gt; Board 選單中選擇 "Arduino Leonardo ETH menu，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sensitivity to freezing/thawing conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120648Z" creationid="CCYU" creationdate="20150325T120648Z">
@@ -7776,8 +7792,8 @@
       <tuv lang="EN-US">
         <seg>The Leonardo ETH can be programmed with the Arduino software (download).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140110Z" creationid="CCYU" creationdate="20150427T140110Z">
-        <seg>Leonardo ETH can be programmed with the Arduino software (download).</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140218Z" creationid="CCYU" creationdate="20150427T140110Z">
+        <seg>Leonardo ETH 能使用 Arduino 軟體（下載）編寫程式，</seg>
       </tuv>
     </tu>
     <tu>
