@@ -6237,6 +6237,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rather than requiring pressing the reset button before an upload, the Leonardo ETH is designed in a way that allows it to be reset by software running on a connected computer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141914Z" creationid="CCYU" creationdate="20150427T141914Z">
+        <seg>Leonardo ETH 的設計能由其連接之電腦所運行的軟體進行重置，上傳前無需手動按下重置按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rear</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082940Z" creationid="Judy" creationdate="20131112T082940Z">
