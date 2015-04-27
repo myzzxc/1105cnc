@@ -1434,6 +1434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Analog Inputs: A0-A5, A6 - A11 (on digital pins 4, 6, 8, 9, 10, and 12).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122454Z" creationid="CCYU" creationdate="20150427T122454Z">
+        <seg>類比輸入：A0-A5、A6-A11（數位針腳 4、6、8、9、10、12）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analytics are considered statistics, subject to false alarms, so it should be considered the environment and the kind of installation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140049Z" creationid="CCYU" creationdate="20150321T140049Z">
@@ -7654,6 +7662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Leonardo has 12 analog inputs, labeled A0 through A11, all of which can also be used as digital i/o.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122610Z" creationid="CCYU" creationdate="20150427T122610Z">
+        <seg>Leonardo 具有 12 個類比輸入，標示為 A0 至 A11，所有的類比輸入也能用作數位 i/o。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The M10 is a Quad-band GSM/GPRS modem that works at the following frequencies: GSM850MHz, GSM900MHz, DCS1800MHz and PCS1900MHz.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135013Z" creationid="CCYU" creationdate="20150425T135013Z">
@@ -8641,8 +8657,8 @@
       <tuv lang="EN-US">
         <seg>There is a built-in LED connected to the digital pin 13.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122306Z" creationid="CCYU" creationdate="20150427T122306Z">
-        <seg>內建LED 連接至數位針腳 13，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122340Z" creationid="CCYU" creationdate="20150427T122306Z">
+        <seg>內建 LED 燈連接至數位針腳 13，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9628,6 +9644,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141821Z" creationid="CCYU" creationdate="20150425T141821Z">
         <seg>按下此按鈕時，電路會重新啟動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the pin is HIGH value, the LED is on, when the pin is LOW, it's off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122422Z" creationid="CCYU" creationdate="20150427T122337Z">
+        <seg>當此針腳為高電位時，LED 燈亮起；低電位時 LED 燈熄滅。</seg>
       </tuv>
     </tu>
     <tu>
