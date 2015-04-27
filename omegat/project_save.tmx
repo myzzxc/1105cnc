@@ -7774,6 +7774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Leonardo ETH can be programmed with the Arduino software (download).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140110Z" creationid="CCYU" creationdate="20150427T140110Z">
+        <seg>Leonardo ETH can be programmed with the Arduino software (download).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Leonardo ETH is a microcontroller board based on the ATmega32U4 (datasheet) and the new W5500 TCP/IP Embedded Ethernet Controller (datasheet). It has 20 digital input/output pins (of which 7 can be used as PWM outputs and 12 as analog inputs), a 16 MHz crystal oscillator, a RJ45 connection, a micro USB connector, a power jack, an ICSP header, and a reset button.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T013648Z" creationid="Judy" creationdate="20150426T013240Z">
