@@ -3250,6 +3250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For SPI communication, use the SPI library.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130504Z" creationid="CCYU" creationdate="20150427T130504Z">
+        <seg>SPI 通訊使用 SPI 程式館。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a better visualisation, see the sample chart below forsome ofthe sizes wecommonly deliver toour customers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T145257Z" creationid="ccyu" creationdate="20131106T145257Z">
@@ -7658,6 +7666,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125340Z" creationid="CCYU" creationdate="20150427T125234Z">
         <seg>Arduino Leonardo ETH 有許多與電腦、其它 Arduino 或其它微控制器通訊的裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Arduino software includes a Wire library to simplify the use of the I2C bus.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130442Z" creationid="CCYU" creationdate="20150427T130442Z">
+        <seg>Arduino 套裝軟體中包含 Wire 程式館，可簡化 I2C 匯流排的使用。</seg>
       </tuv>
     </tu>
     <tu>
