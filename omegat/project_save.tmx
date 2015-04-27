@@ -10168,6 +10168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also bypass the bootloader and program the microcontroller through the ICSP (In-Circuit Serial Programming) header using Arduino ISP or similar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141334Z" creationid="CCYU" creationdate="20150427T141251Z">
+        <seg>此外也可以跳過開機載入程式，使用 Arduino ISP 或類似方法透過 ICSP （線上序列燒錄）頭座進行燒錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also make/receive voice calls (you will need an external speaker and microphone circuit) and send/receive SMS messages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133224Z" creationid="Judy" creationdate="20150425T133224Z">
