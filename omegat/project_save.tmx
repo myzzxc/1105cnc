@@ -1869,6 +1869,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because of the way the Leonardo ETH handles the reset, the best thing to do is to let the Arduino software try to initiate the reset before uploading, especially if you are used to pressing the reset button before uploading on other boards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T143121Z" creationid="CCYU" creationdate="20150427T143121Z">
+        <seg>基於 Leonardo ETH 處理重置的方式，最佳的方式為在上傳前讓 Arduino 軟體啟動重置，尤其是在其它電路板上習慣於上傳前按下重置按鈕的玩家應特別注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Becker Dry Vane Vacuum</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082223Z" creationid="MAE" creationdate="20131106T082223Z">
@@ -3974,6 +3982,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104641Z" creationid="CCYU" creationdate="20150322T104627Z">
         <seg>如果模型過於混雜，此演算法則無法確定前景像素是什麼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the software can't reset the board, you can always start the bootloader pressing the reset button on the board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T143240Z" creationid="CCYU" creationdate="20150427T143240Z">
+        <seg>如果軟體無法重置電路板，可以按下電路板上的重置按鈕啟動開機載入程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9507,6 +9523,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181414Z" creationid="CCYU" creationdate="20150325T181414Z">
         <seg>US/M§‖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USB Overcurrent Protection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T143301Z" creationid="CCYU" creationdate="20150427T143301Z">
+        <seg>USB 電流過載保護</seg>
       </tuv>
     </tu>
     <tu>
