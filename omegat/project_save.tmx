@@ -7453,6 +7453,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ATmega32U4 provides UART TTL (5V) serial communication, which is available on digital pins 0 (RX) and 1 (TX).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125349Z" creationid="CCYU" creationdate="20150427T125245Z">
+        <seg>ATmega32U4 提供 UART TTL (5V) 序列通訊，位於數位針腳 0 (RX) 和 1 (TX) 上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ATmega32u4 has 32 KB (with 4 KB used for the bootloader).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125107Z" creationid="CCYU" creationdate="20150426T125107Z">
@@ -7618,6 +7626,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133220Z" creationid="Judy" creationdate="20150425T133220Z">
         <seg>Arduino GSM擴充模組利用GPRS無線網路使Arduino連接至網際網路，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Arduino Leonardo ETH has a number of facilities for communicating with a computer, another Arduino, or other microcontrollers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125340Z" creationid="CCYU" creationdate="20150427T125234Z">
+        <seg>Arduino Leonardo ETH 有許多與電腦、其它 Arduino 或其它微控制器通訊的裝置。</seg>
       </tuv>
     </tu>
     <tu>
