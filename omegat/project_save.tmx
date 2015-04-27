@@ -8439,6 +8439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The onboard microSD card reader is accessible through the SD Library. When working with this library, SS is on Pin 4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T131023Z" creationid="CCYU" creationdate="20150427T131023Z">
+        <seg>電路板上之micro-SD卡讀卡機能透過SD程式館存取，當使用此程式館時，SS位於針腳4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The option set that AXYZ International has developed over the last 20years iseasily the most diverse in the industry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134110Z" creationid="MAE" creationdate="20131105T092946Z">
