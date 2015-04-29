@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directional microphones:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133328Z" creationid="CCYU" creationdate="20150429T133328Z">
+        <seg>指向性麥克風：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distributed Processing:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063823Z" creationid="CCYU" creationdate="20150322T063823Z">
@@ -3382,6 +3390,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142020Z" creationid="CCYU" creationdate="20150425T142020Z">
         <seg>早期版本之擴充模組板，必須按下電源按鈕以打開數據機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For even more convenience and discretion, Pure wirelessly connects to audio streamers and remote controls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133305Z" creationid="CCYU" creationdate="20150429T133305Z">
+        <seg>Pure 能無線連接至音訊串流並進行遙控，提供更方便且靈活的體驗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10164,6 +10180,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081438Z" creationid="Judy" creationdate="20131112T081438Z">
         <seg>寬度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wireless connectivity:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133019Z" creationid="CCYU" creationdate="20150429T133019Z">
+        <seg>無線連接能力：</seg>
       </tuv>
     </tu>
     <tu>
