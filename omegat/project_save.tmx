@@ -1605,6 +1605,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a receiver-in-canal hearing aid, Pure’s receiver sits directly in the ear canal – enabling a high level of amplification in a tiny housing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T132539Z" creationid="CCYU" creationdate="20150429T132539Z">
+        <seg>Pure 為耳道式聽力輔助裝置，其接收器直接放入耳道中 – 能在狹小的外殼中產生高倍率的音量放大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As above with Vacuum Bed, 11.5hp blower and silencer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144252Z" creationid="ccyu" creationdate="20131107T144252Z">
@@ -9521,8 +9529,8 @@
       <tuv lang="EN-US">
         <seg>To localize sound sources, maintain spatial orientation, and understand speech better, our brain utilizes information from both ears.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T130023Z" creationid="CCYU" creationdate="20150429T125826Z">
-        <seg>也能定位聲源、保持空間定向能力且更清楚地理解言語，使我們的大腦可以利用來自兩耳的資訊，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T132631Z" creationid="CCYU" creationdate="20150429T125826Z">
+        <seg>我們的大腦可以利用來自兩耳的資訊定位聲源、保持空間定向能力且更清楚地理解言語，</seg>
       </tuv>
     </tu>
     <tu>
