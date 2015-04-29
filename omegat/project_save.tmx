@@ -3412,8 +3412,8 @@
       <tuv lang="EN-US">
         <seg>For even more convenience and discretion, Pure wirelessly connects to audio streamers and remote controls.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133305Z" creationid="CCYU" creationdate="20150429T133305Z">
-        <seg>Pure 能無線連接至音訊串流並進行遙控，提供更方便且靈活的體驗。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T134222Z" creationid="CCYU" creationdate="20150429T133305Z">
+        <seg>Pure 能無線連接至音訊串流並進行遙控，提供更方便且靈活的操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3772,8 +3772,8 @@
       <tuv lang="EN-US">
         <seg>Help understanding in difficult listening situations by focusing on sound from the front while reducing noise from other directions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133532Z" creationid="CCYU" creationdate="20150429T133532Z">
-        <seg>集中來自前方的聲音並降低其它方向的噪音來協助使用者更清楚辨識嘈雜環境中的聲音。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T134235Z" creationid="CCYU" creationdate="20150429T133532Z">
+        <seg>集中來自前方的聲音並降低其它方向的噪音，協助使用者更清楚辨識嘈雜環境中的聲音。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4421,8 +4421,8 @@
       <tuv lang="EN-US">
         <seg>Inspired by these advantages of hearing with two ears, or binaural hearing, Pure brings you cutting-edge technology to deliver the most natural binaural listening experience possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T132854Z" creationid="CCYU" creationdate="20150429T130555Z">
-        <seg>Pure 的設計受到以上雙耳聽力優勢的啟發，並藉由尖端的技術為您提供最自然的雙耳聽力體驗。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T134214Z" creationid="CCYU" creationdate="20150429T130555Z">
+        <seg>Pure 的設計受到以上雙耳聽力優勢的啟發，並藉由尖端的技術為使用者提供最自然的雙耳聽力體驗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10244,6 +10244,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T123230Z" creationid="ccyu" creationdate="20131108T123142Z">
         <seg>含 8Gb 內部記憶體，有足夠空間可快速順暢地執行 S-Curve 軌跡程式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With a choice of power levels, Pure is flexible to match your needs now and in the future.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T134137Z" creationid="CCYU" creationdate="20150429T134137Z">
+        <seg>Pure 能彈性選擇功率級以符合使用者當下和未來的需求。</seg>
       </tuv>
     </tu>
     <tu>
