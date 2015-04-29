@@ -4349,8 +4349,8 @@
       <tuv lang="EN-US">
         <seg>Inspired by these advantages of hearing with two ears, or binaural hearing, Pure brings you cutting-edge technology to deliver the most natural binaural listening experience possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T130911Z" creationid="CCYU" creationdate="20150429T130555Z">
-        <seg>以上雙耳聽力的優勢，能藉由 Pure 尖端的技術為您提供最自然的雙耳聆聽體驗。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T131124Z" creationid="CCYU" creationdate="20150429T130555Z">
+        <seg>以上雙耳聽力的優勢，能藉由 Pure 尖端的技術為您提供最自然的雙耳聽力體驗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6969,6 +6969,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122505Z" creationid="CCYU" creationdate="20150325T122505Z">
         <seg>剪力、單側邊緣錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Siemens Pure does all this with the industry's lowest battery consumption.** This provides the best listening experience, all the time, without concerns about battery life.* Two independent clinical studies have shown that Siemens hearing instruments with binaural processing provide better than normal hearing capabilities in certain demanding listening environments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T131111Z" creationid="CCYU" creationdate="20150429T131111Z">
+        <seg>西門子 Pure 具有業界最低的耗電量，** 能提供最好的聽力輔助體驗，所有的時間，而不用擔心電池 life.* 兩個獨立的臨床研究表明西門子聽力儀器與雙耳加工提供比正常的聽力能力在某些苛刻的聽音環境。</seg>
       </tuv>
     </tu>
     <tu>
