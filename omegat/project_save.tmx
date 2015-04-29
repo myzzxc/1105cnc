@@ -3746,6 +3746,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help understanding in difficult listening situations by focusing on sound from the front while reducing noise from other directions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133532Z" creationid="CCYU" creationdate="20150429T133532Z">
+        <seg>集中來自前方的聲音並降低其它方向的噪音來協助使用者更清楚辨識嘈雜環境中的聲音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High Capacity Pressure Foot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070255Z" creationid="MAE" creationdate="20131106T050653Z">
@@ -3934,6 +3942,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133015Z" creationid="CCYU" creationdate="20150424T133015Z">
         <seg>中斷針腳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IP67-rated:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133547Z" creationid="CCYU" creationdate="20150429T133547Z">
+        <seg>IP67 級：</seg>
       </tuv>
     </tu>
     <tu>
