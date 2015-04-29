@@ -6213,6 +6213,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pure is equipped with the next generation of BestSound™ Technology and allows wearers to understand speech in difficult listening situations even better than those with normal hearing.* This world first advancement is a complete revolution in audiological engineering and delivers a perfect balance of rich, natural sound quality and audibility.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T130032Z" creationid="CCYU" creationdate="20150429T125602Z">
+        <seg>Pure 具備新一代的 BestSound™ 技術，即使在具有正常聽力人士也難以清楚聽見的環境中，也可使配戴者辨別語句。* 這項徹底革新的技術是世界上聽力學工程領域中最頂尖的技術，能提供豐富、自然音質和清晰度的完美平衡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Purpose</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150944Z" creationid="CCYU" creationdate="20150324T150944Z">
@@ -9247,6 +9255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is especially helpful in noisy and challenging listening situations like restaurants or parties.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T130259Z" creationid="CCYU" creationdate="20150429T130259Z">
+        <seg>這些特性對於處於嘈雜難以清楚聆聽聲音的環境，如餐廳或宴會場合中特別有幫助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is like a reversed office scanner.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140325Z" creationid="CCYU" creationdate="20150322T140010Z">
@@ -9475,6 +9491,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135409Z" creationid="CCYU" creationdate="20150425T135409Z">
         <seg>若要藉由行動網路連接，電路板需要安裝一張由網路營運商提供之SIM卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To localize sound sources, maintain spatial orientation, and understand speech better, our brain utilizes information from both ears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T130023Z" creationid="CCYU" creationdate="20150429T125826Z">
+        <seg>也能定位聲源、保持空間定向能力且更清楚地理解言語，使我們的大腦可以利用來自兩耳的資訊，</seg>
       </tuv>
     </tu>
     <tu>
