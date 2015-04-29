@@ -2205,6 +2205,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charging contacts:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133749Z" creationid="CCYU" creationdate="20150429T133749Z">
+        <seg>充電接點：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chpt6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151108Z" creationid="CCYU" creationdate="20150324T151108Z">
@@ -3111,6 +3119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External receiver:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133942Z" creationid="CCYU" creationdate="20150429T133942Z">
+        <seg>外部接收器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extraction System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062345Z" creationid="Judy" creationdate="20131113T062152Z">
@@ -3494,6 +3510,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172557Z" creationid="CCYU" creationdate="20150325T172557Z">
         <seg>懸空和水平方向，測試規範之最大直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For recharging Pure and to avoid hassle with tiny batteries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133933Z" creationid="CCYU" creationdate="20150429T133933Z">
+        <seg>能對 Pure 充電，避免電池用盡的困擾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6273,6 +6297,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T130032Z" creationid="CCYU" creationdate="20150429T125602Z">
         <seg>Pure 具備新一代的 BestSound™ 技術，即使在具有正常聽力人士也難以清楚聽見的環境中，也可使配戴者辨別語句。* 這項徹底革新的技術是世界上聽力學工程領域中最頂尖的技術，能提供豐富、自然音質和清晰度的完美平衡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure is resistant to moisture, sweat, dust and dirt – for greater reliability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133723Z" creationid="CCYU" creationdate="20150429T133723Z">
+        <seg>Pure 防水氣、汗水、灰塵和髒汙 – 具有更高的可靠性。</seg>
       </tuv>
     </tu>
     <tu>
