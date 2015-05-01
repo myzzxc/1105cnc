@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2077,6 +2077,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CGThermal, IMPORTANT RECEIVING INFORMATION PLEASE READ IMMEDIATELY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150501T020239Z" creationid="Judy" creationdate="20150501T020239Z">
+        <seg>CGThermal, 重要接收資訊請立即查閱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CNC Router Systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072949Z" creationid="MAE" creationdate="20131106T072949Z">
@@ -3570,6 +3578,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For this reason, warranty provisions require that inspection of heat exchangers be completed upon receiving.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150501T020400Z" creationid="Judy" creationdate="20150501T020400Z">
+        <seg>因此保固條款中要求於接收時完成熱交換器的檢驗工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Four screw holes allow the board to be attached to a surface or case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132140Z" creationid="CCYU" creationdate="20150424T132140Z">
@@ -3734,6 +3750,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T045544Z" creationid="MAE" creationdate="20131106T045544Z">
         <seg>硬化鋼彈出式定位銷為氣動式驅動，可快速、重複放置切割材料於機台上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heat exchangers could be affected by handling during transit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150501T020317Z" creationid="Judy" creationdate="20150501T020317Z">
+        <seg>熱交換器可能於運輸作業途中受到影響，</seg>
       </tuv>
     </tu>
     <tu>
@@ -6345,6 +6369,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080107Z" creationid="Judy" creationdate="20131113T080107Z">
         <seg>RAM 記憶體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RECEIVING INSPECTION INSTRUCTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150501T020247Z" creationid="Judy" creationdate="20150501T020247Z">
+        <seg>接收檢驗作業說明</seg>
       </tuv>
     </tu>
     <tu>
@@ -9747,6 +9779,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134419Z" creationid="CCYU" creationdate="20150425T015906Z">
         <seg>利用乙太網路程式館來編寫網路擴充模組連接到網路之設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the following instruction for inspections UPON RECEIPT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150501T020636Z" creationid="Judy" creationdate="20150501T020623Z">
+        <seg>依據以下指示說明於接收時進行檢驗。</seg>
       </tuv>
     </tu>
     <tu>
