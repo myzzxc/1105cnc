@@ -4114,6 +4114,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the above testing and documentation are not completed, any damage found later will be the responsibility of the customer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133018Z" creationid="CCYU" creationdate="20150501T133018Z">
+        <seg>若未完成上述測試和文件記錄，之後發現的任何損壞將由客戶自行負責。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the car was then removed it would leave a hole in the learnt background:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112513Z" creationid="CCYU" creationdate="20150322T112424Z">
@@ -8459,6 +8467,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112000Z" creationid="CCYU" creationdate="20150322T112000Z">
         <seg>這輛車會被視作背景的一部分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The carrier is responsible for equipment losses and damage during shipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133148Z" creationid="CCYU" creationdate="20150501T133148Z">
+        <seg>運輸業者僅對運輸途中所造成之遺失和損傷負責，</seg>
       </tuv>
     </tu>
     <tu>
