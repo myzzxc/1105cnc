@@ -1701,6 +1701,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attach the hydrostatic pump to the test fixture and bi4 ng the process to the correct final test pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135745Z" creationid="CCYU" creationdate="20150501T135745Z">
+        <seg>接上加壓泵至測試裝置使其達到正確的最終測試壓力，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Tracking</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092417Z" creationid="CCYU" creationdate="20150322T092417Z">
@@ -2488,8 +2496,8 @@
       <tuv lang="EN-US">
         <seg>Continue to fill unit using test fixture until water comes out between fixture and shell nozzle (this allows the art to bleed out as the process side is filled with water).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135342Z" creationid="CCYU" creationdate="20150501T135342Z">
-        <seg>持續注水直到水由夾具和外殼噴嘴間流出來 （這允許流血了，因為工藝側充滿水的藝術） 的夾具和殼牌噴嘴之間的單位。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135516Z" creationid="CCYU" creationdate="20150501T135342Z">
+        <seg>持續注水直到水由夾具和外殼噴嘴間流出來 （當運作端充滿水時能將空氣排出），</seg>
       </tuv>
     </tu>
     <tu>
@@ -9259,6 +9267,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103011Z" creationid="CCYU" creationdate="20150322T103011Z">
         <seg>達成此目的的方法是模擬每個像素以「辨識」背景，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then tighten top flange to proper nozzle torque specifications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135625Z" creationid="CCYU" creationdate="20150501T135625Z">
+        <seg>接著依照噴嘴扭矩規格適當地鎖緊頂端法蘭。</seg>
       </tuv>
     </tu>
     <tu>
