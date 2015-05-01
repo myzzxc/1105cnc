@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Condition of skid and shipping covers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T141832Z" creationid="CCYU" creationdate="20150501T141832Z">
+        <seg>墊木和運送外箱狀況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuration Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134301Z" creationid="MAE" creationdate="20131105T093008Z">
@@ -3113,8 +3121,8 @@
       <tuv lang="EN-US">
         <seg>Examine the skid and shipping covers for damage in transit.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T131446Z" creationid="CCYU" creationdate="20150501T131446Z">
-        <seg>檢查枕木和外箱是否於運輸途中損傷。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T141800Z" creationid="CCYU" creationdate="20150501T131446Z">
+        <seg>檢查墊木和外箱是否於運輸途中損傷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6256,6 +6264,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T082400Z" creationid="Judy" creationdate="20131112T080041Z">
         <seg>請將本文件最後一頁表格完成、簽名並回傳，以確保完成安裝前準備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please measure spring height and compare to values on drawing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T141953Z" creationid="CCYU" creationdate="20150501T141953Z">
+        <seg>請量測彈簧墊片高度並與裝配總圖所列數值比較</seg>
       </tuv>
     </tu>
     <tu>
@@ -10328,6 +10344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Was the-torquing required?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142014Z" creationid="CCYU" creationdate="20150501T142014Z">
+        <seg>扭矩是否為規範值？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We always suggest the analytical test before you buy, get them on the Internet and test it for 30 days.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141452Z" creationid="CCYU" creationdate="20150321T141452Z">
@@ -11101,6 +11125,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192813Z" creationid="CCYU" creationdate="20150325T192813Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>good / damaged</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T141846Z" creationid="CCYU" creationdate="20150501T141846Z">
+        <seg>良好 / 損壞</seg>
       </tuv>
     </tu>
     <tu>
