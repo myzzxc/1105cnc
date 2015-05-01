@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142145Z" creationid="CCYU" creationdate="20150501T142145Z">
+        <seg>日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deck Height (h2)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081752Z" creationid="Judy" creationdate="20131112T081620Z">
@@ -6300,6 +6308,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please record duration of test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142115Z" creationid="CCYU" creationdate="20150501T142115Z">
+        <seg>請紀錄測試時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please record test pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142103Z" creationid="CCYU" creationdate="20150501T142103Z">
+        <seg>請紀錄測試壓力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please take a few minutes to complete and return this form by email no later than 1 week  prior to installation .</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093137Z" creationid="Judy" creationdate="20131113T075458Z">
@@ -6497,6 +6521,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T124008Z" creationid="CCYU" creationdate="20150324T123810Z">
         <seg>早期核准版本 2014年5月、2013年12月、2013年6月、2013年2月、2012年2月、2011年6月、2009年11月、2009年6 月、2008年10月、2008年8 月、2008年5 月、2008年2月2008年1月、2007年10月、2007年6月、2007年2月、2006年6月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print name</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142235Z" creationid="CCYU" creationdate="20150501T142235Z">
+        <seg>檢查人員姓名</seg>
       </tuv>
     </tu>
     <tu>
@@ -7393,6 +7425,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093655Z" creationid="Judy" creationdate="20131113T072314Z">
         <seg>簽名：…………………………………… 姓名：…………………………………… 日期：……………………………………</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signature of inspector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142141Z" creationid="CCYU" creationdate="20150501T142141Z">
+        <seg>檢查人員簽名</seg>
       </tuv>
     </tu>
     <tu>
@@ -10344,6 +10384,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Was hydrostatic test performed?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142053Z" creationid="CCYU" creationdate="20150501T142053Z">
+        <seg>是否進行水壓測試？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Was the-torquing required?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142014Z" creationid="CCYU" creationdate="20150501T142014Z">
@@ -11326,6 +11374,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043611Z" creationid="Judy" creationdate="20150426T043611Z">
         <seg>IOREF：使擴充模組能調整至適用電路板提供之IO電壓， </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yes / no</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142035Z" creationid="CCYU" creationdate="20150501T142035Z">
+        <seg>是 / 否</seg>
       </tuv>
     </tu>
     <tu>
