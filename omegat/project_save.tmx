@@ -3031,6 +3031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examine the skid and shipping covers for damage in transit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T131446Z" creationid="CCYU" creationdate="20150501T131446Z">
+        <seg>檢查枕木和外箱是否於運輸途中損傷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example code of a game to demonstrate the Any motion and No motion Interrupt features</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134633Z" creationid="CCYU" creationdate="20150424T134633Z">
@@ -6537,6 +6545,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150027Z" creationid="CCYU" creationdate="20150324T145705Z">
         <seg>可靠度測試用以確認外力和黏結/滑落之間的相關性，列於表 3.6 之 測試編號10a和10b中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove covers and visually inspect all components for damage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T131619Z" creationid="CCYU" creationdate="20150501T131619Z">
+        <seg>拆下外箱並檢查所有原件外觀是否有所損傷。</seg>
       </tuv>
     </tu>
     <tu>
