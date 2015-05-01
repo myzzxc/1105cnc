@@ -7205,6 +7205,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shell/Tube Unit Shellside Hydro-Test Procedure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134343Z" creationid="CCYU" creationdate="20150501T134343Z">
+        <seg>外殼/管殼程水壓試驗程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Siemens Pure does all this with the industry's lowest battery consumption.** This provides the best listening experience, all the time, without concerns about battery life.* Two independent clinical studies have shown that Siemens hearing instruments with binaural processing provide better than normal hearing capabilities in certain demanding listening environments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T131623Z" creationid="CCYU" creationdate="20150429T131111Z">
@@ -10300,6 +10308,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152022Z" creationid="CCYU" creationdate="20150322T152022Z">
         <seg>當進行物體匹配時，此演算法有時會匹配到非目標的物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When moving the heat exchanger, all lifting points should be on the s hell portion, not on the bonnets, to avoid damage to the internal parts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134352Z" creationid="CCYU" creationdate="20150501T134139Z">
+        <seg>移動熱交換器時，所有的吊掛點應位於外管部分，不得於閥帽上吊掛以避免損壞內部零件。</seg>
       </tuv>
     </tu>
     <tu>
