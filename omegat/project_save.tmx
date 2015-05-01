@@ -7207,8 +7207,8 @@
       <tuv lang="EN-US">
         <seg>Shell/Tube Unit Shellside Hydro-Test Procedure</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134343Z" creationid="CCYU" creationdate="20150501T134343Z">
-        <seg>外殼/管殼程水壓試驗程式</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134512Z" creationid="CCYU" creationdate="20150501T134343Z">
+        <seg>殼/管之外管水壓測試程序</seg>
       </tuv>
     </tu>
     <tu>
@@ -10314,8 +10314,8 @@
       <tuv lang="EN-US">
         <seg>When moving the heat exchanger, all lifting points should be on the s hell portion, not on the bonnets, to avoid damage to the internal parts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134352Z" creationid="CCYU" creationdate="20150501T134139Z">
-        <seg>移動熱交換器時，所有的吊掛點應位於外管部分，不得於閥帽上吊掛以避免損壞內部零件。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134440Z" creationid="CCYU" creationdate="20150501T134139Z">
+        <seg>移動熱交換器時，所有的吊掛點應位於外殼部分，不得於閥帽上吊掛以避免損壞內部零件。</seg>
       </tuv>
     </tu>
     <tu>
