@@ -4082,6 +4082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any components are missing or damaged or if leaks still occur after the shellside hydrostatic test, notify the carrier immediately and file an appropriate claim.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133437Z" creationid="CCYU" creationdate="20150501T133437Z">
+        <seg>若有任何元件遺失、損傷或於外管測試後仍有洩漏，請立即通知運輸業者並申請賠償。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it finds a match it can move the PTZ by the amount needed to get the object in the middle again - in this case the red arrow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150929Z" creationid="CCYU" creationdate="20150322T150909Z">
@@ -4150,6 +4158,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T142305Z" creationid="CCYU" creationdate="20150321T142305Z">
         <seg>如果客戶沒有 Digifort 監控，請務必取得以下版本：標準版、專業版或企業版，並為每一台攝影機取得專屬分析授權碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the heat exchanger is not immediately installed, drain the test water completely to pre\lent freeze damage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133619Z" creationid="CCYU" creationdate="20150501T133619Z">
+        <seg>若不立即安裝熱交換器，測試後需將水完全排乾以避免結凍造成損壞。</seg>
       </tuv>
     </tu>
     <tu>
