@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compare them to what is listed on the general assembly drawings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132350Z" creationid="CCYU" creationdate="20150501T132036Z">
+        <seg>與裝配總圖上鎖列之數值進行比較。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compatibility</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132332Z" creationid="CCYU" creationdate="20150424T132332Z">
@@ -6469,6 +6477,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Re-torque may be necessary due to gasket “set" during transportation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132316Z" creationid="CCYU" creationdate="20150501T132127Z">
+        <seg>由於運輸途中墊片可能“貼緊”，因此可能需要重新上扭矩，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rear</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082940Z" creationid="Judy" creationdate="20131112T082940Z">
@@ -6481,6 +6497,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T144653Z" creationid="CCYU" creationdate="20150321T144653Z">
         <seg>Digifort 分析軟體授權購買建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to your assembly drawing for the proper compressed disc spring height and torque value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132435Z" creationid="CCYU" creationdate="20150501T132325Z">
+        <seg>適當壓縮的碟型彈簧墊片壓縮高度和扭矩值請參閱裝配總圖。</seg>
       </tuv>
     </tu>
     <tu>
