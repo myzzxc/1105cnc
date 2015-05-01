@@ -3279,6 +3279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill the service side with water using plant line pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134933Z" creationid="CCYU" creationdate="20150501T134933Z">
+        <seg>以廠內管路水壓注水至供應端，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filter by Object:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062945Z" creationid="CCYU" creationdate="20150322T062945Z">
@@ -4519,6 +4527,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T134214Z" creationid="CCYU" creationdate="20150429T130555Z">
         <seg>Pure 的設計受到以上雙耳聽力優勢的啟發，並藉由尖端的技術為使用者提供最自然的雙耳聽力體驗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install blind flange to lower shell side nozzle, being careful not to exceed the maximum nozzle torque rating.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134802Z" creationid="CCYU" creationdate="20150501T134802Z">
+        <seg>安裝管口蓋板至較低的外殼側噴嘴上，注意勿超過噴嘴之額定最大扭矩。</seg>
       </tuv>
     </tu>
     <tu>
