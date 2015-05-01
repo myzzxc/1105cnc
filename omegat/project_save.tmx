@@ -3095,6 +3095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examine the packing area and test flange gaskets for external leaks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140416Z" creationid="CCYU" creationdate="20150501T140416Z">
+        <seg>檢查包裝區域和測試法蘭墊片外部有無洩漏，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examine the skid and shipping covers for damage in transit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T131446Z" creationid="CCYU" creationdate="20150501T131446Z">
@@ -4234,6 +4242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the pressure has dropped, bring the unit back to recommended test pressure as needed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140341Z" creationid="CCYU" creationdate="20150501T140341Z">
+        <seg>若壓力下降，必須調整裝置壓力回到建議之壓力值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the software can't reset the board, you can always start the bootloader pressing the reset button on the board.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T143240Z" creationid="CCYU" creationdate="20150427T143240Z">
@@ -4823,6 +4839,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120739Z" creationid="CCYU" creationdate="20150424T120739Z">
         <seg>其設計也能與麵包版一同使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not unusual for the initial pressure to drop off due to the water soaking into the gaskets and/or trapped air being absorbed into the water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140300Z" creationid="CCYU" creationdate="20150501T140300Z">
+        <seg>由於水浸滿了墊片且空氣溶於水中，通常初始壓力不會下降，</seg>
       </tuv>
     </tu>
     <tu>
