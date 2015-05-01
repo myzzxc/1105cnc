@@ -2237,6 +2237,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check that there is no leakage from the test flange gaskets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135859Z" creationid="CCYU" creationdate="20150501T135859Z">
+        <seg>檢查測試法蘭墊片有無滲漏，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the compressed height of the disc springs at the shell flange and the torque loading of the tube side bonnet bolts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132000Z" creationid="CCYU" creationdate="20150501T131955Z">
@@ -2496,8 +2504,8 @@
       <tuv lang="EN-US">
         <seg>Continue to fill unit using test fixture until water comes out between fixture and shell nozzle (this allows the art to bleed out as the process side is filled with water).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135516Z" creationid="CCYU" creationdate="20150501T135342Z">
-        <seg>持續注水直到水由夾具和外殼噴嘴間流出來 （當運作端充滿水時能將空氣排出），</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135823Z" creationid="CCYU" creationdate="20150501T135342Z">
+        <seg>持續注水直到水由裝置和外殼噴嘴間流出來 （當運作端充滿水時能將空氣排出），</seg>
       </tuv>
     </tu>
     <tu>
@@ -2778,6 +2786,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063823Z" creationid="CCYU" creationdate="20150322T063823Z">
         <seg>分散式處理：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not exceed the design pressure shown on the assembly drawing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140042Z" creationid="CCYU" creationdate="20150501T140042Z">
+        <seg>請勿超過裝配總圖所列之設計壓力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4138,6 +4154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no external leak is present, after 5 minutes check the pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140109Z" creationid="CCYU" creationdate="20150501T140109Z">
+        <seg>若外部無洩漏，則於 5 分鐘後檢查壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If statistical equivalence cannot be shown, all tests must be repeated for that anchor element.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193300Z" creationid="CCYU" creationdate="20150325T193300Z">
@@ -4222,6 +4246,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T113156Z" creationid="CCYU" creationdate="20150322T113156Z">
         <seg>若場景過於雜亂，則辨識背景會不穩定——則大量的可能目標物體會破壞辨識的背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is, check the test flange torque and tighten.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135935Z" creationid="CCYU" creationdate="20150501T135935Z">
+        <seg>若有滲漏，檢查測試法蘭扭矩並擰緊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4557,8 +4589,8 @@
       <tuv lang="EN-US">
         <seg>Install flange with test fixture on shell nozzle loosely.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135357Z" creationid="CCYU" creationdate="20150501T135143Z">
-        <seg>使用測試夾具將法蘭鬆鬆地安裝至外殼噴嘴。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135810Z" creationid="CCYU" creationdate="20150501T135143Z">
+        <seg>將法蘭和測試裝置鬆鬆地安裝至外殼噴嘴。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10019,6 +10051,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T131840Z" creationid="ccyu" creationdate="20131108T131623Z">
         <seg>客戶可使用我們的刀具切削系統處理廣泛的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the hydrostatic pump increase the pressure back to the final test pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140034Z" creationid="CCYU" creationdate="20150501T140034Z">
+        <seg>使用加壓泵將水壓調整回到正確的最終測試壓力，</seg>
       </tuv>
     </tu>
     <tu>
