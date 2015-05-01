@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4239,6 +4239,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062650Z" creationid="Judy" creationdate="20131113T062342Z">
         <seg>本段為 AXYZ 8.5HP (6.3Kw) 除塵系統之安裝指示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immediately upon receipt and before removing the heat exchanger from the carrier vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T131324Z" creationid="CCYU" creationdate="20150501T131324Z">
+        <seg>接收貨物後，由貨車上卸載熱交換器前，</seg>
       </tuv>
     </tu>
     <tu>
