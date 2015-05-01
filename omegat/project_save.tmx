@@ -2221,6 +2221,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check the compressed height of the disc springs at the shell flange and the torque loading of the tube side bonnet bolts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132000Z" creationid="CCYU" creationdate="20150501T131955Z">
+        <seg>檢查外殼法蘭的碟形彈簧墊片的壓縮高度和管側閥帽螺栓的扭矩，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chpt6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151108Z" creationid="CCYU" creationdate="20150324T151108Z">
