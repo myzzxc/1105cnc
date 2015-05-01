@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140654Z" creationid="CCYU" creationdate="20150501T140654Z">
+        <seg>註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Communication</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125112Z" creationid="CCYU" creationdate="20150427T125112Z">
@@ -4146,6 +4154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If found, tighten down pet specifications to stop leaks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140521Z" creationid="CCYU" creationdate="20150501T140521Z">
+        <seg>若發現洩漏，依照規格鎖緊以阻止洩漏，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it finds a match it can move the PTZ by the amount needed to get the object in the middle again - in this case the red arrow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150929Z" creationid="CCYU" creationdate="20150322T150909Z">
@@ -5355,6 +5371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Model #</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140648Z" creationid="CCYU" creationdate="20150501T140648Z">
+        <seg>型號 #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most Widely Accepted and Trusted</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123233Z" creationid="CCYU" creationdate="20150324T123233Z">
@@ -5651,10 +5675,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once again pressurize unit to proper test pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140557Z" creationid="CCYU" creationdate="20150501T140557Z">
+        <seg>再次將裝置調整至合適的測試壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the camera is calibrated and we know how much area is represented by a group of pixels we can classify the object.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T133421Z" creationid="CCYU" creationdate="20150322T133421Z">
         <seg>當攝像機經過校正後，我們就能知道一組像素所代表的面積，從而進行物體分類。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the unit is stabilized a pressure test is recorded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140631Z" creationid="CCYU" creationdate="20150501T140631Z">
+        <seg>當裝置穩定後，紀錄壓力測試結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6565,6 +6605,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RECEIVING INSPECTION CHECKLIST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140636Z" creationid="CCYU" creationdate="20150501T140636Z">
+        <seg>接收檢查清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RECEIVING INSPECTION INSTRUCTIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150501T020247Z" creationid="Judy" creationdate="20150501T020247Z">
@@ -7201,6 +7249,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182646Z" creationid="CCYU" creationdate="20150325T182646Z">
         <seg>於最大長期溫度下對持續負荷之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serial #</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140644Z" creationid="CCYU" creationdate="20150501T140644Z">
+        <seg>序號 #</seg>
       </tuv>
     </tu>
     <tu>
