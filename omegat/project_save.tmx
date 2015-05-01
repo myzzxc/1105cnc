@@ -2622,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DO NOT exceed the design pressure shown on the assembly drawing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132730Z" creationid="CCYU" creationdate="20150501T132730Z">
+        <seg>請勿超過裝配總圖所列之設計壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DUAL Y CARRIAGE STEPPER (Dual Y ready same price)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125141Z" creationid="ccyu" creationdate="20131107T125009Z">
@@ -5923,6 +5931,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perform a shellside hydrostatic test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132705Z" creationid="CCYU" creationdate="20150501T132705Z">
+        <seg>進行外管水壓測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phone Number: …………………………………………….………………………………</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093318Z" creationid="Judy" creationdate="20131113T075933Z">
@@ -6023,6 +6039,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090323Z" creationid="Judy" creationdate="20131113T043732Z">
         <seg>請注意：客戶有義務確保電源連接符合當地電氣法規。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please complete and sign the attached inspection report and return a copy to CG Thermal within one week of receipt to validate the equipment warranty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132921Z" creationid="CCYU" creationdate="20150501T132921Z">
+        <seg>請填寫附件之檢查報告並簽名後，於接收後一週內回傳副本至 CG Thermal 以使保固生效。</seg>
       </tuv>
     </tu>
     <tu>
