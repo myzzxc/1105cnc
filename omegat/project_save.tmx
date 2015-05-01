@@ -2486,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continue to fill unit using test fixture until water comes out between fixture and shell nozzle (this allows the art to bleed out as the process side is filled with water).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135342Z" creationid="CCYU" creationdate="20150501T135342Z">
+        <seg>持續注水直到水由夾具和外殼噴嘴間流出來 （這允許流血了，因為工藝側充滿水的藝術） 的夾具和殼牌噴嘴之間的單位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert your Router to a plasma cutter in minutes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T140056Z" creationid="ccyu" creationdate="20131105T140056Z">
@@ -4535,6 +4543,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134802Z" creationid="CCYU" creationdate="20150501T134802Z">
         <seg>安裝管口蓋板至較低的外殼側噴嘴上，注意勿超過噴嘴之額定最大扭矩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install flange with test fixture on shell nozzle loosely.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135357Z" creationid="CCYU" creationdate="20150501T135143Z">
+        <seg>使用測試夾具將法蘭鬆鬆地安裝至外殼噴嘴。</seg>
       </tuv>
     </tu>
     <tu>
