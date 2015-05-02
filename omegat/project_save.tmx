@@ -1474,6 +1474,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow 3 to 4 feet clearance at the floating end for removal of the dome.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073425Z">
+        <seg>於浮動端預留 3 到 4 英尺間隙作為拆除圓頂室之用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow alarms to be triggered when a car, person, animal or other pre-registered classification stop for a specified time in a virtual area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062533Z">
@@ -3571,6 +3579,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053320Z">
         <seg>浮動端外殼法蘭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOUNDATION AND SUPPORTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073458Z">
+        <seg>基板和支撐</seg>
       </tuv>
     </tu>
     <tu>
@@ -9903,6 +9919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The heat exchanger should be mounted on a foundation or support structure adequate to prevent movement, vibrations, or settling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073549Z">
+        <seg>熱交換器應安裝於足以防止位移、振動或下沈的基板或支撐結構上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The heavy duty drag knife is designed for knife cutting applications that involve heavy gauge flexible materials.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T033828Z">
@@ -10507,6 +10531,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T021736Z">
         <seg>電路板上包含一組micro-SD卡插槽，用於儲存網路設定之檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore allow the length of the exchanger plus I foot from the stationary end of the bundle removal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073334Z">
+        <seg>因此需有熱交換器的長度再加上固定端算起 1 英尺的長度空間，</seg>
       </tuv>
     </tu>
     <tu>
