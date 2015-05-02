@@ -4674,6 +4674,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If automatic controls are used on the steam line, use slow opening valves to prevent water hammer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T074738Z">
+        <seg>若蒸汽管道使用自動控制，應使用慢速開啟閥門，防止水快速衝出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If found, tighten down pet specifications to stop leaks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140521Z">
@@ -8529,6 +8537,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141052Z">
         <seg>狀態：當數據機通電且從GSM/GPRS網路傳輸資料時亮起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steam lines should be properly trapped and provisions made to drain all water legs which might develop in the supply line on shutdown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T074632Z">
+        <seg>蒸汽管道應有適當密封性，且應依規定設有將關機時管道內殘水排乾之設計。</seg>
       </tuv>
     </tu>
     <tu>
