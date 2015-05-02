@@ -11023,6 +11023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will permit condensate to drain by gravity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T075227Z">
+        <seg>以利用重力將凝結水排出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Three</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182942Z">
