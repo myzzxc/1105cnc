@@ -7701,6 +7701,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduction of correct disc spring height will increase the bolt load and reduce the expansion capability of the shell, which could result in damage to the heat exchanger,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091620Z">
+        <seg>降低正確的碟形彈簧高度將會增加螺栓負荷並降低外殼膨脹範圍，從而可能導致熱交換器的損壞，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to ASME Code Section VIII, Division I, for recommendations on these devices.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085035Z">
@@ -7825,6 +7833,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T131619Z">
         <seg>拆下外箱並檢查所有原件外觀是否有所損傷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace damaged 0 r defective disc springs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091435Z">
+        <seg>更換損壞或有缺陷之碟形彈簧墊片。</seg>
       </tuv>
     </tu>
     <tu>
