@@ -6931,6 +6931,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Piping connections can be made to the steel shell using normal precautions for good practice in flange alignment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T074255Z">
+        <seg>管道可以依照一般方式使用法蘭對準連接至鋼製外殼，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixels are the small square bits that make up a digital image.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103053Z">
