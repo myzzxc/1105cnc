@@ -1893,6 +1893,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic control valves, when closed or almost closed, can allow steam to enter the heat exchanger without providing enough pressure to discharge the condensate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T075012Z">
+        <seg>當自動控制閥門關閉或快要關閉時，無需提供足夠的壓力便能讓蒸汽進入熱交換器以排   出冷凝液體，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic feed drills are fixture mounted tools that combine linear feed and rotation forall drilling operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151621Z">
@@ -10587,6 +10595,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200334Z">
         <seg>因此，黏結強度測試使用之混凝土具有完工後擺放最長時間限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, condensate lines should be arranged so there is no back pressure after the trap, and a vacuum breaker should be provided on the shell.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T075150Z">
+        <seg>因此，應設有冷凝管路使關閉後沒有回壓，且外殼上應設有真空斷路器，</seg>
       </tuv>
     </tu>
     <tu>
