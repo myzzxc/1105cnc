@@ -8269,6 +8269,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>START-UP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T132512Z">
+        <seg>起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STATIONARY END</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053019Z">
@@ -11463,6 +11471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To start the heat exchanger, nm the cold medium through first, then follow with the hot medium.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T132705Z">
+        <seg>起動熱交換器時，先以低溫煤介運行一次，然後再使用高溫媒介運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To the right is a picture of the motor stand with the extraction system blower and a Pump used for vacuum holdown.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091345Z">
@@ -11691,6 +11707,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014754Z">
         <seg>使用加壓泵將液壓調整回到正確的最終測試壓力，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the recommended start- up procedures will reduce the possibility of damage due to mechanical stresses resulting from rapid temperature changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T132506Z">
+        <seg>使用建議之起動程序將能降低由於急劇的溫度變化所導致的 機械應力 造成損害的可能性。</seg>
       </tuv>
     </tu>
     <tu>
