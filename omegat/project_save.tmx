@@ -3842,6 +3842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flexible couplings, installed as close to the exchanger as possible, are recommended to isolate the unit from vibration, misalignment, thermal expansion of the piping or other loads, which can impose stress on the internal IMPERVITE® parts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T082714Z">
+        <seg>建議使用彈性管接頭以隔離振動、錯位、管道熱膨脹或其他負載，上述現象可能對 IMPERVITE® 內部零件造成負擔，彈性管接頭盡可能安裝至靠近熱交換器之處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focusing on productivity, AXYZ has engineered machine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081630Z">
@@ -6147,6 +6155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T082913Z">
+        <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE: REFER TO ASSEMBLY DRAWING FOR ACTUAL DESIGN AND TEST PRESSURES.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T060003Z">
@@ -6583,6 +6599,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023129Z">
         <seg>過載和短路保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overtorquing can put undue loading on the internal IMPERVITE®, which may cause it to crack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T082902Z">
+        <seg>過高的扭矩值會對 IMPERVITE® 內部零件造成負載並可能會導致破裂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11315,6 +11339,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053219Z">
         <seg>用於手工製作零件或無 CAD 資料之老舊零件掃描。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use gaskets that are easy to seal and require low torque values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T082947Z">
+        <seg>使用易於密封且只需要低扭矩值之墊片，</seg>
       </tuv>
     </tu>
     <tu>
