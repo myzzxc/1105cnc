@@ -8879,8 +8879,8 @@
       <tuv lang="EN-US">
         <seg>Steam lines should be properly trapped and provisions made to drain all water legs which might develop in the supply line on shutdown.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T074632Z">
-        <seg>蒸汽管道應有適當密封性，且應依規定設有將關機時管道內殘水排乾之設計。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133211Z">
+        <seg>蒸汽管道應有適當疏水性，且應依規定設有將關機時管道內殘水排乾之設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10751,6 +10751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The steam trap bypass valve should be open when starting up a steam-heated heat exchanger.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133238Z">
+        <seg>蒸汽加熱式熱交換器起動時，應打開蒸汽疏水旁通閥，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system can generate alarms on events that are occurring at the time of operation for example: a car circling against the tide, a person who is trespassing on property or even warn about suspicious movement of people.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052017Z">
@@ -10953,8 +10961,8 @@
       <tuv lang="EN-US">
         <seg>Therefore, condensate lines should be arranged so there is no back pressure after the trap, and a vacuum breaker should be provided on the shell.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T075150Z">
-        <seg>因此，應設有冷凝管路使關閉後沒有回壓，且外殼上應設有真空斷路器，</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133150Z">
+        <seg>因此，應設有冷凝管路使疏水後沒有回壓，且外殼上應設有真空斷路器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11347,6 +11355,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T124520Z">
         <seg>此加工組態常用於一般僅使用兩刀或三刀之加工製程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This valve can be closed when a steady flow of steam has been attained.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133338Z">
+        <seg>當蒸氣達到穩定流量時能關上此閥門。</seg>
       </tuv>
     </tu>
     <tu>
