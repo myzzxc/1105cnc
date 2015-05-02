@@ -6323,6 +6323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On horizontally mounted exchangers, one support has drilled mounting holes and the other support has slotted holes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073809Z">
+        <seg>水平安裝之熱交換器，一支撐點應安裝至鑽孔內，而另一支撐為插槽孔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Mega, the hardware SS pin, 53, is not used to select either the W5500 or the SD card, but it must be kept as an output or the SPI interface won't work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133423Z">
