@@ -3631,6 +3631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failure to use four increments could result in broken tubes 0" other damage to the heat exchanger.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T092232Z">
+        <seg>未以四階段鎖緊可能導管道破裂或交換器其它部份受損。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faster and more flexible production isaseasy as choosing asingle, double oreven triple head carriage formultiple tasking operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160018Z">
@@ -7729,6 +7737,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T054634Z">
         <seg>請參閱圖 1-3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the assembly drawing for complete instructions on setting the disc springs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T092314Z">
+        <seg>安裝碟形彈簧墊片之完整說明請參閱裝配圖。</seg>
       </tuv>
     </tu>
     <tu>
