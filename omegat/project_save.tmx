@@ -5611,6 +5611,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nothing contained herein is to be interpreted as authorization to practice a patented invention without a license.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T013602Z" creationid="Judy" creationdate="20150502T013602Z">
+        <seg>此處所載的資料未經許可不得作為專利之授權。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notify CG Thermal LLC immediately if any questions arise or if the heat exchanger is to be rejected and returned,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134006Z" creationid="CCYU" creationdate="20150501T134006Z">
