@@ -2455,8 +2455,8 @@
       <tuv lang="EN-US">
         <seg>Check bolts for tightness on all shellside nozzle blind flanges.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T054759Z">
-        <seg>檢查所有外管噴嘴之管口蓋板的螺栓是否緊固。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081353Z">
+        <seg>檢查所有外管開口之管口蓋板的螺栓是否緊固。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,8 +2800,8 @@
       <tuv lang="EN-US">
         <seg>Continue to fill unit using test fixture until water comes out between fixture and shell nozzle (this allows the art to bleed out as the process side is filled with water).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T075938Z">
-        <seg>持續注水直到水由裝置和外殼噴嘴間流出來 （當輸送端充滿水時能將空氣排出），</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081327Z">
+        <seg>持續注水直到水由裝置和外殼開口間流出來 （當輸送端充滿水時能將空氣排出），</seg>
       </tuv>
     </tu>
     <tu>
@@ -3377,8 +3377,8 @@
       <tuv lang="EN-US">
         <seg>Elevate top nozzle while filling and testing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055347Z">
-        <seg>注水和測試同時提高頂部噴嘴。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081409Z">
+        <seg>注水和測試同時提高頂部開口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3721,8 +3721,8 @@
       <tuv lang="EN-US">
         <seg>Fill shellside with water using a hose or piping through the top nozzle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055309Z">
-        <seg>使用軟管或管道由頂部噴嘴注水至外管，</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081402Z">
+        <seg>使用軟管或管道由頂部開口注水至外管，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4516,8 +4516,8 @@
       <tuv lang="EN-US">
         <seg>IMPERVITE® NOZZLE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T054010Z">
-        <seg>IMPERVITE® 噴嘴</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081345Z">
+        <seg>IMPERVITE® 開口</seg>
       </tuv>
     </tu>
     <tu>
@@ -5245,16 +5245,16 @@
       <tuv lang="EN-US">
         <seg>Install blind flange to lower shell side nozzle, being careful not to exceed the maximum nozzle torque rating.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134802Z">
-        <seg>安裝管口蓋板至較低的外殼側噴嘴上，注意勿超過噴嘴之額定最大扭矩。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081307Z">
+        <seg>安裝管口蓋板至較低的外殼側開口上，注意勿超過開口之額定最大扭矩。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Install flange with test fixture on shell nozzle loosely.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135810Z">
-        <seg>將法蘭和測試裝置鬆鬆地安裝至外殼噴嘴。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081317Z">
+        <seg>將法蘭和測試裝置鬆鬆地安裝至外殼開口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6963,6 +6963,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Piping to the IMPERVITE® process nozzles should be studied and planned carefully to prevent any stresses from being transmitted to the IMPERVITE® parts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081241Z">
+        <seg>連接至 IMPERVITE® 輸送嘴process nozzles should be studied and planned carefully to prevent any stresses from being transmitted to the IMPERVITE® parts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixels are the small square bits that make up a digital image.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103053Z">
@@ -7911,8 +7919,8 @@
       <tuv lang="EN-US">
         <seg>SHELL NOZZLE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053208Z">
-        <seg>外殼噴嘴</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081342Z">
+        <seg>外殼開口</seg>
       </tuv>
     </tu>
     <tu>
@@ -10521,8 +10529,8 @@
       <tuv lang="EN-US">
         <seg>Then tighten top flange to proper nozzle torque specifications.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135625Z">
-        <seg>接著依照噴嘴扭矩規格適當地鎖緊頂端法蘭。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081338Z">
+        <seg>接著依照開口扭矩規格適當地鎖緊頂端法蘭。</seg>
       </tuv>
     </tu>
     <tu>
