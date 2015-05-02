@@ -2101,6 +2101,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before removing the stationary end head, all spring tension on the floating end must he released.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070155Z">
+        <seg>卸下固定端頭之前, 必須釋放浮動端所有彈簧墊片之張力，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bellows Seal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082204Z">
@@ -7457,6 +7465,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133313Z">
         <seg>真空抽氣使用之再生鼓風機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release the disc spring tension in four steps in a diagonal rotation to avoid damage to bolts and IMPERVITE® parts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070347Z">
+        <seg>以對角為一組分四次鬆開碟形彈簧墊片，以避免損壞螺栓與 IMPERVITE® 零件。</seg>
       </tuv>
     </tu>
     <tu>
