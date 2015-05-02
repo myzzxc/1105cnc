@@ -359,6 +359,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2-5 Pressure Relief Devices/Thermowells2-3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015112Z" creationid="Judy" creationdate="20150502T015112Z">
+        <seg>2-5 洩壓裝置/熱套管 2-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2-6 Disc Springs 2-3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015148Z" creationid="Judy" creationdate="20150502T015148Z">
+        <seg>2-6 碟型彈簧 2-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>21 of 61</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200554Z" creationid="CCYU" creationdate="20150325T200554Z">
@@ -439,6 +455,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3-1 Operating Precautions3-1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015213Z" creationid="Judy" creationdate="20150502T015213Z">
+        <seg>3-1 操作注意事項 3-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3-2 Startup3-1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015221Z" creationid="Judy" creationdate="20150502T015221Z">
+        <seg>3-2 啟動 3-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3048mm x 1841mm Process Area</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144132Z" creationid="ccyu" creationdate="20131107T144132Z">
@@ -467,6 +499,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053114Z" creationid="Judy" creationdate="20150426T053114Z">
         <seg>4用於選擇SD卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4-1 Inspection and Cleaning4-1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015256Z" creationid="Judy" creationdate="20150502T015256Z">
+        <seg>4-1 檢測和清潔 4-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4-2 Gaskets and Packing Replacement4-1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015338Z" creationid="Judy" creationdate="20150502T015338Z">
+        <seg>4-2 墊圈和填料更換 4-1</seg>
       </tuv>
     </tu>
     <tu>
@@ -3930,6 +3978,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heat Exchanger Maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015235Z" creationid="Judy" creationdate="20150502T015235Z">
+        <seg>熱交換器維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heat exchangers could be affected by handling during transit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150501T020317Z" creationid="Judy" creationdate="20150501T020317Z">
@@ -5883,6 +5939,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015155Z" creationid="Judy" creationdate="20150502T015155Z">
+        <seg>操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Option</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091705Z" creationid="Judy" creationdate="20131112T091705Z">
@@ -7273,6 +7337,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014819Z" creationid="Judy" creationdate="20150502T014819Z">
         <seg>第二節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section III.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015152Z" creationid="Judy" creationdate="20150502T015152Z">
+        <seg>第三節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section IV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015225Z" creationid="Judy" creationdate="20150502T015225Z">
+        <seg>第四節</seg>
       </tuv>
     </tu>
     <tu>
