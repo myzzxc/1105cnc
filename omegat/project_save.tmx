@@ -7901,6 +7901,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SHELLSIDE PIPING REQUIREMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T074056Z">
+        <seg>外管管道要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SOFTWARE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022719Z">
@@ -10995,6 +11003,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134144Z">
         <seg>藉由不斷進行研發，並與業界合作夥伴和供應商的密切合作，AXYZ 有能力生產為我們客戶帶來極大價值之大型機台配件組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tighten the drilled bracket and use double nut at the slotted bracket so there is clearance between the bolts and slotted holes to allow the bracket to slide as the shell thermally expands and contracts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T074041Z">
+        <seg>鎖緊鑽孔支架並於插槽支架處使用雙螺母，使螺栓和插槽孔之間留有間隙，使支架於外殼熱膨冷縮時能滑動。</seg>
       </tuv>
     </tu>
     <tu>
