@@ -3858,6 +3858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For IMPERVITE® nozzles 0.5 to 0.75 inch wide, woven TFE tape is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081906Z">
+        <seg>0.5 至 0.75 英吋寬之 IMPERVITE® 開口，建議使用 TFE 膠帶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For SPI communication, use the SPI library.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130504Z">
@@ -6303,6 +6311,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T054918Z">
         <seg>物件計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Observe the stated torque values on your assembly drawing for the IMPERVITE® nozzles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081749Z">
+        <seg>IMPERVITE® 開口的扭矩值請遵循裝配圖所列之數值，</seg>
       </tuv>
     </tu>
     <tu>
