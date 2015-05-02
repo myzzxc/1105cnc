@@ -1562,6 +1562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although IMPERVITE® itself is immune to thermal shock, do NOT thermal shock the heat exchanger with a hot liquid or vapor when it is empty 01' cold nor with a cold fluid when the heat exchanger is hot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T132006Z">
+        <seg>雖然 IMPERVITE® 本身能耐熱衝擊，請勿於熱交換器未裝載液體時或處於低溫時將高溫液體或蒸氣注入，或於熱交換器高溫時注入冷液體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although most computers provide their own internal protection, the fuse provides an extra layer of protection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144700Z">
