@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8979,6 +8979,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050811Z" creationid="MAE" creationdate="20131106T050811Z">
         <seg>高容量集屑腳為 AXYZ 國際雕刻機台的重要的元件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The information, recommendations, and opinions set forth herein are offered solely for your consideration, inquiry and verification and are not, in part or total, to be construed as constituting a warranty or representation for which we assume legal responsibility.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T012740Z" creationid="Judy" creationdate="20150502T012740Z">
+        <seg>此文件所載之資訊、建議和意見僅供審議、 研究和確認，其部分或全部內容不作為保固用途或具法律效用。</seg>
       </tuv>
     </tu>
     <tu>
