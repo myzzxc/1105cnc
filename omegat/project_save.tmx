@@ -6635,6 +6635,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open valves slowly, flooding the unit and venting all air, before allowing full flow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T132820Z">
+        <seg>以最大流量運轉前，慢慢打開閥門，將裝置充滿水並排出所有空氣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opening the heat exchanger while under pressure could result in explosive movement of the clamp plates or intern al parts, causing bodily harm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T122750Z">
