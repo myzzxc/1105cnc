@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do NOT remove the clamps plates until all pressure is relieved and liquid s have been drained.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T122430Z">
+        <seg>壓力洩放且液體排空前請勿拆除夾板，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not exceed the design pressure shown on the assembly drawing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140042Z">
@@ -6607,6 +6615,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T071326Z">
         <seg>打開閥門以釋放壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening the heat exchanger while under pressure could result in explosive movement of the clamp plates or intern al parts, causing bodily harm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T122750Z">
+        <seg>於加壓情況下打開熱交換器會導致夾板或內部零件爆炸性位移而造成身體傷害。</seg>
       </tuv>
     </tu>
     <tu>
