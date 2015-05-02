@@ -353,8 +353,8 @@
       <tuv lang="EN-US">
         <seg>2-4 Process Piping Requirements2-2</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015001Z">
-        <seg>2-4 運作管道要求 2-2</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T080013Z">
+        <seg>2-4  輸送管道要求 2-2</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,8 +2800,8 @@
       <tuv lang="EN-US">
         <seg>Continue to fill unit using test fixture until water comes out between fixture and shell nozzle (this allows the art to bleed out as the process side is filled with water).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135823Z">
-        <seg>持續注水直到水由裝置和外殼噴嘴間流出來 （當運作端充滿水時能將空氣排出），</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T075938Z">
+        <seg>持續注水直到水由裝置和外殼噴嘴間流出來 （當輸送端充滿水時能將空氣排出），</seg>
       </tuv>
     </tu>
     <tu>
@@ -4748,8 +4748,8 @@
       <tuv lang="EN-US">
         <seg>If pressure drop still continues, inspect process openings for internal leaks indicated by water accumulation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T071034Z">
-        <seg>若壓力仍繼續下降，檢視運作開口是否有積水，積水則為內部洩露。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T080029Z">
+        <seg>若壓力仍繼續下降，檢視輸送開口是否有積水，積水則為內部洩露。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6691,10 +6691,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PROCESS PIPING REQUIREMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T080038Z">
+        <seg>輸送管道要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PROCESS SIDE NOZZLE WITH SHIPPING COVER</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055844Z">
-        <seg>運作端噴嘴和運送蓋板</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T080022Z">
+        <seg>輸送端噴嘴和運送蓋板</seg>
       </tuv>
     </tu>
     <tu>
