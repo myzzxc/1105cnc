@@ -11944,6 +11944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When put into service, the gaskets may tend to cold flow slightly and may require adjustment of the spring height.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091023Z">
+        <seg>當運作時，墊片可能會使流體略為冷卻，此時可能需要調整彈簧墊片的高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the pin is HIGH value, the LED is on, when the pin is LOW, it's off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122422Z">
