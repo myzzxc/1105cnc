@@ -9663,6 +9663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bundle is removed from the stationary end.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073136Z">
+        <seg>管道組由固定端拆下，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The button labeled "Power" is connected to the modem and will power the modem on and off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141933Z">
@@ -11147,6 +11155,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054027Z">
         <seg>通用 5Y 壓力腳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless adequate provisions can be made for taking down the complete heat exchanger, it is recommended that sufficient clearance be allowed for dismantling the heat exchanger for maintenance and repair purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073109Z">
+        <seg>除了能滿足裝設整組熱交換器適當規定外，建議預留足夠的空間作為維護和維修時拆除熱交換器之用。</seg>
       </tuv>
     </tu>
     <tu>
