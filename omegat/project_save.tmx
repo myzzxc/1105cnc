@@ -4602,6 +4602,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If pressure initially drops 5 to 10 psi due to gasket absorption, repressure to test pressure and continue for at least 15 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150502T061600Z" creationid="CCYU" creationdate="20150502T061600Z">
+        <seg>若最初壓力因為墊片吸收而下降 5 至 10 psi，再加壓至測試壓力並至少等待 15 分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If statistical equivalence cannot be shown, all tests must be repeated for that anchor element.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193300Z" creationid="CCYU" creationdate="20150325T193300Z">
