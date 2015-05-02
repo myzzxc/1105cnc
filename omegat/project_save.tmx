@@ -4562,6 +4562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a leak is noted at the stationary shell flange, check the stationary end bolts for proper torque.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065828Z">
+        <seg>若在固定端法蘭發現洩漏，請檢查固定端螺栓扭矩值是否適當。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a leak is noted, retighten the follower bolts evenly and only enough to stop the leak.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065712Z">
@@ -4638,6 +4646,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150502T061600Z">
         <seg>若最初壓力因為墊片吸收而下降 5 至 10 psi，再加壓至測試壓力並至少等待 15 分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If retorquing is necessary, open valve to relieve pressure, then retorqued bolts using the star pattern sequence shown in Figure 4-15.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070045Z">
+        <seg>若需重新調整扭矩直，打開閥門以釋放壓力，接著依照圖 4-15 所示以星形順序重新鎖緊螺栓至適當扭矩值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7473,6 +7489,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115910Z">
         <seg>因為系統中的店內存貨量未減少，因此不會要求補貨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repressure and continue test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070051Z">
+        <seg>重新加壓並繼續測試。</seg>
       </tuv>
     </tu>
     <tu>
