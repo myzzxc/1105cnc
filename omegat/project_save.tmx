@@ -1346,6 +1346,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After filling the vessel, allow approximately 5 minutes for trapped air to escape.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055545Z" creationid="Judy" creationdate="20150502T055545Z">
+        <seg>注滿水後靜待約 5 分鐘使空氣排出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the processor resets, the bootloader starts, remaining active for about 8 seconds.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142513Z" creationid="CCYU" creationdate="20150427T142513Z">
@@ -2297,6 +2305,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070334Z" creationid="Judy" creationdate="20131113T070334Z">
         <seg>電腦需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONNECTION FOR HOSE OR PRESSURE PIPING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055737Z" creationid="Judy" creationdate="20150502T055737Z">
+        <seg>軟管或加壓管路連接點</seg>
       </tuv>
     </tu>
     <tu>
@@ -6411,6 +6427,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRESSURE GAUGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055742Z" creationid="Judy" creationdate="20150502T055742Z">
+        <seg>壓力計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRICES ARE EX WORKS TORONTO, CANADA.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023426Z" creationid="MAE" creationdate="20131107T023426Z">
@@ -6969,6 +6993,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T060153Z" creationid="MAE" creationdate="20131106T060153Z">
         <seg>壓力腳配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressurize until the pressure gauge reads the shellside design pressure shown on the heat exchanger nameplate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055708Z" creationid="Judy" creationdate="20150502T055708Z">
+        <seg>加壓直到壓力計讀數達到熱交換器銘牌上標示之外管設計壓力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8337,6 +8369,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160229Z" creationid="ccyu" creationdate="20131107T131353Z">
         <seg>彎刀之裁刀匣（含刀片）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEST FLANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055757Z" creationid="Judy" creationdate="20150502T055757Z">
+        <seg>測試法蘭</seg>
       </tuv>
     </tu>
     <tu>
