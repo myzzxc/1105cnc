@@ -4594,10 +4594,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If necessary, open valve to release pressure, retighten fixtures, and replace test gaskets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065143Z">
+        <seg>若有必要時，打開閥門以釋放壓力，重新裝緊裝置，並更換測試墊片，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no external leak is present, after 5 minutes check the pressure.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140109Z">
         <seg>若外部無洩漏，則於 5 分鐘後檢查壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If pressure continues to drop slowly, check test fixtures and test gaskets for leaks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065052Z">
+        <seg>若壓力持續緩慢下降，檢查測試裝置和測試墊片是否洩漏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7441,6 +7457,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115910Z">
         <seg>因為系統中的店內存貨量未減少，因此不會要求補貨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repressure vessel and continue test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065211Z">
+        <seg>重新加壓並繼續測試。</seg>
       </tuv>
     </tu>
     <tu>
