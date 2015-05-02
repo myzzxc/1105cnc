@@ -1989,6 +1989,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BLIND FLANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055912Z" creationid="Judy" creationdate="20150502T055912Z">
+        <seg>管口蓋板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BOARD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132821Z" creationid="CCYU" creationdate="20150424T132821Z">
@@ -3623,6 +3631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 1-3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T060006Z" creationid="Judy" creationdate="20150502T060006Z">
+        <seg>圖 1-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill shellside with water using a hose or piping through the top nozzle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055309Z" creationid="Judy" creationdate="20150502T054905Z">
@@ -4366,6 +4382,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133229Z" creationid="Judy" creationdate="20150425T133229Z">
         <seg>現今世界上，Arduino電路板每天都協助玩家們創造出成千上萬的新應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hydrostatic Test Setup and Pressures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T060114Z" creationid="Judy" creationdate="20150502T060114Z">
+        <seg>抑壓測試安裝和壓力</seg>
       </tuv>
     </tu>
     <tu>
@@ -5915,6 +5939,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE: REFER TO ASSEMBLY DRAWING FOR ACTUAL DESIGN AND TEST PRESSURES.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T060003Z" creationid="Judy" creationdate="20150502T060003Z">
+        <seg>註：實際的設計和試驗壓力請參閱裝配圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE: The Preface for ICC-ES acceptance criteria was revised in July 2011 to reflect changes in policy.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143739Z" creationid="CCYU" creationdate="20150324T143739Z">
@@ -6447,6 +6479,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022733Z" creationid="MAE" creationdate="20131107T022733Z">
         <seg>印刷切割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PROCESS SIDE NOZZLE WITH SHIPPING COVER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055844Z" creationid="Judy" creationdate="20150502T055844Z">
+        <seg>運作端噴嘴和運送蓋板</seg>
       </tuv>
     </tu>
     <tu>
