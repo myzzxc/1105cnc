@@ -327,6 +327,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2-1 Installation Location2-1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014850Z" creationid="Judy" creationdate="20150502T014850Z">
+        <seg>2-1 安裝地點 2-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2-2 Foundations and Supports2-1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014907Z" creationid="Judy" creationdate="20150502T014907Z">
+        <seg>2-2 基板和支撐 2-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2-3 Shellside Piping Requirements2-1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014935Z" creationid="Judy" creationdate="20150502T014935Z">
+        <seg>2-3 外管管道要求 2-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2-4 Process Piping Requirements2-2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015001Z" creationid="Judy" creationdate="20150502T015001Z">
+        <seg>2-4 運作管道要求 2-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>21 of 61</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200554Z" creationid="CCYU" creationdate="20150325T200554Z">
@@ -4691,6 +4723,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014830Z" creationid="Judy" creationdate="20150502T014830Z">
+        <seg>安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation at deep embedment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182841Z" creationid="CCYU" creationdate="20150325T182841Z">
@@ -7225,6 +7265,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014501Z" creationid="Judy" creationdate="20150502T014501Z">
         <seg>第一節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section II.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014819Z" creationid="Judy" creationdate="20150502T014819Z">
+        <seg>第二節</seg>
       </tuv>
     </tu>
     <tu>
@@ -10337,8 +10385,8 @@
       <tuv lang="EN-US">
         <seg>Using the hydrostatic pump increase the pressure back to the final test pressure.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140034Z" creationid="CCYU" creationdate="20150501T140034Z">
-        <seg>使用加壓泵將水壓調整回到正確的最終測試壓力，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014754Z" creationid="CCYU" creationdate="20150501T140034Z">
+        <seg>使用加壓泵將液壓調整回到正確的最終測試壓力，</seg>
       </tuv>
     </tu>
     <tu>
