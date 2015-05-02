@@ -3134,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do NOT blow out the heat exchanger with air if material normally handled is flammable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T122204Z">
+        <seg>若一般處理的材料為易燃性材料時，請勿以空氣吹入熱交換器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do NOT operate the heat exchanger at pressure or temperature conditions exceeding those specified on its nameplate and specification sheet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T121940Z">
@@ -8793,6 +8801,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062252Z">
         <seg>超速警報：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spreading these materials could result in a fire and serious bodily.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T122246Z">
+        <seg>這些材料散佈可能會導致火災和嚴重身體傷害。</seg>
       </tuv>
     </tu>
     <tu>
