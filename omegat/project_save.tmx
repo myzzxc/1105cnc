@@ -4658,6 +4658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If pressure drop still continues, inspect process openings for internal leaks indicated by water accumulation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T071034Z">
+        <seg>若壓力仍繼續下降，檢視運作開口是否有積水，積水則為內部洩露。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If pressure initially drops 5 to 10 psi due to gasket absorption, repressure to test pressure and continue for at least 15 minutes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150502T061600Z">
@@ -5799,6 +5807,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092942Z">
         <seg>主斷開保險絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maintain constant test pressure for at least 15 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070907Z">
+        <seg>維持固定測試壓力至少 15 分鐘，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10865,8 +10881,8 @@
       <tuv lang="EN-US">
         <seg>To continue test, plug both tubesheet face openings of a broken tube with rubber stoppers, reinstall domes, and repressure the vessel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070654Z">
-        <seg>以橡皮塞封住管板面的破管兩管板臉開口、 重新安裝的圓頂，和 repressure 的船隻。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070837Z">
+        <seg>以橡皮塞封住破裂管道的管板面開口， 重新安裝圓頂室並再加壓以繼續測試。</seg>
       </tuv>
     </tu>
     <tu>
