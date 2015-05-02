@@ -519,6 +519,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4-3 Tube Plugging Procedure4-2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015411Z" creationid="Judy" creationdate="20150502T015411Z">
+        <seg>4-3 管路阻塞處理程序 4-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4-4 Tube Replacement4-3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015417Z" creationid="Judy" creationdate="20150502T015417Z">
+        <seg>4-4 管路更換 4-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4-5 Tubesheet and Dome Repair4-9</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015511Z" creationid="Judy" creationdate="20150502T015511Z">
+        <seg>4-5 管板和圓頂室維修 4-9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4-6 Heat Exchanger Disassembly4-10</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015532Z" creationid="Judy" creationdate="20150502T015532Z">
+        <seg>4-6 熱交換器拆裝 4-10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4-7 Heat Exchanger Reassembly4-12</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015606Z" creationid="Judy" creationdate="20150502T015606Z">
+        <seg>4-7 熱交換器組裝 4-12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4004 * (1524mm x 1219mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142153Z" creationid="ccyu" creationdate="20131107T142153Z">
@@ -1889,6 +1929,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142956Z" creationid="ccyu" creationdate="20131107T142956Z">
         <seg>條碼讀取機含電纜（僅適用於 Panelbuilder）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BC-, S-, AND L-SERIES HEAT EXCHANGERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015646Z" creationid="Judy" creationdate="20150502T015646Z">
+        <seg>BC-、S-、B 和 L-系列熱交換器</seg>
       </tuv>
     </tu>
     <tu>
@@ -4226,6 +4274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INTRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015711Z" creationid="Judy" creationdate="20150502T015711Z">
+        <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IP67-rated:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133547Z" creationid="CCYU" creationdate="20150429T133547Z">
@@ -4859,10 +4915,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015656Z" creationid="Judy" creationdate="20150502T015656Z">
+        <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introductions</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014508Z" creationid="Judy" creationdate="20150502T014508Z">
-        <seg>導論</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015659Z" creationid="Judy" creationdate="20150502T014508Z">
+        <seg>簡介</seg>
       </tuv>
     </tu>
     <tu>
@@ -6949,6 +7013,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recommended</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015615Z" creationid="Judy" creationdate="20150502T015615Z">
+        <seg>建議事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to your assembly drawing for the proper compressed disc spring height and torque value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132435Z" creationid="CCYU" creationdate="20150501T132325Z">
@@ -7213,6 +7285,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION I.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015708Z" creationid="Judy" creationdate="20150502T015708Z">
+        <seg>第一節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SERIES TABLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134509Z" creationid="ccyu" creationdate="20131107T134509Z">
@@ -7353,6 +7433,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015225Z" creationid="Judy" creationdate="20150502T015225Z">
         <seg>第四節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section V.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015609Z" creationid="Judy" creationdate="20150502T015609Z">
+        <seg>第五節</seg>
       </tuv>
     </tu>
     <tu>
@@ -7737,6 +7825,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154712Z" creationid="CCYU" creationdate="20150322T154712Z">
         <seg>煙霧具有平滑的線條，缺少銳利的邊緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spare Parts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015634Z" creationid="Judy" creationdate="20150502T015634Z">
+        <seg>備品零件</seg>
       </tuv>
     </tu>
     <tu>
