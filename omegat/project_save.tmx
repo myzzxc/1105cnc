@@ -3118,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disc springs are used on all studs for the BC-Series heat exchangers and on approximately 1/4, of the studs for the S- and L-Series heat exchangers at the floating end of the exchanger.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T090235Z">
+        <seg>BC- 系列熱交換器上所有螺拴、S- 和 L- 系列熱交換器上約 1/4 的螺栓使用碟形彈簧墊片於交換器浮動端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distributed Processing:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063823Z">
@@ -10843,6 +10851,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082136Z">
         <seg>這些主軸可手動或配合 ATC 自動換刀轉盤進行換刀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These studs are attached to the floating shell flange and act as safety devices in the unlikely event of complete tubing failure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T090404Z">
+        <seg>這些螺栓連接到浮動端外殼法蘭並於油管意外完全故障時作為安全裝置。</seg>
       </tuv>
     </tu>
     <tu>
