@@ -1554,6 +1554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, on steam-heated heat exchangers, it is important that the steam be shut off promptly whenever the flow of process fluid is stopped or interrupted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T134217Z">
+        <seg>使用蒸氣式熱交換器也必須注意，當輸送流體停止或中斷時需立即關閉蒸氣，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternative Extraction Units:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091843Z">
@@ -2449,6 +2457,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120121Z">
         <seg>進行盤點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ceramic, Graphite, Heat Exchangers, Process Equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T134251Z">
+        <seg>陶瓷、石墨、熱交換器、輸送設備</seg>
       </tuv>
     </tu>
     <tu>
@@ -5018,6 +5034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the steam remains on, the stagnant process fluid will boil creating local pressure shocks that can crack the IMPERVITE® components.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T134244Z">
+        <seg>若蒸氣持續開啓，停滯之輸送流體將會沸騰而使局部壓力快速上升，因而使 IMPERVITE® 元件破裂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is a really busy scene, then the learnt background will not be stable - there will be lots of potential objects messing up the learnt background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T113156Z">
@@ -7159,6 +7183,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142523Z">
         <seg>電話：330-405-0844</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phone: 330-405-0844 Fax: 330-487-0304</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T134310Z">
+        <seg>電話：330-405-0844 傳真：330-487-0304</seg>
       </tuv>
     </tu>
     <tu>
