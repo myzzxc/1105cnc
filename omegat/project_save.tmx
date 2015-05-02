@@ -4882,6 +4882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the heat exchanger is to be operated under pressure, the installation of a pressure relief device is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085039Z">
+        <seg>若熱交換器操作於高壓下，建議安裝卸壓裝置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the model is messed up, then the algorithm can’t decide what is a foreground pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104641Z">
@@ -7641,6 +7649,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015615Z">
         <seg>建議事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to ASME Code Section VIII, Division I, for recommendations on these devices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085035Z">
+        <seg>此類設備之建議請參閱 ASME 規章第一部分第八節。</seg>
       </tuv>
     </tu>
     <tu>
