@@ -3431,6 +3431,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FLOATING END BOLTING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053334Z" creationid="Judy" creationdate="20150502T053334Z">
+        <seg>浮動端螺栓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FLOATING SHELL FLANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053320Z" creationid="Judy" creationdate="20150502T053320Z">
+        <seg>浮動端外殼法蘭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face Detection:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060540Z" creationid="CCYU" creationdate="20150322T060540Z">
@@ -4310,6 +4326,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023045Z" creationid="CCYU" creationdate="20150425T023045Z">
         <seg>相容 IEEE802.3af </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IMPERVITE® TUBESHEET</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053328Z" creationid="Judy" creationdate="20150502T053328Z">
+        <seg>IMPERVITE® 管板</seg>
       </tuv>
     </tu>
     <tu>
@@ -7437,6 +7461,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SHELL NOZZLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053208Z" creationid="Judy" creationdate="20150502T053208Z">
+        <seg>外殼噴嘴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SOFTWARE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022719Z" creationid="MAE" creationdate="20131107T022719Z">
@@ -7465,6 +7497,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053019Z" creationid="Judy" creationdate="20150502T053019Z">
         <seg>固定端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STATIONARY END BOLTING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053137Z" creationid="Judy" creationdate="20150502T053132Z">
+        <seg>固定端螺栓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STATIONARY IMPERVITE® DOME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053056Z" creationid="Judy" creationdate="20150502T053056Z">
+        <seg>IMPERVITE® 固定端圓頂室</seg>
       </tuv>
     </tu>
     <tu>
@@ -8161,6 +8209,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125207Z" creationid="ccyu" creationdate="20131107T125207Z">
         <seg>三 Z 刀架步進器（三 Z 現貨價格相同）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TUBE BUNDLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053158Z" creationid="Judy" creationdate="20150502T053158Z">
+        <seg>管道組</seg>
       </tuv>
     </tu>
     <tu>
