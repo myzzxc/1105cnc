@@ -3134,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do NOT reduce the disc spring below the smallest recommended height shown on the assembly drawing height operating dimension.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091404Z">
+        <seg>碟形彈簧墊片高度請勿低於狀配圖上操作之最小建議高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not exceed the design pressure shown on the assembly drawing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140042Z">
@@ -9995,6 +10003,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T135407Z">
         <seg>生效日期為相關評估報告必須符合標準要求之日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The correct nominal installed height for the disc springs is found on your specific assembly drawing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091125Z">
+        <seg>碟形彈簧墊片的正確公稱安裝高度請參閱其特定的裝配圖。</seg>
       </tuv>
     </tu>
     <tu>
