@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continue the test until cause is determined.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T071313Z">
+        <seg>繼續測試，直到確定原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue to fill unit using test fixture until water comes out between fixture and shell nozzle (this allows the art to bleed out as the process side is filled with water).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135823Z">
@@ -4610,6 +4618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any questions arise or the heat exchanger is to be rejected and returned, please notify CG THERMAL immediately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T071353Z">
+        <seg>若有任何問題，或需退換熱交換器時，請立即通知 CG Thermal 公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If found, tighten down pet specifications to stop leaks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140521Z">
@@ -4646,6 +4662,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140109Z">
         <seg>若外部無洩漏，則於 5 分鐘後檢查壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no water is found, the pressure drop may be due to water temperature changes or very small leaks causing water to accumulate in the tubeside multi-pass arrangement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T071305Z">
+        <seg>若未發現積水，水壓下降的原因可能是水溫改變或是非常小的洩露導致外管內的多通部份積水所造成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6319,6 +6343,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093411Z">
         <seg>配有保險絲（微型斷路器或馬達額定保險絲）之三相電源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open valve to release pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T071326Z">
+        <seg>打開閥門以釋放壓力。</seg>
       </tuv>
     </tu>
     <tu>
