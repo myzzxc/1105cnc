@@ -3898,6 +3898,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For added convenience, thermowells can be installed on the inlet and outlet sides to permit rapid visual checks of exchanger operation at all times.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085351Z">
+        <seg>可以在入口和出口兩側安裝熱套管，以隨時快速觀察換交換熱之運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For applications that need adeeper throat clearance such as mould making orthree dimensional carving, extended</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131559Z">
@@ -5311,6 +5319,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081317Z">
         <seg>將法蘭和測試裝置鬆鬆地安裝至外殼開口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install them in process piping lines to minimize the number of openings in the heat exchanger.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085150Z">
+        <seg>安裝卸壓裝置於輸送管路以減少熱交換器的開口數量。</seg>
       </tuv>
     </tu>
     <tu>
