@@ -2790,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DESCRIPTION AND APPLICATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T022825Z" creationid="Judy" creationdate="20150502T022825Z">
+        <seg>說明和應用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESOUTTER ELECTRIC DRILL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131508Z" creationid="ccyu" creationdate="20131107T131508Z">
@@ -8694,6 +8702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The CG THERMAL IMPERVITE® BC-, S-, and L-Series shell and tube type heat exchanger s are designed to handle corrosive liquids and gases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T022844Z" creationid="Judy" creationdate="20150502T022844Z">
+        <seg>CG THERMAL IMPERVITE® BC-, S-, and L-Series shell and tube type heat exchanger s are designed to handle corrosive liquids and gases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ethernet Shield 2 connects to an Arduino Board using long wire-wrap</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T020112Z" creationid="CCYU" creationdate="20150425T020039Z">
@@ -10163,6 +10179,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124259Z" creationid="CCYU" creationdate="20150322T124259Z">
         <seg>這使得人員追蹤較適合用於光線受到控制的室內環境中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This manual cover s installation, operations, and maintenance instructions for the BC-, S-, and L-Series IMPERVITE® Shell and Tube Heat Exchangers, manufactured by CG THERMAL.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T022820Z" creationid="Judy" creationdate="20150502T022820Z">
+        <seg>本手冊包含 CG Thermal 公司製造之 IMPERVITE®  BC-、S-、和 L- 系列管式熱交換器之安裝、操作和維護說明。</seg>
       </tuv>
     </tu>
     <tu>
