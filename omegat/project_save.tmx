@@ -7533,6 +7533,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SHELLSIDE HYDROSTATIC TEST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T054033Z" creationid="Judy" creationdate="20150502T054033Z">
+        <seg>外管液壓測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SHELLSIDE PACKING SEAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053651Z" creationid="Judy" creationdate="20150502T053651Z">
