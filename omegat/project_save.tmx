@@ -3134,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do NOT operate the heat exchanger at pressure or temperature conditions exceeding those specified on its nameplate and specification sheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T121940Z">
+        <seg>請勿在超過其銘牌和規格表上所標示之壓力或溫度條件下操作熱交換器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do NOT reduce the disc spring below the smallest recommended height shown on the assembly drawing height operating dimension.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091404Z">
@@ -3507,6 +3515,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133600Z">
         <seg>範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exceeding the values could result in a catastrophic mechanical failure and serious bodily injury.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T122024Z">
+        <seg>超過指定數值可能會導致嚴重的機械故障和身體傷害。</seg>
       </tuv>
     </tu>
     <tu>
