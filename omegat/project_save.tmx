@@ -3890,6 +3890,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For BC-Series heat exchangers, the nominal installed spring height must be set in four increments using the staggered torquing technique show in Figure 4-15 for each increment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T092019Z">
+        <seg>BC- 系列換熱器之公稱安裝彈簧墊片高度必須以圖 4-15 所示之四階段交錯鎖緊方式上緊扭矩值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For IMPERVITE® nozzles 0.5 to 0.75 inch wide, woven TFE tape is recommended.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081906Z">
