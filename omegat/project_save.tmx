@@ -2431,8 +2431,8 @@
       <tuv lang="EN-US">
         <seg>Check packing seal on floating end for leaks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065359Z">
-        <seg>檢查填料密封洩漏的浮動一端。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065603Z">
+        <seg>檢查浮動端之填料密封洩露，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4558,6 +4558,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153909Z">
         <seg>如果一組像素值介於顏色範圍內，且閃爍隨時間變化的頻率也在範圍內時，便能認定為火焰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a leak is noted, retighten the follower bolts evenly and only enough to stop the leak.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065712Z">
+        <seg>若發現洩漏，重新均勻鎖緊從動件螺栓，只需緊固至足以阻止洩露。</seg>
       </tuv>
     </tu>
     <tu>
