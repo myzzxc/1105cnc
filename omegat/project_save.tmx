@@ -2253,6 +2253,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CLAMP PLATE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053957Z" creationid="Judy" creationdate="20150502T053957Z">
+        <seg>夾板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CNC Router Systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072949Z" creationid="MAE" creationdate="20131106T072949Z">
@@ -3447,6 +3455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FLOATING END</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T054014Z" creationid="Judy" creationdate="20150502T054014Z">
+        <seg>浮動端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FLOATING END BOLTING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053334Z" creationid="Judy" creationdate="20150502T053334Z">
@@ -4342,6 +4358,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023045Z" creationid="CCYU" creationdate="20150425T023045Z">
         <seg>相容 IEEE802.3af </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IMPERVITE® DOME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053929Z" creationid="Judy" creationdate="20150502T053929Z">
+        <seg>IMPERVITE® 圓頂室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IMPERVITE® NOZZLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T054010Z" creationid="Judy" creationdate="20150502T054010Z">
+        <seg>IMPERVITE® 噴嘴</seg>
       </tuv>
     </tu>
     <tu>
@@ -6251,6 +6283,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PACKING SEAL FOLLOWER AND BOLTING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053829Z" creationid="Judy" creationdate="20150502T053829Z">
+        <seg>填料密封的從動件和螺栓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PANELBUILDER 2D &amp; True Nesting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134417Z" creationid="ccyu" creationdate="20131107T134417Z">
@@ -7521,6 +7561,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022514Z" creationid="MAE" creationdate="20131107T022514Z">
         <seg>主軸配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPLIT RING AND RETAINING FLANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053922Z" creationid="Judy" creationdate="20150502T053922Z">
+        <seg>開口環和固定法蘭</seg>
       </tuv>
     </tu>
     <tu>
