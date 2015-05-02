@@ -6637,6 +6637,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proper safety precautions as detailed throughout this manual and as recommended by applicable codes, guidelines, and design societies should be exercised in the operation of all heat transfer equipment to prevent equipment damage or personal injury in event of operation error or mechanical failure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014101Z" creationid="Judy" creationdate="20150502T014101Z">
+        <seg>熱交換器所有設備之操作應遵循本手冊收錄之適當安全注意事項&lt;適用的法規、 準則和設計社會應行使在運行中所有的熱轉印設備，以防止設備損壞或個人傷亡在發生操作錯誤或機械故障事件的建議的適當的安全預防措施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide 8-bit PWM output with the analogWrite() function.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131839Z" creationid="CCYU" creationdate="20150426T131839Z">
