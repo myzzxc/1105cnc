@@ -4274,6 +4274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IMPERVITE® has the features of optimum thermal conductivity with extreme resistance to corrosive and thermal shock.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T023214Z" creationid="Judy" creationdate="20150502T023214Z">
+        <seg>IMPERVITE® 具有最佳的導熱係數與極端腐蝕性和熱衝擊的特性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INTERRUPT PIN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133015Z" creationid="CCYU" creationdate="20150424T133015Z">
@@ -8704,8 +8712,8 @@
       <tuv lang="EN-US">
         <seg>The CG THERMAL IMPERVITE® BC-, S-, and L-Series shell and tube type heat exchanger s are designed to handle corrosive liquids and gases.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T022844Z" creationid="Judy" creationdate="20150502T022844Z">
-        <seg>CG THERMAL IMPERVITE® BC-, S-, and L-Series shell and tube type heat exchanger s are designed to handle corrosive liquids and gases.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T023001Z" creationid="Judy" creationdate="20150502T022844Z">
+        <seg>CG THERMAL IMPERVITE®  BC-、S-、和 L- 系列管式熱交換器設計用於處理腐蝕性液體和氣體，</seg>
       </tuv>
     </tu>
     <tu>
