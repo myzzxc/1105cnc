@@ -2389,6 +2389,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check the compressed height of the disc springs and the torque loading of the stationary and floating end bolts and compare to marking on unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052520Z" creationid="Judy" creationdate="20150502T052520Z">
+        <seg>檢查碟形彈簧墊片的壓縮高度和固定或浮動端之螺栓的扭矩，並與裝置之標示比較。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the compressed height of the disc springs at the shell flange and the torque loading of the tube side bonnet bolts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132000Z" creationid="CCYU" creationdate="20150501T131955Z">
@@ -3874,6 +3882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For this test, observe all Cautions and Warnings in paragraph 3-1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052708Z" creationid="Judy" creationdate="20150502T052708Z">
+        <seg>進行此測試石，請遵循 3-1 節之注意事項和警示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Four screw holes allow the board to be attached to a surface or case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132140Z" creationid="CCYU" creationdate="20150424T132140Z">
@@ -4373,6 +4389,14 @@
         <seg>If any components are missing or damaged or if leaks still occur after the shellside hydrostatic test, notify the carrier immediately and file an appropriate claim.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133437Z" creationid="CCYU" creationdate="20150501T133437Z">
+        <seg>若有任何元件遺失、損傷或於外管測試後仍有洩漏，請立即通知運輸業者並申請賠償。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any components are missing or damaged or leaks occur after the shellside hydrostatic test, notify the carrier immediately and file all appropriate claim.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052726Z" creationid="Judy" creationdate="20150502T052726Z">
         <seg>若有任何元件遺失、損傷或於外管測試後仍有洩漏，請立即通知運輸業者並申請賠償。</seg>
       </tuv>
     </tu>
@@ -6403,6 +6427,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perform a shellside hydrostatic test as described in paragraph 1-4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052617Z" creationid="Judy" creationdate="20150502T052617Z">
+        <seg>依 1-4 節所述進行外管液壓測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perform a shellside hydrostatic test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014723Z" creationid="CCYU" creationdate="20150501T132705Z">
@@ -7069,6 +7101,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to your assembly drawing for the proper compressed disc spring height and torque values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052544Z" creationid="Judy" creationdate="20150502T052544Z">
+        <seg>適當壓縮的碟型彈簧墊片壓縮高度和扭矩值請參閱裝配總圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192833Z" creationid="CCYU" creationdate="20150325T192833Z">
@@ -7249,6 +7289,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122003Z" creationid="CCYU" creationdate="20150325T122003Z">
         <seg>抗硫化物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retorquing may he necessary due to gasket “set” during transportation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052536Z" creationid="Judy" creationdate="20150502T052536Z">
+        <seg>運輸途中墊片可能“貼緊”，因此可能需要重新上扭矩，</seg>
       </tuv>
     </tu>
     <tu>
