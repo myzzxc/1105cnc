@@ -5091,6 +5091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, installation of bypass valve system on the heat exchanger piping will permit disassembly of the heat exchanger itself without shutting down the line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085539Z">
+        <seg>此外，於熱交換器管道上安裝旁路閥系統將能於不關閉管路的情況下拆卸熱交換器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, it incorporates an intelligent interrupt engine, which allows for triggering interrupts based on</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133051Z">
