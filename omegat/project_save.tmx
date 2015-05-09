@@ -7606,8 +7606,16 @@
       <tuv lang="EN-US">
         <seg>Plucking</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T040759Z">
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041330Z">
         <seg>拔取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plucking also can have an influence on shelf life.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041122Z">
+        <seg>拔毛也會影響保存期限，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9017,6 +9025,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014702Z">
         <seg>外管液壓測試 1-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should bottlenecks occur, there will be a greater opportunity for bacteria to multiply and this can negatively affect shelf life.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041039Z">
+        <seg>若有延遲，細菌將有更多的機會大量繁殖，這對保存期限會產生負面的影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10919,6 +10935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The pressure of the rubber fingers needs to be carefully adjusted to ensure that not too much pressure is applied, which can result in the contents of the cloaca being evacuated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041328Z">
+        <seg>橡膠手指的壓力需仔細調整，以確保壓力不會太大，這可能會導致在泄殖腔被疏散的內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The primary application isdigital print finishing where the camera isable toquickly find and recognise conventional registration marks and adjust the machine cutting path to achieve exact alignment with printed shapes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T075856Z">
@@ -11179,6 +11203,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084239Z">
         <seg>偵測到車輛的運動時會觸發虛擬感測器，接著系統會在車輛通過攝影機的指定區域時識別車牌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The water used during plucking should be warm, i.e. with a temperature of 34-38 °C.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041218Z">
+        <seg>拔毛過程水溫應保持溫暖，即 34-38 °C，</seg>
       </tuv>
     </tu>
     <tu>
