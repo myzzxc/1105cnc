@@ -6099,6 +6099,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is supplemented by a supply chain manual SlogM HUT DQ G32.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T074845Z" creationid="CCYU" creationdate="20150509T074845Z">
+        <seg>供應鍊手冊 SlogM HUT DQ G32 中收錄了補充資訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is very hard to tell this is an object (foreground) pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105606Z">
@@ -11771,6 +11779,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T140422Z">
         <seg>此電流由電路板上之大型橙色電容供應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document defines the general requirements in terms of purchases, quality, deadlines and innovation that all HUTCHINSON Suppliers are required to respect and ensure their entire supply chain respects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T074649Z" creationid="CCYU" creationdate="20150509T074649Z">
+        <seg>此本件將定義所有 HUTCHINSON 之供應商必須遵守並確保其完整供應鍊皆遵守的一般要求，其中包括採購、品質、期限和創新。</seg>
       </tuv>
     </tu>
     <tu>
