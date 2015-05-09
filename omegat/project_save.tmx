@@ -7397,8 +7397,8 @@
       <tuv lang="EN-US">
         <seg>PURPOSE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T072443Z" creationid="CCYU" creationdate="20150509T072443Z">
-        <seg>Microsoft Translator's Client ID or Client Secret not available. See OmegaT manual for instructions.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T074242Z" creationid="CCYU" creationdate="20150509T072443Z">
+        <seg>目的</seg>
       </tuv>
     </tu>
     <tu>
