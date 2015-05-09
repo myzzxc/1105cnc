@@ -6107,6 +6107,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is supplemented by the details documented in the manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T075208Z" creationid="CCYU" creationdate="20150509T075114Z">
+        <seg>手冊中收錄了詳細的補充資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is very hard to tell this is an object (foreground) pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105606Z">
@@ -11907,6 +11915,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T022820Z">
         <seg>本手冊包含 CG Thermal 公司製造之 IMPERVITE®  BC-、S-、和 L- 系列管式熱交換器之安裝、操作和維護說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This manual is the logistics reference document for HUTCHINSON's suppliers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T074949Z" creationid="CCYU" creationdate="20150509T074949Z">
+        <seg>該手冊為 HUTCHINSON 之供應商的物流參考文件，</seg>
       </tuv>
     </tu>
     <tu>
