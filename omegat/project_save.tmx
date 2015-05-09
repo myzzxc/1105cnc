@@ -2253,6 +2253,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Body ternperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032851Z">
+        <seg>體溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bond resistance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181445Z">
@@ -3358,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During scalding, it is essential that any foam – which is formed by protein in blood plasma mixing with the hot and agitated water - that accumulates on the water is removed if sanitary conditions are to be maintained.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032844Z">
+        <seg>燙毛過程中，若要維持衛生的條件，需去除任何積累在水面上的泡沫，泡沫是由血漿中的蛋白和攪拌熱水混合而形成的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EACH ADDITIONAL SERVO AXIS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141519Z">
@@ -4338,10 +4354,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Freezing temperature of birds</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032932Z">
+        <seg>雞隻冰點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Front</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082934Z">
         <seg>前方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frozen water</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032919Z">
+        <seg>冰點</seg>
       </tuv>
     </tu>
     <tu>
@@ -7877,6 +7909,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quick freeze</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033041Z">
+        <seg>急速冷凍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>R4.3.S Testing of anchors in concrete less than 21 days old constitutes testing in a nonstandard concrete.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T195856Z">
@@ -9113,6 +9153,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062418Z">
         <seg>物體停止：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage temperature of frozen birds</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033030Z">
+        <seg>冷凍雞隻儲存溫度</seg>
       </tuv>
     </tu>
     <tu>
