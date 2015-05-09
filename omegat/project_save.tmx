@@ -1314,6 +1314,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acceptance of any order serves as acceptance of this document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080904Z" creationid="CCYU" creationdate="20150509T080904Z">
+        <seg>接受訂單視同接受本文件之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accuracy Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034417Z">
@@ -9421,6 +9429,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Special requirements for certain entities may be added.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080604Z" creationid="CCYU" creationdate="20150509T080557Z">
+        <seg>可能會針對某些特定單位增訂特殊的要求規範，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Speed alarm:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062252Z">
@@ -11519,6 +11535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The written requirements in this document are applicable to all Group factories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080440Z" creationid="CCYU" creationdate="20150509T080440Z">
+        <seg>此文件中的書面要求，適用於所有集團工廠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then tighten top flange to proper nozzle torque specifications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081338Z">
@@ -11703,6 +11727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They appear in the dedicated areas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080816Z" creationid="CCYU" creationdate="20150509T080816Z">
+        <seg>規範適用於特定範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are available in standard stocked sizes (BC &amp; B), in standardized modifiable sizes (S), and with larger size tubes (L) for greater resistance to plugging and lower pressure drop.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T023619Z">
@@ -11859,6 +11891,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140519Z">
         <seg>這 4 組授權碼可用於任何網路攝像機的分析，但每次只限四台攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes external supplies of large, medium and small series (replacement parts included) as well as chemical products.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080409Z" creationid="CCYU" creationdate="20150509T080409Z">
+        <seg>包含大、中、小型系列（含替換零件）以及化工產品之外部供應。</seg>
       </tuv>
     </tu>
     <tu>
