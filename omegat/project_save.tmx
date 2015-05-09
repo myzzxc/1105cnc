@@ -2557,6 +2557,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Care must also be taken during the evisceration process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T042415Z">
+        <seg>內臟摘出過程也需注意，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Carpet, Felt and other Single-ply Cloth or Fabric, Vinyl and more...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T134321Z">
@@ -3651,6 +3659,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T053642Z">
         <seg>即使多人同時出現於計算範圍內，篩選器仍可以將他們分開單獨計數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evisceration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T042349Z">
+        <seg>內臟摘出</seg>
       </tuv>
     </tu>
     <tu>
