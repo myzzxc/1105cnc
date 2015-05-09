@@ -2183,8 +2183,8 @@
       <tuv lang="EN-US">
         <seg>Bleeding causes the carcass temperature to reduce by approximately 3 °C.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030300Z">
-        <seg>放血時屠宰體溫度會降低約 3 °C，</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030412Z">
+        <seg>放血時屠宰體溫度會降低約 3 °C。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4622,6 +4622,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123734Z">
         <seg>然而，追蹤需要依靠物體本身的良好色彩模型，以便能夠正確地分辨出各個物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, there are several complementary activities that should be monitored if the aim of achieving a good shelf life is to be successfully achieved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030628Z">
+        <seg>然而，若欲達到良好的保存期限，有許多的相關條件必須要加以監控。</seg>
       </tuv>
     </tu>
     <tu>
