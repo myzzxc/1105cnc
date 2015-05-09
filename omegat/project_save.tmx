@@ -791,6 +791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A lack of attention at this stage can make the difference between a product that has a good shelf life and one that has a short shelf life.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T052338Z">
+        <seg>忽略此步驟可能會導致保存期限縮短。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A person wanders in towards the camera and has a blue jumper on.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124446Z">
@@ -5563,6 +5571,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In summary, to ensure that the cold chain functions as well as it possibly can, possibilities for bacterial growth, and a consequent reduction in shelf life, should be kept to a minimum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T052700Z">
+        <seg>總體而言，必須確保冷藏鏈功能正常，並將細菌繁殖的可能性降至最低以避免保存期限縮短。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Arduino IDE you will find the following examples, go to File -&gt; Examples of Arduino IDE, under NAxesMotion, there are 4 sketches for the use of 9 Axes Motion Shield:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134655Z">
@@ -5991,6 +6007,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141540Z">
         <seg>也可進行語音通話，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also worth keeping in mind that, once the day's operations have been completed, cleaning staff must do a thorough job in ensuring that plant and equipment are properly cleaned and disinfected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T052334Z">
+        <seg>同時，在結束每日的作業後，清潔人員必須全面清理環境以確保屠宰場和設備已清理並殺菌，</seg>
       </tuv>
     </tu>
     <tu>
@@ -6959,6 +6983,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140557Z">
         <seg>再次將裝置調整至合適的測試壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once deliveries have been completed, data needs to be reviewed to ensure that there were no major fluctuations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T052005Z">
+        <seg>雞隻送達後必需審核紀錄以確保溫度無劇烈變化。</seg>
       </tuv>
     </tu>
     <tu>
