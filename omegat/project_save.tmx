@@ -6971,6 +6971,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the trucks have been loaded, the data log must be started so that a record is kept of the environmental conditions throughout the journey.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051845Z">
+        <seg>一但雞隻裝載於貨車上時必須啓動資料紀錄器以紀錄運送過程中的環境狀況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the unit is stabilized a pressure test is recorded.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140631Z">
@@ -11091,6 +11099,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T121738Z">
         <seg>人員追蹤器則會觀察這兩個物體，當他們分開時，認定「此物體看起來像是穿著藍色上衣的物體，因此是不久之前所看到的穿藍色上衣的物體」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The person responsible for authorizing loading needs to check this and, additionally, ensure that the container complies with sanitary and atmosphere requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051627Z">
+        <seg>裝載負責人員需檢查溫度，另外也需確保貨櫃符合衛生條件和環境規範。</seg>
       </tuv>
     </tu>
     <tu>
