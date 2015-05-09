@@ -11239,6 +11239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There should be at least one liter of water per bird entering the scalder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034303Z">
+        <seg>雞隻進入脫毛機時應至少維持每隻一公升的水量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore allow the length of the exchanger plus I foot from the stationary end of the bundle removal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073334Z">
@@ -12514,8 +12522,8 @@
       <tuv lang="EN-US">
         <seg>While it is important to remove foam, it is also important to ensure that the water in the tank is replenished.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034114Z">
-        <seg>去除泡沫很重要，但確實補充水箱中的水也是同樣重要  的。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034129Z">
+        <seg>去除泡沫很重要，但確實補充水箱中的水也是同樣重要  的，</seg>
       </tuv>
     </tu>
     <tu>
