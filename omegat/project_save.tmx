@@ -2165,10 +2165,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Birds are kept within a temperature range that retards bacterial growth, so delivering a product with the necessary shelf life.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030217Z">
+        <seg>將雞隻維持於依定的溫度範圍內能減緩細菌生長，以提供所需的保存期限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blade oscillation and tangential control ensures that the cutting blade delivers accurate cuts even on thicker materials without excessive over cut.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T135923Z">
         <seg>刀鋒擺動與切線控制能確保即使材料較厚也能精準的切削且無多餘切削。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bleeding causes the carcass temperature to reduce by approximately 3 °C.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030300Z">
+        <seg>放血時屠宰體溫度會降低約 3 °C，</seg>
       </tuv>
     </tu>
     <tu>
