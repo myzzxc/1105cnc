@@ -5098,6 +5098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a HUTCHINSON supplier fails to meet the demands in the SlogM supply chain manual, it must submit a corrective action plan to its contacts at HUTCHINSON Purchasing and Supply Chain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T075507Z" creationid="CCYU" creationdate="20150509T075507Z">
+        <seg>若 HUTCHINSON 之供應商無法滿足 SlogM 供應鍊手冊中所訂定之要求，供應商必須提出改善計畫予以 HUTCHINSON 採購和供應鍊部門之聯絡人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a group of pixels fall under both the colour range and flicker frequency over time we can flag those as fire blobs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153909Z">
@@ -11703,6 +11711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They must be considered as essential for all of HUTCHINSON's suppliers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T075717Z" creationid="CCYU" creationdate="20150509T075717Z">
+        <seg>所有 HUTCHINSON 之供應商皆必須遵守規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They operate at 5 volts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125518Z">
@@ -11795,6 +11811,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T074649Z" creationid="CCYU" creationdate="20150509T074649Z">
         <seg>此本件將定義所有 HUTCHINSON 之供應商必須遵守並確保其完整供應鍊皆遵守的一般要求，其中包括採購、品質、期限和創新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document recaps the requirements regarding logistical activity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T075556Z" creationid="CCYU" creationdate="20150509T075556Z">
+        <seg>此文件節錄物流作業之相關規範，</seg>
       </tuv>
     </tu>
     <tu>
