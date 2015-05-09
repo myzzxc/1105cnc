@@ -7604,6 +7604,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plucking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T040759Z">
+        <seg>拔取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plug the second Ethernet cable into another LAN port on the router, and then plug the other end of the second Ethernet cable into the router systems port on the machine electrical box.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074702Z">
@@ -7833,6 +7841,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T135459Z">
         <seg>可加工材料寬度達 1842mm ，5000 系列可完全容納多數常見基板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Processing time needs to be kept to a minimum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T040823Z">
+        <seg>處理時間需要減至最短，</seg>
       </tuv>
     </tu>
     <tu>
