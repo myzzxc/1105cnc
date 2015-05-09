@@ -1490,6 +1490,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the water in birds is completely frozen</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033616Z">
+        <seg>雞隻中所有液體完全結凍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All twin spindle configurations include an additional</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144103Z">
@@ -2255,7 +2263,7 @@
       <tuv lang="EN-US">
         <seg>Body ternperature</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032851Z">
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033542Z">
         <seg>體溫</seg>
       </tuv>
     </tu>
@@ -3368,7 +3376,7 @@
       <tuv lang="EN-US">
         <seg>During scalding, it is essential that any foam – which is formed by protein in blood plasma mixing with the hot and agitated water - that accumulates on the water is removed if sanitary conditions are to be maintained.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032844Z">
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033539Z">
         <seg>燙毛過程中，若要維持衛生的條件，需去除任何積累在水面上的泡沫，泡沫是由血漿中的蛋白和攪拌熱水混合而形成的。</seg>
       </tuv>
     </tu>
@@ -4356,7 +4364,7 @@
       <tuv lang="EN-US">
         <seg>Freezing temperature of birds</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032932Z">
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033559Z">
         <seg>雞隻冰點</seg>
       </tuv>
     </tu>
@@ -4372,7 +4380,7 @@
       <tuv lang="EN-US">
         <seg>Frozen water</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032919Z">
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033552Z">
         <seg>冰點</seg>
       </tuv>
     </tu>
@@ -7911,7 +7919,7 @@
       <tuv lang="EN-US">
         <seg>Quick freeze</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033041Z">
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033609Z">
         <seg>急速冷凍</seg>
       </tuv>
     </tu>
@@ -8145,6 +8153,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133313Z">
         <seg>真空抽氣使用之再生鼓風機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relationship between the temperature of the chicken and the speed of growth of bacteria</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033632Z">
+        <seg>雞隻溫度與細菌生長速度關係圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -9159,7 +9175,7 @@
       <tuv lang="EN-US">
         <seg>Storage temperature of frozen birds</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033030Z">
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033603Z">
         <seg>冷凍雞隻儲存溫度</seg>
       </tuv>
     </tu>
