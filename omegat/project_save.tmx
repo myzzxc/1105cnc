@@ -8997,6 +8997,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Should this foam be left in place, material from the esophagus and intestines, which can be rich in pathogens such as Salmonella and Campylobacter, can build up, and this can lead to cross-contamination.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033919Z">
+        <seg>若未清除此泡沫，來自食道和腸道之物質會孳生大量的病原體，如沙門氏菌和曲狀桿菌屬，因而導致交互污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Siemens Pure does all this with the industry's lowest battery consumption.** This provides the best listening experience, all the time, without concerns about battery life.* Two independent clinical studies have shown that Siemens hearing instruments with binaural processing provide better than normal hearing capabilities in certain demanding listening environments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T131623Z">
@@ -12500,6 +12508,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120009Z">
         <seg>此問題將對送貨程序的哪部分造成影響？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While it is important to remove foam, it is also important to ensure that the water in the tank is replenished.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034114Z">
+        <seg>去除泡沫很重要，但確實補充水箱中的水也是同樣重要  的。</seg>
       </tuv>
     </tu>
     <tu>
