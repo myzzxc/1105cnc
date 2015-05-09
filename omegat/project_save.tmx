@@ -4394,6 +4394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Given the above, it becomes obvious that processing must be completed without delay, so that birds reach the prechiller within approximately 18 minutes of slaughter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032240Z">
+        <seg>根據上述情況，顯然處理過程不能有所延遲，需在屠宰後約 18 分鐘內進入預冷處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good PTZ calibration is essential for accurate tracking.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151637Z">
@@ -8521,6 +8529,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022608Z">
         <seg>集屑附件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scalding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032423Z">
+        <seg>燙毛</seg>
       </tuv>
     </tu>
     <tu>
