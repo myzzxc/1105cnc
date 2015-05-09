@@ -3887,6 +3887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIELD OF APPLICATION AND CONDITIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080059Z" creationid="CCYU" creationdate="20150509T080059Z">
+        <seg>適用範圍和條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FLOATING END</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T054014Z">
@@ -11215,6 +11223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The procedure requirements apply to all purchases for the Group factories, which fall under the product category.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080234Z" creationid="CCYU" creationdate="20150509T080234Z">
+        <seg>程序規範適用於集團工廠中屬於產品類別之採購，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The provisions of this code are not intended to prevent the installation of any materials or to prohibit any design or method of construction not specifically prescribed by this code, provided that any such alternative has been approved.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T132702Z">
@@ -11811,6 +11827,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T074649Z" creationid="CCYU" creationdate="20150509T074649Z">
         <seg>此本件將定義所有 HUTCHINSON 之供應商必須遵守並確保其完整供應鍊皆遵守的一般要求，其中包括採購、品質、期限和創新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document is sent to the supplier by the Purchasing department of each entity, as soon as the consultation phase starts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080022Z" creationid="CCYU" creationdate="20150509T080022Z">
+        <seg>本文件於協商階段開始時，由每個單位採購部門發出。</seg>
       </tuv>
     </tu>
     <tu>
