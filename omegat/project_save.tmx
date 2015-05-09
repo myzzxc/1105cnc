@@ -4130,6 +4130,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Following a short feed withdrawal, should the crop break, any feed contained therein, and accompanying pathogens, are evacuated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043506Z">
+        <seg>短期禁食期間的腸道的飼料和附著的病原體應被排出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For BC-Series heat exchangers, the nominal installed spring height must be set in four increments using the staggered torquing technique show in Figure 4-15 for each increment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T092019Z">
