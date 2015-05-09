@@ -839,6 +839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A wide range of products is available,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045929Z">
+        <seg>有多種的產品可供選擇，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A000022 (without PoE)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144949Z">
@@ -1370,6 +1378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, the temperature must remain constant as, should changes occur, bacterial growth will be favored.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051110Z">
+        <seg>此外溫度也必須維持恆定，溫度改變將有利細菌繁殖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Carso software is included with the scanner which can edit the data before automatically creating the machining path forthe router to follow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053102Z">
@@ -1721,6 +1737,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Any application of disinfectants during processing must be carried out in the correct manner.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045859Z">
+        <seg>處理過中所使用的殺菌劑都應遵守正確的使用方式，</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>?
 </note>
       <tuv lang="EN-US">
@@ -1929,6 +1953,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135745Z">
         <seg>接上加壓泵至測試裝置使其達到正確的最終測試壓力，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attention also needs to be paid to controlling carcass temperature when birds are exiting the chiller, as it should be kept below 4 °C.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050359Z">
+        <seg>當雞隻離開冷卻機時也需要特別注意屠宰體溫度的控制，應維持於 4 °C 以下，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2573,6 +2605,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Care needs to be taken that no bottlenecks occur at this stage, as this will not only result in a loss of water from the bird, the carcass temperature will start to rise, so encouraging bacterial growth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050830Z">
+        <seg>此階段應注意不要有所延遲，延遲不僅會使雞隻水份散失，屠宰體溫度也會開始上升而加速細菌繁殖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Carpet, Felt and other Single-ply Cloth or Fabric, Vinyl and more...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T134321Z">
@@ -2657,6 +2697,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070620Z">
         <seg>檢查管道由外管輸水至內管之管道口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chilling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045144Z">
+        <seg>冷卻</seg>
       </tuv>
     </tu>
     <tu>
@@ -4506,10 +4554,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good cold chain requires close monitoring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045948Z">
+        <seg>良好的冷藏鏈需要密集監控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good cold chain requires close monitoring during, post-processing</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T025033Z">
-        <seg>良好的冷藏鏈需要於處理過程以及處理後持續監控</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045956Z">
+        <seg>良好的冷藏鏈需要於處理過程以及處理後密集監控</seg>
       </tuv>
     </tu>
     <tu>
@@ -4806,6 +4862,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T143729Z">
         <seg>然而，當攝影機的角度接近水平時，就無法將兩物體分開：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, if the temperatures should be below 24 °C, warmer water should be added to avoid the carcasses suffering a sudden temperature change, which can damage muscle fibers, so negatively affecting the quality and yield from the processed birds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045718Z">
+        <seg>然而，若溫度低於 24 °C 時，應加入溫水以避免屠宰體溫度急遽變化而損傷肌肉纖維，而產生對於雞隻品質和良率的負面影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5475,6 +5539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In many countries, prechiller water is kept at room temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045401Z">
+        <seg>許多國家中，預冷水溫維持在室溫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to communicate to the router table you will require a computer and a network device called a router (see below.) The router which you will need to supply will be able to assign IP addresses.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092222Z">
@@ -5947,6 +6019,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is important that quality control staff check carcasses before they enter the prechiller.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T044213Z">
+        <seg>品管人員在屠宰體進入預冷前的檢查也很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is important to focus that Digifort reposibility lies solely in the software operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T090918Z">
@@ -6255,6 +6335,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T064324Z">
         <seg>負載分散能在系統增加影像分析需求時有更大的運算彈性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051133Z">
+        <seg>裝載</seg>
       </tuv>
     </tu>
     <tu>
@@ -7283,6 +7371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Packing and storage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050849Z">
+        <seg>包裝和儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page 1 of 11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092523Z">
@@ -7367,6 +7463,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T144539Z">
         <seg>9/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Particular care also needs to be paid at chilling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045149Z">
+        <seg>此外需要特別注意冷卻處理過程，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7817,6 +7921,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T072215Z">
         <seg>AXYZ 雕刻機工作台安裝前指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prechiller time tends to be between 20 and 45 minutes, while time in the chiller varies between 30 minutes and as much as two hours.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045211Z">
+        <seg>預冷時間一般介於 20 至 45 分鐘，而冷卻時間為 30 分鐘到兩小時，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10775,6 +10887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The length of time spent in the prechiller and chiller the must comply with time established by each individual company.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045206Z">
+        <seg>預冷和冷卻的時間需遵守各公司所制訂之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine options have been divided into 5 sections:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z">
@@ -10939,6 +11059,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022324Z">
         <seg>前一版本之擴充模組包含一組正常尺寸之SD卡插槽；此模組未支援。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The packing, cut-up and deboning sections, which are temperature controlled, are usually kept at a temperature of 8-10 °C.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050629Z">
+        <seg>包裝、切塊和去骨作業溫度通常控制在 8-10 °C 之間，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11267,6 +11395,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084239Z">
         <seg>偵測到車輛的運動時會觸發虛擬感測器，接著系統會在車輛通過攝影機的指定區域時識別車牌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The water temperature in the prechiller and chiller should be kept within the parameters set by the individual plant or by the health authorities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045323Z">
+        <seg>預冷和冷卻機的水溫度應維持在各屠宰場或衛生當局設立的參數範圍內，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11671,6 +11807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This longer period occurs when chilling is used to shorten the time that carcasses are kept in cold storage to achieve appropriate rigor mortis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045217Z">
+        <seg>若要減少達到適當的死僵所需的冷藏儲存時間，將進行較長時間的冷卻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This makes it very difficult to apply sensible decisions towards raising abandoned or removed objects.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T113301Z">
@@ -11723,6 +11867,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153651Z">
         <seg>此方法能提供邊角直線切割同時能依要求半徑導角。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This not only helps to minimize water loss but also impedes bacterial growth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050456Z">
+        <seg>這樣不僅能減少水分散失，同時也能減緩細菌繁殖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11979,6 +12131,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091938Z">
         <seg>追蹤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trucks must be brought to the correct temperature before they are loaded with birds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051418Z">
+        <seg>裝載雞隻前貨櫃必須先達到正確的溫度，</seg>
       </tuv>
     </tu>
     <tu>
@@ -12496,6 +12656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When birds are stored in the cold room, they must be positioned in such a way as to facilitate the free movement of air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050951Z">
+        <seg>雞隻存放於冷藏室時，必須維持空氣流通，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When connecting to a network, you will need to provide an IP address and a MAC address.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130926Z">
@@ -12522,8 +12690,8 @@
       <tuv lang="EN-US">
         <seg>When managing the cold chain, most attention is usually paid once carcasses leave the chiller.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030009Z">
-        <seg>管理冷藏鏈時，屠宰體離開冰庫時通常需要特別注意。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050135Z">
+        <seg>管理冷藏鏈時，屠宰體離開冷卻機時通常需要特別注意。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12596,6 +12764,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142403Z">
         <seg>觸發重置時，處理器會重置並切斷至電腦端的 USB 連線（代表虛擬序列 / COM 連接埠會消失），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When trucks are loaded, the decks must be properly temperature controlled, with a maximum temperature of 10 °C, and vehicles must be closely joined to the loading bays.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051321Z">
+        <seg>裝載於貨車上時，貨櫃溫度應控制於 10 °C 以下，車輛也必須與裝載碼頭緊密連接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13092,6 +13268,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132919Z">
         <seg>以及更安靜的運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and selection will depend on the regulations in place in each country.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050029Z">
+        <seg>請依據各國規範選用。</seg>
       </tuv>
     </tu>
     <tu>
