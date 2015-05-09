@@ -7614,8 +7614,8 @@
       <tuv lang="EN-US">
         <seg>Plucking also can have an influence on shelf life.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041122Z">
-        <seg>拔毛也會影響保存期限，</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041337Z">
+        <seg>拔取也會影響保存期限，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9041,6 +9041,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033919Z">
         <seg>若未清除此泡沫，來自食道和腸道之物質會孳生大量的病原體，如沙門氏菌和曲狀桿菌屬，因而導致交互污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should this occur, fecal matter can be deposited in the open follicles once feather shave been removed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041622Z">
+        <seg>若腔內的物質流出，當羽毛拔除後排泄物將附著在開放的毛囊上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10937,8 +10945,8 @@
       <tuv lang="EN-US">
         <seg>The pressure of the rubber fingers needs to be carefully adjusted to ensure that not too much pressure is applied, which can result in the contents of the cloaca being evacuated.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041328Z">
-        <seg>橡膠手指的壓力需仔細調整，以確保壓力不會太大，這可能會導致在泄殖腔被疏散的內容。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041431Z">
+        <seg>橡膠手指的壓力需仔細調整，以確保壓力不會太大，壓力過大可能會導致泄殖腔內的物質流出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11209,8 +11217,8 @@
       <tuv lang="EN-US">
         <seg>The water used during plucking should be warm, i.e. with a temperature of 34-38 °C.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041218Z">
-        <seg>拔毛過程水溫應保持溫暖，即 34-38 °C，</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041341Z">
+        <seg>拔取過程水溫應保持溫暖，即 34-38 °C，</seg>
       </tuv>
     </tu>
     <tu>
