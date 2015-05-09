@@ -1885,6 +1885,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 21 °C, it takes an hour; at 10 °C, two hours; at 4 °C, eight hours; and at 0 °C, it is slowed to 20 hours.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031629Z">
+        <seg>21 °C 時需要一小時；10 °C 時需要兩小時；4 °C 時需要八小時；而 0 °C 時生長速度降低到需要二十小時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 38 °C, bacterial growth takes place in 15 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031430Z">
+        <seg>38 °C 時，細菌生長需要 15 分鐘；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atangential knife isacutting blade that follows the plot lines of ashape byincrementally rotating the blade to match the path.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153433Z">
@@ -5783,6 +5799,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141540Z">
         <seg>也可進行語音通話，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also worth keeping in mind the relationship between body temperature and bacterial growth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031345Z">
+        <seg>另外也需了解體溫與細菌生長之間的關係，</seg>
       </tuv>
     </tu>
     <tu>
