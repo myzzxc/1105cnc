@@ -2559,8 +2559,8 @@
       <tuv lang="EN-US">
         <seg>Care must also be taken during the evisceration process.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T042415Z">
-        <seg>內臟摘出過程也需注意，</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T042939Z">
+        <seg>內臟摘出過程也需注意下列事項，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3619,6 +3619,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145107Z">
         <seg>雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensuring good feed withdrawal will help to reduce bacterial contamination at this stage, regardless of whether a short or long feed withdrawal has been followed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043023Z">
+        <seg>無論是短期或長期禁食，確保良好的禁食過程將有助於減少此階段的細菌污染。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10987,6 +10995,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T132702Z">
         <seg>此規範之條款旨意非用於避免安裝未於此法規中所提及之任何材料、或禁止任何未說明之設計、或進行未闡述之施工方法，上述替代方案若經核准仍可進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The quality of feed withdrawal is important to reduce the risk of bacterial contamination in the processing plant, irrespective of whether a short or long feed withdrawal is implemented.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043054Z">
+        <seg>無論進行短期或長期禁食，禁食過程的品質對於降低處理廠內的細菌污染風險相當重要。</seg>
       </tuv>
     </tu>
     <tu>
