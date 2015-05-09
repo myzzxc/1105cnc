@@ -1837,6 +1837,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As temperatures rise, bacterial growth occurs more quickly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031242Z">
+        <seg>細菌生長隨著溫度升高將會更快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the object moves toward and away from the camera, the PTZ will zoom to attempt to keep the matched object the same size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151123Z">
@@ -7588,6 +7596,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Post-slaughter, however, the carcass temperature falls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031014Z">
+        <seg>屠宰後屠宰體溫度就會下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130609Z">
@@ -8913,6 +8929,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092924Z">
         <seg>主軸大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slaughtered birds lose about 3 percent of their body weight through loss of blood, and this blood loss brings the carcass temperature down to about 38 °C.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031208Z">
+        <seg>屠宰的雞隻體重會會因為失血下降大約百分之三，而失血會使屠宰體溫度降到約 38 °C。</seg>
       </tuv>
     </tu>
     <tu>
