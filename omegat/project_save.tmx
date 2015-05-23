@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Descriptions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083938Z" creationid="CCYU" creationdate="20150523T083938Z">
+        <seg>說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digifort Analytic modules possess powerful video analysis that used together will allow the monitoring is more efficient and intelligent, helping operators to achieve a higher rate of accidents in the capture and detecting events.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T051637Z">
@@ -6437,8 +6445,8 @@
       <tuv lang="EN-US">
         <seg>Legal Trademark Names (Use in first instance on each.):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082306Z" creationid="CCYU" creationdate="20150523T082102Z">
-        <seg>註冊商標名稱（用於初次出現於內文中）：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083942Z" creationid="CCYU" creationdate="20150523T082102Z">
+        <seg>註冊商標名稱（用於初次出現於文件中）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9593,6 +9601,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154712Z">
         <seg>煙霧具有平滑的線條，缺少銳利的邊緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Solution: PDF software that gives business users the features they need to be productive at a price that businesses can justify.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083910Z" creationid="CCYU" creationdate="20150523T083910Z">
+        <seg>解決方案：為企業用戶提供價格合理且符合其功能需求的 PDF 軟體。</seg>
       </tuv>
     </tu>
     <tu>
