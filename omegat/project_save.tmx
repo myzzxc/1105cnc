@@ -1410,6 +1410,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced edition: Nuance® Power PDF Advanced (do not include version number)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082207Z" creationid="CCYU" creationdate="20150523T082207Z">
+        <seg>進階版：Nuance® Power PDF Advanced（不包括版本號）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a period of time this missing object can be raised as a removed object.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112623Z">
@@ -6387,6 +6395,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legal Trademark Names (Use in first instance on each.):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082102Z" creationid="CCYU" creationdate="20150523T082102Z">
+        <seg>註冊商標名稱（以下為個別範例說明）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Length</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081436Z">
@@ -9569,6 +9585,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T122246Z">
         <seg>這些材料散佈可能會導致火災和嚴重身體傷害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard edition: Nuance® Power PDF Standard (do not include version number)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082146Z" creationid="CCYU" creationdate="20150523T082146Z">
+        <seg>標準版：Nuance® Power PDF Standard （不包括版本號）</seg>
       </tuv>
     </tu>
     <tu>
