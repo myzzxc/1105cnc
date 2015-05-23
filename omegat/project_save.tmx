@@ -1530,6 +1530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All rights reserved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082854Z" creationid="CCYU" creationdate="20150523T082854Z">
+        <seg>版權所有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All spindles with 24000 RPM capability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115819Z">
@@ -6979,10 +6987,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuance Copyright Statement (Include at bottom of each.): © 2014 Nuance Communications, Inc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082851Z" creationid="CCYU" creationdate="20150523T082851Z">
+        <seg>Nuance 版權聲明（收錄於每份文件底部）：© 2014年 Nuance Communications, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nuance Product Fact Sheet</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T073329Z" creationid="CCYU" creationdate="20150523T073329Z">
         <seg>Nuance 產品資訊表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance and the Nuance logoare trademarks and/or registered trademarks of Nuance Communications, Inc., and/or its subsidiaries in the United States and/or other countries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083113Z" creationid="CCYU" creationdate="20150523T083113Z">
+        <seg>Nuance 和 Nuance 商標為 Nuance Communications, Inc. 和其子公司在美國和其他國家的註冊商標，</seg>
       </tuv>
     </tu>
     <tu>
