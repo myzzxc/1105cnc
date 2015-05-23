@@ -1893,6 +1893,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a result, collaboration and productivity is hindered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083806Z" creationid="CCYU" creationdate="20150523T083730Z">
+        <seg>因而降低了協作性和工作效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As above with Vacuum Bed, 11.5hp blower and silencer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144252Z">
@@ -11193,8 +11201,8 @@
       <tuv lang="EN-US">
         <seg>The high price of Adobe Acrobat Professional makes powerful PDF software unobtainable for most while the limited capabilities of low priced alternatives leave users powerless.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083356Z" creationid="CCYU" creationdate="20150523T083356Z">
-        <seg>Adobe Acrobat 專業版的高價格使強大的 PDF 軟體無法獲得大部分雖然低價格替代品的有限的能力的使用者離開無能為力。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083733Z" creationid="CCYU" creationdate="20150523T083356Z">
+        <seg>Adobe Acrobat 專業版的高價格使多數人無法取得強大的 PDF 軟，而低價替代產品的功能有限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12395,6 +12403,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T075227Z">
         <seg>以利用重力將凝結水排出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those fortunate to have Adobe are frustrated by its complexity and unfamiliar interface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083735Z" creationid="CCYU" creationdate="20150523T083721Z">
+        <seg>即使擁有 Adobe 也會因為其複雜且不熟悉的介面而難以上手，</seg>
       </tuv>
     </tu>
     <tu>
