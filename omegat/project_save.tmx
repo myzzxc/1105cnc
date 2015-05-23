@@ -249,8 +249,8 @@
       <tuv lang="EN-US">
         <seg>10 words:   Collaboration and productivity at a price that makes business sense.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084518Z" creationid="CCYU" creationdate="20150523T084323Z">
-        <seg>10 個字：平價的商用級高協作性和高效率</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084822Z" creationid="CCYU" creationdate="20150523T084323Z">
+        <seg>15 字：平價提供商用級的協作性和高效率</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,8 +465,8 @@
       <tuv lang="EN-US">
         <seg>25 words:  Collaboration and productivity at a price that makes business sense.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084554Z" creationid="CCYU" creationdate="20150523T084342Z">
-        <seg>25 個字：平價的商用級高協作性和高效率，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084908Z" creationid="CCYU" creationdate="20150523T084342Z">
+        <seg>30 字：平價提供商用級的協作性和高效率</seg>
       </tuv>
     </tu>
     <tu>
@@ -627,6 +627,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065645Z">
         <seg>同時也有 5 HP 系統供小型機台應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>50 words: Collaboration and productivity at a price that makes business sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084916Z" creationid="CCYU" creationdate="20150523T084916Z">
+        <seg>30 字：平價提供商用級的協作性和高效率</seg>
       </tuv>
     </tu>
     <tu>
@@ -6325,8 +6333,8 @@
       <tuv lang="EN-US">
         <seg>It’s high performance software with advanced features and user-friendly design that businesses and professionals demand.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084710Z" creationid="CCYU" creationdate="20150523T084710Z">
-        <seg>具有先進功能和人性化設計的高效能軟體，符合企業和專業人士所需。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084905Z" creationid="CCYU" creationdate="20150523T084710Z">
+        <seg>具有最先進功能和人性化設計的高效能軟體，符合企業和專業人士所需。</seg>
       </tuv>
     </tu>
     <tu>
