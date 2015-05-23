@@ -7997,6 +7997,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power PDF Advanced: $149.95</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T080951Z" creationid="CCYU" creationdate="20150523T080951Z">
+        <seg>Power PDF 進階板：美金 $149.95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF Standard: $99.95</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T080928Z" creationid="CCYU" creationdate="20150523T080928Z">
+        <seg>Power PDF 標準版：美金 $99.95 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135626Z">
