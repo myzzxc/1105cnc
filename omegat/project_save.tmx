@@ -2341,6 +2341,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boilerplate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081816Z" creationid="CCYU" creationdate="20150523T081816Z">
+        <seg>樣板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bond resistance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181445Z">
@@ -6835,6 +6843,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081609Z" creationid="CCYU" creationdate="20150523T081609Z">
+        <seg>無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nose Rider Collar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082147Z">
@@ -6919,6 +6935,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T083929Z">
         <seg>開口公稱尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance Channel Partners / Resellers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081645Z" creationid="CCYU" creationdate="20150523T081645Z">
+        <seg>Nuance 通路合作夥伴 / 經銷商</seg>
       </tuv>
     </tu>
     <tu>
@@ -13372,6 +13396,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081135Z">
         <seg>有 無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081607Z" creationid="CCYU" creationdate="20150523T081607Z">
+        <seg>有</seg>
       </tuv>
     </tu>
     <tu>
