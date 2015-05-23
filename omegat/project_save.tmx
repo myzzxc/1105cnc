@@ -2053,6 +2053,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Available Distribution Media: Individual license (serialised), Volume Licensing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081327Z" creationid="CCYU" creationdate="20150523T081327Z">
+        <seg>可選授權方式：個別授權（序號）、大量授權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Editions: Standard and Advanced</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T073758Z" creationid="CCYU" creationdate="20150523T073758Z">
@@ -2665,6 +2673,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T134251Z">
         <seg>陶瓷、石墨、熱交換器、輸送設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Channel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081544Z" creationid="CCYU" creationdate="20150523T081544Z">
+        <seg>通路</seg>
       </tuv>
     </tu>
     <tu>
@@ -3370,6 +3386,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063823Z">
         <seg>分散式處理：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribution Channels:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081540Z" creationid="CCYU" creationdate="20150523T081527Z">
+        <seg>銷售通路：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7997,10 +8021,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power PDF Advanced</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081557Z" creationid="CCYU" creationdate="20150523T081557Z">
+        <seg>Power PDF 進階版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power PDF Advanced: $149.95</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T080951Z" creationid="CCYU" creationdate="20150523T080951Z">
         <seg>Power PDF 進階板：美金 $149.95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF Standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081549Z" creationid="CCYU" creationdate="20150523T081549Z">
+        <seg>Power PDF 標準版</seg>
       </tuv>
     </tu>
     <tu>
@@ -8657,6 +8697,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122003Z">
         <seg>抗硫化物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retail</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081601Z" creationid="CCYU" creationdate="20150523T081601Z">
+        <seg>零售</seg>
       </tuv>
     </tu>
     <tu>
@@ -9849,6 +9897,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z">
         <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target Market Segments: SOHO, Professional, Small Business, Enterprise, Healthcare and Legal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081511Z" creationid="CCYU" creationdate="20150523T081511Z">
+        <seg>目標市場：SOHO 族、專業人士、小型公司、大型企業、醫療合法律單位</seg>
       </tuv>
     </tu>
     <tu>
