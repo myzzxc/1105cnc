@@ -633,8 +633,8 @@
       <tuv lang="EN-US">
         <seg>50 words: Collaboration and productivity at a price that makes business sense.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084916Z" creationid="CCYU" creationdate="20150523T084916Z">
-        <seg>30 字：平價提供商用級的協作性和高效率</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T085536Z" creationid="CCYU" creationdate="20150523T084916Z">
+        <seg>50 字：平價提供商用級的協作性和高效率</seg>
       </tuv>
     </tu>
     <tu>
@@ -2001,6 +2001,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T154218Z">
         <seg>具有選配可交換式刀匣可供選擇，刀匣同時適用於標準刀鋒、輪形刀、壓花輪以及 45 度角刀鋒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assemble, compare, convert, create, dictate, edit, read, redact, scan, search, secure, sign, print and validate PDF documents and forms with unprecedented ease and speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T085532Z" creationid="CCYU" creationdate="20150523T085532Z">
+        <seg>以空前的易用性和高速進行合併、比較、轉檔、建立、聽寫、編輯、朗讀、修訂、掃描、搜索、安全、簽章、列印和驗證 PDF 文件和表格。</seg>
       </tuv>
     </tu>
     <tu>
