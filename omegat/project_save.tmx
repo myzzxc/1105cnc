@@ -1298,6 +1298,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abbreviated Names (Use in each additional reference.):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082354Z" creationid="CCYU" creationdate="20150523T082229Z">
+        <seg>縮寫名稱（用於附加參考資訊中）：:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accelerometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133930Z">
@@ -1414,6 +1422,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082207Z" creationid="CCYU" creationdate="20150523T082207Z">
         <seg>進階版：Nuance® Power PDF Advanced（不包括版本號）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced edition: Power PDF Advanced</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082413Z" creationid="CCYU" creationdate="20150523T082413Z">
+        <seg>進階版：Power PDF Advanced</seg>
       </tuv>
     </tu>
     <tu>
@@ -6397,8 +6413,8 @@
       <tuv lang="EN-US">
         <seg>Legal Trademark Names (Use in first instance on each.):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082102Z" creationid="CCYU" creationdate="20150523T082102Z">
-        <seg>註冊商標名稱（以下為個別範例說明）：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082306Z" creationid="CCYU" creationdate="20150523T082102Z">
+        <seg>註冊商標名稱（用於初次出現於內文中）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9593,6 +9609,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082146Z" creationid="CCYU" creationdate="20150523T082146Z">
         <seg>標準版：Nuance® Power PDF Standard （不包括版本號）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard edition: Power PDF Standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082406Z" creationid="CCYU" creationdate="20150523T082406Z">
+        <seg>標準版：Power PDF Standard</seg>
       </tuv>
     </tu>
     <tu>
