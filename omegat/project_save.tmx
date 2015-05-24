@@ -3678,6 +3678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don’t retype your documents:  If you must work with PDF documents in other applications, don’t waste valuable time recreating them—convert them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T035257Z" creationid="CCYU" creationdate="20150524T035257Z">
+        <seg>無須重新輸入文件檔案：如果必須使用其他應用程式中的 PDF 文件檔，不要浪費寶貴的時間重新創建 —— 只需進行轉檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download: PDF of GSM shield schematic, Reference design</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133214Z">
