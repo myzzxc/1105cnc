@@ -102,6 +102,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$149.99 for Power PDF Advanced</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133827Z" creationid="CCYU" creationdate="20150524T133827Z">
+        <seg>Power PDF 進階版定價美金 $149.99 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>$99.99 for Power PDF Standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133814Z" creationid="CCYU" creationdate="20150524T133814Z">
+        <seg>Power PDF 標準版定價美金 $99.99</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>( 3.7Kw) (3 Phase)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050155Z">
@@ -2673,6 +2689,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015421Z" creationid="CCYU" creationdate="20150524T015421Z">
         <seg>優點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Best Usability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133547Z" creationid="CCYU" creationdate="20150524T133547Z">
+        <seg>最佳使用性</seg>
       </tuv>
     </tu>
     <tu>
@@ -9427,6 +9451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pages view + stamps enables browse and stamp use case</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133722Z" creationid="CCYU" creationdate="20150524T133722Z">
+        <seg>頁面檢視 + 圖章能瀏覽並加入圖章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Particular care also needs to be paid at chilling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045149Z">
@@ -9985,6 +10017,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T095405Z" creationid="CCYU" creationdate="20150524T095405Z">
         <seg>從使用 Power PDF 開始，就提升了生產力：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF is Easy to Deploy in Compliance with Enterprise Data Governance Controls</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133744Z" creationid="CCYU" creationdate="20150524T133744Z">
+        <seg>Power PDF 能輕易地進行企業資料管控。</seg>
       </tuv>
     </tu>
     <tu>
