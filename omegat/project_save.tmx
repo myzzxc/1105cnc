@@ -7667,6 +7667,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many people are under the misconception that only Adobe provides software and tools to convert and edit PDFs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092520Z" creationid="CCYU" creationdate="20150524T092520Z">
+        <seg>許多人都誤以為只有 Adobe 有提供軟體和工具以進行 PDF 文件檔案的轉換和編輯 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark ups &amp; Comments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071148Z" creationid="CCYU" creationdate="20150524T071148Z">
@@ -12951,6 +12959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first is Adobe:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092356Z" creationid="CCYU" creationdate="20150524T092356Z">
+        <seg>第一種選擇為 Adobe：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fitting is a ¼” (6.35mm) quick disconnect fitting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084441Z">
@@ -14179,6 +14195,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T142542Z">
         <seg>堅固的 Exacto 型刀鋒設計包含了多種尺寸及強度可供選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This simply isn’t the case as PDF is a true ISO standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092557Z" creationid="CCYU" creationdate="20150524T092557Z">
+        <seg>但事實絕非如此，因為 PDF 是一個真正的 ISO 標準</seg>
       </tuv>
     </tu>
     <tu>
