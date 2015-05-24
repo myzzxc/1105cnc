@@ -11392,8 +11392,8 @@
       <tuv lang="EN-US">
         <seg>The PDF/A Compliance Checker can analyse PDF files for PDF/A-1a, -1b, -2a, -2b, -2u, -3a, -3b and -3u compliance.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050855Z" creationid="CCYU" creationdate="20150524T050855Z">
-        <seg>PDF/A 規範檢查器Compliance Checker can analyse PDF files for PDF/A-1a, -1b, -2a, -2b, -2u, -3a, -3b and -3u compliance.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051120Z" creationid="CCYU" creationdate="20150524T050855Z">
+        <seg>PDF/A 規範檢查器能分析 PDF/A-1a、 -1b、-2a、-2b、-2u、-3a、-3b 和 -3u 級標章的 PDF 檔案。</seg>
       </tuv>
     </tu>
     <tu>
