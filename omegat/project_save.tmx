@@ -6893,8 +6893,8 @@
       <tuv lang="EN-US">
         <seg>Minimum number of clicks required to highlight text, manage comments and review a document making the UI more responsive to repetitive tasks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023423Z" creationid="CCYU" creationdate="20150524T023423Z">
-        <seg>以最少的步驟進行文字標示、標注管理和文件修訂，Minimum number of clicks required to highlight text, manage comments and review a document making the UI more responsive to repetitive tasks.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023756Z" creationid="CCYU" creationdate="20150524T023423Z">
+        <seg>以最少的步驟進行文字標示、註解管理和文件修訂，使用者介面更適合進行高重複性的工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7975,6 +7975,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T054624Z">
         <seg>依照以下程序進行外管液壓測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023832Z" creationid="CCYU" creationdate="20150524T023832Z">
+        <seg>效能</seg>
       </tuv>
     </tu>
     <tu>
@@ -11159,6 +11167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The annotated text is automatically copied into comment pop-ups.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023816Z" creationid="CCYU" creationdate="20150524T023746Z">
+        <seg>標注文字會自動複製到註解彈出方塊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The board can also connect to a wired network via Ethernet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130910Z">
@@ -13916,6 +13932,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020930Z" creationid="CCYU" creationdate="20150524T020930Z">
         <seg>獨有，更多的雲端連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, vs. Nitro and Foxit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023824Z" creationid="CCYU" creationdate="20150524T023824Z">
+        <seg>獨有，與 Nitro 和 Foxit 相比</seg>
       </tuv>
     </tu>
     <tu>
