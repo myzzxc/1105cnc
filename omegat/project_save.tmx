@@ -2101,6 +2101,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automate routine PDF and TIFF creation tasks from a wide range of formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022141Z" creationid="CCYU" creationdate="20150524T022141Z">
+        <seg>多種格式檔案自動執行 PDF 和 TIFF 建立任務</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic (Software) Reset</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141709Z">
@@ -2345,6 +2353,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134320Z">
         <seg>最低限度 (BareMinimum)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch Processing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022145Z" creationid="CCYU" creationdate="20150524T022145Z">
+        <seg>批次處理</seg>
       </tuv>
     </tu>
     <tu>
