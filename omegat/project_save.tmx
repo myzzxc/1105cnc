@@ -4441,8 +4441,8 @@
       <tuv lang="EN-US">
         <seg>File Open/Save from/to SharePoint &amp; DMS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021144Z" creationid="CCYU" creationdate="20150524T021027Z">
-        <seg>SharePoint &amp; 目錄管理服務 (DMS) 開啟/儲存檔案</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051328Z" creationid="CCYU" creationdate="20150524T021027Z">
+        <seg>SharePoint &amp; 文件管理系統 (DMS) 開啟/儲存檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -5941,8 +5941,8 @@
       <tuv lang="EN-US">
         <seg>Improved SharePoint and DMS collaboration services to store and share information seamlessly</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030033Z" creationid="CCYU" creationdate="20150524T030033Z">
-        <seg>改進 SharePoint 和目錄管理服務以儲存和共用資訊</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051351Z" creationid="CCYU" creationdate="20150524T030033Z">
+        <seg>改進 SharePoint 和文件管理系統以儲存和共用資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -9681,6 +9681,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022608Z">
         <seg>集屑附件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save/Open documents interacting directly with document management systems:  Users can save PDFs to the most popular document management systems (DMS) now easier than ever by accessing them directly from the Save/Save As menu, from the Portfolio mode or from Internet Explorer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051316Z" creationid="CCYU" creationdate="20150524T051316Z">
+        <seg>直接使用文件管理系統儲存/開啟檔案直接與交互文件管理系統： 使用者可以保存 Pdf 熱門文件管理系統 （DMS） 比現在更容易過通過訪問他們直接從保存/另存為功能表中，從組合模式或從互聯網資源管理器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13497,8 +13505,8 @@
       <tuv lang="EN-US">
         <seg>Using SharePoint and DMS collaboration services to store and share information seamlessly</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021245Z" creationid="CCYU" creationdate="20150524T021245Z">
-        <seg>使用 SharePoint 和目錄管理服務儲存和共用資訊</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051340Z" creationid="CCYU" creationdate="20150524T021245Z">
+        <seg>使用 SharePoint 和文件管理系統儲存和共用資訊</seg>
       </tuv>
     </tu>
     <tu>
