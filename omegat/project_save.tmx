@@ -3248,8 +3248,8 @@
       <tuv lang="EN-US">
         <seg>Create and validate compliance with Section 508 information accessibility standards.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023220Z" creationid="CCYU" creationdate="20150524T023209Z">
-        <seg>建立和驗證符合 508 條款存取性標準</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023235Z" creationid="CCYU" creationdate="20150524T023209Z">
+        <seg>建立和驗證符合 508 條款資訊存取性標準</seg>
       </tuv>
     </tu>
     <tu>
@@ -6611,6 +6611,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legal review</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023547Z" creationid="CCYU" creationdate="20150524T023312Z">
+        <seg>法律校閱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Length</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081436Z">
@@ -6879,6 +6887,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T123240Z">
         <seg>最小構件厚度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum number of clicks required to highlight text, manage comments and review a document making the UI more responsive to repetitive tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023423Z" creationid="CCYU" creationdate="20150524T023423Z">
+        <seg>以最少的步驟進行文字標示、標注管理和文件修訂，Minimum number of clicks required to highlight text, manage comments and review a document making the UI more responsive to repetitive tasks.</seg>
       </tuv>
     </tu>
     <tu>
