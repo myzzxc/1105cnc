@@ -3342,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create forms from scratch using easy to use form drawing tools.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050346Z" creationid="CCYU" creationdate="20150524T050346Z">
+        <seg>使用簡便的表單繪圖工具從頭創建表單，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curing time at standard, minimum and maximum temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121837Z">
@@ -4167,6 +4175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export information in filled in forms so you can sort, search and analyse the data using popular database and spreadsheet file types such as XFDF, XML, TXT and CSV files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050535Z" creationid="CCYU" creationdate="20150524T050535Z">
+        <seg>匯出已填寫之表單中的資訊，可使用常用的資料庫和試算表檔案類型（例如 XFDF、 XML、 TXT 和 CSV 檔案進行排序、搜索和資料分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extended Gantry Height</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131244Z">
@@ -4846,6 +4862,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052708Z">
         <seg>進行此測試石，請遵循 3-1 節之注意事項和警示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FormTyperTM automatically converts non-fillable forms into fillable PDF forms that you can complete, save, and email.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050251Z" creationid="CCYU" creationdate="20150524T050251Z">
+        <seg>FormTyperTM 自動轉換不可輸入的表單成為可輸入之 PDF 表單，使用者能填入、儲存並傳送電子郵件。</seg>
       </tuv>
     </tu>
     <tu>
