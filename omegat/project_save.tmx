@@ -6331,6 +6331,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insure PDF/A compliance:  Take advantage of a simplified way to meet PDF/A compliance requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050928Z" creationid="CCYU" creationdate="20150524T050628Z">
+        <seg>確保符合 PDF/A 規範：利用簡化的方式滿足 PDF/A 規範標準，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Integrated Solutions Delivering everything our Customers need</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121522Z">
@@ -11382,6 +11390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The PDF/A Compliance Checker can analyse PDF files for PDF/A-1a, -1b, -2a, -2b, -2u, -3a, -3b and -3u compliance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050855Z" creationid="CCYU" creationdate="20150524T050855Z">
+        <seg>PDF/A 規範檢查器Compliance Checker can analyse PDF files for PDF/A-1a, -1b, -2a, -2b, -2u, -3a, -3b and -3u compliance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The RX and TX LEDs on the board will flash when data is being transmitted via the USB connection to the computer (but not for serial communication on pins 0 and 1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130149Z">
@@ -13467,6 +13483,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153359Z">
         <seg>對使用者友善之手持式控制器可方便操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Users are notified if a PDF/A file does not meet compliance requirement, so they can fix them on the fly—further saving time and making sure the files are in full compliance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050924Z" creationid="CCYU" creationdate="20150524T050832Z">
+        <seg>若 PDF/A 檔案不符合規範標準，將會提示試用者，讓使用者能快速修正 —— 節省更多時間並確保檔案符合標準。</seg>
       </tuv>
     </tu>
     <tu>
