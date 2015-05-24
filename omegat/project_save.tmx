@@ -1586,6 +1586,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of the stuff you want none of the stuff you don’t</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055714Z" creationid="CCYU" creationdate="20150524T055714Z">
+        <seg>提供所需的所有功能，並去除所有無用功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All other trademarks are properties of their respective owners.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083212Z" creationid="CCYU" creationdate="20150523T083212Z">
@@ -2617,6 +2625,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T135335Z">
         <seg>其建立於我們的 CNC 雕刻機產線上的堅固平台，切削系統專為我們客戶特別需求所製造。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Built for business users, reasonably priced, no audits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055600Z" creationid="CCYU" creationdate="20150524T055600Z">
+        <seg>為企業使用者打造、價格合理、無須審核</seg>
       </tuv>
     </tu>
     <tu>
@@ -7581,8 +7597,8 @@
       <tuv lang="EN-US">
         <seg>Nuance Power PDF Advanced: PDF Uncompromised and Unlimited.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015238Z" creationid="CCYU" creationdate="20150524T015235Z">
-        <seg>Nuance Power PDF 進階版：不折不扣且無限制的 PDF 文件</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055802Z" creationid="CCYU" creationdate="20150524T015235Z">
+        <seg>Nuance Power PDF 進階版：不折不扣且無限制的 PDF 軟體</seg>
       </tuv>
     </tu>
     <tu>
@@ -7597,8 +7613,8 @@
       <tuv lang="EN-US">
         <seg>Nuance Power PDF: PDF Uncompromised.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015210Z" creationid="CCYU" creationdate="20150524T015210Z">
-        <seg>Nuance Power PDF：不折不扣的 PDF 文件</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055743Z" creationid="CCYU" creationdate="20150524T015210Z">
+        <seg>Nuance Power PDF：不折不扣的 PDF 軟體</seg>
       </tuv>
     </tu>
     <tu>
@@ -8031,6 +8047,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134417Z">
         <seg>PANELBUILDER 2D &amp; 鈑金排版軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF Uncompromised</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055812Z" creationid="CCYU" creationdate="20150524T055812Z">
+        <seg>不折不扣的 PDF 軟體</seg>
       </tuv>
     </tu>
     <tu>
@@ -10767,8 +10791,8 @@
       <tuv lang="EN-US">
         <seg>Tag Line:  PDF Uncompromised</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082716Z" creationid="CCYU" creationdate="20150523T082716Z">
-        <seg>宣傳標語：不折不扣的 PDF 文件</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055736Z" creationid="CCYU" creationdate="20150523T082716Z">
+        <seg>宣傳標語：不折不扣的 PDF 軟體</seg>
       </tuv>
     </tu>
     <tu>
