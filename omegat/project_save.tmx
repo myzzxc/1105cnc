@@ -1562,6 +1562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Again, Nuance has been providing robust PDF solutions over over a decade.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T122651Z" creationid="CCYU" creationdate="20150524T122651Z">
+        <seg>再次強調，Nuance 已持續提供可靠的 PDF 解決方案超過十年以上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air Flow Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090743Z">
@@ -13243,6 +13251,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T123626Z">
         <seg>使用外部電源時，Arduino 電路板之電壓輸入（非USB連接或其它穩壓的電源之5伏特）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The kit also allows for custom configurations for SharePoint and other connectors, and Read Only Mode to enforce compliance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T122600Z" creationid="CCYU" creationdate="20150524T122600Z">
+        <seg>此工具組還允許自訂設置 SharePoint 和其他連接、和唯讀模式來強化管制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The kit gives System Administrators the ability to control the installable options for each department – this accelerates and helps standardize large deployments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T122437Z" creationid="CCYU" creationdate="20150524T122437Z">
+        <seg>此工具讓系統管理員能夠管控每個部門的可安裝選項 —— 有助加速並標準化大型部署。</seg>
       </tuv>
     </tu>
     <tu>
