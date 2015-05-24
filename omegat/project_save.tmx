@@ -2461,6 +2461,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020021Z" creationid="CCYU" creationdate="20150524T020021Z">
+        <seg>兩套皆有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both carriages may be configured with automatic tool changer carousels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T130203Z">
@@ -6747,6 +6755,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimise learning curve and maximise productivity by enabling users to effortlessly transition between word processing and PDF publishing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020005Z" creationid="CCYU" creationdate="20150524T020005Z">
+        <seg>簡化學習門檻並最大化生產力，使用者不費吹灰之力便能由 WORD 文書處理轉換至 PDF 發佈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimizing opportunities for contamination and ensuring correct temperatures during processing can ensure the cold works, resulting in chickens with the correct shelf life.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T025721Z">
@@ -9799,8 +9815,8 @@
       <tuv lang="EN-US">
         <seg>Standard, Advanced or Both</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015534Z" creationid="CCYU" creationdate="20150524T015534Z">
-        <seg>標準版、進階版或兩套皆包含</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020027Z" creationid="CCYU" creationdate="20150524T015534Z">
+        <seg>標準版、進階版或兩套皆有</seg>
       </tuv>
     </tu>
     <tu>
