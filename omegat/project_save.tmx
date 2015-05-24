@@ -2029,6 +2029,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As part of this I want to give you an overview of the need for robust desktop PDF in the enterprise, and also give you a sense of the compromises organizations are forced to make when it comes to PDF software…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T091648Z" creationid="CCYU" creationdate="20150524T091648Z">
+        <seg>同時我想提供一個企業對可靠的 PDF 電腦程式的需求的概述，也讓大家知道部分組織機構對於採用 PDF 軟體被迫進行的妥協……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As such we require a high quality PTZ camera for auto tracking.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152436Z">
@@ -14884,6 +14892,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021931Z" creationid="CCYU" creationdate="20150524T021931Z">
         <seg>監控資料夾處理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We all know PDF is the standard format for business document collaboration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T091730Z" creationid="CCYU" creationdate="20150524T091730Z">
+        <seg>我們都知道 PDF 是業務文件協作的標準檔案格式，</seg>
       </tuv>
     </tu>
     <tu>
