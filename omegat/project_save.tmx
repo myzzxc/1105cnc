@@ -2109,6 +2109,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automate large scale PDF creation, conversion, OCR, redaction and Bates numbering jobs with improved batch handling capabilities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030334Z" creationid="CCYU" creationdate="20150524T030334Z">
+        <seg>改進批次處理能力，自動建立大型 PDF 檔案、轉檔、字元辨識 (OCR)、修訂、文件編號任務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automate large scale PDF creation, conversion, OCR, redaction and Bates numbering jobs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022643Z" creationid="CCYU" creationdate="20150524T022643Z">
@@ -3915,6 +3923,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145107Z">
         <seg>雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure compliance with ISO PDF/A standard with added support for 1a, 1b, 2a, 2b, 2u, 3a, 3b, and 3u.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030418Z" creationid="CCYU" creationdate="20150524T030418Z">
+        <seg>確保檔案符合 ISO PDF/A 標準並增加了 1a、 1b、 2a、 2b、 2u、 3a、 3b 和 3u 級標章的支援。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5811,6 +5827,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improved capabilities to automate routine PDF and TIF creation tasks from a wide range of formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030225Z" creationid="CCYU" creationdate="20150524T030225Z">
+        <seg>改進多種格式檔案自動執行 PDF 和 TIF 建立任務的功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Improved cloud collaboration services to store and share information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030016Z" creationid="CCYU" creationdate="20150524T030016Z">
@@ -7143,6 +7167,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T025750Z" creationid="CCYU" creationdate="20150524T025750Z">
         <seg>簡化學習門檻並最大化生產力，使用者不費吹灰之力便能由 WORD 文書處理轉換至 PDF 發佈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New feature allows deployment to users in read only mode to enforce compliance with segregation of duties and least privilege governance principles required by GAAP, SOX, GLBA, HIPAA, eDiscovery and other internal control best practices and regulatory mandates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030150Z" creationid="CCYU" creationdate="20150524T030150Z">
+        <seg>新增功能，讓使用者在唯讀模式下，必須遵守職責分配和 GAAP、SOX、GLBA、HIPAA、eDiscovery 以及其它最佳的內部管制方法和管理規範所需的最低權限管理原則。</seg>
       </tuv>
     </tu>
     <tu>
