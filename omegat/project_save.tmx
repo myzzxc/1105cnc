@@ -4257,8 +4257,8 @@
       <tuv lang="EN-US">
         <seg>File Open/Save from/to SharePoint &amp; DMS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021027Z" creationid="CCYU" creationdate="20150524T021027Z">
-        <seg>SharePoint &amp; DMS 開啟/儲存檔案</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021144Z" creationid="CCYU" creationdate="20150524T021027Z">
+        <seg>SharePoint &amp; 目錄管理服務 (DMS) 開啟/儲存檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -8677,6 +8677,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reader mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021315Z" creationid="CCYU" creationdate="20150524T021315Z">
+        <seg>閱讀模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rear</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082940Z">
@@ -12871,6 +12879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unique (more systems supported)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021306Z" creationid="CCYU" creationdate="20150524T021306Z">
+        <seg>獨有（支援更多系統）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unique Selling Proposition:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015308Z" creationid="CCYU" creationdate="20150524T015308Z">
@@ -12963,6 +12979,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153359Z">
         <seg>對使用者友善之手持式控制器可方便操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using SharePoint and DMS collaboration services to store and share information seamlessly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021245Z" creationid="CCYU" creationdate="20150524T021245Z">
+        <seg>使用 SharePoint 和目錄管理服務儲存和共用資訊</seg>
       </tuv>
     </tu>
     <tu>
