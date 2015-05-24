@@ -3230,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customisable Quick Access Toolbar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020122Z" creationid="CCYU" creationdate="20150524T020122Z">
+        <seg>自訂快速存取工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut aluminium, sheet metal and stainless steel upto 12mm thick atcutting speeds over 5m/min with excellent edge quality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144522Z">
@@ -9613,6 +9621,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shortcuts to the features and capabilities for each user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020245Z" creationid="CCYU" creationdate="20150524T020245Z">
+        <seg>使用者能自訂功能捷徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should bottlenecks occur, there will be a greater opportunity for bacteria to multiply and this can negatively affect shelf life.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041039Z">
@@ -13700,6 +13716,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081607Z" creationid="CCYU" creationdate="20150523T081607Z">
         <seg>有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes vs. Adobe Acrobat</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020109Z" creationid="CCYU" creationdate="20150524T020109Z">
+        <seg>獨有，與 Adobe Acrobat 相比</seg>
       </tuv>
     </tu>
     <tu>
