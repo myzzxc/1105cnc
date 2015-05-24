@@ -2471,8 +2471,8 @@
       <tuv lang="EN-US">
         <seg>Batch pattern search / redaction</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071604Z" creationid="CCYU" creationdate="20150524T071604Z">
-        <seg>批次模式搜尋索 / 密文</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071711Z" creationid="CCYU" creationdate="20150524T071604Z">
+        <seg>批次模式搜尋 / 加密文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compliance/Governance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071931Z" creationid="CCYU" creationdate="20150524T071931Z">
+        <seg>規範標準/管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Component</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080009Z">
@@ -3296,8 +3304,8 @@
       <tuv lang="EN-US">
         <seg>Configurable Workflows</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071054Z" creationid="CCYU" creationdate="20150524T071054Z">
-        <seg>可改變設置之工作流程</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071825Z" creationid="CCYU" creationdate="20150524T071054Z">
+        <seg>自訂工作流程</seg>
       </tuv>
     </tu>
     <tu>
@@ -3602,6 +3610,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020722Z" creationid="CCYU" creationdate="20150524T020722Z">
         <seg>自訂安裝和部署選項，使系統管理員能輕鬆管理每個機構或部門可安裝的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customizable installation deployment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071813Z" creationid="CCYU" creationdate="20150524T071813Z">
+        <seg>自訂安裝部署工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -4239,6 +4255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Easier to Use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071852Z" creationid="CCYU" creationdate="20150524T071852Z">
+        <seg>使用更簡便</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Easily mounts to the AXYZ machine to scan the surface of awork piece.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052909Z">
@@ -4315,6 +4339,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T053250Z" creationid="CCYU" creationdate="20150524T053250Z">
         <seg>強化檔案安全性：使用 128 位元或 256 位元 AES 密碼加密和 PDF 檔案權限控制以管制文件檢視、列印和修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enhanced 508 and PDF/A support</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071843Z" creationid="CCYU" creationdate="20150524T071843Z">
+        <seg>強化 508 和 PDF/A 支援</seg>
       </tuv>
     </tu>
     <tu>
@@ -4481,8 +4513,8 @@
       <tuv lang="EN-US">
         <seg>Export information in filled in forms so you can sort, search and analyse the data using popular database and spreadsheet file types such as XFDF, XML, TXT and CSV files.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050535Z" creationid="CCYU" creationdate="20150524T050535Z">
-        <seg>匯出已填寫之表單中的資訊，可使用常用的資料庫和試算表檔案類型（例如 XFDF、 XML、 TXT 和 CSV 檔案進行排序、搜索和資料分析。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071633Z" creationid="CCYU" creationdate="20150524T050535Z">
+        <seg>匯出已填寫之表單中的資訊，可使用常用的資料庫和試算表檔案類型（例如 XFDF、 XML、 TXT 和 CSV 檔案進行排序、搜尋和資料分析。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4623,10 +4655,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Faster</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071908Z" creationid="CCYU" creationdate="20150524T071908Z">
+        <seg>更快速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faster and more flexible production isaseasy as choosing asingle, double oreven triple head carriage formultiple tasking operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160018Z">
         <seg>選擇單頭、雙頭甚至三頭刀架以進行多工操作，能更快速且更靈活的生產。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Faster indexing, searching, assembly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071754Z" creationid="CCYU" creationdate="20150524T071754Z">
+        <seg>更快速的索引、搜尋和組合</seg>
       </tuv>
     </tu>
     <tu>
@@ -7243,6 +7291,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lighter weight, faster performance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071737Z" creationid="CCYU" creationdate="20150524T071737Z">
+        <seg>更輕量、更快速的執行效能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like in a single license the client receives various analytics, he can also choose the desired analytics and run on the specified camera, and you can still run at the same time several analytics on the same camera, except the capture of the face, left objects and missing objects that should run separated with another configuration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135856Z">
@@ -7631,6 +7687,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140648Z">
         <seg>型號 #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More Automated</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071902Z" creationid="CCYU" creationdate="20150524T071902Z">
+        <seg>更加自動化</seg>
       </tuv>
     </tu>
     <tu>
@@ -10367,8 +10431,8 @@
       <tuv lang="EN-US">
         <seg>Scan to standard image, searchable, or editable PDF formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033207Z" creationid="CCYU" creationdate="20150524T033139Z">
-        <seg>掃描成標準的影像、可搜索或可編輯的 PDF 格式。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071628Z" creationid="CCYU" creationdate="20150524T033139Z">
+        <seg>掃描成標準的影像、可搜尋或可編輯的 PDF 格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10415,8 +10479,8 @@
       <tuv lang="EN-US">
         <seg>Search and redact workflows</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T060220Z" creationid="CCYU" creationdate="20150524T060220Z">
-        <seg>搜索和加密的工作流程</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071642Z" creationid="CCYU" creationdate="20150524T060220Z">
+        <seg>搜尋和加密的工作流程</seg>
       </tuv>
     </tu>
     <tu>
@@ -14954,8 +15018,8 @@
       <tuv lang="EN-US">
         <seg>With Power PDF you get all the tools necessary to annotate, markup, secure and compress PDF plus additional features only available from Nuance for document conversion, search, connectivity and more.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T032821Z" creationid="CCYU" creationdate="20150524T032821Z">
-        <seg>Power PDF 包含了所有標注、標記、加密和壓縮 PDF 的必須工具，加上文件轉檔、搜索、連結性以及更多 Nuance 獨有的額外功能。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071623Z" creationid="CCYU" creationdate="20150524T032821Z">
+        <seg>Power PDF 包含了所有標注、標記、加密和壓縮 PDF 的必須工具，加上文件轉檔、搜尋、連結性以及更多 Nuance 獨有的額外功能。</seg>
       </tuv>
     </tu>
     <tu>
