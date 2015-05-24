@@ -2181,6 +2181,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically highlight, cross-out or underline search results for faster, easier PDF editing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T053008Z" creationid="CCYU" creationdate="20150524T053008Z">
+        <seg>自動針對搜尋結果進行標示、劃除或劃底線以快速、簡便地編輯 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Distribution Media: Individual license (serialised), Volume Licensing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081327Z" creationid="CCYU" creationdate="20150523T081327Z">
