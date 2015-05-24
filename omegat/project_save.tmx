@@ -3158,6 +3158,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commenting, Stamping, Watermarking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T084423Z" creationid="CCYU" creationdate="20150524T084423Z">
+        <seg>
+Commenting, Stamping, Watermarking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140654Z">
