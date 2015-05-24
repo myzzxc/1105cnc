@@ -1466,6 +1466,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding comments to documents to support document review workflows and collaboration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121707Z" creationid="CCYU" creationdate="20150524T121707Z">
+        <seg>加入註解至文件中以支援文件校閱工作流程和協作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding water is important for two reasons: It replaces water that has stuck to feathers- it has been calculated that this can be as much as 60 percent- but it also helps to keep the bacterial concentration in the water down; it should not be allowed to rise above 40 percent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034643Z">
@@ -9933,6 +9941,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protecting and securing documents with permission controls, passwords, encryption, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121453Z" creationid="CCYU" creationdate="20150524T121453Z">
+        <seg>以權限控制、密碼、加密等保護並強化文件安全性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide 8-bit PWM output with the analogWrite() function.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131839Z">
@@ -10193,6 +10209,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085755Z" creationid="CCYU" creationdate="20150524T085755Z">
         <seg>文件加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redacting sensitive information in documents to protect user, patient, or company information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121752Z" creationid="CCYU" creationdate="20150524T121752Z">
+        <seg>加密文件中的敏感資訊以保護使用者、病患或公司資料</seg>
       </tuv>
     </tu>
     <tu>
