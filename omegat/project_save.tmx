@@ -1450,6 +1450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adobe Position:  We created PDF, you should go with Adobe because we are who we are.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054610Z" creationid="CCYU" creationdate="20150524T054610Z">
+        <seg>Adobe 定位：我們建立了 PDF 格式，客戶應跟隨著 Adobe 因為我們就是 PDF 核心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020726Z" creationid="CCYU" creationdate="20150524T020726Z">
@@ -7591,6 +7599,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T073329Z" creationid="CCYU" creationdate="20150523T073329Z">
         <seg>Nuance 產品資訊表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance Reposition:  Powerful, easy to use, business ready PDF solution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054802Z" creationid="CCYU" creationdate="20150524T054802Z">
+        <seg>Nuance 新定位：功能強大、使用簡便、適用於企業的 PDF 解決方案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15102,6 +15118,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030807Z">
         <seg>½ 小時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Nobody ever lost their job for buying Adobe (or IBM)”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054708Z" creationid="CCYU" creationdate="20150524T054708Z">
+        <seg>“選擇 Adobe (或 IBM) 讓人永遠不會失去工作”</seg>
       </tuv>
     </tu>
     <tu>
