@@ -6218,6 +6218,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INDEX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T145052Z" creationid="CCYU" creationdate="20150524T145052Z">
+        <seg>索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INSPECTION UPON RECEIPT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T023714Z">
@@ -6767,6 +6775,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T031559Z" creationid="CCYU" creationdate="20150524T031537Z">
         <seg>改進了文字標示、註解管理和文件修訂的步驟，使用者介面更適合進行高重複性的工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 2014, the Group Purchasing Department acquired a work tool called IValua Buyer that allows suppliers to connect to a portal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144941Z" creationid="CCYU" creationdate="20150524T144941Z">
+        <seg>於 2014 年，集團採購部門購買了 IValua Buyer 作業工具，使供應商能進行連接，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9439,6 +9455,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155702Z">
         <seg>11/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 2 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T145049Z" creationid="CCYU" creationdate="20150524T145049Z">
+        <seg>頁碼 2 / 27</seg>
       </tuv>
     </tu>
     <tu>
@@ -14972,6 +14996,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124035Z">
         <seg>此針腳輸出由電路板上穩壓器供應之5V電壓，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This quality manual addresses our expectations on the use of this tool.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T145043Z" creationid="CCYU" creationdate="20150524T145043Z">
+        <seg>此品質說明手冊中闡述了我們對於使用此工具的期望目標。</seg>
       </tuv>
     </tu>
     <tu>
