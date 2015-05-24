@@ -3206,6 +3206,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compromise 1: Adobe</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065608Z" creationid="CCYU" creationdate="20150524T065531Z">
+        <seg>妥協選擇 1： Adobe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compromises PDF buyers have beenforced to make.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065510Z" creationid="CCYU" creationdate="20150524T065457Z">
+        <seg>PDF 軟體使用者被迫妥協的選擇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Computer Minimum Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080016Z">
@@ -7083,6 +7099,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Limit number of licenses due to cost</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065717Z" creationid="CCYU" creationdate="20150524T065717Z">
+        <seg>受制於價格使授權數量有限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linear acceleration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125741Z">
@@ -8583,6 +8607,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063856Z" creationid="CCYU" creationdate="20150524T063856Z">
         <seg>銷售合作夥伴：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay for features you don’t need</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065602Z" creationid="CCYU" creationdate="20150524T065602Z">
+        <seg>購買不需要得功能</seg>
       </tuv>
     </tu>
     <tu>
