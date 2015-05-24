@@ -9589,6 +9589,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scan and highlight, cross-out or underline—all in a single step.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033229Z" creationid="CCYU" creationdate="20150524T033229Z">
+        <seg>掃描並標示、和突出顯示、 劃線或底線 — — 都在一個單一的步驟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scan to standard image, searchable, or editable PDF formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033207Z" creationid="CCYU" creationdate="20150524T033139Z">
+        <seg>掃描成標準的影像、可搜索或可編輯的 PDF 格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scantech Surface Scanner</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052638Z">
@@ -13131,6 +13147,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051418Z">
         <seg>裝載雞隻前貨櫃必須先達到正確的溫度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn paper into PDF more productively:  Create PDF files directly from your scanner with time saving one-click scanning to PDF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033131Z" creationid="CCYU" creationdate="20150524T033131Z">
+        <seg>更有效率地將紙本轉換為 PDF 檔案：藉由省時的單鍵掃描至 PDF 功能，由掃描器直接建立 PDF 檔案。</seg>
       </tuv>
     </tu>
     <tu>
