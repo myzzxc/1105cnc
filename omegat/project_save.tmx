@@ -799,6 +799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A computer with a Intel® Pentium® 4 , higher or equivalent processor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064039Z" creationid="CCYU" creationdate="20150524T064039Z">
+        <seg>一部具有 Intel® Pentium® 4 或更高級別處理器的電腦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A deletion indicator (-&gt;) is provided in the margin where any significant wording has been deleted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T142636Z">
@@ -3490,6 +3498,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020624Z" creationid="CCYU" creationdate="20150524T020624Z">
         <seg>自訂安裝部署工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer Technical Support:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063835Z" creationid="CCYU" creationdate="20150524T063835Z">
+        <seg>客戶技術支援：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8499,6 +8515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Partner Sales Portal:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063856Z" creationid="CCYU" creationdate="20150524T063856Z">
+        <seg>銷售合作夥伴：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>People</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092318Z">
@@ -9185,6 +9209,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065258Z">
         <seg>提供 175 CFM， Becker 10HP 為安靜且耐用的真空抽氣設備，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063830Z" creationid="CCYU" creationdate="20150524T063830Z">
+        <seg>公眾：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10741,6 +10773,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supported operating systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064044Z" creationid="CCYU" creationdate="20150524T064044Z">
+        <seg>支援作業系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Surveillance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091945Z">
@@ -10761,6 +10801,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z">
         <seg>藉由獨特內部旋渦式設計能高效率地吸取切屑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063901Z" creationid="CCYU" creationdate="20150524T063901Z">
+        <seg>系統要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -14444,6 +14492,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081438Z">
         <seg>寬度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows 7 SP1 32-bit or 64-bit Edition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064127Z" creationid="CCYU" creationdate="20150524T064127Z">
+        <seg>Windows 7 SP1 32 位元或64-bit Edition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows 8 32-bit or 64-bit Edition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064135Z" creationid="CCYU" creationdate="20150524T064106Z">
+        <seg>Windows 8 32 位元或 64 位元版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows 8.1 32-bit or 64-bit Edition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064130Z" creationid="CCYU" creationdate="20150524T064115Z">
+        <seg>Windows 8.1 32 位元或 64 位元版本</seg>
       </tuv>
     </tu>
     <tu>
