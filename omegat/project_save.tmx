@@ -3190,6 +3190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contextual Menus</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030550Z" creationid="CCYU" creationdate="20150524T030550Z">
+        <seg>內容功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue the test until cause is determined.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T071313Z">
@@ -3923,6 +3931,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145107Z">
         <seg>雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enhanced capabilities to create and validate compliance with Section 508 information accessibility standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030509Z" creationid="CCYU" creationdate="20150524T030509Z">
+        <seg>強化了建立和驗證符合 508 條款資訊存取性標準之功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -9545,6 +9561,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053347Z">
         <seg>輔助配件 - 幫助用戶更有效率地使用 CNC 雕刻機之配件，包括切削液噴嘴、集屑器腳座和更多的配件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 508 Accessibility Compliance Checking &amp; Correction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030431Z" creationid="CCYU" creationdate="20150524T030431Z">
+        <seg>508 條款存取性標準 (Section 508 Accessibility Compliance) 檢查和校正</seg>
       </tuv>
     </tu>
     <tu>
