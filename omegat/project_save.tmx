@@ -3286,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create PDF files from any PC application that can print: Instantly create 100% industry-standard PDF files with security options that are fully compliant and compatible with all PDF viewers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033723Z" creationid="CCYU" creationdate="20150524T033723Z">
+        <seg>由任何可進行列印的電腦應用程式中建立 PDF 檔案：快速建立 100% 業界標準的 PDF 檔案，具有完全相容於所有 PDF 檢視器的安全加密選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create and validate compliance with Section 508 information accessibility standards.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023235Z" creationid="CCYU" creationdate="20150524T023209Z">
@@ -14276,6 +14284,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133224Z">
         <seg>您也可以撥打/接聽電話（需要外接喇叭和麥克風）以及傳送/接收簡訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can even add bookmarks and transfer hyperlinks when creating PDF documents from Microsoft Word, Excel and PowerPoint.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033832Z" creationid="CCYU" creationdate="20150524T033832Z">
+        <seg>從 Microsoft Word、Excel、PowerPoint 中創建 PDF 檔案時也可以加入書籤和超連結。</seg>
       </tuv>
     </tu>
     <tu>
