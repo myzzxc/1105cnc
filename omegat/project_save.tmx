@@ -7787,10 +7787,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuance Power PDF for Enterprises</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065153Z" creationid="CCYU" creationdate="20150524T065153Z">
+        <seg>Nuance Power PDF 企業版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nuance Power PDF is the only PDF alternative that’s a real choice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015402Z" creationid="CCYU" creationdate="20150524T015402Z">
         <seg>Nuance Power PDF 是真正唯一的 PDF 替代方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance Power PDF puts an end to that.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065304Z" creationid="CCYU" creationdate="20150524T065304Z">
+        <seg>Nuance Power PDF 能改變這個情形</seg>
       </tuv>
     </tu>
     <tu>
@@ -13843,6 +13859,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073109Z">
         <seg>除了能滿足裝設整組熱交換器適當規定外，建議預留足夠的空間作為維護和維修時拆除熱交換器之用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until now enterprises and professionals have been forced to compromise when it comes to PDF software.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065241Z" creationid="CCYU" creationdate="20150524T065241Z">
+        <seg>目前企業和專業人士被迫妥協於現有的 PDF 軟體。</seg>
       </tuv>
     </tu>
     <tu>
