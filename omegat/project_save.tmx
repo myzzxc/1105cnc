@@ -3646,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deep support of PDF standard (PDF/A, Tagging, Packaging, Portfolios, etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063440Z" creationid="CCYU" creationdate="20150524T063440Z">
+        <seg>高度支援 PDF 標準（PDF/A、標籤 (Tagging)、封包 (Packaging)、組合 (Portfolios)、等等…）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the configuration of your machine you will need to provide 1, 2 or 3 separate power supplies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085637Z">
@@ -5334,6 +5342,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115050Z">
         <seg>三軸高扭力 / 高速馬達和驅動器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highest accuracy OCR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063247Z" creationid="CCYU" creationdate="20150524T063247Z">
+        <seg>高精度字元辨識 (OCR)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7691,6 +7707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuance Reposition:  We also offer a powerful, easy to use, business ready PDF solution… BUT we can meet all of those same points, AND we don’t ask the customers to make any compromises from a product perspective.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063228Z" creationid="CCYU" creationdate="20150524T063228Z">
+        <seg>Nuance 新定位：我們不僅能達到相同的功能，還提供了功能強大、使用簡便、適用於企業的 PDF 解決方案。且客戶使用我們的產品無須做出任何妥協。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nuance and the Nuance logoare trademarks and/or registered trademarks of Nuance Communications, Inc., and/or its subsidiaries in the United States and/or other countries.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083113Z" creationid="CCYU" creationdate="20150523T083113Z">
@@ -9433,6 +9457,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070347Z">
         <seg>以對角為一組分四次鬆開碟形彈簧墊片，以避免損壞螺栓與 IMPERVITE® 零件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reliability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063231Z" creationid="CCYU" creationdate="20150524T063231Z">
+        <seg>可靠性</seg>
       </tuv>
     </tu>
     <tu>
