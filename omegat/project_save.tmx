@@ -14121,8 +14121,8 @@
       <tuv lang="EN-US">
         <seg>The requirements set forth in this manual are not, in any case, restrictions on the current standards (ISO/TS 16949 EN 9100, etc.).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144531Z" creationid="CCYU" creationdate="20150524T144335Z">
-        <seg>本手所列之要求規範於任何情況下皆不限於當前標準規範 (ISO/TS 16949 EN 9100 等……)，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144611Z" creationid="CCYU" creationdate="20150524T144335Z">
+        <seg>本手所列之要求規範於任何情況下皆不限制於當前標準規範 (ISO/TS 16949 EN 9100 等……)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -14596,6 +14596,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080816Z" creationid="CCYU" creationdate="20150509T080816Z">
         <seg>規範適用於特定範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are a sort of supplement to them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144722Z" creationid="CCYU" creationdate="20150524T144550Z">
+        <seg>其為要求規範之附加內容。</seg>
       </tuv>
     </tu>
     <tu>
