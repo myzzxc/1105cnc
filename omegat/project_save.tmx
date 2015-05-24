@@ -6803,6 +6803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key Competitive Selling Points</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054311Z" creationid="CCYU" creationdate="20150524T054311Z">
+        <seg>核心競爭賣點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Knife Cutting Solutions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130420Z">
@@ -9361,6 +9369,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115910Z">
         <seg>因為系統中的店內存貨量未減少，因此不會要求補貨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reposition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054252Z" creationid="CCYU" creationdate="20150524T054240Z">
+        <seg>新定位</seg>
       </tuv>
     </tu>
     <tu>
