@@ -3430,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deploy to users in read only mode to enforce compliance with segregation of duties and least privilege governance principles required by GAAP, SOX, GLBA, HIPAA, eDiscovery and other internal control best practices and regulatory mandates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021847Z" creationid="CCYU" creationdate="20150524T021847Z">
+        <seg>使用者在唯讀模式下，必須遵守職責分配和 GAAP、SOX、GLBA、HIPAA、eDiscovery 以及其它最佳的內部管制方法和管理規範所需的最低權限管理原則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013903Z">
@@ -13236,6 +13244,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T044001Z">
         <seg>清洗或刷洗屠宰體內部和外部有助於降低污染，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Watched Folder Processing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021931Z" creationid="CCYU" creationdate="20150524T021931Z">
+        <seg>監控資料夾處理</seg>
       </tuv>
     </tu>
     <tu>
