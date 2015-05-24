@@ -2589,6 +2589,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch controls, watched folders/sequences</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131930Z" creationid="CCYU" creationdate="20150524T131930Z">
+        <seg>批次控制、監控資料夾/序列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch pattern search / redaction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071711Z" creationid="CCYU" creationdate="20150524T071604Z">
@@ -3406,6 +3414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compliance checking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132018Z" creationid="CCYU" creationdate="20150524T132018Z">
+        <seg>規範標準檢查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compliance/Governance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071931Z" creationid="CCYU" creationdate="20150524T071931Z">
@@ -3946,6 +3962,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070822Z" creationid="CCYU" creationdate="20150524T070822Z">
         <seg>DMS 連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DMS connector options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132033Z" creationid="CCYU" creationdate="20150524T132033Z">
+        <seg>DMS 連接選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -10433,6 +10457,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121752Z" creationid="CCYU" creationdate="20150524T121752Z">
         <seg>加密文件中的敏感資訊以保護使用者、病患或公司資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redaction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132005Z" creationid="CCYU" creationdate="20150524T132002Z">
+        <seg>文件加密</seg>
       </tuv>
     </tu>
     <tu>
