@@ -1394,6 +1394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Mark up and Highlighting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085234Z" creationid="CCYU" creationdate="20150524T085234Z">
+        <seg>主動標記和標示劃記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ad</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143603Z">
@@ -3554,6 +3562,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033723Z" creationid="CCYU" creationdate="20150524T033723Z">
         <seg>由任何可進行列印的電腦應用程式中建立 PDF 檔案：快速建立 100% 業界標準的 PDF 檔案，具有完全相容於所有 PDF 檢視器的安全加密選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create PDF from Microsoft Office</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085510Z" creationid="CCYU" creationdate="20150524T085510Z">
+        <seg>從 Microsoft Office 建立 PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -9397,6 +9413,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power PDF supports the advanced PDF workflows demanding professionals need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085459Z" creationid="CCYU" creationdate="20150524T085459Z">
+        <seg>Power PDF 支援專業人士所需的先進 PDF 工作流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135626Z">
@@ -10161,6 +10185,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052536Z">
         <seg>運輸途中墊片可能“貼緊”，因此可能需要重新上扭矩，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review and Approval</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085410Z" creationid="CCYU" creationdate="20150524T085410Z">
+        <seg>校閱和批准</seg>
       </tuv>
     </tu>
     <tu>
