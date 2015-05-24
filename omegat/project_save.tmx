@@ -775,6 +775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Custom Installation &amp; Deployment Kit allows IT to control the installable options so they can lock-down features when appropriate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121223Z" creationid="CCYU" creationdate="20150524T121223Z">
+        <seg>自訂安裝 ＆ 部署工具使資訊系統管理員能管控可安裝的選項，依企業所需鎖定功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A SoftwareSerial library allows for serial communication on any of the Leonardo ETH's digital pins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130307Z">
@@ -1870,6 +1878,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140049Z">
         <seg>分析是以統計方法進行，有時會有假警報，所以應考量安裝的環境和機種。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And PDF/A creation and section 508 accessibility help with Governance and Compliance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121230Z" creationid="CCYU" creationdate="20150524T121230Z">
+        <seg>而 PDF/A 建立和 508 條款存取性有助於管理和規範標準</seg>
       </tuv>
     </tu>
     <tu>
@@ -3134,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click here (Nuance YouTube channel) to watch them now.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121323Z" creationid="CCYU" creationdate="20150524T121323Z">
+        <seg>點擊此處 (Nuance YouTube 頻道) 立刻觀看影片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click here to check out the short Power PDF video demo series</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090013Z" creationid="CCYU" creationdate="20150524T090013Z">
@@ -3266,6 +3290,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132350Z">
         <seg>與裝配總圖上鎖列之數值進行比較。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comparing two versions of a document to quickly identify changes and revisions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121413Z" creationid="CCYU" creationdate="20150524T121413Z">
+        <seg>比較文件的兩種版本以快速找出變更和修訂</seg>
       </tuv>
     </tu>
     <tu>
@@ -3578,6 +3610,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T140056Z">
         <seg>快速由路達轉換為電漿切削器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converting static PDF into editable Office files that users can begin working with right away</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121446Z" creationid="CCYU" creationdate="20150524T121446Z">
+        <seg>轉換 PDF 為可編輯之 Office 檔案，使用者可立刻開始工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converting static PDFs to fillable (savable) forms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121350Z" creationid="CCYU" creationdate="20150524T121347Z">
+        <seg>轉換 PDF 文件為可填入（可儲存）表單</seg>
       </tuv>
     </tu>
     <tu>
@@ -4955,6 +5003,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060252Z">
         <seg>此篩選器在 6.6 版中已重新設計並最佳化，當物件遺落在設定的區域內時，便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, Power PDF supports simple yet powerful document review workflows with the ability to add comments, stamps, redactions, and highlights with as few clicks as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121239Z" creationid="CCYU" creationdate="20150524T121239Z">
+        <seg>最後，Power PDF 支援簡單但功能強大的校閱工作流程，能夠加入註解、圖章、加密和標示劃記。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8331,6 +8387,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuance has been in the business of creating PDF solutions for over 10 years, and we truly understand the needs of demanding business users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121250Z" creationid="CCYU" creationdate="20150524T121247Z">
+        <seg>Nuance 已從事 PDF 解決方案事業超過 10 年以上，因次我們真正了解嚴格的企業用戶需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of Spindles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092917Z">
@@ -9653,6 +9717,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power PDF was designed from the ground up to support the most important workflows professionals require with the greatest of ease.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121300Z" creationid="CCYU" creationdate="20150524T121257Z">
+        <seg>Power PDF 從頭設計出最便於使用、支援專業需求的最重要工作流程&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135626Z">
@@ -9945,6 +10017,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033609Z">
         <seg>急速冷凍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quickly and easily create PDFs from inside Microsoft Office with Power PDF tool bars</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121340Z" creationid="CCYU" creationdate="20150524T121340Z">
+        <seg>快速且簡便的從 Microsoft Office 中的 Power PDF 工具列建立 PDF 檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -12654,6 +12734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ability to assemble documents with ease using our document assembly panels and a pages view</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121404Z" creationid="CCYU" creationdate="20150524T121404Z">
+        <seg>使用我們的文件組合面板和頁面檢視以簡單的組合文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The accuracy of this is very good with correct camera placement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140758Z">
@@ -13815,6 +13903,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These demonstrate how easy it is to complete workflows related to PDF creation/conversion, document assembly and security, and even collaboration using Nuance’s world famous speech-recognition technology with Dragon Notes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121315Z" creationid="CCYU" creationdate="20150524T121315Z">
+        <seg>這些影片展示出完成 PDF 建立/轉檔、文件組合和加密的相關工作流程是如此的簡單，甚至可以使用 Nuance 世界知名的語音辨識技術。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These grouped pixels are the tracked objects that you see in the web page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104509Z">
@@ -14427,6 +14524,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T075725Z">
         <seg>請仔細檢視“安裝前”之說明指示以便能迅速完成機台安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To highlight some of the most common ones we’ve created a short set of videos:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121308Z" creationid="CCYU" creationdate="20150524T121308Z">
+        <seg>我們建立一系列的短片來介紹一些最常見工作流程：
+</seg>
       </tuv>
     </tu>
     <tu>
