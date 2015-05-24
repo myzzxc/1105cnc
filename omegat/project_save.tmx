@@ -4023,6 +4023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enhance document security:  Add passwords with secure 128-bit or 256-bit AES encryption and permission controls to PDF files to control document viewing, printing and modifications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T053250Z" creationid="CCYU" creationdate="20150524T053250Z">
+        <seg>強化檔案安全性：使用 128 位元或 256 位元 AES 密碼加密和 PDF 檔案權限控制以管制文件檢視、列印和修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enhanced capabilities to create and validate compliance with Section 508 information accessibility standards.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030509Z" creationid="CCYU" creationdate="20150524T030509Z">
@@ -13483,6 +13491,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134419Z">
         <seg>利用乙太網路程式館來編寫網路擴充模組連接到網路之設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the advanced redaction capabilities and automatically inspect documents and remove sensitive data for safe, secure document sharing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T053435Z" creationid="CCYU" creationdate="20150524T053435Z">
+        <seg>使用先進的加密功能並自動檢查文件和刪除敏感資料，以安全地進行檔案共用。</seg>
       </tuv>
     </tu>
     <tu>
