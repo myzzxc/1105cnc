@@ -8229,8 +8229,8 @@
       <tuv lang="EN-US">
         <seg>Nuance Power PDF Advanced: PDF Uncompromised and Unlimited.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055802Z" creationid="CCYU" creationdate="20150524T015235Z">
-        <seg>Nuance Power PDF 進階版：不折不扣且無限制的 PDF 軟體</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093256Z" creationid="CCYU" creationdate="20150524T015235Z">
+        <seg>Nuance Power PDF 進階版：無須妥協且無限制的 PDF 軟體</seg>
       </tuv>
     </tu>
     <tu>
@@ -8261,8 +8261,8 @@
       <tuv lang="EN-US">
         <seg>Nuance Power PDF: PDF Uncompromised.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055743Z" creationid="CCYU" creationdate="20150524T015210Z">
-        <seg>Nuance Power PDF：不折不扣的 PDF 軟體</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093251Z" creationid="CCYU" creationdate="20150524T015210Z">
+        <seg>Nuance Power PDF：無須妥協的 PDF 軟體</seg>
       </tuv>
     </tu>
     <tu>
@@ -8741,8 +8741,8 @@
       <tuv lang="EN-US">
         <seg>PDF Uncompromised</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055812Z" creationid="CCYU" creationdate="20150524T055812Z">
-        <seg>不折不扣的 PDF 軟體</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093305Z" creationid="CCYU" creationdate="20150524T055812Z">
+        <seg>無須妥協的 PDF 軟體</seg>
       </tuv>
     </tu>
     <tu>
@@ -11751,8 +11751,8 @@
       <tuv lang="EN-US">
         <seg>Tag Line:  PDF Uncompromised</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055736Z" creationid="CCYU" creationdate="20150523T082716Z">
-        <seg>宣傳標語：不折不扣的 PDF 軟體</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093246Z" creationid="CCYU" creationdate="20150523T082716Z">
+        <seg>宣傳標語：無須妥協的 PDF 軟體</seg>
       </tuv>
     </tu>
     <tu>
@@ -12945,8 +12945,8 @@
       <tuv lang="EN-US">
         <seg>The features you need (no feature bloat with specialty capabilities for designers and architects) at a price that makes sense – PDF Uncompromised.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055409Z" creationid="CCYU" creationdate="20150524T055409Z">
-        <seg>以合理的價格提供客戶所需的功能（具有供設計師和建築師使用的專業功能，但軟體不因此肥大而拖慢速度）—— 不折不扣的 PDF 軟體。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093301Z" creationid="CCYU" creationdate="20150524T055409Z">
+        <seg>以合理的價格提供客戶所需的功能（無供設計師和建築師使用的專業功能，避免軟體變得肥大而拖慢速度）—— 無須妥協的 PDF 軟體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15268,6 +15268,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134436Z">
         <seg>當使用此程式館時，SS位於針腳4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you combine this with frustrations over Adobe licensing and audits it leaves many feeling frustrated (and locked in with Adobe)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093053Z" creationid="CCYU" creationdate="20150524T093053Z">
+        <seg>再加上當您結合這與挫折在 Adobe 授權和審計它的葉子很多人感覺沮喪 （和鎖定與 Adobe）</seg>
       </tuv>
     </tu>
     <tu>
