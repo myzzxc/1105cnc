@@ -2365,6 +2365,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Available from all ribbons</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133427Z" creationid="CCYU" creationdate="20150524T133127Z">
+        <seg>所有 ribbon 工具列皆可用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available in3, 5 and 10HP models, and operating atmaximum speeds of18,000 (3 HP) and 24,000 rpm (5and 10 HP) with high-speed ceramic angular contact bearings, their excellent design provides years of trouble free use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T135951Z">
@@ -3874,6 +3882,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071813Z" creationid="CCYU" creationdate="20150524T071813Z">
         <seg>自訂安裝部署工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize the experience</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133454Z" creationid="CCYU" creationdate="20150524T133454Z">
+        <seg>自訂體驗</seg>
       </tuv>
     </tu>
     <tu>
@@ -6891,6 +6907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Infinite flexibility</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133142Z" creationid="CCYU" creationdate="20150524T133142Z">
+        <seg>無限制的靈活性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Injection in clear tube</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183046Z">
@@ -8207,6 +8231,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134357Z">
         <seg>運動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move panels reorganize ribbons</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133408Z" creationid="CCYU" creationdate="20150524T133408Z">
+        <seg>移動工具面板重尋組織 ribbon 工具列</seg>
       </tuv>
     </tu>
     <tu>
@@ -11633,6 +11665,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014702Z">
         <seg>外管液壓測試 1-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shortcuts to commonly used buttons</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133234Z" creationid="CCYU" creationdate="20150524T133234Z">
+        <seg>常用按鈕捷徑</seg>
       </tuv>
     </tu>
     <tu>
