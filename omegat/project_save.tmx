@@ -2982,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Combine and assemble documents with ease:  Combine files and remove or replace pages with drag and drop ease.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T040008Z" creationid="CCYU" creationdate="20150524T040008Z">
+        <seg>輕鬆合併和組合文件檔：以簡易的拖拉操作進行檔案合併以及移除或取代頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combined with an HSD quick release spindle, and using aseven ortwenty-one position automatic carousel, the ATC system isthe fastest method ofchanging tools on a regular basis and willdeliver adramatic improvement inthroughput capacity when processing multiple tool operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T125527Z">
@@ -14316,6 +14324,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033832Z" creationid="CCYU" creationdate="20150524T033832Z">
         <seg>從 Microsoft Word、Excel、PowerPoint 中創建 PDF 檔案時也可以加入書籤和超連結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can even select, copy, and convert only the selected areas of text you need from a PDF document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T035829Z" creationid="CCYU" creationdate="20150524T035829Z">
+        <seg>甚至可以選擇 PDF 文件檔中所需文字範圍進行選擇、複製和轉檔。</seg>
       </tuv>
     </tu>
     <tu>
