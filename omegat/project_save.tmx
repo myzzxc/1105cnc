@@ -1652,8 +1652,8 @@
       <tuv lang="EN-US">
         <seg>All of the powerful features financial firms need with an interface users already know.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130113Z" creationid="CCYU" creationdate="20150524T130113Z">
-        <seg>所有金融服務公司所需的強大的功能，以及使用者已經熟悉的操作介面。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130234Z" creationid="CCYU" creationdate="20150524T130113Z">
+        <seg>所有財務金融服務公司所需的強大的功能，以及使用者已經熟悉的操作介面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2089,6 +2089,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T091648Z" creationid="CCYU" creationdate="20150524T091648Z">
         <seg>同時我想提供一個企業對可靠的 PDF 電腦程式的需求的概述，也讓大家知道部分組織機構對於採用 PDF 軟體被迫進行的妥協……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As part of this I want to give you an overview of the need for robust desktop PDF in the financial services industry, and also give you a sense of the compromises financial organizations are forced to make when it comes to PDF software…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130345Z" creationid="CCYU" creationdate="20150524T130345Z">
+        <seg>同時我想提供一個金融產業對可靠的 PDF 電腦程式的需求的概述，也讓大家知道部分組織機構對於採用 PDF 軟體被迫進行的妥協……</seg>
       </tuv>
     </tu>
     <tu>
@@ -7029,8 +7037,8 @@
       <tuv lang="EN-US">
         <seg>Introducing Nuance Power PDF for Financial Services</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130001Z" creationid="CCYU" creationdate="20150524T130001Z">
-        <seg>為金融服務設計的 Nuance Power PDF 簡介</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130254Z" creationid="CCYU" creationdate="20150524T130001Z">
+        <seg>為財務金融服務設計的 Nuance Power PDF 簡介</seg>
       </tuv>
     </tu>
     <tu>
@@ -7579,6 +7587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lets take a closer look at the compromises we see financial services companies are so often forced to make…[NEXT SLIDE]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130443Z" creationid="CCYU" creationdate="20150524T130443Z">
+        <seg>讓我們來仔細看看財務金融服務公司經常被迫作出的妥協……[下一頁]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighter weight, faster performance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071737Z" creationid="CCYU" creationdate="20150524T071737Z">
@@ -8023,6 +8039,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092336Z" creationid="CCYU" creationdate="20150524T092336Z">
         <seg>大多數 PDF 軟體的買家有兩個選擇……，而這兩種選擇都需做出妥協。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most buyers of PDF in financial services companies have two options…and both result in a compromise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130510Z" creationid="CCYU" creationdate="20150524T130510Z">
+        <seg>大多數財務金融服務公司中的 PDF 軟體買家有兩個選擇……，而這兩種選擇都需做出妥協。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9745,6 +9769,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090137Z" creationid="CCYU" creationdate="20150524T090137Z">
         <seg>Power PDF 能輕易地進行企業資料管控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF is easy to deploy in compliance with financial data governance controls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130226Z" creationid="CCYU" creationdate="20150524T130226Z">
+        <seg>Power PDF 能輕易地進行財務金融資料管控。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11992,6 +12024,14 @@
         <seg>Take a test drive of Power PDF.Collaboration and productivity at a price that makes business sense</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090546Z" creationid="CCYU" creationdate="20150524T090546Z">
+        <seg>嘗試 Power PDF。平價提供商用級的協作性和高效率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a test drive of Power PDF.Collaboration and productivity at a price that makes business sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130309Z" creationid="CCYU" creationdate="20150524T130309Z">
         <seg>嘗試 Power PDF。平價提供商用級的協作性和高效率</seg>
       </tuv>
     </tu>
@@ -14907,8 +14947,8 @@
       <tuv lang="EN-US">
         <seg>Until now financial services firms and professionals have been forced to compromise when it comes to PDF software.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130040Z" creationid="CCYU" creationdate="20150524T130040Z">
-        <seg>目前金融服務公司和專業人士被迫妥協於現有的 PDF 軟體。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130243Z" creationid="CCYU" creationdate="20150524T130040Z">
+        <seg>目前財務金融服務公司和專業人士被迫妥協於現有的 PDF 軟體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16014,6 +16054,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T091842Z" creationid="CCYU" creationdate="20150524T091842Z">
         <seg>然而，大多數專業人士覺得電腦中沒有合適的 PDF 工具，能真正的提高工作效率和協作性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yet, most professionals in the financial services industry find don’t have the right PDF tools at the desktop to enable true productivity and collaboration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130417Z" creationid="CCYU" creationdate="20150524T130417Z">
+        <seg>然而，大多數金融產業中的專業人士覺得電腦中沒有合適的 PDF 工具，能真正的提高工作效率和協作性。</seg>
       </tuv>
     </tu>
     <tu>
