@@ -5803,6 +5803,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improved SharePoint and DMS collaboration services to store and share information seamlessly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030033Z" creationid="CCYU" creationdate="20150524T030033Z">
+        <seg>改進 SharePoint 和目錄管理服務以儲存和共用資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improved cloud collaboration services to store and share information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030016Z" creationid="CCYU" creationdate="20150524T030016Z">
+        <seg>改進雲端協作服務以儲存和共用資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a 1920x1080 HD image there are 1920 pixels across and 1080 pixels down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103154Z">
@@ -7111,6 +7127,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T134947Z">
         <seg>新驗收標準僅具有一個「核准」日期，即為評估委員會核准文件之日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New customise installation and deployment options so that system administrators can optionally create a custom installer, with different options for each organisation or department.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T025930Z" creationid="CCYU" creationdate="20150524T025930Z">
+        <seg>自訂安裝和部署選項，使系統管理員能自訂各個機構或部門可安裝的選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8833,6 +8857,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132316Z">
         <seg>由於運輸途中墊片可能“貼緊”，因此可能需要重新上扭矩，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read only mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030043Z" creationid="CCYU" creationdate="20150524T030043Z">
+        <seg>唯讀模式</seg>
       </tuv>
     </tu>
     <tu>
