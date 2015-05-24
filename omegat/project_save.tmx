@@ -2085,6 +2085,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authenticate document owners using self-signing, Microsoft Crypto or third-party digital signatures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T053751Z" creationid="CCYU" creationdate="20150524T053746Z">
+        <seg>使用簽名、Microsoft Crypto 或第三方數位簽章進行身份驗證，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Tracking</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092417Z">
