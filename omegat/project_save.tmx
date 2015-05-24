@@ -9109,8 +9109,8 @@
       <tuv lang="EN-US">
         <seg>Our desire to involve suppliers in this process translates into the requirements set forth in this quality manual.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144029Z" creationid="CCYU" creationdate="20150524T144029Z">
-        <seg>我們對參與此過程之供應商的期望列於此品質手冊的要求中，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144401Z" creationid="CCYU" creationdate="20150524T144029Z">
+        <seg>我們對參與此過程之供應商的期望列於此品質手冊訂定之要求中，</seg>
       </tuv>
     </tu>
     <tu>
@@ -14119,6 +14119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The requirements set forth in this manual are not, in any case, restrictions on the current standards (ISO/TS 16949 EN 9100, etc.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144531Z" creationid="CCYU" creationdate="20150524T144335Z">
+        <seg>本手所列之要求規範於任何情況下皆不限於當前標準規範 (ISO/TS 16949 EN 9100 等……)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reset button on the Shield resets both the W5500 and the Arduino Board.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133432Z">
@@ -15870,6 +15878,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124313Z">
         <seg>因此不建議使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We expect that they use excellence policies to reach the zero issue goal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144245Z" creationid="CCYU" creationdate="20150524T144245Z">
+        <seg>我們希望供應商以卓越的政策來達到零問題的目標。</seg>
       </tuv>
     </tu>
     <tu>
