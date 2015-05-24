@@ -9687,8 +9687,8 @@
       <tuv lang="EN-US">
         <seg>Save/Open documents interacting directly with document management systems:  Users can save PDFs to the most popular document management systems (DMS) now easier than ever by accessing them directly from the Save/Save As menu, from the Portfolio mode or from Internet Explorer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051316Z" creationid="CCYU" creationdate="20150524T051316Z">
-        <seg>直接使用文件管理系統儲存/開啟檔案直接與交互文件管理系統： 使用者可以保存 Pdf 熱門文件管理系統 （DMS） 比現在更容易過通過訪問他們直接從保存/另存為功能表中，從組合模式或從互聯網資源管理器。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051716Z" creationid="CCYU" creationdate="20150524T051316Z">
+        <seg>直接使用文件管理系統儲存/開啟檔案：使用者現在可以更簡便地使用大多數常用的文件管理系統 (DMS) ，由組合模式或從 Internet Explorer 直接由儲存/另存新檔的功能表中進行存取。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10193,6 +10193,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072303Z">
         <seg>簡單氣動切換開關可打開和關閉真空抽氣區域，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simplifying this process saves users time while providing them with faster, easier access to the DMS solutions they are already working with.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051826Z" creationid="CCYU" creationdate="20150524T051826Z">
+        <seg>簡化此程序能節省使用者的時間，同時提供更快、更簡便的存取 DMS 解決方案。</seg>
       </tuv>
     </tu>
     <tu>
