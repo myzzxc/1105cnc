@@ -2389,6 +2389,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Benefit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015421Z" creationid="CCYU" creationdate="20150524T015421Z">
+        <seg>優點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birds are kept within a temperature range that retards bacterial growth, so delivering a product with the necessary shelf life.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030217Z">
@@ -4155,6 +4163,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142531Z">
         <seg>傳真：330 487 0304</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015416Z" creationid="CCYU" creationdate="20150524T015416Z">
+        <seg>功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -6707,6 +6723,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microsoft Office Style Ribbon User Interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015735Z" creationid="CCYU" creationdate="20150524T015735Z">
+        <seg>Microsoft Office 標籤式選單介面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Min Door Width</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081728Z">
@@ -7063,6 +7087,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015238Z" creationid="CCYU" creationdate="20150524T015235Z">
         <seg>Nuance Power PDF 進階版：不折不扣且無限制的 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance Power PDF is the only PDF alternative that’s a real choice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015402Z" creationid="CCYU" creationdate="20150524T015402Z">
+        <seg>Nuance Power PDF 是真正唯一的 PDF 替代方案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9761,6 +9793,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082406Z" creationid="CCYU" creationdate="20150523T082406Z">
         <seg>標準版：Power PDF Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard, Advanced or Both</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015534Z" creationid="CCYU" creationdate="20150524T015534Z">
+        <seg>標準版、進階版或兩套皆包含</seg>
       </tuv>
     </tu>
     <tu>
@@ -12739,6 +12779,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T143301Z">
         <seg>USB 電流過載保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unique (?)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015541Z" creationid="CCYU" creationdate="20150524T015541Z">
+        <seg>獨有 (?)</seg>
       </tuv>
     </tu>
     <tu>
