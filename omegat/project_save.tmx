@@ -647,6 +647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50% faster</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T031632Z" creationid="CCYU" creationdate="20150524T031632Z">
+        <seg>速度提高 50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5010 * (1841mm x 3048mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142317Z">
@@ -4850,6 +4858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get work done faster with easier and more intuitive access to features logically grouped by use context.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T031443Z" creationid="CCYU" creationdate="20150524T031443Z">
+        <seg>更直觀存取清楚分類的內容功能，使工作更快速且更容易地完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Getting test footage for the fire and detection algorithm is difficult as objects have to be set on fire!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155433Z">
@@ -5859,6 +5875,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improved performance provides the fastest startup and file open time compared to earlier Nuance PDF solutions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T031627Z" creationid="CCYU" creationdate="20150524T031627Z">
+        <seg>相較早期 Nuance PDF 解決方案，啟動和開啟檔案更加快速。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improved the number of clicks that it takes to highlight text, manage comments and review a document making the UI more responsive to repetitive tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T031559Z" creationid="CCYU" creationdate="20150524T031537Z">
+        <seg>改進了文字標示、註解管理和文件修訂的步驟，使用者介面更適合進行高重複性的工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a 1920x1080 HD image there are 1920 pixels across and 1080 pixels down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103154Z">
@@ -5999,6 +6031,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024449Z" creationid="CCYU" creationdate="20150524T024449Z">
         <seg>針對一般和影像 PDF 檔案進行索引以加快回應速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increases responsiveness through indexing normal and image PDF files on the desktop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T031642Z" creationid="CCYU" creationdate="20150524T031642Z">
+        <seg>針對一般和影像 PDF 檔案進行索引以加快回應速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indexing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T031635Z" creationid="CCYU" creationdate="20150524T031635Z">
+        <seg>索引</seg>
       </tuv>
     </tu>
     <tu>
