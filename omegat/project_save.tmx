@@ -3142,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connect your documents to the Cloud:  Now you can save and access your stored documents in the Cloud by connecting directly to Box, Google Drive, Windows Live® SkyDrive®, Office 365, Evernote® and Dropbox.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T045546Z" creationid="CCYU" creationdate="20150524T045546Z">
+        <seg>將檔案連接到雲端：現在可以直接連接到 Box、Google 雲端硬碟、Windows Live SkyDrive ®，Office 365，Evernote ® 和 Dropbox 以儲存和存取雲端文件檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting TinkerKit modules can simplify the creation of a project or a prototype.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131027Z">
