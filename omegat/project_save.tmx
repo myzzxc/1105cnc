@@ -2893,6 +2893,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bulk pricing available beginning at 5 licenses</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133928Z" creationid="CCYU" creationdate="20150524T133928Z">
+        <seg>5 組授權以上享有大量購買價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Burlington, ON L7L 5L1 Phone: +1 905 634 4940</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083358Z">
@@ -7875,6 +7883,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loyalty pricing is available for current Nuance customers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T134006Z" creationid="CCYU" creationdate="20150524T134006Z">
+        <seg>現有 Nuance 客戶享有老客戶優惠價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080339Z">
@@ -10369,6 +10385,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150944Z">
         <seg>目的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Q &amp; A Thank you</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T134022Z" creationid="CCYU" creationdate="20150524T134022Z">
+        <seg>問與答 感謝您的聆聽</seg>
       </tuv>
     </tu>
     <tu>
