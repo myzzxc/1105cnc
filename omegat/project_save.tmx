@@ -6579,6 +6579,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this session today I’d like to introduce you to Nuance Power PDF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T091213Z" creationid="CCYU" creationdate="20150524T091213Z">
+        <seg>我將在今天的會議中介紹 Nuance Power PDF 給大家，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this way, they would be removed from the stock and also cannot be read again.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120114Z">
@@ -11929,6 +11937,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193741Z">
         <seg>由ITEA和製造商進行測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T091116Z" creationid="CCYU" creationdate="20150524T091116Z">
+        <seg>感謝您的聆聽</seg>
       </tuv>
     </tu>
     <tu>
