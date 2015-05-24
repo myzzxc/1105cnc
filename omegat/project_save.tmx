@@ -3037,6 +3037,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CORPORATE QUALITY DEPARTMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142523Z" creationid="CCYU" creationdate="20150524T142523Z">
+        <seg>企業品管部門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calgary, AB T2C 5C5 Phone: +1 403 236 4464</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083442Z">
@@ -7923,6 +7931,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MARCH 2014</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142322Z" creationid="CCYU" creationdate="20150524T142322Z">
+        <seg>2014 年三月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MATERIAL HOLD DOWN OPTIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022709Z">
@@ -9379,6 +9395,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page 1 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142542Z" creationid="CCYU" creationdate="20150524T142542Z">
+        <seg>頁碼 1 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page 1 of 11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092523Z">
@@ -10401,6 +10425,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131342Z" creationid="CCYU" creationdate="20150524T131342Z">
         <seg>問與答</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QUALITY MANUAL FOR SUPPLIERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142306Z" creationid="CCYU" creationdate="20150524T142306Z">
+        <seg>供應商品質說明手冊</seg>
       </tuv>
     </tu>
     <tu>
@@ -15558,6 +15590,14 @@
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091909Z">
         <seg>VCA 演算法教學
 目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VERSION NO.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142333Z" creationid="CCYU" creationdate="20150524T142333Z">
+        <seg>版本編號</seg>
       </tuv>
     </tu>
     <tu>
