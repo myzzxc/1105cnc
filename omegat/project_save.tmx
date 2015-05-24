@@ -3927,6 +3927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensures users have access to the latest information to help them be more productive when using Power PDF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024647Z" creationid="CCYU" creationdate="20150524T024647Z">
+        <seg>確保使用者能取得最新的資訊，協助用戶使用 Power PDF 時更有效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensuring good feed withdrawal will help to reduce bacterial contamination at this stage, regardless of whether a short or long feed withdrawal has been followed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043023Z">
