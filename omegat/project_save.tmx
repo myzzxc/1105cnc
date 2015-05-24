@@ -1898,6 +1898,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And finally, the ability to speak comments with Dragon Notes (something no other PDF solution can offer).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121956Z" creationid="CCYU" creationdate="20150524T121956Z">
+        <seg>並能使用 Dragon Notes 語音輸入筆記（其它 PDF 解決方案未能提供的功能）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another time the model can fail is if the model of the objects pixel looks very similar to the background model:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105514Z">
@@ -12762,6 +12770,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121404Z" creationid="CCYU" creationdate="20150524T121404Z">
         <seg>使用我們的文件組合面板和頁面檢視以簡單的組合文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ability to sign or stamp PDFs with ease – using standard, dynamic or custom stamps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121832Z" creationid="CCYU" creationdate="20150524T121832Z">
+        <seg>輕鬆於 PDF 進行簽章或加入圖章 -- 使用標準、動態或自訂圖章</seg>
       </tuv>
     </tu>
     <tu>
