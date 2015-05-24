@@ -3078,6 +3078,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Competitive Positioning Matrix</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054143Z" creationid="CCYU" creationdate="20150524T054143Z">
+        <seg>競爭產品定位表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Competitive Product</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054201Z" creationid="CCYU" creationdate="20150524T054201Z">
+        <seg>競爭產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complex layouts with columns, tables and graphics are faithfully reproduced in Microsoft® Word, Excel®, PowerPoint® and Corel® WordPerfect® documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T035450Z" creationid="CCYU" creationdate="20150524T035450Z">
@@ -7863,6 +7879,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081405Z">
         <seg>配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or flatten everything in a document, including signatures, stamps, mark-ups, annotations, filled form fields and graphics for enhanced document security.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054009Z" creationid="CCYU" creationdate="20150524T054009Z">
+        <seg>或將所有文件中的資訊，包括簽名、浮水印、標記、標注、填寫表單欄位和圖形合併以強化文件的安全性，</seg>
       </tuv>
     </tu>
     <tu>
@@ -12883,6 +12907,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065057Z">
         <seg>除塵風機需使用獨立的三相電源，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This feature is especially useful for limiting document modification during archiving or e-filing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054115Z" creationid="CCYU" creationdate="20150524T054115Z">
+        <seg>此功能對於限制文件修改或電子化歸檔特別實用。</seg>
       </tuv>
     </tu>
     <tu>
