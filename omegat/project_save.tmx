@@ -3230,10 +3230,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom Installation Deployment Kit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020624Z" creationid="CCYU" creationdate="20150524T020624Z">
+        <seg>自訂安裝部署工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customisable Quick Access Toolbar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020122Z" creationid="CCYU" creationdate="20150524T020122Z">
         <seg>自訂快速存取工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customise installation and deployment options so that system administrators can easily control the installable options for each organisation or department.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020722Z" creationid="CCYU" creationdate="20150524T020722Z">
+        <seg>自訂安裝和部署選項，使系統管理員能輕鬆管理每個機構或部門可安裝的選項。</seg>
       </tuv>
     </tu>
     <tu>
