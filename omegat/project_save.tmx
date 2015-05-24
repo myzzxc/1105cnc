@@ -1007,6 +1007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AND with Adobe you’re paying for features that the most users simply don’t need…or want (for publishers, graphic designers, and architects – not financial services professionals)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130612Z" creationid="CCYU" creationdate="20150524T130612Z">
+        <seg>且使用 Adobe 時，您付費購買了大多數使用者不需要……或不想要（供出版商、平面設計師和建築師使用—— 而非金融服務專業）的功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AND with Adobe you’re paying for features that the most users simply don’t need…or want (for publishers, graphic designers, and architects)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092739Z" creationid="CCYU" creationdate="20150524T092739Z">
@@ -8407,6 +8415,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094241Z" creationid="CCYU" creationdate="20150524T094241Z">
         <seg>Nuance Power PDF 為一個平價的解決方案，它能擴充以滿足最大型企業的嚴格要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance Power PDF is an affordable solution that can scale to meet the demands of the largest financial services enterprises.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130633Z" creationid="CCYU" creationdate="20150524T130633Z">
+        <seg>Nuance Power PDF 為一個平價的解決方案，它能擴充以滿足最大型的金融服務企業的嚴格要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16796,6 +16812,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>….To financial records management and archiving</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130723Z" creationid="CCYU" creationdate="20150524T130723Z">
+        <seg>……到財務紀錄管理和存檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>….because it is Easier to Use with a familiar Microsoft Office style interface your employees already know how to use</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T101457Z" creationid="CCYU" creationdate="20150524T101457Z">
@@ -16808,6 +16832,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094757Z" creationid="CCYU" creationdate="20150524T094757Z">
         <seg>…Power PDF 具備了所有企業用戶所需的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…To document encryption, security, and PDF/A creation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130800Z" creationid="CCYU" creationdate="20150524T130800Z">
+        <seg>……到文件加密、安全性和建立 PDF/A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…To forms creation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130659Z" creationid="CCYU" creationdate="20150524T130659Z">
+        <seg>……到建立表單</seg>
       </tuv>
     </tu>
     <tu>
