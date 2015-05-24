@@ -3662,6 +3662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DVD-ROM drive (required if installed from disc)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064737Z" creationid="CCYU" creationdate="20150524T064737Z">
+        <seg>DVD-ROM 光碟機（僅於使用光碟安裝時需要）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Danger of decomposition</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030740Z">
@@ -7295,6 +7303,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T052810Z">
         <seg>微控制器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft .NET Framework 4.0 installed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064655Z" creationid="CCYU" creationdate="20150524T064655Z">
+        <seg>需安裝 Microsoft .NET Framework 4.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -14256,6 +14272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Web access needed for product registration, activation, Dragon Notes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064604Z" creationid="CCYU" creationdate="20150524T064604Z">
+        <seg>需網路連接以進行產品註冊、啟用、Dragon Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weight Kgs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081819Z">
@@ -15064,6 +15088,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and obtaining live updates for the program</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064632Z" creationid="CCYU" creationdate="20150524T064632Z">
+        <seg>和獲得程式即時更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and quieter running.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132919Z">
@@ -15221,6 +15253,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130213Z">
         <seg>偵測到高g力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>installer files and for additional user interface languages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064502Z" creationid="CCYU" creationdate="20150524T064502Z">
+        <seg>安裝暫存檔案以及使用者介面語言使用</seg>
       </tuv>
     </tu>
     <tu>
