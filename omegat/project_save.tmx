@@ -4583,6 +4583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Excellent level of basic and advanced functionalities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090945Z" creationid="CCYU" creationdate="20150524T090945Z">
+        <seg>基本合進階功能都具有絕佳的水準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export Sales Albrighton Business Park Newport Road, Albrighton Wolverhampton, England WV7 3ET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083803Z">
@@ -5454,6 +5462,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090746Z" creationid="CCYU" creationdate="20150524T090746Z">
         <seg>良好的執行速度，舒適且直觀的介面，尤其是對習慣 Microsoft Office 產品的使用者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good possibilities for customization.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090901Z" creationid="CCYU" creationdate="20150524T090901Z">
+        <seg>靈活的自訂選項，</seg>
       </tuv>
     </tu>
     <tu>
@@ -14936,6 +14952,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well located and easily accessible commands.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090826Z" creationid="CCYU" creationdate="20150524T090826Z">
+        <seg>良好的位置配置和易於存取的指令，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What it does is keep a log of what it is seeing so that it knows what is passing through the line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140112Z">
@@ -16133,6 +16157,14 @@
         <seg>– Nuance PDF Customer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070231Z" creationid="CCYU" creationdate="20150524T070231Z">
+        <seg>– Nuance PDF 客戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>— Nuance PDF Customer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090952Z" creationid="CCYU" creationdate="20150524T090952Z">
         <seg>– Nuance PDF 客戶</seg>
       </tuv>
     </tu>
