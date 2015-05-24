@@ -7099,10 +7099,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T025801Z" creationid="CCYU" creationdate="20150524T025801Z">
+        <seg>新增</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New acceptance criteria will only have an "approved" date, which is the date the document was approved by the Evaluation Committee.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T134947Z">
         <seg>新驗收標準僅具有一個「核准」日期，即為評估委員會核准文件之日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New easier to use interface minimise learning curve and maximises productivity by enabling users to effortlessly transition between word processing and PDF publishing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T025750Z" creationid="CCYU" creationdate="20150524T025750Z">
+        <seg>簡化學習門檻並最大化生產力，使用者不費吹灰之力便能由 WORD 文書處理轉換至 PDF 發佈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New or improved</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T025804Z" creationid="CCYU" creationdate="20150524T025700Z">
+        <seg>新增功能或改進功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -13700,6 +13724,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034129Z">
         <seg>去除泡沫很重要，但確實補充水箱中的水也是同樣重要  的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why Power Up to Power PDF (for PDF Converter users)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T025642Z" creationid="CCYU" creationdate="20150524T025642Z">
+        <seg>為何改用 Power PDF （針對 PDF Converter 用戶）</seg>
       </tuv>
     </tu>
     <tu>
