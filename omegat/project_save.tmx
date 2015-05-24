@@ -5931,6 +5931,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increase responsiveness through indexing normal and image PDF files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024449Z" creationid="CCYU" creationdate="20150524T024449Z">
+        <seg>針對一般和影像 PDF 檔案進行索引以加快回應速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Injection in clear tube</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183046Z">
@@ -7459,6 +7467,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Online Help</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024516Z" creationid="CCYU" creationdate="20150524T024516Z">
+        <seg>線上說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open valve to release pressure.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T071326Z">
@@ -8761,6 +8777,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T114938Z">
         <seg> X 軸和 Y 軸之齒條和齒輪傳動系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rapid indexing of PDFs and images  on the desktop</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024345Z" creationid="CCYU" creationdate="20150524T024303Z">
+        <seg>桌面 pdf 和影像檔案快速索引</seg>
       </tuv>
     </tu>
     <tu>
@@ -13948,6 +13972,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022706Z" creationid="CCYU" creationdate="20150524T022706Z">
         <seg>獨有，與 Nitro 和 Foxit 相比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, PDF image files included</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024511Z" creationid="CCYU" creationdate="20150524T024511Z">
+        <seg>獨有，包含 PDF 影像檔案</seg>
       </tuv>
     </tu>
     <tu>
