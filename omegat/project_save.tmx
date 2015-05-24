@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50 % faster startup and file open time compared to earlier Nuance PDF solutions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024003Z" creationid="CCYU" creationdate="20150524T024003Z">
+        <seg>相較早期 Nuance PDF 解決方案，啟動和開啟檔案速度加快 50%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50 words: Collaboration and productivity at a price that makes business sense.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T085536Z" creationid="CCYU" creationdate="20150523T084916Z">
@@ -5779,6 +5787,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improved</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024216Z" creationid="CCYU" creationdate="20150524T024216Z">
+        <seg>改進</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a 1920x1080 HD image there are 1920 pixels across and 1080 pixels down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103154Z">
@@ -8369,6 +8385,14 @@
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053652Z">
         <seg>乙太網路供電
 磁性接頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF Add-ons don’t add start up time to Office applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024157Z" creationid="CCYU" creationdate="20150524T024157Z">
+        <seg>Power PDF 增益集不會增加 Office 程式啟動時間。</seg>
       </tuv>
     </tu>
     <tu>
