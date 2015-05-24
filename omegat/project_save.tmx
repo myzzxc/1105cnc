@@ -9765,6 +9765,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search everything in a document— even the contents of bookmarks and comments—so you’re sure to find what you’re looking for.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T052505Z" creationid="CCYU" creationdate="20150524T052505Z">
+        <seg>搜尋文件中所有內容 —— 包含書籤和註解論的內容 —— 保證能搜尋到所需資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Secondary Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050449Z">
