@@ -1442,6 +1442,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add comments to documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085747Z" creationid="CCYU" creationdate="20150524T085747Z">
+        <seg>加入註解至文件中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding water is important for two reasons: It replaces water that has stuck to feathers- it has been calculated that this can be as much as 60 percent- but it also helps to keep the bacterial concentration in the water down; it should not be allowed to rise above 40 percent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034643Z">
@@ -2065,6 +2073,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T154218Z">
         <seg>具有選配可交換式刀匣可供選擇，刀匣同時適用於標準刀鋒、輪形刀、壓花輪以及 45 度角刀鋒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assemble documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085601Z" creationid="CCYU" creationdate="20150524T085601Z">
+        <seg>組合文件檔</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compare document revisions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085621Z" creationid="CCYU" creationdate="20150524T085621Z">
+        <seg>比較文件修訂版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compare them to what is listed on the general assembly drawings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132350Z">
@@ -3498,6 +3522,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081327Z">
         <seg>持續注水直到水由裝置和外殼開口間流出來 （當輸送端充滿水時能將空氣排出），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert PDF into editable Office files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085641Z" creationid="CCYU" creationdate="20150524T085641Z">
+        <seg>轉換 PDF 為可編輯之 Office 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert static PDFs to fillable forms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085549Z" creationid="CCYU" creationdate="20150524T085549Z">
+        <seg>轉換 PDF 文件為可填入表單</seg>
       </tuv>
     </tu>
     <tu>
@@ -9621,6 +9661,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protect and secure documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085734Z" creationid="CCYU" creationdate="20150524T085734Z">
+        <seg>保護並強化文件安全性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide 8-bit PWM output with the analogWrite() function.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131839Z">
@@ -9857,6 +9905,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015615Z">
         <seg>建議事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redact documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085755Z" creationid="CCYU" creationdate="20150524T085755Z">
+        <seg>文件加密</seg>
       </tuv>
     </tu>
     <tu>
