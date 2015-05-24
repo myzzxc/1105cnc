@@ -6651,6 +6651,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just drag and drop the pages add them into the PDF file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T040236Z" creationid="CCYU" creationdate="20150524T040236Z">
+        <seg>只需拖拉頁面加入至 PDF 檔案中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just plug this module onto your Arduino Board, connect it to your network with an RJ45 cable (not included) and follow a few simple steps to start controlling your world through the internet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T011857Z">
@@ -13319,6 +13327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use batch tools to automate repetitive tasks and improve efficiency throughout the workplace.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T040343Z" creationid="CCYU" creationdate="20150524T040343Z">
+        <seg>使用批次處理工具來自動完成重複性工作，以提高整體工作效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use forscanning hand made or old parts forwhich CAD data is not available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053219Z">
@@ -13556,6 +13572,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T073910Z" creationid="CCYU" creationdate="20150523T073910Z">
         <seg>版本編號：第一版，無特定版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View and select pages from a source document—such as Microsoft Word, Excel, PowerPoint, WordPerfect, JPG, BMP , TIF, or XPS—to insert into a target document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T040239Z" creationid="CCYU" creationdate="20150524T040142Z">
+        <seg>由來源文件 —— 例如 Microsoft Word、Excel、PowerPoint、WordPerfect、JPG、BMP、TIF、或 XPS —— 檢視和選擇頁面，並插入至目的文件檔，</seg>
       </tuv>
     </tu>
     <tu>
