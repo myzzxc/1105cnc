@@ -2437,6 +2437,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch Conversion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070953Z" creationid="CCYU" creationdate="20150524T070953Z">
+        <seg>批次轉檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Handling</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T060151Z" creationid="CCYU" creationdate="20150524T060151Z">
@@ -3070,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cloud Connectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070831Z" creationid="CCYU" creationdate="20150524T070831Z">
+        <seg>雲端連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collect information with forms:  Don’t let the hassle of filling out long forms slow down your business.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050114Z" creationid="CCYU" creationdate="20150524T050114Z">
@@ -3654,6 +3670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DMS Connectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070822Z" creationid="CCYU" creationdate="20150524T070822Z">
+        <seg>DMS 連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DMS/ECM integration with SharePoint, Open Text, Autonomy, etc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T060147Z" creationid="CCYU" creationdate="20150524T060147Z">
@@ -3914,6 +3938,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081507Z">
         <seg>充足的壓縮空氣供機台使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document Assembly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070744Z" creationid="CCYU" creationdate="20150524T070744Z">
+        <seg>文件組合</seg>
       </tuv>
     </tu>
     <tu>
@@ -7347,6 +7379,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metadata Scrubbing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070945Z" creationid="CCYU" creationdate="20150524T070945Z">
+        <seg>清理元資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Micro SD card, with active voltage translators</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053914Z">
@@ -7911,6 +7951,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092917Z">
         <seg>主軸數量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OCR / Searchable PDF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070814Z" creationid="CCYU" creationdate="20150524T070814Z">
+        <seg>字元辨識 (OCR) / 可搜索 PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -13107,6 +13155,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034303Z">
         <seg>雞隻進入脫毛機時應至少維持每隻一公升的水量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There were only two products on the market that provided all the functions we needed—Adobe and Nuance...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070706Z" creationid="CCYU" creationdate="20150524T070706Z">
+        <seg>市場上只有兩個產品能提供我們所需的所有功能 —— Adobe 和 Nuance......</seg>
       </tuv>
     </tu>
     <tu>
