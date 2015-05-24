@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Nuance PDF Customer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131813Z" creationid="CCYU" creationdate="20150524T131813Z">
+        <seg>– Nuance PDF 客戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...the system is not updating when sales are made during the course of a day and it is also not decoding the security tags?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115635Z">
@@ -1646,6 +1654,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071934Z">
         <seg>當需要找尋使用者存放在 NVR 系統中的影像時，都能透過搜尋紀錄的功能來尋找影像分析模組所產生的所有事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the Powerful Features Enterprises Need With an Interface Users Already Know</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131831Z" creationid="CCYU" creationdate="20150524T131831Z">
+        <seg>所有企業所需的強大的功能，以及使用者已經熟悉的操作介面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9317,8 +9333,8 @@
       <tuv lang="EN-US">
         <seg>Pay for features you don’t need</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065602Z" creationid="CCYU" creationdate="20150524T065602Z">
-        <seg>購買不需要得功能</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131508Z" creationid="CCYU" creationdate="20150524T065602Z">
+        <seg>購買不需要的功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -9921,6 +9937,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135626Z">
         <seg>電源需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powerful PDF for an uncompromisingly great price</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131823Z" creationid="CCYU" creationdate="20150524T131823Z">
+        <seg>毫不妥協以優異的價格取得 Powerful PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -11629,10 +11653,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So, one of the benefits is that we can change some of the business processes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131807Z" creationid="CCYU" creationdate="20150524T131739Z">
+        <seg>這樣一來我們便可以改變某些業務流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So, one of the benefits is that we can change some of the business processes.”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070224Z" creationid="CCYU" creationdate="20150524T070224Z">
-        <seg>這樣一來的優點是我們可以改變某些業務流程。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131759Z" creationid="CCYU" creationdate="20150524T070224Z">
+        <seg>這樣一來我們便可以改變某些業務流程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12934,6 +12966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Solution?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131815Z" creationid="CCYU" creationdate="20150524T131815Z">
+        <seg>解決方案？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Tangential Knife adds the robustness needed for heavier knife cutting applications than the vinyl knife can accommodate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143046Z">
@@ -14119,10 +14159,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There were only two products on the market that provided all the functions we needed – Adobe and Nuance...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131849Z" creationid="CCYU" creationdate="20150524T131849Z">
+        <seg>市場上只有兩個產品能提供我們所需的所有功能 —— Adobe 和 Nuance……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There were only two products on the market that provided all the functions we needed—Adobe and Nuance...</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070706Z" creationid="CCYU" creationdate="20150524T070706Z">
-        <seg>市場上只有兩個產品能提供我們所需的所有功能 —— Adobe 和 Nuance......</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131856Z" creationid="CCYU" creationdate="20150524T070706Z">
+        <seg>市場上只有兩個產品能提供我們所需的所有功能 —— Adobe 和 Nuance……</seg>
       </tuv>
     </tu>
     <tu>
@@ -15157,6 +15205,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153359Z">
         <seg>對使用者友善之手持式控制器可方便操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User interface focused on graphics rather than office use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131715Z" creationid="CCYU" creationdate="20150524T131715Z">
+        <seg>使用介面為圖形化而非辦公室使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -16382,6 +16438,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094105Z" creationid="CCYU" creationdate="20150524T094105Z">
         <seg>[下一頁]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[before]…we did not buy enough licenses for everybody...With Nuance we’re able to buy [PDF] for everybody.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131728Z" creationid="CCYU" creationdate="20150524T131728Z">
+        <seg>“[從前]……我們未購買足夠的授權供每個人使用……改用 Nuance 後我們能購買 [PDF] 軟體給每一個人使用。</seg>
       </tuv>
     </tu>
     <tu>
