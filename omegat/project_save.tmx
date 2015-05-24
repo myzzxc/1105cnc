@@ -9107,6 +9107,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our desire to involve suppliers in this process translates into the requirements set forth in this quality manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144029Z" creationid="CCYU" creationdate="20150524T144029Z">
+        <seg>我們對參與此過程之供應商的期望列於此品質手冊的要求中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our suppliers are fully responsible for the quality of their products and services.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144132Z" creationid="CCYU" creationdate="20150524T144132Z">
+        <seg>供應商對其產品和服務的品質必須完全負責，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outside Diameter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T084038Z">
