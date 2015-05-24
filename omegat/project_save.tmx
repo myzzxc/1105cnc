@@ -2973,6 +2973,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COMPLIANCE /GOVERNANCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132856Z" creationid="CCYU" creationdate="20150524T132856Z">
+        <seg>規範標準/管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMPUTER REQUIREMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070334Z">
@@ -4383,6 +4391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EASIER TO USE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132848Z" creationid="CCYU" creationdate="20150524T132848Z">
+        <seg>使用更簡便</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXAMPLE 1: The customer does not want to put Digifort 16 licenses and analytical, so he gets the Base version and a Professional Pack of 8 additional licenses Professional (DGFPR1008V6 DGFPR1108V6 +), moreover it must acquire a license basis Analytical and a pack of 16 permits analytical (DGFAN1000V1 + DGFAN1116V1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T144228Z">
@@ -4851,6 +4867,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062345Z">
         <seg>除塵系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FASTER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132852Z" creationid="CCYU" creationdate="20150524T132852Z">
+        <seg>更快速</seg>
       </tuv>
     </tu>
     <tu>
@@ -7867,6 +7891,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MORE AUTOMATED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132850Z" creationid="CCYU" creationdate="20150524T132850Z">
+        <seg>更加自動化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MULTI SPINDLE 5 TOOL DRILLING HEAD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131554Z">
@@ -9853,6 +9885,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power PDF Advanced is a superset of Power PDF Standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132841Z" creationid="CCYU" creationdate="20150524T132841Z">
+        <seg>Power PDF 進階版為 Power PDF 標準版的強化版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power PDF Advanced: $149.95</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T080951Z" creationid="CCYU" creationdate="20150523T080951Z">
@@ -9977,6 +10017,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123322Z" creationid="CCYU" creationdate="20150524T123216Z">
         <seg>Power PDF 的設計終結了企業在選擇 PDF 軟體時被迫做出的妥協。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF – Advanced vs. Standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132737Z" creationid="CCYU" creationdate="20150524T132737Z">
+        <seg>Power PDF – 進階版 vs. 標準版</seg>
       </tuv>
     </tu>
     <tu>
@@ -10285,6 +10333,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quick access toolbar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132904Z" creationid="CCYU" creationdate="20150524T132904Z">
+        <seg>快速存取工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick access toolbars</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071521Z" creationid="CCYU" creationdate="20150524T071521Z">
@@ -10381,6 +10437,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REVIEW &amp; APPROVAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132902Z" creationid="CCYU" creationdate="20150524T132902Z">
+        <seg>校閱和批准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ROUTING - ENGRAVING - 3D CARVING - PLASMA - PRINT TO CUT - KNIFE CUTTING - MOULD MAKING - PROFILING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T142541Z">
@@ -10433,6 +10497,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030043Z" creationid="CCYU" creationdate="20150524T030043Z">
         <seg>唯讀模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read only mode deployment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132718Z" creationid="CCYU" creationdate="20150524T132718Z">
+        <seg>唯讀模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read out loud, scan, create searchable…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132935Z" creationid="CCYU" creationdate="20150524T132935Z">
+        <seg>朗讀、掃描、建立可搜尋檔……</seg>
       </tuv>
     </tu>
     <tu>
