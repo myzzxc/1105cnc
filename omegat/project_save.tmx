@@ -3197,6 +3197,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Citrix deployment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132305Z" creationid="CCYU" creationdate="20150524T132305Z">
+        <seg>思傑式 (Citrix) 部署</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classification</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T133126Z">
@@ -7051,6 +7059,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installer customization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132447Z" creationid="CCYU" creationdate="20150524T132447Z">
+        <seg>自訂安裝設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installing an AXYZ Router Table is actually quite simple and can be accomplished in just a few hours IF you are ready for it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T082328Z">
@@ -8247,6 +8263,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141148Z">
         <seg>網路：當數據機與無線網路通訊時閃爍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Network deployment options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132434Z" creationid="CCYU" creationdate="20150524T132434Z">
+        <seg>網路部署選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -15470,6 +15494,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084049Z">
         <seg>虛擬感測器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Volume licensing: single license for  multiple seats, no activation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132407Z" creationid="CCYU" creationdate="20150524T132407Z">
+        <seg>大量授權：單一授權碼用於多套系統，無須啟用</seg>
       </tuv>
     </tu>
     <tu>
