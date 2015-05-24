@@ -7301,8 +7301,8 @@
       <tuv lang="EN-US">
         <seg>It provides all the capabilities business users need at significant cost savings over Adobe.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123441Z" creationid="CCYU" creationdate="20150524T123441Z">
-        <seg>它提供所有企業用戶所需功能，相對 Adobe 能節省具大的成本。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123710Z" creationid="CCYU" creationdate="20150524T123441Z">
+        <seg>它提供所有企業用戶所需功能，相對 Adobe 能大幅的節省成本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14520,6 +14520,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will not only boost productivity and accelerate workflows, but also strengthen your security and compliance initiatives.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123859Z" creationid="CCYU" creationdate="20150524T123859Z">
+        <seg>如此依一來不僅能提高生產力並加速工作流程，而且還能強化安全性和符合規範標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This will permit condensate to drain by gravity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T075227Z">
@@ -15614,6 +15622,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T025642Z" creationid="CCYU" creationdate="20150524T025642Z">
         <seg>為何改用 Power PDF （針對 PDF Converter 用戶）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why not discover the power of PDF uncompromised for yourself?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123952Z" creationid="CCYU" creationdate="20150524T123952Z">
+        <seg>為什麼不親自嘗試無須妥協的強大 PDF 軟體呢？</seg>
       </tuv>
     </tu>
     <tu>
