@@ -3160,9 +3160,8 @@
       <tuv lang="EN-US">
         <seg>Commenting, Stamping, Watermarking</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T084423Z" creationid="CCYU" creationdate="20150524T084423Z">
-        <seg>
-Commenting, Stamping, Watermarking</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085036Z" creationid="CCYU" creationdate="20150524T084423Z">
+        <seg>註解、評論、 圖章、 浮水印</seg>
       </tuv>
     </tu>
     <tu>
@@ -8446,8 +8445,8 @@ Commenting, Stamping, Watermarking</seg>
       <tuv lang="EN-US">
         <seg>Or flatten everything in a document, including signatures, stamps, mark-ups, annotations, filled form fields and graphics for enhanced document security.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054009Z" creationid="CCYU" creationdate="20150524T054009Z">
-        <seg>或將所有文件中的資訊，包括簽名、浮水印、標記、標注、填寫表單欄位和圖形合併以強化文件的安全性，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085117Z" creationid="CCYU" creationdate="20150524T054009Z">
+        <seg>或將所有文件中的資訊，包括簽名、圖章、標記、標注、填寫表單欄位和圖形合併以強化文件的安全性，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9392,8 +9391,8 @@ Commenting, Stamping, Watermarking</seg>
       <tuv lang="EN-US">
         <seg>Power PDF puts an end to productivity and compliance compromises too.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T082547Z" creationid="CCYU" creationdate="20150524T082547Z">
-        <seg>Power PDF   puts an end to productivity and compliance compromises too.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T084604Z" creationid="CCYU" creationdate="20150524T082547Z">
+        <seg>Power PDF 終結了對生產力和規範標準的妥協。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10920,8 +10919,8 @@ Commenting, Stamping, Watermarking</seg>
       <tuv lang="EN-US">
         <seg>Show how easy Document Assembly and Stamping is with our panels</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055953Z" creationid="CCYU" creationdate="20150524T055953Z">
-        <seg>以我們的控制面板展示非常簡便的文件組合和浮水印處理</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085106Z" creationid="CCYU" creationdate="20150524T055953Z">
+        <seg>以我們的控制面板展示非常簡便的文件組合和加入圖章功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -11128,8 +11127,8 @@ Commenting, Stamping, Watermarking</seg>
       <tuv lang="EN-US">
         <seg>Stamps</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071137Z" creationid="CCYU" creationdate="20150524T071137Z">
-        <seg>浮水印</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085045Z" creationid="CCYU" creationdate="20150524T071137Z">
+        <seg>圖章</seg>
       </tuv>
     </tu>
     <tu>
