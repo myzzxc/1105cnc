@@ -2101,6 +2101,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automate large scale PDF creation, conversion, OCR, redaction and Bates numbering jobs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022643Z" creationid="CCYU" creationdate="20150524T022643Z">
+        <seg>自動建立大型 PDF 檔案、轉檔、字元辨識 (OCR)、修訂、文件編號任務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automate routine PDF and TIFF creation tasks from a wide range of formats.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022141Z" creationid="CCYU" creationdate="20150524T022141Z">
@@ -3891,6 +3899,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145107Z">
         <seg>雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure files comply with ISO PDF/A standard and conformance levels 1a, 1b, 2a, 2b, 2u, 3a, 3b, and 3u.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022825Z" creationid="CCYU" creationdate="20150524T022825Z">
+        <seg>確保檔案符合 ISO PDF/A 標準和 1a、 1b、 2a、 2b、 2u、 3a、 3b 和 3u 級標章。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7599,6 +7615,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134417Z">
         <seg>PANELBUILDER 2D &amp; 鈑金排版軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF/A Conversion, Checking and Correction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022725Z" creationid="CCYU" creationdate="20150524T022725Z">
+        <seg>PDF/A 轉檔、檢查和校正</seg>
       </tuv>
     </tu>
     <tu>
@@ -13836,6 +13860,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020109Z" creationid="CCYU" creationdate="20150524T020109Z">
         <seg>獨有，與 Adobe Acrobat 相比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes vs. Nitro</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022832Z" creationid="CCYU" creationdate="20150524T022832Z">
+        <seg>獨有，與 Nitro 相比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes vs. Nitro   and Foxit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022706Z" creationid="CCYU" creationdate="20150524T022706Z">
+        <seg>獨有，與 Nitro 和 Foxit 相比</seg>
       </tuv>
     </tu>
     <tu>
