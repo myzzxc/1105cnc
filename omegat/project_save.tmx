@@ -7707,6 +7707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: Performance and speed will be enhanced if your computer’s processor,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064821Z" creationid="CCYU" creationdate="20150524T064821Z">
+        <seg>註：若電腦處理器、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nothing contained herein is to be interpreted as authorization to practice a patented invention without a license.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T013602Z">
@@ -15341,6 +15349,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151738Z">
         <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>memory and available disk space exceed minimum requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064918Z" creationid="CCYU" creationdate="20150524T064918Z">
+        <seg>記憶體和可用硬碟空間高於最低效系統要求將能提昇效能和執行速度</seg>
       </tuv>
     </tu>
     <tu>
