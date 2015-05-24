@@ -2509,6 +2509,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Best Value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063716Z" creationid="CCYU" creationdate="20150524T063716Z">
+        <seg>最高的價值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Best in class (and batch) search, mark, redaction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063559Z" creationid="CCYU" creationdate="20150524T063559Z">
+        <seg>最好的分類（和批次處理）搜尋、標示、加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Better Value</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055437Z" creationid="CCYU" creationdate="20150524T055437Z">
@@ -3078,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coming soon…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063750Z" creationid="CCYU" creationdate="20150524T063745Z">
+        <seg>即將推出……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140654Z">
@@ -3122,6 +3146,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132332Z">
         <seg>相容性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatibility/Collaboration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063533Z" creationid="CCYU" creationdate="20150524T063533Z">
+        <seg>相容性/協作</seg>
       </tuv>
     </tu>
     <tu>
@@ -3648,8 +3680,8 @@
       <tuv lang="EN-US">
         <seg>Deep support of PDF standard (PDF/A, Tagging, Packaging, Portfolios, etc.)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063440Z" creationid="CCYU" creationdate="20150524T063440Z">
-        <seg>高度支援 PDF 標準（PDF/A、標籤 (Tagging)、封包 (Packaging)、組合 (Portfolios)、等等…）</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063757Z" creationid="CCYU" creationdate="20150524T063440Z">
+        <seg>高度支援 PDF 標準（PDF/A、標籤 (Tagging)、封包 (Packaging)、組合 (Portfolios)、等等……）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7027,6 +7059,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Links to More Information:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063819Z" creationid="CCYU" creationdate="20150524T063819Z">
+        <seg>更多的資訊連結：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Live surveillance:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T072503Z">
@@ -7335,6 +7375,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140648Z">
         <seg>型號 #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More complete feature set at the right price</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063738Z" creationid="CCYU" creationdate="20150524T063738Z">
+        <seg>以合適的價格提供更完整的功能組合</seg>
       </tuv>
     </tu>
     <tu>
@@ -7919,6 +7967,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024516Z" creationid="CCYU" creationdate="20150524T024516Z">
         <seg>線上說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open or save to Box, Google Docs, Office 365, DropBox, and several on-premise DMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063707Z" creationid="CCYU" creationdate="20150524T063707Z">
+        <seg>開啟或儲存至 Box、Google 文件、Office 365、Dropbox 和多個內建的文件管理系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -10649,6 +10705,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133725Z">
         <seg>將裝置存放於室內以避免元件受潮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strong partnerships with leading MFP vendors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063529Z" creationid="CCYU" creationdate="20150524T063529Z">
+        <seg>與 MFP 領導供應商維持強而有力的夥伴關係</seg>
       </tuv>
     </tu>
     <tu>
