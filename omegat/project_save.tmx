@@ -10725,6 +10725,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So, one of the benefits is that we can change some of the business processes.”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070224Z" creationid="CCYU" creationdate="20150524T070224Z">
+        <seg>這樣一來的優點是我們可以改變某些業務流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Solution: PDF software that gives business users the features they need to be productive at a price that businesses can justify.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083910Z" creationid="CCYU" creationdate="20150523T083910Z">
@@ -12843,6 +12851,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091927Z">
         <seg>管路大小則取決於選購之配件，如以下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The solution?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070245Z" creationid="CCYU" creationdate="20150524T070245Z">
+        <seg>解決方案？</seg>
       </tuv>
     </tu>
     <tu>
@@ -15586,10 +15602,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>– Nuance PDF Customer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070231Z" creationid="CCYU" creationdate="20150524T070231Z">
+        <seg>– Nuance PDF 客戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Nobody ever lost their job for buying Adobe (or IBM)”</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054708Z" creationid="CCYU" creationdate="20150524T054708Z">
         <seg>“選擇 Adobe (或 IBM) 讓人永遠不會失去工作”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“[before]…we did not buy enough licenses for everybody...With Nuance we’re able to buy [PDF] for everybody.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070054Z" creationid="CCYU" creationdate="20150524T070054Z">
+        <seg>“[從前]……我們未購買足夠的授權供每個人使用……改用 Nuance 後我們能購買 [PDF] 軟體給每一個人使用。</seg>
       </tuv>
     </tu>
     <tu>
