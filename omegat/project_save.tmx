@@ -3246,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create and validate compliance with Section 508 information accessibility standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023220Z" creationid="CCYU" creationdate="20150524T023209Z">
+        <seg>建立和驗證符合 508 條款存取性標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curing time at standard, minimum and maximum temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121837Z">
@@ -9369,6 +9377,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053347Z">
         <seg>輔助配件 - 幫助用戶更有效率地使用 CNC 雕刻機之配件，包括切削液噴嘴、集屑器腳座和更多的配件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 508 Accessibility Compliance Checking and Correction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023214Z" creationid="CCYU" creationdate="20150524T023120Z">
+        <seg>508 條款存取性標準 (Section 508 Accessibility Compliance) 檢查和校正</seg>
       </tuv>
     </tu>
     <tu>
