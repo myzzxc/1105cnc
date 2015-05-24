@@ -3110,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click here to check out the short Power PDF video demo series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090013Z" creationid="CCYU" creationdate="20150524T090013Z">
+        <seg>點擊此處觀看 Power PDF 的介紹系列短片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clock Speed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053451Z">
@@ -9445,6 +9453,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power PDF is easy to deploy in compliance with enterprise data governance controls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090137Z" creationid="CCYU" creationdate="20150524T090137Z">
+        <seg>Power PDF 能輕易地進行企業資料管控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power PDF puts an end to productivity and compliance compromises too.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T084604Z" creationid="CCYU" creationdate="20150524T082547Z">
@@ -11021,6 +11037,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sign or stamp PDFs with ease</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085848Z" creationid="CCYU" creationdate="20150524T085848Z">
+        <seg>輕鬆於 PDF 進行簽章或加入圖章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sign: …………………………………… Print: …………………………………Date: ………………….........................</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093655Z">
@@ -11153,6 +11177,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131820Z">
         <seg>更多資訊請向 AXYZ 技術銷售專員諮詢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speak your notes with Dragon Notes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085901Z" creationid="CCYU" creationdate="20150524T085901Z">
+        <seg>使用 Dragon Notes 語音輸入筆記</seg>
       </tuv>
     </tu>
     <tu>
