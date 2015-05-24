@@ -5370,6 +5370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From Document Assembly and Collaboration…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094545Z" creationid="CCYU" creationdate="20150524T094545Z">
+        <seg>從文件組合和協作開始……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Front</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082934Z">
@@ -9593,6 +9601,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090137Z" creationid="CCYU" creationdate="20150524T090137Z">
         <seg>Power PDF 能輕易地進行企業資料管控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF offers a user-friendly interface, enables enhanced security, AND gives users all the features they need…all at a price that makes business sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094446Z" creationid="CCYU" creationdate="20150524T094446Z">
+        <seg>Power PDF 提供了一個人性化的使用介面、能增強安全性、且提供使用者需要的所有功能……且價格合理。</seg>
       </tuv>
     </tu>
     <tu>
