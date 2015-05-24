@@ -14367,6 +14367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To PDF conversion to editable Office files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094621Z" creationid="CCYU" creationdate="20150524T094621Z">
+        <seg>到轉換 PDF 為可編輯之 Office 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To continue test, plug both tubesheet face openings of a broken tube with rubber stoppers, reinstall domes, and repressure the vessel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070837Z">
@@ -16446,6 +16454,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082613Z">
         <seg>• 適用於任何 CAM 軟體之程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…Power PDF has ALL the features enterprise users need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094757Z" creationid="CCYU" creationdate="20150524T094757Z">
+        <seg>…Power PDF 具備了所有企業用戶所需的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…and PDF/A creation and checking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094734Z" creationid="CCYU" creationdate="20150524T094734Z">
+        <seg>……以及 PDF/A 建立和檢查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…to Document Mgmt and Cloud Storage Connectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094709Z" creationid="CCYU" creationdate="20150524T094709Z">
+        <seg>……到文件管理合雲端儲存連接</seg>
       </tuv>
     </tu>
     <tu>
