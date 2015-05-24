@@ -2421,6 +2421,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch Handling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T060151Z" creationid="CCYU" creationdate="20150524T060151Z">
+        <seg>批次處理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch PDF and TIFF conversion with OCR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T060324Z" creationid="CCYU" creationdate="20150524T060324Z">
+        <seg>使用字元辨識 (OCR) 進行 PDF 和 TIFF 批次轉檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Processing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022145Z" creationid="CCYU" creationdate="20150524T022145Z">
@@ -3554,6 +3570,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T025332Z">
         <seg>經銷商折扣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DMS/ECM integration with SharePoint, Open Text, Autonomy, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T060147Z" creationid="CCYU" creationdate="20150524T060147Z">
+        <seg>使用 SharePoint、Open Text、Autonomy 等服務整合 DMS/ECM</seg>
       </tuv>
     </tu>
     <tu>
@@ -9897,6 +9921,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014536Z">
         <seg>適用範圍 1-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search and redact workflows</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T060220Z" creationid="CCYU" creationdate="20150524T060220Z">
+        <seg>搜索和加密的工作流程</seg>
       </tuv>
     </tu>
     <tu>
