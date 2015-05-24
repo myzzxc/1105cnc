@@ -7059,6 +7059,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuance Power PDF Advanced: PDF Uncompromised and Unlimited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015238Z" creationid="CCYU" creationdate="20150524T015235Z">
+        <seg>Nuance Power PDF 進階版：不折不扣且無限制的 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance Power PDF: PDF Uncompromised.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015210Z" creationid="CCYU" creationdate="20150524T015210Z">
+        <seg>Nuance Power PDF：不折不扣的 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nuance Product Fact Sheet</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T073329Z" creationid="CCYU" creationdate="20150523T073329Z">
@@ -7639,6 +7655,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131810Z">
         <seg>PWM：3、5、6、9、10、11和13。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package Positioning:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015121Z" creationid="CCYU" creationdate="20150524T015121Z">
+        <seg>版本定位：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12719,6 +12743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unique Selling Proposition:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015308Z" creationid="CCYU" creationdate="20150524T015308Z">
+        <seg>獨特賣點：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unist Mister</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053320Z">
@@ -13260,6 +13292,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091023Z">
         <seg>當運作時，墊片可能會使流體略為冷卻，此時可能需要調整彈簧墊片的高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the demands of business demand PDF, demand Nuance Power PDF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015045Z" creationid="CCYU" creationdate="20150524T015045Z">
+        <seg>當業務有 PDF 需求時，選擇 Nuance Power PDF。</seg>
       </tuv>
     </tu>
     <tu>
