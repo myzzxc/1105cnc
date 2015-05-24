@@ -4006,6 +4006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distribute plugins, hotfixes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090334Z" creationid="CCYU" creationdate="20150524T090334Z">
+        <seg>發送外掛程式、修補程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distributed Processing:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063823Z">
@@ -6715,6 +6723,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install custom configurations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090418Z" creationid="CCYU" creationdate="20150524T090418Z">
+        <seg>安裝自訂設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install flange with test fixture on shell nozzle loosely.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081317Z">
@@ -7383,6 +7399,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065717Z" creationid="CCYU" creationdate="20150524T065717Z">
         <seg>受制於價格使授權數量有限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limit the interaction during installation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090230Z" creationid="CCYU" creationdate="20150524T090230Z">
+        <seg>限制安裝過程互動功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -9885,6 +9909,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read Only Mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090421Z" creationid="CCYU" creationdate="20150524T090421Z">
+        <seg>唯讀模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read only mode</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030043Z" creationid="CCYU" creationdate="20150524T030043Z">
@@ -10941,6 +10973,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SharePoint or other connectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090433Z" creationid="CCYU" creationdate="20150524T090433Z">
+        <seg>SharePoint 或其它連結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shear capacity of steel element having a non-uniform cross section*"</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122430Z">
@@ -11213,6 +11253,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specify which/if any selections will be available</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090303Z" creationid="CCYU" creationdate="20150524T090303Z">
+        <seg>指定可用之選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Speed alarm:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062252Z">
@@ -11273,6 +11321,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020027Z" creationid="CCYU" creationdate="20150524T015534Z">
         <seg>標準版、進階版或兩套皆有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standardize settings files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090359Z" creationid="CCYU" creationdate="20150524T090359Z">
+        <seg>標準化設定檔</seg>
       </tuv>
     </tu>
     <tu>
