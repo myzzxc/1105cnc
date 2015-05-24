@@ -2063,8 +2063,8 @@
       <tuv lang="EN-US">
         <seg>Assemble, compare, convert, create, dictate, edit, read, redact, scan, search, secure, sign, print and validate PDF documents and forms with unprecedented ease and speed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T085532Z" creationid="CCYU" creationdate="20150523T085532Z">
-        <seg>以空前的易用性和高速進行合併、比較、轉檔、建立、聽寫、編輯、朗讀、修訂、掃描、搜索、安全、簽章、列印和驗證 PDF 文件和表格。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071616Z" creationid="CCYU" creationdate="20150523T085532Z">
+        <seg>以空前的易用性和高速進行合併、比較、轉檔、建立、聽寫、編輯、朗讀、修訂、掃描、搜尋、安全、簽章、列印和驗證 PDF 文件和表格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2465,6 +2465,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022145Z" creationid="CCYU" creationdate="20150524T022145Z">
         <seg>批次處理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch pattern search / redaction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071604Z" creationid="CCYU" creationdate="20150524T071604Z">
+        <seg>批次模式搜尋索 / 密文</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,6 +3990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Document Encryption &amp; Security</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071322Z" creationid="CCYU" creationdate="20150524T071322Z">
+        <seg>文件加密 &amp; 安全性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don’t retype your documents:  If you must work with PDF documents in other applications, don’t waste valuable time recreating them—convert them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T035257Z" creationid="CCYU" creationdate="20150524T035257Z">
@@ -4275,6 +4291,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081409Z">
         <seg>注水和測試同時提高頂部開口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Embedded Media Objects</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071352Z" creationid="CCYU" creationdate="20150524T071352Z">
+        <seg>嵌入媒體物件</seg>
       </tuv>
     </tu>
     <tu>
@@ -4587,6 +4611,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T092232Z">
         <seg>未以四階段鎖緊可能導管道破裂或交換器其它部份受損。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Familiar Office style interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071515Z" creationid="CCYU" creationdate="20150524T071515Z">
+        <seg>熟悉的 Office 風格介面</seg>
       </tuv>
     </tu>
     <tu>
@@ -8227,6 +8259,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Watched Folder processing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071537Z" creationid="CCYU" creationdate="20150524T071537Z">
+        <seg>開啟監控資料夾處理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open or save to Box, Google Docs, Office 365, DropBox, and several on-premise DMS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063707Z" creationid="CCYU" creationdate="20150524T063707Z">
@@ -8455,6 +8495,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055812Z" creationid="CCYU" creationdate="20150524T055812Z">
         <seg>不折不扣的 PDF 軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF/A &amp; 508 Compliance Checker</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071504Z" creationid="CCYU" creationdate="20150524T071504Z">
+        <seg>PDF/A &amp; 508 規範檢查器</seg>
       </tuv>
     </tu>
     <tu>
@@ -9541,6 +9589,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quick access toolbars</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071521Z" creationid="CCYU" creationdate="20150524T071521Z">
+        <seg>快速存取工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick freeze</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033609Z">
@@ -9697,6 +9753,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015615Z">
         <seg>建議事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redlining</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071343Z" creationid="CCYU" creationdate="20150524T071343Z">
+        <seg>紅線標註</seg>
       </tuv>
     </tu>
     <tu>
@@ -10281,6 +10345,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T042126Z">
         <seg>川燙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scan Inbox</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071450Z" creationid="CCYU" creationdate="20150524T071450Z">
+        <seg>掃描收件匣</seg>
       </tuv>
     </tu>
     <tu>
@@ -10945,6 +11017,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062252Z">
         <seg>超速警報：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spell Checker</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071358Z" creationid="CCYU" creationdate="20150524T071358Z">
+        <seg>拼寫檢查器</seg>
       </tuv>
     </tu>
     <tu>
