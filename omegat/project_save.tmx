@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Confidentiality" Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124116Z" creationid="CCYU" creationdate="20150525T124116Z">
+        <seg>“保密”要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"For definition of high- and low-strength concrete, refer to 4.3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183758Z">
@@ -2017,6 +2025,14 @@
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123704Z">
         <seg>2014年9月核准
 2015年1月15日生效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Archiving Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124206Z" creationid="CCYU" creationdate="20150525T124206Z">
+        <seg>歸檔要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -10881,6 +10897,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133313Z">
         <seg>真空抽氣使用之再生鼓風機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regulation, Security, Intellectual and Industrial Property Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124001Z" creationid="CCYU" creationdate="20150525T124001Z">
+        <seg>法規、安全性、智慧財產和工業財產要求</seg>
       </tuv>
     </tu>
     <tu>
