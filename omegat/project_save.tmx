@@ -3318,6 +3318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Client and Authority Access Information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124343Z" creationid="CCYU" creationdate="20150525T124343Z">
+        <seg>客戶和主管機關取得資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clock Speed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053451Z">
