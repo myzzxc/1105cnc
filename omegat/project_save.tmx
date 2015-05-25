@@ -208,8 +208,16 @@
       <tuv lang="EN-US">
         <seg>(§5 – selecting the supplier)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153425Z" creationid="CCYU" creationdate="20150525T153425Z">
-        <seg>選擇供應商 / 投標</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153435Z" creationid="CCYU" creationdate="20150525T153425Z">
+        <seg>(§5 – 選擇供應商)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(§6 – requirements regarding the product / process design)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153450Z" creationid="CCYU" creationdate="20150525T153450Z">
+        <seg>(§6 – 產品 / 流程設計相關要求)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8243,6 +8251,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153459Z" creationid="CCYU" creationdate="20150525T153443Z">
+        <seg>生產製造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many different tooling configurations available, including multiple spindles as well asHSD 5 and 10.8 HP quick release spindles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115730Z">
@@ -11961,6 +11977,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140310Z">
         <seg>由 Tools &gt; Board 選單中選擇 "Arduino Leonardo ETH menu，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selecting the supplier / bid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153430Z" creationid="CCYU" creationdate="20150525T153430Z">
+        <seg>選擇供應商 / 投標</seg>
       </tuv>
     </tu>
     <tu>
@@ -17745,6 +17769,38 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142035Z">
         <seg>是 / 否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§10 – Improving the product / process</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153545Z" creationid="CCYU" creationdate="20150525T153545Z">
+        <seg>§10 – 產品 / 流程改進</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§7 – Delivering the product for acceptance and as a series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153517Z" creationid="CCYU" creationdate="20150525T153517Z">
+        <seg>§7 – 產品交貨驗收和系列交貨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§8 - Processing non- compliances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153530Z" creationid="CCYU" creationdate="20150525T153530Z">
+        <seg>§8 - 未履約處理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§9 – Assessing performance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153538Z" creationid="CCYU" creationdate="20150525T153538Z">
+        <seg>§9 – 評估績效</seg>
       </tuv>
     </tu>
     <tu>
