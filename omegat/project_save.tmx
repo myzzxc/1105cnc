@@ -10799,8 +10799,8 @@
       <tuv lang="EN-US">
         <seg>QSE System Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T123724Z">
-        <seg>QSE 系統要求</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154149Z" creationid="CCYU" creationdate="20150525T123724Z">
+        <seg>品質管理系統 (QSE) 系統要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -13806,6 +13806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier implements a Quality Management System, certified by a third party audit based on:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154133Z" creationid="CCYU" creationdate="20150525T154133Z">
+        <seg>供應商實現品質管理系統，通過基於協力廠商審核認證：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Tangential Knife adds the robustness needed for heavier knife cutting applications than the vinyl knife can accommodate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143046Z">
@@ -14787,6 +14795,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153400Z" creationid="CCYU" creationdate="20150525T153400Z">
         <seg>本文件的架構中彙整了 HUTCHINSON “產品採購”之品質保證流程的主要階段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supplier must be able to communicate in the language of the HUTCHINSON facility in question or, as a default, English.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154100Z" creationid="CCYU" creationdate="20150525T154100Z">
+        <seg>供應商之問題必須能以 HUTCHINSON 機構所在地之語言或以英語進行溝通。</seg>
       </tuv>
     </tu>
     <tu>
