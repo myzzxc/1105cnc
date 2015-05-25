@@ -3534,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complaint Response Time Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153113Z" creationid="CCYU" creationdate="20150525T153050Z">
+        <seg>申訴回應時間要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complex layouts with columns, tables and graphics are faithfully reproduced in Microsoft® Word, Excel®, PowerPoint® and Corel® WordPerfect® documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T035450Z" creationid="CCYU" creationdate="20150524T035450Z">
@@ -4042,6 +4050,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053215Z">
         <seg>每一I/O針腳之直流電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DELIVERING THE PRODUCT FOR ACCEPTANCE AND AS A SERIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152952Z" creationid="CCYU" creationdate="20150525T152952Z">
+        <seg>產品交貨驗收和系列交貨</seg>
       </tuv>
     </tu>
     <tu>
@@ -4795,6 +4811,38 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043023Z">
         <seg>無論是短期或長期禁食，確保良好的禁食過程將有助於減少此階段的細菌污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipment Guarantee</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152927Z" creationid="CCYU" creationdate="20150525T152927Z">
+        <seg>設備保證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipment Management</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152845Z" creationid="CCYU" creationdate="20150525T152845Z">
+        <seg>設備管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipment Modification and Maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152921Z" creationid="CCYU" creationdate="20150525T152921Z">
+        <seg>設備修改和維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipment Registration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152901Z" creationid="CCYU" creationdate="20150525T152901Z">
+        <seg>設備註冊登記</seg>
       </tuv>
     </tu>
     <tu>
@@ -7907,6 +7955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Liability and Insurance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152914Z" creationid="CCYU" creationdate="20150525T152914Z">
+        <seg>賠償責任和保險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighter weight, faster performance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071737Z" creationid="CCYU" creationdate="20150524T071737Z">
@@ -8343,6 +8399,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140648Z">
         <seg>型號 #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modification Management Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153029Z" creationid="CCYU" creationdate="20150525T153029Z">
+        <seg>變更管理要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -9739,6 +9803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Periodic Re-qualification Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153024Z" creationid="CCYU" creationdate="20150525T153024Z">
+        <seg>定期重審資格要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phone Number: …………………………………………….………………………………</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093318Z">
@@ -10421,6 +10493,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Probative Delivery Requirements (Delivery Pending Acceptance)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153003Z" creationid="CCYU" creationdate="20150525T153003Z">
+        <seg>交貨證明要求（交貨待驗收）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Problem:  PDF is the standard format for business document collaboration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083251Z" creationid="CCYU" creationdate="20150523T083251Z">
@@ -10785,6 +10865,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133550Z">
         <seg>再生鼓風機 8.5HP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REQUIREMENTS IN CASE OF NON-COMPLIANCE FOR SUPPLIES DELIVERED TO HUTCHINSON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153043Z" creationid="CCYU" creationdate="20150525T153043Z">
+        <seg>供應商交付 HUTCHINSON 之貨物未履約之要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -11189,6 +11277,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Requirements involving the Financial Consequences of a Complaint</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153104Z" creationid="CCYU" creationdate="20150525T153104Z">
+        <seg>涉及訴訟之財務影響要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requirements regarding expiries</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T125023Z">
@@ -11201,6 +11297,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T124932Z">
         <seg>報廢要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requirements regarding the supply chain</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153016Z" creationid="CCYU" creationdate="20150525T153016Z">
+        <seg>供應鏈相關要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -11909,6 +12013,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Serial Delivery Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153007Z" creationid="CCYU" creationdate="20150525T153007Z">
+        <seg>系列交貨要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Serial: 0 (RX) and 1 (TX): used to receive (RX) and transmit (TX) TTL serial data using the ATmega32U4 hardware serial capability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T130116Z">
@@ -11929,6 +12041,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T130143Z">
         <seg>系列 ---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Series End of Life Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153036Z" creationid="CCYU" creationdate="20150525T153036Z">
+        <seg>系列期限要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -12457,6 +12577,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130448Z">
         <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplier Process Qualification Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152839Z" creationid="CCYU" creationdate="20150525T152839Z">
+        <seg>供應商流程合格要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -15765,6 +15893,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T082947Z">
         <seg>使用易於密封且只需要低扭矩值之墊片，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use of Equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152851Z" creationid="CCYU" creationdate="20150525T152851Z">
+        <seg>設備使用</seg>
       </tuv>
     </tu>
     <tu>
