@@ -5698,6 +5698,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For products for the automotive industry, international standard ISO/TS 16949</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154458Z" creationid="CCYU" creationdate="20150525T154458Z">
+        <seg>用於汽車工業之產品，國際標準 ISO/TS 16949</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For recharging Pure and to avoid hassle with tiny batteries.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133933Z">
@@ -13808,8 +13816,8 @@
       <tuv lang="EN-US">
         <seg>The Supplier implements a Quality Management System, certified by a third party audit based on:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154133Z" creationid="CCYU" creationdate="20150525T154133Z">
-        <seg>供應商實現品質管理系統，通過基於協力廠商審核認證：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154512Z" creationid="CCYU" creationdate="20150525T154133Z">
+        <seg>供應商執行之品質管理系統，須根據下列第三方機構審核認證：</seg>
       </tuv>
     </tu>
     <tu>
