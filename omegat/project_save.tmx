@@ -5706,6 +5706,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For other business sectors, a supplier who is not certified must be recognized as meeting HUTCHINSON needs (operational and effective system).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T155442Z" creationid="CCYU" creationdate="20150525T155311Z">
+        <seg>其它營業單位，未經過認證的供應商，必須通過 HUTCHINSON 認可已達要求（營運和績效系統），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For overhead and horizontal orientations, test the largest diameter for which recognition is sought.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172557Z">
@@ -15581,6 +15589,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105840Z">
         <seg>但這情況很少發生，因為物體通常是各種不同的值且會移動，所以一般情況下可以判別出物體不是「背景」，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This recognition shall be granted by an audit or other evaluation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T155457Z" creationid="CCYU" creationdate="20150525T155336Z">
+        <seg>此認可過程應經過審核或其它評估。</seg>
       </tuv>
     </tu>
     <tu>
