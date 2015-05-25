@@ -2237,6 +2237,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assignment/Contracting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125633Z" creationid="CCYU" creationdate="20150525T125633Z">
+        <seg>轉讓/承包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 21 °C, it takes an hour; at 10 °C, two hours; at 4 °C, eight hours; and at 0 °C, it is slowed to 20 hours.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031629Z">
