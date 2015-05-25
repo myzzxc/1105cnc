@@ -198,6 +198,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(§4 - prerequisite)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153420Z" creationid="CCYU" creationdate="20150525T153420Z">
+        <seg>(§4 - 先決條件)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(§5 – selecting the supplier)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153425Z" creationid="CCYU" creationdate="20150525T153425Z">
+        <seg>選擇供應商 / 投標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* All models include A2MC controller and Artcam Express</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142138Z">
@@ -4054,6 +4070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DEFINITIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153255Z" creationid="CCYU" creationdate="20150525T153255Z">
+        <seg>定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DELIVERING THE PRODUCT FOR ACCEPTANCE AND AS A SERIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152952Z" creationid="CCYU" creationdate="20150525T152952Z">
@@ -4843,6 +4867,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152901Z" creationid="CCYU" creationdate="20150525T152901Z">
         <seg>設備註冊登記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Escalation Process</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153207Z" creationid="CCYU" creationdate="20150525T153207Z">
+        <seg>升級流程</seg>
       </tuv>
     </tu>
     <tu>
@@ -5926,6 +5958,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124443Z">
         <seg>接地針腳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guarantee Complaint Processing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153220Z" creationid="CCYU" creationdate="20150525T153220Z">
+        <seg>保證申訴流程</seg>
       </tuv>
     </tu>
     <tu>
@@ -8947,6 +8987,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OPERATIONAL EXCELLENCE REQUIREMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153251Z" creationid="CCYU" creationdate="20150525T153251Z">
+        <seg>卓越營運要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OSCILLATING KNIFE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130300Z">
@@ -9655,6 +9703,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105517Z">
         <seg>3/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 4 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153406Z" creationid="CCYU" creationdate="20150525T153406Z">
+        <seg>頁碼 4 / 27</seg>
       </tuv>
     </tu>
     <tu>
@@ -10429,6 +10485,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preselecting the supplier- product couple</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153413Z" creationid="CCYU" creationdate="20150525T153413Z">
+        <seg>預選供應商 - 產品配對</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure Foot - Universal 5Y</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070308Z">
@@ -10837,6 +10901,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REFERENCE DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153305Z" creationid="CCYU" creationdate="20150525T153305Z">
+        <seg>參考文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REGENERATIVE BLOWER 11.5HP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133557Z">
@@ -10873,6 +10945,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153043Z" creationid="CCYU" creationdate="20150525T153043Z">
         <seg>供應商交付 HUTCHINSON 之貨物未履約之要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REQUIREMENTS REGARDING THE EVALUATION OF THE SERIAL PERFORMANCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153226Z" creationid="CCYU" creationdate="20150525T153226Z">
+        <seg>系列績效評估相關要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -11279,8 +11359,8 @@
       <tuv lang="EN-US">
         <seg>Requirements involving the Financial Consequences of a Complaint</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153104Z" creationid="CCYU" creationdate="20150525T153104Z">
-        <seg>涉及訴訟之財務影響要求</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153153Z" creationid="CCYU" creationdate="20150525T153104Z">
+        <seg>申訴涉及之財務影響要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -12577,6 +12657,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130448Z">
         <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplier Audit Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153233Z" creationid="CCYU" creationdate="20150525T153233Z">
+        <seg>供應商審核要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplier Evaluation Criteria Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153241Z" creationid="CCYU" creationdate="20150525T153241Z">
+        <seg>供應商評估標準要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -14663,6 +14759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The structure of this document summarizes the main stages of the HUTCHINSON quality assurance process for "Product Purchases"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153400Z" creationid="CCYU" creationdate="20150525T153400Z">
+        <seg>本文件的架構中彙整了 HUTCHINSON “產品採購”之品質保證流程的主要階段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system can generate alarms on events that are occurring at the time of operation for example: a car circling against the tide, a person who is trespassing on property or even warn about suspicious movement of people.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052017Z">
@@ -15146,8 +15250,9 @@
       <tuv lang="EN-US">
         <seg>This document defines the general requirements in terms of purchases, quality, deadlines and innovation that all HUTCHINSON Suppliers are required to respect and ensure their entire supply chain respects.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152430Z" creationid="CCYU" creationdate="20150509T074649Z">
-        <seg>此本件將定義所有 HUTCHINSON 之供應商必須遵守並確保其完整供應鏈皆遵守的一般要求，其中包括採購、品質、期限和創新。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153324Z" creationid="CCYU" creationdate="20150509T074649Z">
+        <seg>此文件將定義所有 HUTCHINSON 之供應商必須遵守並確保其完整供應鏈皆遵守的一般要求，其中包括採購、品質、期限和創新。
+</seg>
       </tuv>
     </tu>
     <tu>
