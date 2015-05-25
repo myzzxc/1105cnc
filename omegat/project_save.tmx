@@ -4222,6 +4222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design System and Product Definition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125841Z" creationid="CCYU" creationdate="20150525T125841Z">
+        <seg>設計系統和產品定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digifort Analytic modules possess powerful video analysis that used together will allow the monitoring is more efficient and intelligent, helping operators to achieve a higher rate of accidents in the capture and detecting events.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T051637Z">
@@ -9181,8 +9189,8 @@
       <tuv lang="EN-US">
         <seg>Our desire to involve suppliers in this process translates into the requirements set forth in this quality manual.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144401Z" creationid="CCYU" creationdate="20150524T144029Z">
-        <seg>我們對參與此過程之供應商的期望列於此品質手冊訂定之要求中，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125721Z" creationid="CCYU" creationdate="20150524T144029Z">
+        <seg>我們對參與此流程之供應商的期望列於此品質手冊訂定之要求中，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9431,6 +9439,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T120735Z">
         <seg>加工寬度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRODUCT/PROCESS DESIGN REQUIREMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125740Z" creationid="CCYU" creationdate="20150525T125708Z">
+        <seg>產品/流程設計規定</seg>
       </tuv>
     </tu>
     <tu>
@@ -12165,10 +12181,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Special Specification Requirements (Chemical Products)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125956Z" creationid="CCYU" creationdate="20150525T125956Z">
+        <seg>特殊規格規定（化學產品）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183533Z">
         <seg>特殊條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special or Key Characteristics Definition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125859Z" creationid="CCYU" creationdate="20150525T125859Z">
+        <seg>特別或關鍵特性定義</seg>
       </tuv>
     </tu>
     <tu>
@@ -12785,6 +12817,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192835Z">
         <seg>測試編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test and Control Means</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T130007Z" creationid="CCYU" creationdate="20150525T130007Z">
+        <seg>測試和控制方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -15355,8 +15395,8 @@
       <tuv lang="EN-US">
         <seg>To reach our excellent objectives and best meet our clients' needs, the entire supply chain must be involved and we expect our suppliers to actively participate in this process.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T143326Z" creationid="CCYU" creationdate="20150524T143326Z">
-        <seg>為了達到我們卓越的目標並滿足客戶的需求，整個供應鍊必須共同參與，且我們期望供應商能主動參與此過程。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125717Z" creationid="CCYU" creationdate="20150524T143326Z">
+        <seg>為了達到我們卓越的目標並滿足客戶的需求，整個供應鍊必須共同參與，且我們期望供應商能主動參與此流程。</seg>
       </tuv>
     </tu>
     <tu>
