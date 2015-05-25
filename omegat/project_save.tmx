@@ -7091,6 +7091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case of a suspension or revocation of the certificate, HUTCHINSON reserves the right to conduct its own audit (or have an organization of its choice conduct the audit).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T155639Z" creationid="CCYU" creationdate="20150525T155639Z">
+        <seg>當認證暫時吊銷或註銷時，HUTCHINSON  保留自行審核的權利（或選擇進行審核之組織）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the digital world pixels are always a number between 0 and 255.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103312Z">
@@ -9775,6 +9783,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112346Z">
         <seg>4/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 5 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T155647Z" creationid="CCYU" creationdate="20150525T155647Z">
+        <seg>頁碼 5 / 27</seg>
       </tuv>
     </tu>
     <tu>
