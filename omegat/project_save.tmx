@@ -5151,6 +5151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failing this, the Supplier must at least have international ISO 9001 certification for the products for the automotive and aeronautics industries and demonstrate that it has a plan to obtain ISO/TS 16949 or ISO EN 9100 certification respectively within the time-frame agreed upon with HUTCHINSON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T155029Z" creationid="CCYU" creationdate="20150525T155029Z">
+        <seg>若未滿足上述標準，汽車和航空業供應商必須至少符合國際 ISO 9001 認證，並提出一套在時限內獲得 ISO/TS 16949 或 ISO EN 9100 認證之計畫供  HUTCHINSON 審核同意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failure to use four increments could result in broken tubes 0" other damage to the heat exchanger.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T092232Z">
