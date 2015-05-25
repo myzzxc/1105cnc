@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Bid" Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125100Z" creationid="CCYU" creationdate="20150525T125100Z">
+        <seg>“投標”規定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Confidentiality" Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124944Z" creationid="CCYU" creationdate="20150525T124116Z">
@@ -5131,6 +5139,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142531Z">
         <seg>傳真：330 487 0304</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feasibility and Planning Commitment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125247Z" creationid="CCYU" creationdate="20150525T125247Z">
+        <seg>可行性和計畫承諾</seg>
       </tuv>
     </tu>
     <tu>
@@ -10533,6 +10549,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quality and supply chain performance targets</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125146Z" creationid="CCYU" creationdate="20150525T125146Z">
+        <seg>品質和供應鏈績效目標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quaternion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125715Z">
@@ -11053,6 +11077,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Requirements regarding expiries</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125023Z" creationid="CCYU" creationdate="20150525T125023Z">
+        <seg>過期規定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requirements regarding obsolescence</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124932Z" creationid="CCYU" creationdate="20150525T124932Z">
@@ -11249,6 +11281,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T121719Z">
         <seg>第三節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SELECTING THE SUPPLIER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125043Z" creationid="CCYU" creationdate="20150525T125043Z">
+        <seg>供應商選擇</seg>
       </tuv>
     </tu>
     <tu>
