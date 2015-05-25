@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>"Confidentiality" Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124116Z" creationid="CCYU" creationdate="20150525T124116Z">
-        <seg>“保密”要求</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124944Z" creationid="CCYU" creationdate="20150525T124116Z">
+        <seg>“保密”規定</seg>
       </tuv>
     </tu>
     <tu>
@@ -2031,8 +2031,8 @@
       <tuv lang="EN-US">
         <seg>Archiving Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124206Z" creationid="CCYU" creationdate="20150525T124206Z">
-        <seg>歸檔要求</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124941Z" creationid="CCYU" creationdate="20150525T124206Z">
+        <seg>歸檔規定</seg>
       </tuv>
     </tu>
     <tu>
@@ -10511,8 +10511,8 @@
       <tuv lang="EN-US">
         <seg>QSE System Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T123724Z" creationid="CCYU" creationdate="20150525T123724Z">
-        <seg>QSE 系統需求</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124951Z" creationid="CCYU" creationdate="20150525T123724Z">
+        <seg>QSE 系統規定</seg>
       </tuv>
     </tu>
     <tu>
@@ -10911,8 +10911,8 @@
       <tuv lang="EN-US">
         <seg>Regulation, Security, Intellectual and Industrial Property Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124001Z" creationid="CCYU" creationdate="20150525T124001Z">
-        <seg>法規、安全性、智慧財產和工業財產要求</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124946Z" creationid="CCYU" creationdate="20150525T124001Z">
+        <seg>法規、安全性、智慧財產和工業財產規定</seg>
       </tuv>
     </tu>
     <tu>
@@ -11049,6 +11049,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080304Z">
         <seg>需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requirements regarding obsolescence</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124932Z" creationid="CCYU" creationdate="20150525T124932Z">
+        <seg>報廢規定</seg>
       </tuv>
     </tu>
     <tu>
@@ -11553,6 +11561,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015609Z">
         <seg>第五節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security Plan Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124934Z" creationid="CCYU" creationdate="20150525T124849Z">
+        <seg>安全計畫規定</seg>
       </tuv>
     </tu>
     <tu>
@@ -12249,6 +12265,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063529Z" creationid="CCYU" creationdate="20150524T063529Z">
         <seg>與 MFP 領導供應商維持強而有力的夥伴關係</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subcontractors Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124936Z" creationid="CCYU" creationdate="20150525T124843Z">
+        <seg>外包廠商規定</seg>
       </tuv>
     </tu>
     <tu>
