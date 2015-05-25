@@ -5562,6 +5562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For any other product, international standard ISO 9001.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154616Z" creationid="CCYU" creationdate="20150525T154616Z">
+        <seg>其它任何產品，國際標準 ISO 9001。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For applications that need adeeper throat clearance such as mould making orthree dimensional carving, extended</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131559Z">
@@ -5698,10 +5706,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For products for the aeronautics industry, international standard ISO EN 9100</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154546Z" creationid="CCYU" creationdate="20150525T154546Z">
+        <seg>航空工業用產品，國際標準 ISO EN 9100 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For products for the automotive industry, international standard ISO/TS 16949</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154458Z" creationid="CCYU" creationdate="20150525T154458Z">
-        <seg>用於汽車工業之產品，國際標準 ISO/TS 16949</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154555Z" creationid="CCYU" creationdate="20150525T154458Z">
+        <seg>汽車工業用產品，國際標準 ISO/TS 16949</seg>
       </tuv>
     </tu>
     <tu>
@@ -13816,8 +13832,8 @@
       <tuv lang="EN-US">
         <seg>The Supplier implements a Quality Management System, certified by a third party audit based on:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154512Z" creationid="CCYU" creationdate="20150525T154133Z">
-        <seg>供應商執行之品質管理系統，須根據下列第三方機構審核認證：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154523Z" creationid="CCYU" creationdate="20150525T154133Z">
+        <seg>供應商執行之品質管理系統，依據下列第三方機構審核認證：</seg>
       </tuv>
     </tu>
     <tu>
