@@ -3398,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Communication Language</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T123704Z" creationid="CCYU" creationdate="20150525T123704Z">
+        <seg>溝通語言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Companies working with large sheet goods including sign makers, aluminium fabricators, boat builders and plastics fabricators have allbenefitted from the large size and robust design of the AXYZ 8000 Series CNC Router.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T141959Z">
@@ -9299,6 +9307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PREREQUESITES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T123629Z" creationid="CCYU" creationdate="20150525T123629Z">
+        <seg>先決條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRESSURE FOOT - HIGH CAPACITY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132230Z">
@@ -10465,6 +10481,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131342Z" creationid="CCYU" creationdate="20150524T131342Z">
         <seg>問與答</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QSE System Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T123724Z" creationid="CCYU" creationdate="20150525T123724Z">
+        <seg>QSE 系統需求</seg>
       </tuv>
     </tu>
     <tu>
