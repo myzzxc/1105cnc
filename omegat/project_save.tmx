@@ -32,16 +32,16 @@
       <tuv lang="EN-US">
         <seg>"Bid" Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125100Z" creationid="CCYU" creationdate="20150525T125100Z">
-        <seg>“投標”規定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T125100Z">
+        <seg>“投標”要求</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>"Confidentiality" Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124944Z" creationid="CCYU" creationdate="20150525T124116Z">
-        <seg>“保密”規定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T124116Z">
+        <seg>“保密”要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -2039,8 +2039,8 @@
       <tuv lang="EN-US">
         <seg>Archiving Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124941Z" creationid="CCYU" creationdate="20150525T124206Z">
-        <seg>歸檔規定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T124206Z">
+        <seg>歸檔要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -3177,6 +3177,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120121Z">
         <seg>進行盤點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case of the Aeronautic and Industrial Markets</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152736Z" creationid="CCYU" creationdate="20150525T152732Z">
+        <seg>航空和工業市場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case of the Automotive Market</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152634Z" creationid="CCYU" creationdate="20150525T152632Z">
+        <seg>汽車市場</seg>
       </tuv>
     </tu>
     <tu>
@@ -5314,6 +5330,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First Delivery Requirements (First Item, Samples)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152802Z" creationid="CCYU" creationdate="20150525T152802Z">
+        <seg>初次交貨要求（第一項物件、樣品)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, plug in one side of the Ethernet cable into the LAN port of the router, then plug the same cable into your computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092646Z">
@@ -7031,6 +7055,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133142Z" creationid="CCYU" creationdate="20150524T133142Z">
         <seg>無限制的靈活性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial Partial Delivery File Requirements " (components)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152656Z" creationid="CCYU" creationdate="20150525T152656Z">
+        <seg>初始部份交貨檔案要求（元件）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9445,8 +9477,8 @@
       <tuv lang="EN-US">
         <seg>PRODUCT/PROCESS DESIGN REQUIREMENTS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125740Z" creationid="CCYU" creationdate="20150525T125708Z">
-        <seg>產品/流程設計規定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T125708Z">
+        <seg>產品/流程設計要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -9615,6 +9647,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133722Z" creationid="CCYU" creationdate="20150524T133722Z">
         <seg>頁面檢視 + 圖章能瀏覽並加入圖章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partial Delivery Requirements (Chemical Products)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152702Z" creationid="CCYU" creationdate="20150525T152702Z">
+        <seg>部份交貨要求（化學產品）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10389,6 +10429,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Process Qualification Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152725Z" creationid="CCYU" creationdate="20150525T152725Z">
+        <seg>流程合格要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Process lengths configurable in600mm increments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115257Z">
@@ -10453,10 +10501,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product Partial Delivery Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152749Z" creationid="CCYU" creationdate="20150525T152749Z">
+        <seg>產品部份交貨要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product Prototype Part Delivery Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152743Z" creationid="CCYU" creationdate="20150525T152743Z">
+        <seg>產品打樣零件交貨要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product/Process Qualification Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152754Z" creationid="CCYU" creationdate="20150525T152754Z">
+        <seg>產品/流程合格要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Programming</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133444Z">
         <seg>編寫程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Milestones</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152627Z" creationid="CCYU" creationdate="20150525T152627Z">
+        <seg>專案里程碑</seg>
       </tuv>
     </tu>
     <tu>
@@ -10481,6 +10561,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121453Z" creationid="CCYU" creationdate="20150524T121453Z">
         <seg>以權限控制、密碼、加密等保護並強化文件安全性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prototype Part Delivery Requirements (components)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152648Z" creationid="CCYU" creationdate="20150525T152648Z">
+        <seg>打樣零件交貨要求（元件）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10551,8 +10639,8 @@
       <tuv lang="EN-US">
         <seg>QSE System Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124951Z" creationid="CCYU" creationdate="20150525T123724Z">
-        <seg>QSE 系統規定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T123724Z">
+        <seg>QSE 系統要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -10959,8 +11047,8 @@
       <tuv lang="EN-US">
         <seg>Regulation, Security, Intellectual and Industrial Property Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124946Z" creationid="CCYU" creationdate="20150525T124001Z">
-        <seg>法規、安全性、智慧財產和工業財產規定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T124001Z">
+        <seg>法規、安全性、智慧財產和工業財產要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -11103,16 +11191,16 @@
       <tuv lang="EN-US">
         <seg>Requirements regarding expiries</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125023Z" creationid="CCYU" creationdate="20150525T125023Z">
-        <seg>過期規定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T125023Z">
+        <seg>過期要求</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Requirements regarding obsolescence</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124932Z" creationid="CCYU" creationdate="20150525T124932Z">
-        <seg>報廢規定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T124932Z">
+        <seg>報廢要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -11631,8 +11719,8 @@
       <tuv lang="EN-US">
         <seg>Security Plan Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124934Z" creationid="CCYU" creationdate="20150525T124849Z">
-        <seg>安全計畫規定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T124849Z">
+        <seg>安全計畫要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -12183,8 +12271,8 @@
       <tuv lang="EN-US">
         <seg>Special Specification Requirements (Chemical Products)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125956Z" creationid="CCYU" creationdate="20150525T125956Z">
-        <seg>特殊規格規定（化學產品）</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T125956Z">
+        <seg>特殊規格要求（化學產品）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12351,8 +12439,8 @@
       <tuv lang="EN-US">
         <seg>Subcontractors Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124936Z" creationid="CCYU" creationdate="20150525T124843Z">
-        <seg>外包廠商規定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T124843Z">
+        <seg>外包廠商要求</seg>
       </tuv>
     </tu>
     <tu>
