@@ -14120,8 +14120,8 @@
       <tuv lang="EN-US">
         <seg>The Supplier ensures that it is not in any single delivery source situation that could</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185541Z" creationid="Judy" creationdate="20150526T185541Z">
-        <seg>供應商應確保任何單一供貨來源的情況下不會影響</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185647Z" creationid="Judy" creationdate="20150526T185541Z">
+        <seg>供應商應確保任何單一供貨來源的情況下不會對交貨造成影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14170,6 +14170,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T115853Z" creationid="CCYU" creationdate="20150526T115853Z">
         <seg>供應商必須提供所有生產和銷售至 HUTCHINSON 之機構的認證副本給予 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier provides HUTCHINSON with a product security plan for the products delivered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185822Z" creationid="Judy" creationdate="20150526T185822Z">
+        <seg>供應商應提供交付產品的產品安全計畫予以 HUTCHINSON。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15043,6 +15051,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194040Z">
         <seg>參考、可靠性和工作條件所需之最小樣本數大小列於表3.1、3.2、3.3、3.6和3.7中，而此標準中，表3.8所列之所有測試均須由ITEA（第 12 章）使用其設備進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The requirements in this manual must be applied to the entire supply chain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185721Z" creationid="Judy" creationdate="20150526T185721Z">
+        <seg>本手冊中的要求必須施行於整個供應鏈。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18032,6 +18048,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130213Z">
         <seg>偵測到高g力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>impact delivery to HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185650Z" creationid="Judy" creationdate="20150526T185650Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
