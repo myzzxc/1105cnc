@@ -13950,6 +13950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier is responsible for compliance with the requirements set forth in the regulatory texts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173131Z" creationid="Judy" creationdate="20150526T173131Z">
+        <seg>供應商應負責遵守法規之要求，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier must send HUTCHINSON copies of certificates in effect from all agencies involved in the production and sale of supplies to HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T115853Z" creationid="CCYU" creationdate="20150526T115853Z">
