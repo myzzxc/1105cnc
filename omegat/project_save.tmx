@@ -70,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Innovation" Criteria:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193823Z" creationid="Judy" creationdate="20150526T193823Z">
+        <seg>“創新”標準：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Perform tests with deformed reinforcing bars conforming to the mechanical requirements of 9.4.3.2.1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184527Z">
         <seg>‖依9.4.3.2.1之機械強度要求進行強化鋼筋變形測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Quality" Criteria:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193733Z" creationid="Judy" creationdate="20150526T193733Z">
+        <seg>“品質”標準：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14202,6 +14218,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T184818Z" creationid="Judy" creationdate="20150526T184818Z">
         <seg>供應商應根據品質系統管理對其外包廠商或供應商負責，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier must comply with the quality system requirements as described in paragraph 4.2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193813Z" creationid="Judy" creationdate="20150526T193813Z">
+        <seg>供應商必須符合 第 4.2 節所述之品質系統要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier must justify its ability to deliver to the HUTCHINSON sites based on the business sector standards of the HUTCHINSON client.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193721Z" creationid="Judy" creationdate="20150526T193721Z">
+        <seg>供應商必須證明能在符合 HUTCHINSON 的客戶之業務部門標準下，交付貨物至 HUTCHINSON 現場。</seg>
       </tuv>
     </tu>
     <tu>
