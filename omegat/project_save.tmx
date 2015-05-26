@@ -11647,8 +11647,8 @@
       <tuv lang="EN-US">
         <seg>Requirements regarding obsolescence</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T124932Z">
-        <seg>報廢要求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191001Z" creationid="CCYU" creationdate="20150525T124932Z">
+        <seg>停產要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -15211,6 +15211,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154100Z" creationid="CCYU" creationdate="20150525T154100Z">
         <seg>供應商之問題必須能以 HUTCHINSON 機構所在地之語言或以英語進行溝通。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supplier shall always send any notices of obsolescence to HUTCHINSON, irrespective of the source of the information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191102Z" creationid="Judy" creationdate="20150526T190949Z">
+        <seg>無論資訊的來源，供應商應發送所有的停產通知予以 HUTCHINSON，</seg>
       </tuv>
     </tu>
     <tu>
