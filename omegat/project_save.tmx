@@ -14222,6 +14222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier must be able to show its ability to propose innovative solutions in terms of technology, cost reduction and eco-design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193935Z" creationid="Judy" creationdate="20150526T193935Z">
+        <seg>供應商必須能夠證明其有能力提出技術、 降低成本、和節約設計方面的創新解決方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier must comply with the quality system requirements as described in paragraph 4.2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193813Z" creationid="Judy" creationdate="20150526T193813Z">
@@ -14403,6 +14411,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023816Z" creationid="CCYU" creationdate="20150524T023746Z">
         <seg>標注文字會自動複製到註解彈出方塊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bid must clearly indicate the key elements influencing the product cost or be structured based on a breakdown that shows the different components of the product cost.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T194218Z" creationid="Judy" creationdate="20150526T194218Z">
+        <seg>投標書中必須清楚指出影響產品成本的關鍵元素，或條列出產品不同元件之成本。</seg>
       </tuv>
     </tu>
     <tu>
