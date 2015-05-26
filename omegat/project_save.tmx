@@ -10863,16 +10863,16 @@
       <tuv lang="EN-US">
         <seg>QUALITY ASSURANCE PROCESS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T123451Z" creationid="CCYU" creationdate="20150525T123451Z">
-        <seg>品質保證流程</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T114217Z" creationid="CCYU" creationdate="20150525T123451Z">
+        <seg>品質管控流程</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>QUALITY MANUAL FOR SUPPLIERS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142306Z" creationid="CCYU" creationdate="20150524T142306Z">
-        <seg>供應商品質說明手冊</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T114200Z" creationid="CCYU" creationdate="20150524T142306Z">
+        <seg>供應商品質說明手冊assur</seg>
       </tuv>
     </tu>
     <tu>
@@ -14849,8 +14849,8 @@
       <tuv lang="EN-US">
         <seg>The structure of this document summarizes the main stages of the HUTCHINSON quality assurance process for "Product Purchases"</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153400Z" creationid="CCYU" creationdate="20150525T153400Z">
-        <seg>本文件的架構中彙整了 HUTCHINSON “產品採購”之品質保證流程的主要階段。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T114226Z" creationid="CCYU" creationdate="20150525T153400Z">
+        <seg>本文件的架構中彙整了 HUTCHINSON “產品採購”之品質管控流程的主要階段。</seg>
       </tuv>
     </tu>
     <tu>
