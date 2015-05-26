@@ -8827,6 +8827,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No HUTCHINSON technical documents or specifications may replace these official texts in effect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173455Z" creationid="Judy" creationdate="20150526T173455Z">
+        <seg>HUTCHINSON 技術文件或規格不能取代這些正式的條文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nose Rider Collar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082147Z">
@@ -13952,8 +13960,8 @@
       <tuv lang="EN-US">
         <seg>The Supplier is responsible for compliance with the requirements set forth in the regulatory texts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173131Z" creationid="Judy" creationdate="20150526T173131Z">
-        <seg>供應商應負責遵守法規之要求，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173343Z" creationid="Judy" creationdate="20150526T173131Z">
+        <seg>供應商應負責遵守法規條文之要求，</seg>
       </tuv>
     </tu>
     <tu>
