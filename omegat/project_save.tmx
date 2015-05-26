@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Deadline" Criteria:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193432Z" creationid="Judy" creationdate="20150526T193432Z">
+        <seg>“交貨期”標準：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"For definition of high- and low-strength concrete, refer to 4.3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183758Z">
@@ -14202,6 +14210,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T115853Z" creationid="CCYU" creationdate="20150526T115853Z">
         <seg>供應商必須提供所有生產和銷售至 HUTCHINSON 之機構的認證副本給予 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier must show its desire to contribute to price reduction programs in effect in the HUTCHINSON automotive, aeronautics and industrial business sectors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193403Z" creationid="Judy" creationdate="20150526T193403Z">
+        <seg>供應商必須展現出配合 HUTCHINSON 汽車、航空和工業業務部門之降低價格計劃的意願。</seg>
       </tuv>
     </tu>
     <tu>
