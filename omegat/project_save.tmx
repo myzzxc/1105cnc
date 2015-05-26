@@ -6154,6 +6154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HUTCHINSON reserves the right to audit the subcontractor under the Supplier's control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185300Z" creationid="Judy" creationdate="20150526T185300Z">
+        <seg>HUTCHINSON 有權於供應商的管控下審核外包商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HYPERTHERM POWERMAX 85  PLASMA CUTTER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131928Z">
@@ -14106,6 +14114,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183723Z" creationid="Judy" creationdate="20150526T183723Z">
         <seg>供應商應保存交付 HUTCHINSON 之產品的品質記錄至少兩年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier ensures that it is not in any single delivery source situation that could</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185541Z" creationid="Judy" creationdate="20150526T185541Z">
+        <seg>供應商應確保任何單一供貨來源的情況下不會影響</seg>
       </tuv>
     </tu>
     <tu>
