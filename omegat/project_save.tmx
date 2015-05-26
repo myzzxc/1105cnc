@@ -927,6 +927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A product is described as "safe" and/or "regulated" if it has one or more features subject to the national or international regulations or a client safety program.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T122255Z" creationid="CCYU" creationdate="20150526T122255Z">
+        <seg>當產品具有一項個或多項功能符合國家或國際規範或客戶安全計畫，可稱之為“安全“或“符合規範”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A properly configured shield can read the IOREF pin voltage and select the appropriate power source or enable voltage translators on the outputs for working with the 5V or 3.3V.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124835Z">
@@ -2185,6 +2193,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133225Z">
         <seg>一如Arduino的初衷，其平台上所有元件，包含硬體、軟體和說明文件皆為免費開源形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As part of the sustainable purchasing development process, an environmental impact assessment for products (life cycle) must be performed and made available to HUTCHINSON by the Supplier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T122612Z" creationid="CCYU" creationdate="20150526T122612Z">
+        <seg>供應商必須進行產品之環境衝擊評估（生命週期）並提供結果予以 HUTCHINSON 以符合永續採購發展流程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9843,6 +9859,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page 6 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T122646Z" creationid="CCYU" creationdate="20150526T122646Z">
+        <seg>頁碼 6 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page 6 of 11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T125147Z">
@@ -10789,6 +10813,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prohibited or Restricted Substances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T122625Z" creationid="CCYU" creationdate="20150526T122625Z">
+        <seg>禁止或限制物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project Milestones</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152627Z" creationid="CCYU" creationdate="20150525T152627Z">
@@ -10911,8 +10943,8 @@
       <tuv lang="EN-US">
         <seg>QUALITY MANUAL FOR SUPPLIERS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T114200Z" creationid="CCYU" creationdate="20150524T142306Z">
-        <seg>供應商品質說明手冊assur</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T122635Z" creationid="CCYU" creationdate="20150524T142306Z">
+        <seg>供應商品質說明手冊</seg>
       </tuv>
     </tu>
     <tu>
