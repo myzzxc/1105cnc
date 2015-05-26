@@ -14198,6 +14198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier explicitly lists all the production and control operations that it subcontracts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200045Z" creationid="Judy" creationdate="20150526T195943Z">
+        <seg>供應商應明確地列出其外包之所有生產和營運管控清單，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier guarantees that the products delivered to HUTCHINSON, regardless of how they are used by HUTCHINSON, will not violate any industrial or intellectual</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181559Z" creationid="Judy" creationdate="20150526T181559Z">
@@ -15323,6 +15331,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070245Z" creationid="CCYU" creationdate="20150524T070245Z">
         <seg>解決方案？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The special process subcontractors must be subject to the formal acceptance of HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200042Z" creationid="Judy" creationdate="20150526T200042Z">
+        <seg>特殊流程之外包商必須經過 HUTCHINSON 正式同意。</seg>
       </tuv>
     </tu>
     <tu>
