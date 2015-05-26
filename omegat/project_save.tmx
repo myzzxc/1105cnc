@@ -8643,6 +8643,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, HUTCHINSON prohibits any direct interaction between the HUTCHINSON supplier and client.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T184550Z" creationid="Judy" creationdate="20150526T184455Z">
+        <seg>此外，HUTCHINSON 禁止任何供應商和客戶之間的直接聯繫互動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, the Supplier is required to immediately inform HUTCHINSON about the revocation of any certification or any complaint by other clients.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T120351Z" creationid="CCYU" creationdate="20150526T120351Z">
@@ -14050,6 +14058,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T182602Z" creationid="Judy" creationdate="20150526T182558Z">
         <seg>供應商認可產權、專利、模型、專門技術或其它工業或智慧財產權權之的再製和使用權皆屬於 HUTCHINSON，無論其是否受保護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier agrees to allow free access to the facilities to HUTCHINSON representatives accompanied by their client or a representative of the regulatory authorities, for any audits as well as surveillance or control operations for the product ordered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T184505Z" creationid="Judy" creationdate="20150526T184433Z">
+        <seg>供應商同意允許 HUTCHINSON 代表陪同其客戶或主管機關代表自由進入供應商之設施，進行其訂購產品之審查以及監工或管控。</seg>
       </tuv>
     </tu>
     <tu>
