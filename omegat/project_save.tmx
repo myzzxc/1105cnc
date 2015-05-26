@@ -14176,8 +14176,8 @@
       <tuv lang="EN-US">
         <seg>The Supplier provides HUTCHINSON with a product security plan for the products delivered.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185822Z" creationid="Judy" creationdate="20150526T185822Z">
-        <seg>供應商應提供交付產品的產品安全計畫予以 HUTCHINSON。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190300Z" creationid="Judy" creationdate="20150526T185822Z">
+        <seg>供應商應提供交付產品的確保交貨計畫予以 HUTCHINSON。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15103,6 +15103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The security plan shall be regularly updated and take into account the specific risks of each project.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190822Z" creationid="Judy" creationdate="20150526T190822Z">
+        <seg>確保交貨計畫應定期更新，並考慮到每個專案的特定風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sensor features three-dimensional acceleration, yaw rate and magnetic field strength data each in 3 perpendicular axes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125518Z">
@@ -15997,6 +16005,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T142542Z">
         <seg>堅固的 Exacto 型刀鋒設計包含了多種尺寸及強度可供選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This security plan defines, if necessary, the security inventory (value, management method) that the Supplier implements to guarantee the HUTCHINSON supply pursuant to its requirements in all circumstances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190801Z" creationid="Judy" creationdate="20150526T190801Z">
+        <seg>如有必要，此確保交貨計畫定義供應商保證於所有情況下，履行 HUTCHINSON 供貨要求的安全庫存 （價值、管理方法）。</seg>
       </tuv>
     </tu>
     <tu>
