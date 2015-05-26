@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Cost" Criteria:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191738Z" creationid="Judy" creationdate="20150526T191738Z">
+        <seg>“成本”標準：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"For definition of high- and low-strength concrete, refer to 4.3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183758Z">
@@ -2321,6 +2329,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031430Z">
         <seg>38 °C 時，細菌生長需要 15 分鐘；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the time of delivery, the life time must be equal to at least 80% of the maximum life time, unless HUTCHINSON agrees otherwise in writing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191541Z" creationid="Judy" creationdate="20150526T191541Z">
+        <seg>除取得 HUTCHINSON 書面同意之外，交貨時，保存期限必須至少為最長期限的 80% 以上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15115,6 +15131,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190822Z" creationid="Judy" creationdate="20150526T190822Z">
         <seg>確保交貨計畫應定期更新，並考慮到每個專案的特定風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selection of the HUTCHINSON Supplier is done based on the following 4 criteria: "Quality" (Q), "Cost" (C), "Deadline" (D) and "Innovation" (I).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191728Z" creationid="Judy" creationdate="20150526T191728Z">
+        <seg>HUTCHINSON 根據以下 4 個標準選擇供應商：“品質”(Q)、“成本”(C)、“交貨期”(D) 和“創新”(I)。</seg>
       </tuv>
     </tu>
     <tu>
