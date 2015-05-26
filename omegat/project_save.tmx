@@ -9963,6 +9963,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page 10 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200655Z" creationid="Judy" creationdate="20150526T200655Z">
+        <seg>頁碼 10 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page 10 of 11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152440Z">
@@ -15155,6 +15163,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080234Z" creationid="CCYU" creationdate="20150509T080234Z">
         <seg>程序規範適用於集團工廠中屬於產品類別之採購，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product technology to develop comparatively to the experiences with similar production files and technologies</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200647Z" creationid="Judy" creationdate="20150526T200647Z">
+        <seg>該產品技術提供類似的生產檔案和技術之相關開發經驗</seg>
       </tuv>
     </tu>
     <tu>
