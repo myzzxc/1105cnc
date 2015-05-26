@@ -4302,6 +4302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the delivery sites, the archiving duration and conditions may be longer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183823Z" creationid="Judy" creationdate="20150526T183823Z">
+        <seg>隨交貨地點不同，存檔的期間和條件可能更長。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploy to users in read only mode to enforce compliance with segregation of duties and least privilege governance principles required by GAAP, SOX, GLBA, HIPAA, eDiscovery and other internal control best practices and regulatory mandates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021847Z" creationid="CCYU" creationdate="20150524T021847Z">
@@ -14054,6 +14062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier archives at least two years of quality records regarding the products delivered to HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183723Z" creationid="Judy" creationdate="20150526T183723Z">
+        <seg>供應商應保存交付 HUTCHINSON 之產品的品質記錄至少兩年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier guarantees that the products delivered to HUTCHINSON, regardless of how they are used by HUTCHINSON, will not violate any industrial or intellectual</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181559Z" creationid="Judy" creationdate="20150526T181559Z">
@@ -14931,6 +14947,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055902Z">
         <seg>建議電壓範圍為7至12伏特，以下為電源針腳：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The records on initial partial deliveries must be kept for at least 15 years.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183916Z" creationid="Judy" creationdate="20150526T183916Z">
+        <seg>初始部份交貨記錄必須存檔至少 15 年。</seg>
       </tuv>
     </tu>
     <tu>
