@@ -14214,6 +14214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier indicates in its bid the identification and packaging methods for the product(s) that it will deliver, the transportation methods used as well as the supply securing devices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T195737Z" creationid="Judy" creationdate="20150526T195737Z">
+        <seg>供應商於投標書中指明在其將交付之產品的鑑定和包裝方式、以及運送方式和保護設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier is responsible for compliance with the requirements set forth in the regulatory texts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173343Z" creationid="Judy" creationdate="20150526T173131Z">
