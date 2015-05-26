@@ -11647,8 +11647,8 @@
       <tuv lang="EN-US">
         <seg>Requirements regarding obsolescence</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191001Z" creationid="CCYU" creationdate="20150525T124932Z">
-        <seg>停產要求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191200Z" creationid="CCYU" creationdate="20150525T124932Z">
+        <seg>淘汰要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -14583,6 +14583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The expiry dates must be shown on the packaging.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191340Z" creationid="Judy" creationdate="20150526T191340Z">
+        <seg>保存期限必須標示於包裝上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The features you need (no feature bloat with specialty capabilities for designers and architects) at a price that makes sense – PDF Uncompromised.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093301Z" creationid="CCYU" creationdate="20150524T055409Z">
@@ -15217,8 +15225,8 @@
       <tuv lang="EN-US">
         <seg>The supplier shall always send any notices of obsolescence to HUTCHINSON, irrespective of the source of the information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191102Z" creationid="Judy" creationdate="20150526T190949Z">
-        <seg>無論資訊的來源，供應商應發送所有的停產通知予以 HUTCHINSON，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191209Z" creationid="Judy" creationdate="20150526T190949Z">
+        <seg>無論資訊的來源，供應商應發送所有的淘汰通知予以 HUTCHINSON，</seg>
       </tuv>
     </tu>
     <tu>
@@ -15227,6 +15235,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T175152Z" creationid="Judy" creationdate="20150526T175152Z">
         <seg>供應商應提供產品之安全資料表予以 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supplier shall set up a lookout for the market, products and processes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191307Z" creationid="Judy" creationdate="20150526T191307Z">
+        <seg>供應商應針對市場、產品和流程設立警戒。</seg>
       </tuv>
     </tu>
     <tu>
