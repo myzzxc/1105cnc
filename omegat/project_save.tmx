@@ -7163,6 +7163,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In particular, if a client wishes to audit the Supplier, the audit may only take place in the presence of a HUTCHINSON representative.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T184708Z" creationid="Judy" creationdate="20150526T184708Z">
+        <seg>尤其當客戶欲對供應商進行審核時，只能於 HUTCHINSON 代表在場時進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In physical sensor option, the server will be required less and will can process more plates that in Virtual Sensor case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085007Z">
@@ -14106,6 +14114,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173343Z" creationid="Judy" creationdate="20150526T173131Z">
         <seg>供應商應負責遵守法規條文之要求，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier is responsible for developing or assisting the subcontractor to comply with the requirements described in this document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T184932Z" creationid="Judy" creationdate="20150526T184932Z">
+        <seg>供應商應負責建立或協助外包廠商符合本文件中所述之要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier is responsible for its subcontractors and/or suppliers based on the quality system management.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T184818Z" creationid="Judy" creationdate="20150526T184818Z">
+        <seg>供應商應根據品質系統管理對其外包廠商或供應商負責，</seg>
       </tuv>
     </tu>
     <tu>
