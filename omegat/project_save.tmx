@@ -12183,8 +12183,8 @@
       <tuv lang="EN-US">
         <seg>Security Plan Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z" creationid="CCYU" creationdate="20150525T124849Z">
-        <seg>安全計畫要求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190049Z" creationid="CCYU" creationdate="20150525T124849Z">
+        <seg>確保交貨計畫要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -15949,6 +15949,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124035Z">
         <seg>此針腳輸出由電路板上穩壓器供應之5V電壓，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This plan describes the prevention measures taken to ensure delivery based on the anticipated amounts and deadlines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190000Z" creationid="Judy" creationdate="20150526T190000Z">
+        <seg>此計畫說明確保達成交貨數量和期限所採取的措施。</seg>
       </tuv>
     </tu>
     <tu>
