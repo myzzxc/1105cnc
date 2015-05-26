@@ -1770,6 +1770,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All products and materials purchased and used to manufacture the supplies must respect the regulatory restrictions in effect in the country of manufacture and sale (for example: regulatory restrictions related to the environment, power, electromagnetic compatibility, security...)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T174347Z" creationid="Judy" creationdate="20150526T174347Z">
+        <seg>所有購買用於生產製造的產品和材料必須符合生產和銷售國家當地法規限制（例如：關於環境、電源、電磁相容性、安全性⋯⋯等法規限制）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All rights reserved.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082854Z" creationid="CCYU" creationdate="20150523T082854Z">
@@ -3610,6 +3618,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132018Z" creationid="CCYU" creationdate="20150524T132018Z">
         <seg>規範標準檢查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance with Regulations and Safety</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T174003Z" creationid="Judy" creationdate="20150526T174003Z">
+        <seg>符合管理法規和安全性</seg>
       </tuv>
     </tu>
     <tu>
