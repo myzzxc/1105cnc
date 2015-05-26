@@ -10195,6 +10195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Performance objectives shall be defined during the assignment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200239Z" creationid="Judy" creationdate="20150526T200239Z">
+        <seg>績效目標應於委任過程中定義，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Periodic Re-qualification Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153024Z" creationid="CCYU" creationdate="20150525T153024Z">
@@ -14447,6 +14455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bid must be sent within the response time requested by HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200127Z" creationid="Judy" creationdate="20150526T200127Z">
+        <seg>必須於 HUTCHINSON 要求之回應時間投標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The bid must clearly indicate the key elements influencing the product cost or be structured based on a breakdown that shows the different components of the product cost.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T194218Z" creationid="Judy" creationdate="20150526T194218Z">
@@ -15079,6 +15095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The performance that the HUTCHINSON client expects from the finished product</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200347Z" creationid="Judy" creationdate="20150526T200347Z">
+        <seg>HUTCHINSON 的客戶所期望之成品性能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The person responsible for authorizing loading needs to check this and, additionally, ensure that the container complies with sanitary and atmosphere requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051627Z">
@@ -15676,6 +15700,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031447Z">
         <seg>上述材料由傳統路達或刀具加工具極具挑戰性，但擺動刀可輕易處理以上材料，提供乾淨的切邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These objectives include, in particular:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200257Z" creationid="Judy" creationdate="20150526T200257Z">
+        <seg>這些目標特別包括：</seg>
       </tuv>
     </tu>
     <tu>
