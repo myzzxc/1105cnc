@@ -7091,6 +7091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case of even temporary non-respect of one or more regulatory requirements, the Supplier must inform the HUTCHNSON Purchasing and/or Quality Department manager as soon as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173735Z" creationid="Judy" creationdate="20150526T173735Z">
+        <seg>當無法滿足一項或多項管理法規之要求時，即使是暫時性的情況，供應商必須儘快通知 HUTCHNSON 採購和品管部門經理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In many countries, prechiller water is kept at room temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045401Z">
@@ -13970,6 +13978,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T115853Z" creationid="CCYU" creationdate="20150526T115853Z">
         <seg>供應商必須提供所有生產和銷售至 HUTCHINSON 之機構的認證副本給予 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier takes into account the general recommendations about recycling during the design of the product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173925Z" creationid="Judy" creationdate="20150526T173925Z">
+        <seg>供應商於產品設計流程中應考慮關於回收的一般性建議。</seg>
       </tuv>
     </tu>
     <tu>
