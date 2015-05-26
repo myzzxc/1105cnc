@@ -6690,6 +6690,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If necessary, both parties may sign a confidentiality agreement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183537Z" creationid="Judy" creationdate="20150526T183537Z">
+        <seg>如有必要，雙方可能會簽署一份保密協定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If necessary, open valve to release pressure, retighten fixtures, and replace test gaskets.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065143Z">
@@ -16775,6 +16783,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124313Z">
         <seg>因此不建議使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We expect our suppliers to follow the rules in terms of confidentiality.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183520Z" creationid="Judy" creationdate="20150526T183520Z">
+        <seg>我們期望我們的供應商遵守保密規範，</seg>
       </tuv>
     </tu>
     <tu>
