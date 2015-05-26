@@ -2018,6 +2018,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any HUTCHINSON supplier must be ISO 14001 certified or have a plan in place to become certified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T115333Z" creationid="CCYU" creationdate="20150526T115333Z">
+        <seg>所有 HUTCHINSON 之供應商必須經過 ISO 14001 認證或具有認證計畫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any additional time our engineer is required to stay on-site due to incomplete preparations will result in charges.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093156Z">
@@ -9375,6 +9383,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131745Z">
         <seg>其他高度可依需求另行訂做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other standards (typically PRI NADCAP for the aerospace sector) may be required by the HUTCHINSON sites, depending on the markets for which the purchased products are intended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T115235Z" creationid="CCYU" creationdate="20150526T115235Z">
+        <seg>HUTCHINSON 可能要求其它標準 （通常為航太部門之 PRI NADCAP），具體情況取決於採購的產品之目標市場所需。</seg>
       </tuv>
     </tu>
     <tu>
