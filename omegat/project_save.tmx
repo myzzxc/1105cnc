@@ -7139,6 +7139,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to respect the transparency demanded, each HUTCHINSON Group supplier must fill out a "Conflict Minerals Report Template" questionnaire created by the EICC (Electronic Industry Citizenship Coalition) and GeSI (Global e-Sustainability Initiative).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181045Z" creationid="Judy" creationdate="20150526T181045Z">
+        <seg>為了符合透明化的要求，HUTCHINSON 集團的每個供應商必須填寫由 EICC（電子產業公民聯盟） 和 GeSI （全球電子永續性倡議）所建立的 “衝突礦產報告範本” 問卷，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In physical sensor option, the server will be required less and will can process more plates that in Virtual Sensor case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085007Z">
@@ -13822,6 +13830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The HUTCHINSON suppliers will find this questionnaire in the reference documents for the HUTCHSINON purchasing tool at the following address: https://ivalua.hutchinson.fr/</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181347Z" creationid="Judy" creationdate="20150526T181347Z">
+        <seg>HUTCHINSON 供應商可於 HUTCHSINON 採購工具網的參考文件取得這份問卷，網址為：https://ivalua.hutchinson.fr/ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Hypertherm plasma cutting option with AXYZ machine and control excellence provides an unbeatable combination.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T144805Z">
@@ -15781,6 +15797,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T145043Z" creationid="CCYU" creationdate="20150524T145043Z">
         <seg>此品質說明手冊中闡述了我們對於使用此工具的期望目標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This questionnaire shall be revised annually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181120Z" creationid="Judy" creationdate="20150526T181120Z">
+        <seg>這份問卷應每年進行修改一次。</seg>
       </tuv>
     </tu>
     <tu>
