@@ -15063,6 +15063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The documentation must include at least:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T142239Z" creationid="CCYU" creationdate="20150527T142239Z">
+        <seg>文件至少應包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dust extraction system includes an 8.5HP (6.3Kw) blower, a dust collection manifold, and a canister with internal filter for chip collection and applicable hoses.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091239Z">
@@ -19441,6 +19449,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141415Z" creationid="CCYU" creationdate="20150527T141415Z">
         <seg>“打樣零件”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A copy of the manufacturer's declaration of origin for resellers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T142603Z" creationid="CCYU" creationdate="20150527T142603Z">
+        <seg>經銷聲需提供製造商之產地證明副本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A declaration of compliance with the order (NFL0015C or EN10204)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T142609Z" creationid="CCYU" creationdate="20150527T142450Z">
+        <seg>符合命令 (NFL0015C 或 EN10204) 之證明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A materials inspection report, where applicable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T142629Z" creationid="CCYU" creationdate="20150527T142629Z">
+        <seg>材料檢驗報告，於適用情況下</seg>
       </tuv>
     </tu>
     <tu>
