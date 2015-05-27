@@ -16483,8 +16483,8 @@
       <tuv lang="EN-US">
         <seg>This security plan defines, if necessary, the security inventory (value, management method) that the Supplier implements to guarantee the HUTCHINSON supply pursuant to its requirements in all circumstances.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190801Z" creationid="Judy" creationdate="20150526T190801Z">
-        <seg>如有必要，此確保交貨計畫定義供應商保證於所有情況下，履行 HUTCHINSON 供貨要求的安全庫存 （價值、管理方法）。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025827Z" creationid="Judy" creationdate="20150526T190801Z">
+        <seg>如有必要，此確保交貨計畫定義供應商保證於所有情況下，履行 HUTCHINSON 供貨要求的安全庫存 （數值、管理方法）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18363,6 +18363,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a control report and/or several "laboratory reports" including:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025744Z" creationid="Judy" creationdate="20150527T025744Z">
+        <seg>管控報告和下列幾項“實驗室報告”：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>added SDA and SCL pins: beside the AREF pin, two TWI pins have been added.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043147Z">
@@ -18375,6 +18383,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020047Z" creationid="Judy" creationdate="20150527T015936Z">
         <seg>考慮包括生產相關之所有規範和安全要求以及供應貨物的使用；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>an analysis certificate for the raw materials used (or a certificate of compliance for the raw materials with the HUTCHINSON requirements);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025706Z" creationid="Judy" creationdate="20150527T025654Z">
+        <seg>使用之原料的分析證書（或原料符合 HUTCHINSON 要求之認證）；</seg>
       </tuv>
     </tu>
     <tu>
@@ -18574,8 +18590,8 @@
       <tuv lang="EN-US">
         <seg>implements the quality management tools best adapted to the Q (Quality), C (Cost), D (Deadline) and I (Innovation) objectives set by HUTCHINSON (AMDEC value analysis, operation analysis, experience plan, quality plan, control plan, ...);</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015717Z" creationid="Judy" creationdate="20150527T015711Z">
-        <seg>以品質管理工具達成 HUTCHINSON 訂定之最佳 Q（品質）、 C（成本）、 D（交貨期）和 I（創新） 目標（AMDEC 價值分析、營運分析、經驗計畫、 品質計畫、管控計畫⋯⋯等)；</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025850Z" creationid="Judy" creationdate="20150527T015711Z">
+        <seg>以品質管理工具達成 HUTCHINSON 訂定之最佳 Q（品質）、 C（成本）、 D（交貨期）和 I（創新） 目標（AMDEC 數值分析、營運分析、經驗計畫、 品質計畫、管控計畫⋯⋯等)；</seg>
       </tuv>
     </tu>
     <tu>
@@ -18785,6 +18801,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043611Z">
         <seg>IOREF：使擴充模組能調整至適用電路板提供之IO電壓， </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the control means used,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025759Z" creationid="Judy" creationdate="20150527T025759Z">
+        <seg>使用之管控方法，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the value of the measured characteristics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025907Z" creationid="Judy" creationdate="20150527T025821Z">
+        <seg>測量特性之數值。</seg>
       </tuv>
     </tu>
     <tu>
