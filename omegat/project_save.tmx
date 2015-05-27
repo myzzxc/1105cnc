@@ -7331,6 +7331,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the special case of products with "security" or "regulation" characteristics, the zero issue requirement is effective for the characteristics marked with this abbreviation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T023400Z" creationid="Judy" creationdate="20150527T023400Z">
+        <seg>產品具有“安全”或“規範”特性的特殊情況下，具有此縮寫標記之特性必須達到零問題之要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In these instances please use the same clearance as show below for the front of the table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131114T031209Z">
@@ -12703,8 +12711,8 @@
       <tuv lang="EN-US">
         <seg>Should there be 3D files or CAD plan exchanges, the Supplier must have the software allowing these exchanges with the HUTCHINSON site in question.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T021005Z" creationid="Judy" creationdate="20150527T021005Z">
-        <seg>供應商必需備有與 HUTCHINSON 進行3D 檔案或 CAD 檔案交流所需的軟體。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T023424Z" creationid="Judy" creationdate="20150527T021005Z">
+        <seg>供應商必須備有與 HUTCHINSON 進行3D 檔案或 CAD 檔案交流所需的軟體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14366,6 +14374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier must be able to show, at HUTCHINSON or its Client's request, that the special characteristics of the plan are controlled and registered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T023142Z" creationid="Judy" creationdate="20150527T023142Z">
+        <seg>供應商必須能依 HUTCHINSON 或其用戶之要求證明已管控並登記計劃之特殊性質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier must comply with the quality system requirements as described in paragraph 4.2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193813Z" creationid="Judy" creationdate="20150526T193813Z">
@@ -15970,8 +15986,8 @@
       <tuv lang="EN-US">
         <seg>They must be identified and marked with a CS or similar abbreviation in these documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T022916Z" creationid="Judy" creationdate="20150527T022916Z">
-        <seg>特殊性質必需於此類文件中闡明並標示 CS 或類似的縮寫。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T023429Z" creationid="Judy" creationdate="20150527T022916Z">
+        <seg>特殊性質必須於此類文件中闡明並標示 CS 或類似的縮寫。</seg>
       </tuv>
     </tu>
     <tu>
