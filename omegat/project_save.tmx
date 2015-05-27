@@ -19453,6 +19453,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Derogation N°, where applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T142224Z" creationid="CCYU" creationdate="20150527T142224Z">
+        <seg>免責編號， 依適用情況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Order N°</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141530Z" creationid="CCYU" creationdate="20150527T141530Z">
