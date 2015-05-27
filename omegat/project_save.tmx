@@ -15359,6 +15359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The prototype requirements are part of a special order specifying the context (technical files) and the conditions under which they are provided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025204Z" creationid="Judy" creationdate="20150527T025204Z">
+        <seg>打樣零件要求為指明內容（技術檔案）和其提供條件之特殊訂單的一部分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The provisions of this code are not intended to prevent the installation of any materials or to prohibit any design or method of construction not specifically prescribed by this code, provided that any such alternative has been approved.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T132702Z">
