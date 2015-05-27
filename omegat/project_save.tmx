@@ -15968,6 +15968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They must be identified and marked with a CS or similar abbreviation in these documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T022916Z" creationid="Judy" creationdate="20150527T022916Z">
+        <seg>特殊性質必需於此類文件中闡明並標示 CS 或類似的縮寫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They operate at 5 volts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125518Z">
