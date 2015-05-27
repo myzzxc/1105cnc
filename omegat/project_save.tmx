@@ -1031,6 +1031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A specific label;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025545Z" creationid="Judy" creationdate="20150527T025545Z">
+        <seg>特定的標籤；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A wide range of products is available,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045929Z">
@@ -2817,6 +2825,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065122Z">
         <seg>Becker 乾式葉片真空抽氣泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before any delivery, the Supplier must ensure compliance - with the HUTCHINSON technical requirements - of the prototype parts that it will deliver.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025348Z" creationid="Judy" creationdate="20150527T025348Z">
+        <seg>供應商必須在所有交付之前，確保其交付之打樣零件符合 HUTCHINSON 之技術要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13149,6 +13165,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subsequently, each delivery of the prototype parts to HUTCHINSON must be accompanied, at a minimum, by the following documents:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025531Z" creationid="Judy" creationdate="20150527T025531Z">
+        <seg>隨後，每項交付 HUTCHINSON 之打樣零件必須至少附有下列文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suggested List Price:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T074014Z" creationid="CCYU" creationdate="20150523T074014Z">
@@ -15361,8 +15385,8 @@
       <tuv lang="EN-US">
         <seg>The prototype requirements are part of a special order specifying the context (technical files) and the conditions under which they are provided.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025204Z" creationid="Judy" creationdate="20150527T025204Z">
-        <seg>打樣零件要求為指明內容（技術檔案）和其提供條件之特殊訂單的一部分，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025408Z" creationid="Judy" creationdate="20150527T025204Z">
+        <seg>打樣零件要求為指明內容（技術檔案）和其提供條件之特殊訂單的一部分。</seg>
       </tuv>
     </tu>
     <tu>
