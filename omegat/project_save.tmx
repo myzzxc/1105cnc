@@ -14158,6 +14158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Initial Partial Delivery shall have very specific packaging and identification in order to facilitate its acceptance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030149Z" creationid="Judy" creationdate="20150527T030149Z">
+        <seg>初始部分交貨須有專屬的包裝和標識以加速驗收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Leonardo ETH appears as a generic keyboard and mouse, and can be programmed to control these input devices using the Keyboard and Mouse classes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130743Z">
