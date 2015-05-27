@@ -18356,6 +18356,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>implements the quality management tools best adapted to the Q (Quality), C (Cost), D (Deadline) and I (Innovation) objectives set by HUTCHINSON (AMDEC value analysis, operation analysis, experience plan, quality plan, control plan, ...);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015717Z" creationid="Judy" creationdate="20150527T015711Z">
+        <seg>以品質管理工具達成 HUTCHINSON 訂定之最佳 Q（品質）、 C（成本）、 D（交貨期）和 I（創新） 目標（AMDEC 價值分析、營運分析、經驗計畫、 品質計畫、管控計畫⋯⋯等)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>installer files and for additional user interface languages</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064502Z" creationid="CCYU" creationdate="20150524T064502Z">
