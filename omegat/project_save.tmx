@@ -7331,6 +7331,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case of the purchase of a standard chemical product where certain characteristics must be adapted to HUTCHINSON'S needs, special specifications will be signed by the Supplier and the HUTCHINSON CDR (Research Center).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T024242Z" creationid="Judy" creationdate="20150527T024242Z">
+        <seg>購買標準化學產品時，其中某些特性必須符合 HUTCHINSON 之需求，供應商和 HUTCHINSON CDR（研究中心）將簽署特殊規格合約。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the digital world pixels are always a number between 0 and 255.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103312Z">
