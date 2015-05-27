@@ -19435,6 +19435,54 @@
         <seg> 適用轉換為 IP 之類比攝影機和 IP 攝影機（請見規格表）</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"PROTOTYPE PART"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141415Z" creationid="CCYU" creationdate="20150527T141415Z">
+        <seg>“打樣零件”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch or Serial N°, where applicable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141505Z" creationid="CCYU" creationdate="20150527T141505Z">
+        <seg>批號或序號，依適用情況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order N°</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141530Z" creationid="CCYU" creationdate="20150527T141530Z">
+        <seg>訂單編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quantity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141511Z" creationid="CCYU" creationdate="20150527T141511Z">
+        <seg>數量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference, version number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141437Z" creationid="CCYU" creationdate="20150527T141437Z">
+        <seg>參照、版本號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplier's name</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141519Z" creationid="CCYU" creationdate="20150527T141519Z">
+        <seg>供應商名稱</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">M009118370 Pre-Installation Guide 4008 1C-2Z(2106).docx</prop>
