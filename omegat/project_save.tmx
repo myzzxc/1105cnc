@@ -2733,6 +2733,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Based on the nature of the contract and the product, a special project milestone may be implemented.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T024552Z" creationid="Judy" creationdate="20150527T024552Z">
+        <seg>根據合約和產品的性質，可能實行特殊的專案里程碑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Conversion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070953Z" creationid="CCYU" creationdate="20150524T070953Z">
@@ -9707,6 +9715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, HUTCHINSON must provide its authorization.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T024457Z" creationid="Judy" creationdate="20150527T024457Z">
+        <seg>否則必須經過 HUTCHINSON 授權。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our Elte line of collet and covernut spindles is precision balanced forfast, clean cutting and ultra-quiet operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T135526Z">
@@ -10079,6 +10095,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155702Z">
         <seg>11/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 12 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T024559Z" creationid="Judy" creationdate="20150527T024559Z">
+        <seg>頁碼 12 / 27</seg>
       </tuv>
     </tu>
     <tu>
@@ -15635,6 +15659,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143032Z">
         <seg>裁刀為堅固耐用的切削刀具，用於傳統拖刀無法處理之較厚重以及較硬的材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test and control facilities (internal and external) must be appropriate and ISO/CEI 17025 accredited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T024416Z" creationid="Judy" creationdate="20150527T024416Z">
+        <seg>必須有合適的（內部和外部）測試和管控設施並經過 ISO/CEI 17025 認證，</seg>
       </tuv>
     </tu>
     <tu>
