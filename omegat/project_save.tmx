@@ -5634,6 +5634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First Delivery Requirements (First Item, Samples):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143137Z" creationid="CCYU" creationdate="20150527T143137Z">
+        <seg>初次交貨要求（第一項物件、樣品)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, plug in one side of the Ethernet cable into the LAN port of the router, then plug the same cable into your computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092646Z">
@@ -8461,8 +8469,8 @@
       <tuv lang="EN-US">
         <seg>Likewise, a Product/Process audit can be organized following the HUTCHINSON guidelines.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T134929Z" creationid="CCYU" creationdate="20150527T134912Z">
-        <seg>同樣地，產品/流程審核可依照以下 HUTCHINSON 指導原則進行。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143812Z" creationid="CCYU" creationdate="20150527T134912Z">
+        <seg>同樣地，產品/加工審核可依照以下 HUTCHINSON 指導原則進行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10231,6 +10239,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T140922Z" creationid="CCYU" creationdate="20150527T140922Z">
         <seg>頁碼 14 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 15 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143033Z" creationid="CCYU" creationdate="20150527T143033Z">
+        <seg>頁碼 15 / 27</seg>
       </tuv>
     </tu>
     <tu>
@@ -14582,6 +14598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier may organize, at HUTCHINSON'S request, a product manufacture audit under the serial production conditions to allow HUTCHINSON:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143644Z" creationid="CCYU" creationdate="20150527T143644Z">
+        <seg>供應商可依 HUTCHINSON 之要求進行序列生產之產品的生產審核作業，使 HUTCHINSON 能夠：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier may therefore organize, at HUTCHINSON'S request, operations called "Full Frequency Evaluations" for the manufacture of the product under the serial production conditions to allow HUTCHINSON:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T134918Z" creationid="CCYU" creationdate="20150527T134334Z">
@@ -15625,8 +15649,16 @@
       <tuv lang="EN-US">
         <seg>The qualification process may be carried out using 2 tools in particular: a Full Frequency Evaluation (EPC) and a Product/Process audit.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T133952Z" creationid="CCYU" creationdate="20150527T133744Z">
-        <seg>合格鑑定流程可使用 2 種特定工具進行：全頻評估 （EPC） 和產品/流程審核。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143817Z" creationid="CCYU" creationdate="20150527T133744Z">
+        <seg>合格鑑定流程可使用 2 種特定工具進行：全頻評估 （EPC） 和產品/加工審核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The qualification process may be carried out, in particular, with the help of a Product/Process audit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143807Z" creationid="CCYU" creationdate="20150527T143603Z">
+        <seg>合格鑑定流程特別以產品/加工審核進行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16368,6 +16400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This Product/Process audit is performed based on the HUTCHINSON guidelines: HUT DQ FP1001.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143800Z" creationid="CCYU" creationdate="20150527T143800Z">
+        <seg>此產品/加工審核依照以下 HUTCHINSON 指導原則 HUT DQ FP1001 進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This acceptance criteria has been issued to provide interested parties with guidelines for demonstrating compliance with performance features of the codes referenced in the criteria.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T134328Z">
@@ -16453,6 +16493,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054115Z" creationid="CCYU" creationdate="20150524T054115Z">
         <seg>此功能對於限制文件修改或電子化歸檔特別實用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This first delivery shall have very specific packaging and identification in order to facilitate its acceptance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143436Z" creationid="CCYU" creationdate="20150527T143436Z">
+        <seg>初次交貨須有專屬的包裝和標識以加速驗收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This first delivery will be the object of an order specifying the conditions for the supply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143443Z" creationid="CCYU" creationdate="20150527T143411Z">
+        <seg>初次交貨為訂單中指明供應條件之物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19477,6 +19533,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A report on any special processes (NDTs, surface treatments, protection, heat treatment or others), where applicable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T142913Z" creationid="CCYU" creationdate="20150527T142913Z">
+        <seg>所有特殊加工（NDTs、表面處理、保護、熱處理或其它）報告，於適用情況下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch or Serial N°, where applicable</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141505Z" creationid="CCYU" creationdate="20150527T141505Z">
@@ -19509,6 +19573,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Readings of the dimensions, where applicable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T142749Z" creationid="CCYU" creationdate="20150527T142749Z">
+        <seg>尺寸讀數，於適用情況下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference, version number</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141437Z" creationid="CCYU" creationdate="20150527T141437Z">
@@ -19521,6 +19593,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141519Z" creationid="CCYU" creationdate="20150527T141519Z">
         <seg>供應商名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The documents corresponding to the specific requirements stipulated in the order</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143021Z" creationid="CCYU" creationdate="20150527T143021Z">
+        <seg>訂單中約定之具體要求相對應資料文件</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
