@@ -14598,6 +14598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier is then the depository.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T235912Z" creationid="Judy" creationdate="20150527T235912Z">
+        <seg>供應商為保管人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier may organize, at HUTCHINSON'S request, a product manufacture audit under the serial production conditions to allow HUTCHINSON:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143644Z" creationid="CCYU" creationdate="20150527T143644Z">
@@ -17214,6 +17222,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073109Z">
         <seg>除了能滿足裝設整組熱交換器適當規定外，建議預留足夠的空間作為維護和維修時拆除熱交換器之用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless otherwise stated, the Equipment, developed during the project phase, following a renewal or change of supplier, are the property of the HUTCHINSON client, which means HUTCHINSON itself if it placed the order with the Supplier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T235903Z" creationid="Judy" creationdate="20150527T235903Z">
+        <seg>除非另有說明，在專案開發、更新或更換供應商階段之設備，為 HUTCHINSON 客戶之財產，若 HUTCHINSON 自身向供應商下訂單時，產權便屬於 HUTCHINSON。</seg>
       </tuv>
     </tu>
     <tu>
