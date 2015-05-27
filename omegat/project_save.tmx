@@ -5047,6 +5047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even if HUTCHINSON provides the product design, it expects the Supplier to propose improvements or optimize this design, in particular report any design choices that are not in line with the state of art.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T021151Z" creationid="Judy" creationdate="20150527T021151Z">
+        <seg>即使 HUTCHINSON 提供產品設計，它也期望供應商對該設計提出改進或最佳化，特別是回報告任何不符現有科技之設計選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even though many people come together to count area, the filter can separate them and to count individually.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T053642Z">
@@ -6206,6 +6214,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091801Z">
         <seg>HSD 主軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HUTCHINSON defines special characteristics based on the constraints identified on its own process and by also enforcing its Clients' product/process constraints.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T021430Z" creationid="Judy" creationdate="20150527T021430Z">
+        <seg>HUTCHINSON 依據其自身加工和其客戶之產品/加工限制而定義特殊的性質。</seg>
       </tuv>
     </tu>
     <tu>
