@@ -7331,6 +7331,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, they are specified when placing the order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020550Z" creationid="Judy" creationdate="20150527T020550Z">
+        <seg>此情形將於下訂指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, when selecting a smaller vendor,  there are also compromises related to support and reliability</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094035Z" creationid="CCYU" creationdate="20150524T094035Z">
@@ -15627,6 +15635,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080440Z" creationid="CCYU" creationdate="20150509T080440Z">
         <seg>此文件中的書面要求，適用於所有集團工廠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their replacement by any other equivalent means may only be done if HUTCHINSON agrees in writing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020718Z" creationid="Judy" creationdate="20150527T020718Z">
+        <seg>只有在取得 HUTCHINSON 書面同意下，可運用其它替代方法。</seg>
       </tuv>
     </tu>
     <tu>
