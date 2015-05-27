@@ -2845,6 +2845,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before any delivery, the Supplier must ensure compliance - with the HUTCHINSON technical requirements - of the prototype products that it will deliver.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141135Z" creationid="CCYU" creationdate="20150527T141135Z">
+        <seg>供應商必須在所有交付之前，確保其交付之打樣產品符合 HUTCHINSON 之技術要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before any delivery, the Supplier must ensure the compliance of the samples that it will provide to HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T031339Z" creationid="Judy" creationdate="20150527T031339Z">
@@ -14486,6 +14494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier attaches the same documents to these deliveries as required for partial deliveries or those set forth in the special specifications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141313Z" creationid="CCYU" creationdate="20150527T141313Z">
+        <seg>供應商交貨時應附上與部份交貨或特殊規格所需之相同的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier ensures that it is not in any single delivery source situation that could</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185647Z" creationid="Judy" creationdate="20150526T185541Z">
@@ -15567,10 +15583,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The prototype products must be packaged separately and identified with a specific label.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141347Z" creationid="CCYU" creationdate="20150527T141347Z">
+        <seg>打樣產品必須分開包裝，並用一個特定的標籤標識。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The prototype requirements are part of a special order specifying the context (technical files) and the conditions under which they are provided.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025408Z" creationid="Judy" creationdate="20150527T025204Z">
         <seg>打樣零件要求為指明內容（技術檔案）和其提供條件之特殊訂單的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The prototype requirements are part of an order specifying the context (technical files) and the conditions under which they are provided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141107Z" creationid="CCYU" creationdate="20150527T141107Z">
+        <seg>打樣零件要求為指明內容（技術檔案）和其提供條件之訂單的一部分。</seg>
       </tuv>
     </tu>
     <tu>
