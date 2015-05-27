@@ -4398,6 +4398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the HUTCHINSON site in question, the formalization of the product approval shall be specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T133635Z" creationid="CCYU" creationdate="20150527T133635Z">
+        <seg>產品正式驗收程序應根據 HUTCHINSON 需求指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the configuration of your machine you will need to provide 1, 2 or 3 separate power supplies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085637Z">
@@ -6298,6 +6306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HUTCHINSON places a lot of importance on the POKA YOKE in particular.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T140248Z" creationid="CCYU" creationdate="20150527T140248Z">
+        <seg>HUTCHINSON 特別重視 POKA YOKE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HUTCHINSON requires that each of its suppliers' supply chains provide the necessary information on conflict minerals contained in the products purchased by our company.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T180823Z" creationid="Judy" creationdate="20150526T180823Z">
@@ -6310,6 +6326,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185300Z" creationid="Judy" creationdate="20150526T185300Z">
         <seg>HUTCHINSON 有權於供應商的管控下審核外包商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HUTCHINSON'S verification of the use of all Purchasing Quality Assurance methods with a Supplier's subcontractors are part of the Supplier’s qualification process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T140912Z" creationid="CCYU" creationdate="20150527T140912Z">
+        <seg>HUTCHINSON 驗證供應商之外包廠商的所有採購品質管控方法為供應商合格鑑定流程的一部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8099,6 +8123,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It must also show that this can be repeated based on the AIAG MSA standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T140221Z" creationid="CCYU" creationdate="20150527T140129Z">
+        <seg>也必須證明此流程能依據 AIAG MSA 標準再現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It must report any change in schedule to HUTCHINSON as soon as it occurs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015143Z" creationid="Judy" creationdate="20150527T015143Z">
@@ -8119,6 +8151,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123710Z" creationid="CCYU" creationdate="20150524T123441Z">
         <seg>它提供所有企業用戶所需功能，相對 Adobe 能大幅的節省成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It shall not relieve the Supplier of these guarantee obligations or any related responsibilities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T135918Z" creationid="CCYU" creationdate="20150527T135918Z">
+        <seg>供應商仍應負保證義務或任何相關責任。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8407,6 +8447,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135856Z">
         <seg>用和可使用如同單套授權之各種分析功能，也可以選擇在指定的攝影機上進行所需的分析，同時也能在單一攝影機上進行多種分析，但臉部辨識、剩餘物品和遺失物的辨識必須使用其它單獨的設置來進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Likewise, a Product/Process audit can be organized following the HUTCHINSON guidelines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T134929Z" creationid="CCYU" creationdate="20150527T134912Z">
+        <seg>同樣地，產品/流程審核可依照以下 HUTCHINSON 指導原則進行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9191,6 +9239,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064821Z" creationid="CCYU" creationdate="20150524T064821Z">
         <seg>註：若電腦處理器、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: The execution of an EPC is generally done in the presence of several representatives who may take all the samples during the operation that they deem useful.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T134804Z" creationid="CCYU" creationdate="20150527T134804Z">
+        <seg>註：全頻評估一般於多位代表在場時執行，代表們可能取出作業過程中他們認為有用的所有樣品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10159,6 +10215,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T031435Z" creationid="Judy" creationdate="20150527T031435Z">
         <seg>頁碼 13 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 14 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T140922Z" creationid="CCYU" creationdate="20150527T140922Z">
+        <seg>頁碼 14 / 27</seg>
       </tuv>
     </tu>
     <tu>
@@ -14502,6 +14566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier may therefore organize, at HUTCHINSON'S request, operations called "Full Frequency Evaluations" for the manufacture of the product under the serial production conditions to allow HUTCHINSON:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T134918Z" creationid="CCYU" creationdate="20150527T134334Z">
+        <seg>供應商可依 HUTCHINSON 之要求進行序列生產之產品的生產“全頻評估”作業，使 HUTCHINSON 能夠：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier must be able to show its ability to propose innovative solutions in terms of technology, cost reduction and eco-design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193935Z" creationid="Judy" creationdate="20150526T193935Z">
@@ -14522,6 +14594,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193813Z" creationid="Judy" creationdate="20150526T193813Z">
         <seg>供應商必須符合 第 4.2 節所述之品質系統要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier must implement an adequate milestone process for its control means.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T140134Z" creationid="CCYU" creationdate="20150527T140055Z">
+        <seg>供應商必須對其管制方法加入合適的里程碑流程，</seg>
       </tuv>
     </tu>
     <tu>
@@ -15359,6 +15439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The participation of one or several HUTCHINSON representatives in this operation, however, does not impact its right to later refuse all or part of a delivery that includes non-compliant products.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T135239Z" creationid="CCYU" creationdate="20150527T135220Z">
+        <seg>然而此作業中，一位或多位 HUTCHINSON 代表之參與不會影響其後續拒絕所有或部份不合格的交付貨品之權利，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The people tracker is a younger algorithm than the surveillance tracker so tuning and improvements will occur over time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T125143Z">
@@ -15447,10 +15535,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The product security file;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T132836Z" creationid="CCYU" creationdate="20150527T132836Z">
+        <seg>產品安全檔案；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product technical file;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T132845Z" creationid="CCYU" creationdate="20150527T132845Z">
+        <seg>產品技術檔案；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The product technology to develop comparatively to the experiences with similar production files and technologies</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200647Z" creationid="Judy" creationdate="20150526T200647Z">
         <seg>該產品技術提供類似的生產檔案和技術之相關開發經驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The production of HUTCHINSON products where one or more elements have been subcontracted may make it possible for the HUTCHINSON end client to conduct the controls of the specific requirements for these elements with the subcontractors in question.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T140637Z" creationid="CCYU" creationdate="20150527T140637Z">
+        <seg>HUTCHINSON 產品中一項或多項零件之生產外包時，必須能讓 HUTCHINSON 終端客戶針對外包商進行此類零件的特殊要求之管控。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15467,6 +15579,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T132702Z">
         <seg>此規範之條款旨意非用於避免安裝未於此法規中所提及之任何材料、或禁止任何未說明之設計、或進行未闡述之施工方法，上述替代方案若經核准仍可進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The qualification process may be carried out using 2 tools in particular: a Full Frequency Evaluation (EPC) and a Product/Process audit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T133952Z" creationid="CCYU" creationdate="20150527T133744Z">
+        <seg>合格鑑定流程可使用 2 種特定工具進行：全頻評估 （EPC） 和產品/流程審核。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18467,6 +18587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>an analysis certificate for the raw materials used;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T132919Z" creationid="CCYU" creationdate="20150527T132919Z">
+        <seg>使用之原料的分析證書；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>anchor only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172814Z">
@@ -18805,6 +18933,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>on one hand, to validate its general execution process,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T134424Z" creationid="CCYU" creationdate="20150527T134424Z">
+        <seg>一方面驗證其一般執行流程，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on the other, to ensure the quality of the product</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T134448Z" creationid="CCYU" creationdate="20150527T134448Z">
+        <seg>另一方面確保產品的品質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>organizes, at the request of HUTCHINSON, or at its own initiative, all controls as the project advances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020319Z" creationid="Judy" creationdate="20150527T020319Z">
@@ -18889,6 +19033,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025759Z" creationid="Judy" creationdate="20150527T025759Z">
         <seg>使用之管控方法，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the control means used;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T132935Z" creationid="CCYU" creationdate="20150527T132935Z">
+        <seg>使用之管控方法；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the measurement methods used;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T133016Z" creationid="CCYU" creationdate="20150527T132945Z">
+        <seg>使用之量測方法；</seg>
       </tuv>
     </tu>
     <tu>
