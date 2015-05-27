@@ -4646,6 +4646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the design phase, the Supplier:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015301Z" creationid="Judy" creationdate="20150527T015301Z">
+        <seg>於設計階段，供應商應：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EACH ADDITIONAL SERVO AXIS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141519Z">
@@ -4771,6 +4779,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143216Z">
         <seg>延長 Z 軸間隙 &amp; 進程，從 150mm 至 450mm (每一 Z 軸）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each HUTCHINSON Group entity defines its assignment/contracting rules.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015248Z" creationid="Judy" creationdate="20150527T015248Z">
+        <seg>HUTCHINSON 集團的每個單位自行定義其委任 / 立約的規則。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7967,6 +7983,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141217Z">
         <seg>也可用於切割金屬看板上之軟面及真空成形塑膠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It must report any change in schedule to HUTCHINSON as soon as it occurs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015143Z" creationid="Judy" creationdate="20150527T015143Z">
+        <seg>一旦時程有所變更，應立即向 HUTCHINSON 回報。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14266,6 +14290,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T184818Z" creationid="Judy" creationdate="20150526T184818Z">
         <seg>供應商應根據品質系統管理對其外包廠商或供應商負責，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier is responsible for the product progress and monitoring.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015054Z" creationid="Judy" creationdate="20150527T015054Z">
+        <seg>供應商應負責產品進度和監控，</seg>
       </tuv>
     </tu>
     <tu>
