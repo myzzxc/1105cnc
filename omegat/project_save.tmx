@@ -1818,6 +1818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of these elements must be archived for 15 years from the date of delivery.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030855Z" creationid="Judy" creationdate="20150527T030855Z">
+        <seg>以上所有資料必須從交付日起存檔 15 年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All other trademarks are properties of their respective owners.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083212Z" creationid="CCYU" creationdate="20150523T083212Z">
@@ -14975,6 +14983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file must be compliant with the PPAP or VDA 6.3 requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030815Z" creationid="Judy" creationdate="20150527T030815Z">
+        <seg>檔案必須符合 PPAP 或 VDA 6.3 之要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fire &amp; smoke detection algorithm works by sampling the colour, frequency and characteristics over time of the pixels in an image.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153338Z">
@@ -18833,6 +18849,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025759Z" creationid="Judy" creationdate="20150527T025759Z">
         <seg>使用之管控方法，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the samples or sample parts or other photographs that allow HUTCHINSON to ensure that the initial samples proposed meet the different "non- measurable" criteria with which they must comply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030753Z" creationid="Judy" creationdate="20150527T030753Z">
+        <seg>樣品或樣品零件或其它照片，供 HUTCHINSON 確認其提供之初始樣本符合必須遵守之不同的“非量化”標準。</seg>
       </tuv>
     </tu>
     <tu>
