@@ -14328,8 +14328,8 @@
       <tuv lang="EN-US">
         <seg>The Supplier is responsible for defining its special characteristics to supplement those</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T022126Z" creationid="Judy" creationdate="20150527T021526Z">
-        <seg>供應商應負責補充定義 HUTCHINSON 其自身的特殊性質點</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T022227Z" creationid="Judy" creationdate="20150527T021526Z">
+        <seg>供應商應負責補充定義 HUTCHINSON 所定義以外的自身的特殊性質。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18423,6 +18423,14 @@
         <seg>impact delivery to HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T185650Z" creationid="Judy" creationdate="20150526T185650Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>implemented by HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T022232Z" creationid="Judy" creationdate="20150527T022232Z">
         <seg></seg>
       </tuv>
     </tu>
