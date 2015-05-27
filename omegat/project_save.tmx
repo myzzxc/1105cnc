@@ -15880,6 +15880,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These special features must be considered by the Supplier to deal with any special processing during the AMDEC for the surveillance plans and control instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T022650Z" creationid="Judy" creationdate="20150527T022650Z">
+        <seg>供應商於 AMDEC 監測計畫和管控說明期間，必須考慮處理此類特殊的功能所需的任何特殊加工，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These spindles can be used manually or in conjunction with our ATC automatic tool changer carousel for automatic changing of tool bits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082136Z">
