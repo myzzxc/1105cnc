@@ -19645,6 +19645,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>look for and determine the causes of the non-compliances sent and to implement the necessary steps to remove them,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144216Z" creationid="CCYU" creationdate="20150528T144216Z">
+        <seg>尋找並確定未符合規範之原因，並執行必要的步驟以消除問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>low</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151415Z">
@@ -19738,6 +19746,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T134448Z" creationid="CCYU" creationdate="20150527T134448Z">
         <seg>另一方面確保產品的品質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>organize the securitization of the inventory (supplier inventory, inventory in transit, HUTCHINSON inventory and defective parts delivered by HUTCHINSON to its clients) as well as future deliveries to HUTCHINSON of problematic supplies,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144047Z" creationid="CCYU" creationdate="20150528T144047Z">
+        <seg>清點問題品庫存（供應商庫存，運送中貨物、HUTCHINSON 庫存和 HUTCHINSON 交付至其客戶之缺陷零件）以及未來將交付至 HUTCHINSON 之貨物。</seg>
       </tuv>
     </tu>
     <tu>
