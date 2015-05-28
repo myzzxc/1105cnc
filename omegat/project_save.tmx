@@ -6482,6 +6482,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HUTCHINSON reserves the right to authorize access to its sites to select third party companies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T150138Z" creationid="CCYU" creationdate="20150528T150138Z">
+        <seg>HUTCHINSON 保留授權第三方廠商進入其廠房之權利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HUTCHINSON'S verification of the use of all Purchasing Quality Assurance methods with a Supplier's subcontractors are part of the Supplier’s qualification process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T140912Z" creationid="CCYU" creationdate="20150527T140912Z">
@@ -10575,6 +10583,14 @@
         <seg>Page 20 / 27</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141804Z" creationid="CCYU" creationdate="20150528T141804Z">
+        <seg>頁碼 20 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 21 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T145944Z" creationid="CCYU" creationdate="20150528T145944Z">
         <seg>頁碼 20 / 27</seg>
       </tuv>
     </tu>
@@ -14995,6 +15011,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T235912Z" creationid="Judy" creationdate="20150527T235912Z">
         <seg>供應商為保管人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier may appoint third party companies to conduct these inventory control, sorting or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T145934Z" creationid="CCYU" creationdate="20150528T145934Z">
+        <seg>供應商可以委託第三方廠商公司進行庫存控制、整理或清點作業，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19874,6 +19898,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133250Z" creationid="CCYU" creationdate="20150528T133250Z">
         <seg>所有加工階段依據先進先出原則，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>securitization operations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T145948Z" creationid="CCYU" creationdate="20150528T145948Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
