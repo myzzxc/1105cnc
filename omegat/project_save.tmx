@@ -10436,6 +10436,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page 19 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134821Z" creationid="CCYU" creationdate="20150528T134821Z">
+        <seg>頁碼 19 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page 2 / 27</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T145049Z" creationid="CCYU" creationdate="20150524T145049Z">
@@ -13550,6 +13558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supply chain incidents (delays, damaged goods, unsuitable packaging, etc.) will be declared as non-compliant, as defined in §8 of this document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134815Z" creationid="CCYU" creationdate="20150528T134815Z">
+        <seg>供應鏈意外（延誤、貨物破損，包裝不合適等）將視為不符合規範，如本文件 §8 中所定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supplying voltage via the 5V or 3.3V pins bypasses the regulator, and can damage your board.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124259Z">
@@ -15522,8 +15538,8 @@
       <tuv lang="EN-US">
         <seg>The goal is to avoid being held liable for an interruption of production at HUTCHINSON.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134453Z" creationid="CCYU" creationdate="20150528T134453Z">
-        <seg>目標是避免關押在哈欽森負責生產中斷。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134655Z" creationid="CCYU" creationdate="20150528T134453Z">
+        <seg>目標為避免造成 HUTCHINSON 生產中斷而被追究法律責任。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16276,6 +16292,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T115032Z" creationid="CCYU" creationdate="20150528T115032Z">
         <seg>供應商必須於合約之保證結束前通知 HUTCHINSON，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supplier shall adapt its production capacity to meet the workloads represented by the orders.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134917Z" creationid="CCYU" creationdate="20150528T134917Z">
+        <seg>供應商應調整其生產能力，以滿足訂單之工作負載。</seg>
       </tuv>
     </tu>
     <tu>
