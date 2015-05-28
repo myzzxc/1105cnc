@@ -16793,6 +16793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These requirements involve the period following the periodic deliveries and related to the delivery obligations for replacement parts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T142127Z" creationid="CCYU" creationdate="20150528T142101Z">
+        <seg>此節之要求涵蓋了定期交付後，相關零件更換期限之義務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These special features must be considered by the Supplier to deal with any special processing during the AMDEC for the surveillance plans and control instructions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T022650Z" creationid="Judy" creationdate="20150527T022650Z">
