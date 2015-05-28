@@ -2541,6 +2541,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Audits at the initiative of HUTCHINSON or its client may be performed by HUTCHINSON (or by an appointed third party) in the premises of any Supplier where the quality or logistic performance does not comply with the objectives set by HUTCHINSON or show a significant depreciation over several months.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T164338Z" creationid="CCYU" creationdate="20150528T164338Z">
+        <seg>當供應商品質或物流績效不符合 HUTCHINSON 設置之目標或於幾個月內品質大幅滑落時，HUTCHINSON 或其客戶端要求於供應商之廠房進行之審核可由 HUTCHINSON （或指定之第三方廠商）執行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authenticate document owners using self-signing, Microsoft Crypto or third-party digital signatures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T053751Z" creationid="CCYU" creationdate="20150524T053746Z">
@@ -10768,6 +10776,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160410Z" creationid="CCYU" creationdate="20150528T160410Z">
         <seg>頁碼 22 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 23 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T164346Z" creationid="CCYU" creationdate="20150528T164346Z">
+        <seg>頁碼 23 / 27</seg>
       </tuv>
     </tu>
     <tu>
