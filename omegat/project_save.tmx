@@ -16625,6 +16625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This alert must be given early enough in order to allow for new equipment to be developed, the supplier/HUTCHINSON/Client approval time and the end of the current equipment guarantee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T115429Z" creationid="CCYU" creationdate="20150528T115429Z">
+        <seg>此通知預告時間必須足以進行新的設備開發，供應商/HUTCHINSON/客戶批准時間並結束當前設備保證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows the Leonardo ETH to appear to a connected computer as a mouse and keyboard, in addition to a virtual (CDC) serial / COM port.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T041657Z">
