@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7363,6 +7363,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In certain unique production cases, this validation will be done directly during production, particularly for the stopping points defined jointly with the control plan.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T150110Z" creationid="CCYU" creationdate="20150527T150110Z">
+        <seg>某些特殊的生產情況下，特別是共同管控計畫中定義之停止點，將直接在生產期間完成此驗證。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In many countries, prechiller water is kept at room temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045401Z">
@@ -10263,6 +10272,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143033Z" creationid="CCYU" creationdate="20150527T143033Z">
         <seg>頁碼 15 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 16 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T150129Z" creationid="CCYU" creationdate="20150527T150129Z">
+        <seg>頁碼 16 / 27</seg>
       </tuv>
     </tu>
     <tu>
@@ -15359,6 +15376,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The manufacture of HUTCHINSON products where one or more elements have been subcontracted may make it possible for the HUTCHINSON end client to conduct the controls of the specific requirements for these elements with the subcontractors in question and, in this regard, the Supplier and its subcontractors agree to allow free access to all facilities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T150056Z" creationid="CCYU" creationdate="20150527T150056Z">
+        <seg>HUTCHINSON 產品中一項或多項零件之生產外包時，必須能讓 HUTCHINSON 終端客戶針對外包商進行此類零件的特殊要求之管控，且供應商和其外包商應同意我們自由進出所有廠房。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum length and width of the 9 Axes Motion Shield PCB are 2.7 and 2.1 inches respectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132028Z">
@@ -15947,6 +15972,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T114226Z" creationid="CCYU" creationdate="20150525T153400Z">
         <seg>本文件的架構中彙整了 HUTCHINSON “產品採購”之品質管控流程的主要階段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The subjects below apply to all types of equipment regardless of their financing method (cash, investment, amortization).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T150122Z" creationid="CCYU" creationdate="20150527T150122Z">
+        <seg>以下項目，無論其融資方法（現金、投資、攤提）為何，皆適用於所有類型的設備。</seg>
       </tuv>
     </tu>
     <tu>
