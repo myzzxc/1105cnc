@@ -9668,6 +9668,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On one hand, to inform HUTCHINSON about any non-compliance or discrepancy, even if minor, that it may detect during the production or quality control operations before delivery to the HUTCHINSON sites.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T131441Z" creationid="CCYU" creationdate="20150528T131441Z">
+        <seg>一方面，通知 HUTCHINSON 任何可能在交付產品或進行品質控制期間檢測到之未符合規範或差異性，即使狀況輕微。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Mega, the hardware SS pin, 53, is not used to select either the W5500 or the SD card, but it must be kept as an output or the SPI interface won't work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133423Z">
