@@ -2421,6 +2421,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of a period determined by each HUTCHINSON entity, the Supplier is informed that the product enters the “validation for series production” stage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121451Z" creationid="CCYU" creationdate="20150528T121451Z">
+        <seg>由 HUTCHINSON 各部門訂定之交貨期間結束時，將通知供應商產品進入“系列生產驗證”"階段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the time of delivery, the life time must be equal to at least 80% of the maximum life time, unless HUTCHINSON agrees otherwise in writing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191541Z" creationid="Judy" creationdate="20150526T191541Z">
@@ -4746,6 +4754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015301Z" creationid="Judy" creationdate="20150527T015301Z">
         <seg>於設計階段，供應商應：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During this period, all deliveries must include an analysis certificate certifying that the products delivered have been checked by the Supplier and that they have been declared compliant with these controls unless otherwise stated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121306Z" creationid="CCYU" creationdate="20150528T121248Z">
+        <seg>此期間內，除非另有說明，所有交付之貨物必須都包括分析認證，證明供應商交付的產品經過供應商的檢驗，且貨物符合管控規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12176,8 +12192,8 @@
       <tuv lang="EN-US">
         <seg>Respect for the delivery "periods" set by HUTCHINSON is an essential requirement that the Supplier must observe.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121016Z" creationid="CCYU" creationdate="20150528T120957Z">
-        <seg>HUTCHINSON 所訂定之交貨“期限”為供應商必須遵守的基本要求。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121304Z" creationid="CCYU" creationdate="20150528T120957Z">
+        <seg>HUTCHINSON 所訂定之交貨“期間”為供應商必須遵守的基本要求。</seg>
       </tuv>
     </tu>
     <tu>
