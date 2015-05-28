@@ -6530,6 +6530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handling and taking immediate action following a complaint at the HUTCHINSON site must be performed within 48 hours after it is issued.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T152811Z" creationid="CCYU" creationdate="20150528T152806Z">
+        <seg>必須於 HUTCHINSON 發出投訴後的 48 小時內處理並立即採取行動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hard Drive Space</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080111Z">
@@ -12810,6 +12818,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T052505Z" creationid="CCYU" creationdate="20150524T052505Z">
         <seg>搜尋文件中所有內容 —— 包含書籤和註解論的內容 —— 保證能搜尋到所需資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching for the causes for the non-compliance and the implementation of corrective actions must be reported within 15 calendar days from the issue of the complaint.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T153037Z" creationid="CCYU" creationdate="20150528T153037Z">
+        <seg>找尋未符合規範之原因和改正行動執行計畫必須於發出投訴後 15 天內回報。</seg>
       </tuv>
     </tu>
     <tu>
