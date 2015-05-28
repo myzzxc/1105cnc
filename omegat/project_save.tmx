@@ -14903,6 +14903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier takes all necessary provisions to ensure the delivery of products compliant with the contractual specifications (ex.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121814Z" creationid="CCYU" creationdate="20150528T121814Z">
+        <seg>供應商採取一切必要的措施以確保交付的產品符合合約規格（例如：產品監控計畫）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier takes into account the general recommendations about recycling during the design of the product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173925Z" creationid="Judy" creationdate="20150526T173925Z">
@@ -15812,6 +15820,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T075856Z">
         <seg>主要應用為攝影機可快速辨識數位列印圖層之傳統定位標誌，並調整機台切割路徑以精確符合列印圖形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The probative delivery status shall be used in case of non-compliant products.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121714Z" creationid="CCYU" creationdate="20150528T121714Z">
+        <seg>未符合規範之產品，應使用交貨狀態證明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19346,6 +19362,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144107Z">
         <seg>壓力腳和 T 形支架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>production surveillance plan).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121818Z" creationid="CCYU" creationdate="20150528T121818Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
