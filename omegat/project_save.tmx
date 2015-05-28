@@ -4566,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delivery performance (including freight supplements)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T234712Z" creationid="Judy" creationdate="20150528T234712Z">
+        <seg>交付績效（包含運費增補）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the HUTCHINSON site in question, the formalization of the product approval shall be specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T133635Z" creationid="CCYU" creationdate="20150527T133635Z">
@@ -9324,6 +9332,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, pursuant to standard ISO/TS 16949, the following indicators shall also be followed by the HUTCHINSON sites:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T234559Z" creationid="Judy" creationdate="20150528T234559Z">
+        <seg>此外，HUTCHINSON 也會根據 ISO/TS 16949 標準追蹤以下指標：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, the Supplier also reports any changes that may be made to the FDS (Security Data File).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141731Z" creationid="CCYU" creationdate="20150528T141731Z">
@@ -9712,6 +9728,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T013602Z">
         <seg>此處所載的資料未經許可不得作為專利之授權。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notice of the special status regarding quality and delivery problems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T234750Z" creationid="Judy" creationdate="20150528T234750Z">
+        <seg>品質和交貨問題相關的特殊狀態通知。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13938,6 +13962,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134815Z" creationid="CCYU" creationdate="20150528T134815Z">
         <seg>供應鏈意外（延誤、貨物破損，包裝不合適等）將視為不符合規範，如本文件 §8 中所定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supply disruption from clients</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T234627Z" creationid="Judy" creationdate="20150528T234627Z">
+        <seg>來自客戶端的供應中斷</seg>
       </tuv>
     </tu>
     <tu>
