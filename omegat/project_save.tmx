@@ -7468,6 +7468,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In particular, the Supplier must inform HUTCHINSON about any process deviation due to the characteristics followed in SPC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132224Z" creationid="CCYU" creationdate="20150528T132141Z">
+        <seg>供應商尤其應告知 HUTCHINSON 由統計程序控制特性所檢測出之任何流程偏差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In physical sensor option, the server will be required less and will can process more plates that in Virtual Sensor case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T085007Z">
@@ -9048,6 +9056,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T120351Z" creationid="CCYU" creationdate="20150526T120351Z">
         <seg>此外，關於任何認證撤銷或任何其它客戶的投訴，供應商必須立即通知 HUTCHINSON 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, the Supplier measures:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132243Z" creationid="CCYU" creationdate="20150528T132243Z">
+        <seg>此外，供應商需量測：</seg>
       </tuv>
     </tu>
     <tu>
