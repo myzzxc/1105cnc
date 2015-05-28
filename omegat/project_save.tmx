@@ -14222,6 +14222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Equipment must be used exclusively for the production of components for HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T235951Z" creationid="Judy" creationdate="20150527T235951Z">
+        <seg>設備僅能用於生產供應 HUTCHINSON 之元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ethernet Shield 2 connects to an Arduino Board using long wire-wrap</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T020112Z">
@@ -14494,6 +14502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier agrees to inform HUTCHINSON without delay about any fact, malfunction or wear and tear impacting the use of the Equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T000220Z" creationid="Judy" creationdate="20150528T000220Z">
+        <seg>供應商同意發生任何故障或影響設備使用之損耗及損壞時，立即通知 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier archives at least two years of quality records regarding the products delivered to HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183723Z" creationid="Judy" creationdate="20150526T183723Z">
@@ -14658,6 +14674,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193721Z" creationid="Judy" creationdate="20150526T193721Z">
         <seg>供應商必須證明能在符合 HUTCHINSON 的客戶之業務部門標準下，交付貨物至 HUTCHINSON 現場。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier must not make any change to the Equipment without the prior written agreement of HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T000016Z" creationid="Judy" creationdate="20150528T000016Z">
+        <seg>供應商不得在未經 HUTCHINSON 事先書面同意下更改設備。</seg>
       </tuv>
     </tu>
     <tu>
