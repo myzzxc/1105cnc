@@ -2813,6 +2813,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Based on the HUTCHINSON entities, the frequency of this re-qualification may be increased.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140152Z" creationid="CCYU" creationdate="20150528T140152Z">
+        <seg>根據 HUTCHINSON 各部門要求，資格重審的次數可能會增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on the nature of the contract and the product, a special project milestone may be implemented.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T024552Z" creationid="Judy" creationdate="20150527T024552Z">
@@ -14991,6 +14999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier must undergo an annual re-qualification (example: product audit, capabilities analysis, etc...).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140002Z" creationid="CCYU" creationdate="20150528T140002Z">
+        <seg>供應商必須每年進行資格重新審核（例如：產品審核、能力分析……等。）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier of any serial product delivered agrees:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T131205Z" creationid="CCYU" creationdate="20150528T131129Z">
@@ -15428,6 +15444,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090746Z">
         <seg>客戶應盡可能選擇鄰近機台的位置擺設真空泵或鼓風機，並可於技術人員安裝機台前先行架設管路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The data and parts resulting from this re-qualification must be provided to HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140105Z" creationid="CCYU" creationdate="20150528T140105Z">
+        <seg>此資格重審之資料和零件必須提供予以 HUTCHINSON。</seg>
       </tuv>
     </tu>
     <tu>
