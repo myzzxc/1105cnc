@@ -2146,6 +2146,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any costs related to these action plans shall be discussed by HUTCHINSON and the Supplier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T115833Z" creationid="CCYU" creationdate="20150528T115833Z">
+        <seg>上述行動計畫相關任何費用分攤應由 HUTCHINSON 和供應商共同商議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any decision to restore or renew the equipment is the responsibility of HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111351Z" creationid="CCYU" creationdate="20150528T111351Z">
@@ -7480,6 +7488,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T024242Z" creationid="Judy" creationdate="20150527T024242Z">
         <seg>購買標準化學產品時，其中某些特性必須符合 HUTCHINSON 之需求，供應商和 HUTCHINSON CDR（研究中心）將簽署特殊規格合約。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of use of equipment no longer guaranteed, the Supplier must provide HUTCHINSON with a quality and logistic risk analysis related to the state of the equipment as well as a proposal including measures to take.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T115726Z" creationid="CCYU" creationdate="20150528T115726Z">
+        <seg>當設備使用之保證結束的情況下，供應商必須提供設備狀態相關的品質和物流風險分析予以 HUTCHINSON，以及對應措施之計畫書。</seg>
       </tuv>
     </tu>
     <tu>
