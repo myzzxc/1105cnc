@@ -15175,6 +15175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier shall remove all products/parts declared non-compliant by HUTCHINSON within 1 month at most.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T151330Z" creationid="CCYU" creationdate="20150528T151330Z">
+        <seg>供應商最遲應於 1 個月內排除所有 HUTCHINSON 聲明未符合規範之產品/零件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier takes all necessary provisions to ensure the delivery of products compliant with the contractual specifications (ex.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121814Z" creationid="CCYU" creationdate="20150528T121814Z">
