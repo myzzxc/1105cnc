@@ -5209,8 +5209,8 @@
       <tuv lang="EN-US">
         <seg>Escalation Process</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153207Z" creationid="CCYU" creationdate="20150525T153207Z">
-        <seg>升級流程</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160129Z" creationid="CCYU" creationdate="20150525T153207Z">
+        <seg>應變措施升級流程</seg>
       </tuv>
     </tu>
     <tu>
@@ -7624,6 +7624,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134655Z">
         <seg>於Arduino IDE中提供了以下範例，請選擇NAxesMotion中的File -&gt; Examples of Arduino IDE，共有4種九軸運動擴充模組之範例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of a significant discrepancy in the quality or supply chain performance level, an escalation process must be activated in order to return the situation to normal as quickly as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160126Z" creationid="CCYU" creationdate="20150528T160000Z">
+        <seg>於品質或供應鏈的績效水準差異極大的情況下，必須升級應變措施，以儘快恢復正常作業。</seg>
       </tuv>
     </tu>
     <tu>
