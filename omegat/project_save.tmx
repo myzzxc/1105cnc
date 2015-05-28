@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5075,6 +5075,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090407Z">
         <seg>兩者皆配有啟動開關與有線遠端啟動台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each supplier is also evaluated based on the economic criteria of the purchase, its ability to invest, its ability to innovate and its quality management system level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T234227Z" creationid="Judy" creationdate="20150528T234227Z">
+        <seg>同時也會根據其購買的經濟標準、投資能力、其創新能力和其品質管理系統水準評估每個供應商。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16488,6 +16496,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The quality and supply chain performance objectives are set at the start of each year.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T234326Z" creationid="Judy" creationdate="20150528T234326Z">
+        <seg>品質和供應鏈的績效目標於每一年起始時訂定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The quality of feed withdrawal is important to reduce the risk of bacterial contamination in the processing plant, irrespective of whether a short or long feed withdrawal is implemented.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043054Z">
@@ -16828,6 +16844,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161931Z" creationid="CCYU" creationdate="20150528T161931Z">
         <seg>供應商的責任將不會改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The suppliers’ performance based on the criteria cited below is essential to reach these objectives.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T234458Z" creationid="Judy" creationdate="20150528T234458Z">
+        <seg>供應商的績效目標必須達到下述的標準。</seg>
       </tuv>
     </tu>
     <tu>
