@@ -9116,6 +9116,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, the Supplier also reports any changes that may be made to the FDS (Security Data File).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141731Z" creationid="CCYU" creationdate="20150528T141731Z">
+        <seg>此外，供應商也需紀錄 FDS（安全資料檔案）的任何變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, the Supplier is required to immediately inform HUTCHINSON about the revocation of any certification or any complaint by other clients.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T120351Z" creationid="CCYU" creationdate="20150526T120351Z">
@@ -10504,6 +10512,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104000Z">
         <seg>2/11 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 20 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141804Z" creationid="CCYU" creationdate="20150528T141804Z">
+        <seg>頁碼 20 / 27</seg>
       </tuv>
     </tu>
     <tu>
