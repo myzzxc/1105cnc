@@ -16096,6 +16096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The results of this self-assessment must be sent to the recipient HUTCHINSON sites.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133735Z" creationid="CCYU" creationdate="20150528T133735Z">
+        <seg>此自我評估的結果必須發送至 HUTCHINSON 方代表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The saber blade isarobust and multi purpose tool ideal forcutting hard materials such as laminates, Styrene, Sintra and similar up to about 1-2mm thick.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T161531Z">
@@ -16284,6 +16292,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191307Z" creationid="Judy" creationdate="20150526T191307Z">
         <seg>供應商應針對市場、產品和流程設立警戒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supplier shall use the exchange systems required by HUTCHINSON, typically the use of EDI for open orders.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133859Z" creationid="CCYU" creationdate="20150528T133859Z">
+        <seg>供應商應使用 HUTCHINSON 所指定之交換系統，未結訂單通常使用 EDI。</seg>
       </tuv>
     </tu>
     <tu>
