@@ -16576,6 +16576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The quantified targets set at the start of the year must constitute the input for this plan for improvement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235645Z" creationid="CCYU" creationdate="20150528T235645Z">
+        <seg>於每年年初設定之量化目標必須包含此改進計畫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reason for this is that various other objects in a scene could match the pixel characteristics of a fire but not other characteristics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154321Z">
