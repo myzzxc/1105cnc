@@ -911,6 +911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A bipartisan agreement will discuss responsibility for the costs related to the restoration or renewal of the equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111516Z" creationid="CCYU" creationdate="20150528T111428Z">
+        <seg>修復或更新設備之費用分攤將由雙方討論後決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A choice of powerful routing spindles are perfect for cutting hard or thick substrates such as acrylic, aluminium, wood and ACM which can all be cut in a single pass for maximum throughput.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T081938Z">
@@ -2134,6 +2142,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045859Z">
         <seg>處理過中所使用的殺菌劑都應遵守正確的使用方式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any decision to restore or renew the equipment is the responsibility of HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111351Z" creationid="CCYU" creationdate="20150528T111351Z">
+        <seg>修復或更新設備之任何決定由  HUTCHINSON 負責。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13374,6 +13390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such list must include the date the equipment arrives and its maintenance logs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111625Z" creationid="CCYU" creationdate="20150528T111625Z">
+        <seg>該清單必須包括在設備到貨日期及維護日誌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suggested List Price:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T074014Z" creationid="CCYU" creationdate="20150523T074014Z">
@@ -14803,6 +14827,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190300Z" creationid="Judy" creationdate="20150526T185822Z">
         <seg>供應商應提供交付產品的確保交貨計畫予以 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier provides HUTCHISON with a summary list of the equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111607Z" creationid="CCYU" creationdate="20150528T111607Z">
+        <seg>供應商提供設備的摘要清單予以 HUTCHISON，</seg>
       </tuv>
     </tu>
     <tu>
