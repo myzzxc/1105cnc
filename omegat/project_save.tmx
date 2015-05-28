@@ -7452,6 +7452,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In particular, for these special characteristics, the Supplier implements a statistical process control (SPC) and follows its capability levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T131145Z" creationid="CCYU" creationdate="20150528T131120Z">
+        <seg>對於特殊的性質，供應商特別實施型統計程序控制 （SPC）並展示其能力水準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In particular, if a client wishes to audit the Supplier, the audit may only take place in the presence of a HUTCHINSON representative.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T184708Z" creationid="Judy" creationdate="20150526T184708Z">
@@ -14891,6 +14899,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193403Z" creationid="Judy" creationdate="20150526T193403Z">
         <seg>供應商必須展現出配合 HUTCHINSON 汽車、航空和工業業務部門之降低價格計劃的意願。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier of any serial product delivered agrees:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T131205Z" creationid="CCYU" creationdate="20150528T131129Z">
+        <seg>對於任何系列交付的產品，供應商同意：</seg>
       </tuv>
     </tu>
     <tu>
