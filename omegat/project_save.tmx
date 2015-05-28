@@ -14551,6 +14551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier agrees to insure the Equipment for which it is the depository with an insurance contract that it is required to take out (see paragraph about the General Purchasing Conditions)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T110659Z" creationid="CCYU" creationdate="20150528T110659Z">
+        <seg>供應商同意對託管之設備依合約要求進行投保（請見一般採購條件章節）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier archives at least two years of quality records regarding the products delivered to HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183723Z" creationid="Judy" creationdate="20150526T183723Z">
@@ -14787,6 +14795,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T192955Z" creationid="Judy" creationdate="20150526T192955Z">
         <seg>供應商的投標價格必須是 HUTCHINSON 能利用的最佳化總價，因此各種因子（品質、績效、技術⋯⋯等）的相關管控相當重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier, as the depository of the Equipment, shall be solely liable for any loss or damages, whether direct or indirect, material or immaterial, consecutive or non- consecutive, caused to the Equipment or by the Equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T110455Z" creationid="CCYU" creationdate="20150528T110455Z">
+        <seg>供應商作為設備保管人，無論對於直接或間接、物質或非物質、連續或非連續、對設備或設備所引起的任何損失或損害，應負有完全的責任。</seg>
       </tuv>
     </tu>
     <tu>
