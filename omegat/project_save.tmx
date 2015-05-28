@@ -4568,8 +4568,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the business sector at the HUTCHINSON site in question, the Supplier may be subject to a guarantee refund.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T163138Z" creationid="CCYU" creationdate="20150528T163138Z">
-        <seg>依據 HUTCHINSON 之不同營業單位規定，能會退還保證金供應商可。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T163759Z" creationid="CCYU" creationdate="20150528T163138Z">
+        <seg>依據 HUTCHINSON 之不同營業單位規定，供應商可能需要保證退貨。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16516,6 +16516,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194040Z">
         <seg>參考、可靠性和工作條件所需之最小樣本數大小列於表3.1、3.2、3.3、3.6和3.7中，而此標準中，表3.8所列之所有測試均須由ITEA（第 12 章）使用其設備進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The requirements in terms of the response time, financial consequences and escalation process apply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T163822Z" creationid="CCYU" creationdate="20150528T163715Z">
+        <seg>此流程適用回應時間、財務影響和應變措施升級流程之要求。</seg>
       </tuv>
     </tu>
     <tu>
