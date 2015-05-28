@@ -3862,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compliance with the provisions of this document does not, in any way, diminish the liability of the Supplier regarding its primary obligation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T152028Z" creationid="CCYU" creationdate="20150528T152028Z">
+        <seg>遵守本文件之規範並不能以任何方式削減供應商應主要職責之相關責任，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compliance/Governance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071931Z" creationid="CCYU" creationdate="20150524T071931Z">
@@ -9544,6 +9552,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134006Z">
         <seg>若有任何問題，或需退換熱交換器時，請立即通知 CG Thermal 公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notwithstanding the Supplier's compliance with the provisions of this document, the Supplier is and remains responsible for the quality of the products delivered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T152100Z" creationid="CCYU" creationdate="20150528T152100Z">
+        <seg>即使供應商遵守本文件之規定，供應商仍需對交付之產品的品質負責。</seg>
       </tuv>
     </tu>
     <tu>
