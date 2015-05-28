@@ -5097,8 +5097,8 @@
       <tuv lang="EN-US">
         <seg>Each supplier must propose ideas for improvement aimed at reducing the total purchase cost of the supplies.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235245Z" creationid="CCYU" creationdate="20150528T235223Z">
-        <seg>每個供應商必須提出改善方案以減少供應的總採購成本。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235347Z" creationid="CCYU" creationdate="20150528T235223Z">
+        <seg>每個供應商必須提出改善方案以減少供應的總採購成本，</seg>
       </tuv>
     </tu>
     <tu>
@@ -8566,8 +8566,8 @@
       <tuv lang="EN-US">
         <seg>It shall contribute to the client productivity programs and thus perpetuate its own markets.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235241Z" creationid="CCYU" creationdate="20150528T235241Z">
-        <seg>該方法它應有助於客戶提高生產力計畫並因此延續自身的市場。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235344Z" creationid="CCYU" creationdate="20150528T235241Z">
+        <seg>該方案應有助於客戶的生產力提高計畫並因此延續自身的市場。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15147,6 +15147,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181954Z" creationid="Judy" creationdate="20150526T181954Z">
         <seg>供應商需同意賠償 HUTCHINSON 任何因供應商侵犯智慧財產或工業財產權而造成  HUTCHINSON 損失之費用、開支、損害賠償和其它損失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier agrees to inform HUTCHINSON about its annual improvement plan.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235547Z" creationid="CCYU" creationdate="20150528T235547Z">
+        <seg>供應商同意告知 HUTCHINSON 其年度改進計畫，</seg>
       </tuv>
     </tu>
     <tu>
