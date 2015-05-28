@@ -4991,6 +4991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each HUTCHINSON entity will define its alert thresholds and the expected measures (summons to present the action plans, audits conducted by the supplier, etc.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160401Z" creationid="CCYU" creationdate="20150528T160401Z">
+        <seg>HUTCHINSON 各部門將定義其警戒觸發值和預期的措施（召集提出行動計畫、由供應商等進行審核等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each analog input provides 10 bits of resolution (i.e. 1024 different values).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124418Z">
@@ -10640,6 +10648,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T145944Z" creationid="CCYU" creationdate="20150528T145944Z">
         <seg>頁碼 20 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 22 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160410Z" creationid="CCYU" creationdate="20150528T160410Z">
+        <seg>頁碼 22 / 27</seg>
       </tuv>
     </tu>
     <tu>
