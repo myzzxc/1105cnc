@@ -2421,6 +2421,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At HUTCHINSON'S request, any supplier may share the results, measurements and findings for analysis purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T122112Z" creationid="CCYU" creationdate="20150528T122112Z">
+        <seg>於 HUTCHINSON 的請求下，供應商可共享成果、測量和研究結果供分析使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of a period determined by each HUTCHINSON entity, the Supplier is informed that the product enters the “validation for series production” stage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121451Z" creationid="CCYU" creationdate="20150528T121451Z">
@@ -10360,6 +10368,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111227Z" creationid="CCYU" creationdate="20150528T111227Z">
         <seg>頁碼 17 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 18 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T122118Z" creationid="CCYU" creationdate="20150528T122118Z">
+        <seg>頁碼 18 / 27</seg>
       </tuv>
     </tu>
     <tu>
