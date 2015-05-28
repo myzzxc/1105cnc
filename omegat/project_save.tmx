@@ -6898,6 +6898,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a delivery is late, the supplier shall use the most suitable means of transport (taxis, aircraft, etc.) to make the delivery to HUTCHINSON, irrespective of the incoterm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134455Z" creationid="CCYU" creationdate="20150528T134444Z">
+        <seg>若交貨延遲，供應商應使用最適當的交通工具（計程車、飛機等）運送至 HUTCHINSON（不考慮國際貿易術語），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a group of pixels fall under both the colour range and flicker frequency over time we can flag those as fire blobs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153909Z">
@@ -15508,6 +15516,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081720Z">
         <seg>下列圖表提供詳細資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The goal is to avoid being held liable for an interruption of production at HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134453Z" creationid="CCYU" creationdate="20150528T134453Z">
+        <seg>目標是避免關押在哈欽森負責生產中斷。</seg>
       </tuv>
     </tu>
     <tu>
