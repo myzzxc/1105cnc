@@ -1738,6 +1738,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After this period, the products/parts that have not been removed by the Supplier shall be removed and the cost of their destruction shall be billed back to the Supplier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T151606Z" creationid="CCYU" creationdate="20150528T151606Z">
+        <seg>超過此期限後，供應商尚未排除之產品/零件將直接移除且銷毀費用由供應商支付。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Again, Nuance has been providing robust PDF solutions over over a decade.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T122651Z" creationid="CCYU" creationdate="20150524T122651Z">
@@ -15500,6 +15508,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T135407Z">
         <seg>生效日期為相關評估報告必須符合標準要求之日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The consequences of a default</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T151711Z" creationid="CCYU" creationdate="20150528T151711Z">
+        <seg>違約之影響</seg>
       </tuv>
     </tu>
     <tu>
