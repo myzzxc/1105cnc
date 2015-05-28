@@ -5095,6 +5095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each supplier must propose ideas for improvement aimed at reducing the total purchase cost of the supplies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235245Z" creationid="CCYU" creationdate="20150528T235223Z">
+        <seg>每個供應商必須提出改善方案以減少供應的總採購成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ease of Use</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055822Z" creationid="CCYU" creationdate="20150524T055822Z">
@@ -6540,8 +6548,8 @@
       <tuv lang="EN-US">
         <seg>HUTCHINSON expects its suppliers to conduct programs for operational excellence, whether organizational or technical for products or processes, to reach and maintain the best level of competition in their business sector.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T234937Z" creationid="CCYU" creationdate="20150528T234937Z">
-        <seg>HUTCHINSON 期望其供應商進行卓越運營的方案，無論是針對組織性或是產品或流程之技術性，能夠達到並維持其營業單位競爭的最佳水準。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235038Z" creationid="CCYU" creationdate="20150528T234937Z">
+        <seg>HUTCHINSON 期望其供應商進行卓越運營的方案，無論是針對組織性或是針對產品或流程技術之方案，以達到並維持其營業單位的最佳競爭力水準。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8552,6 +8560,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123710Z" creationid="CCYU" creationdate="20150524T123441Z">
         <seg>它提供所有企業用戶所需功能，相對 Adobe 能大幅的節省成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It shall contribute to the client productivity programs and thus perpetuate its own markets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235241Z" creationid="CCYU" creationdate="20150528T235241Z">
+        <seg>該方法它應有助於客戶提高生產力計畫並因此延續自身的市場。</seg>
       </tuv>
     </tu>
     <tu>
