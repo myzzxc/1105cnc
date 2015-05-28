@@ -16264,6 +16264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The supply disruptions from its client HUTCHINSON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132823Z" creationid="CCYU" creationdate="20150528T132823Z">
+        <seg>自其 HUTCHINSON 客戶之供應中斷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system can generate alarms on events that are occurring at the time of operation for example: a car circling against the tide, a person who is trespassing on property or even warn about suspicious movement of people.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052017Z">
@@ -18192,6 +18200,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123831Z">
         <seg>當一個人看到一輛黃色轎車時，他當然會知道它是黃色的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a product is tracked, the Supplier agrees to:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132903Z" creationid="CCYU" creationdate="20150528T132903Z">
+        <seg>當進行產品追蹤時，供應商同意：</seg>
       </tuv>
     </tu>
     <tu>
