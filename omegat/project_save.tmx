@@ -9692,6 +9692,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the other hand, to inform HUTCHINSON about any delivery that does not follow the continuity of the delivery history (for example, a different configuration for a parameter, even if not specified).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T131804Z" creationid="CCYU" creationdate="20150528T131804Z">
+        <seg>另一方面，通知 HUTCHINSON 任何未符合交付歷史的連續性（例如，參數之設置不同，即使是未指定之參數）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On: shows that the Shield is getting power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T140955Z">
