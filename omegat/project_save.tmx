@@ -1063,6 +1063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A written agreement from HUTCHINSON is required before any Supplier action allowing for the definitive shutdown of its ability to delivery (example: destruction of the equipment, special machine, inventory...).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T143223Z" creationid="CCYU" creationdate="20150528T143223Z">
+        <seg>供應商進行完全停止供貨行動前（例如：銷毀設備、特殊機台、庫存……）必須取得 HUTCHINSON 之書面同意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A000022 (without PoE)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144949Z">
