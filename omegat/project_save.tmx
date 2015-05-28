@@ -1714,6 +1714,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After any delivery incident report by HUTCHINSON, the Supplier delivers its products in packaging that clearly shows that they need to undergo an additional control before shipping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144613Z" creationid="CCYU" creationdate="20150528T144613Z">
+        <seg>HUTCHINSON 發現任何交貨問題後，供應商應於其產品的包裝上清楚地載明貨物需要在運送前接受額外的管控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After filling the vessel, allow approximately 5 minutes for trapped air to escape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055545Z">
@@ -19352,6 +19360,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050029Z">
         <seg>請依據各國規範選用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>answer any complaint in which it is involved by logging on to the HUTCHINSON purchasing tool portal at the following address: https://ivalua.hutchinson.fr/</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144323Z" creationid="CCYU" creationdate="20150528T144323Z">
+        <seg>登入 HUTCHINSON 採購工具入口網站回答所有投訴，網址為： https://ivalua.hutchinson.fr/</seg>
       </tuv>
     </tu>
     <tu>
