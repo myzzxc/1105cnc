@@ -2533,6 +2533,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Audit or plan for progress at the supplier's cost</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T162219Z" creationid="CCYU" creationdate="20150528T162219Z">
+        <seg>由供應商付費進行審核或計畫流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authenticate document owners using self-signing, Microsoft Crypto or third-party digital signatures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T053751Z" creationid="CCYU" creationdate="20150524T053746Z">
@@ -3505,6 +3513,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T134251Z">
         <seg>陶瓷、石墨、熱交換器、輸送設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change of status in the panel, usually to "New Business Hold"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T162508Z" creationid="CCYU" creationdate="20150528T162508Z">
+        <seg>改變小組狀態，通常變更為“暫停新業務”</seg>
       </tuv>
     </tu>
     <tu>
@@ -5735,6 +5751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Financial penalties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T162131Z" creationid="CCYU" creationdate="20150528T162131Z">
+        <seg>罰款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153349Z">
@@ -7014,6 +7038,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152445Z" creationid="CCYU" creationdate="20150509T075507Z">
         <seg>若 HUTCHINSON 之供應商無法滿足 SlogM 供應鏈手冊中所訂定之要求，供應商必須提出改善計畫予以 HUTCHINSON 採購和供應鏈部門之聯絡人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a continuous slippage is observed in the long term (&gt; 6 months), the escalation process will bring about the following consequences:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T162114Z" creationid="CCYU" creationdate="20150528T162114Z">
+        <seg>如果問題持續一段長時間（&gt; 6 個月），應變措施升級流程會帶來以下後果：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16724,6 +16756,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133859Z" creationid="CCYU" creationdate="20150528T133859Z">
         <seg>供應商應使用 HUTCHINSON 所指定之交換系統，未結訂單通常使用 EDI。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supplier's liability will remain unaffected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161931Z" creationid="CCYU" creationdate="20150528T161931Z">
+        <seg>供應商的責任將不會改變。</seg>
       </tuv>
     </tu>
     <tu>
