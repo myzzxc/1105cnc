@@ -9518,24 +9518,24 @@
       <tuv lang="EN-US">
         <seg>Non-compliance detected by HUTCHINSON's end customer</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161009Z" creationid="CCYU" creationdate="20150528T161009Z">
-        <seg>HUTCHINSON 的終端客戶發現未符合規範事項</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161537Z" creationid="CCYU" creationdate="20150528T161009Z">
+        <seg>HUTCHINSON 的終端客戶發現未符合規範事項。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Non-compliance detected in a warranty return</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161148Z" creationid="CCYU" creationdate="20150528T161148Z">
-        <seg>未符合規範導至保固返修</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161535Z" creationid="CCYU" creationdate="20150528T161148Z">
+        <seg>未符合規範導至保固返修。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Non-compliance of a characteristic subject to regulation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160854Z" creationid="CCYU" creationdate="20150528T160854Z">
-        <seg>未符合法規之特性規範</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161540Z" creationid="CCYU" creationdate="20150528T160854Z">
+        <seg>未符合法規之特性規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11718,6 +11718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Production line stoppage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161511Z" creationid="CCYU" creationdate="20150528T161511Z">
+        <seg>生產線停工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Programming</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133444Z">
@@ -12136,8 +12144,8 @@
       <tuv lang="EN-US">
         <seg>Recurrent non-compliance</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161211Z" creationid="CCYU" creationdate="20150528T161211Z">
-        <seg>復發性之未符合規範事項</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161523Z" creationid="CCYU" creationdate="20150528T161211Z">
+        <seg>復發性之未符合規範事項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13706,6 +13714,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133211Z">
         <seg>蒸汽管道應有適當疏水性，且應依規定設有將關機時管道內殘水排乾之設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stock levels that are incompatible with the delivery performance requirements without exceptional means of transport.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161504Z" creationid="CCYU" creationdate="20150528T161504Z">
+        <seg>庫存水準不符交付績效要求，無優良的運送方法。</seg>
       </tuv>
     </tu>
     <tu>
