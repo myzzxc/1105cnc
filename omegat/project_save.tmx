@@ -7427,6 +7427,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case of subcontracting the equipment during the project phase, it is the responsibility of the Supplier to plan and organize the transfer of equipment while keeping HUTCHINSON informed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T000909Z" creationid="Judy" creationdate="20150528T000909Z">
+        <seg>專案階段期間，進行任何外包設備時，供應商應負責設備轉移的計畫和組織，同時通知 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the case of the creation or adaptation of a supply, the explicit requirements are formulated by HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T194950Z" creationid="Judy" creationdate="20150526T194950Z">
@@ -15755,6 +15763,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T121655Z" creationid="CCYU" creationdate="20150526T121647Z">
         <seg>安全法規要求提供已實施一切確保安全之預防措施的證明，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The repatriation of equipment does not relieve the supplier of any liability to follow the product conformity and quality objectives set.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T001156Z" creationid="Judy" creationdate="20150528T001156Z">
+        <seg>歸還設備後，供應商仍應負責所有產品符合規範和設定目標。</seg>
       </tuv>
     </tu>
     <tu>
