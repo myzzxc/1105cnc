@@ -7980,6 +7980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interruption of production for more than 2 years</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141318Z" creationid="CCYU" creationdate="20150528T141318Z">
+        <seg>2 年以上的生產中斷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduce security concerns</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065825Z" creationid="CCYU" creationdate="20150524T065825Z">
@@ -15007,6 +15015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier must take the precaution of having a secure inventory allowing it to ensure the delivery times for the modification validation by HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141624Z" creationid="CCYU" creationdate="20150528T141624Z">
+        <seg>供應商進行變更時必須採取經 HUTCHINSON 驗證的預防措施，備有足夠安全庫存以確保交貨時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier must undergo an annual re-qualification (example: product audit, capabilities analysis, etc...).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140002Z" creationid="CCYU" creationdate="20150528T140002Z">
@@ -17567,6 +17583,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091938Z">
         <seg>追蹤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transfer of production from a provisional to a definitive means</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141301Z" creationid="CCYU" creationdate="20150528T141301Z">
+        <seg>生產由臨時性轉移至固定方法，</seg>
       </tuv>
     </tu>
     <tu>
