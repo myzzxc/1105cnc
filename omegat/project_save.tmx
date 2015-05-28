@@ -14671,6 +14671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier has an order and is regularly informed about the delivery schedule that it must meet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T120900Z" creationid="CCYU" creationdate="20150528T120900Z">
+        <seg>供應商獲得訂單後，必須依定期通知的交貨預定表完成交貨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier implements a Quality Management System, certified by a third party audit based on:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154523Z" creationid="CCYU" creationdate="20150525T154133Z">
