@@ -1890,6 +1890,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All suppliers must maintain a production capacity for a minimum of 10 years following the serial end of life phase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T142351Z" creationid="CCYU" creationdate="20150528T142351Z">
+        <seg>系列產品週期結束後，所有供應商必須維持最低的產能至少 10 年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All tests conducted by the manufacturer shall be witnessed by the ITEA for conformance with the requirements of this criteria in accordance with 12.1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T195010Z">
@@ -17246,6 +17254,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T141709Z">
         <seg>例如兩人牽手經過攝影機，或以其他方式相連在一起的情況下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This period may be extended at the request of HUTCHINSON for projects with specific clients.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T142525Z" creationid="CCYU" creationdate="20150528T142455Z">
+        <seg>此期限可能會隨 HUTCHINSON 與特定客戶之專案要求而延長，</seg>
       </tuv>
     </tu>
     <tu>
