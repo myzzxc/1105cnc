@@ -2193,6 +2193,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Any discrepancy with the order specifications or conditions - whether technical or otherwise – are included in a complaint sent to the Supplier in question.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T143419Z" creationid="CCYU" creationdate="20150528T143419Z">
+        <seg>與訂貨規格或條件之間的任何差異，無論是技術性或其它差異，將包含於客訴中在發送給供應商。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>?
 </note>
       <tuv lang="EN-US">
@@ -14887,6 +14895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier involved in the complaint agrees to:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T143638Z" creationid="CCYU" creationdate="20150528T143638Z">
+        <seg>受到投訴之供應商同意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier is required to inform HUTCHINSON about any change in the geographic</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T000642Z" creationid="Judy" creationdate="20150528T000642Z">
@@ -18432,6 +18448,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123831Z">
         <seg>當一個人看到一輛黃色轎車時，他當然會知道它是黃色的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a non-compliance is found for an external supply, the site that discovered it issues a complaint to the Supplier in question on the HUTCHINSON purchasing tool portal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T143617Z" creationid="CCYU" creationdate="20150528T143617Z">
+        <seg>當發現外部供應不符合規範時，發現問題一方將於 HUTCHINSON 採購工具入口網站上發出投訴至供應商。</seg>
       </tuv>
     </tu>
     <tu>
