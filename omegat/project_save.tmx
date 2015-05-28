@@ -19269,6 +19269,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>its service rate for HUTCHINSON,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132541Z" creationid="CCYU" creationdate="20150528T132435Z">
+        <seg>其 HUTCHINSON 之服務評等，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>la</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181438Z">
@@ -19526,10 +19534,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the exceptional transportation costs incurred to ensure timely deliveries to HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132643Z" creationid="CCYU" creationdate="20150528T132643Z">
+        <seg>確保準時交貨至 HUTCHINSON 之特殊運輸費用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the level of satisfaction of its HUTCHINSON client,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132645Z" creationid="CCYU" creationdate="20150528T132515Z">
+        <seg>其 HUTCHINSON 客戶之滿意度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the measurement methods used;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T133016Z" creationid="CCYU" creationdate="20150527T132945Z">
         <seg>使用之量測方法；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the quality level delivered (complaints, PPM, CPM) and its internal quality level,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132401Z" creationid="CCYU" creationdate="20150528T132401Z">
+        <seg>交付之品質水準（客訴、PPM、CPM）與其內部品質等級，</seg>
       </tuv>
     </tu>
     <tu>
