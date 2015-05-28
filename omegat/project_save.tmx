@@ -16096,6 +16096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The supplier must inform HUTCHINSON about the end of the contractual guarantee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T115032Z" creationid="CCYU" creationdate="20150528T115032Z">
+        <seg>供應商必須於合約之保證結束前通知 HUTCHINSON，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The supplier shall always send any notices of obsolescence to HUTCHINSON, irrespective of the source of the information.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191209Z" creationid="Judy" creationdate="20150526T190949Z">
