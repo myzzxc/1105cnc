@@ -7499,6 +7499,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In certain cases of non-compliance, the Supplier may propose a "deferral request" for HUTCHINSON before shipping, which, if HUTCHINSON approves, allows it to continue to deliver at least for a given period/quantity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144957Z" creationid="CCYU" creationdate="20150528T144957Z">
+        <seg>某些未符合規範情況下，供應商能在運送前向 HUTCHINSON 提出“延遲請求”，若 HUTCHINSON 核准後，能至少在給定的期間/數量之內繼續供貨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In certain unique production cases, this validation will be done directly during production, particularly for the stopping points defined jointly with the control plan.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T150110Z" creationid="CCYU" creationdate="20150527T150110Z">
@@ -7624,6 +7632,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103312Z">
         <seg>在數位世界中，像素是一個介於 0 到 255 之間的數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the special case of a product delivered during "deferral," it will be part of a special repair.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T145023Z" creationid="CCYU" creationdate="20150528T145023Z">
+        <seg>於延遲“在產品交付期間"推遲"的特例，它將專用修復的一部分。</seg>
       </tuv>
     </tu>
     <tu>
