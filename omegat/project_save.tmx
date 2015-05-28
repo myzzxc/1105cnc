@@ -983,6 +983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A plan for progress towards compliance with this manual shall be drawn up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T135351Z" creationid="CCYU" creationdate="20150528T135351Z">
+        <seg>應制訂遵循本手冊要求之流程計畫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A product is described as "safe" and/or "regulated" if it has one or more features subject to the national or international regulations or a client safety program.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T122255Z" creationid="CCYU" creationdate="20150526T122255Z">
@@ -6930,6 +6938,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a risk of late delivery is identified, the supplier shall inform HUTCHINSON immediately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134951Z" creationid="CCYU" creationdate="20150528T134951Z">
+        <seg>若發現延遲交貨之風險，供應商應立即通知 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any components are missing or damaged or if leaks still occur after the shellside hydrostatic test, notify the carrier immediately and file an appropriate claim.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133437Z">
@@ -9064,6 +9080,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T184550Z" creationid="Judy" creationdate="20150526T184455Z">
         <seg>此外，HUTCHINSON 禁止任何供應商和客戶之間的直接聯繫互動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, all suppliers agree to immediately apply the requirements in the Supply Chain manual SlogM HUT DQ G32 for the HUTCHINSON sites that so require.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T135241Z" creationid="CCYU" creationdate="20150528T135241Z">
+        <seg>此外，所有的供應商同意立即施行 HUTCHINSON 方提供求之供應鏈手冊 SlogM HUT DQ G32 中所列之要求。</seg>
       </tuv>
     </tu>
     <tu>
