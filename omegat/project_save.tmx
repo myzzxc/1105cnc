@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6534,6 +6534,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T021430Z" creationid="Judy" creationdate="20150527T021430Z">
         <seg>HUTCHINSON 依據其自身加工和其客戶之產品/加工限制而定義特殊的性質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HUTCHINSON expects its suppliers to conduct programs for operational excellence, whether organizational or technical for products or processes, to reach and maintain the best level of competition in their business sector.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T234937Z" creationid="CCYU" creationdate="20150528T234937Z">
+        <seg>HUTCHINSON 期望其供應商進行卓越運營的方案，無論是針對組織性或是產品或流程之技術性，能夠達到並維持其營業單位競爭的最佳水準。</seg>
       </tuv>
     </tu>
     <tu>
