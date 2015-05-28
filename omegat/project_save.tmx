@@ -1762,6 +1762,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Equipment conservation and maintenance expenses are the responsibility of the Supplier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111301Z" creationid="CCYU" creationdate="20150528T111301Z">
+        <seg>所有的設備養護和維修費用由供應商負責。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Router Tables equipped with air tools come prefitted with a water filter/separator (Please see picture below).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084633Z">
@@ -8708,6 +8716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Major indexes are updated when the Equipment is modified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111220Z" creationid="CCYU" creationdate="20150528T111220Z">
+        <seg>當設備進行修改後，將更新主要指標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure to change the network settings for your network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141702Z">
@@ -10288,6 +10304,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T150129Z" creationid="CCYU" creationdate="20150527T150129Z">
         <seg>頁碼 16 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 17 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111227Z" creationid="CCYU" creationdate="20150528T111227Z">
+        <seg>頁碼 17 / 27</seg>
       </tuv>
     </tu>
     <tu>
@@ -14667,6 +14691,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015054Z" creationid="Judy" creationdate="20150527T015054Z">
         <seg>供應商應負責產品進度和監控，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier is responsible for updating the date stamps for the duration of the equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111106Z" creationid="CCYU" creationdate="20150528T111106Z">
+        <seg>供應商負責的更新設備之維護時間日期戳記。</seg>
       </tuv>
     </tu>
     <tu>
