@@ -4566,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the business sector at the HUTCHINSON site in question, the Supplier may be subject to a guarantee refund.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T163138Z" creationid="CCYU" creationdate="20150528T163138Z">
+        <seg>依據 HUTCHINSON 之不同營業單位規定，能會退還保證金供應商可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the configuration of your machine you will need to provide 1, 2 or 3 separate power supplies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085637Z">
@@ -7784,6 +7792,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143921Z">
         <seg>這種情況下必須購買 4 套 Digifort 監控授權 + 分析軟體 + 4 組分析授權 (DGFPR1104V6 + DGFAN1000V1 + DGFAN1104V1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, a new expertise level will be required which takes into account the period between the production of the defective product and its return for analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T163215Z" creationid="CCYU" creationdate="20150528T163215Z">
+        <seg>於此情況下，一個新的專門知識水準將需要所考慮到的有缺陷的產品生產與它的回歸期分析。</seg>
       </tuv>
     </tu>
     <tu>
