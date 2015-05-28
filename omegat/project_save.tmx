@@ -19140,6 +19140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>complies with any information request for a lot,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133121Z" creationid="CCYU" creationdate="20150528T133121Z">
+        <seg>符合每一批貨物要求之任何資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>connections</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181240Z">
@@ -19365,6 +19373,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>makes registrations showing the compliance of the product,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133207Z" creationid="CCYU" creationdate="20150528T133207Z">
+        <seg>登記證明產品符合規範，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>materials including, but not limited to Graphic Foam boards, Closed Cell Foam, Plastic-covered Foam,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T132900Z">
@@ -19486,6 +19502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>respect the FIFO (First In, First Out) principle for all process stages,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133250Z" creationid="CCYU" creationdate="20150528T133250Z">
+        <seg>所有加工階段依據先進先出原則，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>seismic simulation tests.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145115Z">
@@ -19594,6 +19618,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025907Z" creationid="Judy" creationdate="20150527T025821Z">
         <seg>測量特性之數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>use a tracking system that connects the product to its different elements as well as its different production stages,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133034Z" creationid="CCYU" creationdate="20150528T133034Z">
+        <seg>使用連接產品與其不同的元件以及其不同生產階段之追蹤系統，</seg>
       </tuv>
     </tu>
     <tu>
