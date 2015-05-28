@@ -19276,6 +19276,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>change in the production line,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141005Z" creationid="CCYU" creationdate="20150528T140943Z">
+        <seg>生產線變更，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>change in the production site,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141003Z" creationid="CCYU" creationdate="20150528T141003Z">
+        <seg>生產廠房變更，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>change of subcontractor associated with the Supplier in the production process,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141106Z" creationid="CCYU" creationdate="20150528T141106Z">
+        <seg>供應商生產流程中相關外包商變更，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>clearances are available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131604Z">
@@ -19618,6 +19642,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144107Z">
         <seg>壓力腳和 T 形支架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>process change (raw materials, packaging, equipment/machines/tools...),</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140931Z" creationid="CCYU" creationdate="20150528T140931Z">
+        <seg>流變更更（原料、包裝、設備/機台/工具……），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>product evolution (...).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141208Z" creationid="CCYU" creationdate="20150528T141208Z">
+        <seg>產品演變 (……)。</seg>
       </tuv>
     </tu>
     <tu>
