@@ -1794,6 +1794,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All actions required to reach the service rate targets will be taken.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133600Z" creationid="CCYU" creationdate="20150528T133600Z">
+        <seg>將採取一切行動以達到服務評等目標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All events generated in the video analysis modules can be searched via records with the opportunity to seek your footage on NVR system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071934Z">
@@ -16224,6 +16232,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The supplier agrees to guarantee the safety of persons and products with regard to packaging, labelling, documentation and the supplies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133523Z" creationid="CCYU" creationdate="20150528T133523Z">
+        <seg>供應商同意貨物之包裝、標籤、文件和供應各方面皆能保障人員和產品安全。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The supplier must be able to communicate in the language of the HUTCHINSON facility in question or, as a default, English.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154100Z" creationid="CCYU" creationdate="20150525T154100Z">
@@ -16244,6 +16260,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191209Z" creationid="Judy" creationdate="20150526T190949Z">
         <seg>無論資訊的來源，供應商應發送所有的淘汰通知予以 HUTCHINSON，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supplier shall self-assess its logistic system once a year, usually according to the MMOG/LE model.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133640Z" creationid="CCYU" creationdate="20150528T133640Z">
+        <seg>供應商應每年自我評估其物流系統一次，通常根據 MMOG/LE 模型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19144,6 +19168,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133121Z" creationid="CCYU" creationdate="20150528T133121Z">
         <seg>符合每一批貨物要求之任何資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>conduct regular inverse tracking audits, particularly as concerns products subject to security and/or regulations,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133402Z" creationid="CCYU" creationdate="20150528T133402Z">
+        <seg>進行定期追蹤審核，特別是有安全和法規相關考量的產品。</seg>
       </tuv>
     </tu>
     <tu>
