@@ -9638,8 +9638,8 @@
       <tuv lang="EN-US">
         <seg>Once the component is authorized by HUTCHINSON, the Supplier must attach an ownership plaque (or if the location where the Equipment is maintained/repaired does not allow it, the Supplier must, if necessary, engrave the Equipment) with the following elements provided by HUTCHINSON: the name of the owner of the Equipment and number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T105702Z" creationid="CCYU" creationdate="20150528T105702Z">
-        <seg>一旦元件經由 HUTCHINSON 授權後，供應商必須貼上所有權銘板 （若設備維護/修理所在處無法貼上銘板，如有必要供應商必須刻寫於設備上） 與由哈欽森提供的以下元素： 設備和數量的擁有者的名稱。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T105828Z" creationid="CCYU" creationdate="20150528T105702Z">
+        <seg>一旦元件經由 HUTCHINSON 授權後，供應商必須貼上所有權銘板 （若設備維護/修理所在處無法貼上銘板，如有必要供應商必須刻寫於設備上），銘板上包含 HUTCHINSON 提供的以下資訊：設備所有者名稱和數量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14731,6 +14731,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T000016Z" creationid="Judy" creationdate="20150528T000016Z">
         <seg>供應商不得在未經 HUTCHINSON 事先書面同意下更改設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier must prove that this step has been completed by sending 1) a photograph of all the Equipment with its plaque; a part must be visible on the picture; and 2) a detailed photograph of the plaque or engraving.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T105907Z" creationid="CCYU" creationdate="20150528T105907Z">
+        <seg>供應商必須證明已完成此步驟，可已經完成通過發送 1） 與它的斑塊 ； 所有的設備的照片部分必須是可見的圖片 ；和 2） 的斑塊或雕刻的詳細的照片。</seg>
       </tuv>
     </tu>
     <tu>
