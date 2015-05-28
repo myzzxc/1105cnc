@@ -6082,6 +6082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the re-qualification of the product, the Supplier provides an initial samples file before any new delivery of this product based on the modified process, regardless of the nature of the changes made to the initial process:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140848Z" creationid="CCYU" creationdate="20150528T140848Z">
+        <seg>對於產品的資格重審，無論最初的流程所做的變改性質為何，供應商應於所有新產品交付前，提供一個根據變更流程所生產之初始樣品檔案：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the tracker to know what an ‘object’ is it must know how to separate the background from the people/cars/ etc moving in the foreground.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T102817Z">
@@ -15011,6 +15019,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T131205Z" creationid="CCYU" creationdate="20150528T131129Z">
         <seg>對於任何系列交付的產品，供應商同意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Supplier of any serial product delivered firmly agrees to inform HUTCHINSON about any delay that could require a change in its production process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140556Z" creationid="CCYU" creationdate="20150528T140556Z">
+        <seg>任何系列交付之產品供應商同意通知 HUTCHINSON 關於任何因延遲而可能需要變更之生產流程。</seg>
       </tuv>
     </tu>
     <tu>
