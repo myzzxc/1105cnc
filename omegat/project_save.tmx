@@ -5922,6 +5922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For all the HUTCHINSON Group's suppliers, the following cases will systematically trigger a monitoring mechanism prior to the escalation process:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160644Z" creationid="CCYU" creationdate="20150528T160644Z">
+        <seg>對於 HUTCHINSON 集團的所有供應商，於下列情況下，系統會於應變措施升級流程前觸發監控機制：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For any other product, international standard ISO 9001.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154616Z" creationid="CCYU" creationdate="20150525T154616Z">
@@ -9504,6 +9512,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173455Z" creationid="Judy" creationdate="20150526T173455Z">
         <seg>HUTCHINSON 技術文件或規格不能取代這些正式的條文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-compliance of a characteristic subject to regulation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160854Z" creationid="CCYU" creationdate="20150528T160854Z">
+        <seg>未符合法規之特性規範</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-compliance of a safety characteristic or a safety risk, irrespective of the characteristic (sharp edges on a part, dangerous packaging, etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160819Z" creationid="CCYU" creationdate="20150528T160804Z">
+        <seg>未符合安全特性或安全風險規範，無論何種性質（零件銳利邊緣、危險的包裝等等）。</seg>
       </tuv>
     </tu>
     <tu>
