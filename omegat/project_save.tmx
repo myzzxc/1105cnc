@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2543,8 +2543,8 @@
       <tuv lang="EN-US">
         <seg>Audits at the initiative of HUTCHINSON or its client may be performed by HUTCHINSON (or by an appointed third party) in the premises of any Supplier where the quality or logistic performance does not comply with the objectives set by HUTCHINSON or show a significant depreciation over several months.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T164338Z" creationid="CCYU" creationdate="20150528T164338Z">
-        <seg>當供應商品質或物流績效不符合 HUTCHINSON 設置之目標或於幾個月內品質大幅滑落時，HUTCHINSON 或其客戶端要求於供應商之廠房進行之審核可由 HUTCHINSON （或指定之第三方廠商）執行。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T233342Z" creationid="CCYU" creationdate="20150528T164338Z">
+        <seg>當供應商品質或物流績效不符合 HUTCHINSON 設置之目標或於幾個月內品質大幅滑落時，HUTCHINSON 或其客戶端要求於供應商之廠房進行之審核可由 HUTCHINSON （或指定之第三方）執行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17100,6 +17100,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133150Z">
         <seg>因此，應設有冷凝管路使疏水後沒有回壓，且外殼上應設有真空斷路器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These audits at the initiative of HUTCHINSON or its client may be performed by HUTCHINSON (or a third party organization appointed by HUTCHISON) in the premises of any of HUTCHINSON Suppliers’ subcontractor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T233328Z" creationid="Judy" creationdate="20150528T233328Z">
+        <seg>由 HUTCHINSON 或其客戶端要求於供應商外包廠商之廠房進行之審核可由 HUTCHINSON （或 HUTCHISON 指定之第三方機構）執行。</seg>
       </tuv>
     </tu>
     <tu>
