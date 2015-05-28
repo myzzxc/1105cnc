@@ -9636,6 +9636,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the component is authorized by HUTCHINSON, the Supplier must attach an ownership plaque (or if the location where the Equipment is maintained/repaired does not allow it, the Supplier must, if necessary, engrave the Equipment) with the following elements provided by HUTCHINSON: the name of the owner of the Equipment and number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T105702Z" creationid="CCYU" creationdate="20150528T105702Z">
+        <seg>一旦元件經由 HUTCHINSON 授權後，供應商必須貼上所有權銘板 （若設備維護/修理所在處無法貼上銘板，如有必要供應商必須刻寫於設備上） 與由哈欽森提供的以下元素： 設備和數量的擁有者的名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the trucks have been loaded, the data log must be started so that a record is kept of the environmental conditions throughout the journey.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051845Z">
