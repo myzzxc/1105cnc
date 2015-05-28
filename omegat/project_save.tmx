@@ -2186,6 +2186,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any complaint may lead to the implementation of stronger controls for the product in question, which will be stopped as soon as the means that the Supplier implemented to eliminate the cause of the complaint have brought proof of their efficiency for HUTCHINSON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T145738Z" creationid="CCYU" creationdate="20150528T145738Z">
+        <seg>任何投訴可能會導致對問題產品更嚴厲的管控，當供應商消除投訴問題之原因並向 HUTCHINSON 證明其效率後，將儘快解除管控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any costs related to these action plans shall be discussed by HUTCHINSON and the Supplier.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T115833Z" creationid="CCYU" creationdate="20150528T115833Z">
@@ -7638,8 +7646,8 @@
       <tuv lang="EN-US">
         <seg>In the special case of a product delivered during "deferral," it will be part of a special repair.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T145023Z" creationid="CCYU" creationdate="20150528T145023Z">
-        <seg>於延遲“在產品交付期間"推遲"的特例，它將專用修復的一部分。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T145305Z" creationid="CCYU" creationdate="20150528T145023Z">
+        <seg>於特殊“延遲”情形下，該期間交付之產品將作為特殊維修的一部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16788,6 +16796,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133150Z">
         <seg>因此，應設有冷凝管路使疏水後沒有回壓，且外殼上應設有真空斷路器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These control surcharges will be billed to the Supplier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T145831Z" creationid="CCYU" creationdate="20150528T145821Z">
+        <seg>管控之附加費用將由供應商支付。</seg>
       </tuv>
     </tu>
     <tu>
