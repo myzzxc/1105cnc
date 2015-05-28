@@ -14582,6 +14582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supplier is required to inform HUTCHINSON about any change in the geographic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T000642Z" creationid="Judy" creationdate="20150528T000642Z">
+        <seg>供應商需告知 HUTCHINSON 任何設備位置變更且變更前必須事先取得 HUTCHINSON 同意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Supplier is responsible for compliance with the requirements set forth in the regulatory texts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173343Z" creationid="Judy" creationdate="20150526T173131Z">
@@ -19000,6 +19008,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183200Z">
         <seg>11b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>location of the equipment and must first obtain HUTCHINSON'S permission before making any change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T000649Z" creationid="Judy" creationdate="20150528T000649Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
