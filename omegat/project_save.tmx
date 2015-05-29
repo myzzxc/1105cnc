@@ -7074,6 +7074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IOD(DefinitiveEquipmentParts): Parts from definitive equipment and means in order to create product/process qualifications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T002305Z" creationid="CCYU" creationdate="20150529T002305Z">
+        <seg>IOD（固定設備零件）：由固定設備和方法所生產之零件，用於產品和流程審核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IP67-rated:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133547Z">
