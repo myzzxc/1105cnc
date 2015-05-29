@@ -6378,6 +6378,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fundamental Purchasing Principles HUT DQ G32 (SlogM) Supplier Logistics Manual</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020343Z" creationid="Judy" creationdate="20150529T020343Z">
+        <seg>Fundamental Purchasing Principles （基本採購原則）
+HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fusing Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050537Z">
@@ -6582,6 +6591,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091801Z">
         <seg>HSD 主軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HUTCHINSON General Purchase Conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020256Z" creationid="Judy" creationdate="20150529T020256Z">
+        <seg>HUTCHINSON General Purchase Conditions （HUTCHINSON 通用採購條款）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10948,6 +10965,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page 26 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020434Z" creationid="Judy" creationdate="20150529T020434Z">
+        <seg>頁碼 26 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 27 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020445Z" creationid="Judy" creationdate="20150529T020445Z">
+        <seg>頁碼 27 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page 3 of 11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105517Z">
@@ -11962,6 +11995,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001419Z" creationid="CCYU" creationdate="20150525T152743Z">
         <seg>產品原型交貨要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product/Process Audit Report</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020227Z" creationid="Judy" creationdate="20150529T020227Z">
+        <seg>Product/Process Audit Report （產品/流程報告）</seg>
       </tuv>
     </tu>
     <tu>
@@ -17438,6 +17479,14 @@ HUT DQ FP1001</seg>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121315Z" creationid="CCYU" creationdate="20150524T121315Z">
         <seg>這些影片展示出完成 PDF 建立/轉檔、文件組合和加密的相關工作流程是如此的簡單，甚至可以使用 Nuance 世界知名的語音辨識技術。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These documents are available on the HUTCHINSON purchasing tool portal at the following address: https://ivalua.hutchinson.fr/</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020428Z" creationid="Judy" creationdate="20150529T020428Z">
+        <seg>可於 HUTCHINSON 採購工具入口網站取得上述文件，網址為： https://ivalua.hutchinson.fr/</seg>
       </tuv>
     </tu>
     <tu>
