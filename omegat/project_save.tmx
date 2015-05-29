@@ -951,6 +951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A good delivery for a supplier is a timely delivery (not late or early) of the part or product specified in the order, in compliance with the quantity ordered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015835Z" creationid="Judy" creationdate="20150529T015835Z">
+        <seg>優良的交付貨物為供應商準時交付訂購之零件或產品（未提早或延遲），且交貨數量符合訂購量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A good server will behave around 16 licenses (Base INTEL CORE I7 940).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140801Z">
@@ -10920,6 +10928,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235916Z" creationid="CCYU" creationdate="20150528T235916Z">
         <seg>頁碼 24 / 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page 25 / 27</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015553Z" creationid="Judy" creationdate="20150529T015553Z">
+        <seg>頁碼 25 / 27</seg>
       </tuv>
     </tu>
     <tu>
