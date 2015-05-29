@@ -14094,6 +14094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supplierservicerate : this is the ratio expressed as a percentage between</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015546Z" creationid="Judy" creationdate="20150529T015527Z">
+        <seg>供應商服務評等：優良交付貨物數量占總交付貨物總數的百分比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supply chain incidents (delays, damaged goods, unsuitable packaging, etc.) will be declared as non-compliant, as defined in §8 of this document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134815Z" creationid="CCYU" creationdate="20150528T134815Z">
@@ -20374,6 +20382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>on the total purchase value of the products delivered in the same period</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015328Z" creationid="Judy" creationdate="20150529T015328Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>on the total quantity of the products delivered in the same period</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014959Z" creationid="Judy" creationdate="20150529T014959Z">
@@ -20558,6 +20574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the number of good deliveries and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015530Z" creationid="Judy" creationdate="20150529T015530Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the quality level delivered (complaints, PPM, CPM) and its internal quality level,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132401Z" creationid="CCYU" creationdate="20150528T132401Z">
@@ -20582,10 +20606,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the total number of deliveries</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015535Z" creationid="Judy" creationdate="20150529T015535Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the value of the material rejected by the HUTCHINSON site for a given time period</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015236Z" creationid="Judy" creationdate="20150529T015236Z">
-        <seg>每百萬件產品退回的數量比率表示。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015325Z" creationid="Judy" creationdate="20150529T015236Z">
+        <seg>每百萬元產品退回的價值比率表示。</seg>
       </tuv>
     </tu>
     <tu>
