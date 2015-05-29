@@ -14078,10 +14078,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SupplierCPM : this is the Ratio expressed in Costs Per Million of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015225Z" creationid="Judy" creationdate="20150529T015127Z">
+        <seg>供應商 CPM：於特定期間內，由 HUTCHINSON 退回之材料價值占交付產品採購總價值之比率，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SupplierPPM : this is the Ratio expressed in Parts Per Million of</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014901Z" creationid="Judy" creationdate="20150529T014901Z">
-        <seg>供應商 PPM：於特定期間內，交付產品總數之中由 HUTCHINSON 退回。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015136Z" creationid="Judy" creationdate="20150529T014901Z">
+        <seg>供應商 PPM：於特定期間內，由 HUTCHINSON 退回之產品數量占交付產品總數之比率，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20366,6 +20374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>on the total quantity of the products delivered in the same period</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014959Z" creationid="Judy" creationdate="20150529T014959Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>organize the securitization of the inventory (supplier inventory, inventory in transit, HUTCHINSON inventory and defective parts delivered by HUTCHINSON to its clients) as well as future deliveries to HUTCHINSON of problematic supplies,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144047Z" creationid="CCYU" creationdate="20150528T144047Z">
@@ -20552,8 +20568,8 @@
       <tuv lang="EN-US">
         <seg>the quantity of the products rejected by the HUTCHINSON site for a given time period</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014903Z" creationid="Judy" creationdate="20150529T014903Z">
-        <seg>以每百萬件產品退回的數量比率表示，the quantity of the products rejected by the HUTCHINSON site for a given time period</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014955Z" creationid="Judy" creationdate="20150529T014903Z">
+        <seg>以每百萬件產品退回的數量比率表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20562,6 +20578,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030753Z" creationid="Judy" creationdate="20150527T030753Z">
         <seg>樣品或樣品零件或其它照片，供 HUTCHINSON 確認其提供之初始樣本符合必須遵守之不同的“非量化”標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the value of the material rejected by the HUTCHINSON site for a given time period</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015236Z" creationid="Judy" creationdate="20150529T015236Z">
+        <seg>每百萬件產品退回的數量比率表示。</seg>
       </tuv>
     </tu>
     <tu>
