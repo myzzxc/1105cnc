@@ -5703,6 +5703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FeasibilityCommitment : Commitment written and signed by a supplier guaranteeing its ability to meet the explicit and implicit requirements for HUTCHINSON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T003101Z" creationid="CCYU" creationdate="20150529T003101Z">
+        <seg>可行性承諾：書面承諾並由供應商簽署保證其具有能力滿足 HUTCHINSON 之哈欽森的明確性和隱性的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015416Z" creationid="CCYU" creationdate="20150524T015416Z">
