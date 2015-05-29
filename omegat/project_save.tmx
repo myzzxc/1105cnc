@@ -17266,6 +17266,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The top line is the DARIO MARTINI ® collection which comprises a wide range of models for men but also, in particular, models for women enhanced with original SWAROVSKI ® crystals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T023248Z" creationid="Judy" creationdate="20150529T023248Z">
+        <seg>最高級個產線為 DARIO MARTINI® 系列，其中包含了為男性設計的許多款式，但也有專為女性設計、鑲上施華洛世奇®水晶的款式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tracker can work out what is background and what are foreground object pixels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T131846Z">
