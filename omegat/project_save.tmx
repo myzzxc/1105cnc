@@ -1746,6 +1746,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After ten years, he decided to move on to the production of finished metal spectacle frames and, after attending various courses in design, he created the collection that bears his own name, thus highlighting his creativeness.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T024833Z" creationid="Judy" creationdate="20150529T024833Z">
+        <seg>十年過後，他決定開始生產完整金屬眼鏡框，於參加各種設計課程之後，他建立了以他自己名字命名的品牌，以突顯出他的創造性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the processor resets, the bootloader starts, remaining active for about 8 seconds.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142513Z">
