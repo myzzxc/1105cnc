@@ -9037,6 +9037,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Located in the heart of the Cadore Valley, renowned for its enchanting landscapes, MARTINI OCCHIALI has always kept up with the latest in fashion by continuously updating its product lines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T022054Z" creationid="Judy" creationdate="20150529T021941Z">
+        <seg>MARTINI OCCHIALI 公司位於風景迷人的卡多雷河谷 (Cadore Valley) 中心，透過不斷更新其產品線使產品隨時保持最時尚的設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loitering:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060921Z">
