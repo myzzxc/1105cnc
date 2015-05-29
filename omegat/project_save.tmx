@@ -11461,6 +11461,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PokaYoke(anti-errorsystem): Prevention method that aims to prohibit, by simple means, any error that could have a negative influence on a system (visual, audio, etc).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014440Z" creationid="Judy" creationdate="20150529T014440Z">
+        <seg>PokaYoke （防錯系統）：一種預防方法，透過簡單的方法以防止任何可能對系統產生負面影響（視覺、 聲音等）的錯誤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pop-Up Location Pins</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082132Z">
