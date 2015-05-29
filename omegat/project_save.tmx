@@ -14110,6 +14110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SurveillancePlan: A preventative work document allowing all verification actions performed to ensure that the specific requirements have been met.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014125Z" creationid="Judy" creationdate="20150529T014125Z">
+        <seg>監測計畫：執行所有驗證行動以確保符合特定要求的預防性工作文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sustained tension residual capacity, confined test</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T175003Z">
