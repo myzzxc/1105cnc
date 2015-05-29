@@ -7988,6 +7988,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>InitialSamples(EI): These are the first parts of a new supply performed using serial means and/or means representing the serial conditions intended for qualification trials for their acceptance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T002709Z" creationid="CCYU" creationdate="20150529T002709Z">
+        <seg>初始樣品 (EI)：使用序列方式或代表序列條件之方法交付之第一件新供應零件，用於進行合格檢驗以完成驗收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Injection in clear tube</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183046Z">
