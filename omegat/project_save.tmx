@@ -10548,6 +10548,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PPAP(ProductionPartsApprovalProcess): This is the production parts approval process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T002822Z" creationid="CCYU" creationdate="20150529T002822Z">
+        <seg>PPAP（產品零件核可流程）：產品零件的核可流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRE-INSTALLATION GUIDE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T074732Z">
