@@ -1167,6 +1167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AMDEC: Default Method, Effect and Critical Level Analysis (see standard NF-X 60-510): Quantitative prevention method analysis of the reliability of a system by determining, in terms of severity and occurrences, the effects of each default method and their critical impact on other system elements and/or functions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T000920Z" creationid="CCYU" creationdate="20150529T000920Z">
+        <seg>AMDEC：預設的方法、效果和關鍵水準分析（請見 NF-X 60 510 標準）：根據每個預設方法之影響和其對其它系統元件或功能的關鍵影響（嚴重程度和事件）以決定系統可靠性的量化預防措施分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AND with Adobe you’re paying for features that the most users simply don’t need…or want (for publishers, graphic designers, and architects – not financial services professionals)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130612Z" creationid="CCYU" creationdate="20150524T130612Z">
@@ -17654,6 +17662,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155313Z">
         <seg>當攝影機設定為夜間模式時，損失的顏色資訊也會是一個問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is an inductive method impacting the risk of design default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001043Z" creationid="CCYU" creationdate="20150529T001043Z">
+        <seg>此為設計違約風險影響的歸納方法。</seg>
       </tuv>
     </tu>
     <tu>
