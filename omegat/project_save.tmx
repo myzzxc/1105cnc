@@ -2983,8 +2983,8 @@
       <tuv lang="EN-US">
         <seg>Before any delivery, the Supplier must ensure compliance - with the HUTCHINSON technical requirements - of the prototype parts that it will deliver.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025348Z" creationid="Judy" creationdate="20150527T025348Z">
-        <seg>供應商必須在所有交付之前，確保其交付之打樣零件符合 HUTCHINSON 之技術要求。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001419Z" creationid="Judy" creationdate="20150527T025348Z">
+        <seg>供應商必須在所有交付之前，確保其交付之原型符合 HUTCHINSON 之技術要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4570,6 +4570,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063757Z" creationid="CCYU" creationdate="20150524T063440Z">
         <seg>高度支援 PDF 標準（PDF/A、標籤 (Tagging)、封包 (Packaging)、組合 (Portfolios)、等等……）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deferral: Written and signed agreement between HUTCHINSON and a HUTCHINSON supplier authorizing the latter to deliver to the former a product that does not exactly meet the specifications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001318Z" creationid="CCYU" creationdate="20150529T001318Z">
+        <seg>延遲： HUTCHINSON 和  HUTCHINSON 供應商之間的書面簽署協定， HUTCHINSON 授權其供應商交付不完全符合規範的產品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11872,8 +11880,8 @@
       <tuv lang="EN-US">
         <seg>Product Prototype Part Delivery Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152743Z" creationid="CCYU" creationdate="20150525T152743Z">
-        <seg>產品打樣零件交貨要求</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001419Z" creationid="CCYU" creationdate="20150525T152743Z">
+        <seg>產品原型交貨要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -11944,8 +11952,8 @@
       <tuv lang="EN-US">
         <seg>Prototype Part Delivery Requirements (components)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152648Z" creationid="CCYU" creationdate="20150525T152648Z">
-        <seg>打樣零件交貨要求（元件）</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001419Z" creationid="CCYU" creationdate="20150525T152648Z">
+        <seg>原型交貨要求（元件）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13936,8 +13944,8 @@
       <tuv lang="EN-US">
         <seg>Subsequently, each delivery of the prototype parts to HUTCHINSON must be accompanied, at a minimum, by the following documents:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025531Z" creationid="Judy" creationdate="20150527T025531Z">
-        <seg>隨後，每項交付 HUTCHINSON 之打樣零件必須至少附有下列文件：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001419Z" creationid="Judy" creationdate="20150527T025531Z">
+        <seg>隨後，每項交付 HUTCHINSON 之原型必須至少附有下列文件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16554,16 +16562,16 @@
       <tuv lang="EN-US">
         <seg>The prototype requirements are part of a special order specifying the context (technical files) and the conditions under which they are provided.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025408Z" creationid="Judy" creationdate="20150527T025204Z">
-        <seg>打樣零件要求為指明內容（技術檔案）和其提供條件之特殊訂單的一部分。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001419Z" creationid="Judy" creationdate="20150527T025204Z">
+        <seg>原型要求為指明內容（技術檔案）和其提供條件之特殊訂單的一部分。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The prototype requirements are part of an order specifying the context (technical files) and the conditions under which they are provided.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141107Z" creationid="CCYU" creationdate="20150527T141107Z">
-        <seg>打樣零件要求為指明內容（技術檔案）和其提供條件之訂單的一部分。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001419Z" creationid="CCYU" creationdate="20150527T141107Z">
+        <seg>原型要求為指明內容（技術檔案）和其提供條件之訂單的一部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20816,8 +20824,8 @@
       <tuv lang="EN-US">
         <seg>"PROTOTYPE PART"</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141415Z" creationid="CCYU" creationdate="20150527T141415Z">
-        <seg>“打樣零件”</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001438Z" creationid="CCYU" creationdate="20150527T141415Z">
+        <seg>“原型”</seg>
       </tuv>
     </tu>
     <tu>
