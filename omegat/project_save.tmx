@@ -11958,6 +11958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prototype(s): First example(s) of a product created based on a process not provided to validate a design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001712Z" creationid="CCYU" creationdate="20150529T001705Z">
+        <seg>原型：根據未經驗證之流程所建立的第一組產品樣品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide 8-bit PWM output with the analogWrite() function.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131839Z">
