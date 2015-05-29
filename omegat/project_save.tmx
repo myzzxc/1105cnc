@@ -1177,8 +1177,8 @@
       <tuv lang="EN-US">
         <seg>AMDEC: Default Method, Effect and Critical Level Analysis (see standard NF-X 60-510): Quantitative prevention method analysis of the reliability of a system by determining, in terms of severity and occurrences, the effects of each default method and their critical impact on other system elements and/or functions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T000920Z" creationid="CCYU" creationdate="20150529T000920Z">
-        <seg>AMDEC：預設的方法、效果和關鍵水準分析（請見 NF-X 60 510 標準）：根據每個預設方法之影響和其對其它系統元件或功能的關鍵影響（嚴重程度和事件）以決定系統可靠性的量化預防措施分析。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025644Z" creationid="CCYU" creationdate="20150529T000920Z">
+        <seg>AMDEC：預設方法、效果和關鍵水準分析（請見 NF-X 60 510 標準）：根據每個預設方法之影響和其對其它系統元件或功能的關鍵影響（嚴重程度和事件）以決定系統可靠性的量化預防措施分析。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5409,8 +5409,8 @@
       <tuv lang="EN-US">
         <seg>Even today, when he gets inspired, maybe when he’s having a day off, he does not hesitate to set to work, designing the latest DARIO MARTINI ® model</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025440Z" creationid="Judy" creationdate="20150529T025440Z">
-        <seg>即使到了今天，當他得到靈感，也許當他正在休息，一天他並毫不猶豫地著手工作，設計最新的達裡奧馬提尼 ® 模型</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025554Z" creationid="Judy" creationdate="20150529T025440Z">
+        <seg>即使到了今天，當靈感來時，即使他正在休息也會毫不猶豫地進行工作，設計出最新的 DARIO MARTINI ® 款式</seg>
       </tuv>
     </tu>
     <tu>
@@ -6436,8 +6436,8 @@
       <tuv lang="EN-US">
         <seg>FullFrequencyEvaluation(EPC): Appreciation, in a given period, of the production capacity of the Supplier to reach the industrial performance objectives (quality, capacity, etc.) defined during the study phase.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T013732Z" creationid="Judy" creationdate="20150529T013732Z">
-        <seg>全頻評估(EPC)：於特定期間內，評估供應商的產能達到學習階段所定義之工業績效目標（品質、 能力等）。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025831Z" creationid="Judy" creationdate="20150529T013732Z">
+        <seg>全頻評估 (EPC)：於特定期間內，評估供應商的產能達到學習階段所定義之工業績效目標（品質、 能力等）。</seg>
       </tuv>
     </tu>
     <tu>
