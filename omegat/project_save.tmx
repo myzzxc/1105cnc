@@ -8500,6 +8500,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is implicit that they must be conducted at the site mentioned in the order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015939Z" creationid="Judy" creationdate="20150529T015939Z">
+        <seg>此為隱性要求，供應商必須向訂購方咨詢確切要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is important that quality control staff check carcasses before they enter the prechiller.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T044213Z">
@@ -14086,6 +14094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supplier Pre-Evaluation Audit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020123Z" creationid="Judy" creationdate="20150529T020123Z">
+        <seg>Supplier Pre-Evaluation Audit （供應商預先評估審核）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supplier Process Qualification Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152839Z" creationid="CCYU" creationdate="20150525T152839Z">
@@ -14178,6 +14194,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z">
         <seg>藉由獨特內部旋渦式設計能高效率地吸取切屑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Audit Report – Supplier Evaluation HUT DQ FP1001</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020200Z" creationid="Judy" creationdate="20150529T020200Z">
+        <seg>System Audit Report – Supplier Evaluation （系統審核報告 —— 供應商評估）
+HUT DQ FP1001</seg>
       </tuv>
     </tu>
     <tu>
@@ -16212,6 +16237,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081720Z">
         <seg>下列圖表提供詳細資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following reference documents may be consulted in order to provide more complete information on the HUTCHINSON requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020057Z" creationid="Judy" creationdate="20150529T020057Z">
+        <seg>可參考下列文件以獲得關於 HUTCHINSON 要求的更完整的資訊。</seg>
       </tuv>
     </tu>
     <tu>
