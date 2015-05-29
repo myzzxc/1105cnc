@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6358,6 +6358,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033552Z">
         <seg>冰點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FullFrequencyEvaluation(EPC): Appreciation, in a given period, of the production capacity of the Supplier to reach the industrial performance objectives (quality, capacity, etc.) defined during the study phase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T013732Z" creationid="Judy" creationdate="20150529T013732Z">
+        <seg>全頻評估(EPC)：於特定期間內，評估供應商的產能達到學習階段所定義之工業績效目標（品質、 能力等）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13226,6 +13234,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190049Z" creationid="CCYU" creationdate="20150525T124849Z">
         <seg>確保交貨計畫要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SecurityPlan: Document specifying all the provisions to be implemented by the Supplier to remedy any supply or delivery default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T013937Z" creationid="Judy" creationdate="20150529T013937Z">
+        <seg>確保交貨計畫：文件中訂定之所有規範，由供應商對任何供應或交付違約所進行之補救。</seg>
       </tuv>
     </tu>
     <tu>
