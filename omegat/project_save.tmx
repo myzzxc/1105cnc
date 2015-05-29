@@ -14078,6 +14078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SupplierPPM : this is the Ratio expressed in Parts Per Million of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014901Z" creationid="Judy" creationdate="20150529T014901Z">
+        <seg>供應商 PPM：於特定期間內，交付產品總數之中由 HUTCHINSON 退回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supply chain incidents (delays, damaged goods, unsuitable packaging, etc.) will be declared as non-compliant, as defined in §8 of this document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134815Z" creationid="CCYU" creationdate="20150528T134815Z">
@@ -20538,6 +20546,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132401Z" creationid="CCYU" creationdate="20150528T132401Z">
         <seg>交付之品質水準（客訴、PPM、CPM）與其內部品質等級，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the quantity of the products rejected by the HUTCHINSON site for a given time period</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014903Z" creationid="Judy" creationdate="20150529T014903Z">
+        <seg>以每百萬件產品退回的數量比率表示，the quantity of the products rejected by the HUTCHINSON site for a given time period</seg>
       </tuv>
     </tu>
     <tu>
