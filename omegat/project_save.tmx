@@ -3870,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090827Z" creationid="CCYU" creationdate="20150530T090813Z">
+        <seg>點擊 Connectors，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click General.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051638Z" creationid="CCYU" creationdate="20150530T051638Z">
@@ -8896,8 +8904,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Installation of Nuance Cloud Connector in Distributed Environments</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014242Z" creationid="CCYU" creationdate="20150530T014242Z">
-        <seg>於分散式環境中安裝 Nuance 雲端連接器</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090909Z" creationid="CCYU" creationdate="20150530T014242Z">
+        <seg>於分散式環境中安裝 Nuance 雲端連接點</seg>
       </tuv>
     </tu>
     <tu>
@@ -16194,6 +16202,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Connectors group lets you include cloud and DMS integration in your customized install package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090858Z" creationid="CCYU" creationdate="20150530T090807Z">
+        <seg>Connectors （連接點）群組中可以加入雲端伺服器和 DMS 整合至自訂安裝程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Customization Kit helps to create a personalized package of Nuance Power PDF Advanced for organization-wide deployment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T042011Z" creationid="CCYU" creationdate="20150530T034642Z">
@@ -16404,8 +16420,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>The Other Integrations group offers options for non-Office applications</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090546Z" creationid="CCYU" creationdate="20150530T090546Z">
-        <seg>Other Integrations （其它整合）群組中提供非 Office 應用程式的類似選項</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090607Z" creationid="CCYU" creationdate="20150530T090546Z">
+        <seg>Other Integrations （其它整合）群組中提供非 Office 應用程式選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -17623,6 +17639,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045206Z">
         <seg>預冷和冷卻的時間需遵守各公司所制訂之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list of available connectors is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090845Z" creationid="CCYU" creationdate="20150530T090845Z">
+        <seg>將顯示可用的連接點</seg>
       </tuv>
     </tu>
     <tu>
