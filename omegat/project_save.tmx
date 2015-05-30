@@ -6522,6 +6522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more detailed information about this, please read the System Requirements section of the product Release Notes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024910Z" creationid="CCYU" creationdate="20150530T024910Z">
+        <seg>更多詳細的相關資訊，請閱讀產品版本資訊中的系統要求部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For other business sectors, a supplier who is not certified must be recognized as meeting HUTCHINSON needs (operational and effective system).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T155442Z" creationid="CCYU" creationdate="20150525T155311Z">
@@ -17460,8 +17468,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>The product requires the ’Windows Installer v3.1’, ’Microsoft XML Core Services 6.0 SP1’ packages to be installed on the client computers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024617Z" creationid="CCYU" creationdate="20150530T024617Z">
-        <seg>產品需要預先安裝 "Windows Installer v3.1"、"Microsoft XML Core Services 6.0 SP1"。在用戶端電腦上安裝封裝程式。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024713Z" creationid="CCYU" creationdate="20150530T024617Z">
+        <seg>產品需要在用戶端電腦上預先安裝 "Windows Installer v3.1"、"Microsoft XML Core Services 6.0 SP1" 套裝程式。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19073,6 +19081,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152430Z" creationid="CCYU" creationdate="20150524T143326Z">
         <seg>為了達到我們卓越的目標並滿足客戶的需求，整個供應鏈必須共同參與，且我們期望供應商能主動參與此流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To save DOCX, XLSX and PPTX files (for Microsoft Office Word, Excel and PowerPoint) you should have or install the Microsoft .NET 4.0 Framework.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024821Z" creationid="CCYU" creationdate="20150530T024821Z">
+        <seg>若要儲存 DOCX、XLSX 和 PPTX 檔案（用於 Microsoft Office Word、Excel、PowerPoint），必須安裝 Microsoft .NET 4.0 Framework。</seg>
       </tuv>
     </tu>
     <tu>
