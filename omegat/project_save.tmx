@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click General.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051638Z" creationid="CCYU" creationdate="20150530T051638Z">
+        <seg>點擊 General （一般選項）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Open Package in the Home ribbon and select the supplied msi file.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040519Z" creationid="CCYU" creationdate="20150530T040519Z">
@@ -14207,6 +14215,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select all/none or any one of them and mark the ones you want to lock.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051557Z" creationid="CCYU" creationdate="20150530T051557Z">
+        <seg>選擇 all/none （全選/取消選擇），並勾選需鎖定修改之項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting the supplier / bid</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153430Z" creationid="CCYU" creationdate="20150525T153430Z">
@@ -17566,6 +17582,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130134Z">
         <seg>全新 AXYZ 智慧主控台帶來了前所未有的易用功能選單、即時機台狀態顯示以及更多的省時、實用和高產能功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next group of options lets you set a variety of generic parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051623Z" creationid="CCYU" creationdate="20150530T051623Z">
+        <seg>下一個群組中的選項可設定各種一般參數。</seg>
       </tuv>
     </tu>
     <tu>
