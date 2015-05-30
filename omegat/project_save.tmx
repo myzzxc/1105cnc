@@ -1618,6 +1618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access in browsers depends on the selected application.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090108Z" creationid="CCYU" creationdate="20150530T090108Z">
+        <seg>瀏覽器中的存取權限取決於所選的應用程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accessing the installed product from clients</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012749Z" creationid="CCYU" creationdate="20150530T012749Z">
@@ -8288,6 +8296,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144941Z" creationid="CCYU" creationdate="20150524T144941Z">
         <seg>於 2014 年，集團採購部門購買了 IValua Buyer 作業工具，使供應商能進行連接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Lotus Notes, PDF functionality is available from the Actions menu of a mailbox and a message.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090045Z" creationid="CCYU" creationdate="20150530T090045Z">
+        <seg>於 Lotus Notes 之中，PDF 功能設於信箱和訊息之 Actions 選單中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20858,6 +20874,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064130Z" creationid="CCYU" creationdate="20150524T064115Z">
         <seg>Windows 8.1 32 位元或 64 位元版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows Desktop Search Integration offers multiple choices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090208Z" creationid="CCYU" creationdate="20150530T090150Z">
+        <seg>Windows Desktop Search Integration （桌面搜尋整合）提供了多種選擇，</seg>
       </tuv>
     </tu>
     <tu>
