@@ -1684,8 +1684,8 @@
       <tuv lang="EN-US">
         <seg>Adding more components to the package</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014011Z" creationid="CCYU" creationdate="20150530T011938Z">
-        <seg>增加更多元件至封裝程式</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024620Z" creationid="CCYU" creationdate="20150530T011938Z">
+        <seg>增加更多元件至套裝程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -4840,16 +4840,16 @@
       <tuv lang="EN-US">
         <seg>Deploy MS Office App-V package</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014042Z" creationid="CCYU" creationdate="20150530T014005Z">
-        <seg>MS Office APP-V 封裝程式部署</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024626Z" creationid="CCYU" creationdate="20150530T014005Z">
+        <seg>MS Office APP-V 套裝程式部署</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Deploy Power PDF App-V package</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014059Z" creationid="CCYU" creationdate="20150530T014059Z">
-        <seg>Power PDF App-V 封裝程式部署</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024630Z" creationid="CCYU" creationdate="20150530T014059Z">
+        <seg>Power PDF App-V 套裝程式部署</seg>
       </tuv>
     </tu>
     <tu>
@@ -6137,8 +6137,8 @@
       <tuv lang="EN-US">
         <seg>Finishing the installation package</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014028Z" creationid="CCYU" creationdate="20150530T012027Z">
-        <seg>完成安裝封裝程式</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024623Z" creationid="CCYU" creationdate="20150530T012027Z">
+        <seg>完成安裝套裝程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -8583,8 +8583,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Installation Prerequisites</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011617Z" creationid="CCYU" creationdate="20150530T011617Z">
-        <seg>安裝必備元件</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024432Z" creationid="CCYU" creationdate="20150530T011617Z">
+        <seg>安裝必備程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -9305,6 +9305,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024106Z" creationid="CCYU" creationdate="20150530T024106Z">
         <seg>語言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language specific transform files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024336Z" creationid="CCYU" creationdate="20150530T024336Z">
+        <seg>特定語言轉換檔</seg>
       </tuv>
     </tu>
     <tu>
@@ -17446,6 +17454,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080234Z" creationid="CCYU" creationdate="20150509T080234Z">
         <seg>程序規範適用於集團工廠中屬於產品類別之採購，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product requires the ’Windows Installer v3.1’, ’Microsoft XML Core Services 6.0 SP1’ packages to be installed on the client computers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024617Z" creationid="CCYU" creationdate="20150530T024617Z">
+        <seg>產品需要預先安裝 "Windows Installer v3.1"、"Microsoft XML Core Services 6.0 SP1"。在用戶端電腦上安裝封裝程式。</seg>
       </tuv>
     </tu>
     <tu>
