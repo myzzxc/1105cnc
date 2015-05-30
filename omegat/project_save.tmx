@@ -3157,6 +3157,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Below this group, you can set Microsoft Office Integration parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084356Z" creationid="CCYU" creationdate="20150530T084356Z">
+        <seg>以下群組中可以設置 Microsoft Office Integration （整合程式）參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Below you will see the required power for your pump or blower specified at various voltage levels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050052Z">
@@ -3858,6 +3866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051638Z" creationid="CCYU" creationdate="20150530T051638Z">
         <seg>點擊 General （一般選項）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Microsoft Office Integration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084420Z" creationid="CCYU" creationdate="20150530T084410Z">
+        <seg>點擊 Microsoft Office Integration。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14267,6 +14283,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140310Z">
         <seg>由 Tools &gt; Board 選單中選擇 "Arduino Leonardo ETH menu，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Microsoft Office applications in which you want Power PDF integration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084502Z" creationid="CCYU" creationdate="20150530T084502Z">
+        <seg>選擇 Power PDF 所需整合的 Microsoft Office 應用程式，</seg>
       </tuv>
     </tu>
     <tu>
