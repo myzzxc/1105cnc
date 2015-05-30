@@ -6618,6 +6618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052107Z" creationid="CCYU" creationdate="20150530T052107Z">
+        <seg>例如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For larger applications requiring full process width ofasingle carriage, the second carriage can conveniently be parked atthe end ofthe gantry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160000Z">
@@ -6887,6 +6895,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T084131Z">
         <seg>IMPERVITE® 熱交換器管道墊片尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General settings for working with .pdf files, related programs and applications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052126Z" creationid="CCYU" creationdate="20150530T052126Z">
+        <seg>處理 .pdf 檔、相關程式和應用程式的一般設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9889,6 +9905,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092520Z" creationid="CCYU" creationdate="20150524T092520Z">
         <seg>許多人都誤以為只有 Adobe 有提供軟體和工具以進行 PDF 文件檔案的轉換和編輯 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark the desired settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052051Z" creationid="CCYU" creationdate="20150530T052051Z">
+        <seg>勾選所需設定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19172,6 +19196,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This panel lets you specify general settings for working with .pdf files, related programs and applications (Power PDF Advanced, PDF Convert and Create Assistant).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052016Z" creationid="CCYU" creationdate="20150530T052016Z">
+        <seg>此面板中可指定處理 .pdf 檔、相關程式和應用程式（Power PDF 進階版、PDF Convert 和 Create Assistant）的一般設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This period may be extended at the request of HUTCHINSON for projects with specific clients.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T142525Z" creationid="CCYU" creationdate="20150528T142455Z">
@@ -21050,6 +21082,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133224Z">
         <seg>您也可以撥打/接聽電話（需要外接喇叭和麥克風）以及傳送/接收簡訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can choose the setup type that best suits your needs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052152Z" creationid="CCYU" creationdate="20150530T052152Z">
+        <seg>可選擇最適合您的需求的安裝類型，</seg>
       </tuv>
     </tu>
     <tu>
