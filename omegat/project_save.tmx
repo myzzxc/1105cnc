@@ -12063,6 +12063,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preparing machine for sequencing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013525Z" creationid="CCYU" creationdate="20150530T013525Z">
+        <seg>定序前置工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preselecting the supplier- product couple</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153413Z" creationid="CCYU" creationdate="20150525T153413Z">
@@ -13747,6 +13755,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182646Z">
         <seg>於最大長期溫度下對持續負荷之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sequencing Power PDF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013406Z" creationid="CCYU" creationdate="20150530T013406Z">
+        <seg>Power PDF 定序</seg>
       </tuv>
     </tu>
     <tu>
