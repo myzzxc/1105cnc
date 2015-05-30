@@ -17210,6 +17210,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first group of options includes Personalization, General, Microsoft Office Integration, Other Integration, Connectors, Document Processing, Languages, Signature and Application Options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044016Z" creationid="CCYU" creationdate="20150530T044016Z">
+        <seg>第一組選項包括 Personalization（個人化）、General（一般選項）、Microsoft Office Integration （Microsoft Office 整合程式）、Other Integration（其它整合程式）、Connectors（連接器）、 Document Processing（文件處理）、Languages（語言）、Signature （簽署）和 Application Options （應用程式選項）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first is Adobe:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092356Z" creationid="CCYU" creationdate="20150524T092356Z">
