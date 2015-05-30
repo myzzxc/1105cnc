@@ -3910,6 +3910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Languages\Text-To-Speech.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100902Z" creationid="CCYU" creationdate="20150530T100902Z">
+        <seg>點擊 Languages\Text-To-Speech （語言\朗讀）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Languages\User Interface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100641Z" creationid="CCYU" creationdate="20150530T100641Z">
@@ -10035,6 +10043,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141702Z">
         <seg>請務必更改網路為正確的設置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make your choice of user interface languages: installation language only, all available languages or the selected languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100821Z" creationid="CCYU" creationdate="20150530T100821Z">
+        <seg>選擇 user interface languages（使用者介面語言）: installation language only（安裝單一語言）、 all available languages （所有可用語言）或 selected languages （選擇語言）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19346,6 +19362,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T141544Z">
         <seg>因為當偵測到物體寬度為預期的兩倍時，便能判別出是兩個物體 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is enabled by default but you can turn it off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100939Z" creationid="CCYU" creationdate="20150530T100939Z">
+        <seg>此選項預設為開啟，但可以將其關閉。</seg>
       </tuv>
     </tu>
     <tu>
