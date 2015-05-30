@@ -18940,6 +18940,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This illustration shows how your settings are reflected in your published installation package</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051102Z" creationid="CCYU" creationdate="20150530T051048Z">
+        <seg>上圖為發佈安裝套裝程式之設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This includes external supplies of large, medium and small series (replacement parts included) as well as chemical products.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080409Z" creationid="CCYU" creationdate="20150509T080409Z">
