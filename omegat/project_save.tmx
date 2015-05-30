@@ -2226,6 +2226,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example for Document Processing choices</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100508Z" creationid="CCYU" creationdate="20150530T100508Z">
+        <seg>Document Processing （文件處理）選項範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An integrated fume extraction grid is also available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145053Z">
@@ -3898,6 +3906,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051638Z" creationid="CCYU" creationdate="20150530T051638Z">
         <seg>點擊 General （一般選項）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Languages\User Interface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100641Z" creationid="CCYU" creationdate="20150530T100641Z">
+        <seg>點擊 Languages\User Interface （語言\使用者介面）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16371,6 +16387,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Languages group lets you customize the transform file (.mst) to give you control over Language parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100611Z" creationid="CCYU" creationdate="20150530T100611Z">
+        <seg>Languages （語言）群組中可自訂轉換檔案 (.mst) 以控制 Language 參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Leonardo ETH appears as a generic keyboard and mouse, and can be programmed to control these input devices using the Keyboard and Mouse classes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130743Z">
@@ -17912,6 +17936,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125005Z">
         <seg>選配PoE模組能由傳統5類雙絞乙太網路線供應電源，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The options Reader mode and Advanced Edit mode are general parameters, therefore their  ”visibility” is basically the set of options offered by your installer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100436Z" creationid="CCYU" creationdate="20150530T100436Z">
+        <seg>Reader mode 和 Advanced Edit mode （進階編輯模式）為一般參數，因此其用戶端程式中的“可見項目”基本上為安裝程式中所提供的選項。</seg>
       </tuv>
     </tu>
     <tu>
