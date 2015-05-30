@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3329,6 +3329,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134014Z">
         <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CD Layout</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011551Z" creationid="CCYU" creationdate="20150530T011551Z">
+        <seg>CD 配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -8261,6 +8269,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation Prerequisites</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011617Z" creationid="CCYU" creationdate="20150530T011617Z">
+        <seg>安裝必備元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation at deep embedment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182841Z">
@@ -9705,6 +9721,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141148Z">
         <seg>網路：當數據機與無線網路通訊時閃爍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Network Installation Guide</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011429Z" creationid="CCYU" creationdate="20150530T011429Z">
+        <seg>網路安裝指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -12091,6 +12115,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001419Z" creationid="CCYU" creationdate="20150525T152743Z">
         <seg>產品原型交貨要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product definition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011526Z" creationid="CCYU" creationdate="20150530T011526Z">
+        <seg>產品定義</seg>
       </tuv>
     </tu>
     <tu>
@@ -20363,6 +20395,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030803Z">
         <seg>每</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for Nuance Power PDF Advanced</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011447Z" creationid="CCYU" creationdate="20150530T011447Z">
+        <seg>Nuance Power PDF 進階版</seg>
       </tuv>
     </tu>
     <tu>
