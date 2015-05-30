@@ -3966,6 +3966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Signature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101549Z" creationid="CCYU" creationdate="20150530T101549Z">
+        <seg>點擊 Signature。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click here (Nuance YouTube channel) to watch them now.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121323Z" creationid="CCYU" creationdate="20150524T121323Z">
@@ -8231,8 +8239,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>If you choose to include this in your installation, choose between having the installation language only, all available languages or the selected languages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101238Z" creationid="CCYU" creationdate="20150530T101059Z">
-        <seg>若選擇要包含此選項於安裝程式檔中，選擇 installation language only（安裝程式語言）、 all available languages （所有可用語言）或 selected languages （選擇語言）。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101454Z" creationid="CCYU" creationdate="20150530T101059Z">
+        <seg>若選擇要包含此選項於安裝程式檔中，選擇 installation language only（僅有安裝程式語言）、 all available languages （所有可用語言）或 selected languages （選擇語言）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10073,8 +10081,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Make your choice of user interface languages: installation language only, all available languages or the selected languages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101217Z" creationid="CCYU" creationdate="20150530T100821Z">
-        <seg>選擇 user interface languages（使用者介面語言）: installation language only（安裝程式語言）、 all available languages （所有可用語言）或 selected languages （選擇語言）。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101459Z" creationid="CCYU" creationdate="20150530T100821Z">
+        <seg>選擇 user interface languages（使用者介面語言）: installation language only（僅有安裝程式語言）、 all available languages （所有可用語言）或 selected languages （選擇語言）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10627,6 +10635,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142052Z">
         <seg>較新版本之模組板會自動開啟數據機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next are the Signature options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101542Z" creationid="CCYU" creationdate="20150530T101542Z">
+        <seg>接下來為 Signature （簽署）選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19266,6 +19282,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085710Z" creationid="CCYU" creationdate="20150530T085710Z">
         <seg>上圖為給予終端用戶除日誌紀錄外的完整整合控制選項（Office 2003 中無 Nuance PDF 工具列）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This example shows only the installation language selected for the user interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101514Z" creationid="CCYU" creationdate="20150530T101447Z">
+        <seg>上圖為選擇使用者介面僅有安裝程式語言之範例</seg>
       </tuv>
     </tu>
     <tu>
