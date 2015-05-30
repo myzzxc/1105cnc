@@ -2717,6 +2717,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic product updates turned off</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022609Z" creationid="CCYU" creationdate="20150530T022609Z">
+        <seg>關閉產品自動更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatically highlight, cross-out or underline search results for faster, easier PDF editing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T053008Z" creationid="CCYU" creationdate="20150524T053008Z">
@@ -5335,6 +5343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electronic product registration turned off</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022557Z" creationid="CCYU" creationdate="20150530T022557Z">
+        <seg>關閉電子產品註冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elegance meets extremely sophisticated features: So small that it is barely noticeable behind your ear, Pure™ offers an outstanding binaural hearing experience.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T131927Z">
@@ -6581,8 +6597,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Furthermore it provides additional features compared to its Standard version:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022357Z" creationid="CCYU" creationdate="20150530T022357Z">
-        <seg>此外，它提供額外的功能相比，它的標準版本：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022435Z" creationid="CCYU" creationdate="20150530T022357Z">
+        <seg>此外，相對於標準版本，它還提供了以下額外的功能：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14127,6 +14143,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Silent installation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022656Z" creationid="CCYU" creationdate="20150530T022656Z">
+        <seg>沉靜安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple pneumatic toggle switches open and close the vacuum hold down zones.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072303Z">
@@ -14219,6 +14243,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131759Z" creationid="CCYU" creationdate="20150524T070224Z">
         <seg>這樣一來我們便可以改變某些業務流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Software activation turned off</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022543Z" creationid="CCYU" creationdate="20150530T022543Z">
+        <seg>關閉軟體啟用</seg>
       </tuv>
     </tu>
     <tu>
@@ -15347,8 +15379,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>The Advanced version of the product is designed to be deployed and used in a distributed environment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022351Z" creationid="CCYU" creationdate="20150530T022345Z">
-        <seg>產品的進階版本設計用於部署和在分散式環境中使用，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022403Z" creationid="CCYU" creationdate="20150530T022345Z">
+        <seg>本產品的進階版本設計用於部署和在分散式環境中使用，</seg>
       </tuv>
     </tu>
     <tu>
