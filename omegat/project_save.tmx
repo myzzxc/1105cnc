@@ -3383,8 +3383,8 @@
       <tuv lang="EN-US">
         <seg>CD Layout</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011551Z" creationid="CCYU" creationdate="20150530T011551Z">
-        <seg>CD 配置</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023042Z" creationid="CCYU" creationdate="20150530T011551Z">
+        <seg>光碟內容</seg>
       </tuv>
     </tu>
     <tu>
@@ -16354,6 +16354,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The application has 32- and 64-bit versions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023140Z" creationid="CCYU" creationdate="20150530T023140Z">
+        <seg>應用程式具有 32 位元和 64 位元版本，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The bid must be sent within the response time requested by HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200127Z" creationid="Judy" creationdate="20150526T200127Z">
@@ -16622,6 +16630,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140105Z" creationid="CCYU" creationdate="20150528T140105Z">
         <seg>此資格重審之資料和零件必須提供予以 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The delivered CD contains all mandatory components for installation of the product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023125Z" creationid="CCYU" creationdate="20150530T023125Z">
+        <seg>產品光碟中包含產品安裝的所有必要元件。</seg>
       </tuv>
     </tu>
     <tu>
