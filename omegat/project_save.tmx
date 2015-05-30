@@ -3886,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Other Integrations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085825Z" creationid="CCYU" creationdate="20150530T085825Z">
+        <seg>點擊 Other Integrations （其它整合）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Personalization.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044915Z" creationid="CCYU" creationdate="20150530T044915Z">
@@ -14335,6 +14343,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the desired integrations in programs and browsers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085851Z" creationid="CCYU" creationdate="20150530T085851Z">
+        <seg>選擇需整合之程式和瀏覽器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting the supplier / bid</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153430Z" creationid="CCYU" creationdate="20150525T153430Z">
@@ -16341,6 +16357,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140207Z">
         <seg>擺動刀有廣泛的刀鋒長度範圍及不同攻角可供選擇，以滿足各種材料切割需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Other Integrations group offers similar options for non-Office applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085812Z" creationid="CCYU" creationdate="20150530T085812Z">
+        <seg>Other Integrations （其它整合）群組中提供非 Office 應用程式的類似選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19032,6 +19056,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065057Z">
         <seg>除塵風機需使用獨立的三相電源，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This example shows full integration (without the Nuance PDF toolbar in Office 2003) giving end-users control over every choice but logging</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085710Z" creationid="CCYU" creationdate="20150530T085710Z">
+        <seg>上圖為給予終端用戶除日誌紀錄外的完整整合控制選項（Office 2003 中無 Nuance PDF 工具列）。</seg>
       </tuv>
     </tu>
     <tu>
