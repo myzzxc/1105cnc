@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(for more information, see the product release notes)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023009Z" creationid="CCYU" creationdate="20150530T023009Z">
+        <seg>（更多的資訊，請參閱產品版本資訊）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(lb + 50 mm).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184150Z">
@@ -3021,6 +3029,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bates numbering tool for uniquely identifying each page in sets of legal documents.Support of different document management systems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022949Z" creationid="CCYU" creationdate="20150530T022949Z">
+        <seg>文件編號工具用於標識每一頁法律文件，支援不同的文件管理系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because of the way the Leonardo ETH handles the reset, the best thing to do is to let the Arduino software try to initiate the reset before uploading, especially if you are used to pressing the reset button before uploading on other boards.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T143121Z">
@@ -4910,6 +4926,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distributable PDF creation parameters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022747Z" creationid="CCYU" creationdate="20150530T022747Z">
+        <seg>可分配之 PDF 建立參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distributable PDF product settings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022757Z" creationid="CCYU" creationdate="20150530T022757Z">
+        <seg>可分配之 PDF 產品設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribute plugins, hotfixes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090334Z" creationid="CCYU" creationdate="20150524T090334Z">
@@ -5323,6 +5355,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T121245Z">
         <seg>效率配件包括來回加工用之自動真空區域切換器、硬化鋼談式定位銷、AXYZ AVS 視覺定位系統、用於非鐵材料切削之 Unist 切削油噴嘴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Efficient Redaction tool to filter out sensitive PDF content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022842Z" creationid="CCYU" creationdate="20150530T022842Z">
+        <seg>高效加密工具用以過濾掉敏感的 PDF 內容</seg>
       </tuv>
     </tu>
     <tu>
@@ -6452,8 +6492,8 @@
       <tuv lang="EN-US">
         <seg>For system requirements of the product, see its corresponding documentation (Release Notes located in the ReadMe folder of the CD).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T021355Z" creationid="CCYU" creationdate="20150530T021355Z">
-        <seg>產品之系統要求，請參閱其相關之文件（版本說明收錄於光碟中 ReadMe 資料夾內）。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023016Z" creationid="CCYU" creationdate="20150530T021355Z">
+        <seg>產品之系統要求，請參閱其相關之文件（版本資訊收錄於光碟中 ReadMe 資料夾內）。</seg>
       </tuv>
     </tu>
     <tu>
