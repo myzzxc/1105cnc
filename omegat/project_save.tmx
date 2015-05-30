@@ -4590,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customizations from this group are saved into a transform (mst) file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044242Z" creationid="CCYU" creationdate="20150530T044242Z">
+        <seg>此群組中的自訂設置將儲存於轉換檔 (mst) 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customize the experience</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133454Z" creationid="CCYU" creationdate="20150524T133454Z">
