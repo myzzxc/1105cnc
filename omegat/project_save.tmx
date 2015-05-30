@@ -1660,8 +1660,8 @@
       <tuv lang="EN-US">
         <seg>Adding more components to the package</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011938Z" creationid="CCYU" creationdate="20150530T011938Z">
-        <seg>增加更多元件至封包</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012059Z" creationid="CCYU" creationdate="20150530T011938Z">
+        <seg>增加更多元件至套裝程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -3726,10 +3726,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Client Installation using Active Directory</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012354Z" creationid="CCYU" creationdate="20150530T012354Z">
+        <seg>使用 Active Directory 進行客戶端安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Client Installation using command line</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012141Z" creationid="CCYU" creationdate="20150530T012141Z">
+        <seg>使用指令進行客戶端安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Client and Authority Access Information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T124343Z" creationid="CCYU" creationdate="20150525T124343Z">
         <seg>客戶和主管機關取得資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Client installation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012111Z" creationid="CCYU" creationdate="20150530T012111Z">
+        <seg>客戶端設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -5927,6 +5951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finishing the installation package</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012027Z" creationid="CCYU" creationdate="20150530T012027Z">
+        <seg>完成安裝套裝程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153349Z">
@@ -8097,6 +8129,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143548Z">
         <seg>包含： 5HP Elte 主軸、Artcam Express 軟體、高容量壓力腳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Including existing application settings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012006Z" creationid="CCYU" creationdate="20150530T012006Z">
+        <seg>帶入現有應用程式設定</seg>
       </tuv>
     </tu>
     <tu>
