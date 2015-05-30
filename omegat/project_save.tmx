@@ -2090,6 +2090,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allowing signatures to be revoked and shown as such</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102317Z" creationid="CCYU" creationdate="20150530T102317Z">
+        <seg>允許取消簽署並顯示狀態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows alarms can be triggered from a configurable speed of objects in the scene.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062400Z">
@@ -2230,6 +2238,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100508Z" creationid="CCYU" creationdate="20150530T100508Z">
         <seg>Document Processing （文件處理）選項範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An example for Signature choices</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102408Z" creationid="CCYU" creationdate="20150530T102408Z">
+        <seg>Signature （簽署）選項範例</seg>
       </tuv>
     </tu>
     <tu>
@@ -3882,6 +3898,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082918Z">
         <seg>間隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Application Options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102548Z" creationid="CCYU" creationdate="20150530T102548Z">
+        <seg>點擊 Application Options。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10095,6 +10119,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make your choice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102601Z" creationid="CCYU" creationdate="20150530T102601Z">
+        <seg>選擇所需選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage, Import &amp; Export Comments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071212Z" creationid="CCYU" creationdate="20150524T071212Z">
@@ -13881,6 +13913,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Requiring time stamp verification of signatures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102350Z" creationid="CCYU" creationdate="20150530T102350Z">
+        <seg>需要簽署之時間戳記驗證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Research and Reporting:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071501Z">
@@ -16207,6 +16247,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141625Z">
         <seg>分析軟體授權碼由國外寄送，交貨時間約 5-10 天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Application Options panel lets you choose which of the listed options should be displayed to the end-user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102540Z" creationid="CCYU" creationdate="20150530T102540Z">
+        <seg>Application Options （應用程式選項）面板中可選擇顯示於終端用戶程式中所列出的選項。</seg>
       </tuv>
     </tu>
     <tu>
