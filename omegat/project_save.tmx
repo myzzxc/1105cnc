@@ -3806,6 +3806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Open Package in the Home ribbon and select the supplied msi file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040519Z" creationid="CCYU" creationdate="20150530T040519Z">
+        <seg>點擊 Home 功能區中的 Open Package 並選擇提供之 msi 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click here (Nuance YouTube channel) to watch them now.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121323Z" creationid="CCYU" creationdate="20150524T121323Z">
@@ -8036,6 +8044,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Important: The ’Add hotfixes to Installation’ setting has effect only if installation is launched by setup.exe from the setup root folder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040408Z" creationid="CCYU" creationdate="20150530T040333Z">
+        <seg>重要說明：’Add hotfixes to Installation’設定只有在以安裝根目錄中的 setup.exe 啟動時有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Improved</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024216Z" creationid="CCYU" creationdate="20150524T024216Z">
@@ -9369,6 +9385,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082125Z">
         <seg>雷射數位轉換器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launch the Customization Kit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040416Z" creationid="CCYU" creationdate="20150530T040416Z">
+        <seg>啟動自訂工具組</seg>
       </tuv>
     </tu>
     <tu>
@@ -16670,6 +16694,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023140Z" creationid="CCYU" creationdate="20150530T023140Z">
         <seg>應用程式具有 32 位元和 64 位元版本，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The basic customization workflow is as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040346Z" creationid="CCYU" creationdate="20150530T040346Z">
+        <seg>基本自訂工作流程如下：</seg>
       </tuv>
     </tu>
     <tu>
