@@ -5182,6 +5182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable this if installation package size is a concern.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101057Z" creationid="CCYU" creationdate="20150530T101057Z">
+        <seg>若要控制安裝程式檔大小，則關閉此選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disc springs are used on all studs for the BC-Series heat exchangers and on approximately 1/4, of the studs for the S- and L-Series heat exchangers at the floating end of the exchanger.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T090235Z">
@@ -6664,6 +6672,14 @@
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090449Z" creationid="CCYU" creationdate="20150530T090449Z">
         <seg>對於上述各個整合選項，可以選擇是否顯示終端用戶程式中。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each one of the above language setup choices, you can specify whether you want to display them to end-users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101318Z" creationid="CCYU" creationdate="20150530T101318Z">
+        <seg>上述語言安裝選項，可以選擇是否顯示終端用戶程式中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8209,6 +8225,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134441Z">
         <seg>若程式中同時使用兩組通訊介面時，必須使用對應之程式館進行處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choose to include this in your installation, choose between having the installation language only, all available languages or the selected languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101238Z" creationid="CCYU" creationdate="20150530T101059Z">
+        <seg>若選擇要包含此選項於安裝程式檔中，選擇 installation language only（安裝程式語言）、 all available languages （所有可用語言）或 selected languages （選擇語言）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10049,8 +10073,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Make your choice of user interface languages: installation language only, all available languages or the selected languages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100821Z" creationid="CCYU" creationdate="20150530T100821Z">
-        <seg>選擇 user interface languages（使用者介面語言）: installation language only（安裝單一語言）、 all available languages （所有可用語言）或 selected languages （選擇語言）。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101217Z" creationid="CCYU" creationdate="20150530T100821Z">
+        <seg>選擇 user interface languages（使用者介面語言）: installation language only（安裝程式語言）、 all available languages （所有可用語言）或 selected languages （選擇語言）。</seg>
       </tuv>
     </tu>
     <tu>
