@@ -3878,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Document Processing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T095859Z" creationid="CCYU" creationdate="20150530T095859Z">
+        <seg>點擊 Document Processing。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click General.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051638Z" creationid="CCYU" creationdate="20150530T051638Z">
@@ -14652,6 +14660,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014111Z" creationid="CCYU" creationdate="20150530T014111Z">
         <seg>設定連接群組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting Document Processing parameters lets you filter the feature set of the Power PDF application.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T095850Z" creationid="CCYU" creationdate="20150530T095850Z">
+        <seg>設定 Document Processing（文件處理）參數可篩選 Power PDF 應用程式的功能集。</seg>
       </tuv>
     </tu>
     <tu>
