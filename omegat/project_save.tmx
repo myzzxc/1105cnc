@@ -1668,8 +1668,8 @@
       <tuv lang="EN-US">
         <seg>Adding more components to the package</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012059Z" creationid="CCYU" creationdate="20150530T011938Z">
-        <seg>增加更多元件至套裝程式</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014011Z" creationid="CCYU" creationdate="20150530T011938Z">
+        <seg>增加更多元件至封裝程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Client Installation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014246Z" creationid="CCYU" creationdate="20150530T014246Z">
+        <seg>用戶端安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Client Installation using Active Directory</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012803Z" creationid="CCYU" creationdate="20150530T012354Z">
@@ -4750,6 +4758,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deploy MS Office App-V package</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014042Z" creationid="CCYU" creationdate="20150530T014005Z">
+        <seg>MS Office APP-V 封裝程式部署</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deploy Power PDF App-V package</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014059Z" creationid="CCYU" creationdate="20150530T014059Z">
+        <seg>Power PDF App-V 封裝程式部署</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploy to users in read only mode to enforce compliance with segregation of duties and least privilege governance principles required by GAAP, SOX, GLBA, HIPAA, eDiscovery and other internal control best practices and regulatory mandates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021847Z" creationid="CCYU" creationdate="20150524T021847Z">
@@ -5331,6 +5355,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071352Z" creationid="CCYU" creationdate="20150524T071352Z">
         <seg>嵌入媒體物件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable other integrations (if needed)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014205Z" creationid="CCYU" creationdate="20150530T014205Z">
+        <seg>啟用其它整合程式（若有需要）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5977,8 +6009,8 @@
       <tuv lang="EN-US">
         <seg>Finishing the installation package</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012027Z" creationid="CCYU" creationdate="20150530T012027Z">
-        <seg>完成安裝套裝程式</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014028Z" creationid="CCYU" creationdate="20150530T012027Z">
+        <seg>完成安裝封裝程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -8393,6 +8425,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011631Z" creationid="CCYU" creationdate="20150530T011631Z">
         <seg>於分散式環境中安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation of Nuance Cloud Connector in Distributed Environments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014242Z" creationid="CCYU" creationdate="20150530T014242Z">
+        <seg>於分散式環境中安裝 Nuance 雲端連接器</seg>
       </tuv>
     </tu>
     <tu>
@@ -13883,6 +13923,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121608Z">
         <seg>工作條件測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Connection Group</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014111Z" creationid="CCYU" creationdate="20150530T014111Z">
+        <seg>設定連接群組</seg>
       </tuv>
     </tu>
     <tu>
