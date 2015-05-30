@@ -14671,6 +14671,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specify parameters for your own package in the different panels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040710Z" creationid="CCYU" creationdate="20150530T040710Z">
+        <seg>於不同的面板中指定自訂套裝軟體中的參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specify which/if any selections will be available</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090303Z" creationid="CCYU" creationdate="20150524T090303Z">
