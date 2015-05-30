@@ -6579,6 +6579,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Furthermore it provides additional features compared to its Standard version:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022357Z" creationid="CCYU" creationdate="20150530T022357Z">
+        <seg>此外，它提供額外的功能相比，它的標準版本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fusing Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050537Z">
@@ -8905,6 +8913,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123710Z" creationid="CCYU" creationdate="20150524T123441Z">
         <seg>它提供所有企業用戶所需功能，相對 Adobe 能大幅的節省成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It provides all the critical business features you need without the cumbersome and costly print and pre-press functionality found in more expensive solutions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022209Z" creationid="CCYU" creationdate="20150530T022209Z">
+        <seg>它提供您所需的所有重要業務功能，並去除了昂貴解決方案中的繁瑣且浪費的印刷和印前功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15325,6 +15341,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063816Z">
         <seg>進階解析能在解析分析時，消除攝影機所受環境的干擾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Advanced version of the product is designed to be deployed and used in a distributed environment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022351Z" creationid="CCYU" creationdate="20150530T022345Z">
+        <seg>產品的進階版本設計用於部署和在分散式環境中使用，</seg>
       </tuv>
     </tu>
     <tu>
