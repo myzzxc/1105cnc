@@ -8059,6 +8059,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want this mst file only click Generate Transform in the Transform ribbon and name your file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044433Z" creationid="CCYU" creationdate="20150530T044433Z">
+        <seg>若您需要此 mst 檔案，只需在 Transform 功能區中點擊 Generate Transform 並為檔案命名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you're not using one of the peripherals in your program, however, you'll need to explicitly deselect it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133426Z">
