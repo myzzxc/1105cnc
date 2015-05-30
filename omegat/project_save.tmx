@@ -1031,6 +1031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A reboot may be required after installation of components.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025232Z" creationid="CCYU" creationdate="20150530T025217Z">
+        <seg>安裝程式元件後需要重新開機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A red car travelling quickly through the image would not be classed as a fire due to its overall movement contrasting the movement of a fire.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154512Z">
@@ -7903,6 +7911,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112437Z">
         <seg>假設辨識出的背景是藍色透明像素，在此場景中，演算法內部顯示的背景將覆蓋整個螢幕：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are going to perform the standard installation procedure via Setup.exe – located in the root folder of the CD – then Setup.exe installs these software packages automatically before launching the product installer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025235Z" creationid="CCYU" creationdate="20150530T025144Z">
+        <seg>若要透過 Setup.exe （位於光碟根目錄中）執行標準安裝程序，Setup.exe 將在啟動產品安裝程式前自動安裝上述套裝軟體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17094,6 +17110,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T123626Z">
         <seg>使用外部電源時，Arduino 電路板之電壓輸入（非USB連接或其它穩壓的電源之5伏特）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation of the product continues automatically after reboot when you have logged in again; you are not required to launch Setup.exe again manually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025228Z" creationid="CCYU" creationdate="20150530T025228Z">
+        <seg>在重新開機後該產品的安裝將自動繼續當您已登錄的再一次 ；此外，您不需要再手動啟動 Setup.exe。</seg>
       </tuv>
     </tu>
     <tu>
