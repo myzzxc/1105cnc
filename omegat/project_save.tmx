@@ -1578,6 +1578,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accessing the installed product from clients</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012749Z" creationid="CCYU" creationdate="20150530T012749Z">
+        <seg>從用戶端存取已安裝的產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accuracy Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034417Z">
@@ -2280,6 +2288,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084003Z">
         <seg>由於準備不足而造成安裝程序之延遲，將可能導致機台無法安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application Publishing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012722Z" creationid="CCYU" creationdate="20150530T012722Z">
+        <seg>應用程式發佈</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,16 +3744,16 @@
       <tuv lang="EN-US">
         <seg>Client Installation using Active Directory</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012354Z" creationid="CCYU" creationdate="20150530T012354Z">
-        <seg>使用 Active Directory 進行客戶端安裝</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012803Z" creationid="CCYU" creationdate="20150530T012354Z">
+        <seg>使用 Active Directory 進行用戶端安裝</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Client Installation using command line</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012141Z" creationid="CCYU" creationdate="20150530T012141Z">
-        <seg>使用指令進行客戶端安裝</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012756Z" creationid="CCYU" creationdate="20150530T012141Z">
+        <seg>使用指令進行用戶端安裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -3752,8 +3768,8 @@
       <tuv lang="EN-US">
         <seg>Client installation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012111Z" creationid="CCYU" creationdate="20150530T012111Z">
-        <seg>客戶端設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012753Z" creationid="CCYU" creationdate="20150530T012111Z">
+        <seg>用戶端設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -8389,6 +8405,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation under Citrix Metaframe or Windows Terminal Server</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012713Z" creationid="CCYU" creationdate="20150530T012603Z">
+        <seg>以 Citrix Metaframe 或 Windows 終端機伺服器 (Terminal server) 安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation, Operation, and Maintenance Instructions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142451Z">
@@ -9465,6 +9489,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064655Z" creationid="CCYU" creationdate="20150524T064655Z">
         <seg>需安裝 Microsoft .NET Framework 4.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft App-V Virtualization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012827Z" creationid="CCYU" creationdate="20150530T012827Z">
+        <seg>Microsoft App-V 虛擬化</seg>
       </tuv>
     </tu>
     <tu>
@@ -18729,6 +18761,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092958Z" creationid="CCYU" creationdate="20150524T092942Z">
         <seg>且不幸的是，Acrobat 的高價格，迫使大多數公司對能使用強大的 PDF 軟體的員工人數進行限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstallation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012816Z" creationid="CCYU" creationdate="20150530T012816Z">
+        <seg>解除安裝</seg>
       </tuv>
     </tu>
     <tu>
