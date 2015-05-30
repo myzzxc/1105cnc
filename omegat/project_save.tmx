@@ -10093,6 +10093,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that performance and speed will be enhanced if your computer’s processor, memory, and available disk space exceed minimum requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T021504Z" creationid="CCYU" creationdate="20150530T021504Z">
+        <seg>請注意若電腦處理器、記憶體和可用硬碟空間高於最低效系統要求將能提昇效能和執行速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the distance between digital pins 7 and 8 is 160 mil (0.16"), not an even multiple of the 100 mil spacing of the other pins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144935Z">
@@ -12321,8 +12329,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Product definition</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011526Z" creationid="CCYU" creationdate="20150530T011526Z">
-        <seg>產品定義</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T021542Z" creationid="CCYU" creationdate="20150530T011526Z">
+        <seg>產品內容</seg>
       </tuv>
     </tu>
     <tu>
