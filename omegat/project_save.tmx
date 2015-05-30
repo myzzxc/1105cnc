@@ -10413,6 +10413,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: You must use a Customization Kit version that is identical to the product version.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T034442Z" creationid="CCYU" creationdate="20150530T034442Z">
+        <seg>注意：必須使用與產品版本完全相同的自訂工具組版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nothing contained herein is to be interpreted as authorization to practice a patented invention without a license.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T013602Z">
@@ -14976,6 +14984,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System requirements: The Customization Kit requires at least Microsoft Windows Installer (MSI) 3.1 and Windows .Net 4.0 to be installed on client computer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T034419Z" creationid="CCYU" creationdate="20150530T034419Z">
+        <seg>系統需求：自訂工具組需要用戶端電腦上已至少安裝 Microsoft Windows Installer (MSI) 3.1 和 Windows .Net 4.0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T-SLOT CLAMPING KIT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132640Z">
@@ -18559,6 +18575,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130959Z">
         <seg>完全支援乙太網路程式館。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Customization Kit gives System Administrators the ability to customize the installation of Nuance Power PDF Advanced products prior to deploying the applications across their organization.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T034303Z" creationid="CCYU" creationdate="20150530T034303Z">
+        <seg>自訂工具組使系統管理員能在部署應用程式至整個組織之前自訂 Nuance Power PDF 進階版產品的安裝。</seg>
       </tuv>
     </tu>
     <tu>
