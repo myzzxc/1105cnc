@@ -3805,6 +3805,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Reader mode to create a package with a predefined set of functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100056Z" creationid="CCYU" creationdate="20150530T100056Z">
+        <seg>選擇 Reader mode （閱讀模式）以建立一個預先定義功能集的套裝安裝程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a help installation type.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052813Z" creationid="CCYU" creationdate="20150530T052813Z">
@@ -6614,6 +6622,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161652Z" creationid="CCYU" creationdate="20150528T161652Z">
         <seg>上述各個情況下，將要求遞交標準格式的問題解決進度計畫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each one of the above application features, you can specify whether you want to enable end-users to see them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100204Z" creationid="CCYU" creationdate="20150530T100204Z">
+        <seg>對於上述各個應用程式選項，可以選擇是否顯示終端用戶程式中。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -20651,6 +20668,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123644Z" creationid="CCYU" creationdate="20150524T123644Z">
         <seg>這代表您可以將 PDF 軟體安裝於您的組織中的每一台電腦上……並維持在預算範圍內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When Reader mode is off, you can select each desired item of functionality one by one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100143Z" creationid="CCYU" creationdate="20150530T100143Z">
+        <seg>當關閉閱讀模式時，可以逐一選擇各個所需的功能項。</seg>
       </tuv>
     </tu>
     <tu>
