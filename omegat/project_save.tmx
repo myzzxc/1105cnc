@@ -3789,6 +3789,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a help installation type.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052813Z" creationid="CCYU" creationdate="20150530T052813Z">
+        <seg>選擇一個安裝類型説明，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chpt6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151108Z">
@@ -9913,6 +9921,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052051Z" creationid="CCYU" creationdate="20150530T052051Z">
         <seg>勾選所需設定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark the first option if you want to display only the Install Welcome, License Agreement and Ready to Install dialogs or use the radio buttons below to choose Typical or Custom installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052607Z" creationid="CCYU" creationdate="20150530T052607Z">
+        <seg>若只希望顯示 Install Welcome（安裝歡迎畫面）、License Agreement （授權合約）和 Ready to Install （準備好進行安裝）對話視窗則勾選第一個選項，或可使用下方選項按鈕選擇 Typical （典型）或 Custom （自訂）安裝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19208,6 +19224,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T142525Z" creationid="CCYU" creationdate="20150528T142455Z">
         <seg>此期限可能會隨 HUTCHINSON 與特定客戶之專案要求而延長，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This picture shows the Custom option, changeable by the end-user</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052707Z" creationid="CCYU" creationdate="20150530T052651Z">
+        <seg>此圖為可由終端使用者變更之自訂選項</seg>
       </tuv>
     </tu>
     <tu>
