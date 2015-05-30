@@ -9861,6 +9861,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most of the product components are 32-bit binaries independently from the version of the target operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023526Z" creationid="CCYU" creationdate="20150530T023448Z">
+        <seg>多數產品程式為獨立於作業系統版本的 32 位元檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most of these options apply to the AXYZ Series machine exclusively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134257Z">
@@ -16638,6 +16646,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023125Z" creationid="CCYU" creationdate="20150530T023125Z">
         <seg>產品光碟中包含產品安裝的所有必要元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The delivered PDF printer driver and some other components vary depending on the selected system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023607Z" creationid="CCYU" creationdate="20150530T023518Z">
+        <seg>PDF 印表機驅動程式和一些其它程式將取決於所選之系統而不同。</seg>
       </tuv>
     </tu>
     <tu>
