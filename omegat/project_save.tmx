@@ -14319,6 +14319,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select all/none or any one of them and mark the ones you want to hide.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085429Z" creationid="CCYU" creationdate="20150530T085429Z">
+        <seg>選擇 all/none （全選/取消選擇），並勾選需隱藏之項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select all/none or any one of them and mark the ones you want to lock.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051557Z" creationid="CCYU" creationdate="20150530T051557Z">
@@ -21194,6 +21202,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051411Z" creationid="CCYU" creationdate="20150530T051411Z">
         <seg>可選擇防止終端使用者修改上述的各個選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can choose to show each one of the above options to end-users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085404Z" creationid="CCYU" creationdate="20150530T085404Z">
+        <seg>可以選擇是否能顯示以上各個選項於終端用戶程式中。</seg>
       </tuv>
     </tu>
     <tu>
