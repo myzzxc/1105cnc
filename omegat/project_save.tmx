@@ -16762,6 +16762,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The client installer both for 32-bit and 64-bit environments can also be found on the CD:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025951Z" creationid="CCYU" creationdate="20150530T025951Z">
+        <seg>光碟中也含 32 位元和 64 位元環境之用戶端安裝程式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cold airgun isasimple device that utilises filtered, compressed airand a venturi effect expansion chamber to produce cold airforspot cooling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053719Z">
@@ -18559,6 +18567,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160900Z">
         <seg>此刀匣可使用旋轉“披薩輪形”刀，非常適用於切割或研磨如墊片等材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This client can be downloaded from Microsoft.com:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025834Z" creationid="CCYU" creationdate="20150530T025834Z">
+        <seg>此用戶端程式可以從 Microsoft.com 下載：</seg>
       </tuv>
     </tu>
     <tu>
