@@ -15281,6 +15281,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Administrative setup related topics contain necessary information for special deployment systems such as Active Directory, Microsoft Systems Management Server and System Center Configuration Manager 2007.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T021038Z" creationid="CCYU" creationdate="20150530T021038Z">
+        <seg>管理設置相關主題中包含了特殊的部署系統，如 Active Directory、Microsoft Systems Management Server 和 System Center Configuration Manager 2007。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Advanced Analytical provides a pre-registration of objects to be detected by size and speed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071452Z">
