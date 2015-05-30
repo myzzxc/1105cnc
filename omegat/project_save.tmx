@@ -10022,6 +10022,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark Enable Connectors so that you can make your selections in the list</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T091205Z" creationid="CCYU" creationdate="20150530T091205Z">
+        <seg>勾選 Enable Connectors （啟用連接點）以選擇清單中的連接點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark the desired settings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052051Z" creationid="CCYU" creationdate="20150530T052051Z">
@@ -17477,8 +17485,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>The first group of options includes Personalization, General, Microsoft Office Integration, Other Integration, Connectors, Document Processing, Languages, Signature and Application Options.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044016Z" creationid="CCYU" creationdate="20150530T044016Z">
-        <seg>第一組選項包括 Personalization（個人化）、General（一般選項）、Microsoft Office Integration （Microsoft Office 整合程式）、Other Integration（其它整合程式）、Connectors（連接器）、 Document Processing（文件處理）、Languages（語言）、Signature （簽署）和 Application Options （應用程式選項）。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090917Z" creationid="CCYU" creationdate="20150530T044016Z">
+        <seg>第一組選項包括 Personalization（個人化）、General（一般選項）、Microsoft Office Integration （Microsoft Office 整合程式）、Other Integration（其它整合程式）、Connectors（連接點）、 Document Processing（文件處理）、Languages（語言）、Signature （簽署）和 Application Options （應用程式選項）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17645,8 +17653,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>The list of available connectors is displayed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090845Z" creationid="CCYU" creationdate="20150530T090845Z">
-        <seg>將顯示可用的連接點</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T091117Z" creationid="CCYU" creationdate="20150530T090845Z">
+        <seg>將顯示可用的連接點清單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22347,8 +22355,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>’Personalization’, ’General’, ’Microsoft Office Integration’, ’Other Integration’, ’Connectors ’, ’Document Processing’, ’Languages’, ‘Signature’ and ‘Application Options’ settings will be stored in the admin_customSettings.mst transform file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035851Z" creationid="CCYU" creationdate="20150530T035833Z">
-        <seg>’Personalization’, ’General’, ’Microsoft Office Integration’, ’Other Integration’, ’Connectors ’, ’Document Processing’, ’Languages’, ‘Signature’ 和 ‘Application Options’ 設定將儲存於 admin_customSettings.mst 轉換檔之中，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T091056Z" creationid="CCYU" creationdate="20150530T035833Z">
+        <seg>’Personalization（個人化）’, ’General（一般選項）’, ’Microsoft Office Integration（Microsoft Office 整合程式）’, ’Other Integration（其它整合程式）’, ’Connectors（連接點） ’, ’Document Processing（文件處理）’, ’Languages（語言）’, ‘Signature（簽署）’ 和 ‘Application Options（應用程式選項）’ 設定將儲存於 admin_customSettings.mst 轉換檔之中，</seg>
       </tuv>
     </tu>
     <tu>
