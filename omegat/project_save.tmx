@@ -19044,6 +19044,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This transform file will be located beside the .msi package file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035947Z" creationid="CCYU" creationdate="20150530T035947Z">
+        <seg>此轉換檔與 .msi 套裝程式檔儲存於相同資料夾內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This valve can be closed when a steady flow of steam has been attained.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133338Z">
@@ -21824,10 +21832,18 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>‘Additional Files’, ‘Import Application Settings’ and ’Add hotfixes to Installation’ settings will be stored beside the .msi package file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040108Z" creationid="CCYU" creationdate="20150530T040108Z">
+        <seg>‘Additional Files’, ‘Import Application Settings’和 ’Add hotfixes to Installation’ 設定將儲存於 .msi 套裝程式檔案相同資料夾內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>’Personalization’, ’General’, ’Microsoft Office Integration’, ’Other Integration’, ’Connectors ’, ’Document Processing’, ’Languages’, ‘Signature’ and ‘Application Options’ settings will be stored in the admin_customSettings.mst transform file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035833Z" creationid="CCYU" creationdate="20150530T035833Z">
-        <seg>’Personalization’, ’General’, ’Microsoft Office Integration’, ’Other Integration’, ’Connectors ’, ’Document Processing’, ’Languages’, ‘Signature’ 和 ‘Application Options’ 設定將儲存於 admin_customSettings.mst 轉換檔之中。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035851Z" creationid="CCYU" creationdate="20150530T035833Z">
+        <seg>’Personalization’, ’General’, ’Microsoft Office Integration’, ’Other Integration’, ’Connectors ’, ’Document Processing’, ’Languages’, ‘Signature’ 和 ‘Application Options’ 設定將儲存於 admin_customSettings.mst 轉換檔之中，</seg>
       </tuv>
     </tu>
     <tu>
