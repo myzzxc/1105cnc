@@ -3894,6 +3894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the radio button for online help from Nuance or set on premises.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T053122Z" creationid="CCYU" creationdate="20150530T053031Z">
+        <seg>點擊選項按鈕取得 Nuance 線上說明或預先設定位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Client Installation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014246Z" creationid="CCYU" creationdate="20150530T014246Z">
