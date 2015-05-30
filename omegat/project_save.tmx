@@ -3862,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Client installation, which installs the product on the client machine according to the options prepared with the Customization Kit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T033902Z" creationid="CCYU" creationdate="20150530T033902Z">
+        <seg>用戶端安裝，使用自訂工具組之選項安裝產品於用戶端電腦中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clock Speed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053451Z">
@@ -11998,6 +12006,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please note that the client installation can be replaced with a different deployment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T034102Z" creationid="CCYU" creationdate="20150530T034102Z">
+        <seg>請注意用戶端安裝能以不同的部署取代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please note: If you install a regulator on your air line prior to the machine, it must be capable of delivering the flow and pressure required for your machine configuration in order to ensure correct operation of your machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085542Z">
@@ -17078,6 +17094,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020057Z" creationid="Judy" creationdate="20150529T020057Z">
         <seg>可參考下列文件以獲得關於 HUTCHINSON 要求的更完整的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following sections describe how system administrators can customize and deploy the product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T033938Z" creationid="CCYU" creationdate="20150530T033938Z">
+        <seg>以下章節將說明系統管理員如何自訂並部署產品，</seg>
       </tuv>
     </tu>
     <tu>
