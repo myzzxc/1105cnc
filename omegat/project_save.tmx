@@ -3814,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Publish Package in the Home ribbon to finalize the customized installer for your own deployment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T041200Z" creationid="CCYU" creationdate="20150530T041200Z">
+        <seg>點擊 Home 功能區中的 Publish Package 完成自訂部署之安裝程式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click here (Nuance YouTube channel) to watch them now.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121323Z" creationid="CCYU" creationdate="20150524T121323Z">
@@ -11009,6 +11017,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011849Z" creationid="CCYU" creationdate="20150530T011849Z">
         <seg>可選： 寫入轉換檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optionally add hotfixes, additional files or import application settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T041052Z" creationid="CCYU" creationdate="20150530T041052Z">
+        <seg>（可選）加入修補程式，附加檔案或匯入應用程式設定。</seg>
       </tuv>
     </tu>
     <tu>
