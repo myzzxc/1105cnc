@@ -8092,6 +8092,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a corporate environment, system administrators may use a two-step procedure for software deployment:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T033537Z" creationid="CCYU" creationdate="20150530T033537Z">
+        <seg>在企業環境中，系統管理員可使用兩步驟程序進行軟體部署：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, installation of bypass valve system on the heat exchanger piping will permit disassembly of the heat exchanger itself without shutting down the line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085539Z">
@@ -15801,6 +15809,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Customization Kit is located in the Tools folder on the CD (.\Tools\CustomKit\CustomizationKit.exe).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T033721Z" creationid="CCYU" creationdate="20150530T033721Z">
+        <seg>自訂工具組檔案位於光碟 Tools 資料夾中 (.\Tools\CustomKit\CustomizationKit.exe)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Equipment must be used exclusively for the production of components for HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T235951Z" creationid="Judy" creationdate="20150527T235951Z">
@@ -18046,6 +18062,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154843Z">
         <seg>在同一個像素中，線條會隨著時間快速改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tool presets certain installation options to configure client installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T033755Z" creationid="CCYU" creationdate="20150530T033755Z">
+        <seg>工具中預設特定的安裝選項以設置用戶端安裝。</seg>
       </tuv>
     </tu>
     <tu>
