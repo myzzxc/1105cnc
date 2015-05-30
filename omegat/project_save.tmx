@@ -20239,6 +20239,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the options to enable or disable the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101701Z" creationid="CCYU" creationdate="20150530T101701Z">
+        <seg>利用選項開啟或關閉以下功能：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Used for large format vinyl cutting, cutting paper mask on acrylic sheets for painting, and for cutting sand blast mask.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140845Z">
