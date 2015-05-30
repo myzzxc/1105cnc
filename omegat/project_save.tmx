@@ -4758,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deploying on client machines</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013855Z" creationid="CCYU" creationdate="20150530T013855Z">
+        <seg>於用戶端電腦上部署</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013903Z">
@@ -8305,6 +8313,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T134214Z">
         <seg>Pure 的設計受到以上雙耳聽力優勢的啟發，並藉由尖端的技術為使用者提供最自然的雙耳聽力體驗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install Printer driver</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013934Z" creationid="CCYU" creationdate="20150530T013934Z">
+        <seg>安裝印表機驅動程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -12063,6 +12079,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prepare client</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013929Z" creationid="CCYU" creationdate="20150530T013929Z">
+        <seg>用戶端前置準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preparing machine for sequencing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013525Z" creationid="CCYU" creationdate="20150530T013525Z">
@@ -13763,6 +13787,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013406Z" creationid="CCYU" creationdate="20150530T013406Z">
         <seg>Power PDF 定序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sequencing Power as a plugin for Office 2013</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013836Z" creationid="CCYU" creationdate="20150530T013836Z">
+        <seg>將 Power PDF 定序為 Office 2013 外掛程式</seg>
       </tuv>
     </tu>
     <tu>
