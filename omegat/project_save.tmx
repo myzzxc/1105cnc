@@ -3797,6 +3797,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the On premises option if the installation target workstations have no live internet connection to the Nuance website.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T053255Z" creationid="CCYU" creationdate="20150530T053255Z">
+        <seg>若安裝目標工作站無法連接到  Nuance 網站時選擇 On premises （預先設定路徑）選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chpt6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151108Z">
@@ -3896,8 +3904,8 @@
       <tuv lang="EN-US">
         <seg>Click the radio button for online help from Nuance or set on premises.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T053122Z" creationid="CCYU" creationdate="20150530T053031Z">
-        <seg>點擊選項按鈕取得 Nuance 線上說明或預先設定位置。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T053258Z" creationid="CCYU" creationdate="20150530T053031Z">
+        <seg>點擊選項按鈕取得 Nuance 線上說明或預先設定路徑。</seg>
       </tuv>
     </tu>
     <tu>
