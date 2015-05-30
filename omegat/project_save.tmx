@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A command line installation will install all content except hotfixes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T041413Z" creationid="CCYU" creationdate="20150530T041413Z">
+        <seg>指令列安裝將安裝除修補程式外的所有內容&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A computer with a Intel® Pentium® 4 , higher or equivalent processor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064039Z" creationid="CCYU" creationdate="20150524T064039Z">
@@ -5046,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distribute this customized installer to end-users or use it for a command line installation as described later.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T041306Z" creationid="CCYU" creationdate="20150530T041306Z">
+        <seg>分發此自訂安裝程式至終端使用者，或使用指令列安裝，稍後將說明使用方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distributed Processing:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063823Z">
@@ -7287,6 +7303,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120803Z">
         <seg>Uno型電路板保護殼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hotfixes should be installed as an additional step.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T041451Z" creationid="CCYU" creationdate="20150530T041451Z">
+        <seg>修補程式應另行安裝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10449,6 +10473,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T034442Z" creationid="CCYU" creationdate="20150530T034442Z">
         <seg>注意：必須使用與產品版本完全相同的自訂工具組版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notes:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T041324Z" creationid="CCYU" creationdate="20150530T041324Z">
+        <seg>備註：</seg>
       </tuv>
     </tu>
     <tu>
