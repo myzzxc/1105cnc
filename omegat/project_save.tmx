@@ -8268,6 +8268,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Microsoft Outlook the offering also includes e-mail archiving to PDF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084705Z" creationid="CCYU" creationdate="20150530T084705Z">
+        <seg>Microsoft Outlook 中包含了將電子郵件儲存為 PDF 的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a 1920x1080 HD image there are 1920 pixels across and 1080 pixels down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103154Z">
@@ -19064,6 +19072,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051102Z" creationid="CCYU" creationdate="20150530T051048Z">
         <seg>上圖為發佈安裝套裝程式之設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes PDF conversion and creation capabilities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084603Z" creationid="CCYU" creationdate="20150530T084603Z">
+        <seg>此功能包含了 PDF 轉檔和建立，</seg>
       </tuv>
     </tu>
     <tu>
