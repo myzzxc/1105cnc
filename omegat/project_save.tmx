@@ -2629,6 +2629,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At this stage you are free to pick either a 32-bit or a 64-bit package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T043537Z" creationid="CCYU" creationdate="20150530T043537Z">
+        <seg>此階段可以自由選擇 32 位元或 64 位元套裝程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atangential knife isacutting blade that follows the plot lines of ashape byincrementally rotating the blade to match the path.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T153433Z">
@@ -3769,6 +3777,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024122Z" creationid="CCYU" creationdate="20150530T024122Z">
         <seg>中文（繁體）*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Open Package on the Home tab (in the Package group), then browse to an .msi file (e.g. Nuance PDF Advanced.msi) and open it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T043516Z" creationid="CCYU" creationdate="20150530T043500Z">
+        <seg>選擇 Home 分頁上的 Open Package （Package 群組中），接著開啟 .msi 檔案（例：Nuance PDF Advanced.msi），</seg>
       </tuv>
     </tu>
     <tu>
