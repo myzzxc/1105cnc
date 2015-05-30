@@ -295,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Not available for beta version.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024103Z" creationid="CCYU" creationdate="20150530T024103Z">
+        <seg>* 不適用於 Beta 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*For definition of high- and low-strength concrete, refer to 4.3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T171454Z">
@@ -3717,6 +3725,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chinese (Simplified)*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024137Z" creationid="CCYU" creationdate="20150530T024137Z">
+        <seg>中文（簡體）*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chinese (Traditional)*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024122Z" creationid="CCYU" creationdate="20150530T024122Z">
+        <seg>中文（繁體）*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chpt6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151108Z">
@@ -4542,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Czech*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024152Z" creationid="CCYU" creationdate="20150530T024152Z">
+        <seg>捷克文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DARIO MARTINI, born in 1955, took his diploma at the Istituto Giorgio Cini on the island of San Giorgio Maggiore, in Venice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T024508Z" creationid="Judy" creationdate="20150529T024508Z">
@@ -4714,6 +4746,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030740Z">
         <seg>變質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Danish*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024201Z" creationid="CCYU" creationdate="20150530T024201Z">
+        <seg>丹麥文*</seg>
       </tuv>
     </tu>
     <tu>
@@ -5134,6 +5174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dutch*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024224Z" creationid="CCYU" creationdate="20150530T024224Z">
+        <seg>荷蘭文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EACH ADDITIONAL SERVO AXIS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141519Z">
@@ -5435,6 +5483,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014205Z" creationid="CCYU" creationdate="20150530T014205Z">
         <seg>啟用其它整合程式（若有需要）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024235Z" creationid="CCYU" creationdate="20150530T024235Z">
+        <seg>英文</seg>
       </tuv>
     </tu>
     <tu>
@@ -6087,6 +6143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finnish*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024250Z" creationid="CCYU" creationdate="20150530T024250Z">
+        <seg>芬蘭文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153349Z">
@@ -6610,6 +6674,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>French*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024300Z" creationid="CCYU" creationdate="20150530T024300Z">
+        <seg>法文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From Document Assembly and Collaboration…</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094545Z" creationid="CCYU" creationdate="20150524T094545Z">
@@ -6695,6 +6767,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T084131Z">
         <seg>IMPERVITE® 熱交換器管道墊片尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>German*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024308Z" creationid="CCYU" creationdate="20150530T024308Z">
+        <seg>德文*</seg>
       </tuv>
     </tu>
     <tu>
@@ -7263,6 +7343,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133229Z">
         <seg>現今世界上，Arduino電路板每天都協助玩家們創造出成千上萬的新應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hungarian*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024317Z" creationid="CCYU" creationdate="20150530T024317Z">
+        <seg>匈牙利文*</seg>
       </tuv>
     </tu>
     <tu>
@@ -9037,6 +9125,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Italian*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024127Z" creationid="CCYU" creationdate="20150530T024127Z">
+        <seg>義大利文 *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Itfitsto a standard 20mm collet and works with all5 HP and 10 HP spindles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034022Z">
@@ -9057,6 +9153,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084905Z" creationid="CCYU" creationdate="20150523T084710Z">
         <seg>具有最先進功能和人性化設計的高效能軟體，符合企業和專業人士所需。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Japanese*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024147Z" creationid="CCYU" creationdate="20150530T024147Z">
+        <seg>日文*</seg>
       </tuv>
     </tu>
     <tu>
@@ -9149,6 +9253,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Korean*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024157Z" creationid="CCYU" creationdate="20150530T024157Z">
+        <seg>韓文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LASER DIGITIZER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131752Z">
@@ -9185,6 +9297,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065814Z" creationid="CCYU" creationdate="20150524T065814Z">
         <seg>缺乏重要的功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024106Z" creationid="CCYU" creationdate="20150530T024106Z">
+        <seg>語言</seg>
       </tuv>
     </tu>
     <tu>
@@ -10157,6 +10277,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Norwegian*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024212Z" creationid="CCYU" creationdate="20150530T024212Z">
+        <seg>挪威文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nose Rider Collar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082147Z">
@@ -10673,6 +10801,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024516Z" creationid="CCYU" creationdate="20150524T024516Z">
         <seg>線上說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only one can be used at a time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024049Z" creationid="CCYU" creationdate="20150530T024049Z">
+        <seg>每次只能使用一種版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11942,6 +12078,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Polish*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024230Z" creationid="CCYU" creationdate="20150530T024230Z">
+        <seg>波蘭文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pop-Up Location Pins</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082132Z">
@@ -11970,6 +12114,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071129Z" creationid="CCYU" creationdate="20150524T071129Z">
         <seg>組合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portuguese (Brazil)*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024243Z" creationid="CCYU" creationdate="20150530T024243Z">
+        <seg>葡萄牙文（巴西）*</seg>
       </tuv>
     </tu>
     <tu>
@@ -13359,6 +13511,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Russian*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024256Z" creationid="CCYU" creationdate="20150530T024256Z">
+        <seg>俄羅斯文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCANNER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022738Z">
@@ -14335,6 +14495,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spanish*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024304Z" creationid="CCYU" creationdate="20150530T024304Z">
+        <seg>西班牙文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spare Parts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015634Z">
@@ -14715,6 +14883,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z">
         <seg>藉由獨特內部旋渦式設計能高效率地吸取切屑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swedish*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024313Z" creationid="CCYU" creationdate="20150530T024313Z">
+        <seg>瑞典文*</seg>
       </tuv>
     </tu>
     <tu>
@@ -17738,6 +17914,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The supported installation languages and the associated transform files are indicated in the following table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024022Z" creationid="CCYU" creationdate="20150530T024022Z">
+        <seg>下表列出了支援的安裝語言和相對應的轉換檔，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system can generate alarms on events that are occurring at the time of operation for example: a car circling against the tide, a person who is trespassing on property or even warn about suspicious movement of people.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052017Z">
@@ -18973,10 +19157,26 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transform file</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024111Z" creationid="CCYU" creationdate="20150530T024111Z">
+        <seg>轉換檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trucks must be brought to the correct temperature before they are loaded with birds.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051418Z">
         <seg>裝載雞隻前貨櫃必須先達到正確的溫度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turkish*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024320Z" creationid="CCYU" creationdate="20150530T024320Z">
+        <seg>土耳其文*</seg>
       </tuv>
     </tu>
     <tu>
