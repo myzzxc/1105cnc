@@ -19685,6 +19685,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using this tool you can: choose where to install Power PDF Advanced, pre-define the serial number and make it read only, set feature installation states, set visibility of features on the Custom Setup dialog, configure default application settings, deploy custom files, add hotfixes to the Installation and import predefined application settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035345Z" creationid="CCYU" creationdate="20150530T035345Z">
+        <seg>使用此工具可以：選擇安裝 Power PDF 進階版之位置、預先定義序號並將其變更為唯讀、設定功能安裝狀態、設定自訂安裝對話視窗中的可見功能 、設置預設應用程式設定、部署自訂檔案、於安裝中加入修補程式和匯入預先定義的應用程式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VAC EXTENSION PIVOTING ARM  AND 2" VAC HOSE length 50ft (4008 - 6022)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142827Z">
@@ -20330,6 +20338,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093459Z" creationid="CCYU" creationdate="20150524T093053Z">
         <seg>再加上 Adobe 授權和審核所帶來的困擾，令很多使用者感到困擾（且被 Adobe 綁定）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have finished the necessary modifications and published a package with the Customization Kit the tool stores the modified settings in the following way:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035715Z" creationid="CCYU" creationdate="20150530T035715Z">
+        <seg>當完成必要的修改並發佈包含自訂工具的套裝軟體後，依照以下方式儲存修改後的設置：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21804,6 +21820,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090952Z" creationid="CCYU" creationdate="20150524T090952Z">
         <seg>– Nuance PDF 客戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>’Personalization’, ’General’, ’Microsoft Office Integration’, ’Other Integration’, ’Connectors ’, ’Document Processing’, ’Languages’, ‘Signature’ and ‘Application Options’ settings will be stored in the admin_customSettings.mst transform file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035833Z" creationid="CCYU" creationdate="20150530T035833Z">
+        <seg>’Personalization’, ’General’, ’Microsoft Office Integration’, ’Other Integration’, ’Connectors ’, ’Document Processing’, ’Languages’, ‘Signature’ 和 ‘Application Options’ 設定將儲存於 admin_customSettings.mst 轉換檔之中。</seg>
       </tuv>
     </tu>
     <tu>
