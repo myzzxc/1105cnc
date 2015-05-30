@@ -19190,6 +19190,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Virtualization of MS Office with Office Deployment tool</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013107Z" creationid="CCYU" creationdate="20150530T013107Z">
+        <seg>使用 Office 部署工具虛擬 MS Office </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Volume licensing: single license for  multiple seats, no activation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132407Z" creationid="CCYU" creationdate="20150524T132407Z">
