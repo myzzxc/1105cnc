@@ -1658,6 +1658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding more components to the package</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011938Z" creationid="CCYU" creationdate="20150530T011938Z">
+        <seg>增加更多元件至封包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding water is important for two reasons: It replaces water that has stuck to feathers- it has been calculated that this can be as much as 60 percent- but it also helps to keep the bacterial concentration in the water down; it should not be allowed to rise above 40 percent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034643Z">
@@ -4390,10 +4398,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customization with Nuance Customization Kit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011721Z" creationid="CCYU" creationdate="20150530T011721Z">
+        <seg>使用 Nuance 自訂工具組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customize the experience</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133454Z" creationid="CCYU" creationdate="20150524T133454Z">
         <seg>自訂體驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customizing the installer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011751Z" creationid="CCYU" creationdate="20150530T011751Z">
+        <seg>自訂安裝程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -6523,6 +6547,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Getting Started with the Customization Kit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011743Z" creationid="CCYU" creationdate="20150530T011743Z">
+        <seg>自訂工具組入門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Getting test footage for the fire and detection algorithm is difficult as objects have to be set on fire!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155433Z">
@@ -8281,6 +8313,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182841Z">
         <seg>深埋設安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation in Distributed Environments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011631Z" creationid="CCYU" creationdate="20150530T011631Z">
+        <seg>於分散式環境中安裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -10489,6 +10529,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193710Z">
         <seg>非必要測試，請見8.13節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional: Finalizing the transform file</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011849Z" creationid="CCYU" creationdate="20150530T011849Z">
+        <seg>可選： 寫入轉換檔案</seg>
       </tuv>
     </tu>
     <tu>
