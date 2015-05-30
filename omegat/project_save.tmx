@@ -5206,6 +5206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Displaying fields for location and contact information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102200Z" creationid="CCYU" creationdate="20150530T102108Z">
+        <seg>顯示位置和聯繫資訊的欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distributable PDF creation parameters</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022747Z" creationid="CCYU" creationdate="20150530T022747Z">
@@ -13861,6 +13869,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133230Z">
         <seg>需與Arduino電路板（未包含）搭配使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requiring a reason for each signature, along with facilities to edit the text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102015Z" creationid="CCYU" creationdate="20150530T102015Z">
+        <seg>每次簽署時要求提供理由以及編輯文件之單位</seg>
       </tuv>
     </tu>
     <tu>
