@@ -4990,6 +4990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Destination folder: you can choose the default installation value or Browse to select a different location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051240Z" creationid="CCYU" creationdate="20150530T051240Z">
+        <seg>Destination folder （目標資料夾）：可選擇預設安裝位置或點擊 Browse （瀏覽）來選擇不同的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digifort Analytic modules possess powerful video analysis that used together will allow the monitoring is more efficient and intelligent, helping operators to achieve a higher rate of accidents in the capture and detecting events.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T051637Z">
@@ -18892,6 +18900,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This example shows usage of the default destination folder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051319Z" creationid="CCYU" creationdate="20150530T051319Z">
+        <seg>此圖為預設目標檔案夾之設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This feature is especially useful for limiting document modification during archiving or e-filing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054115Z" creationid="CCYU" creationdate="20150524T054115Z">
@@ -21010,6 +21026,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133224Z">
         <seg>您也可以撥打/接聽電話（需要外接喇叭和麥克風）以及傳送/接收簡訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can choose to prevent end-users from modifying each one of the above options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051411Z" creationid="CCYU" creationdate="20150530T051411Z">
+        <seg>可選擇防止終端使用者修改上述的各個選項，</seg>
       </tuv>
     </tu>
     <tu>
