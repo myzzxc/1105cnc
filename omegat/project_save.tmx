@@ -2234,6 +2234,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example for Application Options choices</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102632Z" creationid="CCYU" creationdate="20150530T102632Z">
+        <seg>Application Options （應用程式選項）選項範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example for Document Processing choices</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100508Z" creationid="CCYU" creationdate="20150530T100508Z">
@@ -11425,8 +11433,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Optional: Finalizing the transform file</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011849Z" creationid="CCYU" creationdate="20150530T011849Z">
-        <seg>可選： 寫入轉換檔案</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102647Z" creationid="CCYU" creationdate="20150530T011849Z">
+        <seg>可選：寫入轉換檔案</seg>
       </tuv>
     </tu>
     <tu>
