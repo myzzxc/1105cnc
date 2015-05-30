@@ -5631,6 +5631,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable Nuance PDF toolbar in Microsoft Office: turn this setting on to show the Nuance PDF toolbar in Office 2003 applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084920Z" creationid="CCYU" creationdate="20150530T084903Z">
+        <seg>啟用 Microsoft Office 中的 Nuance PDF 工具列：開啟此設定將 Nuance PDF 工具列顯示於 Office 2003 應用程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable logging in Microsoft Office Applications: Turning this setting on helps application troubleshooting without causing performance degradation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085104Z" creationid="CCYU" creationdate="20150530T085104Z">
+        <seg>啟用 Microsoft Office 應用程式紀錄日誌：開啟此設定有助於進行應用程式的故障排除而不會拖慢效能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable other integrations (if needed)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014205Z" creationid="CCYU" creationdate="20150530T014205Z">
