@@ -15841,6 +15841,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Customization Kit helps to create a personalized package of Nuance Power PDF Advanced for organization-wide deployment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T034642Z" creationid="CCYU" creationdate="20150530T034642Z">
+        <seg>自訂工具組能協助建立個人化的 Nuance Power PDF 進階版套裝軟體，以用於組織內的軟體部署。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Customization Kit is located in the Tools folder on the CD (.\Tools\CustomKit\CustomizationKit.exe).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T033721Z" creationid="CCYU" creationdate="20150530T033721Z">
