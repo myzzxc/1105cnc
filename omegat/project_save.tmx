@@ -11125,6 +11125,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally mark the Suppress display of Serial Number checkbox to hide this screen from your installation flow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T045159Z" creationid="CCYU" creationdate="20150530T045159Z">
+        <seg>（可選）勾選 Suppress display of Serial Number （不顯示序號）方塊使安裝流程中隱藏此視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081405Z">
