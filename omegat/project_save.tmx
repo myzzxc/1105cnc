@@ -1626,6 +1626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Directory Rights Management Service</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025717Z" creationid="CCYU" creationdate="20150530T025717Z">
+        <seg>Active Directory Rights Management Service （版權管理服務）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Mark up and Highlighting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085234Z" creationid="CCYU" creationdate="20150524T085234Z">
@@ -16001,6 +16009,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Redistributable packages are located in the Prerequisite folder on the CD:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025620Z" creationid="CCYU" creationdate="20150530T025620Z">
+        <seg>套裝程式均位於光碟的 Prerequisite 資料夾中：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shield also includes a reset controller, to ensure that the W5500 Ethernet module is properly reset on power-up.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022519Z">
@@ -17116,8 +17132,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>The installation of the product continues automatically after reboot when you have logged in again; you are not required to launch Setup.exe again manually.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025228Z" creationid="CCYU" creationdate="20150530T025228Z">
-        <seg>在重新開機後該產品的安裝將自動繼續當您已登錄的再一次 ；此外，您不需要再手動啟動 Setup.exe。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025347Z" creationid="CCYU" creationdate="20150530T025228Z">
+        <seg>重新開機再次登錄後將自動繼續安裝產品，無需再手動執行 Setup.exe。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19153,6 +19169,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142412Z">
         <seg>請於接收/檢驗設備後一週內填寫此表並寄送至 joanbo@cgthermal.com 以使保固生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To work with RMS protected documents Active Directory Rights Management Service Client 2.1 must be installed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025806Z" creationid="CCYU" creationdate="20150530T025806Z">
+        <seg>若要使用 RMS 保護之文件，必須安裝 Active Directory Rights Management Service Client 2.1。</seg>
       </tuv>
     </tu>
     <tu>
