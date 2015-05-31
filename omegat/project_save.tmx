@@ -11831,6 +11831,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: &lt;user&gt; must be entered as you see it here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T075508Z">
+        <seg>註：無須更改語法中的 &lt;user&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: All the connectors are disabled by default.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053951Z">
@@ -23749,6 +23757,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052440Z">
         <seg>你能利用分析軟體生成事件報告和統計圖表，如計算物件、遺落物件、臉部偵測等等……系統中紀錄的所有事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can push this with the user macro with the following syntax:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T075331Z">
+        <seg>可使用下列語法將此功能與使用者巨集一同推送：</seg>
       </tuv>
     </tu>
     <tu>
