@@ -1634,6 +1634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accept the EULA and enter serial number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152011Z">
+        <seg>同意 EULA 並輸入序號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acceptance criteria are developed for use solely by ICC-ES for purposes of issuing ICC-ES evaluation reports.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143916Z">
@@ -4514,6 +4522,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101549Z">
         <seg>點擊 Signature。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Start installation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T151957Z">
+        <seg>點擊 Start installation</seg>
       </tuv>
     </tu>
     <tu>
@@ -16978,6 +16994,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Custom install, make necessary customization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152131Z">
+        <seg>選擇 Custom install（自訂安裝），依所需進行設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Microsoft Office applications in which you want Power PDF integration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084502Z">
@@ -17038,6 +17062,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051557Z">
         <seg>選擇 all/none （全選/取消選擇），並勾選需鎖定修改之項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select language, mark Nuance Cloud Connector and Nuance text to speech extension module checkboxes if needed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T151949Z">
+        <seg>選擇語言，依所需選擇勾選 Nuance Cloud Connector 和 Nuance text to speech extension module 方塊</seg>
       </tuv>
     </tu>
     <tu>
