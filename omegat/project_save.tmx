@@ -4382,6 +4382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Close on Package completed step</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153532Z">
+        <seg>於套裝程式完成後點擊 Close</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Connectors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090827Z">
@@ -9931,6 +9939,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T052700Z">
         <seg>總體而言，必須確保冷藏鏈功能正常，並將細菌繁殖的可能性降至最低以避免保存期限縮短。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Application Virtualization Sequencer select the Virtual Registry tab</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153602Z">
+        <seg>於 Application Virtualization Sequencer 中選擇 Virtual Registry 分頁</seg>
       </tuv>
     </tu>
     <tu>
@@ -17034,6 +17050,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Continue to modify package without saving using the package editor and click Next</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153446Z">
+        <seg>選擇 Continue to modify package without saving using the package editor （使用套裝程式編輯器繼續修改套裝程式而不儲存）並點擊 Next</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Control Panel/Administrative Tools/Active Directory Users and Computers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104904Z">
@@ -17066,6 +17090,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Key - Merge with Local Key</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153711Z">
+        <seg>選擇 Key - Merge with Local Key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Microsoft Office applications in which you want Power PDF integration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084502Z">
@@ -17086,6 +17118,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T105117Z">
         <seg>選擇 Properties（屬性）、點擊 Group Policy （群組設定）分頁，接著點擊 New（新建）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Registry\User\[{AppVCurrentUserSID}]\Software\Nuance key and right click on it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153657Z">
+        <seg>選擇 Registry\User\[{AppVCurrentUserSID}]\Software\Nuance 機碼並以滑鼠右鍵點擊。</seg>
       </tuv>
     </tu>
     <tu>
