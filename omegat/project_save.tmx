@@ -9687,6 +9687,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the ‘Windows Start’ menu select Citrix \ Management Consoles \ Presentation Server Console.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114527Z">
+        <seg>在“Windows 開始功能表”ˋ中選擇 Citrix \ Management Consoles \ Presentation Server Console。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In these instances please use the same clearance as show below for the front of the table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131114T031209Z">
@@ -11073,8 +11081,16 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Log off then log on again to complete the installation and to enable proper functioning of various components.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114350Z">
-        <seg>登出然後重新登入以完成安裝，使各個元件的正常運作。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114416Z">
+        <seg>登出然後重新登入以完成安裝並使各個程式元件正常運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log on to the ’Server Farm’</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114541Z">
+        <seg>登入至 ’Server Farm’</seg>
       </tuv>
     </tu>
     <tu>
@@ -15822,6 +15838,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104956Z">
         <seg>滑鼠右鍵點擊包含部署電腦之網站、網域或組織單位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click ’Applications’ and choose ’Publish Applications’ (CTRL+P).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114658Z">
+        <seg>右鍵點選“Applications（應用程式）”並選擇 “Publish Applications（發佈應用程式）”（CTRL + P）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21085,6 +21109,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ’Application Publishing Wizard’ launches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114729Z">
+        <seg>“Application Publishing Wizard （應用程式發佈精靈）”將會開啓。’ launches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their replacement by any other equivalent means may only be done if HUTCHINSON agrees in writing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020718Z">
@@ -22372,6 +22404,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T132631Z">
         <seg>我們的大腦可以利用來自兩耳的資訊定位聲源、保持空間定向能力且更清楚地理解言語，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To publish product to client machines, follow the steps below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114436Z">
+        <seg>要將產品發佈到用戶端電腦，請按照下面的步驟：</seg>
       </tuv>
     </tu>
     <tu>
