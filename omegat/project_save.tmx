@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10143,6 +10143,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be delayed on Windows XP clients when the administrator enables logon optimization for group policy, in which case you will see an entry in the event log after the first reboot, as shown below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T101611Z" creationid="Judy" creationdate="20150531T101611Z">
+        <seg>當管理員啟用群組原則的登錄最佳化時，於 Windows XP 用戶端電腦上將會延遲，這種情況下將在第一次重新開機時，在事件日誌中看到如下所示的記錄，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can group these pixels together to create tracked objects.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132052Z">
@@ -19673,6 +19681,22 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T123626Z">
         <seg>使用外部電源時，Arduino 電路板之電壓輸入（非USB連接或其它穩壓的電源之5伏特）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation is performed on the second reboot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T101636Z" creationid="Judy" creationdate="20150531T101636Z">
+        <seg>第二次重新開機時執行安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation is then performed on the second reboot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T101624Z" creationid="Judy" creationdate="20150531T101624Z">
+        <seg>然後在第二次重新開機時執行安裝。</seg>
       </tuv>
     </tu>
     <tu>
