@@ -10911,6 +10911,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microsoft Rights Management Services</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054732Z">
+        <seg>Microsoft Rights Management Services （版權管理服務）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Microsoft Word Integration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051518Z">
@@ -12480,6 +12488,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optimize PDF documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054758Z">
+        <seg>PDF 文件最佳化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Option</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091705Z">
@@ -12700,6 +12716,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134417Z">
         <seg>PANELBUILDER 2D &amp; 鈑金排版軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF Document comparison</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054805Z">
+        <seg>PDF 文件比較</seg>
       </tuv>
     </tu>
     <tu>
@@ -14666,6 +14690,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Redact PDF documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054819Z">
+        <seg>PDF 文件加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Redact documents</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085755Z">
@@ -14854,6 +14886,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150027Z">
         <seg>可靠度測試用以確認外力和黏結/滑落之間的相關性，列於表 3.6 之 測試編號10a和10b中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Document Elements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054841Z">
+        <seg>移除文件元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -15378,6 +15418,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scan</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054846Z">
+        <seg>掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scan Inbox</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071450Z">
@@ -15550,6 +15598,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190049Z">
         <seg>確保交貨計畫要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security and Digital signature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054901Z">
+        <seg>安全性和數位簽章</seg>
       </tuv>
     </tu>
     <tu>
@@ -16362,6 +16418,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Split PDF documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054916Z">
+        <seg>分割 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spreading these materials could result in a fire and serious bodily.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T122246Z">
@@ -16879,6 +16943,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093246Z">
         <seg>宣傳標語：無須妥協的 PDF 軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tagging PDF documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055010Z">
+        <seg>標記 PDF 文件</seg>
       </tuv>
     </tu>
     <tu>
