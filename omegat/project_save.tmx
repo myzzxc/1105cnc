@@ -11751,6 +11751,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark I have installed the primary parent program checkbox and click Next.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145723Z">
+        <seg>勾選 I have installed the primary parent program 方塊並點擊 Next。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark the desired settings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052051Z">
@@ -23949,6 +23957,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140635Z">
         <seg>等待套裝程式下載和轉換完成，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait until the package is expanded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145543Z">
+        <seg>等待安裝程式展開完成。</seg>
       </tuv>
     </tu>
     <tu>
