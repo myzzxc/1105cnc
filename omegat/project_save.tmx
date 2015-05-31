@@ -16282,6 +16282,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Control Panel/Administrative Tools/Active Directory Users and Computers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104904Z">
+        <seg>選擇 Control Panel （控制台）/Administrative Tools（管理工具）/Active Directory Users and Computers（使用者和電腦）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Microsoft Office applications in which you want Power PDF integration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084502Z">
