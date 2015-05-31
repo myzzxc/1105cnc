@@ -20565,6 +20565,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The value must be a valid server address that contains the home directory information for the ShareScan users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T082849Z">
+        <seg>數值值必須是一個包含 ShareScan 使用者主目錄資訊的有效的伺服器位址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The values in between are grey.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103400Z">
@@ -22340,6 +22348,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134419Z">
         <seg>利用乙太網路程式館來編寫網路擴充模組連接到網路之設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the S2DSERVER property with ShareScan in ‘home directory’ mode.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T082841Z">
+        <seg>於“home directory（主目錄）”模式中與 ShareScan 同時使用S2DSERVER 屬性，</seg>
       </tuv>
     </tu>
     <tu>
