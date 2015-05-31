@@ -4782,6 +4782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create shortcut for Power PDF Advanced to Desktop</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051047Z">
+        <seg>建立 Power PDF 進階版捷徑至桌面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curing time at standard, minimum and maximum temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121837Z">
@@ -7797,6 +7805,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to install help</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051247Z">
+        <seg>安裝説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, a group of 30 pixels means nothing to the camera without calibration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132215Z">
@@ -9187,6 +9203,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T134214Z">
         <seg>Pure 的設計受到以上雙耳聽力優勢的啟發，並藉由尖端的技術為使用者提供最自然的雙耳聽力體驗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install PDF Converter component</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T050959Z">
+        <seg>安裝 PDF Converter （轉檔程式）元件</seg>
       </tuv>
     </tu>
     <tu>
@@ -11495,10 +11519,34 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Off: MINIMALUI =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051233Z">
+        <seg>關閉：MINIMALUI =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Off: SSASSISTANSATSTARTUP =””</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T050920Z">
         <seg>關閉：SSASSISTANSATSTARTUP =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: SSCONVSTATE =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051008Z">
+        <seg>關閉：SSCONVSTATE =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: SSDESKTOPSHORTCUT =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051057Z">
+        <seg>關閉：SSDESKTOPSHORTCUT =””</seg>
       </tuv>
     </tu>
     <tu>
@@ -11559,6 +11607,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On premises: HELP_MODE = “2”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051320Z">
+        <seg>指定路徑：HELP_MODE = “2”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Mega, the hardware SS pin, 53, is not used to select either the W5500 or the SD card, but it must be kept as an output or the SPI interface won't work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133423Z">
@@ -11583,10 +11639,34 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On: MINIMALUI = “1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051226Z">
+        <seg>開啓：MINIMALUI = “1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On: SSASSISTANSATSTARTUP =”1”</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T050915Z">
         <seg>開啓：SSASSISTANSATSTARTUP =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: SSCONVSTATE =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051004Z">
+        <seg>開啓：SSCONVSTATE =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: SSDESKTOPSHORTCUT =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051052Z">
+        <seg>開啓：SSDESKTOPSHORTCUT =”1”</seg>
       </tuv>
     </tu>
     <tu>
@@ -11699,6 +11779,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024516Z">
         <seg>線上說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Online from Nuance: HELP_MODE =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051302Z">
+        <seg>Nuance 線上說明：HELP_MODE =”1”</seg>
       </tuv>
     </tu>
     <tu>
@@ -15381,6 +15469,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085106Z">
         <seg>以我們的控制面板展示非常簡便的文件組合和加入圖章功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show only Install Welcome, License Agreement and Ready To Install dialogs on Setup Wizard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051222Z">
+        <seg>於安裝精靈中只顯示 Install Welcome（安裝歡迎畫面）、License Agreement （授權合約）和 Ready to Install （準備好進行安裝）對話視窗</seg>
       </tuv>
     </tu>
     <tu>
