@@ -12071,6 +12071,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: In Windows Server 2012 Active Directory environment it might happen that removal of Nuance Power PDF Advanced from client machines fails; should this happen, use Startup or Shutdown scripts with the following command included:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114030Z">
+        <seg>註： Windows Server 2012 Active Directory 環境從用戶端電腦移除 Nuance Power PDF 進階版時可能會失敗；若發生失敗情形，使用加入以下指令列的 Startup 或 Shutdown 腳本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: Performance and speed will be enhanced if your computer’s processor,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064821Z">
