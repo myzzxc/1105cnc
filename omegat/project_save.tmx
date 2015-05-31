@@ -8799,6 +8799,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the above example, the selected installation language is French (1036.mst).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034052Z">
+        <seg>上述範例中所選的安裝語言為法語 (1036.mst)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the case of a significant discrepancy in the quality or supply chain performance level, an escalation process must be activated in order to return the situation to normal as quickly as possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160126Z">
@@ -14757,6 +14765,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T013937Z">
         <seg>確保交貨計畫：文件中訂定之所有規範，由供應商對任何供應或交付違約所進行之補救。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See more in the figure: Language specific transform files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034222Z">
+        <seg>詳細資訊請見圖：Language specific transform files（指定語言轉換檔）。</seg>
       </tuv>
     </tu>
     <tu>
