@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1662,6 +1662,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025717Z">
         <seg>Active Directory Rights Management Service （版權管理服務）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active Directory is a feature of Windows 2000 or above servers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T094544Z" creationid="Judy" creationdate="20150531T094544Z">
+        <seg>Active Directory 為 Windows 2000 以上伺服器中的功能，</seg>
       </tuv>
     </tu>
     <tu>
