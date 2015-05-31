@@ -15826,6 +15826,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scan to Desktop</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T075125Z">
+        <seg>掃描至電腦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scan to standard image, searchable, or editable PDF formats.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071628Z">
@@ -22072,6 +22080,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn this feature off if you want to deploy read-only PDF printer settings and Create Assistant profiles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T075110Z">
+        <seg>若需要唯讀 PDF 印表機設定和建立協助設定檔時關閉此功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Twin 5HP Elte Spindles – Twin Y configuration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143811Z">
@@ -22348,6 +22364,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101701Z">
         <seg>利用選項開啟或關閉以下功能：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the property S2DFILEPATH for Scan to Desktop in manual mode.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T075226Z">
+        <seg>使用 S2DFILEPATH 屬性以手動模式掃描至電腦，</seg>
       </tuv>
     </tu>
     <tu>
