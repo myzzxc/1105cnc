@@ -7258,6 +7258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For Windows XP proceed as described above for the vcredist.msi.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T111545Z">
+        <seg>Windows XP 中，依上述步驟進行 vcredist.msi。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a better visualisation, see the sample chart below forsome ofthe sizes wecommonly deliver toour customers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T145257Z">
@@ -15466,6 +15474,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember different .msi package files should be used on 32 and 64-bit systems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T111721Z">
+        <seg>請記住 32 位元和 64 位元的系統上應使用不同的 .msi 套裝程式檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove Document Elements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054841Z">
@@ -16382,6 +16398,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085851Z">
         <seg>選擇需整合之程式和瀏覽器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the right .msi package of Power PDF Advanced (Nuance Power PDF Advanced.msi).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T111640Z">
+        <seg>選擇正確的 Power PDF 進階版 .msi 套裝程式 (Nuance Power PDF Advanced.msi)。</seg>
       </tuv>
     </tu>
     <tu>
