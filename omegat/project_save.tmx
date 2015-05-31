@@ -6014,6 +6014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Download Windows Management Framework 3.0 from Microsoft: http://www.microsoft.com/en-us/download/details.aspx?id=34595</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141731Z">
+        <seg>於 Microsoft 網站下載 Windows Management Framework 3.0： http://www.microsoft.com/en-us/download/details.aspx?id=34595</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download: PDF of GSM shield schematic, Reference design</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133214Z">
@@ -10191,6 +10199,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install Windows Power Shell 3.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141645Z">
+        <seg>安裝 Windows Power Shell 3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install blind and test flanges, piping gauge, and valve.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055502Z">
@@ -10515,6 +10531,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T101611Z">
         <seg>當管理員啟用群組原則的登錄最佳化時，於 Windows XP 用戶端電腦上將會延遲，這種情況下將在第一次重新開機時，在事件日誌中看到如下所示的記錄，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be downloaded from Microsoft: http://www.microsoft.com/en-us/download/details.aspx?id=17851 or can be found in Prerequisites folder on the Power PDF installation media.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141613Z">
+        <seg>可於 Microsoft 網站下載：http://www.microsoft.com/en-us/download/details.aspx?id=17851 或使用 Power PDF 安裝媒體中 Prerequisites 資料夾內的程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16794,6 +16818,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Windows update from Start menu, download and install all recommended updates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141640Z">
+        <seg>從開始功能表中選擇 Windows 更新，下載並安裝所有建議的更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select all/none or any one of them and mark the ones you want to be invisible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090459Z">
@@ -22571,6 +22603,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092557Z">
         <seg>但事實絕非如此，因為 PDF 是一個真正的 ISO 標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This step is not needed on Windows 8 and above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141753Z">
+        <seg>Windows 8 以上系統則不需要此步驟。</seg>
       </tuv>
     </tu>
     <tu>
