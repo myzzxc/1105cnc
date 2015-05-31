@@ -10007,6 +10007,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Launch PDF Create Assistant at startup.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T050907Z">
+        <seg>啓動時顯示 PDF Create Assistant （PDF 建立幫手）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Launch a console window on the client machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033152Z">
@@ -11151,6 +11159,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: The feature is disabled by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T050930Z">
+        <seg>註：此功能預設為關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: The feature is enabled by default.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043726Z">
@@ -11479,6 +11495,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Off: SSASSISTANSATSTARTUP =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T050920Z">
+        <seg>關閉：SSASSISTANSATSTARTUP =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Off: SSETPRODEFVIEWER =””</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043633Z">
@@ -11555,6 +11579,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T131804Z">
         <seg>另一方面，通知 HUTCHINSON 任何未符合交付歷史的連續性（例如，參數之設置不同，即使是未指定之參數）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: SSASSISTANSATSTARTUP =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T050915Z">
+        <seg>開啓：SSASSISTANSATSTARTUP =”1”</seg>
       </tuv>
     </tu>
     <tu>
