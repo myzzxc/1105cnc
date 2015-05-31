@@ -5278,6 +5278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy the concatenated IDs from Notepad and paste to Value Data and click OK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T162715Z">
+        <seg>由記事本中複製整串 IDs 並貼上至 Value Data （數值資料）並點擊 OK（確定）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy the created folder (package) to a shared location.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154456Z">
@@ -23801,10 +23809,42 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type chrome.exe and press Enter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T162728Z">
+        <seg>輸入 chrome.exe 並按下 Enter 鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type firefox.exe and press Enter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T162736Z">
+        <seg>輸入 firefox.exe 並按下 Enter 鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type iexplore.exe and press Enter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T162519Z">
         <seg>輸入 iexplore.exe 並按下 Enter 鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type nlnotes.exe and press Enter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T162747Z">
+        <seg>輸入 nlnotes.exe 並按下 Enter 鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type notes2.exe and press Enter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T162802Z">
+        <seg>輸入 notes2.exe 並按下 Enter 鍵</seg>
       </tuv>
     </tu>
     <tu>
