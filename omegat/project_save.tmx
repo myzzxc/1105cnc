@@ -7351,6 +7351,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find "&lt;COM mode=" and change settings to the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154135Z">
+        <seg>找出 "&lt;COM mode=" 並將其改為以下內容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find "EnvironmentVariables" and change settings to the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154211Z">
+        <seg>找出 "EnvironmentVariables" 並將其改為以下內容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finishing the installation package</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024623Z">
@@ -8000,6 +8016,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094545Z">
         <seg>從文件組合和協作開始……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the created folder open PowerPDF_UserConfig.xml with Notepad</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154315Z">
+        <seg>由建立之資料夾中使用記事本開啓 PowerPDF_UserConfig.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the folder where the package was saved open PowerPDF_DeploymentConfig.xml with Notepad and edit it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154057Z">
+        <seg>於套裝程式儲存之資料夾中使用記事本開啓 PowerPDF_DeploymentConfig.xml 並進行編輯。</seg>
       </tuv>
     </tu>
     <tu>
