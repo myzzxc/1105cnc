@@ -4598,6 +4598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connectors switches</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052150Z">
+        <seg>連接點開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contact AXYZ today for more information and  a machine quotation based on your speciÀ c needs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083953Z">
@@ -5859,6 +5867,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071352Z">
         <seg>嵌入媒體物件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Connectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052159Z">
+        <seg>啓用連接點</seg>
       </tuv>
     </tu>
     <tu>
@@ -7417,6 +7433,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090901Z">
         <seg>靈活的自訂選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google Chrome Integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052050Z">
+        <seg>Google Chrome 整合</seg>
       </tuv>
     </tu>
     <tu>
@@ -11648,6 +11672,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Off: ISINSTALLCHROMEADDDIN =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052101Z">
+        <seg>關閉：ISINSTALLCHROMEADDDIN =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: ISINSTALLCONNECTORS =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052207Z">
+        <seg>關閉：ISINSTALLCONNECTORS =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Off: ISINSTALLFIREFOXADDIN =””</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052002Z">
@@ -11668,6 +11708,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051233Z">
         <seg>關閉：MINIMALUI =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: NUCONN_DOCUSHARE =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052217Z">
+        <seg>關閉：NUCONN_DOCUSHARE =””</seg>
       </tuv>
     </tu>
     <tu>
@@ -11732,6 +11780,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043633Z">
         <seg>關閉：SSETPRODEFVIEWER =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: SSWDSSUPPORT =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052141Z">
+        <seg>關閉：SSWDSSUPPORT =””</seg>
       </tuv>
     </tu>
     <tu>
@@ -11856,6 +11912,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On: ISINSTALLCHROMEADDDIN =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052056Z">
+        <seg>開啓：ISINSTALLCHROMEADDDIN =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: ISINSTALLCONNECTORS =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052203Z">
+        <seg>開啓：ISINSTALLCONNECTORS =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On: ISINSTALLFIREFOXADDIN =”1”</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051958Z">
@@ -11876,6 +11948,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051226Z">
         <seg>開啓：MINIMALUI = “1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: NUCONN_DOCUSHARE=”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052214Z">
+        <seg>開啓：NUCONN_DOCUSHARE=”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: NUCONN_DROPBOX =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052222Z">
+        <seg>開啓：NUCONN_DROPBOX =”1”</seg>
       </tuv>
     </tu>
     <tu>
@@ -11940,6 +12028,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043556Z">
         <seg>開啓：SSETPRODEFVIEWER =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: SSWDSSUPPORT =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052136Z">
+        <seg>開啓：SSWDSSUPPORT =”1”</seg>
       </tuv>
     </tu>
     <tu>
@@ -22197,6 +22293,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064130Z">
         <seg>Windows 8.1 32 位元或 64 位元版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows Desktop Search Integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052132Z">
+        <seg>Windows Desktop Search（桌面搜尋）整合</seg>
       </tuv>
     </tu>
     <tu>
