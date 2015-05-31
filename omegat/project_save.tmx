@@ -9583,6 +9583,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended to have an empty folder for your published package (the Tool warns you of this).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025726Z">
+        <seg>建議建立空的資料夾給發佈套裝程式使用（將會跳出警示視窗）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended to power the board with an external power supply that can provide between 700mA and 1000mA.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135752Z">
@@ -11035,6 +11043,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T134804Z">
         <seg>註：全頻評估一般於多位代表在場時執行，代表們可能取出作業過程中他們認為有用的所有樣品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: To restart constructing your package, click Reset Settings to Nuance default on the Home tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025957Z">
+        <seg>注意：若要重新建立套裝程式，點擊 Home 分頁中的 Reset Settings to Nuance default （回復 Nuance 設定預設值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14789,6 +14805,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085851Z">
         <seg>選擇需整合之程式和瀏覽器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select which versions to publish: 32-bit and/or 64-bit, and click OK.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025805Z">
+        <seg>選擇發佈的版本：32 位元或 64 位元，並點擊 OK （確定）。</seg>
       </tuv>
     </tu>
     <tu>
