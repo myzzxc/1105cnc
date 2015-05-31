@@ -2853,6 +2853,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Available choices are determined by your Import mode selections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022811Z">
+        <seg>依照所選之 Import mode （匯入模式）有不同的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available from all ribbons</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133427Z">
@@ -10187,6 +10195,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102601Z">
         <seg>選擇所需選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make your selections under Settings to import.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022707Z">
+        <seg>於 Settings to import （匯入設定）中選取所需設定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20271,6 +20287,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Under Import mode you can:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022835Z">
+        <seg>於 Import mode 中可選擇：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfortunately, the high price of Acrobat forces most companies to limit the number of employees they can provide powerful PDF software to</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092958Z">
@@ -20371,6 +20395,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T040343Z">
         <seg>使用批次處理工具來自動完成重複性工作，以提高整體工作效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use default product settings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022958Z">
+        <seg>Use default product settings（使用產品預設設定）</seg>
       </tuv>
     </tu>
     <tu>
