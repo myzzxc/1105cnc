@@ -3677,6 +3677,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse for the package then click on the Expand button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145449Z">
+        <seg>選擇安裝程式路徑後點擊 Expand 按鈕，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse the setup.exe of Power PDF Advanced from the install media.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114248Z">
@@ -6859,6 +6867,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054330Z">
         <seg>匯出/匯入/搬移註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend the Office App-V Package</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145339Z">
+        <seg>延伸 Office App-V 安裝程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -12523,6 +12539,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114030Z">
         <seg>註： Windows Server 2012 Active Directory 環境從用戶端電腦移除 Nuance Power PDF 進階版時可能會失敗；若發生失敗情形，使用加入以下指令列的 Startup 或 Shutdown 腳本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: It is possible to use either the original build or an installer package that you already customized and Published using the Customization Kit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145313Z">
+        <seg>註：可以使用原始組建或使用自動工具組自訂並發佈之安裝套裝程式。</seg>
       </tuv>
     </tu>
     <tu>
