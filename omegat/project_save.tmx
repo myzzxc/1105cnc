@@ -8694,6 +8694,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Important note for OnBase: Administrators can preset Server URL and Data Source parameters of the connection settings of the OnBase connector on user machines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053419Z">
+        <seg>OnBase 之重要注意事項：管理員可以預設用戶電腦上 OnBase 連接點的連接設定之 Server URL （伺服器網址）和 Data Source （資料來源）參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important: If eDOCS is turned off then three other properties are turned off to ensure correct application behavior.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052924Z">
@@ -9691,6 +9699,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050419Z">
         <seg>特別用於無原始圖檔時，轉換現有模板或裝置為自動切割檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also possible to disallow users to change these settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053446Z">
+        <seg>也可以禁止使用者更改這些設定。</seg>
       </tuv>
     </tu>
     <tu>
