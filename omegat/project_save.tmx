@@ -1810,6 +1810,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a successful settings collection, you are ready to Import Application Settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024138Z">
+        <seg>設定收集完成後，可進行 Import Application Settings （匯入應用程式設定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After any delivery incident report by HUTCHINSON, the Supplier delivers its products in packaging that clearly shows that they need to undergo an additional control before shipping.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144613Z">
@@ -3897,6 +3905,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T020859Z">
         <seg>選擇存檔位置、輸入檔案名稱並儲存轉換檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose an Import mode to verify which choices are available for import.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024240Z">
+        <seg>點選 Import mode 確認可匯入之選項，</seg>
       </tuv>
     </tu>
     <tu>
@@ -14141,6 +14157,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085410Z">
         <seg>校閱和批准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review your settings then launch the collection process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024048Z">
+        <seg>檢查設定後執行收集程序。</seg>
       </tuv>
     </tu>
     <tu>
