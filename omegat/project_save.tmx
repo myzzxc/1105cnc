@@ -3645,6 +3645,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse for Windows Search service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142435Z">
+        <seg>選擇 Windows Search 服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse for a folder where the files of the Office Deployment Tool will be extracted and click OK.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135901Z">
@@ -5842,6 +5850,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071902Z">
         <seg>於應用程式設定視窗中停用“Show location and contact information（顯示地點和連絡資訊）”勾選方塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable Automatic Windows Update</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142453Z">
+        <seg>停用 Windows 自動更新</seg>
       </tuv>
     </tu>
     <tu>
@@ -8071,8 +8087,16 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Go to Control Panel, click on Administrative tools.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142138Z">
-        <seg>請轉到控制台，點擊管理工具。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142408Z">
+        <seg>開啓控制台，點擊系統管理工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Control Panel, click on Windows Update.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142519Z">
+        <seg>開啓控制台，點選 Windows 更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17830,6 +17854,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142120Z">
         <seg>停止 Windows Search</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142441Z">
+        <seg>停止服務。</seg>
       </tuv>
     </tu>
     <tu>
