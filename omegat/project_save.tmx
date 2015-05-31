@@ -17676,6 +17676,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The client installation procedure always requires administrative privileges and must run with a per-machine installation context (ALLUSER=1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T032216Z">
+        <seg>用戶端安裝程序永遠需要管理權限，且必須以個別安裝之電腦運行（ALLUSER = 1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The client installer both for 32-bit and 64-bit environments can also be found on the CD:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025951Z">
