@@ -3397,6 +3397,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse for shared product settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023117Z">
+        <seg>Browse for shared product settings（瀏覽選擇共用產品設定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brush Donut</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082141Z">
@@ -7229,6 +7237,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to the Home tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023239Z">
+        <seg>選擇 Home 分頁，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to the Transform tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T020409Z">
@@ -8393,6 +8409,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044758Z">
         <seg>若需要預先定義此 mst 檔案的名稱 (admin_customSettings.mst) 加上整個安裝程式檔案集，點擊下 Home 功能區中的 Publish Package （發佈套裝程式）按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to use shared product settings, before you start import</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023214Z">
+        <seg>若欲使用共用的產品設定，於開始匯入前</seg>
       </tuv>
     </tu>
     <tu>
@@ -20427,6 +20451,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152851Z">
         <seg>設備使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use settings from the locally installed product, or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023043Z">
+        <seg>Use settings from the locally installed product（使用本機安裝產品之設定），或</seg>
       </tuv>
     </tu>
     <tu>
