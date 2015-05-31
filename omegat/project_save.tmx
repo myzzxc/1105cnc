@@ -6111,6 +6111,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example to turn off this setting: MSIEXEC.EXE /i "[full path]\Nuance Power PDF Advanced.msi" SSETPRODEFVIEWER =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043647Z">
+        <seg>關閉設定範例：MSIEXEC.EXE /i "[full path]\Nuance Power PDF Advanced.msi" SSETPRODEFVIEWER =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example to turn on this setting: MSIEXEC.EXE /i "[full path]\Nuance Power PDF Advanced.msi" SSETPRODEFVIEWER=”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043624Z">
+        <seg>開啓設定範例：MSIEXEC.EXE /i "[full path]\Nuance Power PDF Advanced.msi" SSETPRODEFVIEWER=”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133600Z">
@@ -11135,6 +11151,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: The feature is enabled by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043726Z">
+        <seg>註：此功能預設為開啓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: To restart constructing your package, click Reset Settings to Nuance default on the Home tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025957Z">
@@ -11455,6 +11479,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Off: SSETPRODEFVIEWER =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043633Z">
+        <seg>關閉：SSETPRODEFVIEWER =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On Site Existing Spec</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080057Z">
@@ -11523,6 +11555,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T131804Z">
         <seg>另一方面，通知 HUTCHINSON 任何未符合交付歷史的連續性（例如，參數之設置不同，即使是未指定之參數）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: SSETPRODEFVIEWER =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043556Z">
+        <seg>開啓：SSETPRODEFVIEWER =”1”</seg>
       </tuv>
     </tu>
     <tu>
