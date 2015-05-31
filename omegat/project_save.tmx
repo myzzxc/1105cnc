@@ -3909,10 +3909,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chinese (Simplified)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070316Z">
+        <seg>中文（簡體）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chinese (Simplified)*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024137Z">
         <seg>中文（簡體）*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chinese (Traditional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070312Z">
+        <seg>中文（繁體）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4290,6 +4306,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063750Z">
         <seg>即將推出……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command line options of Text-To-Speech Languages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070930Z">
+        <seg>朗讀語言之指令列選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command line options of User Interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070402Z">
+        <seg>使用者介面之指令列選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -4974,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070320Z">
+        <seg>捷克文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Czech*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024152Z">
@@ -5162,6 +5202,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030740Z">
         <seg>變質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070322Z">
+        <seg>丹麥文</seg>
       </tuv>
     </tu>
     <tu>
@@ -5634,6 +5682,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121306Z">
         <seg>此期間內，除非另有說明，所有交付之貨物必須都包括分析認證，證明供應商交付的產品經過供應商的檢驗，且貨物符合管控規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070324Z">
+        <seg>荷蘭文</seg>
       </tuv>
     </tu>
     <tu>
@@ -6727,6 +6783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070333Z">
+        <seg>芬蘭文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finnish*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024250Z">
@@ -7324,6 +7388,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070337Z">
+        <seg>法文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>French*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024300Z">
@@ -7433,6 +7505,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T035832Z">
         <seg>一般開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070340Z">
+        <seg>德文</seg>
       </tuv>
     </tu>
     <tu>
@@ -8069,6 +8149,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070342Z">
+        <seg>匈牙利文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hungarian*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024317Z">
@@ -8589,10 +8677,50 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the value of the NUUSERLANGTTS property is 3 then the installer deploys all the command line defined TTS languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070825Z">
+        <seg>若 NUUSERLANGTTS 屬性值為 3，則安裝程式將部署指令列定義之朗讀語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the value of the property NUUSERLANGTTS is 0 then the installer does not deploy the TTS feature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070621Z">
+        <seg>如果 NUUSERLANGTTS 屬性的值為 0，則安裝程式不部署朗讀功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the value of the property NUUSERLANGTTS is 1 then the installer deploys the same TTS language as the installation language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070737Z">
+        <seg>若 NUUSERLANGTTS 屬性值為 1，則安裝程式將部署與安裝語言相同的朗讀語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the value of the property NUUSERLANGTTS is 2 then the installer deploys all the available TTS languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070750Z">
+        <seg>若 NUUSERLANGTTS 屬性值為 2，則安裝程式將部署所有可用的朗讀語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the value of the property NUUSERLANGUI is 0 then the installer deploys the installation language and English.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055839Z">
         <seg>若 NUUSERLANGUI 屬性值為 0，則安裝程式將部署安裝語言和英文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the value of the property NUUSERLANGUI is 2 then the installer deploys all the command line defined UI languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070206Z">
+        <seg>若 NUUSERLANGUI 屬性值為 2，則安裝程式將部署指令列定義之使用者介面語言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10111,6 +10239,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070314Z">
+        <seg>義大利文 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Italian*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024127Z">
@@ -10139,6 +10275,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084905Z">
         <seg>具有最先進功能和人性化設計的高效能軟體，符合企業和專業人士所需。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070318Z">
+        <seg>日文</seg>
       </tuv>
     </tu>
     <tu>
@@ -10235,6 +10379,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130420Z">
         <seg>刀具切削解決方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Korean</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070321Z">
+        <seg>韓文</seg>
       </tuv>
     </tu>
     <tu>
@@ -11447,6 +11599,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Norwegian</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070323Z">
+        <seg>挪威文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Norwegian*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024212Z">
@@ -11515,6 +11675,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053951Z">
         <seg>註：所有連接點預設為關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: By default the value of NUUSERLANGUI is 0.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070538Z">
+        <seg>註：NUUSERLANGUI 預設值為 0。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12514,8 +12682,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Option</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091705Z">
-        <seg>配件</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070309Z">
+        <seg>選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -13737,6 +13905,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070326Z">
+        <seg>波蘭文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Polish*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024230Z">
@@ -13773,6 +13949,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071129Z">
         <seg>組合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portuguese (Brazil)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070331Z">
+        <seg>葡萄牙文（巴西）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15210,6 +15394,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070336Z">
+        <seg>俄羅斯文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Russian*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024256Z">
@@ -16314,6 +16506,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070338Z">
+        <seg>西班牙文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spanish*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024304Z">
@@ -16718,6 +16918,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z">
         <seg>藉由獨特內部旋渦式設計能高效率地吸取切屑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070341Z">
+        <seg>瑞典文</seg>
       </tuv>
     </tu>
     <tu>
@@ -17223,6 +17431,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193741Z">
         <seg>由ITEA和製造商進行測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text-To-Speech (TTS) languages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070546Z">
+        <seg>朗讀 (TTS) 語言</seg>
       </tuv>
     </tu>
     <tu>
@@ -18997,6 +19213,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following example deploys 4 UI languages, English, Chinese (Simplified), Spanish and German.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070504Z">
+        <seg>以下範例為部署 4 種使用者介面語言：英文、中文（簡體）、西班牙文和德文之範例，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following reference documents may be consulted in order to provide more complete information on the HUTCHINSON requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020057Z">
@@ -19089,6 +19313,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T123626Z">
         <seg>使用外部電源時，Arduino 電路板之電壓輸入（非USB連接或其它穩壓的電源之5伏特）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation language is German.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070519Z">
+        <seg>安裝語言為德文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19981,6 +20213,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The supported languages and the command line options are indicated in the following table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070300Z">
+        <seg>下表列出了支援的語言和指令列選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system can generate alarms on events that are occurring at the time of operation for example: a car circling against the tide, a person who is trespassing on property or even warn about suspicious movement of people.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T052017Z">
@@ -20711,6 +20951,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This example deploys French as the TTS language:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070710Z">
+        <seg>以下為部署法文為朗讀語言之範例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This example deploys all the UI languages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070113Z">
@@ -20723,6 +20971,22 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070022Z">
         <seg>以下為只部署英文使用者介面語言之範例，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This example installs English as the TTS language:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070722Z">
+        <seg>以下為安裝英文為朗讀語言之範例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This example installs all the TTS languages:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070804Z">
+        <seg>以下為部署所有朗讀語言之範例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21516,6 +21780,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051418Z">
         <seg>裝載雞隻前貨櫃必須先達到正確的溫度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turkish</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070343Z">
+        <seg>土耳其文</seg>
       </tuv>
     </tu>
     <tu>
