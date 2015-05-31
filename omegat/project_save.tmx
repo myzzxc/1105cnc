@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7833,6 +7833,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124443Z">
         <seg>接地針腳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group Policy (GPO), a component of Active Directory, includes a Software Installation snap-in that enables an administrator to create a network installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T095036Z" creationid="Judy" creationdate="20150531T095036Z">
+        <seg>Group Policy (GPO) 為 Active Directory 中的程式元件，其包含了軟體安裝管理功能，使管理員能建立網路安裝，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18912,6 +18920,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112923Z">
         <seg>場景中新增的物體也利用與取走物體類似的偵測方法，但不是去尋找辨識背景中的空洞，而是尋找在畫面中停留時間夠久，因而成為辨識背景一部分的新增物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The administrator can install software to Windows XP or above clients.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T095220Z" creationid="Judy" creationdate="20150531T095220Z">
+        <seg>管理員能安裝軟體至 Windows XP 以上的用戶端電腦中。</seg>
       </tuv>
     </tu>
     <tu>
