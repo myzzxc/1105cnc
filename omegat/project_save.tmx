@@ -1794,6 +1794,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Edit mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054151Z">
+        <seg>進階編輯模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced edition: Nuance® Power PDF Advanced (do not include version number)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082207Z">
@@ -2110,6 +2118,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062533Z">
         <seg>當人員、車量、動物或其它預先設定之分類的物體，在指定之虛擬區域內停止超過設定的時間時，便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow running JavaScript</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054201Z">
+        <seg>允許運行 JavaScript</seg>
       </tuv>
     </tu>
     <tu>
@@ -2749,6 +2765,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Save</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054206Z">
+        <seg>自動儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Tracking</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092417Z">
@@ -3153,6 +3177,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071005Z">
         <seg>文件編號 (Bates Numbering)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bates numbering</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054218Z">
+        <seg>文件編號</seg>
       </tuv>
     </tu>
     <tu>
@@ -3769,6 +3801,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152634Z">
         <seg>汽車市場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CaseMap support</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054223Z">
+        <seg>CaseMap 支援</seg>
       </tuv>
     </tu>
     <tu>
@@ -4790,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create dynamic forms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054234Z">
+        <seg>創建動態表單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create forms from scratch using easy to use form drawing tools.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050346Z">
@@ -5066,6 +5114,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132730Z">
         <seg>請勿超過裝配總圖所列之設計壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DRM Security - FileOpen support</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054257Z">
+        <seg>DRM 安全性 - FileOpen 支援</seg>
       </tuv>
     </tu>
     <tu>
@@ -6239,6 +6295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export/Import/Migrate comments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054330Z">
+        <seg>匯出/匯入/搬移註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extended Gantry Height</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131244Z">
@@ -6411,6 +6475,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071754Z">
         <seg>更快速的索引、搜尋和組合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Favorites</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054336Z">
+        <seg>我的最愛</seg>
       </tuv>
     </tu>
     <tu>
@@ -8125,6 +8197,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ISINSTALLBATESSTAMP, ISINSTALLFORMTYPER, ISINSTALLFAVOURITES, ISFLATTENENABLE, ISFORMTOOLENABLE, ISINSTALLOPTIMIZE, ISCONTAINREDACTION, ISINSTALLEXAMINEDOC, ISINSTALLPDFCHUNKER, ISINSTALLRETAG, ISINSTALLCLIPART, ISINSTALLWATERMARK, ISBATCHPROCESSING and OPT_JS_SHOWBUTTON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054111Z">
+        <seg>ISINSTALLBATESSTAMP, ISINSTALLFORMTYPER, ISINSTALLFAVOURITES, ISFLATTENENABLE, ISFORMTOOLENABLE, ISINSTALLOPTIMIZE, ISCONTAINREDACTION, ISINSTALLEXAMINEDOC, ISINSTALLPDFCHUNKER, ISINSTALLRETAG, ISINSTALLCLIPART, ISINSTALLWATERMARK, ISBATCHPROCESSING 和 OPT_JS_SHOWBUTTON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Id</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181659Z">
@@ -8714,6 +8794,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053419Z">
         <seg>OnBase 之重要注意事項：管理員可以預設用戶電腦上 OnBase 連接點的連接設定之 Server URL （伺服器網址）和 Data Source （資料來源）參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important: If Reader mode is turned on then some other properties are turned off to ensure correct application behavior.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054047Z">
+        <seg>重要資訊：若開啓閱讀模式時，其它幾個屬性會關閉以確保應用程式正確運行，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18461,6 +18549,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The correct way to turn on Reader mode is the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054136Z">
+        <seg>以下為正確開啓閱讀模式的方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The costs of this action will be paid in full by the supplier.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161855Z">
@@ -20114,6 +20210,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T132348Z">
         <seg>這些針腳支援使用SPI程式庫進行SPI通訊。請注意SPI針腳與Uno上設置不同，未連接到任何數位I/O針腳，只有ICSP連接器上之針腳可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These properties are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054056Z">
+        <seg>這些屬性為：</seg>
       </tuv>
     </tu>
     <tu>
