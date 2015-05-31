@@ -1698,6 +1698,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Directory is ready to install the product on client computers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T112104Z">
+        <seg>Active Directory 已準備好安裝產品於用戶端電腦上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Directory supports three main installation scenarios: Publish to Users, Assign to Users and Assign to Computers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T095928Z">
@@ -9567,6 +9575,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case of a multi-language setup package do not forget the relevant language transform file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T112026Z">
+        <seg>使用於多語言安裝程式時，請不要忘記加入相關語言轉換檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the case of a significant discrepancy in the quality or supply chain performance level, an escalation process must be activated in order to return the situation to normal as quickly as possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160126Z">
@@ -16390,6 +16406,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051557Z">
         <seg>選擇 all/none （全選/取消選擇），並勾選需鎖定修改之項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the 'Modifications' tab then click 'Add' when the Properties dialog box appears and select the transform files with the modifications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T111932Z">
+        <seg>選擇“Modification （修改）”分頁，然後當屬性對話方塊出現時點選“Add（增加）”並選擇修改之轉換檔。</seg>
       </tuv>
     </tu>
     <tu>
