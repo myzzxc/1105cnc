@@ -10911,6 +10911,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now that you have set all desired parameters, you can optionally create a transform file (.mst) for your installer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150531T013119Z" creationid="CCYU" creationdate="20150531T013119Z">
+        <seg>現在已經設定了所有所需參數，接著可以選擇是否為安裝程式建立轉換檔 (.mst)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now there is an alternative to Adobe Acrobat with an intuitive Office based user experience that allows users to work in the same experience they are familiar with, along with an impressive array of features specifically designed to make business users more productive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T032500Z" creationid="CCYU" creationdate="20150524T032500Z">
@@ -19874,6 +19882,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133427Z">
         <seg>要取消選擇SD卡則將針腳4設定為輸出並寫入高電位；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do this:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150531T013125Z" creationid="CCYU" creationdate="20150531T013125Z">
+        <seg>步驟如下：</seg>
       </tuv>
     </tu>
     <tu>
