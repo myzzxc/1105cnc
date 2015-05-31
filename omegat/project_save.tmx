@@ -3221,6 +3221,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides hotfixes, you can also add other files (for instance plug-ins) to your customized package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021900Z">
+        <seg>除了修補程式外，還可以增加其它檔案（如外掛程式）到自訂套裝程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Best Usability</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133547Z">
@@ -3922,6 +3930,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021413Z">
         <seg>點擊 Add hotfixes to Installation （加入修補程式至安裝程式中）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Additional Files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021925Z">
+        <seg>點擊 Additional Files（增加檔案）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19149,6 +19165,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These settings take effect only if installation is launched by setup.exe from the setup root folder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021757Z">
+        <seg>這些設定只有在執行安裝程式根目錄中的 setup.exe 進行安裝時才會生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These special features must be considered by the Supplier to deal with any special processing during the AMDEC for the surveillance plans and control instructions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T022650Z">
@@ -21628,6 +21652,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T035702Z">
         <seg>也具有特殊的試算表控制項和功能，能將 PDF 文件檔中的所有頁面都合併成單一的 Excel 工作表，無須進行無謂的剪貼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can add/modify/remove and reorder files for your package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021959Z">
+        <seg>可以增加/修改/刪除和重新排列套裝檔案。</seg>
       </tuv>
     </tu>
     <tu>
