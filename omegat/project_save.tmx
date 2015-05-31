@@ -1698,6 +1698,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add ServerURL and DataSource values of REG_SZ type to registry under key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053809Z">
+        <seg>增加 REG_SZ 類型之 ServerURL 和 DataSource 值至登錄機碼設定檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Table 3.8:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T175223Z">
@@ -5466,6 +5474,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071322Z">
         <seg>文件加密 &amp; 安全性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document Processing switches</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053959Z">
+        <seg>文件處理開關</seg>
       </tuv>
     </tu>
     <tu>
@@ -11315,6 +11331,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142817Z">
         <seg>請注意當電路板第一次通電時，如果已存有使用者之程式，它將會直接跳至程式而不會啟動開機載入程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: All the connectors are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053951Z">
+        <seg>註：所有連接點預設為關閉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20943,6 +20967,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To disallow user to change these add DisableUserServerConfig DWORD value 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053855Z">
+        <seg>若要禁止使用者更改設定，將 DisableUserServerConfig DWORD 值設為 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To do this with the SD card, set pin 4 as an output and write a high to it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133427Z">
@@ -23190,6 +23222,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030459Z">
         <seg>正確填寫與 HUTCHINSON 聯合定義之文件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e.g. on 32-bit OS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053933Z">
+        <seg>32 位元作業系統範例：</seg>
       </tuv>
     </tu>
     <tu>
