@@ -6431,6 +6431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finalizing the transform file (above) is optional; also you can include more than a customized transform file in your installation package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021122Z">
+        <seg>完成轉換檔（如上述）是可選的操作；此外也可以加入更多自訂的轉換檔於安裝套裝程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, Power PDF supports simple yet powerful document review workflows with the ability to add comments, stamps, redactions, and highlights with as few clicks as possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121239Z">
@@ -17772,6 +17780,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following steps let you add hotfixes and plug-ins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021157Z">
+        <seg>以下為增加修補程式和外掛程式的步驟，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The goal is to avoid being held liable for an interruption of production at HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134655Z">
@@ -19153,6 +19169,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155035Z">
         <seg>這些煙霧的特性可以用於偵測歸類為煙霧的像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These, too, will become parts of your installation package but are included outside the transform file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021308Z">
+        <seg>這些程式也會成為安裝套裝程式的一部分，但不包含於轉換檔中。</seg>
       </tuv>
     </tu>
     <tu>
