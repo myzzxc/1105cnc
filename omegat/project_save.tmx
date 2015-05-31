@@ -17090,6 +17090,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Save as and save the package</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153923Z">
+        <seg>選擇 File &gt; Save as 並儲存套裝程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Key - Merge with Local Key</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153711Z">
@@ -17126,6 +17134,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153657Z">
         <seg>選擇 Registry\User\[{AppVCurrentUserSID}]\Software\Nuance 機碼並以滑鼠右鍵點擊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Registry\User\[{AppVCurrentUserSID}]\Software\Nuance\PDF key and right click on it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153743Z">
+        <seg>選擇 Registry\User\[{AppVCurrentUserSID}]\Software\Nuance\PDF 機碼並以滑鼠右鍵點擊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Registry\User\[{AppVCurrentUserSID}]\Software\Nuance\PDF\PDF Driver key and right click on it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153842Z">
+        <seg>選擇 Registry\User\[{AppVCurrentUserSID}]\Software\Nuance\PDF\PDF Driver 機碼並以滑鼠右鍵點擊。</seg>
       </tuv>
     </tu>
     <tu>
