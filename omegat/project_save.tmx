@@ -8997,6 +8997,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If so, click ‘Yes’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135155Z">
+        <seg>若出現此情況請點選“Yes（是）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If statistical equivalence cannot be shown, all tests must be repeated for that anchor element.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193300Z">
@@ -22399,6 +22407,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This section describes how to sequence a Power PDF package and what additional installations are needed on the client computer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135356Z">
+        <seg>本節將介紹如何序列執行 Power PDF 安裝程式和用戶端電腦上需要額外安裝的程式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This security plan defines, if necessary, the security inventory (value, management method) that the Supplier implements to guarantee the HUTCHINSON supply pursuant to its requirements in all circumstances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025827Z">
@@ -22505,8 +22521,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>This will remove all integration entries.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T113703Z">
-        <seg>上述步驟將會移除所有的整合條目。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135206Z">
+        <seg>上述步驟將會移除所有的整合項目。</seg>
       </tuv>
     </tu>
     <tu>
