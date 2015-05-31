@@ -3653,6 +3653,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse to PDF application and its Working Directory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134626Z">
+        <seg>選擇 PDF 應用程式與其工作目錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse to the Power PDF Advanced executable as installed on the server and click ’Next’.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115149Z">
@@ -4458,6 +4466,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T120602Z">
         <seg>點擊 ‘Finish’ 以發佈應用程式或選擇“Configure advanced application settings now（立即設定應用程式進階設置）”已修改進階選項如Access control（存取控制）、File type associations（檔案類型關聯）、Limit of instances to run（運行實例限制）、Client options （用戶端選項，如加密）、Application appearance （應用程式外觀，如顯示大小和色彩品質等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click ‘Next’, then ‘Finish’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134658Z">
+        <seg>點擊“Next（下一步）”後再點擊“Finish（完成）”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16946,6 +16962,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set window color and size and click the ‘Next’ button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134551Z">
+        <seg>設定視窗的色彩和尺寸，然後點擊“Next（下一步）”按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting Document Processing parameters lets you filter the feature set of the Power PDF application.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T095850Z">
@@ -22608,6 +22632,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To launch the application, double-click its icon in the MetaFrame Program Neighborhood window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134813Z">
+        <seg>雙擊 MetaFrame Program Neighborhood 視窗中的圖示以啟動應用程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To localize sound sources, maintain spatial orientation, and understand speech better, our brain utilizes information from both ears.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T132631Z">
@@ -22676,6 +22708,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091345Z">
         <seg>右圖為除塵風機與真空泵之馬達底座。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To uninstall the PDF application, follow the steps below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134825Z">
+        <seg>若要移除 PDF 應用程式，請執行以下步驟：</seg>
       </tuv>
     </tu>
     <tu>
