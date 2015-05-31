@@ -12952,6 +12952,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other switches</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073632Z">
+        <seg>其他開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Others are available on the CAMTECH and PACER systems as well.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121226Z">
@@ -22220,6 +22228,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055241Z">
         <seg>使用設計插圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Shared Watermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073624Z">
+        <seg>使用共用浮水印，</seg>
       </tuv>
     </tu>
     <tu>
