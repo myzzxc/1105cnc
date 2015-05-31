@@ -5454,6 +5454,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable 'Require Signing Reason', 'Show Reasons' and 'Edit Reasons' controls in the Settings dialog of the application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071724Z">
+        <seg>於應用程式設定視窗中停用“Require Signing Reason（要求簽署原因）”、“Show Reasons（顯示原因）”和“Edit Reasons（編輯原因）”控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable 'Show location and contact information' checkbox in the Settings dialog of the application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071902Z">
+        <seg>於應用程式設定視窗中停用“Show location and contact information（顯示地點和連絡資訊）”勾選方塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disable this if installation package size is a concern.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101057Z">
@@ -6011,6 +6027,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071559Z">
         <seg>於應用程式中啓用“Require Signing Reason（要求簽署原因）”和“Show Reasons（顯示原因）”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable 'Show location and contact information' in the application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071800Z">
+        <seg>於應用程式中啓用“Show location and contact information（顯示地點和連絡資訊）”</seg>
       </tuv>
     </tu>
     <tu>
