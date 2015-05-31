@@ -6174,6 +6174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E.g. C:\Program Files\Nuance\Power PDF, or C:\Program Files (x86)\Nuance\Power PDF in the case of a 64-bit OS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T151738Z">
+        <seg>例： C:\Program Files\Nuance\Power PDF，或 C:\Program Files (x86)\Nuance\Power PDF 於 64 位元作業系統中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EACH ADDITIONAL SERVO AXIS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141519Z">
@@ -8113,6 +8121,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032240Z">
         <seg>根據上述情況，顯然處理過程不能有所延遲，需在屠宰後約 18 分鐘內進入預冷處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go through the Pro installer steps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T151828Z">
+        <seg>進行安裝程式步驟</seg>
       </tuv>
     </tu>
     <tu>
@@ -23308,6 +23324,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143554Z">
         <seg>雙 5HP Elte 主軸 – 雙 Z 組態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type Power PDF as package name and type the install path where Power PDF is going to be installed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T151651Z">
+        <seg>輸入 Power PDF 為安裝程式名稱並輸入 Power PDF 安裝路徑。</seg>
       </tuv>
     </tu>
     <tu>
