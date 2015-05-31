@@ -6487,6 +6487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fax via E-mail</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054356Z">
+        <seg>透過電子郵件傳真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fax: +1 403 279 4206</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083447Z">
@@ -6643,6 +6651,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051328Z">
         <seg>SharePoint &amp; 文件管理系統 (DMS) 開啟/儲存檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Storage options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054412Z">
+        <seg>檔案儲存選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -6838,6 +6854,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053305Z">
         <seg>快閃記憶體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flatten</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054440Z">
+        <seg>合併文件圖層</seg>
       </tuv>
     </tu>
     <tu>
@@ -7264,6 +7288,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052708Z">
         <seg>進行此測試石，請遵循 3-1 節之注意事項和警示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Form Tools all, except Highlighting and reset form</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054547Z">
+        <seg>表單工具，不包含標示劃記和和重設表單</seg>
       </tuv>
     </tu>
     <tu>
@@ -8838,6 +8870,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Imposition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054629Z">
+        <seg>裝版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Improved</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024216Z">
@@ -9267,6 +9307,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T031635Z">
         <seg>索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indexing PDF files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054645Z">
+        <seg>製作 PDF 檔案索引</seg>
       </tuv>
     </tu>
     <tu>
@@ -10623,6 +10671,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maintain Revisions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054709Z">
+        <seg>保留修訂內容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maintain constant test pressure for at least 15 minutes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070907Z">
@@ -10747,6 +10803,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124432Z">
         <seg>提供最大電流為50 mA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement Tools</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054716Z">
+        <seg>測量工具</seg>
       </tuv>
     </tu>
     <tu>
