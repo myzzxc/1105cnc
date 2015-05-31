@@ -8581,6 +8581,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the value of NUUSERLANGUI property is 1 then the installer deploys all the available UI languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070100Z">
+        <seg>若 NUUSERLANGUI 屬性值為 1，則安裝程式將部署所有可用的使用者介面語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the value of the property NUUSERLANGUI is 0 then the installer deploys the installation language and English.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055839Z">
@@ -18493,6 +18501,22 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The application will use English by default:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070027Z">
+        <seg>應用程式預設使用英文：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The application will use French by default:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070002Z">
+        <seg>應用程式預設使用法文：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The basic customization workflow is as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040346Z">
@@ -20681,8 +20705,24 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>This example deploys French and English UI languages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055822Z">
-        <seg>以下為使用 French and English UI languages.</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T065950Z">
+        <seg>以下為部署法文和英文使用者介面語言之範例，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This example deploys all the UI languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070113Z">
+        <seg>以下為部署所有使用者介面語言之範例，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This example deploys only English UI language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070022Z">
+        <seg>以下為只部署英文使用者介面語言之範例，</seg>
       </tuv>
     </tu>
     <tu>
