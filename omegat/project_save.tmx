@@ -3413,6 +3413,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse to the folder where you want to store the collected settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024008Z">
+        <seg>點擊 Browse （瀏覽）選擇欲儲存收集之設定的資料夾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brush Donut</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082141Z">
@@ -10243,6 +10251,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022707Z">
         <seg>於 Settings to import （匯入設定）中選取所需設定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make your selections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023823Z">
+        <seg>選擇所需設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18968,6 +18984,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103011Z">
         <seg>達成此目的的方法是模擬每個像素以「辨識」背景，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wizard only offers to collect the settings that are different from the package you have opened.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023812Z">
+        <seg>設定精靈只提供與已開啟之套裝程式中不同之設定，</seg>
       </tuv>
     </tu>
     <tu>
