@@ -4205,6 +4205,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose to connect to the server, or to a published application.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134138Z">
+        <seg>選擇連接到伺服器，或連接至已發佈的應用程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chpt6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151108Z">
@@ -4442,6 +4450,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T120602Z">
         <seg>點擊 ‘Finish’ 以發佈應用程式或選擇“Configure advanced application settings now（立即設定應用程式進階設置）”已修改進階選項如Access control（存取控制）、File type associations（檔案類型關聯）、Limit of instances to run（運行實例限制）、Client options （用戶端選項，如加密）、Application appearance （應用程式外觀，如顯示大小和色彩品質等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click ‘Next’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134050Z">
+        <seg>點擊“Next（下一步）”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5114,6 +5130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085510Z">
         <seg>從 Microsoft Office 建立 PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create an ICA connection: double-click ‘Custom ICA Connection’ then on ‘Add ICA connection’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T133920Z">
+        <seg>建立一個 ICA 連線：雙擊“Custom ICA Connection（自訂 ICA 連線）”後點選“Add ICA connection（增加 ICA 連線）”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6467,6 +6491,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043023Z">
         <seg>無論是短期或長期禁食，確保良好的禁食過程將有助於減少此階段的細菌污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description for the connection and select the appropriate network protocol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134015Z">
+        <seg>輸入連線敘述並選擇適當的網路通訊協定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16622,6 +16654,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T111640Z">
         <seg>選擇正確的 Power PDF 進階版 .msi 套裝程式 (Nuance Power PDF Advanced.msi)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the type of connection and click ‘Next’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134059Z">
+        <seg>選擇連線類型並點擊“Next（下一步）”。</seg>
       </tuv>
     </tu>
     <tu>
