@@ -1674,6 +1674,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Directory supports three main installation scenarios: Publish to Users, Assign to Users and Assign to Computers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T095517Z" creationid="Judy" creationdate="20150531T095517Z">
+        <seg>Active Directory 支援三種主要的安裝方案： 發佈給使用者、分配至使用者和分配至電腦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Mark up and Highlighting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085234Z">
@@ -18926,8 +18934,16 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>The administrator can install software to Windows XP or above clients.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T095220Z" creationid="Judy" creationdate="20150531T095220Z">
-        <seg>管理員能安裝軟體至 Windows XP 以上的用戶端電腦中。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T095231Z" creationid="Judy" creationdate="20150531T095220Z">
+        <seg>管理員能安裝軟體至 Windows XP 以上的用戶端電腦中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The administrator cannot use the snap-in to install to clients with older versions of the Windows operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T095425Z" creationid="Judy" creationdate="20150531T095425Z">
+        <seg>管理員無法使用管理功能安裝至舊版 Windows 作業系統的用戶端。</seg>
       </tuv>
     </tu>
     <tu>
