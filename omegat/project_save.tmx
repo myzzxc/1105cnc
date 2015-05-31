@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18366,7 +18366,7 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>The S2DSUBDIR property must match the value for ShareScan ‘home directory’ mode.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T093220Z" creationid="Judy" creationdate="20150531T093220Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T093220Z">
         <seg>S2DSUBDIR 屬性必須符合 ShareScan “主目錄”模式，</seg>
       </tuv>
     </tu>
@@ -21417,7 +21417,7 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>This is an optional value</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T093251Z" creationid="Judy" creationdate="20150531T093251Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T093251Z">
         <seg>此為一個可選數值。</seg>
       </tuv>
     </tu>
