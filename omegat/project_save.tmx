@@ -8933,6 +8933,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the application icon is not displayed there, double-click the Application Set Manager icon, then on Find New Application Set and follow the instructions in the wizard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T121147Z">
+        <seg>若此處未顯應用程式圖示，雙擊 Application Set Manager（應用程式設定管理員）圖示，然後點擊 Find New Application Se（尋找新應用程式集）並按照精靈說明操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the car was then removed it would leave a hole in the learnt background:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112513Z">
@@ -23819,8 +23827,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>When you are done, the published application will be available under the Citrix Program Neighborhood on the client machines.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T120820Z">
-        <seg>當完成發佈後，發佈之應用程式將會出現在用戶端電腦上的 Citrix Program Neighborhood 之中。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T120907Z">
+        <seg>當完成發佈後，發佈之應用程式將會出現在用戶端電腦上的 Citrix Program Neighborhood 之中，</seg>
       </tuv>
     </tu>
     <tu>
