@@ -20335,6 +20335,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To install Power PDF Advanced with a basic user interface but with no message box on completion, use the following command-line:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034745Z">
+        <seg>若要安裝使用基本使用者介面的 Power PDF 進階版而完成時不顯示訊息方塊，請使用以下指令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To interface with the cellular network, the board requires a SIM card provided by a network operator.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135409Z">
@@ -21564,6 +21572,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140339Z">
         <seg>只是描器會掃過整個頁面，而計數線是固定不動讓物體通過它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where q defines what type of user interface the installation will use:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034815Z">
+        <seg>其中 q 定義將安裝何種類型的使用者介面：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22870,6 +22886,22 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T120555Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specifies a basic interface with a progress bar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T035016Z">
+        <seg>含有進度列之基本介面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specifies that no user interface will be displayed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034837Z">
+        <seg>不顯示任何使用者介面</seg>
       </tuv>
     </tu>
     <tu>
