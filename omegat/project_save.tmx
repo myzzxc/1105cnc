@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2769,6 +2769,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150822Z">
         <seg>評估標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign to Computers will install the software on the computer during the next computer reboot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100840Z" creationid="Judy" creationdate="20150531T100840Z">
+        <seg>分配至電腦將在下次電腦重新開機時安裝軟體至電腦上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14270,6 +14278,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132841Z">
         <seg>Power PDF 進階版為 Power PDF 標準版的強化版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF Advanced supports the Assign to Computers scenario and will successfully install the software when the computer is rebooted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T101152Z" creationid="Judy" creationdate="20150531T101152Z">
+        <seg>Power PDF 進階版支援分配至電腦方案，並於電腦重新開機時成功安裝軟體。</seg>
       </tuv>
     </tu>
     <tu>
