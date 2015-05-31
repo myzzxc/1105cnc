@@ -5222,6 +5222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy the created folder (package) to a shared location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154456Z">
+        <seg>複製建立之資料夾（套裝程式）至共用資料夾中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright ©2014</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143924Z">
@@ -10375,6 +10383,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install Microsoft .Net Framework 4.0 full version</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154528Z">
+        <seg>安裝 Microsoft .Net Framework 4.0 完整版，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install Microsoft .Net Framework 4.0 full version.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141358Z">
@@ -10387,6 +10403,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142613Z">
         <seg>安裝 Microsoft App-V Sequencer 5.0 SP1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install Microsoft App-V client 5.0 SP1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154555Z">
+        <seg>安裝 Microsoft App-V client 5.0 SP1</seg>
       </tuv>
     </tu>
     <tu>
@@ -10411,6 +10435,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013934Z">
         <seg>安裝印表機驅動程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install Windows Management Framework 3.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154546Z">
+        <seg>安裝 Windows Management Framework 3.0</seg>
       </tuv>
     </tu>
     <tu>
