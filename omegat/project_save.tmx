@@ -4069,6 +4069,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change en-us to the desired language code.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140258Z">
+        <seg>將 en-us 改為所需語言碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change of status in the panel, usually to "New Business Hold"</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T162508Z">
@@ -11047,6 +11055,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Launch a Command Prompt (cmd.exe) with Administrator rights (Run as Administrator)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140444Z">
+        <seg>以管理員權限執行 (Run as Administrator) 命令提示符 (cmd.exe)  。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Launch a console window on the client machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033152Z">
@@ -15842,6 +15858,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace &lt;path&gt; and  &lt;output path&gt; with the real paths then press ENTER.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140613Z">
+        <seg>將 &lt;path&gt; 和 &lt;output path&gt; 更改為真正的路徑後按下 ENTER 鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace damaged 0 r defective disc springs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091435Z">
@@ -16366,6 +16390,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022608Z">
         <seg>集屑附件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save the xml file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140319Z">
+        <seg>儲存 xml 檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23004,6 +23036,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091542Z">
         <seg>攝影機類型、影像伺服器、使用之連結器，攝影機位置、角度、距離、高度、照明、快門、光線和其它特性，都是影響系統好壞的因素。因此建議諮詢專業人員或公司，以更了解這些器材。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the following line into the Command Prompt:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140501Z">
+        <seg>輸入以下指令：</seg>
       </tuv>
     </tu>
     <tu>
