@@ -8061,6 +8061,22 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to Control Panel, change to Small icons view, click on Windows Defender.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142013Z">
+        <seg>開啓控制台，更改為檢視小圖示，點擊 Windows Defender 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Control Panel, click on Administrative tools.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142138Z">
+        <seg>請轉到控制台，點擊管理工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to the Home tab</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025533Z">
@@ -9642,6 +9658,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084705Z">
         <seg>Microsoft Outlook 中包含了將電子郵件儲存為 PDF 的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Tools &gt; Options &gt; Administrator unmark Use this program</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142114Z">
+        <seg>於 Tools &gt; Options &gt; Administrator（工具&gt;選項&gt;管理員）中取消勾選 Use this program（使用此程式）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16818,6 +16842,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Services.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142157Z">
+        <seg>選擇服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Windows update from Start menu, download and install all recommended updates</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141640Z">
@@ -17782,6 +17814,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161504Z">
         <seg>庫存水準不符交付績效要求，無優良的運送方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Windows Defender</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141912Z">
+        <seg>停止 Windows Defender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Windows Search</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142120Z">
+        <seg>停止 Windows Search</seg>
       </tuv>
     </tu>
     <tu>
