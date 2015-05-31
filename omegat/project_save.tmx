@@ -5262,6 +5262,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy the PackageId of PowerPDF package from PowerShell and paste it to Notepad</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T162116Z">
+        <seg>由 PowerShell 複製 PowerPDF 套裝程式之 PackageId 並貼上至記事本中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy the VersionID of PowerPDF package from PowerShell and paste it after _ (underscore)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T162323Z">
+        <seg>由 PowerShell 複製 PowerPDF 套裝程式之 VersionID 並貼至 _ （底線）後方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy the created folder (package) to a shared location.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154456Z">
@@ -23741,6 +23757,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160718Z">
         <seg>輸入 Set-ExecutionPolicy Unrestricted 並按下 Enter 鍵 - 按下 Yes 以確認變更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type a _ (underscore) character after the package id</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T162304Z">
+        <seg>於套裝程式 id 後方輸入  _ （底線）</seg>
       </tuv>
     </tu>
     <tu>
