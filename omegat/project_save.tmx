@@ -11833,8 +11833,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Note: &lt;user&gt; must be entered as you see it here.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T075508Z">
-        <seg>註：無須更改語法中的 &lt;user&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T082249Z">
+        <seg>註：無須更改語法中的 &lt;user&gt;，</seg>
       </tuv>
     </tu>
     <tu>
