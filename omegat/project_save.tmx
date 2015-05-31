@@ -9213,6 +9213,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Terminate child processes dialog appears click Yes to close the background processes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153220Z">
+        <seg>若顯示 Terminate child processes 對話視窗，點擊 Yes 以關閉背景處理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the above testing and documentation are not completed, any damage found later will be the responsibility of the customer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133018Z">
@@ -16442,6 +16450,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run and close applications one by one  on Prepare for Streaming dialog then click Next</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153127Z">
+        <seg>於 Prepare for Streaming 對話視窗中逐一執行並關閉應用程式後點擊 Next</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run different operations ateither end of the machine, or park one gantry forlarge job processing over virtually the entire machine length.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131234Z">
@@ -17006,6 +17022,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144903Z">
         <seg>選擇 Add-on 或 Plugin ，點擊 Next</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Allow this package to run on any operating system and click Next</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153314Z">
+        <seg>選擇 Allow this package to run on any operating system （允許此安裝程式運行於任何作業系統中）並點擊 Next</seg>
       </tuv>
     </tu>
     <tu>
