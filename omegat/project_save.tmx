@@ -8421,6 +8421,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you decide to use Msiexec.exe, ensure that you open the Console Window with administrative rights.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033732Z">
+        <seg>若選擇使用 Msiexec.exe，請確保具以管理員權限開啟主控台視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not have any of these then the requirements are minimal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090610Z">
@@ -8449,6 +8457,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091428Z">
         <seg>若訂購配件為鼓風機而非乾式葉片泵，則鼓風機則會安裝在圖中乾式葉片泵的位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you omit the INSTALLDIR parameter, the product will be installed into the default installation folder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033849Z">
+        <seg>若省略 INSTALLDIR 參數時，產品將安裝於預設安裝資料夾中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11051,6 +11067,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142817Z">
         <seg>請注意當電路板第一次通電時，如果已存有使用者之程式，它將會直接跳至程式而不會啟動開機載入程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: If you work in Windows Vista or above it is recommended that you use setup.exe or _setup.exe, because they elevate the installation process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033643Z">
+        <seg>注意：若作業系統為 Windows Vista 以上，建議使用 setup.exe 或 _setup.exe，因為能加速安裝過程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20114,6 +20138,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090609Z">
         <seg>將真空泵或鼓風機連接至機台的真空歧管。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will install the product to the folder specified under install_path.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033816Z">
+        <seg>產品將會安裝於 install_path 中指定之資料夾中，</seg>
       </tuv>
     </tu>
     <tu>
