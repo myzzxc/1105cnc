@@ -2482,6 +2482,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And the language-specific transform files in the case of a multi-language setup package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104109Z">
+        <seg>以及多語言安裝套裝程式中的指定語言轉換檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another time the model can fail is if the model of the objects pixel looks very similar to the background model:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105514Z">
@@ -16186,6 +16194,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See more: Customization with Nuance Customization Kit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104018Z">
+        <seg>更多資訊請見：Customization with Nuance Customization Kit （使用 Nuance 自訂工具組進行自訂）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See more: Language specific transform files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104125Z">
+        <seg>更多資訊請見：Language specific transform files（指定語言轉換檔）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See section 3.2.1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T042153Z">
@@ -17110,6 +17134,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133211Z">
         <seg>蒸汽管道應有適當疏水性，且應依規定設有將關機時管道內殘水排乾之設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steps:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104134Z">
+        <seg>操作步驟：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21304,8 +21336,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>This  file must contain at least the serial number of the product.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103942Z">
-        <seg>此檔案至少必須包含產品的序號。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104102Z">
+        <seg>此檔案至少必須包含產品的序號，</seg>
       </tuv>
     </tu>
     <tu>
