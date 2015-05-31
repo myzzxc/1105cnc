@@ -4117,6 +4117,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose 'Immediately uninstall the software from users and computers'.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T113629Z">
+        <seg>選擇“Immediately uninstall the software from users and computers（立即從使用者和電腦中移除軟體）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Open Package on the Home tab (in the Package group), then browse to an .msi file (e.g. Nuance PDF Advanced.msi) and open it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T043516Z">
@@ -15762,6 +15770,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click it and select 'All tasks/Remove'.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T113555Z">
+        <seg>滑鼠右鍵點選“All tasks/Remove （所有工作/移除）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click the site, domain, or organizational unit that contains the deployment computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104956Z">
@@ -16422,6 +16438,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085851Z">
         <seg>選擇需整合之程式和瀏覽器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the package 'Power PDF Advanced’ from 'Software settings\Software installation'.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T113501Z">
+        <seg>於“Software settings\Software installation（軟體設定\軟體安裝）”中選擇 'Power PDF Advanced’ 程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22131,6 +22155,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T075227Z">
         <seg>以利用重力將凝結水排出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will remove all integration entries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T113703Z">
+        <seg>上述步驟將會移除所有的整合條目。</seg>
       </tuv>
     </tu>
     <tu>
