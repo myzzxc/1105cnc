@@ -895,6 +895,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;path_of_Office.appv&gt;  and &lt;path_of_DeploymentConfig.xml&gt;  should be changed to the real path</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160851Z">
+        <seg>&lt;path_of_Office.appv&gt;  和 &lt;path_of_DeploymentConfig.xml&gt;  必需替換為真實路徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;path_of_PowerPDF.appv&gt;  and &lt;path_of_DeploymentConfig.xml&gt; should be changed to the real path</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161050Z">
+        <seg>&lt;path_of_PowerPDF.appv&gt;  和 &lt;path_of_DeploymentConfig.xml&gt;  必需替換為真實路徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt;0.8</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182220Z">
@@ -5242,6 +5258,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154456Z">
         <seg>複製建立之資料夾（套裝程式）至共用資料夾中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy the following text into Notepad:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161117Z">
+        <seg>將以下文字複製到記事本中：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23608,6 +23632,15 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type Add-AppvClientPackage -Path &lt;path_of_PowerPDF.appv&gt;  -DynamicDeploymentConfiguration &lt;path_of_DeploymentConfig.xml&gt; | Publish-AppvClientPackage  -Global  and press ENTER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161029Z">
+        <seg>輸入 Add-AppvClientPackage -Path &lt;path_of_PowerPDF.appv&gt;  -DynamicDeploymentConfiguration &lt;path_of_DeploymentConfig.xml&gt; | Publish-AppvClientPackage  -Global  並按下Enter 鍵
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type Import-Module appvclient and press Enter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160734Z">
@@ -24185,6 +24218,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Verify that Microsoft Office 2013 has appeared in the Start Menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160955Z">
+        <seg>確認 Microsoft Office 2013 出現在開始功能表中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version: No specific version, first release</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T073910Z">
@@ -24277,6 +24318,22 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait until the package is added and published</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160930Z">
+        <seg>等待套裝程式加入並發佈完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait until the package is added and published.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161058Z">
+        <seg>等待套裝程式加入並發佈完成</seg>
       </tuv>
     </tu>
     <tu>
