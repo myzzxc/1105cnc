@@ -5454,10 +5454,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable  'Include signature's revocation status' checkbox in the Settings dialog of the application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072421Z">
+        <seg>於應用程式設定視窗中停用“Include signature's revocation status（包含撤消簽署狀態）”勾選方塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disable 'Require Signing Reason', 'Show Reasons' and 'Edit Reasons' controls in the Settings dialog of the application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071724Z">
         <seg>於應用程式設定視窗中停用“Require Signing Reason（要求簽署原因）”、“Show Reasons（顯示原因）”和“Edit Reasons（編輯原因）”控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable 'Require time stamp information' checkbox in the Settings dialog of the application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072600Z">
+        <seg>於應用程式設定視窗中停用“Require time stamp information（需要時間戳記資訊）”勾選方塊</seg>
       </tuv>
     </tu>
     <tu>
@@ -6023,10 +6039,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable 'Include signature's revocation status' in the application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072339Z">
+        <seg>於應用程式中啓用“Include signature's revocation status（包含撤消簽署狀態）”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable 'Require Signing Reason' and 'Show Reasons' in the application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071559Z">
         <seg>於應用程式中啓用“Require Signing Reason（要求簽署原因）”和“Show Reasons（顯示原因）”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable 'Require time stamp information' in the application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072537Z">
+        <seg>於應用程式中啓用“Require time stamp information（需要時間戳記資訊）”</seg>
       </tuv>
     </tu>
     <tu>
@@ -22477,6 +22509,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013107Z">
         <seg>使用 Office 部署工具虛擬 MS Office </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visibility settings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072609Z">
+        <seg>可見度設定</seg>
       </tuv>
     </tu>
     <tu>
