@@ -17034,6 +17034,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Customize radio button, ckick Next</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153019Z">
+        <seg>選擇 Customize 選項按鈕，點擊 Next</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Microsoft Office applications in which you want Power PDF integration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084502Z">
@@ -19304,6 +19312,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030149Z">
         <seg>初始部分交貨須有專屬的包裝和標識以加速驗收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Installation report can report errors:  Printer driver detected, Files excluded from package, Unsupported shell extension detected</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152941Z">
+        <seg>安裝報告中會記錄錯誤：Printer driver detected（偵測到印表機驅動程式）、Files excluded from package（安裝套裝程式中排除之檔案）、Unsupported shell extension detected（偵測到 shell extension 檔案）</seg>
       </tuv>
     </tu>
     <tu>
