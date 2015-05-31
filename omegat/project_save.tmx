@@ -8973,6 +8973,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are using home directories, entering a value for S2DDSERVER is mandatory, but entering a value for S2DSUBDIR is optional.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T083023Z">
+        <seg>若使用主目錄時，必須輸入 S2DDSERVER 的數值，但可以選擇輸入  S2DSUBDIR 數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you choose to include this in your installation, choose between having the installation language only, all available languages or the selected languages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101454Z">
