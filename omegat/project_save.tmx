@@ -3645,6 +3645,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse Setup.exe in Power PDF installation media and install Power PDF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144937Z">
+        <seg>由安裝來源媒體中選擇 Power PDF 之 setup.exe 安裝檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse for Windows Search service.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142435Z">
@@ -4366,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Create a New Virtual Application Package</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144630Z">
+        <seg>點選 Create a New Virtual Application Package</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Document Processing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T095859Z">
@@ -4426,6 +4442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T105332Z">
         <seg>點擊 New，接著點選 Package （套裝程式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Next.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144838Z">
+        <seg>點擊 Next。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10243,6 +10267,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T050959Z">
         <seg>安裝 PDF Converter （轉檔程式）元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install Power PDF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144909Z">
+        <seg>安裝 Power PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -16194,6 +16226,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolve issues that are listed in the Prepare Computer dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144831Z">
+        <seg>排除 Prepare Computer 對話視窗中所列出的問題，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Respect for the delivery "periods" set by HUTCHINSON is an essential requirement that the Supplier must observe.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121304Z">
@@ -16866,10 +16906,26 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Add-on or Plugin radio button, click Next</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144903Z">
+        <seg>選擇 Add-on 或 Plugin ，點擊 Next</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Control Panel/Administrative Tools/Active Directory Users and Computers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104904Z">
         <seg>選擇 Control Panel （控制台）/Administrative Tools（管理工具）/Active Directory Users and Computers（使用者和電腦）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Create Package, click Next</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144650Z">
+        <seg>選擇 Create Package，點擊 Next</seg>
       </tuv>
     </tu>
     <tu>
