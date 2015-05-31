@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2769,6 +2769,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150822Z">
         <seg>評估標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign to Users will also “advertise” the program, but it will be available from a Start Menu shortcut, a Desktop shortcut, and from Add/Remove programs in the user’s Control Panel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100519Z" creationid="Judy" creationdate="20150531T100519Z">
+        <seg>分配至使用者也會“廣播”程式，但將會加入至開始功能表的捷徑、 桌面捷徑以及使用者的控制台中的增加/移除程式中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20105,6 +20113,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T140637Z">
         <seg>HUTCHINSON 產品中一項或多項零件之生產外包時，必須能讓 HUTCHINSON 終端客戶針對外包商進行此類零件的特殊要求之管控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The program will not be installed until the user chooses to add it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100230Z" creationid="Judy" creationdate="20150531T100230Z">
+        <seg>使用者選擇增加後才會安裝程式。</seg>
       </tuv>
     </tu>
     <tu>
