@@ -8581,6 +8581,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the value of the property NUUSERLANGUI is 0 then the installer deploys the installation language and English.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055839Z">
+        <seg>若 NUUSERLANGUI 屬性值為 0，則安裝程式將部署安裝語言和英文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is a really busy scene, then the learnt background will not be stable - there will be lots of potential objects messing up the learnt background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T113156Z">
@@ -18789,6 +18797,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default UI language of the application is the installation language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055735Z">
+        <seg>應用程式使用者介面預設語言為安裝語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The delivered CD contains all mandatory components for installation of the product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023125Z">
@@ -20659,6 +20675,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065057Z">
         <seg>除塵風機需使用獨立的三相電源，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This example deploys French and English UI languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055822Z">
+        <seg>以下為使用 French and English UI languages.</seg>
       </tuv>
     </tu>
     <tu>
