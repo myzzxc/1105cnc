@@ -2588,6 +2588,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application Type</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115008Z">
+        <seg>應用程式類型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application of torque, confined, single anchor away from edges</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121554Z">
@@ -4193,6 +4201,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083459Z">
         <seg>Cincinnati, OH 45241 電話： +1 513 771 7444</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Citrix Publish Application Wizard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114909Z">
+        <seg>Citrix Publish Application Wizard （應用程式發佈精靈），</seg>
       </tuv>
     </tu>
     <tu>
@@ -11367,6 +11383,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark the ’Application’ radio button and click ’Next’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115001Z">
+        <seg>點選 “Application”按鈕並點擊 “Next”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark ups &amp; Comments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071148Z">
@@ -11827,6 +11851,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143739Z">
         <seg>註：ICC-ES 驗收標準之前言於2011年7月修訂，以反映政策變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name and description</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114919Z">
+        <seg>名稱和說明</seg>
       </tuv>
     </tu>
     <tu>
@@ -17230,6 +17262,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T042055Z">
         <seg>於不同的面板中指定自訂套裝程式中的參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the ’Display Name’ and ’Application Description’ and click ’Next’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114834Z">
+        <seg>輸入“Display Name（顯示名稱）”和“Application Description（應用程式說明）”並點擊“Next（下一步）”。</seg>
       </tuv>
     </tu>
     <tu>
