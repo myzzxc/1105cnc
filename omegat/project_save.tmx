@@ -5254,6 +5254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy and paste the PackageId and VersionId of both Power PDF and Office packages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161750Z">
+        <seg>複製並貼上 Power PDF 和 Office 套裝程式中的 PackageId 和 VersionId</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy the created folder (package) to a shared location.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154456Z">
@@ -13688,6 +13696,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Notepad</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161952Z">
+        <seg>打開記事本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open PowerShell ISE (Run as Administrator)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161153Z">
@@ -16838,6 +16854,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022608Z">
         <seg>集屑附件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save the file as Unicode text as ConGroup.xml</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161847Z">
+        <seg>以 Unicode 文字儲存檔案為 ConGroup.xml</seg>
       </tuv>
     </tu>
     <tu>
@@ -23648,6 +23672,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type Add-AppvClientConnectionGroup –path &lt;path_of_ConGroup.xml&gt; and press Enter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161902Z">
+        <seg>輸入 Add-AppvClientConnectionGroup –path &lt;path_of_ConGroup.xml&gt; 並按下 Enter 鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type Add-AppvClientPackage -Path &lt;path_of_Office.appv&gt; -DynamicDeploymentConfiguration &lt;path_of_DeploymentConfig.xml&gt; | Publish-AppvClientPackage -Global and press Enter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160806Z">
@@ -23661,6 +23693,14 @@ HUT DQ FP1001</seg>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161029Z">
         <seg>輸入 Add-AppvClientPackage -Path &lt;path_of_PowerPDF.appv&gt;  -DynamicDeploymentConfiguration &lt;path_of_DeploymentConfig.xml&gt; | Publish-AppvClientPackage  -Global  並按下Enter 鍵
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type Enable-AppvClientConnectionGroup –name "PDF and Office" -Global and press Enter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161924Z">
+        <seg>輸入 Enable-AppvClientConnectionGroup –name "PDF and Office" -Global 並按下 Enter 鍵</seg>
       </tuv>
     </tu>
     <tu>
