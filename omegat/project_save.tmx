@@ -4462,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Next in the Installation Report dialog</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152414Z">
+        <seg>於 Installation Report （安裝報告）對話視窗中點擊 Next </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Next.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144838Z">
@@ -4834,6 +4842,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153113Z">
         <seg>申訴回應時間要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete the install</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152258Z">
+        <seg>完成安裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -9919,6 +9935,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Destination folder step make sure that the destination folder is the same as you defined in the App-V sequencer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152251Z">
+        <seg>於 Destination folder （目標資料夾）步驟中，確認目標資料夾與 App-V sequencer 中所定義相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Group Policy Window, right-click Computer Configuration/Software Settings/Software Installation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T105300Z">
@@ -11787,6 +11811,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145723Z">
         <seg>勾選 I have installed the primary parent program 方塊並點擊 Next。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark the I am finished installing checkbox and click on Next</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152341Z">
+        <seg>勾選 I am finished installing （我已完成安裝）方塊並點擊 Next</seg>
       </tuv>
     </tu>
     <tu>
