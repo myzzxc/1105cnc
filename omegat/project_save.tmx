@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14780,7 +14780,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Publish to Users will “advertise” the program in Add/Remove Programs in the user’s Control Panel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100055Z" creationid="Judy" creationdate="20150531T100055Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100055Z">
         <seg>發佈至使用者將“廣播”程式至使用者控制台中的增加/移除程式中，</seg>
       </tuv>
     </tu>
