@@ -2138,6 +2138,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow user to disable/enable Maintain Revisions in Application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072820Z">
+        <seg>允許使用者於應用程式中停用/啟用保留修訂內容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow user to disable/enable Microsoft Office integration in Application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072839Z">
+        <seg>允許使用者於應用程式中停用/啟用 Microsoft Office 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow user to disable/enable eDOCS Connector in Application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072700Z">
+        <seg>允許使用者於應用程式中停用/啟用 eDOCS 連接點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow user to disable/enable iManage Connector in Application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072713Z">
+        <seg>允許使用者於應用程式中停用/啟用 iManage 連接點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow user to disable/enable ‘Load security settings’ option in Application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072751Z">
+        <seg>允許使用者於應用程式中停用/啟用 “Load security settings（讀取安全性設定）”選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow user to disable/enable ‘Run JavaScript’ option in Application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072917Z">
+        <seg>允許使用者於應用程式中停用/啟用 “Run JavaScript（運行 JavaScript）”選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allowing signatures to be revoked and shown as such</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102317Z">
