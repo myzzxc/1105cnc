@@ -5318,6 +5318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create 2 new GUID with the command [guid]::NewGuid()</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161257Z">
+        <seg>使用指令 [guid]::NewGuid() 建立 2 組新 GUID </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create PDF files from any PC application that can print: Instantly create 100% industry-standard PDF files with security options that are fully compliant and compatible with all PDF viewers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033723Z">
@@ -11377,8 +11385,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Launch Accessories - Windows PowerShell - Windows PowerShell ISE with Run as Administrator</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160623Z">
-        <seg>以管理員權限執行附屬應用程式 - Windows PowerShell - Windows PowerShell ISE</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161208Z">
+        <seg>以管理員身分執行附屬應用程式 - Windows PowerShell - Windows PowerShell ISE</seg>
       </tuv>
     </tu>
     <tu>
@@ -13668,6 +13676,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024049Z">
         <seg>每次只能使用一種版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open PowerShell ISE (Run as Administrator)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161153Z">
+        <seg>開啓 PowerShell ISE （以管理員身分執行）</seg>
       </tuv>
     </tu>
     <tu>
