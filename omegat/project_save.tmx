@@ -1666,6 +1666,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Directory also supports ZAP files as a mechanism for installing programs that are not compatible with the Microsoft Windows Installer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103505Z">
+        <seg>Active Directory 也支援以 ZAP 檔案安裝與 Microsoft Windows Installer 不相容之程式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Directory is a feature of Windows 2000 or above servers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T094544Z">
@@ -3321,6 +3329,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022949Z">
         <seg>文件編號工具用於標識每一頁法律文件，支援不同的文件管理系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because Power PDF Advanced is Windows Installer compatible, ZAP files are not necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103543Z">
+        <seg>因為 Power PDF 進階版與 Windows Installer 相容，因此不需要 ZAP 檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5458,6 +5474,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013855Z">
         <seg>於用戶端電腦上部署</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deployment example (Installation in existing organizational units)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103618Z">
+        <seg>部署範例（安裝於組織現有的電腦中）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9218,6 +9242,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025311Z">
         <seg>重要提示：若已勾選 Import Application Settings （匯入應用程式設定）中的 Security Profile（安全性設定檔）核取方塊，應用程式 Security （安全性）面板中預設的 Privacy （隱私性）和 No Modification Security （無修改安全性）方案將不會轉移到自訂安裝檔中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important: Power PDF Advanced does not support the Publish to Users or Assign to Users scenarios.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103336Z">
+        <seg>重要提示：Power PDF 進階版不支援發佈至使用者或分配至使用者方案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15486,6 +15518,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153016Z">
         <seg>供應鏈相關要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requirements:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103623Z">
+        <seg>需求：</seg>
       </tuv>
     </tu>
     <tu>
