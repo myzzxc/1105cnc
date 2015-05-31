@@ -8429,6 +8429,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you turn off shared watermarks, all users will get their watermark sets via a local, absolute path.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024815Z">
+        <seg>若關閉共用浮水印，所有使用者將透過本機的絕對路徑取得其浮水印組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want this mst file only click Generate Transform in the Transform ribbon and name your file.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044819Z">
