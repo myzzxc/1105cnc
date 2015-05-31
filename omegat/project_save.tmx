@@ -3685,6 +3685,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse for the installation folder of Nuance PDF Create for App-V deployed Power PDF and launch setup.exe.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160427Z">
+        <seg>開啓 Nuance PDF 建立用於 App-V 部署 Power PDF 之安裝資料夾中並執行 setup.exe。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse for the package then click on the Expand button.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145449Z">
@@ -4858,6 +4866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152258Z">
         <seg>完成安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete the install.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160458Z">
+        <seg>完成安裝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15386,6 +15402,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printer driver is excluded during the sequencing process and it must be installed locally on the client.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160226Z">
+        <seg>印表機驅動程式排除於定序程序外，必須於用戶端進行本機安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Probative Delivery Requirements (Delivery Pending Acceptance)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153003Z">
@@ -17230,6 +17254,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141640Z">
         <seg>從開始功能表中選擇 Windows 更新，下載並安裝所有建議的更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a language and click on the Start Installation button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160450Z">
+        <seg>選擇一種語言並按下 Start Installation 按鈕。</seg>
       </tuv>
     </tu>
     <tu>
