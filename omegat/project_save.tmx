@@ -3653,6 +3653,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse to the Power PDF Advanced executable as installed on the server and click ’Next’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115149Z">
+        <seg>選擇 Power PDF 進階版安裝於伺服器之執行檔路徑並點擊“Next”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse to the folder where you want to store the collected settings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024008Z">
@@ -4185,6 +4193,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T053255Z">
         <seg>若安裝目標工作站無法連接到  Nuance 網站時選擇 On premises （預先設定路徑）選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the server(s) that the Power PDF Advanced product will run on and click ’Next’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115323Z">
+        <seg>選擇 Power PDF 進階版將運行的於伺服器並點擊“Next”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11087,6 +11103,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115223Z">
+        <seg>路徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log in as an Administrator.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114356Z">
@@ -16770,6 +16794,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Servers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115327Z">
+        <seg>伺服器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Service condition tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181435Z">
@@ -17262,6 +17294,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T042055Z">
         <seg>於不同的面板中指定自訂套裝程式中的參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the group of users whom you will publish the application to and click ‘Next’</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115440Z">
+        <seg>指定發佈應用程式支使用者群組並點擊“Next”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22988,6 +23028,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131715Z">
         <seg>使用介面為圖形化而非辦公室使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Users</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115445Z">
+        <seg>使用者</seg>
       </tuv>
     </tu>
     <tu>
