@@ -983,6 +983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A deployment target computer that is a member of a domain, site, or organizational unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103737Z">
+        <seg>部署目的電腦為網域、網站或組織單位之成員。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A fire has a distinctive colour and it also flickers in a distinctive way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153427Z">
@@ -1115,6 +1123,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045929Z">
         <seg>有多種的產品可供選擇，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A working Active Directory environment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103820Z">
+        <seg>Active Directory 作業環境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9999,6 +10015,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installer ready for deployment on a shared network location includingthe previously created transform file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103917Z">
+        <seg>安裝程式準備好部署於共用網路位置上，包括先前建立的轉換檔，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installing an AXYZ Router Table is actually quite simple and can be accomplished in just a few hours IF you are ready for it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T082328Z">
@@ -11059,6 +11083,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132850Z">
         <seg>更加自動化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MSI 3.1 installed on the target (client) computer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103802Z">
+        <seg>目標（用戶端）電腦上已安裝 MSI 3.1 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21266,6 +21298,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130959Z">
         <seg>完全支援乙太網路程式館。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This  file must contain at least the serial number of the product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103942Z">
+        <seg>此檔案至少必須包含產品的序號。</seg>
       </tuv>
     </tu>
     <tu>
