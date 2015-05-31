@@ -1626,6 +1626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accept the EULA and click Continue.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135752Z">
+        <seg>同意 EULA 並點擊 Continue（繼續），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acceptance criteria are developed for use solely by ICC-ES for purposes of issuing ICC-ES evaluation reports.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143916Z">
@@ -5966,6 +5974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Download Office deployment tool from Microsoft: http://www.microsoft.com/en-us/download/details.aspx?id=36778</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135702Z">
+        <seg>於下列網址中下載 Office 部署工具： http://www.microsoft.com/en-us/download/details.aspx?id=36778</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download: PDF of GSM shield schematic, Reference design</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133214Z">
@@ -6819,6 +6835,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133942Z">
         <seg>外部接收器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract ODT files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135715Z">
+        <seg>解壓縮 ODT 檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -11019,6 +11043,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040416Z">
         <seg>啟動自訂工具組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launch the downloaded exe.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135735Z">
+        <seg>執行下載之 exe 檔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21197,6 +21229,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The supported Microsoft App-V version is 5.0 SP1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135620Z">
+        <seg>支援 Microsoft App-V 版本為 5.0 SP1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The supported installation languages and the associated transform files are indicated in the following table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024022Z">
@@ -22091,6 +22131,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T143010Z">
         <seg>此目標適用於我們所有的商業部門：航空、汽車和工業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This guide shows how to integrate with MS Office applications when Office is virtualized in another package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135604Z">
+        <seg>說明中將指引當 Office 虛擬化於在另一個安裝程式中時，如何與 MS Office 應用程式整合。</seg>
       </tuv>
     </tu>
     <tu>
