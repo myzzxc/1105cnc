@@ -9919,6 +9919,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Launch a console window on the client machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033152Z">
+        <seg>開啟用戶端電腦上的主控台視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Launch the Collect Application Settings Wizard on the machine that has your product installation to be polled.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023501Z">
