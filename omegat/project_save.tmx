@@ -16482,6 +16482,38 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show 'Next File' and 'Previous File' in File menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073353Z">
+        <seg>於檔案選單中顯示“Next File（下一個檔案）”和“Previous File（前一個檔案）”選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show 'Open Revisions' and 'Save Revisions' in File menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073443Z">
+        <seg>於檔案選單中顯示“Open Revisions（開啓修訂）”和“Save Revisions（儲存修訂）”選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show 'Recent File' in File menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073512Z">
+        <seg>於檔案選單中顯示“Recent File（最近使用之檔案）”選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show 'Revert File' in File menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073546Z">
+        <seg>於檔案選單中顯示“Revert File（恢復檔案）”選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show how easy Document Assembly and Stamping is with our panels</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085106Z">
