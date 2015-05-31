@@ -1754,6 +1754,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional languages are in a separated Text-To-Speech installer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071105Z">
+        <seg>額外的語言包含於獨立的朗讀安裝程式中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional results of tests performed by the manufacturer shall be permitted to be considered only if the results are statistically equivalent to those of the ITEA.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194411Z">
@@ -19213,6 +19221,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following example deploys 3 TTS languages: English, French and German.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071339Z">
+        <seg>以下為部署 3 種朗讀語言：英文、法文和德文之範例，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following example deploys 4 UI languages, English, Chinese (Simplified), Spanish and German.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070504Z">
@@ -20582,6 +20598,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These languages are English, French and German.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071029Z">
+        <seg>分別為英文、法文和德文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These materials allpresent challenges for traditional router orknife tools, but the oscillating knife can slice through these materials with ease, delivering clean cutedges without fraying.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031447Z">
@@ -20834,6 +20858,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143800Z">
         <seg>此產品/加工審核依照以下 HUTCHINSON 指導原則 HUT DQ FP1001 進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Text-To-Speech installer is either in your original product CD (NuanceTTSModule folder) or you can download it from Nuance.com.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071232Z">
+        <seg>朗讀安裝程式收錄於原始產品光碟（NuanceTTSModule 資料夾）中，或可至 Nuance.com 下載。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21491,6 +21523,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052758Z">
         <seg>用於三維表面逆向工程之三維雷射掃描器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Three of the languages are in the Nuance Power PDF Advanced.msi package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071012Z">
+        <seg>Nuance Power PDF Advanced.msi 安裝程式中包含了三種語言，</seg>
       </tuv>
     </tu>
     <tu>
