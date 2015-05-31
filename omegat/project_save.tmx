@@ -11607,6 +11607,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally, you can enable end-users to modify PDF creation settings and/or use shared watermarks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024647Z">
+        <seg>可以選擇終端使用者是否能修改 PDF 建立設定和使用共用的浮水印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081405Z">
@@ -20123,6 +20131,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160010Z">
         <seg>可安裝多重刀架於支架上同時進行多份相同工作以增加效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To include your collected settings, select the Browse for shared product settings option and locate the folder where the collected settings are stored (in a .dat file).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024534Z">
+        <seg>若要加入收集的設定，點選 Browse for shared product settings（選擇共用產品設定）並選擇儲存收集之設定的資料夾（.dat 檔）。</seg>
       </tuv>
     </tu>
     <tu>
