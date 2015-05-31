@@ -6007,6 +6007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable 'Require Signing Reason' and 'Show Reasons' in the application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071559Z">
+        <seg>於應用程式中啓用“Require Signing Reason（要求簽署原因）”和“Show Reasons（顯示原因）”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable Connectors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052159Z">
@@ -11687,6 +11695,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: By default the value of NUUSERLANGTTS is 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071426Z">
+        <seg>註：NUUSERLANGTTS 預設值為 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: By default the value of NUUSERLANGUI is 0.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070538Z">
@@ -16386,6 +16402,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Signature switches</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071436Z">
+        <seg>簽署開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Silent installation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022656Z">
@@ -19233,6 +19257,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070504Z">
         <seg>以下範例為部署 4 種使用者介面語言：英文、中文（簡體）、西班牙文和德文之範例，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following example deploys 4 additional TTS languages: Chinese (Traditional), Spanish, Russian and Japanese.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071415Z">
+        <seg>以下範例為部署 4 種朗讀語言：中文（繁體）、西班牙文、俄羅斯文和日文之範例，</seg>
       </tuv>
     </tu>
     <tu>
