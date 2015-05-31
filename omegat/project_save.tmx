@@ -4086,6 +4086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Publish Package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025550Z">
+        <seg>點擊 Publish Package （發佈套裝程式）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Signature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101549Z">
@@ -7269,6 +7277,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to the Home tab</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025533Z">
+        <seg>選擇 Home 分頁，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to the Home tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023239Z">
@@ -8329,6 +8345,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T111813Z">
         <seg>如果畫面中一輛停著的車：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If these two schemes are required, please create two new custom schemes that are equivalent to them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025413Z">
+        <seg>若需要上述兩種方案，請建立兩個相同的新自訂方案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11451,6 +11475,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104404Z">
         <seg>最後全部的物體像素會組合成一個群組，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you are finished preparing the desired parameters, you are ready to publish your package to your end-users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025526Z">
+        <seg>當完成所需參數的準備後，便可以將套裝程式發佈給終端使用者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14997,6 +15029,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014111Z">
         <seg>設定連接群組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set a target location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025611Z">
+        <seg>設置目標路徑，</seg>
       </tuv>
     </tu>
     <tu>
