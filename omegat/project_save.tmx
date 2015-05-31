@@ -10231,6 +10231,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install Microsoft App-V Sequencer 5.0 SP1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142613Z">
+        <seg>安裝 Microsoft App-V Sequencer 5.0 SP1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install PDF Converter component</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T050959Z">
@@ -13088,6 +13096,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the left select Change Settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142556Z">
+        <seg>選擇左側的變更設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the other hand, to inform HUTCHINSON about any delivery that does not follow the continuity of the delivery history (for example, a different configuration for a parameter, even if not specified).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T131804Z">
@@ -15702,6 +15718,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082940Z">
         <seg>後方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reboot the machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142622Z">
+        <seg>重新啓動電腦</seg>
       </tuv>
     </tu>
     <tu>
@@ -23148,6 +23172,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024320Z">
         <seg>土耳其文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn off updates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142609Z">
+        <seg>關閉更新。</seg>
       </tuv>
     </tu>
     <tu>
