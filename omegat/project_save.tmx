@@ -23129,6 +23129,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the scan inbox is accessed, &lt;user&gt; is automatically replaced with the name of the person logged in to Windows and points to their inbox.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T082440Z">
+        <seg>當存取掃描收件匣時，&lt;user&gt; 將會自動被登入 Windows 的使用者名稱代替並指向其收件匣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When this happens, the processor will reset, breaking the USB connection to the computer (meaning that the virtual serial / COM port will disappear).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142403Z">
@@ -23797,6 +23805,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T123853Z">
         <seg>可使用此針腳輸入電壓，或當使用電源插頭時由此針腳提取電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot use this variable in conjunction with S2DSERVER or S2DSUBDIR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T082531Z">
+        <seg>此變數次不能與 S2DSERVER 或 S2DSUBDIR 同時使用。</seg>
       </tuv>
     </tu>
     <tu>
