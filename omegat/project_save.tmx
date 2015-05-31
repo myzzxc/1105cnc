@@ -4438,6 +4438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click ‘Finish’ to publish the application or select ‘Configure advanced application settings now’ to modify advanced options like Access control, File type associations, Limit of instances to run, Client options (such as encryption), Application appearance (such as display size and color quality etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T120602Z">
+        <seg>點擊 ‘Finish’ 以發佈應用程式或選擇“Configure advanced application settings now（立即設定應用程式進階設置）”已修改進階選項如Access control（存取控制）、File type associations（檔案類型關聯）、Limit of instances to run（運行實例限制）、Client options （用戶端選項，如加密）、Application appearance （應用程式外觀，如顯示大小和色彩品質等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Client Installation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014246Z">
@@ -15066,6 +15074,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Publish immediately</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T120610Z">
+        <seg>立即發佈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Publish to Users will “advertise” the program in Add/Remove Programs in the user’s Control Panel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100055Z">
@@ -23797,6 +23813,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134436Z">
         <seg>當使用此程式館時，SS位於針腳4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you are done, the published application will be available under the Citrix Program Neighborhood on the client machines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T120820Z">
+        <seg>當完成發佈後，發佈之應用程式將會出現在用戶端電腦上的 Citrix Program Neighborhood 之中。</seg>
       </tuv>
     </tu>
     <tu>
