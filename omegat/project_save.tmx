@@ -19990,6 +19990,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To enhance propagating a shared collection of settings across your company, you can poll an already installed and configured Power PDF for settings and include these in your deployment package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022608Z">
+        <seg>為了強化公司間程式設定的共用，可以將已安裝和設置完成的 Power PDF  設定加入部署套裝程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To facilitate the expeditious installation of your machine you should carefully review these “pre-installation” instructions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T075725Z">
