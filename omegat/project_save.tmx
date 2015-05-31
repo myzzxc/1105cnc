@@ -9142,6 +9142,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Important: Command-line install parameters always overwrite .mst file settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T094220Z" creationid="Judy" creationdate="20150531T094220Z">
+        <seg>重要提示：指令列安裝參數永遠會覆蓋 .mst 檔案設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important: If Reader mode is turned on then some other properties are turned off to ensure correct application behavior.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054047Z">
