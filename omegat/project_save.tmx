@@ -11183,6 +11183,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Launch the Microsoft Application Virtualization Sequencer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144434Z">
+        <seg>開啓 Microsoft Application Virtualization Sequencer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Launch the downloaded exe.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135735Z">
