@@ -3918,6 +3918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Add hotfixes to Installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021413Z">
+        <seg>點擊 Add hotfixes to Installation （加入修補程式至安裝程式中）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Application Options.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102548Z">
@@ -20395,6 +20403,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101701Z">
         <seg>利用選項開啟或關閉以下功能：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the two lists to add/modify/remove and reorder executables that you want to be launched before and after installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021617Z">
+        <seg>使用兩組清單來增加/修改/刪除和重新排序在安裝之前和之後啟動的執行檔，</seg>
       </tuv>
     </tu>
     <tu>
