@@ -1698,6 +1698,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Open from and Save to eDOCS to File menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073228Z">
+        <seg>加入開啓和儲存至 eDOCS 選單於檔案選單中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add ServerURL and DataSource values of REG_SZ type to registry under key.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053809Z">
@@ -2154,6 +2162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow user to disable/enable Windows Desktop Search integration in Application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073055Z">
+        <seg>允許使用者於應用程式中停用/啟用 Windows Desktop Search （桌面搜尋）整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow user to disable/enable eDOCS Connector in Application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072700Z">
@@ -2182,6 +2198,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072917Z">
         <seg>允許使用者於應用程式中停用/啟用 “Run JavaScript（運行 JavaScript）”選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow user to disable/enable ‘View Documents in Internet Explorer’ option in Application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073008Z">
+        <seg>允許使用者於應用程式中停用/啟用 “View Documents in Internet Explorer（於 IE 中檢視文件）”選項</seg>
       </tuv>
     </tu>
     <tu>
