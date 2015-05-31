@@ -5534,6 +5534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the installation of the application, specific installation options are available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T035206Z">
+        <seg>安裝應用程式過程，有特定的安裝選項可用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During this period, all deliveries must include an analysis certificate certifying that the products delivered have been checked by the Supplier and that they have been declared compliant with these controls unless otherwise stated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121306Z">
@@ -15161,6 +15169,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Several InstallShield Wizard pages drive you through the available features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T035336Z">
+        <seg>多個 InstallShield Wizard （安裝精靈）頁面將提示可用的功能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Several of the modem pins are exposed on the underside of the board.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142617Z">
@@ -22308,6 +22324,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172814Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and (if used) the plus sign (‘/qb+’ or ‘/qn+’) specifies that a message box will be displayed when installation has finished.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T035109Z">
+        <seg>（如果使用）加號 ('/ qb +' 或 ' / qn +')，安裝完成後將顯示一個訊息方塊。</seg>
       </tuv>
     </tu>
     <tu>
