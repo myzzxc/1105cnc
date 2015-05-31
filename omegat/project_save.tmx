@@ -3637,6 +3637,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse the setup.exe of Power PDF Advanced from the install media.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114248Z">
+        <seg>由安裝來源中選擇 Power PDF 進階版之 setup.exe 安裝檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse to the folder where you want to store the collected settings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024008Z">
@@ -7242,6 +7250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow the instructions in the InstallShield Wizard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114305Z">
+        <seg>依照安裝精靈中的說明進行安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Following a short feed withdrawal, should the crop break, any feed contained therein, and accompanying pathogens, are evacuated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043506Z">
@@ -10065,8 +10081,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Installation under Citrix Metaframe or Windows Terminal Server</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012713Z">
-        <seg>以 Citrix Metaframe 或 Windows 終端機伺服器 (Terminal server) 安裝</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114125Z">
+        <seg>以 Citrix Metaframe 或 Windows Terminal server（終端機伺服器）安裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -11043,6 +11059,22 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T022054Z">
         <seg>MARTINI OCCHIALI 公司位於風景迷人的卡多雷河谷 (Cadore Valley) 中心，透過不斷更新其產品線使產品隨時保持最時尚的設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log in as an Administrator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114356Z">
+        <seg>以管理員權限登入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log off then log on again to complete the installation and to enable proper functioning of various components.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114350Z">
+        <seg>登出然後重新登入以完成安裝，使各個元件的正常運作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23477,6 +23509,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T135313Z">
         <seg>當現有的驗收標準修訂後，評估委員會將決定修訂之文件僅標注「核准」日期，或包含「核准」日期和「生效」日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When installation is complete, click the Finish button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114331Z">
+        <seg>安裝完成後，按一下 Finish （完成）按鈕。</seg>
       </tuv>
     </tu>
     <tu>
