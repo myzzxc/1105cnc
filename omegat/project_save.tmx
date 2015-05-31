@@ -10519,6 +10519,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can take several minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140646Z">
+        <seg>可能需要幾分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It cannot workout that there are two objects there!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120743Z">
@@ -12411,6 +12419,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043726Z">
         <seg>註：此功能預設為開啓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: The following Microsoft Knowledge Base also describes how to deploy Office 2013 in App-V 5.0: http://support.microsoft.com/kb/2915745</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140757Z">
+        <seg>註：以下 Microsoft 知識庫文章也說明了如何於 APP-V 5.0 中部署 Office 2013： HTTP://support.microsoft.com/kb/2915745</seg>
       </tuv>
     </tu>
     <tu>
@@ -23669,6 +23685,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait until the package is downloaded and converted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140635Z">
+        <seg>等待套裝程式下載和轉換完成，</seg>
       </tuv>
     </tu>
     <tu>
