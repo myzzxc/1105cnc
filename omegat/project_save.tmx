@@ -4037,6 +4037,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change the defaults for encryption level and session reliability if you wish.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134341Z">
+        <seg>依所需更改預設的加密等級和對話可靠性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Channel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081544Z">
@@ -17414,6 +17422,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090303Z">
         <seg>指定可用之選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify ‘User Name’, ‘Password’ and ‘Domain’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134502Z">
+        <seg>指定“User Name（使用者名稱）”、“Password（密碼）”和“Domain（網域）”。</seg>
       </tuv>
     </tu>
     <tu>
