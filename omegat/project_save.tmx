@@ -7629,6 +7629,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here is an example showing how to install the product with different options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034530Z">
+        <seg>以下為如何使用不同的選項安裝產品的範例，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High Capacity Pressure Foot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070255Z">
@@ -8433,6 +8441,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090610Z">
         <seg>若未配置上述設備，則適用最低空氣需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not specify a language transform file:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034304Z">
+        <seg>若未指定語言轉換檔：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22216,6 +22232,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>_setup.exe prompts for language selection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034319Z">
+        <seg>_setup.exe 將提示選擇語言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`Schematic &amp; Reference Design</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133211Z">
@@ -22686,6 +22710,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121343Z">
         <seg>min††</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>msiexec.exe installs the product in its default language (English).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034407Z">
+        <seg>msiexec.exe 將安裝產品預設語言（英文）。</seg>
       </tuv>
     </tu>
     <tu>
