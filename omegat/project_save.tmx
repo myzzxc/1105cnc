@@ -8694,6 +8694,22 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Important: If eDOCS is turned off then three other properties are turned off to ensure correct application behavior.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052924Z">
+        <seg>重要資訊：若關閉 eDOCS 時，其它三個屬性也會關閉以確保應用程式正確運行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important: If iManage is turned off then two other properties are turned off to ensure correct application behavior.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053036Z">
+        <seg>重要資訊：若關閉 iManage 時，其它兩個屬性也會關閉以確保應用程式正確運行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important: If the Security Profile checkbox is marked under Import Application Settings the application’s default Privacy and No Modification Security schemes in the Security panel will not be transferred to the customized installation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025311Z">
@@ -20062,6 +20078,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These properties are: NUCONN_EDOCS_ADDINX, ISENABLEHBADDINOPTIONX and ISOPENSAVEEDOCS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052954Z">
+        <seg>這些屬性為：NUCONN_EDOCS_ADDINX、ISENABLEHBADDINOPTIONX 和 ISOPENSAVEEDOCS。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These provide access to the modem for features like speaker output and microphone input.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142732Z">
@@ -23142,6 +23166,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030459Z">
         <seg>正確填寫與 HUTCHINSON 聯合定義之文件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>eDOCS addin-in registration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053011Z">
+        <seg>eDOCS 外掛程式註冊</seg>
       </tuv>
     </tu>
     <tu>
