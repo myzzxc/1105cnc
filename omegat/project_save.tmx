@@ -20086,6 +20086,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These properties are: NUCONN_IMANAGE_ADDINX and ISENABLEIMANADDINOPTIONX.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053100Z">
+        <seg>這些屬性為：NUCONN_IMANAGE_ADDINX 和 ISENABLEIMANADDINOPTIONX。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These provide access to the modem for features like speaker output and microphone input.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142732Z">
@@ -23230,6 +23238,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130213Z">
         <seg>偵測到高g力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iManage addin-in registration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053118Z">
+        <seg>iManage 外掛程式註冊</seg>
       </tuv>
     </tu>
     <tu>
