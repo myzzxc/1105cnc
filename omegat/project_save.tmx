@@ -8510,6 +8510,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Important: If the Security Profile checkbox is marked under Import Application Settings the application’s default Privacy and No Modification Security schemes in the Security panel will not be transferred to the customized installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025311Z">
+        <seg>重要提示：若已勾選 Import Application Settings （匯入應用程式設定）中的 Security Profile（安全性設定檔）核取方塊，應用程式 Security （安全性）面板中預設的 Privacy （隱私性）和 No Modification Security （無修改安全性）方案將不會轉移到自訂安裝檔中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important: The ’Add hotfixes to Installation’ setting has effect only if installation is launched by setup.exe from the setup root folder.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040408Z">
