@@ -4486,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click ‘Remove’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135015Z">
+        <seg>點選“Remove（移除）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Client Installation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014246Z">
@@ -8013,6 +8021,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to ‘Add/Remove programs’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134946Z">
+        <seg>開啓 “Add/Remove programs（增加/移除應用程式）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good PTZ calibration is essential for accurate tracking.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151637Z">
@@ -11227,6 +11243,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114541Z">
         <seg>登入至 ’Server Farm’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Login to the Windows Terminal, or Citrix server as Administrator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134907Z">
+        <seg>以管理員身分登入 Windows Terminal 或 Citrix 伺服器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16618,6 +16642,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select PDF application.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134959Z">
+        <seg>選擇 PDF 應用程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Properties, click the Group Policy Tab, and then click New.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T105117Z">
@@ -20937,6 +20969,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125518Z">
         <seg>此感測器能測量三維加速度、橫擺速率和3個垂直軸之個別磁場強度數據。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The server may require a system restart.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135120Z">
+        <seg>伺服器可能會要求重新啓動系統，</seg>
       </tuv>
     </tu>
     <tu>
