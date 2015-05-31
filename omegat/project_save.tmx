@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2775,7 +2775,7 @@
       <tuv lang="EN-US">
         <seg>Assign to Users will also “advertise” the program, but it will be available from a Start Menu shortcut, a Desktop shortcut, and from Add/Remove programs in the user’s Control Panel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100519Z" creationid="Judy" creationdate="20150531T100519Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100519Z">
         <seg>分配至使用者也會“廣播”程式，但將會加入至開始功能表的捷徑、 桌面捷徑以及使用者的控制台中的增加/移除程式中。</seg>
       </tuv>
     </tu>
@@ -20119,7 +20119,7 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>The program will not be installed until the user chooses to add it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100230Z" creationid="Judy" creationdate="20150531T100230Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100230Z">
         <seg>使用者選擇增加後才會安裝程式。</seg>
       </tuv>
     </tu>
