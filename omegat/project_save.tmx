@@ -7229,6 +7229,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General switches</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T035832Z">
+        <seg>一般開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>German*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024308Z">
@@ -18228,6 +18236,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The list of the features and its command line switches:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T035824Z">
+        <seg>以下為各種功能和其指令列開關之清單：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine options have been divided into 5 sections:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z">
@@ -19393,6 +19409,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020428Z">
         <seg>可於 HUTCHINSON 採購工具入口網站取得上述文件，網址為： https://ivalua.hutchinson.fr/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These features are controllable via Customization with Nuance Customization Kit and/or command line switches as well.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T035724Z">
+        <seg>這些功能可透過 Customization with Nuance Customization Kit （以 Nuance 自訂工具組自訂安裝）和指令列開關進行控制。</seg>
       </tuv>
     </tu>
     <tu>
