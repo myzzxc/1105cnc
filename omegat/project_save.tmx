@@ -5863,10 +5863,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable Nuance PDF toolbar in Microsoft Office</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051739Z">
+        <seg>啟用 Microsoft Office 中的 Nuance PDF 工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable Nuance PDF toolbar in Microsoft Office: turn this setting on to show the Nuance PDF toolbar in Office 2003 applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084920Z">
         <seg>啟用 Microsoft Office 中的 Nuance PDF 工具列：開啟此設定將 Nuance PDF 工具列顯示於 Office 2003 應用程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable logging in Microsoft Office Applications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051814Z">
+        <seg>啟用 Microsoft Office 應用程式紀錄日誌</seg>
       </tuv>
     </tu>
     <tu>
@@ -6119,6 +6135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example to turn off all the Microsoft Office integrations:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051842Z">
+        <seg>關閉所有 Microsoft Office 整合範例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example to turn off this setting: MSIEXEC.EXE /i "[full path]\Nuance Power PDF Advanced.msi" SSETPRODEFVIEWER =”1”</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043647Z">
@@ -6131,6 +6155,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043624Z">
         <seg>開啓設定範例：MSIEXEC.EXE /i "[full path]\Nuance Power PDF Advanced.msi" SSETPRODEFVIEWER=”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051529Z">
+        <seg>範例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6614,6 +6646,14 @@
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092506Z">
         <seg>火災
 煙霧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Firefox Integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051948Z">
+        <seg>Firefox 整合</seg>
       </tuv>
     </tu>
     <tu>
@@ -8077,6 +8117,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If HELP_MODE is 2 entering a value for HELP_PATH_SHARED property is mandatory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051412Z">
+        <seg>若 HELP_MODE 設為 2 時，必須輸入 HELP_PATH_SHARED 屬性值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Test 7b is not performed, limit the calculated anchor tension resistance to f'c = 2500 psi regardless of the in-place concrete strength.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173921Z">
@@ -9415,6 +9463,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internet Explorer Integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052033Z">
+        <seg>Internet Explorer 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interruption of production for more than 2 years</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141318Z">
@@ -10271,6 +10327,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lotus Notes Integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051904Z">
+        <seg>Lotus Notes 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loyalty pricing is available for current Nuance customers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T134006Z">
@@ -10583,10 +10647,50 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microsoft Excel Integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051544Z">
+        <seg>Microsoft Excel 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Microsoft Office Style Ribbon User Interface</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015735Z">
         <seg>Microsoft Office 標籤式選單介面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Office integration switches</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051514Z">
+        <seg>Microsoft Office 整合開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Outlook Integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051712Z">
+        <seg>Microsoft Outlook 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft PowerPoint Integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051654Z">
+        <seg>Microsoft PowerPoint 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Word Integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051518Z">
+        <seg>Microsoft Word 整合</seg>
       </tuv>
     </tu>
     <tu>
@@ -11199,6 +11303,15 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: The state of this feature is ‘Online from Nuance’ by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051453Z">
+        <seg>註：此功能預設為“
+Nuance 線上說明”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: To restart constructing your package, click Reset Settings to Nuance default on the Home tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025957Z">
@@ -11519,10 +11632,74 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Off: EXCELADDINALL =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051650Z">
+        <seg>關閉：EXCELADDINALL =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: IEINTEGRATIONALL =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052045Z">
+        <seg>關閉：IEINTEGRATIONALL =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: ISINSTALLFIREFOXADDIN =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052002Z">
+        <seg>關閉：ISINSTALLFIREFOXADDIN =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: LOTUSADDINALL =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051912Z">
+        <seg>關閉：LOTUSADDINALL =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Off: MINIMALUI =””</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051233Z">
         <seg>關閉：MINIMALUI =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: OFFICEADDINLOGALL =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051823Z">
+        <seg>關閉：OFFICEADDINLOGALL =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: OUTLOOKADDINALL =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051720Z">
+        <seg>關閉：OUTLOOKADDINALL =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: PPTADDINALL =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051708Z">
+        <seg>關閉：PPTADDINALL =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: SHOWOFFICEADDINICON =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051747Z">
+        <seg>關閉：SHOWOFFICEADDINICON =””</seg>
       </tuv>
     </tu>
     <tu>
@@ -11555,6 +11732,30 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043633Z">
         <seg>關閉：SSETPRODEFVIEWER =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: SSWPADDIN =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051927Z">
+        <seg>關閉：SSWPADDIN =””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: WINDOWSEXPLORERALL=””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051942Z">
+        <seg>關閉：WINDOWSEXPLORERALL=””</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off: WORDADDINALL =””</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051537Z">
+        <seg>關閉：WORDADDINALL =””</seg>
       </tuv>
     </tu>
     <tu>
@@ -11639,10 +11840,74 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On: EXCELADDINALL =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051644Z">
+        <seg>開啓：EXCELADDINALL =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: IEINTEGRATIONALL =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052041Z">
+        <seg>開啓：IEINTEGRATIONALL =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: ISINSTALLFIREFOXADDIN =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051958Z">
+        <seg>開啓：ISINSTALLFIREFOXADDIN =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: LOTUSADDINALL =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051909Z">
+        <seg>開啓：LOTUSADDINALL =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On: MINIMALUI = “1”</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051226Z">
         <seg>開啓：MINIMALUI = “1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: OFFICEADDINLOGALL =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051819Z">
+        <seg>開啓：OFFICEADDINLOGALL =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: OUTLOOKADDINALL =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051716Z">
+        <seg>開啓：OUTLOOKADDINALL =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: PPTADDINALL =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051702Z">
+        <seg>開啓：PPTADDINALL =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: SHOWOFFICEADDINICON =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051743Z">
+        <seg>開啓：SHOWOFFICEADDINICON =”1”</seg>
       </tuv>
     </tu>
     <tu>
@@ -11675,6 +11940,30 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043556Z">
         <seg>開啓：SSETPRODEFVIEWER =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: SSWPADDIN =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051923Z">
+        <seg>開啓：SSWPADDIN =”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: WINDOWSEXPLORERALL=”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051939Z">
+        <seg>開啓：WINDOWSEXPLORERALL=”1”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On: WORDADDINALL =”1”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051525Z">
+        <seg>開啓：WORDADDINALL =”1”</seg>
       </tuv>
     </tu>
     <tu>
@@ -11979,6 +12268,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131745Z">
         <seg>其他高度可依需求另行訂做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other integrations switches</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051859Z">
+        <seg>其他整合開關：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17019,6 +17316,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The HELP_PATH_SHARED property contains the help path.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051336Z">
+        <seg>HELP_PATH_SHARED 屬性中包含了説明路徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The HUTCHINSON Group aims to achieve excellence so as to make deliveries to its clients under the best possible Quality, Cost, Deadline and Innovation conditions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142844Z">
@@ -21904,6 +22209,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windows Explorer Integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051935Z">
+        <seg>Windows Explorer 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wireless connectivity:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133019Z">
@@ -22060,6 +22373,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T051055Z">
         <seg>若無優異的切屑和灰塵吸取功能，會消耗許多清理時間，並可能對員工造成危害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WordPerfect Office support</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051920Z">
+        <seg>WordPerfect Office 支援</seg>
       </tuv>
     </tu>
     <tu>
