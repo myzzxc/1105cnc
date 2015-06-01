@@ -455,6 +455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>16 | Page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000707Z">
+        <seg>16 | 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 TinkerKit Inputs: IN2 and IN3 (in white), these connectors are routed to the Arduino A2 and A3 analog input pins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131548Z">
@@ -17282,6 +17290,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Advanced as the deployment method.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000507Z">
+        <seg>選擇部署方法為 Advanced （進階）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Allow this package to run on any operating system and click Next</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153314Z">
@@ -17466,6 +17482,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the Nuance_Cloud_Connector.msi file via the network, from the folder System32 or System64.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000427Z">
+        <seg>透過網路於 System32 或 System64 資料夾選擇 Nuance_Cloud_Connector.msi 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the appropriate language transform file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000554Z">
+        <seg>選擇適當的語言轉換檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the desired integrations in programs and browsers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085851Z">
@@ -17478,6 +17510,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T113501Z">
         <seg>於“Software settings\Software installation（軟體設定\軟體安裝）”中選擇 'Power PDF Advanced’ 程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the package from 'Software settings\Software installation'.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000640Z">
+        <seg>於“Software settings\Software installation（軟體設定\軟體安裝）”中選擇套裝程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18462,6 +18502,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z">
         <seg>外包廠商要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subject to change without prior notice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000655Z">
+        <seg>如有更改，恕不另行通知。</seg>
       </tuv>
     </tu>
     <tu>
