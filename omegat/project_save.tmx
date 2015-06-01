@@ -11447,6 +11447,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Launch a console window on the client machine with administrative rights.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T235711Z">
+        <seg>以管理員權限開啟用戶端電腦上的主控台視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Launch a console window on the client machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033152Z">
@@ -17162,6 +17170,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See more: Language specific transform files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000009Z">
+        <seg>更多資訊請見：Language specific transform files（指定語言轉換檔）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See more: Language specific transform files.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104125Z">
@@ -18719,6 +18735,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022717Z">
         <seg>總價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRANSFORMS="&lt;source_path&gt;\1036.mst" defines the installation language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000000Z">
+        <seg>TRANSFORMS="&lt;source_path&gt;\1036.mst" 定義安裝語言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23472,6 +23496,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To install Nuance Cloud Connector with basic user interface but with no message box on completion, use the following command-line:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T235751Z">
+        <seg>若要安裝使用基本使用者介面的 Nuance Cloud Connector 而完成時不顯示訊息方塊，請使用以下指令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To install Power PDF Advanced with a basic user interface but with no message box on completion, use the following command-line:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034745Z">
@@ -24494,6 +24526,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W`here:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T235803Z">
+        <seg>其中：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26428,6 +26468,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>specifies a basic interface with a progress bar and (if used) the plus sign (‘/qb+’ or ‘/qn+’) specifies that a message box will be displayed when installation has finished.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T235914Z">
+        <seg>為含有進度列之基本介面而（如果使用）加號 ('/ qb +' 或 ' / qn +')，安裝完成後將顯示一個訊息方塊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>specifies that no user interface will be displayed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034837Z">
@@ -26656,6 +26704,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T040108Z">
         <seg>‘Additional Files’, ‘Import Application Settings’和 ’Add hotfixes to Installation’ 設定將儲存於 .msi 套裝程式檔案相同資料夾內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>‘q’ defines what type of user interface the installation will use:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T235814Z">
+        <seg>q 定義將安裝何種類型的使用者介面：</seg>
       </tuv>
     </tu>
     <tu>
