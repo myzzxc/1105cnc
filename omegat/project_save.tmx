@@ -5678,6 +5678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DMS / Cloud Connectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T134144Z">
+        <seg>DMS / 雲端連接點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DMS Connectors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070822Z">
@@ -10771,6 +10779,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141318Z">
         <seg>2 年以上的生產中斷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduce HIPAA security concerns</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T134000Z">
+        <seg>具有 HIPAA 安全疑慮</seg>
       </tuv>
     </tu>
     <tu>
@@ -21561,6 +21577,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072359Z">
         <seg>標準氣動開關包含自動區域切換系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The powerful features healthcare organizations need with an interface users already know.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T134127Z">
+        <seg>所有醫療組織所需的強大的功能，以及使用者已經熟悉的操作介面。</seg>
       </tuv>
     </tu>
     <tu>
