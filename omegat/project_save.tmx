@@ -4998,6 +4998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compromises care providers have beenforced to make.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T133756Z">
+        <seg>PDF 軟體使用者被迫妥協的選擇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Computer Minimum Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080016Z">
@@ -10787,6 +10795,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130254Z">
         <seg>為財務金融服務設計的 Nuance Power PDF 簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introducing Nuance Power PDF for Healthcare</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T133656Z">
+        <seg>為醫療保健設計的 Nuance Power PDF 簡介</seg>
       </tuv>
     </tu>
     <tu>
@@ -24117,6 +24133,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130243Z">
         <seg>目前財務金融服務公司和專業人士被迫妥協於現有的 PDF 軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until now healthcare providers have been forced to compromise when it comes to PDF software.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T133740Z">
+        <seg>目前醫療供應商們被迫妥協於現有的 PDF 軟體。</seg>
       </tuv>
     </tu>
     <tu>
