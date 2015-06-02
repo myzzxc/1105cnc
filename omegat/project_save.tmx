@@ -2797,6 +2797,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As part of this I want to give you an overview of the need for robust desktop PDF in the healthcare industry, and also give you a sense of the compromises healthcare organizations are forced to make when it comes to PDF software…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T140756Z">
+        <seg>同時我想提供一個醫療產業對可靠的 PDF 電腦程式的需求的概述，也讓大家知道部分醫療組織對於採用 PDF 軟體被迫進行的妥協……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As such we require a high quality PTZ camera for auto tracking.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152436Z">
@@ -24810,6 +24818,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We all know PDF is the common standard format for document collaboration in healthcare.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T140859Z">
+        <seg>我們都知道 PDF 是醫療保健業務文件協作的標準檔案格式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We all know PDF is the standard format for business document collaboration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T091730Z">
@@ -24974,6 +24990,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120848Z">
         <seg>人員追蹤的模型包含了攝影畫面中每個物體的顏色分佈：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What this really means is that many provides, hospital, and clinics find they are forced to make compromises when it comes to PDF software.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T140941Z">
+        <seg>這意味著很多供應商、醫院和診所使用 PDF 軟體時被迫做出妥協。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25694,6 +25718,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083341Z">
         <seg>然而，大多數的商務人士缺乏足夠的 PDF 工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yet, most medical professionals find don’t have the right PDF tools at the desktop to enable true productivity and collaboration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T140909Z">
+        <seg>然而，大多數醫療專業人士覺得電腦中沒有合適的 PDF 工具，能真正的提高工作效率和協作性。</seg>
       </tuv>
     </tu>
     <tu>
