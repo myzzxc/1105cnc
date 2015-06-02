@@ -8172,6 +8172,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From Patient registration workflows…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143506Z">
+        <seg>從病人掛號工作流程......</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the created folder open PowerPDF_UserConfig.xml with Notepad</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154315Z">
@@ -15446,6 +15454,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T140715Z">
         <seg>Power PDF 能輕易地進行醫療資料管控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF offers a user-friendly interface, enables enhanced security, AND gives healthcare users all the features they need…all at a price that makes sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143232Z">
+        <seg>Power PDF 提供了一個人性化的使用介面、能增強安全性、且提供醫療業使用者需要的所有功能……且價格合理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23756,6 +23772,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T132631Z">
         <seg>我們的大腦可以利用來自兩耳的資訊定位聲源、保持空間定向能力且更清楚地理解言語，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To medical record review and collaboration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143522Z">
+        <seg>到醫療記錄審查和協作</seg>
       </tuv>
     </tu>
     <tu>
