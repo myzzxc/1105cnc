@@ -13248,6 +13248,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuance has been in the business of creating PDF solutions for over 10 years, and we truly understand the needs of demanding healthcare users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143916Z">
+        <seg>Nuance 已從事 PDF 解決方案事業超過 10 年以上，因此我們真正了解嚴格的醫療業用戶需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of Spindles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092917Z">
@@ -23836,6 +23844,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131056Z">
         <seg>Power PDF 的自訂安裝 ＆ 佈署工具能輕易地進行企業級資料管控，為金融服務組織提供支援 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To support large healthcare organzations Power PDF comes with a Custom Installation &amp; Deployment Kit that makes it easy to maintain enterprise-level data governance and control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T144002Z">
+        <seg>Power PDF 的自訂安裝 ＆ 佈署工具能輕易地進行企業級資料管控，為大型醫療業者提供支援 。</seg>
       </tuv>
     </tu>
     <tu>
