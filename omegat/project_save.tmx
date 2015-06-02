@@ -27132,6 +27132,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>….because it is Easier to Use with a familiar Microsoft Office style interface your staff already know how to use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143837Z">
+        <seg>……因為它使用簡便，具有您的員工們熟悉且知道使用方式的 Microsoft Office 風格介面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>…And integration with rights management policies</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130837Z">
@@ -27144,6 +27152,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094757Z">
         <seg>…Power PDF 具備了所有企業用戶所需的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…Power PDF has ALL the features medical users need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143706Z">
+        <seg>...…Power PDF 具有醫療業使用者所需的所有功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27184,6 +27200,22 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094709Z">
         <seg>……到文件管理合雲端儲存連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…to document assembly, records management, and archiving</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143548Z">
+        <seg>......到文件彙編、記錄管理和存檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…to document encryption, security, and PDF/A creation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143622Z">
+        <seg>...…到文件加密、安全性和 PDF/A 建立</seg>
       </tuv>
     </tu>
     <tu>
