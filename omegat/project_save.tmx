@@ -1826,6 +1826,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add comments, notes, and highlights</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T140628Z">
+        <seg>加入註解、筆記和示劃記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding comments to documents to support document review workflows and collaboration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121707Z">
@@ -15386,6 +15394,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power PDF is easy to deploy in compliance with healthcare data governance controls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T140715Z">
+        <seg>Power PDF 能輕易地進行醫療資料管控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power PDF offers a user-friendly interface, enables enhanced security, AND gives users all the features they need…all at a price that makes business sense.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094446Z">
@@ -16198,6 +16214,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054819Z">
         <seg>PDF 文件加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redact PHI from medical records</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150602T140700Z">
+        <seg>加密醫療紀錄 PHI</seg>
       </tuv>
     </tu>
     <tu>
