@@ -8228,6 +8228,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From – Document assembly and Contract Review…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121546Z">
+        <seg>從文件組合和合約審查開始……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Front</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082934Z">
@@ -11279,6 +11287,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It provides all the capabilities legal users need at significant cost savings over Adobe.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T122212Z">
+        <seg>它提供所有法務使用者所需功能，相對 Adobe 能大幅的節省成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It provides all the critical business features you need without the cumbersome and costly print and pre-press functionality found in more expensive solutions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022209Z">
@@ -13258,8 +13274,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Nuance Power PDF is an affordable solution that can scale to meet the demands of the largest law firms and legal departments.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121414Z">
-        <seg>Nuance Power PDF 為一個平價的解決方案，它能擴充以滿足最大型的法務事務所和法務部門的嚴格要求。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T122115Z">
+        <seg>Nuance Power PDF 為一個平價的解決方案，它能擴充以滿足最大型的法律事務所和法務部門的嚴格要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13340,6 +13356,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143916Z">
         <seg>Nuance 已從事 PDF 解決方案事業超過 10 年以上，因此我們真正了解嚴格的醫療業用戶需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance has been in the business of creating PDF solutions for over 10 years, and we truly understand the needs of demanding legal users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121937Z">
+        <seg>Nuance 已從事 PDF 解決方案事業超過 10 年以上，因此我們真正了解嚴格的法務用戶需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15610,6 +15634,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power PDF was designed from the ground up to support the most important workflows legal professionals require with the greatest of ease.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121959Z">
+        <seg>Power PDF 從頭設計出最便於使用、支援法務專業需求的最重要工作流程&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power PDF was designed from the ground up to support the most important workflows professionals require with the greatest of ease.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121300Z">
@@ -15630,6 +15662,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T145347Z">
         <seg>Power PDF 的設計終結了醫療專業人士和組織企業在選擇 PDF 軟體時被迫做出的妥協。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF was designed to put an end to the compromises law firms and legal professionals have been forced to make when selecting PDF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T122200Z">
+        <seg>Power PDF 的設計終結了法律事務所和法務專業人士在選擇 PDF 軟體時被迫做出的妥協。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23759,6 +23799,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To Case management and document archiving</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121606Z">
+        <seg>……到案件管理和存檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To PDF conversion to editable Office files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T094621Z">
@@ -23964,6 +24012,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T144002Z">
         <seg>Power PDF 的自訂安裝 ＆ 佈署工具能輕易地進行企業級資料管控，為大型醫療業者提供支援 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To support large law firms and legal departments Power PDF comes with a Custom Installation &amp; Deployment Kit that makes it easy to maintain enterprise-level data governance and control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T122049Z">
+        <seg>Power PDF 的自訂安裝 ＆ 佈署工具能輕易地進行企業級資料管控，為大型法律事務所和法務部門提供支援 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27332,6 +27388,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>…Power PDF has ALL the features legal professionals need</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121912Z">
+        <seg>…Power PDF 具備了所有法務專業用戶所需的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>…Power PDF has ALL the features medical users need.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143706Z">
@@ -27352,6 +27416,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130659Z">
         <seg>……到建立表單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…and Bates numbering and eFiling with PDF/A conversion and compliance checking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121852Z">
+        <seg>……以及文件編號和使用 PDF/A 建立和檢查進行 eFiling </seg>
       </tuv>
     </tu>
     <tu>
@@ -27392,6 +27464,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143622Z">
         <seg>...…到文件加密、安全性和 PDF/A 建立</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…to eDiscovery document processing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121634Z">
+        <seg>...…到 eDiscovery 文件處理</seg>
       </tuv>
     </tu>
     <tu>
