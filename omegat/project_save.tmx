@@ -2122,6 +2122,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of the powerful features legal professionals need with an interface they already know</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T120821Z">
+        <seg>所有法務專業人士所需的強大的功能，以及使用者已經熟悉的操作介面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of the stuff you want none of the stuff you don’t</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T055714Z">
@@ -15588,8 +15596,16 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Powerful PDF for an uncompromisingly great price.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070452Z">
-        <seg>毫不妥協以優異的價格取得 Powerful PDF</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T120735Z">
+        <seg>毫不妥協以優異的價格取得強大的 PDF 軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powerful PDF for law firms an uncompromisingly great price</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150604T120715Z">
+        <seg>毫不妥協以優異的價格取得強大的 PDF 軟體</seg>
       </tuv>
     </tu>
     <tu>
