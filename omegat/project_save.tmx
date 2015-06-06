@@ -1666,6 +1666,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>About Nuance Communications, Inc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T050307Z" creationid="Judy" creationdate="20150606T050307Z">
+        <seg>Nuance Communications 公司簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accelerometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133930Z">
@@ -13409,6 +13417,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuance Communications is reinventing the relationship between people and technology.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T050501Z" creationid="Judy" creationdate="20150606T050501Z">
+        <seg>Nuance Communications 重新打造人類與科技的關係，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nuance Copyright Statement (Include at bottom of each.): © 2014 Nuance Communications, Inc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082851Z">
@@ -15510,6 +15526,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093137Z">
         <seg>請花一點時間完成下表並最遲於機台安裝前一週以電子郵件回傳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please visit nuance.com for our support policy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T050239Z" creationid="Judy" creationdate="20150606T050239Z">
+        <seg>請上 nuance.com 網站以獲得支援條款資訊。</seg>
       </tuv>
     </tu>
     <tu>
