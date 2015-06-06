@@ -2386,6 +2386,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows users to combine files and remove or replace pages with drag-and-drop ease.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043302Z" creationid="Judy" creationdate="20150606T043302Z">
+        <seg>讓使用者輕鬆進行檔案合併以及移除或取代頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows users to create shortcuts to their favorite features and capabilities.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042919Z" creationid="Judy" creationdate="20150606T042919Z">
@@ -6715,6 +6723,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071352Z">
         <seg>嵌入媒體物件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empowers users to add comments by speaking instead of typing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043149Z" creationid="Judy" creationdate="20150606T043149Z">
+        <seg>讓使用者透過語音輸入註解。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14416,6 +14432,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF uncompromised.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043308Z" creationid="Judy" creationdate="20150606T043308Z">
+        <seg>無須妥協的 PDF 軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF/A &amp; 508 Compliance Checker</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071504Z">
@@ -15052,6 +15076,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200239Z">
         <seg>績效目標應於委任過程中定義，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performs intelligent Looks Like Search™ to quickly find phone numbers, email addresses, social security numbers, and more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043100Z" creationid="Judy" creationdate="20150606T043100Z">
+        <seg>使用智慧型 Looks Like Search™ 功能快速搜尋電話號碼、電子郵件地址和社會安全碼以及更多的內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18910,6 +18942,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133725Z">
         <seg>將裝置存放於室內以避免元件受潮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Streamlined document assembly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043203Z" creationid="Judy" creationdate="20150606T043203Z">
+        <seg>簡化的文件組合</seg>
       </tuv>
     </tu>
     <tu>
