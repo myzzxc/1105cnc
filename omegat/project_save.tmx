@@ -3613,6 +3613,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Benefits of Power PDF Standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051748Z" creationid="Judy" creationdate="20150606T051748Z">
+        <seg>Power PDF 標準版帶來的效益</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Besides hotfixes, you can also add other files (for instance plug-ins) to your customized package.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021900Z">
@@ -7676,6 +7684,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021122Z">
         <seg>完成轉換檔（如上述）是可選的操作；此外也可以加入更多自訂的轉換檔於安裝套裝程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, PDF software that gives business users the features they need at a price that businesses and professionals can justify.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051649Z" creationid="Judy" creationdate="20150606T051601Z">
+        <seg>為企業用戶提供價格合理且符合其功能需求的 PDF 軟體，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13425,6 +13441,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now users can create, assemble, convert, edit, search, secure, and print PDF documents and forms with unprecedented ease and speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051724Z" creationid="Judy" creationdate="20150606T051724Z">
+        <seg>現在使用者能簡便且快速的進行建立、合併、轉檔、編輯、搜尋、安全性和列印 PDF 文件和表格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now users can create, assemble, convert, edit, search, secure, print, and validate PDF documents and forms with unprecedented ease and speed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042744Z" creationid="Judy" creationdate="20150606T042744Z">
@@ -13667,7 +13691,15 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Nuance® Power PDF Advanced puts an end to all of that.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042254Z" creationid="Judy" creationdate="20150606T042254Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051536Z" creationid="Judy" creationdate="20150606T042254Z">
+        <seg>Nuance® Power PDF 進階版能改變這個情形，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance® Power PDF puts an end to all of that.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051514Z" creationid="Judy" creationdate="20150606T051514Z">
         <seg>Nuance® Power PDF 能改變這個情形，</seg>
       </tuv>
     </tu>
@@ -25190,6 +25222,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042953Z" creationid="Judy" creationdate="20150606T042953Z">
         <seg>使用者自訂模式搜尋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User-configurable quick access toolbar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051733Z" creationid="Judy" creationdate="20150606T051733Z">
+        <seg>使用者自訂快速存取工具列</seg>
       </tuv>
     </tu>
     <tu>
