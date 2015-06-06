@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A PC with an Intel®  Pentium®4, higher or equivalent processor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045628Z" creationid="Judy" creationdate="20150606T045628Z">
+        <seg>一部具有 Intel® Pentium® 4 或更高級別處理器的電腦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A SoftwareSerial library allows for serial communication on any of the Leonardo ETH's digital pins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130307Z">
@@ -7965,8 +7973,8 @@
       <tuv lang="EN-US">
         <seg>For demanding business users, Power PDF is the next generation PDF solution that delivers performance, ease, and value as never before, freeing you from the compromises of traditional PDF applications.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043418Z" creationid="Judy" creationdate="20150606T043418Z">
-        <seg>對於要求嚴格的商業客戶，Nuance Power PDF 為新一代的 PDF 解決方案，它提供前所未有的效能、易用性和價值，使客戶無須屈就於傳統的 PDF 程式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045614Z" creationid="Judy" creationdate="20150606T043418Z">
+        <seg>對於要求嚴格的商業客戶，Power PDF 為新一代的 PDF 解決方案，它提供前所未有的效能、易用性和價值，使客戶無須屈就於傳統的 PDF 程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12128,6 +12136,22 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MB of free hard disk space for application files; additional space required for temporary installer files and for additional user interface languages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045827Z" creationid="Judy" creationdate="20150606T045827Z">
+        <seg>MB 可用硬碟空間供程式檔案使用；另需額外可用空間供安裝暫存檔案以及使用者介面語言使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MB of memory (RAM), 1 GB recommended</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045803Z" creationid="Judy" creationdate="20150606T045803Z">
+        <seg>MB 記憶體 (RAM)，建議配備 1 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MB of memory (RAM),1 GB recommended</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064235Z">
@@ -12468,6 +12492,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051544Z">
         <seg>Microsoft Excel 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Internet Explorer 8 or above</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045754Z" creationid="Judy" creationdate="20150606T045754Z">
+        <seg>Microsoft Internet Explorer 8 或更新版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -19251,6 +19283,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supported operating systems:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045632Z" creationid="Judy" creationdate="20150606T045632Z">
+        <seg>支援作業系統：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Surveillance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091945Z">
@@ -19311,6 +19351,14 @@ HUT DQ FP1001</seg>
         <seg>System Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063901Z">
+        <seg>系統要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045620Z" creationid="Judy" creationdate="20150606T045620Z">
         <seg>系統要求</seg>
       </tuv>
     </tu>
@@ -25531,6 +25579,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Web access needed for product registration, activation, Dragon Notes, and obtaining live updates for the program</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045905Z" creationid="Judy" creationdate="20150606T045905Z">
+        <seg>需要網路連接以進行產品註冊、啟用、Dragon Notes 和獲得程式即時更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weight Kgs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081819Z">
@@ -25979,6 +26035,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windows 7 32-bit or 64-bit Edition with Service Pack 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045717Z" creationid="Judy" creationdate="20150606T045717Z">
+        <seg>Windows 7 32-bit 或 64-bit 版本， SP 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windows 7 SP1 32-bit or 64-bit Edition</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064143Z">
@@ -26023,6 +26087,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051935Z">
         <seg>Windows Explorer 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows Server 2003, 2008 RS2, 2012 (Citrix, Windows Terminal Server, Active Directory)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045742Z" creationid="Judy" creationdate="20150606T045742Z">
+        <seg>Windows Server 2003、2008 RS2、2012 (Citrix, Windows Terminal Server, Active Directory)</seg>
       </tuv>
     </tu>
     <tu>
