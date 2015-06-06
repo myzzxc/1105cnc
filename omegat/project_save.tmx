@@ -4886,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Combine and assemble documents with ease</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113322Z">
+        <seg>輕鬆合併和組合文件檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combine and assemble documents with ease:  Combine files and remove or replace pages with drag and drop ease.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T040008Z">
@@ -4898,6 +4906,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T041052Z">
         <seg>將任何類型的檔案和資料夾合併至 PDF 組合 —— 包含具有吸引力的封面供讀者查 —— 可以使用任何 PDF 閱讀器檢視。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combine files and remove or replace pages with drag and drop ease.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113317Z">
+        <seg>以簡易的拖拉操作進行檔案合併以及移除或取代頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5586,6 +5602,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113057Z">
         <seg>藉由省時的單鍵掃描至 PDF 功能，由掃描器直接建立 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create PDF files from any PC application that can print</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113200Z">
+        <seg>由任何可進行列印的電腦應用程式中建立 PDF 檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -6426,6 +6450,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053959Z">
         <seg>文件處理開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don’t retype your documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113237Z">
+        <seg>無須重新輸入文件檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -10074,6 +10106,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091428Z">
         <seg>若訂購配件為鼓風機而非乾式葉片泵，則鼓風機則會安裝在圖中乾式葉片泵的位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you must work with PDF documents in other applications, don’t waste valuable time recreating them - convert them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113249Z">
+        <seg>如果必須使用其他應用程式中的 PDF 文件檔，不要浪費寶貴的時間重新創建 —— 只需進行轉檔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17907,6 +17947,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scan and highlight, cross-out or underline - all in a single step.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113116Z">
+        <seg>掃描並標示、劃除或劃底線 —— 都只需要單一的步驟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scan and highlight, cross-out or underline—all in a single step.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033429Z">
@@ -25635,6 +25683,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>View and select pages from a source document - such as Microsoft Word, Excel, PowerPoint, WordPerfect, JPG, BMP , TIF, or XPS - to insert into a target document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113415Z">
+        <seg>由來源文件 —— 例如 Microsoft Word、Excel、PowerPoint、WordPerfect、JPG、BMP、TIF、或 XPS —— 檢視和選擇頁面，並插入至目的文件檔，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View and select pages from a source document—such as Microsoft Word, Excel, PowerPoint, WordPerfect, JPG, BMP , TIF, or XPS—to insert into a target document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T040239Z">
@@ -26911,6 +26967,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T041242Z">
         <seg>甚至可以加入圖片、圖形、影片、音訊或 3D 圖形至 PDF 文件檔中，以提供各能吸引讀者的內容以傳達資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can even select, copy and convert only the selected areas of text you need from a PDF document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113258Z">
+        <seg>甚至可以選擇 PDF 文件檔中所需文字範圍進行選擇、複製和轉檔。</seg>
       </tuv>
     </tu>
     <tu>
