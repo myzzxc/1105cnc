@@ -3085,6 +3085,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automate and simplify routine document scanning, capture, conversion, and redaction workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044011Z" creationid="Judy" creationdate="20150606T044011Z">
+        <seg>自動且簡化的常規文件掃描、擷取、轉換和修訂工作流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automate large scale PDF creation, conversion, OCR, redaction and Bates numbering jobs with improved batch handling capabilities.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030334Z">
@@ -3573,6 +3581,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Benefits of Power PDF Advanced</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043819Z" creationid="Judy" creationdate="20150606T043819Z">
+        <seg>Power PDF 進階版帶來的效益</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Besides hotfixes, you can also add other files (for instance plug-ins) to your customized package.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021900Z">
@@ -3689,6 +3705,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071124Z">
         <seg>書籤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boost productivity with automated workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043852Z" creationid="Judy" creationdate="20150606T043852Z">
+        <seg>以自動化的工作流程提高生產力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8937,6 +8961,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071305Z">
         <seg>標示劃記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highly accurate OCR and file conversion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043707Z" creationid="Judy" creationdate="20150606T043707Z">
+        <seg>高度精確文字辨識和檔案轉換</seg>
       </tuv>
     </tu>
     <tu>
@@ -16870,6 +16902,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065211Z">
         <seg>重新加壓並繼續測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reproduces complex layouts with columns, tables, and graphics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043758Z" creationid="Judy" creationdate="20150606T043758Z">
+        <seg>能在文件中忠實地重現複雜的欄位、表格和圖形。</seg>
       </tuv>
     </tu>
     <tu>
