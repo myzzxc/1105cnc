@@ -6422,6 +6422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dynamic stamps gives users advanced editing functionality to increase collaboration and productivity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043633Z" creationid="Judy" creationdate="20150606T043633Z">
+        <seg>動態圖章讓使用者進行進階編輯，以提高協作和工作效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E.g. C:\Program Files\Nuance\Power PDF, or C:\Program Files (x86)\Nuance\Power PDF in the case of a 64-bit OS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T151738Z">
@@ -7870,6 +7878,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053401Z">
         <seg>當切削非鐵金屬如鋁、黃銅以及銅，Unist 切削液噴嘴操作比起其他噴嘴系統更精準且更可靠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For demanding business users, Power PDF is the next generation PDF solution that delivers performance, ease, and value as never before, freeing you from the compromises of traditional PDF applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043418Z" creationid="Judy" creationdate="20150606T043418Z">
+        <seg>對於要求嚴格的商業客戶，Nuance Power PDF 為新一代的 PDF 解決方案，它提供前所未有的效能、易用性和價值，使客戶無須屈就於傳統的 PDF 程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15798,6 +15814,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135626Z">
         <seg>電源需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powerful PDF editing and mark up</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043509Z" creationid="Judy" creationdate="20150606T043509Z">
+        <seg>強大的 PDF 編輯和劃記功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -25629,6 +25653,14 @@ HUT DQ FP1001</seg>
         <seg>When the demands of business demand PDF, demand Nuance Power PDF.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015045Z">
+        <seg>當業務有 PDF 需求時，選擇 Nuance Power PDF。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the demands of business demand PDF, demand Power PDF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043433Z" creationid="Judy" creationdate="20150606T043433Z">
         <seg>當業務有 PDF 需求時，選擇 Nuance Power PDF。</seg>
       </tuv>
     </tu>
