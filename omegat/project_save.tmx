@@ -6679,6 +6679,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Easily control the installable options for each organization or department.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045325Z" creationid="Judy" creationdate="20150606T045325Z">
+        <seg>輕鬆管理每個機構或部門可安裝的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Easily deploy in compliance with information governance policy</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045301Z" creationid="Judy" creationdate="20150606T045301Z">
+        <seg>輕鬆地進行資料管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Easily mounts to the AXYZ machine to scan the surface of awork piece.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052909Z">
@@ -6900,6 +6916,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030509Z">
         <seg>強化了建立和驗證符合 508 條款資訊存取性標準之功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enjoy the cost-savings benefits of desktop virtualization.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045511Z" creationid="Judy" creationdate="20150606T045511Z">
+        <seg>利用虛擬主機為您節省成本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7927,6 +7951,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053401Z">
         <seg>當切削非鐵金屬如鋁、黃銅以及銅，Unist 切削液噴嘴操作比起其他噴嘴系統更精準且更可靠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For demanding business users, Power PDF Advanced is the next generation PDF solution that delivers performance, ease, and value as never before, freeing you from the compromises of traditional PDF applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045546Z" creationid="Judy" creationdate="20150606T045546Z">
+        <seg>對於要求嚴格的商業客戶，Power PDF 進階版為新一代的 PDF 解決方案，它提供前所未有的效能、易用性和價值，使客戶無須屈就於傳統的 PDF 程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14497,6 +14529,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF uncompromised</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045514Z" creationid="Judy" creationdate="20150606T045514Z">
+        <seg>無須妥協的 PDF 軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF uncompromised and unlimited.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T041948Z" creationid="Judy" creationdate="20150606T041948Z">
@@ -17247,6 +17287,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131234Z">
         <seg>於機台兩端同時運行不同操作，當處理需要機台長度之大型工件時可將一支架停放於機台末端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run in Citrix and Microsoft Virtual Machine environments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045420Z" creationid="Judy" creationdate="20150606T045420Z">
+        <seg>運行於 Citrix 和 Microsoft Virtual Machine 環境</seg>
       </tuv>
     </tu>
     <tu>
