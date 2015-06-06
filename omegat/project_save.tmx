@@ -6943,6 +6943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enterprise PDF security and rights management</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044347Z" creationid="Judy" creationdate="20150606T044347Z">
+        <seg>企業 PDF 安全性和權限管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equipment Guarantee</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152927Z">
@@ -15060,6 +15068,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063856Z">
         <seg>銷售合作夥伴：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password-protect files with secure 128-bit or 256-bit AES encryption, permission controls, and open documents protected with FileOpen rights management.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044622Z" creationid="Judy" creationdate="20150606T044622Z">
+        <seg>使用 FileOpen 權限管理進行 128 位元或 256 位元 AES 密碼加密、權限控制和文件開啟保護以保護檔案。</seg>
       </tuv>
     </tu>
     <tu>
