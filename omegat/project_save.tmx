@@ -2973,6 +2973,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assemble, compare, convert, create, dictate, edit, read, scan, search, secure, sign and print PDF documents and forms with unprecedented ease and speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124842Z">
+        <seg>以空前的易用性和高速進行合併、比較、轉檔、建立、聽寫、編輯、朗讀、掃描、搜尋、安全、簽章和列印 PDF 文件和表格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assessment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150822Z">
@@ -3697,6 +3705,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063559Z">
         <seg>最好的分類（和批次處理）搜尋、標示、加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Best user experience and value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124847Z">
+        <seg>最佳使用者體驗和價值</seg>
       </tuv>
     </tu>
     <tu>
@@ -4570,6 +4586,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102548Z">
         <seg>點擊 Application Options。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Buy Now and enter the quantity between 5 and 25 in the cart.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124342Z">
+        <seg>點擊 Buy Now 並於購物車中輸入 5 至 25 之間的數量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6113,6 +6137,14 @@
         <seg>Deliver documents that look as good in print as they do on screen - no matter where you send or view them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113425Z">
+        <seg>無論發送至何處或在不同地方檢視，都能提供與使用者螢幕上所見相同的列印文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deliver documents that look as good in print as they do on screen—no matter where you send or view them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124912Z">
         <seg>無論發送至何處或在不同地方檢視，都能提供與使用者螢幕上所見相同的列印文件。</seg>
       </tuv>
     </tu>
@@ -8397,6 +8429,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For five or more licenses, you'll receive a single key to simplify deployment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T123433Z">
+        <seg>五組（含）以上的授權將會收到一組單一金鑰用以簡便進行部署。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052107Z">
@@ -10158,6 +10198,22 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are looking to purchase more than 25 seats, please contact Nuance Corporate Sales</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T123618Z">
+        <seg>若需購買 25 套以上的授權，請與 Nuance 公司業務代表連絡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are not interested in purchasing volume licensing and are looking for individual use Click Here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124211Z">
+        <seg>若無需購買大量授權，請按一下此處取得單一使用授權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are supplying your own Unit you will need to ensure you have the correct piping or necessary reducer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065753Z">
@@ -10241,6 +10297,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
         <seg>If you must work with PDF documents in other applications, don’t waste valuable time recreating them - convert them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113249Z">
+        <seg>如果必須使用其他應用程式中的 PDF 文件檔，不要浪費寶貴的時間重新創建 —— 只需進行轉檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you must work with PDF documents in other applications, don’t waste valuable time recreating them—convert them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124859Z">
         <seg>如果必須使用其他應用程式中的 PDF 文件檔，不要浪費寶貴的時間重新創建 —— 只需進行轉檔。</seg>
       </tuv>
     </tu>
@@ -16187,6 +16251,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power PDF 25 User Power PDF 25 User</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124550Z">
+        <seg>Power PDF 25 位使用者 Power PDF 25 位使用者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF 5 User Power PDF 5 User</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124542Z">
+        <seg>Power PDF 5 位使用者 Power PDF 5 位使用者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power PDF Add-ons don’t add start up time to Office applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024157Z">
@@ -16199,6 +16279,30 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081557Z">
         <seg>Power PDF 進階版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF Advanced Power PDF Advanced</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124459Z">
+        <seg>Power PDF 進階版 Power PDF 進階版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF Advanced Volume Licensing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T123128Z">
+        <seg>Power PDF 進階版大量授權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF Advanced Volume Licensing Power PDF Advanced Volume Licensing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124604Z">
+        <seg>Power PDF 進階版大量授權 Power PDF 進階版大量授權</seg>
       </tuv>
     </tu>
     <tu>
@@ -16255,6 +16359,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081549Z">
         <seg>Power PDF 標準版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF Standard Power PDF Standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124441Z">
+        <seg>Power PDF 標準版 Power PDF 標準版</seg>
       </tuv>
     </tu>
     <tu>
@@ -18083,6 +18195,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Same great features but with a volume discount.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T123229Z">
+        <seg>以大量授權優惠價取得相同的強大功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save the file as Unicode text as ConGroup.xml</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161847Z">
@@ -19711,6 +19831,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122955Z">
         <seg>商店 - Power PDF 進階版大量授權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Store - Power PDF Standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124734Z">
+        <seg>商店 - Power PDF 標準版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Store - Power PDF catalog (http://shop.nuance.com/store/nuanceus/en_US/DisplayCategoryProductListPage/ThemeID.20545600/categoryID.14415300)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124424Z">
+        <seg>商店 - Power PDF 產品型錄 (http://shop.nuance.com/store/nuanceus/en_US/DisplayCategoryProductListPage/ThemeID.20545600/categoryID.14415300)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26011,6 +26147,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Volume Licensing starts at a quantity of 5 seats</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T123516Z">
+        <seg>大量授權最低數量為 5 套</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Volume licensing: single license for  multiple seats, no activation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132407Z">
@@ -26527,6 +26671,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141821Z">
         <seg>按下此按鈕時，電路會重新啟動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When purchasing volume licensing, you will receive a link to download the product along with a single license key for the amount of seats you purchase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124124Z">
+        <seg>購買大量授權後，您將會收到產品下載連結合一組金鑰，此單一授權金鑰依您所購買的軟體數量有效</seg>
       </tuv>
     </tu>
     <tu>
