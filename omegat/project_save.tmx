@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A PC with an Intel®  Pentium®  4, higher or equivalent processor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052526Z" creationid="Judy" creationdate="20150606T052526Z">
+        <seg>一部具有 Intel® Pentium® 4 或更高級別處理器的電腦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A PC with an Intel®  Pentium®4, higher or equivalent processor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045628Z" creationid="Judy" creationdate="20150606T045628Z">
@@ -5230,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connect directly to your cloud storage sites such as Dropbox®, Evernote®, Box, Windows Live SkyDrive®, and Google Drive™.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052448Z" creationid="Judy" creationdate="20150606T052448Z">
+        <seg>直接連接到 Dropbox®、Evernote®、Box、 Windows Live SkyDrive® 和 Google Drive™ 等雲端儲存網站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connect your documents to the Cloud:  Now you can save and access your stored documents in the Cloud by connecting directly to Box, Google Drive, Windows Live® SkyDrive®, Office 365, Evernote® and Dropbox.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T045546Z">
@@ -8047,6 +8063,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053401Z">
         <seg>當切削非鐵金屬如鋁、黃銅以及銅，Unist 切削液噴嘴操作比起其他噴嘴系統更精準且更可靠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For demanding business users, Nuance Power PDF Standard is the next generation PDF solution that delivers performance, ease and value as never before, freeing them from the compromises of traditional PDF applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052519Z" creationid="Judy" creationdate="20150606T052519Z">
+        <seg>對於要求嚴格的商業客戶，Nuance Power PDF 標準版為新一代的 PDF 解決方案，它提供前所未有的效能、易用性和價值，使客戶無須屈就於傳統的 PDF 程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12672,6 +12696,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microsoft.NET Framework 4.0 installed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052535Z" creationid="Judy" creationdate="20150606T052535Z">
+        <seg>需安裝 Microsoft .NET Framework 4.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Min Door Width</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081728Z">
@@ -13020,6 +13052,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051337Z" creationid="Judy" creationdate="20150606T051337Z">
         <seg>NUAN–DI–3789–BR，2014 年 3 月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NUAN–DI–3790–BR, MAR 2014</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052555Z" creationid="Judy" creationdate="20150606T052555Z">
+        <seg>NUAN–DI–3790–BR，2014 年 3 月</seg>
       </tuv>
     </tu>
     <tu>
@@ -13581,6 +13621,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093256Z">
         <seg>Nuance Power PDF 進階版：無須妥協且無限制的 PDF 軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance Power PDF Standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052610Z" creationid="Judy" creationdate="20150606T052610Z">
+        <seg>Nuance Power PDF 標準版</seg>
       </tuv>
     </tu>
     <tu>
