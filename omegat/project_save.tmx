@@ -1746,6 +1746,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accurately convert PDF files to editable Microsoft Word, Excel, PowerPoint, Corel WordPerfect, and searchable XPS documents with faithfully reproduced text, columns, tables, and graphics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052248Z" creationid="Judy" creationdate="20150606T052248Z">
+        <seg>精準地轉換 PDF 文件檔案為可編輯的 Microsoft Word、Excel、 PowerPoint、Corel WordPerfect 和可搜尋的 XPS 文件並忠實地重現複雜的欄位、表格和圖形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Directory Rights Management Service</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025717Z">
@@ -12396,6 +12404,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023823Z">
         <seg>選擇所需設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage and access your documents in the cloud</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052346Z" creationid="Judy" creationdate="20150606T052346Z">
+        <seg>雲端管理和存取文件檔案</seg>
       </tuv>
     </tu>
     <tu>
