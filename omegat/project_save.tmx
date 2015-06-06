@@ -1882,6 +1882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add passwords with secure 128-bit or 256-bit AES encryption and permission controls to PDF files to control document viewing, printing and modifications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113914Z">
+        <seg>使用 128 位元或 256 位元 AES 密碼加密和 PDF 檔案權限控制以管制文件檢視、列印和修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding comments to documents to support document review workflows and collaboration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121707Z">
@@ -4870,6 +4878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collect information with forms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113749Z">
+        <seg>收集表單資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collect information with forms:  Don’t let the hassle of filling out long forms slow down your business.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050114Z">
@@ -5742,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customizable Quick Access Toolbar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113957Z">
+        <seg>自訂快速存取工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customizable installation deployment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071813Z">
@@ -6478,6 +6502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don’t let the hassle of filling out long forms slow down your business.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113746Z">
+        <seg>別讓填寫冗長的表單的煩惱拖累了您的業務，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don’t retype your documents</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113237Z">
@@ -7068,6 +7100,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T145107Z">
         <seg>雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enhance document security</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113917Z">
+        <seg>強化檔案安全性</seg>
       </tuv>
     </tu>
     <tu>
@@ -8493,6 +8533,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FormTyperTM automatically converts non-fillable forms into fillable PDF forms that you can complete, save and email.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113800Z">
+        <seg>FormTyperTM 自動轉換不可輸入的表單成為可輸入之 PDF 表單，使用者能填入、儲存並傳送電子郵件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FormTyperTM automatically converts non-fillable forms into fillable PDF forms that you can complete, save, and email.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050251Z">
@@ -8698,6 +8746,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T124038Z">
         <seg>進行 30 天的試用，嘗試 Power PDF 的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get the most accurate conversion to searchable PDF available with any PDF solution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113810Z">
+        <seg>進行最精準的轉檔，建立所有的 PDF 解決方案皆可搜尋的 PDF 檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10338,6 +10394,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
         <seg>Improved cloud collaboration services to store and share information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030016Z">
+        <seg>改進雲端協作服務以儲存和共用資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improved cloud collaboration services to store and share information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T114002Z">
         <seg>改進雲端協作服務以儲存和共用資訊</seg>
       </tuv>
     </tu>
@@ -13224,6 +13288,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New easier to use interface minimises learning curve and maximises productivity by enabling users to effortlessly transition between word processing and PDF publishing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113953Z">
+        <seg>簡化學習門檻並最大化生產力，使用者不費吹灰之力便能由 WORD 文書處理轉換至 PDF 發佈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New feature allows deployment to users in read only mode to enforce compliance with segregation of duties and least privilege governance principles required by GAAP, SOX, GLBA, HIPAA, eDiscovery and other internal control best practices and regulatory mandates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030150Z">
@@ -15549,6 +15621,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014723Z">
         <seg>進行外管液壓測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perform smarter searches</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113813Z">
+        <seg>執行智慧搜尋</seg>
       </tuv>
     </tu>
     <tu>
@@ -25426,6 +25506,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the intelligent Looks Like SearchTM capability to quickly find content, like phone numbers, email addresses and credit card numbers, via an alphanumeric pattern rather than exact text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113905Z">
+        <seg>使用智慧型 Looks Like SearchTM 功能，透過字母數字模式而非全文字以快速搜尋如電話號碼、電子郵件地址和信用卡號碼等內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the options to enable or disable the following:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101701Z">
@@ -26067,6 +26155,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Web access needed for product registration, activation, Dragon Notes and obtaining live updates for the program</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T114021Z">
+        <seg>需要網路連接以進行產品註冊、啟用、Dragon Notes 和獲得程式即時更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Web access needed for product registration, activation, Dragon Notes, and obtaining live updates for the program</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045905Z">
@@ -26159,6 +26255,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123644Z">
         <seg>這代表您可以將 PDF 軟體安裝於您的組織中的每一台電腦上……並維持在預算範圍內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's New</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113943Z">
+        <seg>新增功能</seg>
       </tuv>
     </tu>
     <tu>
