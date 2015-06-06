@@ -6903,6 +6903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensure files comply with ISO PDF/A conformance levels and Section 508 information accessibility standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044304Z" creationid="Judy" creationdate="20150606T044200Z">
+        <seg>確保檔案符合 ISO PDF/A 等級規範和 508 條款資訊存取性標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensure files comply with ISO PDF/A standard and conformance levels 1a, 1b, 2a, 2b, 2u, 3a, 3b, and 3u.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022825Z">
@@ -25086,6 +25094,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070637Z">
         <seg>真空系統配件 - 包括真空抽氣泵和鼓風機，以及集屑系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validate conformance with PDF/A archival and 508 accessibility standards</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044203Z" creationid="Judy" creationdate="20150606T044129Z">
+        <seg>驗證符合 PDF/A 檔案格式和 508 存取性標準</seg>
       </tuv>
     </tu>
     <tu>
