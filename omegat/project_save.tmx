@@ -8549,6 +8549,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FormTyper™ automatically converts non-fillable forms into fillable PDF forms that you can complete, save and email.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122246Z">
+        <seg>FormTyper™ 自動轉換不可輸入的表單成為可輸入之 PDF 表單，使用者能填入、儲存並傳送電子郵件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Four screw holes allow the board to be attached to a surface or case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132140Z">
