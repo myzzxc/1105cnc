@@ -6855,6 +6855,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Encourage users to comply with records management protocols Users can easily open and save PDFs to enterprise document management systems directly from the File menu, or in Portfolio mode—all to provide faster, easier access.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045223Z" creationid="Judy" creationdate="20150606T044642Z">
+        <seg>使用記錄管理協定使用戶檔案符合規範
+使用者可以直接從 File （檔案）功能表或於 Portfolio （文件夾）模式中輕鬆地開啟或儲存 PDF 檔案至企業文件管理系統 —— 提供更快、更簡便的存取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024235Z">
