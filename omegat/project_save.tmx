@@ -2386,6 +2386,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows users to create shortcuts to their favorite features and capabilities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042919Z" creationid="Judy" creationdate="20150606T042919Z">
+        <seg>使用者能自訂常用功能和特性捷徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows using shared watermarks within the deployed printer settings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T074803Z">
@@ -12359,6 +12367,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microsoft Office-style ribbon user interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042800Z" creationid="Judy" creationdate="20150606T042800Z">
+        <seg>Microsoft Office 標籤式選單介面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Microsoft Outlook Integration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051712Z">
@@ -13180,6 +13196,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T032500Z">
         <seg>現在我們提供了一個 Adobe Acrobat 的替代方案，具有直觀、以 Office 為基礎的的使用者體驗，使用者能以其熟悉的方式進行工作，並加入了許多專門為企業用戶設計的功能，使商業用戶更具生產力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now users can create, assemble, convert, edit, search, secure, print, and validate PDF documents and forms with unprecedented ease and speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042744Z" creationid="Judy" creationdate="20150606T042744Z">
+        <seg>現在使用者能簡便且快速的進行建立、合併、轉檔、編輯、搜尋、安全性、列印和驗證 PDF 文件和表格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15562,6 +15586,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power PDF advantages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042754Z" creationid="Judy" creationdate="20150606T042754Z">
+        <seg>Power PDF 優勢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power PDF can also Automate important workflows with Watched folder and Batch processing capabilities</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T113451Z">
@@ -16094,6 +16126,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131839Z">
         <seg>以analogWrite()函數提供8位元PWM。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides a familiar, intuitive user experience that minimizes the learning curve and maximizes productivity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042830Z" creationid="Judy" creationdate="20150606T042830Z">
+        <seg>提供熟悉、直觀的使用者體驗，簡化學習曲線並最大化生產力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24749,6 +24789,22 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131715Z">
         <seg>使用介面為圖形化而非辦公室使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User-configurable Quick Access toolbar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042841Z" creationid="Judy" creationdate="20150606T042841Z">
+        <seg>使用者自訂快速存取工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User-configurable pattern search</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042953Z" creationid="Judy" creationdate="20150606T042953Z">
+        <seg>使用者自訂模式搜尋</seg>
       </tuv>
     </tu>
     <tu>
