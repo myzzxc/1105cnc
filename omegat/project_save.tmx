@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4754,6 +4754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070831Z">
         <seg>雲端連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collaboration and productivity at a price that makes business sense</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042006Z" creationid="Judy" creationdate="20150606T042006Z">
+        <seg>平價提供商用級的協作性和高效率</seg>
       </tuv>
     </tu>
     <tu>
@@ -14360,6 +14368,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF is the standard format for business document collaboration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042013Z" creationid="Judy" creationdate="20150606T042013Z">
+        <seg>PDF 文件為商業文件協作的標準格式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF uncompromised and unlimited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T041948Z" creationid="Judy" creationdate="20150606T041948Z">
+        <seg>無須妥協且無限制的 PDF 軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF/A &amp; 508 Compliance Checker</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071504Z">
@@ -15478,6 +15502,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T101152Z">
         <seg>Power PDF 進階版支援分配至電腦方案，並於電腦重新開機時成功安裝軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF Advanced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T041935Z" creationid="Judy" creationdate="20150606T041935Z">
+        <seg>Power PDF 進階版，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26054,6 +26086,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130417Z">
         <seg>然而，大多數金融產業中的專業人士覺得電腦中沒有合適的 PDF 工具，能真正的提高工作效率和協作性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yet, most users lack adequate PDF power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T042053Z" creationid="Judy" creationdate="20150606T042053Z">
+        <seg>然而，大多數使用者缺乏適合的 PDF 工具。</seg>
       </tuv>
     </tu>
     <tu>
