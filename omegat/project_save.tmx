@@ -5446,6 +5446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright © 2014 Nuance Communications, Inc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051115Z" creationid="Judy" creationdate="20150606T051115Z">
+        <seg>版權所有 © 2014 Nuance Communications 公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright ©2014</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143924Z">
@@ -7096,6 +7104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every day, millions of people and thousands of businesses experience Nuance through intelligent systems that can listen, understand, learn and adapt to your life and your work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051034Z" creationid="Judy" creationdate="20150606T051034Z">
+        <seg>每天都有數以百萬計的人們和無數的企業透過能傾聽、理解、學習和融入生活和工作的智慧系統體驗了 Nuance 的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evisceration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T042349Z">
@@ -8161,6 +8177,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024910Z">
         <seg>更多詳細的相關資訊，請閱讀產品版本資訊中的系統要求部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, please visit nuance.com.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051057Z" creationid="Judy" creationdate="20150606T051057Z">
+        <seg>請上 nuance.com 網站以獲得更多詳細的資訊。</seg>
       </tuv>
     </tu>
     <tu>
