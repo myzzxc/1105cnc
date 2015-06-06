@@ -1730,6 +1730,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accessibility Compliance Checking and Correction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122814Z">
+        <seg>存取性標準檢查和校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accessing the installed product from clients</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012749Z">
@@ -6174,6 +6182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deploy to users in reader mode to enforce compliance and help control best practices and regulatory mandates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122700Z">
+        <seg>使用者在唯讀模式下，必須遵守規範以及其它最佳的內部管制方法和管理規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploying on client machines</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013855Z">
@@ -7136,10 +7152,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enhanced capabilities to create and validate compliance with information accessibility standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122755Z">
+        <seg>強化了建立和驗證符合規範資訊存取性標準之功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enjoy the cost-savings benefits of desktop virtualization.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045511Z">
         <seg>利用虛擬主機為您節省成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure PDF/A compliance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122333Z">
+        <seg>確保符合 PDF/A 規範</seg>
       </tuv>
     </tu>
     <tu>
@@ -7156,6 +7188,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044304Z">
         <seg>確保檔案符合 ISO PDF/A 等級規範和 508 條款資訊存取性標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure files comply with ISO PDF/A standard and conformance levels 1a, 1b, 2a, 2b, 2u, 3a, 3b and 3u.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122718Z">
+        <seg>確保檔案符合 ISO PDF/A 標準和 1a、 1b、 2a、 2b、 2u、 3a、 3b 和 3u 級標章。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13288,6 +13328,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New customize installation and deployment options so that system administrators can optionally create a custom installer, with different options for each organization or department.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122454Z">
+        <seg>自訂安裝和部署選項，使系統管理員能自訂各個機構或部門可安裝的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New easier to use interface minimise learning curve and maximises productivity by enabling users to effortlessly transition between word processing and PDF publishing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T025750Z">
@@ -18051,6 +18099,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save/Open documents interacting directly with document management systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122417Z">
+        <seg>直接使用文件管理系統儲存/開啟檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save/Open documents interacting directly with document management systems:  Users can save PDFs to the most popular document management systems (DMS) now easier than ever by accessing them directly from the Save/Save As menu, from the Portfolio mode or from Internet Explorer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051716Z">
@@ -18175,6 +18231,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071642Z">
         <seg>搜尋和加密的工作流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search everything in a document - even the contents of bookmarks and comments - so you’re sure to find what you’re looking for.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122436Z">
+        <seg>搜尋文件中所有內容 —— 包含書籤和註解論的內容 —— 保證能搜尋到所需資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19643,6 +19707,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Store - Power PDF Advanced Volume Licensing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122955Z">
+        <seg>商店 - Power PDF 進階版大量授權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Store the unit in a covered area to protect the components from moisture.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133725Z">
@@ -20144,6 +20216,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T130309Z">
         <seg>嘗試 Power PDF。平價提供商用級的協作性和高效率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take advantage of a simplified way to meet PDF/A compliance requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122331Z">
+        <seg>利用簡化的方式滿足 PDF/A 規範標準，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25524,8 +25604,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>Use the intelligent Looks Like SearchTM capability to quickly find content, like phone numbers, email addresses and credit card numbers, via an alphanumeric pattern rather than exact text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113905Z">
-        <seg>使用智慧型 Looks Like SearchTM 功能，透過字母數字模式而非全文字以快速搜尋如電話號碼、電子郵件地址和信用卡號碼等內容。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122319Z">
+        <seg>使用智慧型 Looks Like Search™ 功能，透過字母數字模式而非全文字以快速搜尋如電話號碼、電子郵件地址和信用卡號碼等內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25634,10 +25714,26 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Users are notified if a PDF/A file does not meet compliance requirement, so they can fix them on the fly - further saving time and making sure the files are in full compliance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122355Z">
+        <seg>若 PDF/A 檔案不符合規範標準，將會提示試用者，讓使用者能快速修正 —— 節省更多時間並確保檔案符合標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Users are notified if a PDF/A file does not meet compliance requirement, so they can fix them on the fly—further saving time and making sure the files are in full compliance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050924Z">
         <seg>若 PDF/A 檔案不符合規範標準，將會提示試用者，讓使用者能快速修正 —— 節省更多時間並確保檔案符合標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Users can save PDFs to the most popular document management systems (DMS) now easier than ever by accessing them directly from the Save/Save As menu, from the Portfolio mode or from Internet Explorer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122406Z">
+        <seg>使用者現在可以更簡便地使用大多數常用的文件管理系統 (DMS) ，由組合模式或從 Internet Explorer 直接由儲存/另存新檔的功能表中進行存取。</seg>
       </tuv>
     </tu>
     <tu>
