@@ -4902,6 +4902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Combine any type of file and/or folder into striking PDF Portfolios - with attractive cover pages that guide your audience - that can be viewed with any popular PDF reader.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113519Z">
+        <seg>將任何類型的檔案和資料夾合併至 PDF 組合 —— 包含具有吸引力的封面供讀者查 —— 可以使用任何 PDF 閱讀器檢視。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combine any type of file and/or folder into striking PDF Portfolios—with attractive cover pages that guide your audience—that can be viewed with any popular PDF reader.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T041052Z">
@@ -5272,8 +5280,16 @@
       <tuv lang="EN-US">
         <seg>Connect directly to your cloud storage sites such as Dropbox®, Evernote®, Box, Windows Live SkyDrive®, and Google Drive™.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052448Z">
-        <seg>直接連接到 Dropbox®、Evernote®、Box、 Windows Live SkyDrive® 和 Google Drive™ 等雲端儲存網站。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113649Z">
+        <seg>直接連接到 Dropbox®、Evernote®、Box、 Windows Live SkyDrive® 和 Google 雲端硬碟™ 等雲端儲存網站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connect your documents to the Cloud</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113542Z">
+        <seg>將檔案連接到雲端</seg>
       </tuv>
     </tu>
     <tu>
@@ -6058,6 +6074,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001318Z">
         <seg>延遲： HUTCHINSON 和  HUTCHINSON 供應商之間的書面簽署協定， HUTCHINSON 授權其供應商交付不完全符合規範的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deliver documents that look as good in print as they do on screen - no matter where you send or view them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113425Z">
+        <seg>無論發送至何處或在不同地方檢視，都能提供與使用者螢幕上所見相同的列印文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13625,6 +13649,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now you can save and access your stored documents in the Cloud by connecting directly to Box, Google Drive™, Windows Live® SkyDrive®, Evernote® and Dropbox®.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113710Z">
+        <seg>現在可以直接連接到 Box、Google 雲端硬碟™、Windows Live SkyDrive ®，Office 365，Evernote ® 和 Dropbox 以儲存和存取雲端文件檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now you can save and access your stored documents in the Cloud by connecting directly to Box, Google Drive™, Windows Live® SkyDrive®, Office 365, Evernote® and Dropbox®.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113622Z">
+        <seg>現在可以直接連接到 Box、Google 雲端硬碟™、Windows Live SkyDrive ®，Office 365，Evernote ® 和 Dropbox 以儲存和存取雲端文件檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, lets put the capabilities of Power PDF in the context of Productivity and Security &amp; Compliance….Power PDF puts an end to compromises here too.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T095256Z">
@@ -16507,6 +16547,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Produce more professional-looking documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113430Z">
+        <seg>製作更具專業水準的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Produce more professional-looking documents:  Deliver documents that look as good in print as they do on screen—no matter where you send or view them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T040737Z">
@@ -19215,6 +19263,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131820Z">
         <seg>更多資訊請向 AXYZ 技術銷售專員諮詢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speak your notes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113720Z">
+        <seg>語音輸入筆記</seg>
       </tuv>
     </tu>
     <tu>
@@ -25302,6 +25358,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T082947Z">
         <seg>使用易於密封且只需要低扭矩值之墊片，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use integrated Dragon Notes to easily speak and see your text created as notes within your PDF without typing—it’s fast, accurate, saves time and increases productivity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113717Z">
+        <seg>使用整合之 Dragon Notes 程式能輕鬆地在 PDF 檔案中使用語音輸入文字筆記 —— 快速、準確、節省時間並提高生產力。</seg>
       </tuv>
     </tu>
     <tu>
