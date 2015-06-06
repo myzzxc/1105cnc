@@ -13056,6 +13056,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Noise-cancelling headset microphone for Dragon Notes (not included)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T050014Z" creationid="Judy" creationdate="20150606T050014Z">
+        <seg>用於 Dragon Notes 之抗噪耳機麥克風（未包含）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-compliance detected by HUTCHINSON's end customer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161537Z">
@@ -13220,6 +13228,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064821Z">
         <seg>註：若電腦處理器、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Performance and speed will be enhanced if your computer’s processor, memory and available disk space exceed minimum requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T050026Z" creationid="Judy" creationdate="20150606T050026Z">
+        <seg>註：若電腦處理器、記憶體和可用硬碟空間高於最低效系統要求將能提昇效能和執行速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13549,6 +13565,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121937Z">
         <seg>Nuance 已從事 PDF 解決方案事業超過 10 年以上，因此我們真正了解嚴格的法務用戶需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuance offers Technical Support via phone and email.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T050105Z" creationid="Judy" creationdate="20150606T050105Z">
+        <seg>Nuance 提供電話和電子郵件技術支援。</seg>
       </tuv>
     </tu>
     <tu>
