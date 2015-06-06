@@ -5358,6 +5358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert PDF files to searchable and editable documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052053Z" creationid="Judy" creationdate="20150606T052053Z">
+        <seg>將 PDF 檔案轉換為可搜尋和可編輯的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert PDF into editable Office files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085641Z">
@@ -5526,6 +5534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create PDF files directly from your scanner with one-click scanning to PDF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051951Z" creationid="Judy" creationdate="20150606T051951Z">
+        <seg>藉由省時的單鍵掃描至 PDF 功能，由掃描器直接建立 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create PDF files from any PC application that can print: Instantly create 100% industry-standard PDF files with security options that are fully compliant and compatible with all PDF viewers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033723Z">
@@ -5546,6 +5562,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T133920Z">
         <seg>建立一個 ICA 連線：雙擊“Custom ICA Connection（自訂 ICA 連線）”後點選“Add ICA connection（增加 ICA 連線）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create and assemble PDF easily from any application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051852Z" creationid="Judy" creationdate="20150606T051852Z">
+        <seg>輕鬆地從任何應用程式中建立和合併 PDF 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -11004,6 +11028,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T082328Z">
         <seg>AXYZ 雕刻機工作台安裝實際上相當簡單，若準備妥當即可於數小時內完成安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instantly create 100% industry-standard PDF files with security options that are fully compliant and compatible with all PDF viewers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051929Z" creationid="Judy" creationdate="20150606T051929Z">
+        <seg>快速建立 100% 業界標準的 PDF 檔案，具有完全相容於所有 PDF 檢視器的安全加密選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17775,6 +17807,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T075125Z">
         <seg>掃描至電腦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scan to standard image, searchable, or editable PDF formats, or scan and highlight, cross out, or underline—all in a single step.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052029Z" creationid="Judy" creationdate="20150606T052029Z">
+        <seg>掃描成標準的影像、可搜尋或可編輯的 PDF 格式，或掃描並標示、劃除或劃底線 —— 都只需要單一的步驟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24677,6 +24717,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142609Z">
         <seg>關閉更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn paper into PDF more productively</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051942Z" creationid="Judy" creationdate="20150606T051942Z">
+        <seg>更有效率地將紙本轉換為 PDF 檔案。</seg>
       </tuv>
     </tu>
     <tu>
