@@ -18003,6 +18003,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-Mouse shortcut for Internet Explorer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141552Z">
+        <seg>Internet Explorer 右鍵快捷選單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-Mouse shortcut for Windows Explorer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141540Z">
+        <seg>Windows 檔案瀏覽器右鍵快捷選單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click it and select 'All tasks/Remove'.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T113555Z">
