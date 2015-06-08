@@ -5582,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converts PDF files to speech (Audio) files for iPod/Media Players</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142604Z">
+        <seg>轉換 PDF 檔案為語音（音訊）檔案供 iPod/媒體播放器使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coordination at division, activity or Group level at HUTCHINSON for shared suppliers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T162847Z">
@@ -10571,6 +10579,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024216Z">
         <seg>改進</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improved DMS support in save/save-as/openn</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142458Z">
+        <seg>改進 DMS 中儲存/另存新檔/開啓支援</seg>
       </tuv>
     </tu>
     <tu>
@@ -20179,10 +20195,26 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports LexisNexis CaseMap</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142505Z">
+        <seg>支援 LexisNexis CaseMap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports Open Text eDOCS (Hummingbird Enterprise) Autonomy-Interwoven Worksite, Livelink, NetDocuments, Worldox GX3, Documentum, Xerox DocuShare, Therefore, Office 365 and SharePoint Document Management Systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142251Z">
         <seg>支援 Open Text eDOCS（Hummingbird 公司） Autonomy-Interwoven Worksite、Livelink、NetDocuments、Worldox GX3、Documentum、Xerox DocuShare、Therefore、Office 365 和 SharePoint 文件管理系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports a subset of JavaScript</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142620Z">
+        <seg>支援 JavaScript 子集</seg>
       </tuv>
     </tu>
     <tu>
