@@ -5862,6 +5862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customizable quick access toolbar with shortcuts to the features and capabilities for each user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142009Z">
+        <seg>使用者能自訂快速存取工具列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customization with Nuance Customization Kit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011721Z">
@@ -20135,6 +20143,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124259Z">
         <seg>以5V或3.3V針腳供應電壓將不會經過穩壓器，可能會損壞電路板，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for viewing and annotating PDF within Internet Explorer, FireFox and Chrome</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141758Z">
+        <seg>支援 Internet Explorer、FireFox 和 Chrome 中瀏覽和標示 PDF 檔案</seg>
       </tuv>
     </tu>
     <tu>
