@@ -5086,10 +5086,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compatibility Features</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140531Z">
+        <seg>相容性功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compatibility/Collaboration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063533Z">
         <seg>相容性/協作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatible with (but does not require) Adobe®  Acrobat®  or Adobe Reader</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140734Z">
+        <seg>相容於 Adobe®  Acrobat®  或 Adobe Reader （但無需以上軟體）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatible with Microsoft Office 2007, 2010 and 2013</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140806Z">
+        <seg>相容於 Microsoft Office 2007、2010 和 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatible with Microsoft®  Windows®  7, 8, 8.1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140741Z">
+        <seg>相容於 Microsoft®  Windows®  7, 8, 8.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -12940,6 +12972,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051514Z">
         <seg>Microsoft Office 整合開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Office style ribbon user interface to minimize learning curve and maximize productivity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140601Z">
+        <seg>Microsoft Office 標籤式選單介面，簡化學習曲線並最大化生產力。</seg>
       </tuv>
     </tu>
     <tu>
