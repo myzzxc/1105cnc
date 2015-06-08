@@ -7488,6 +7488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Executive Summary</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140439Z">
+        <seg>執行摘要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export Sales Albrighton Business Park Newport Road, Albrighton Wolverhampton, England WV7 3ET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083803Z">
@@ -12592,6 +12600,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MSRP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140507Z">
+        <seg>售價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MULTI SPINDLE 5 TOOL DRILLING HEAD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131554Z">
@@ -15105,6 +15121,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF solution comparison.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140315Z">
+        <seg>PDF 解決方案比較表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF uncompromised</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045514Z">
@@ -16367,6 +16391,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124441Z">
         <seg>Power PDF 標準版 Power PDF 標準版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power PDF Standard and Power PDF Advanced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140342Z">
+        <seg>Power PDF 標準版和 Power PDF 進階版</seg>
       </tuv>
     </tu>
     <tu>
