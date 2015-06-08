@@ -7232,6 +7232,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enhanced accessibility checking and reporting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141255Z">
+        <seg>強化存取性檢查和報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enhanced capabilities to create and validate compliance with Section 508 information accessibility standards.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030509Z">
@@ -11420,6 +11428,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121522Z">
         <seg>整合式解決方案提供我們的客戶一切所需</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrated create and convert add-ons for Microsoft Word, Excel, PowerPoint, Internet Explorer, and Outlook</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141420Z">
+        <seg>整合 Microsoft Word、Excel、PowerPoint、Internet Explorer 和 Outlook 之建立和轉檔外掛程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -26159,6 +26175,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150627Z">
         <seg>驗證黏結物之最小厚度，以避免分裂和穿孔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify accessibility of PDF documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141149Z">
+        <seg>驗證 PDF 文件之存取性</seg>
       </tuv>
     </tu>
     <tu>
