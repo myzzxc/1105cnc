@@ -3253,6 +3253,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically find words in the scanned document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145817Z">
+        <seg>自動搜尋掃描文件中的文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatically highlight, cross-out or underline search results for faster, easier PDF editing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T053008Z">
@@ -7612,6 +7620,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090945Z">
         <seg>基本合進階功能都具有絕佳的水準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Except for redaction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145828Z">
+        <seg>不包含加密文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -14897,6 +14913,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One-click professional scanning with auto find-and-mark technology.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145727Z">
+        <seg>單鍵專業掃描功能，具有自動搜尋和標記技術。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-step PDF creation from Microsoft Word, Excel and PowerPoint</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145948Z">
+        <seg>單一步驟由 Microsoft Word、Excel、PowerPoint 中建立 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Online Help</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024516Z">
@@ -20303,6 +20335,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T125846Z">
         <seg>支援影片和音訊嵌入 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for WIA, TWAIN or ISIS scanners.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145848Z">
+        <seg>支援 WIA、TWAIN 或 ISIS 掃瞄器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27741,8 +27781,8 @@ HUT DQ FP1001</seg>
       <tuv lang="EN-US">
         <seg>You can even add bookmarks and transfer hyperlinks when creating PDF documents from Microsoft Word, Excel and PowerPoint.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T033832Z">
-        <seg>從 Microsoft Word、Excel、PowerPoint 中創建 PDF 檔案時也可以加入書籤和超連結。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145920Z">
+        <seg>從 Microsoft Word、Excel、PowerPoint 中建立 PDF 檔案時也可以加入書籤和超連結。</seg>
       </tuv>
     </tu>
     <tu>
