@@ -3167,8 +3167,8 @@
       <tuv lang="EN-US">
         <seg>Automate large scale PDF creation, conversion, OCR, redaction and Bates numbering jobs with improved batch handling capabilities.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T030334Z">
-        <seg>改進批次處理能力，自動建立大型 PDF 檔案、轉檔、字元辨識 (OCR)、修訂、文件編號任務。</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T125311Z">
+        <seg>改進批次處理能力，自動建立大型 PDF 檔案、轉檔、字元辨識 (OCR)、加密、文件編號任務。</seg>
       </tuv>
     </tu>
     <tu>
