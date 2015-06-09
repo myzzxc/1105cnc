@@ -1730,6 +1730,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access your documents stored in cloud based services such as Evernote and Dropbox</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T143949Z">
+        <seg>存取 Evernote 和 Dropbox 等雲服務ｘ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accessibility Compliance Checking and Correction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122814Z">
@@ -15265,6 +15273,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF/A  compliance checking at latest PDF/A-3 levels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T143858Z">
+        <seg>PDF/A 規範檢查 PDF/A-3 級以上標章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF/A &amp; 508 Compliance Checker</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071504Z">
@@ -15277,6 +15293,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T022725Z">
         <seg>PDF/A 轉檔、檢查和校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF/A compliance checking for PDF/A-1a, -1b, -2a, -2b and -2u</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T143816Z">
+        <seg>PDF/A 規範檢查 PDF/A-1a、 -1b、-2a、-2b 和 -2u 級標章。</seg>
       </tuv>
     </tu>
     <tu>
