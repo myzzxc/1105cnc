@@ -11352,6 +11352,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation "customization kit" to easily control the deployable options for each department</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T144904Z">
+        <seg>安裝“自訂工具組”以輕鬆管理每個部門可安裝的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation Prerequisites</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024432Z">
@@ -14897,6 +14905,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open and save your PDF files to popular cloud storage services such as Google Drive, Windows Live SkyDrive, Box and more, using the Nuance Cloud Connector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T144757Z">
+        <seg>使用 Cloud 連接器於 Google 雲端硬碟、Windows Live SkyDrive、Box 以及更多的熱門雲端儲存服務中開啓或儲存 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open or save to Box, Google Docs, Office 365, DropBox, and several on-premise DMS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063707Z">
@@ -17471,6 +17487,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132718Z">
         <seg>唯讀模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read only mode to enforce compliance and help control best practices and regulatory mandates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145030Z">
+        <seg>使用唯讀模式以執行規範以及其它最佳的內部管制方法和管理規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20191,6 +20215,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124259Z">
         <seg>以5V或3.3V針腳供應電壓將不會經過穩壓器，可能會損壞電路板，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for Microsoft Application Virtualization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T144809Z">
+        <seg>支援 Microsoft Application Virtualization</seg>
       </tuv>
     </tu>
     <tu>
