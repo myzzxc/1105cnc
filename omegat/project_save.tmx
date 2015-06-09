@@ -5822,6 +5822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create and send PDF-to-email attachment with Microsoft Outlook</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150326Z">
+        <seg>使用 Microsoft Outlook 建立並發送的 PDF 電子郵件附件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create and validate compliance with Section 508 information accessibility standards.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023235Z">
@@ -14909,6 +14917,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093411Z">
         <seg>配有保險絲（微型斷路器或馬達額定保險絲）之三相電源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-Step PDF creation and archive of Microsoft Outlook and Lotus Notes Emails</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150322Z">
+        <seg>單一步驟將 Microsoft Outlook 和 Lotus Notes 之電子郵件建立 PDF 並封存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-Step PDF creation of web pages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150318Z">
+        <seg>單一步驟由網頁建立 PDF 檔案。</seg>
       </tuv>
     </tu>
     <tu>
