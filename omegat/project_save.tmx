@@ -20195,6 +20195,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Support for limited set of 3-D Content Embedded in a PDF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T142352Z">
+        <seg>支援影有限的 3-D 內容嵌入 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Support for viewing and annotating PDF within Internet Explorer, FireFox and Chrome</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141758Z">
