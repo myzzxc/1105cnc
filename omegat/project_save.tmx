@@ -1319,6 +1319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>API Capabilities (Programming Interface)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145225Z">
+        <seg>API 相容性（程式設計界面）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATC - Automatic Tool Changer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121615Z">
@@ -11456,6 +11464,22 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install—Disable plugins</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145129Z">
+        <seg>安裝——停用外掛程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install—Make connectors an installable option</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145154Z">
+        <seg>安裝——將連接器設定為可安裝選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instantly create 100% industry-standard PDF files with security options that are fully compliant and compatible with all PDF viewers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051929Z">
@@ -14577,6 +14601,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On-Line Help to ensure users have access to the latest information when using Power PDF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145327Z">
+        <seg>使用 Power PDF 時能藉由線上說明協助使用者取得最新的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On: EXCELADDINALL =”1”</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051644Z">
@@ -15229,6 +15261,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134417Z">
         <seg>PANELBUILDER 2D &amp; 鈑金排版軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF Creation Features</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145337Z">
+        <seg>PDF 建立功能</seg>
       </tuv>
     </tu>
     <tu>
