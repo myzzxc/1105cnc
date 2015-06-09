@@ -20171,6 +20171,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Support for Microsoft Silverlight</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T125851Z">
+        <seg>支援 Microsoft Silverlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for Movies and Audio Embedded in a PDF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T125846Z">
+        <seg>支援影片和音訊嵌入 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Support for viewing and annotating PDF within Internet Explorer, FireFox and Chrome</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141758Z">
