@@ -5734,6 +5734,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create PDF documents directly from your scanner</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145617Z">
+        <seg>由掃描器直接建立 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create PDF documents from any application that prints</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145601Z">
+        <seg>由任何可進行列印的應用程式中建立 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create PDF files directly from your scanner with one-click scanning to PDF.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051951Z">
@@ -5818,6 +5834,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T050346Z">
         <seg>使用簡便的表單繪圖工具從頭創建表單，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create industry standard PDF Files from all PC applications and popular image formats</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145535Z">
+        <seg>從所有電腦應用程式和常用影像格式建立業界標準的 PDF 檔案</seg>
       </tuv>
     </tu>
     <tu>
