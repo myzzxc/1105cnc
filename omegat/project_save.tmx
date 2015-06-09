@@ -5742,6 +5742,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create &amp; Send PDF packages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150959Z">
+        <seg>建立 &amp; 發送 PDF 包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create &amp; Send PDF portfolios</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T151014Z">
+        <seg>建立 &amp; 發送 PDF 組合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create 2 new GUID with the command [guid]::NewGuid()</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161257Z">
@@ -5810,6 +5826,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085510Z">
         <seg>從 Microsoft Office 建立 PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create PDF-MRC high compression color PDF image files (up to 8 times smaller)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T151141Z">
+        <seg>建立 PDF-MRC 高壓縮彩色 PDF 影像檔（可達 8 倍壓縮比）</seg>
       </tuv>
     </tu>
     <tu>
