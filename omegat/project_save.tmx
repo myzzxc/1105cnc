@@ -5750,6 +5750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create ISO Standard PDF/A Files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150919Z">
+        <seg>建立 ISO 標準 PDF/A 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create PDF documents directly from your scanner</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145617Z">
@@ -5814,6 +5822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a single PDF document by merging multiple files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150727Z">
+        <seg>合併多個檔案以建立單一 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create an ICA connection: double-click ‘Custom ICA Connection’ then on ‘Add ICA connection’.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T133920Z">
@@ -5874,6 +5890,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051047Z">
         <seg>建立 Power PDF 進階版捷徑至桌面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create tagged PDF files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150934Z">
+        <seg>建立含標籤之 PDF 檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15449,6 +15473,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF/A creation at latest PDF/A-2 and PDF/A-3 levels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150916Z">
+        <seg>PDF/A-2 和 PDF/A-3 級以上之 PDF/A 檔案建立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF&lt;&gt;Office Conversion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071107Z">
@@ -20383,6 +20415,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T131035Z">
         <seg>支援 Windows 7 Jump Lists（跳轉列表）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for creating PDF Version 1.3, 1.4, 1.5, 1.6 and 1.7 Files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150816Z">
+        <seg>支援建立 PDF 1.3、1.4、1.5、1.6 和 1.7 版之檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26703,6 +26743,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021931Z">
         <seg>監控資料夾處理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Watched Folder Processing to automate routine PDF and TIFF creation tasks from a wide range of formats</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150701Z">
+        <seg>監控資料夾處理將多種格式檔案自動進行定期 PDF 和 TIFF 建立任務。</seg>
       </tuv>
     </tu>
     <tu>
