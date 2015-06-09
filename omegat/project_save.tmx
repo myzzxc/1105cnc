@@ -3517,6 +3517,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch Create PDF from multiple files and file types</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150423Z">
+        <seg>由多個檔案和多種檔案類型批次建立 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Handling</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T060151Z">
