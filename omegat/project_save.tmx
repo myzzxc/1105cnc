@@ -1906,6 +1906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add custom headers &amp; footers to PDF documents (page numbering)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040625Z" creationid="Judy" creationdate="20150613T040625Z">
+        <seg>加入自訂頁首 &amp; 頁尾至 PDF 文件（頁碼）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add passwords with secure 128-bit or 256-bit AES encryption and permission controls to PDF files to control document viewing, printing and modifications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113914Z">
@@ -1966,6 +1974,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051110Z">
         <seg>此外溫度也必須維持恆定，溫度改變將有利細菌繁殖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust compression levels for smaller files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040717Z" creationid="Judy" creationdate="20150613T040717Z">
+        <seg>調整壓縮比以建立較小檔案</seg>
       </tuv>
     </tu>
     <tu>
