@@ -12712,6 +12712,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legal pleading conversion with stamp and line numbering options (PDF Converter Assistant)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T022505Z">
+        <seg>具有圖章和行號選項之法律陳情書轉換 (PDF Converter Assistant，PDF 轉換幫手)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legal review</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023547Z">
@@ -18539,10 +18547,26 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retains hyperlinks (.doc, .docx, .wpd, .xls, .xslx)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T022605Z">
+        <seg>保留超連結 (.doc、.docx、.wpd、.xls、.xslx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Retains linked text flow of columns within a document (.doc, .docx, .wpd)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T022056Z">
         <seg>保留文件檔中的欄位連結文字流 (.doc、.docx、.wpd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retains number formats in Excel (currency, percentage, etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T022544Z">
+        <seg>保留 Excel 檔案中的數字格式（貨幣、百分比等）</seg>
       </tuv>
     </tu>
     <tu>
