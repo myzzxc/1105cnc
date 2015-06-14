@@ -2828,6 +2828,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply stamps to one or all pages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055038Z">
+        <seg>套用圖章至單一或所有頁面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Approved September 2014 Compliance date January 15, 2015</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123704Z">
@@ -3359,8 +3367,8 @@
       <tuv lang="EN-US">
         <seg>Automatically populate comments with highlighted and annotated text</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054752Z">
-        <seg>自動加入註解標示標記和注釋文本的評論</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054853Z">
+        <seg>自動加入標示標記和標注文字至註解中</seg>
       </tuv>
     </tu>
     <tu>
@@ -6178,6 +6186,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145535Z">
         <seg>從所有電腦應用程式和常用影像格式建立業界標準的 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new stamps from selected page elements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055006Z">
+        <seg>由選擇之頁面元素中建立新圖章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create notes in PDF files by speaking using Dragon Notes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054922Z">
+        <seg>使用 Dragon Notes 在 PDF 檔案中建立筆記</seg>
       </tuv>
     </tu>
     <tu>
@@ -20631,6 +20655,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071358Z">
         <seg>拼寫檢查器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spellchecking for comments and form fields</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055108Z">
+        <seg>註解和表單欄位拼寫檢查</seg>
       </tuv>
     </tu>
     <tu>
