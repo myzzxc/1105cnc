@@ -3757,6 +3757,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bates stamping with advanced formatting and page positioning</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T063548Z">
+        <seg>以進階格式和頁面定位進行文件編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because Power PDF Advanced is Windows Installer compatible, ZAP files are not necessary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103543Z">
@@ -21319,6 +21327,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T142352Z">
         <seg>支援影有限的 3-D 內容嵌入 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for network scanning and eCopy ShareScan with monitored Scan Inboxes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T063650Z">
+        <seg>支援監視掃描收件匣之網路掃描和 eCopy ShareScan</seg>
       </tuv>
     </tu>
     <tu>
