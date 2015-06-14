@@ -3613,6 +3613,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch convert to single page TIFF files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T021441Z">
+        <seg>批次轉換為單頁 TIFF 檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch pattern search / redaction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071711Z">
