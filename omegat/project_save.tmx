@@ -6302,6 +6302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom actions on form objects (import form data, play a sound, open a file, open a web page, etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071348Z">
+        <seg>表單物件的自訂操作（匯入表單資料、播放聲音、開啟檔案、開啟網頁等）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customer Technical Support:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063835Z">
@@ -8140,6 +8148,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083803Z">
         <seg>出口銷售部 Albrighton Business Park Newport Road, Albrighton Wolverhampton, England WV7 3ET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export form data from one or multiple filled in PDF forms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071421Z">
+        <seg>從單一或多份已填寫之 PDF 表單中匯出表單資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -13124,6 +13140,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090230Z">
         <seg>限制安裝過程互動功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limited JavaScript support</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071437Z">
+        <seg>有限 JavaScript 支援</seg>
       </tuv>
     </tu>
     <tu>
@@ -20391,6 +20415,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T043420Z">
         <seg>設定應用程式為預設的 PDF 檢視器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set tab order for form fields</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071600Z">
+        <seg>設定表單欄位之製表順序</seg>
       </tuv>
     </tu>
     <tu>
