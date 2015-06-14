@@ -18531,6 +18531,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retains headers and footers (.doc, .docx, .wpd)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T022114Z">
+        <seg>保留頁首和頁尾 (.doc、.docx、.wpd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retains linked text flow of columns within a document (.doc, .docx, .wpd)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T022056Z">
+        <seg>保留文件檔中的欄位連結文字流 (.doc、.docx、.wpd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Retorquing may he necessary due to gasket “set” during transportation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052536Z">
