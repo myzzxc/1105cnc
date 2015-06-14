@@ -8296,6 +8296,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Features</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032838Z">
+        <seg>功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Features and Benefits</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131329Z">
@@ -13268,6 +13276,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052346Z">
         <seg>雲端管理和存取文件檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage pages in a document (reorder, insert, extract, crop, rotate, and delete pages)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032804Z">
+        <seg>管理文件中的頁面（重新排序、插入、截取、裁剪、旋轉和刪除頁面) </seg>
       </tuv>
     </tu>
     <tu>
@@ -27095,6 +27111,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T073910Z">
         <seg>版本編號：第一版，無特定版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View and navigate page thumbnails</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032644Z">
+        <seg>檢視和瀏覽頁面縮圖</seg>
       </tuv>
     </tu>
     <tu>
