@@ -9582,6 +9582,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grids, snap to grids and custom drawing guides</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055445Z">
+        <seg>網格、對齊網格和自訂繪圖輔助線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ground pins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124443Z">
@@ -13508,6 +13516,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054716Z">
         <seg>測量工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measuring tool (with save as comment)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055603Z">
+        <seg>評量工具（另存為註解）</seg>
       </tuv>
     </tu>
     <tu>
@@ -17623,6 +17639,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T080741Z">
         <seg>印刷切割路達 &amp; 刀具組合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print with comments and form fields</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055619Z">
+        <seg>列印註解和表單欄位</seg>
       </tuv>
     </tu>
     <tu>
