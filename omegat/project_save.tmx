@@ -3317,6 +3317,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically highlight, cross-out, underline or redact search results for faster, easier PDF review and editing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T025256Z">
+        <seg>自動針對搜尋結果進行標示、劃除、劃底線或加密文字以快速、簡便地校閱和編輯 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Distribution Media: Individual license (serialised), Volume Licensing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081327Z">
@@ -15801,6 +15809,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF viewing of all PDF types</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T025432Z">
+        <seg>檢視所有類型的 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF/A  compliance checking at latest PDF/A-3 levels</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T143858Z">
@@ -17407,6 +17423,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055708Z">
         <seg>加壓直到壓力計讀數達到熱交換器銘牌上標示之外管設計壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview PDF email attachments in Micrososft Outlook 2007, 2010, and 2013</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T025459Z">
+        <seg>於 Micrososft Outlook 2007、2010 和 2013 中預覽 PDF 電子郵件附件</seg>
       </tuv>
     </tu>
     <tu>
