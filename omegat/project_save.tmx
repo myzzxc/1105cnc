@@ -5654,6 +5654,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converts PDF to Excel Workbooks (.xls, .xlsx)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015841Z">
+        <seg>轉換 PDF 為 Excel 活頁簿 (.xls、.xlsx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts PDF to Excel Worksheets (.xls, .xlsx)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015818Z">
+        <seg>轉換 PDF 為 Excel 工作表 (.xls、.xlsx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts PDF to Word (.doc, .docx)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015804Z">
+        <seg>轉換 PDF 為 Word 檔案 (.doc、 .docx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coordination at division, activity or Group level at HUTCHINSON for shared suppliers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T162847Z">
@@ -15505,6 +15529,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF Conversion Features</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015736Z">
+        <seg>PDF 轉檔功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF Create Assistant Desktop Utility or similar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040036Z">
@@ -17919,6 +17951,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015448Z">
         <seg>PDF 檔案文字加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redaction text properties including color, redaction codes and custom overlay text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015717Z">
+        <seg>自訂加密文字屬性包含顏色、加密代碼和自訂覆蓋文字</seg>
       </tuv>
     </tu>
     <tu>
