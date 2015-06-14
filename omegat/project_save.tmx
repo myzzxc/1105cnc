@@ -7070,6 +7070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Document splitting by page range, blank page, page contents, bookmarks, or file size</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T061253Z">
+        <seg>依頁面範圍、空白頁、頁面內容、書籤或檔案大小分割文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don’t let the hassle of filling out long forms slow down your business.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113746Z">
@@ -8172,6 +8180,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T062345Z">
         <seg>除塵系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extraction by page range, blank page, page contents, or bookmarks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T061314Z">
+        <seg>依頁面範圍、空白頁、頁面內容或書籤截取文件</seg>
       </tuv>
     </tu>
     <tu>
