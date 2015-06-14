@@ -20523,6 +20523,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Support for FileOpen-protected documents (digital rights management)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T014735Z">
+        <seg>支援 FileOpen 保護文件（數位版權管理）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Support for Microsoft Application Virtualization</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T144809Z">
