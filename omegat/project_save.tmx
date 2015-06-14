@@ -3701,6 +3701,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch conversion of TIFF files to image-only or searchable PDFs and PDF conversion to TIFF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T063358Z">
+        <seg>批次轉換 TIFF 檔案為純影像或可搜尋的 PDF 檔案以及轉換 PDF 檔案為 TIFF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch convert to single page TIFF files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T021441Z">
@@ -8735,6 +8743,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152409Z">
         <seg>五組‡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix non-critical PDF/A compliance problems with the compliance checker or via the Save As PDF/A command</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T063230Z">
+        <seg>使用規範檢查器或透過另存為 PDF/A 指令修復不符合 PDF/A 規範問題</seg>
       </tuv>
     </tu>
     <tu>
