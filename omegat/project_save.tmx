@@ -3021,6 +3021,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assemble documents in document assembly view (insert, extract, replace, delete, split, renumber, manage headers/footers, drag and drop pages) Assemble documents as easily as shuffling paper on your desk.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T053702Z">
+        <seg>於文件組合視窗中組合文件檔案（插入、截取、替換、刪除、分割、重新編號、管理頁首/頁尾、拖放頁面），如同於桌上排列紙張般簡便地組合文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assemble, compare, convert, create, dictate, edit, read, redact, scan, search, secure, sign, print and validate PDF documents and forms with unprecedented ease and speed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071616Z">
