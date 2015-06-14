@@ -3181,6 +3181,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attach application files or sounds to a PDF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T062941Z">
+        <seg>將應用程式檔案或聲音附加到 PDF 檔案中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attach the hydrostatic pump to the test fixture and bi4 ng the process to the correct final test pressure.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135745Z">
@@ -6258,6 +6266,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020624Z">
         <seg>自訂安裝部署工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom actions for bookmarks or hyperlinks (open a file, play a sound, go to a web page, etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T062615Z">
+        <seg>書籤或超連結的自訂操作（開啟檔案、播放聲音、連結網頁等）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16073,6 +16089,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF optimizer to compress PDF documents elements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T063006Z">
+        <seg>PDF 最佳化壓縮 PDF 文件中的元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF solution comparison.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140315Z">
@@ -18335,6 +18359,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090421Z">
         <seg>唯讀模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read document aloud—Text-to-speech capability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T063050Z">
+        <seg>朗讀文件——文字轉換語音功能</seg>
       </tuv>
     </tu>
     <tu>
