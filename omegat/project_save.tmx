@@ -3309,6 +3309,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically highlight, cross-out, or underline search results for faster, easier PDF review and editing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T025136Z">
+        <seg>自動針對搜尋結果進行標示、劃除或劃底線以快速、簡便地校閱和編輯 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Distribution Media: Individual license (serialised), Volume Licensing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081327Z">
@@ -4593,6 +4601,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024240Z">
         <seg>點選 Import mode 確認可匯入之選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose from predefined patterns or create your own patterns for patient IDs, product codes or any information that follows any alpha-numeric pattern.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T025052Z">
+        <seg>從預先定義的模式中，為患者 ID、產品代碼或任何依照字母數字模式的資訊選擇或建立自訂模式。</seg>
       </tuv>
     </tu>
     <tu>
