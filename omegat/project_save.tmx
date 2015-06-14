@@ -5894,6 +5894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create and apply self-sign digital signatures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T011921Z" creationid="Judy" creationdate="20150614T011921Z">
+        <seg>建立並套用自簽數位簽章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create and assemble PDF easily from any application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051852Z">
@@ -13212,6 +13220,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012827Z">
         <seg>Microsoft App-V 虛擬化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Crypto API/3rd party digital signature compatibility</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T012001Z" creationid="Judy" creationdate="20150614T012001Z">
+        <seg>Microsoft Crypto API/第三方數位簽章相容性</seg>
       </tuv>
     </tu>
     <tu>
