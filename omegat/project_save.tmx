@@ -1954,6 +1954,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add, manage, view and navigate document digital signatures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060310Z">
+        <seg>加入、管理、檢視和瀏覽文件數位簽章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Added SharePoint 2013 support</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142350Z">
@@ -15693,6 +15701,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085117Z">
         <seg>或將所有文件中的資訊，包括簽名、圖章、標記、標注、填寫表單欄位和圖形合併以強化文件的安全性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Organize and manage a library of clip art</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060357Z">
+        <seg>組織和管理貼圖庫</seg>
       </tuv>
     </tu>
     <tu>
