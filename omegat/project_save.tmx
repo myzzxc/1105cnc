@@ -3333,6 +3333,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic conversion of a PDF file into a fillable PDF form</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071006Z">
+        <seg>自動轉換 PDF 檔案為可填寫的 PDF 表單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic feed drills are fixture mounted tools that combine linear feed and rotation forall drilling operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151621Z">
@@ -6886,6 +6894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digital signatures for forms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071233Z">
+        <seg>表單數位簽章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direction Control:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062539Z">
@@ -7170,6 +7186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T014545Z">
         <seg>拖放式操作安全設定檔以快速、簡便地保護文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw and edit form controls (text fields, buttons, drop down lists, check boxes and radio buttons)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071200Z">
+        <seg>繪製和編輯表單控制項（文字欄位、按鈕、下拉選單、核取方塊和選項按鈕）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7531,6 +7555,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052909Z">
         <seg>能簡便地安裝於 AXYZ 機台上以進行工件表面掃描。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit text and object attributes (font, color, line weight, display and print options)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071222Z">
+        <seg>編輯文字和物件的屬性（字體、顏色、線條粗細、顯示和列印選項）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12108,6 +12140,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181415Z">
         <seg>智慧財產和工業財產權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intelligent creation of check boxes and radio buttons</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071036Z">
+        <seg>智慧型核取方塊和選項按鈕建立</seg>
       </tuv>
     </tu>
     <tu>
@@ -21327,6 +21367,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150816Z">
         <seg>支援建立 PDF 1.3、1.4、1.5、1.6 和 1.7 版之檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for dynamic XFA forms (XML forms architecture)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071101Z">
+        <seg>支援動態 XFA 表單（XML 表單架構）</seg>
       </tuv>
     </tu>
     <tu>
