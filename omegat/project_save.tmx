@@ -7118,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drawing (comment) tools including lines, rectangles, pencil, oval, polygon, cloud)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055354Z">
+        <seg>繪圖（註解）工具，包括線段、矩形、鉛筆、橢圓、多邊形、雲狀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drill heads are available ina5 tool Lshape ora9 tool Lshape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151051Z">
@@ -13660,6 +13668,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052535Z">
         <seg>需安裝 Microsoft .NET Framework 4.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Migrate comments from one PDF file to another for ease of collaboration and review</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055217Z">
+        <seg>由一份 PDF 檔案搬移註解至另一份檔案中以便協作和校閱</seg>
       </tuv>
     </tu>
     <tu>
