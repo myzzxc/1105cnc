@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1868,7 +1868,7 @@
       <tuv lang="EN-US">
         <seg>Add Passwords with 40-bit, 128-bit, and 256-bit secure encryption and permission controls to PDF files</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T011826Z" creationid="Judy" creationdate="20150614T011826Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T011826Z">
         <seg>將 PDF 檔案加入 40 位元、 128 位元或 256 位元密碼加密和權限控制</seg>
       </tuv>
     </tu>
@@ -1916,7 +1916,7 @@
       <tuv lang="EN-US">
         <seg>Add custom headers &amp; footers to PDF documents (page numbering)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040625Z" creationid="Judy" creationdate="20150613T040625Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040625Z">
         <seg>加入自訂頁首 &amp; 頁尾至 PDF 文件（頁碼）</seg>
       </tuv>
     </tu>
@@ -1988,7 +1988,7 @@
       <tuv lang="EN-US">
         <seg>Adjust compression levels for smaller files</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040717Z" creationid="Judy" creationdate="20150613T040717Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040717Z">
         <seg>調整壓縮比以建立較小檔案</seg>
       </tuv>
     </tu>
@@ -2798,7 +2798,7 @@
       <tuv lang="EN-US">
         <seg>Apply security settings at creation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040509Z" creationid="Judy" creationdate="20150613T040509Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040509Z">
         <seg>建立檔案時套用安全設定</seg>
       </tuv>
     </tu>
@@ -5896,7 +5896,7 @@
       <tuv lang="EN-US">
         <seg>Create and apply self-sign digital signatures</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T011921Z" creationid="Judy" creationdate="20150614T011921Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T011921Z">
         <seg>建立並套用自簽數位簽章</seg>
       </tuv>
     </tu>
@@ -6016,7 +6016,7 @@
       <tuv lang="EN-US">
         <seg>Customizable PDF creation profiles</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040100Z" creationid="Judy" creationdate="20150613T040100Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040100Z">
         <seg>自訂 PDF 建立參數</seg>
       </tuv>
     </tu>
@@ -6842,6 +6842,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133214Z">
         <seg>下載：GSM擴充模組電路圖和參考設計之PDF檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag and drop security profiles to quickly and easily secure documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T014545Z">
+        <seg>拖放式操作安全設定檔以快速、簡便地保護文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -11362,7 +11370,7 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Insert Pre-made and custom watermarks at creation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040446Z" creationid="Judy" creationdate="20150613T040446Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040446Z">
         <seg>建立檔案時插入預先繪製和自訂浮水印</seg>
       </tuv>
     </tu>
@@ -11372,6 +11380,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T084029Z">
         <seg>內徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inspect document to remove comments and metadata (private data)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T014507Z">
+        <seg>檢查文件以刪除註解和元資料（私人資料）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13178,7 +13194,7 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Merge PDF image files with PDF text files</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040348Z" creationid="Judy" creationdate="20150613T040348Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040348Z">
         <seg>合併 PDF 影像檔和 PDF 文字檔</seg>
       </tuv>
     </tu>
@@ -13226,7 +13242,7 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>Microsoft Crypto API/3rd party digital signature compatibility</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T012001Z" creationid="Judy" creationdate="20150614T012001Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T012001Z">
         <seg>Microsoft Crypto API/第三方數位簽章相容性</seg>
       </tuv>
     </tu>
@@ -15435,7 +15451,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Overlay (Merge) multiple document pages into one PDF page</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040305Z" creationid="Judy" creationdate="20150613T040305Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040305Z">
         <seg>文件多頁圖層（合併）為單一 PDF 頁面</seg>
       </tuv>
     </tu>
@@ -15483,7 +15499,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PDF Create Assistant Desktop Utility or similar</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040036Z" creationid="Judy" creationdate="20150613T040036Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040036Z">
         <seg>PDF Create Assistant （PDF 建立幫手）或類似電腦工具。</seg>
       </tuv>
     </tu>
@@ -15507,7 +15523,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PDF Security Features</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T011704Z" creationid="Judy" creationdate="20150614T011704Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T011704Z">
         <seg>PDF 安全功能</seg>
       </tuv>
     </tu>
@@ -17133,8 +17149,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Preserve hyperlinks and metadata, add bookmarks and comments from Microsoft Word, Excel, and PowerPoint</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150614T011651Z" creationid="Judy" creationdate="20150614T011253Z">
-        <seg>由 Microsoft Word、Excel 和 PowerPoint 保留超連結和詮釋資料 (metadata)、加入書籤和註解</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T014433Z">
+        <seg>由 Microsoft Word、Excel 和 PowerPoint 保留超連結和元資料 (metadata)、加入書籤和註解</seg>
       </tuv>
     </tu>
     <tu>
