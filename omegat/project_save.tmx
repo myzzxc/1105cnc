@@ -20003,6 +20003,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select, re-order, delete or merge layers, view and modify properties of layers and even control layers for printing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T062045Z">
+        <seg>選擇、重新排序、刪除或合併圖層，檢視和修改圖層屬性，以及控制列印圖層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting the supplier / bid</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153430Z">
