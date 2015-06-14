@@ -10999,6 +10999,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improved file browse experience and comparison algorithm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032402Z">
+        <seg>改進之檔案瀏覽體驗和比較演算法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Improved performance provides the fastest startup and file open time compared to earlier Nuance PDF solutions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T031627Z">
@@ -15393,6 +15401,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open files directly from a DMS via the document comparison's "Browse" buttons</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032500Z">
+        <seg>透過文件比較中的“瀏覽”按鈕直接由 DMS 開啟檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open or save to Box, Google Docs, Office 365, DropBox, and several on-premise DMS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063707Z">
@@ -19063,6 +19079,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140319Z">
         <seg>儲存 xml 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save, track and open revisions within a PDF document</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032550Z">
+        <seg>於 PDF 文件中儲存、追蹤和開啟修訂</seg>
       </tuv>
     </tu>
     <tu>
