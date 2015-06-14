@@ -2074,6 +2074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced search and indexing for documents, text within a document, comments and bookmarks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060753Z">
+        <seg>對文件、文件中的文字、註解和書籤進行進階搜尋和製作索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a period of time this missing object can be raised as a removed object.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112623Z">
@@ -7491,6 +7499,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T023418Z">
         <seg>使用進階編輯模式，如文字編輯軟體一般進行 PDF 檔案編輯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit, cut, copy and paste text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060819Z">
+        <seg>編輯、剪下和貼上文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -13964,6 +13980,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133408Z">
         <seg>移動工具面板重尋組織 ribbon 工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move, resize, rotate, flip, order, group, set transparency, cut, copy and paste graphics and images</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T061005Z">
+        <seg>移動、調整大小、旋轉、翻轉、排序、群組、設定透明度、剪下、複製和貼上圖形和影像</seg>
       </tuv>
     </tu>
     <tu>
