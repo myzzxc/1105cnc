@@ -16385,6 +16385,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pattern Search—Perform intelligent Looks Like Search to quickly find content, like phone numbers, email addresses, and Social Security numbers, via an alphanumeric pattern rather than exact text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T023703Z">
+        <seg>模式搜尋 —— 透過字母數字模式而非全文字執行智慧相似搜尋，以快速找出電話號碼、電子郵件地址和社會安全號碼等內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay for features you don’t need</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131508Z">
