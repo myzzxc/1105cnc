@@ -3197,6 +3197,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-detects scanned (Image) PDF files and offers to convert them to searchable PDF files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020301Z">
+        <seg>自動檢測掃描（影像）PDF 檔並轉換為可搜尋的 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-vacuum zone switching is an innovative solution that allows the routers vacuum hold down to be automatically switched over depending on which zone the tool isoperating in.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072625Z">
@@ -5654,6 +5662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converts PDF files without running Microsoft applications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020159Z">
+        <seg>轉換  PDF 檔案無須運行 Microsoft 應用程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Converts PDF to Excel Workbooks (.xls, .xlsx)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015841Z">
@@ -5714,6 +5730,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015926Z">
         <seg>轉換多頁 PDF 表格或試算表為單一 Microsoft Excel 文件檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts scanned (Image) PDF files to editable PDF files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020452Z">
+        <seg>轉換掃描（影像）PDF 檔為可編輯的 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts scanned (Image) PDF files to searchable PDF files (text over image)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020501Z">
+        <seg>轉換掃描（影像）PDF 檔案為可搜尋的 PDF 檔案（影像文字）</seg>
       </tuv>
     </tu>
     <tu>
