@@ -5670,10 +5670,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converts PDF to PowerPoint (.pptx)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015944Z">
+        <seg>轉換 PDF 為 PowerPoint 檔案 (.pptx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Converts PDF to Word (.doc, .docx)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015804Z">
         <seg>轉換 PDF 為 Word 檔案 (.doc、 .docx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts PDF to WordPerfect (.wpd)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020012Z">
+        <seg>轉換 PDF 為 WordPerfect 檔案 (.wpd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts PDF to XPS (.xps)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020031Z">
+        <seg>轉換 PDF 為 XPS 檔案 (.xps)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts XPS to PDF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020044Z">
+        <seg>轉換 XPS 為 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts multipage PDF table or spreadsheet into a single Microsoft Excel document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015926Z">
+        <seg>轉換多頁 PDF 表格或試算表為單一 Microsoft Excel 文件檔。</seg>
       </tuv>
     </tu>
     <tu>
