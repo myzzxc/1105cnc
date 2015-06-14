@@ -3597,6 +3597,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch conversion of PDF files into a single document (PDF Converter Assistant)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T021402Z">
+        <seg>批次轉換 PDF 檔案為單一文件（PDF Converter Assistant，PDF 轉換工具)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch conversion of PDF files to target formats (PDF Converter Assistant)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T021342Z">
+        <seg>批次轉換 PDF 檔案為目標格式（PDF Converter Assistant，PDF 轉換工具)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch pattern search / redaction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071711Z">
@@ -5744,8 +5760,8 @@
       <tuv lang="EN-US">
         <seg>Converts scanned (Image) PDF files to editable target formats</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020536Z">
-        <seg>轉換掃描（影像）PDF 檔為可編輯檔案格式</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T021243Z">
+        <seg>轉換掃描（影像）PDF 檔為可編輯的目標檔案格式</seg>
       </tuv>
     </tu>
     <tu>
