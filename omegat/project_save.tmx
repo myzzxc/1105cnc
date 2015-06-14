@@ -21252,6 +21252,14 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tabbed document previews lets you see all your document pages in a floating dialog box to make the most of your screen real estate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T053919Z">
+        <seg>分頁式文件預覽能於浮動對話方塊上檢視所有文件頁面，有效利用螢幕空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 1.0</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081822Z">
