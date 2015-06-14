@@ -1930,6 +1930,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add, manage, view and navigate document bookmarks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054255Z">
+        <seg>加入、管理、檢視和瀏覽文件書籤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add, manage, view and navigate document comments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054411Z">
+        <seg>加入、管理、檢視和瀏覽文件註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add, manage, view and navigate document destinations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054401Z">
+        <seg>加入、管理、檢視和瀏覽文件位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Added SharePoint 2013 support</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142350Z">
@@ -3649,6 +3673,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071711Z">
         <seg>批次模式搜尋 / 加密文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch process multiple documents at a time with varied commands (insert, extract, and delete pages; apply watermarks and stamps; search and redact; inspect document; migrate comments; and print)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054224Z">
+        <seg>以不同的指令同時批次處理多份文件（插入、截取和刪除頁面；套用浮水印和圖章；搜尋和加密；檢查文件；搬移註解； 和列印）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6066,6 +6098,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150727Z">
         <seg>合併多個檔案以建立單一 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a table of contents from bookmarks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054323Z">
+        <seg>由書籤建立目錄</seg>
       </tuv>
     </tu>
     <tu>
