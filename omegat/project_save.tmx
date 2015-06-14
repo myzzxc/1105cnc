@@ -11856,6 +11856,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instant access to frequently used PDF files and online PDF Files (URLs) with favorites menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032236Z">
+        <seg>以我的最愛功能表快速存取常用 PDF 檔案和線上 PDF 檔案（網址）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instantly create 100% industry-standard PDF files with security options that are fully compliant and compatible with all PDF viewers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051929Z">
@@ -20159,6 +20167,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051222Z">
         <seg>於安裝精靈中只顯示 Install Welcome（安裝歡迎畫面）、License Agreement （授權合約）和 Ready to Install （準備好進行安裝）對話視窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Side-by-side document comparison (PDF to PDF)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032317Z">
+        <seg>文件並列比較（PDF 對 PDF）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Side-by-side document comparison (PDF to Word)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032327Z">
+        <seg>文件並列比較（PDF 對 Word）</seg>
       </tuv>
     </tu>
     <tu>
