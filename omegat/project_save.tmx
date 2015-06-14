@@ -15705,10 +15705,50 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Organize and manage a library of PDF security envelopes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060542Z">
+        <seg>組織和管理 PDF 安全信封庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Organize and manage a library of clip art</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060357Z">
         <seg>組織和管理貼圖庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Organize and manage a library of digital signatures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060613Z">
+        <seg>組織和管理數位簽章庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Organize and manage a library of security profiles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060558Z">
+        <seg>組織和管理安全設定檔庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Organize and manage a library of stamps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060436Z">
+        <seg>組織和管理圖章圖庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Organize and manage a library of watermarks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060431Z">
+        <seg>組織和管理浮水印圖庫</seg>
       </tuv>
     </tu>
     <tu>
