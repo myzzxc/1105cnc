@@ -3357,6 +3357,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically populate comments with highlighted and annotated text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054752Z">
+        <seg>自動加入註解標示標記和注釋文本的評論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Distribution Media: Individual license (serialised), Volume Licensing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081327Z">
@@ -8196,6 +8204,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071515Z">
         <seg>熟悉的 Office 風格介面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Familiar comment and markup tools (notes, text boxes, typewriter, callouts, highlight, text underline, cross-out, Stamps)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054627Z">
+        <seg>熟悉的註解和標示工具（筆記、文字方塊、打字機、標註、標記標示、文字底線、劃除、圖章）</seg>
       </tuv>
     </tu>
     <tu>
