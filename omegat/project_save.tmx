@@ -5646,6 +5646,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert a select area of a page using OCR and convert to Word, Excel, PowerPoint, WordPerfect—for scanned (Image) PDF files as well as PDF "Normal" files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T023137Z">
+        <seg>使用 OCR （文字辨識）轉換頁面中的選擇區域並轉換為 Word、Excel、PowerPoint、WordPerfect 檔案——適用於掃描（影像）PDF 檔案以及“一般”的 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert and save PDF to audio file</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T023205Z">
+        <seg>轉換並儲存 PDF 為音訊檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert static PDFs to fillable forms</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085549Z">
@@ -15709,6 +15725,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093305Z">
         <seg>無須妥協的 PDF 軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF Viewing, Editing and Collaboration Features</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T023241Z">
+        <seg>PDF 檢視、編輯和協作功能</seg>
       </tuv>
     </tu>
     <tu>
