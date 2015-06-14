@@ -3199,8 +3199,8 @@
       <tuv lang="EN-US">
         <seg>Auto-detects scanned (Image) PDF files and offers to convert them to searchable PDF files</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020301Z">
-        <seg>自動檢測掃描（影像）PDF 檔並轉換為可搜尋的 PDF 檔案</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020505Z">
+        <seg>自動檢測掃描（影像）PDF 檔案並轉換為可搜尋的 PDF 檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -5738,6 +5738,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020452Z">
         <seg>轉換掃描（影像）PDF 檔為可編輯的 PDF 檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts scanned (Image) PDF files to editable target formats</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150614T020536Z">
+        <seg>轉換掃描（影像）PDF 檔為可編輯檔案格式</seg>
       </tuv>
     </tu>
     <tu>
