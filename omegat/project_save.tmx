@@ -12275,6 +12275,15 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction &amp; Purpose</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014635Z" creationid="Judy" creationdate="20150704T014635Z">
+        <seg>Introduction &amp; Purpose
+簡介和目的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction to Power PDF</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131153Z">
