@@ -1119,6 +1119,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A representative of ICC-ES or suitable accredited agency will conduct an inspection to verify the implementation of the quality system in production, followed by annual unannounced  inspections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T063238Z" creationid="Judy" creationdate="20150704T063238Z">
+        <seg>A representative of ICC-ES or suitable accredited agency will conduct an inspection to verify the implementation of the quality system in production, followed by annual unannounced  inspections.
+ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產之品質系統，每年將進行不定期稽核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A robust AXYZ cutting table is the perfect partner for your Á at bed printer allowing you to use the right cutting tool for all printed materials.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T080531Z">
@@ -2018,6 +2027,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Address:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050030Z" creationid="Judy" creationdate="20150704T050030Z">
+        <seg>Address:
+地址：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust compression levels for smaller files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040717Z">
@@ -2314,6 +2332,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All related internal documents, forms, procedures, tests, etc. shall also be updated as required to include any new information needed to ensure consistent quality of new products, new sizes, new materials, or new packaging.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T061822Z" creationid="Judy" creationdate="20150704T061822Z">
+        <seg>All related internal documents, forms, procedures, tests, etc. shall also be updated as required to include any new information needed to ensure consistent quality of new products, new sizes, new materials, or new packaging.
+所有相關內部文件、表格、程序、測試等皆須依照要求更新以包含所有最新資訊，確保新產品、新尺寸、新材料或新包裝具有一致的品質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All rights reserved.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T082854Z">
@@ -2382,6 +2409,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144034Z">
         <seg>所有雙主軸組態標準配備皆包含額外壓力腳和 T 形支架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All work locations shall have available any work instructions or other documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062326Z" creationid="Judy" creationdate="20150704T062326Z">
+        <seg>All work locations shall have available any work instructions or other documents.
+所有施工地點必需存有施工指示或其他文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5295,6 +5331,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Company Name:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T045945Z" creationid="Judy" creationdate="20150704T045945Z">
+        <seg>Company Name:
+公司名稱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Company Name………………………………………………………….…………………</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093237Z">
@@ -5443,6 +5488,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T174003Z">
         <seg>符合管理法規和安全性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance with the plan of the Quality Control Manual is mandatory in the manufacture of the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050252Z" creationid="Judy" creationdate="20150704T050252Z">
+        <seg>Compliance with the plan of the Quality Control Manual is mandatory in the manufacture of the following:
+以下產品之製造必須符合品質管控手冊之計劃規範：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5731,6 +5785,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093259Z">
         <seg>連絡人姓名…………………………………………………………………………</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050053Z" creationid="Judy" creationdate="20150704T050053Z">
+        <seg>Contact:
+聯絡人：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6827,8 +6890,9 @@
       <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013903Z">
-        <seg>說明</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050259Z">
+        <seg>
+說明</seg>
       </tuv>
     </tu>
     <tu>
@@ -7674,6 +7738,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050154Z" creationid="Judy" creationdate="20150704T050154Z">
+        <seg>Email:
+電子郵件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Embedded Media Objects</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071352Z">
@@ -8243,6 +8316,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External Audits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062853Z" creationid="Judy" creationdate="20150704T062853Z">
+        <seg>External Audits
+外部審核</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External Interrupts: 3 (interrupt 0), 2 (interrupt 1), 0 (interrupt 2), 1 (interrupt 3) and 7 (interrupt 4).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131332Z">
@@ -8355,6 +8437,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Factory</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T045939Z" creationid="Judy" creationdate="20150704T045939Z">
+        <seg>Factory
+工廠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failing this, the Supplier must at least have international ISO 9001 certification for the products for the automotive and aeronautics industries and demonstrate that it has a plan to obtain ISO/TS 16949 or ISO EN 9100 certification respectively within the time-frame agreed upon with HUTCHINSON</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T155029Z">
@@ -8423,6 +8514,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054356Z">
         <seg>透過電子郵件傳真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050141Z" creationid="Judy" creationdate="20150704T050141Z">
+        <seg>Fax:
+傳真：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10229,6 +10329,15 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030628Z">
         <seg>然而，若欲達到良好的保存期限，有許多的相關條件必須要加以監控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hsin Chang Industry Co.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050026Z" creationid="Judy" creationdate="20150704T050026Z">
+        <seg>Hsin Chang Industry Co.
+Hsin Chang 工業公司</seg>
       </tuv>
     </tu>
     <tu>
@@ -12195,6 +12304,15 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internal documents, forms, procedures, tests, and inspection reports shall be updated as required, with the revisions documented.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062718Z" creationid="Judy" creationdate="20150704T062718Z">
+        <seg>Internal documents, forms, procedures, tests, and inspection reports shall be updated as required, with the revisions documented.
+內部文件、表格、程序、測試和檢查報告必須依照要求更新，並紀錄修訂資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internet Explorer 8 or above</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064213Z">
@@ -13604,11 +13722,29 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Management personnel responsible for approving the initial quality manual shall also review and approve all revisions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T052524Z" creationid="Judy" creationdate="20150704T052524Z">
+        <seg>Management personnel responsible for approving the initial quality manual shall also review and approve all revisions.
+管理人員需負責批准品質手冊初始版本，並需審查和批准所有修訂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manual</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014141Z" creationid="Judy" creationdate="20150704T014141Z">
         <seg>Manual 
 品質管控手冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manufacturer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T045933Z" creationid="Judy" creationdate="20150704T045933Z">
+        <seg>Manufacturer
+製造商</seg>
       </tuv>
     </tu>
     <tu>
@@ -14446,6 +14582,26 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No deviation from the plan in this manual shall occur without the documented approval of the appropriate Quality Control personnel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T031704Z" creationid="Judy" creationdate="20150704T031011Z">
+        <seg>No deviation from the plan in this manual shall occur 
+without the documented approval of the appropriate Quality Control personnel.
+未經品質管制人員書面同意，不得違反本手冊所制定之計劃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No revision level change is required for grammatical or minor typographical emendations, but they must be documented in the revision history.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T052139Z" creationid="Judy" creationdate="20150704T051855Z">
+        <seg>No revision level change is required for grammatical or minor typographical emendations, but they must be documented in the revision history.
+文法或小幅錯字修正無需更改版本數，但必須記錄於修訂歷史中。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Noise-cancelling headset microphone for Dragon Notes (not included)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T050014Z">
@@ -15123,6 +15279,15 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081749Z">
         <seg>IMPERVITE® 開口的扭矩值請遵循裝配圖所列之數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obsolete documents shall be stored for no less than two years.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062616Z" creationid="Judy" creationdate="20150704T062616Z">
+        <seg>Obsolete documents shall be stored for no less than two years.
+過期文件需存檔至少兩年。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17865,6 +18030,15 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>President</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050128Z" creationid="Judy" creationdate="20150704T050058Z">
+        <seg>President
+總經理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure Foot - Universal 5Y</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070308Z">
@@ -17921,6 +18095,15 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PrimeSource Building Products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050013Z" creationid="Judy" creationdate="20150704T050013Z">
+        <seg>PrimeSource Building Products
+PrimeSource 建築產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print name</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142235Z">
@@ -17941,6 +18124,15 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055619Z">
         <seg>列印註解和表單欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printed or other electronic copies may be used as working versions but are not considered definitive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050859Z" creationid="Judy" creationdate="20150704T050859Z">
+        <seg>Printed or other electronic copies may be used as working versions but are not considered definitive.
+印刷或電子副本可作為工作使用版本使用，但可能非最完整正確且最可靠的版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18021,6 +18213,15 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T040737Z">
         <seg>製作更具專業水準的文件：無論發送至何處或在不同地方檢視，都能提供與使用者螢幕上所見相同的列印文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050257Z" creationid="Judy" creationdate="20150704T050257Z">
+        <seg>Product
+產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -18294,6 +18495,15 @@ Nuance 線上說明”。</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014504Z" creationid="Judy" creationdate="20150704T014504Z">
         <seg>Quality Manager
 品管經理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quality Manual, Documentation &amp; Audits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050448Z" creationid="Judy" creationdate="20150704T050448Z">
+        <seg>Quality Manual, Documentation &amp; Audits
+品質手冊、文件和審查</seg>
       </tuv>
     </tu>
     <tu>
@@ -18898,6 +19108,15 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Report Holder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T045924Z" creationid="Judy" creationdate="20150704T045924Z">
+        <seg>Report Holder
+報告所有單位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reposition</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054252Z">
@@ -19170,6 +19389,24 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revision histories include dates and summaries of all changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T051837Z" creationid="Judy" creationdate="20150704T051837Z">
+        <seg>Revision histories include dates and summaries of all changes.
+修訂歷史包含日期和所有變更摘要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revision levels are assigned in numeric order for each year, starting with 2014 for the present year, version Ver.1 and increasing by one with each revision.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T051932Z" creationid="Judy" creationdate="20150704T051805Z">
+        <seg>Revision levels are assigned in numeric order for each year, starting with 2014 for the present year, version Ver.1 and increasing by one with each revision.
+修訂版本數由 2014 年（一版）開始依數字順序編排，版本數每年加一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082946Z">
@@ -19434,6 +19671,15 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SHIN CHANG Coated nails will maintain procedures to provide traceability to the extent specified by internal or external requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T063511Z" creationid="Judy" creationdate="20150704T063511Z">
+        <seg>SHIN CHANG Coated nails will maintain procedures to provide traceability to the extent specified by internal or external requirements.
+SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SOFTWARE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022719Z">
@@ -19662,6 +19908,15 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130600Z">
         <seg>電路圖：arduino_9AxesShield-schematic.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scope</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T031713Z" creationid="Judy" creationdate="20150704T031713Z">
+        <seg>Scope
+範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -21203,6 +21458,15 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Storage of such work documentation will follow procedures from the Quality Control department.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062840Z" creationid="Judy" creationdate="20150704T062840Z">
+        <seg>Storage of such work documentation will follow procedures from the Quality Control department.
+工作文件之儲藏須依據品質管控部門之程序進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Storage temperature of frozen birds</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033603Z">
@@ -21327,6 +21591,15 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T021808Z">
         <seg>高精確性的 OmniPage® OCR（文字辨識）引擎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Superseded documents such as old standards are removed and replaced promptly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062541Z" creationid="Judy" creationdate="20150704T062541Z">
+        <seg>Superseded documents such as old standards are removed and replaced promptly.
+被取代之文件如舊標準等文件必須立即進行更換。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21936,6 +22209,15 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081511Z">
         <seg>目標市場：SOHO 族、專業人士、小型公司、大型企業、醫療合法律單位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050135Z" creationid="Judy" creationdate="20150704T050135Z">
+        <seg>Telephone:
+電話：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22785,6 +23067,42 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051120Z">
         <seg>PDF/A 規範檢查器能分析 PDF/A-1a、 -1b、-2a、-2b、-2u、-3a、-3b 和 -3u 級標章的 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Quality Control Manual is applicable to the activities, procedures and products of:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T045903Z" creationid="Judy" creationdate="20150704T031737Z">
+        <seg>The Quality Control Manual is applicable to the activities, procedures and products of:
+品質管控手冊適用以下活動、程序以及產品：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Quality Control department maintains original and revised versions of the manual, and a history of revisions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T051227Z" creationid="Judy" creationdate="20150704T051227Z">
+        <seg>The Quality Control department maintains original and revised versions of the manual, and a history of revisions.
+品質管控部門維護手冊之原始和修訂版本以及修訂歷史。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Quality Control manager establishes procedures to control all documentation and data that pertain to quality system management, including documents from clients such as drawings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062143Z" creationid="Judy" creationdate="20150704T062143Z">
+        <seg>The Quality Control manager establishes procedures to control all documentation and data that pertain to quality system management, including documents from clients such as drawings.
+品管經理須建立程序以管控所有屬於品質系統管理之文件和資料，其中包含設計圖等客戶文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Quality Manual is maintained as a controlled electronic document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T051000Z" creationid="Judy" creationdate="20150704T050637Z">
+        <seg>The Quality Manual is maintained as a controlled electronic document.
+品質手冊控制版本文件為電子版文件，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24518,6 +24836,15 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The procedures for traceability will be based on Customer order number that will provide a code, machine or production line number, and the shift or work group number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T063801Z" creationid="Judy" creationdate="20150704T063801Z">
+        <seg>The procedures for traceability will be based on Customer order number that will provide a code, machine or production line number, and the shift or work group number.
+追蹤程序將利用客戶訂單號碼之代碼、機器或產線號碼以及班表和工作群組號碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The product requires the ’Windows Installer v3.1’, ’Microsoft XML Core Services 6.0 SP1’ packages to be installed on the client computers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024713Z">
@@ -24594,6 +24921,15 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T132702Z">
         <seg>此規範之條款旨意非用於避免安裝未於此法規中所提及之任何材料、或禁止任何未說明之設計、或進行未闡述之施工方法，上述替代方案若經核准仍可進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The purpose of the Quality Control Manual is to document the Quality Management System used by PrimeSource Building Company to assure the quality of its products.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T030652Z" creationid="Judy" creationdate="20150704T030652Z">
+        <seg>The purpose of the Quality Control Manual is to document the Quality Management System used by PrimeSource Building Company to assure the quality of its products.
+編寫品質管控手冊的目的為紀錄 PrimeSource 建設公司用以確保其產品之品質所使用的品質管理系統。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25106,6 +25442,15 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T131846Z">
         <seg>追蹤器可以計算出背景和前景物體像素，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The user of any such copies is responsible for verifying that working copies are in agreement with the current controlled version.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T051059Z" creationid="Judy" creationdate="20150704T050931Z">
+        <seg>The user of any such copies is responsible for verifying that working copies are in agreement with the current controlled version.
+使用此類副本之使用者有義務確認工作版文件內容與最新控制版本一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25768,6 +26113,15 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This document describes the procedures, forms and records used by SHIN CHANG to ensure that products consistently meet all required material, manufacturing, and performance specifications, including those requirements specifically established by ICBO, the International Congress of Building Officials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T031520Z" creationid="Judy" creationdate="20150704T031520Z">
+        <seg>This document describes the procedures, forms and records used by SHIN CHANG to ensure that products consistently meet all required material, manufacturing, and performance specifications, including those requirements specifically established by ICBO, the International Congress of Building Officials.
+本文件中說明了 SHIN CHANG 公司用以確保其產品之材料、加工和效能規格達到要求所使用之程序、表格和紀錄，其中包含了 ICBO（國際建築官方委員會）所特別制定之要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This document is sent to the supplier by the Purchasing department of each entity, as soon as the consultation phase starts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080022Z">
@@ -26072,10 +26426,28 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This manual is in compliance with the requirements of ICC-ES AC10, International Code Council Evaluation Service document, "Acceptance Criteria for Quality Control Manuals."</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T031002Z" creationid="Judy" creationdate="20150704T031002Z">
+        <seg>This manual is in compliance with the requirements of ICC-ES AC10, International Code Council Evaluation Service document, "Acceptance Criteria for Quality Control Manuals." 
+此文件符合國際規範委員會評估服務文件“品質管控手冊承認標準” ICC-ES AC10 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This manual is the logistics reference document for HUTCHINSON's suppliers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T074949Z">
         <seg>該手冊為 HUTCHINSON 之供應商的物流參考文件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This manual shall be reviewed at least once per year.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T052210Z" creationid="Judy" creationdate="20150704T052210Z">
+        <seg>This manual shall be reviewed at least once per year.
+本文件每年必須至少審查一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26734,6 +27106,15 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121538Z">
         <seg>扭矩測試‡‡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Traceability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T063253Z" creationid="Judy" creationdate="20150704T063253Z">
+        <seg>Traceability
+追蹤</seg>
       </tuv>
     </tu>
     <tu>
@@ -29329,6 +29710,15 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131604Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>coated with zinc for corrosion resistance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050348Z" creationid="Judy" creationdate="20150704T050348Z">
+        <seg>coated with zinc for corrosion resistance
+抗腐蝕鍍鋅塗料</seg>
       </tuv>
     </tu>
     <tu>
