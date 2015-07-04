@@ -2861,6 +2861,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approved by:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014425Z" creationid="Judy" creationdate="20150704T014425Z">
+        <seg>Approved by:
+批准人：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Archiving Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z">
@@ -6666,6 +6675,16 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142145Z">
         <seg>日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014517Z" creationid="Judy" creationdate="20150704T014517Z">
+        <seg>Date:
+日期：
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -14249,6 +14268,15 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014449Z" creationid="Judy" creationdate="20150704T014449Z">
+        <seg>Name:
+姓名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Net: blinks when the modem is communicating with the radio network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141148Z">
@@ -18252,6 +18280,15 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quality Manager</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014504Z" creationid="Judy" creationdate="20150704T014504Z">
+        <seg>Quality Manager
+品管經理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quality and supply chain performance targets</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125146Z">
@@ -20680,6 +20717,15 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071436Z">
         <seg>簽署開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signature:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014442Z" creationid="Judy" creationdate="20150704T014442Z">
+        <seg>Signature:
+簽章：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26365,6 +26411,15 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T074041Z">
         <seg>鎖緊鑽孔支架並於插槽支架處使用雙螺母，使螺栓和插槽孔之間留有間隙，使支架於外殼熱膨冷縮時能滑動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014454Z" creationid="Judy" creationdate="20150704T014454Z">
+        <seg>Title:
+職稱：</seg>
       </tuv>
     </tu>
     <tu>
