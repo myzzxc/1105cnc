@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13572,6 +13572,15 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071212Z">
         <seg>管理、匯入 &amp; 匯出註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014141Z" creationid="Judy" creationdate="20150704T014141Z">
+        <seg>Manual 
+品質管控手冊</seg>
       </tuv>
     </tu>
     <tu>
@@ -27551,6 +27560,15 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160955Z">
         <seg>確認 Microsoft Office 2013 出現在開始功能表中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version 1.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014053Z" creationid="Judy" creationdate="20150704T014053Z">
+        <seg>Version 1.0 
+版本 1.0</seg>
       </tuv>
     </tu>
     <tu>
