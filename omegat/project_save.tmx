@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8096,6 +8096,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025554Z">
         <seg>即使到了今天，當靈感來時，即使他正在休息也會毫不猶豫地進行工作，設計出最新的 DARIO MARTINI ® 款式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everio Lineup and Features</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150731T133313Z" creationid="Judy" creationdate="20150731T133313Z">
+        <seg>Everio 系列產品和功能</seg>
       </tuv>
     </tu>
     <tu>
