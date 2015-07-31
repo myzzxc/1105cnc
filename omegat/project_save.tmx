@@ -8102,8 +8102,8 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>Everio Lineup and Features</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150731T133313Z" creationid="Judy" creationdate="20150731T133313Z">
-        <seg>Everio 系列產品和功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150731T133600Z" creationid="Judy" creationdate="20150731T133313Z">
+        <seg>Everio 全線產品和功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -14774,6 +14774,14 @@ without the documented approval of the appropriate Quality Control personnel.
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145313Z">
         <seg>註：可以使用原始組建或使用自動工具組自訂並發佈之安裝套裝程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Not all models available in every region.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150731T140547Z" creationid="Judy" creationdate="20150731T140547Z">
+        <seg>注意：並非所有型號皆於所有區域中販售。</seg>
       </tuv>
     </tu>
     <tu>
