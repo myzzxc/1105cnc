@@ -8813,6 +8813,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Final Cut Pro, iMovie, Mac, and the Mac logo are trademarks of Apple Inc., registered in the U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T095831Z" creationid="Judy" creationdate="20150801T095831Z">
+        <seg>Final Cut Pro、iMovie、Mac 和 Mac 商標為蘋果公司 (Apple Inc.) 在美國和其它國家的註冊商標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finalizing the transform file (above) is optional; also you can include more than a customized transform file in your installation package.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021122Z">
@@ -25804,6 +25812,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The �Works with iMovie and Final Cut Pro X� logo is a trademark of Apple Inc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T115831Z" creationid="Judy" creationdate="20150801T115831Z">
+        <seg>“Works with iMovie and Final Cut Pro X”標識為蘋果公司之商標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their replacement by any other equivalent means may only be done if HUTCHINSON agrees in writing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020718Z">
@@ -29875,6 +29891,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064632Z">
         <seg>和獲得程式即時更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and other countries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T095836Z" creationid="Judy" creationdate="20150801T095836Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
