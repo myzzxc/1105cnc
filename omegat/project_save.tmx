@@ -6964,6 +6964,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design and specifications subject to change without notice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094952Z" creationid="Judy" creationdate="20150801T094952Z">
+        <seg>設計和規格如有更改，恕不另行通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destination folder: you can choose the default installation value or Browse to select a different location.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051240Z">
@@ -13320,6 +13328,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121106Z">
         <seg>讓我們來仔細看看法律事務所經常被迫作出的妥協……[下一頁]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let�s learn more about Quad-Proof Everio on your smartphone/tablet!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094937Z" creationid="Judy" creationdate="20150801T094937Z">
+        <seg>於智慧型手機 / 平板上了解更多關於四防 Everio 的資訊！</seg>
       </tuv>
     </tu>
     <tu>
