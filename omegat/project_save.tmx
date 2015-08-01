@@ -3539,6 +3539,15 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoid use in conditions where sand and/
+	or dust particles can become lodged in moving parts such as the LCD monitor hinge and zoom lever.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094046Z" creationid="Judy" creationdate="20150801T094046Z">
+        <seg>避免於沙子或灰塵環境中使用移動元件如液晶螢幕轉軸和變焦撥桿以防止沙塵堆積於內部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BAFFLE PLATES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053552Z">
@@ -31200,6 +31209,15 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T053612Z" creationid="Judy" creationdate="20150801T053612Z">
         <seg>• 不當使用所造成的故障不在保固範圍內</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>�	Temperatures between 0�C and -10�C temporarily lower battery performance, 
+	reducing the time available for recording.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094206Z" creationid="Judy" creationdate="20150801T094206Z">
+        <seg>•溫度介於 0℃ 和 -10℃ 之間將暫時降低電池效能，可錄影時間將減少。</seg>
       </tuv>
     </tu>
     <tu>
