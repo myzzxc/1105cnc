@@ -12900,6 +12900,15 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should be noted that it may be unlawful to re-record pre-recorded tapes, records, or discs without the consent of the owner of copyright in the sound or video recording, broadcast or cable programme and in any literary, dramatic, musical, 
+or artistic work embodied therein.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T095522Z" creationid="Judy" creationdate="20150801T095522Z">
+        <seg>請注意，未經授權重新錄製有版權之影帶、錄影或光碟之聲音或影像、 廣播或有線電視節目以及任何文學、 戲劇、 音樂、 或藝術作品可能觸犯法律。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports TCP/UDP and HTTP protocols through a GPRS connection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135143Z">
@@ -14177,6 +14186,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052535Z">
         <seg>需安裝 Microsoft .NET Framework 4.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft� and Windows Vista� are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T095626Z" creationid="Judy" creationdate="20150801T095626Z">
+        <seg>Microsoft® 和 Windows Vista® 為微軟公司在美國和其他國家的商標或註冊商標。</seg>
       </tuv>
     </tu>
     <tu>
