@@ -31245,6 +31245,14 @@ z	Everio MediaBrowser 4 Software Provided
         <seg>• AC 交流電源變壓器和電源線 •AV 線 •USB 線</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� Quad Proof is not a guarantee of protection against damage and malfunction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094311Z" creationid="Judy" creationdate="20150801T094311Z">
+        <seg>•四防功能不保證能避免損壞和故障。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">M009118370 Pre-Installation Guide 4008 1C-2Z(2106).docx</prop>
