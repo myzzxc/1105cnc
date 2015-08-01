@@ -22053,6 +22053,34 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System Requirements
+OS:	Windows� 8.1 / Windows� 8.1 Pro 
+	(64-bit edition, pre-installed)
+	Windows� 8 / Windows� 8 Pro 
+	(64-bit edition, pre-installed)
+	Windows� 7 Home Premium 
+	(32-bit edition/64-bit edition, pre-installed, SP1)
+	Windows Vista� Home Basic / Home Premium 
+	(32-bit edition/64-bit edition, pre-installed, SP2)
+CPU:	Intel� Core� Duo, at least 1.66GHz
+For further details, see the Detailed User Guide.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094804Z" creationid="Judy" creationdate="20150801T094804Z">
+        <seg>系統需求
+作業系統： Windows® 8.1 / Windows® 8.1 專業版
+	(64-位元版本）
+	Windows® 8 / Windows® 8 專業版
+	(64-位元版本)
+	Windows® 7 家用進階版
+	(32-位元版本/64-位元版本，SP1)
+	Windows Vista® 家用基本版 / 家用進階版
+	(32-位元版本 /64-位元版本，SP2)
+中央處理器： Intel® Core® Duo，1.66GHz 以上
+更多詳細資訊請參閱詳細使用說明書。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045620Z">
@@ -28270,6 +28298,14 @@ HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072609Z">
         <seg>可見度設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visit Everio Website</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094823Z" creationid="Judy" creationdate="20150801T094823Z">
+        <seg>請上 Everio 網站</seg>
       </tuv>
     </tu>
     <tu>
