@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -307,6 +307,31 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024103Z">
         <seg>* 不適用於 Beta 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*1 5H is the approximate time of continuous recording in 50i if the internal battery has been fully charged, when the LED light 
+	(if available) is off, the monitor backlight is set to standard mode, and without the use of zoom function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T051516Z" creationid="Judy" creationdate="20150801T051516Z">
+        <seg>*1 5 小時為內建電池完全充滿的條件下，LED 燈（若有配備時）關閉、監看螢幕背光設定為為標準模式、且未使用變焦功能時連續 50i 錄影之約略時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*2 Limited to 55x when Advanced Image Stabiliser (AIS) is set to ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T051652Z" creationid="Judy" creationdate="20150801T051652Z">
+        <seg>*2 當開啟進階影像穩定器 (AIS) 開啟時限制為 55x。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*3 When used with a portable battery of over 1.0A, 5V and over 5200mAh.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T052053Z" creationid="Judy" creationdate="20150801T052053Z">
+        <seg>*3 當使用行動電源超過 1.0A、5V 且容量高於 5200mAh。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5388,6 +5413,15 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compatibility is not guaranteed for all 
+	portable batteries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T052156Z" creationid="Judy" creationdate="20150801T052156Z">
+        <seg>不保證相容於所有行動電源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compatibility/Collaboration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063533Z">
@@ -7393,6 +7427,15 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dynamic Zoom does not work when AIS is set to 
+	Enhanced mode.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T051758Z" creationid="Judy" creationdate="20150801T051758Z">
+        <seg>當 AIS 設定為增強模式時動態變焦將無法使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dynamic stamps gives users advanced editing functionality to increase collaboration and productivity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043633Z">
@@ -8104,6 +8147,16 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150731T133600Z" creationid="Judy" creationdate="20150731T133313Z">
         <seg>Everio 全線產品和功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everio MediaBrowser� 4 
+(Provided in the built-in memory of the camera)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T053450Z" creationid="Judy" creationdate="20150801T053450Z">
+        <seg>Everio MediaBrowser™ 4
+（隨機附贈於攝影機內建記憶體中）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13270,6 +13323,52 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light 
+z	Digital Zoom: 200x 
+z	SD/SDHC/SDXC Card Slot
+z	Compatible with Portable Battery*3 and USB Charging
+z	KONICA MINOLTA HD LENS
+z	Super LoLux
+z	24Mbps High Bit Rate Recording
+z	10M Still Picture
+z	Simultaneous Full HD Video &amp; 2M Still Shooting
+z	Enhanced Advanced Image Stabiliser
+z	Time-Lapse REC
+z	Close-up Sub-Window
+z	Special Effects Recording (Video/Stills)
+z	Built-in Zoom Microphone
+z	K2 Technology in REC Mode
+z	Auto Wind Cut
+z	3.0" Touch Panel LCD
+z	Works with iMovie and Final Cut Pro X
+z	Everio MediaBrowser 4 Software Provided
+	Easy Upload to YouTube/ Facebook (HD Compatible)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T052120Z" creationid="Judy" creationdate="20150801T050556Z">
+        <seg>▋數位變焦：200倍
+▋SD/SDHC/SDXC 記憶卡插槽
+▋相容於行動電源*3和 USB 充電
+▋KONICA MINOLTA HD 高畫質鏡頭
+▋Super LoLux 高感度技術
+▋24Mbps 高位元速率攝影
+▋一千萬畫素靜態影像
+▋同步錄製 Full HD 高畫質影片 &amp; 兩百萬畫素靜態影像
+▋增強先進影像穩定器
+▋延時錄影
+▋Close-up Sub-Window＋＋＋＋＋＋＋＋＋
+▋特殊效果錄影（影片/相片）
+▋內建變焦麥克風
+▋錄影模式 K2 技術
+▋自動剪接++++++++++++
+▋3.0 吋觸控液晶顯示面板
+▋可使用 iMovie 和 Final Cut Pro X 進行後製處理
+▋附贈 Everio MediaBrowser 4 軟體
+   輕鬆上傳至 YouTube/ Facebook （相容 HD 高畫質）
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighter weight, faster performance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071737Z">
@@ -14161,6 +14260,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mobile User Guide</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T052350Z" creationid="Judy" creationdate="20150801T052350Z">
+        <seg>行動使用說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Model</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081433Z">
@@ -14971,6 +15078,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T121125Z">
         <seg>假設現在有一個人的模型，當他走到物體後方又在出現時，我們利用它來持續追蹤物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now you can check the instructions on the spot with your smartphone!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T053048Z" creationid="Judy" creationdate="20150801T053048Z">
+        <seg>現在也能使用智慧型手機閱讀說明書！</seg>
       </tuv>
     </tu>
     <tu>
@@ -18026,6 +18141,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Precautions for Quad Proof Function</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T053110Z" creationid="Judy" creationdate="20150801T053110Z">
+        <seg>四防功能注意事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prechiller time tends to be between 20 and 45 minutes, while time in the chiller varies between 30 minutes and as much as two hours.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045211Z">
@@ -18418,6 +18541,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131839Z">
         <seg>以analogWrite()函數提供8位元PWM。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provided Accessories</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T052209Z" creationid="Judy" creationdate="20150801T052209Z">
+        <seg>附贈配件</seg>
       </tuv>
     </tu>
     <tu>
@@ -30433,6 +30564,28 @@ HUT DQ FP1001</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>z	8GB Internal Memory
+z	QUAD PROOF Body
+z	5H Internal Long-Life Battery*1
+z	40x Optical Zoom (60x Dynamic Zoom*2)
+z	2.5M Back-illuminated CMOS Sensor
+z	Wi-Fi Functions
+z	AVCHD Progressive Video Recording
+z	Auto Illumi.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T050425Z" creationid="Judy" creationdate="20150801T050017Z">
+        <seg>▋8GB 內建記憶體
+▋四防機身
+▋內建五小時長效電池*1
+▋40倍光學變焦（60倍動態變焦*2）
+▋兩百五十萬畫素背照式 CMOS 影像感測器
+▋Wi-Fi 無線傳輸功能
+▋AVCHD 漸進式影像錄影
+▋自動打光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>z	QUAD PROOF Body
 z	5H Internal Long-Life Battery*1
 z	40x Optical Zoom (60x Dynamic Zoom*2)
@@ -30456,29 +30609,29 @@ z	Works with iMovie and Final Cut Pro X
 z	Everio MediaBrowser 4 Software Provided
 	Easy Upload to YouTube/ Facebook (HD Compatible)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150731T150942Z" creationid="Judy" creationdate="20150731T142918Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T052109Z" creationid="Judy" creationdate="20150731T142918Z">
         <seg>▋四防機身
 ▋內建五小時長效電池*1
 ▋40倍光學變焦（60倍動態變焦*2）
 ▋兩百五十萬畫素背照式 CMOS 影像感測器
 ▋數位變焦：200倍
 ▋SD/SDHC/SDXC 記憶卡插槽
-▋相容於可攜式電池*3和 USB 充電
+▋相容於行動電源*3和 USB 充電
 ▋KONICA MINOLTA HD 高畫質鏡頭
 ▋Super LoLux 高感度技術
 ▋24Mbps 高位元速率攝影
 ▋一千萬畫素靜態影像
-▋同步 Full HD 高畫質影片 &amp; 兩百萬畫素靜態影像
+▋同步錄製 Full HD 高畫質影片 &amp; 兩百萬畫素靜態影像
 ▋增強先進影像穩定器
 ▋延時錄影
-z	Special Effects Recording (Video/Stills)
-z	Built-in Zoom Microphone
-z	K2 Technology in REC Mode
-z	Auto Wind Cut
-z	3.0" Touch Panel LCD
-z	Works with iMovie and Final Cut Pro X
-z	Everio MediaBrowser 4 Software Provided
-	Easy Upload to YouTube/ Facebook (HD Compatible)</seg>
+▋特殊效果錄影（影片/相片）
+▋內建變焦麥克風
+▋錄影模式 K2 技術
+▋自動剪接++++++++++++
+▋3.0 吋觸控液晶顯示面板
+▋可使用 iMovie 和 Final Cut Pro X 進行後製處理
+▋附贈 Everio MediaBrowser 4 軟體
+ 輕鬆上傳至 YouTube/ Facebook （相容 HD 高畫質）</seg>
       </tuv>
     </tu>
     <tu>
@@ -30991,6 +31144,79 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143021Z">
         <seg>訂單中約定之具體要求相對應資料文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>�	Before use in water, be sure to read the �Detailed User Guide� in the built-in memory of the camcorder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T053800Z" creationid="Judy" creationdate="20150801T053800Z">
+        <seg>•於水中使用前，請確定已詳閱攝影機內建記憶體中的“詳細使用說明書”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>�	Close the connector cover firmly until it clicks and confirm that the red sign completely goes off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T054124Z" creationid="Judy" creationdate="20150801T054124Z">
+        <seg>•緊密蓋上連接孔蓋直到發出“咖”一聲，確認紅色指示燈完全熄滅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>�	Do not apply impact in water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T093429Z" creationid="Judy" creationdate="20150801T093429Z">
+        <seg>•請勿於水中受到衝擊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>�	Do not soak the camcorder in hot springs or water of 40�C or higher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T093530Z" creationid="Judy" creationdate="20150801T093530Z">
+        <seg>•請勿將攝影機進入溫泉或超過 40ºC 的水中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>�	Make sure that there is no damage to and no foreign material adhered to the packing inside the cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T054252Z" creationid="Judy" creationdate="20150801T054252Z">
+        <seg>•確認外蓋內部包裝無損傷且無異物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>�	Malfunction due to misuse by the customer is not covered by warranty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T053612Z" creationid="Judy" creationdate="20150801T053612Z">
+        <seg>• 不當使用所造成的故障不在保固範圍內</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>�	The waterproof cannot be guaranteed if the camcorder is subject to impact such as dropping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T054538Z" creationid="Judy" creationdate="20150801T054538Z">
+        <seg>•當攝影機受到衝擊如掉落時，便無法保證其防水性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>�	Use the camcorder in marine water and fresh water not deeper than 5m and for not more 
+	than 30 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T054424Z" creationid="Judy" creationdate="20150801T054424Z">
+        <seg>•於 5 公尺深以內的海水或淡水中使用，且使用時間不超過 30 分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� AC Power Adapter and Cable  � AV Cable  � USB Cable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T052945Z" creationid="Judy" creationdate="20150801T052945Z">
+        <seg>• AC 交流電源變壓器和電源線 •AV 線 •USB 線</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
