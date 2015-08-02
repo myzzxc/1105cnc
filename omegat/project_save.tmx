@@ -1385,6 +1385,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AVAILABLE AT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051520Z" creationid="Judy" creationdate="20150802T051520Z">
+        <seg>經銷商</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVS-IP - AXYZ Vision System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082225Z">
@@ -6137,6 +6145,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright� 2015, JVCKENWOOD Corporation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051510Z" creationid="Judy" creationdate="20150802T051510Z">
+        <seg>版權所有© 2015 年 JVCKENWOOD 公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Correct calibration allows the camera to know that one metre in the algorithm is equal to one metre in reality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132942Z">
@@ -8172,6 +8188,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025554Z">
         <seg>即使到了今天，當靈感來時，即使他正在休息也會毫不猶豫地進行工作，設計出最新的 DARIO MARTINI ® 款式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everio Lineup 2015</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051738Z" creationid="Judy" creationdate="20150802T051738Z">
+        <seg>Everio 2015 全線產品</seg>
       </tuv>
     </tu>
     <tu>
