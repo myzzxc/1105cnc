@@ -500,6 +500,15 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10M Still Picture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124507Z" creationid="Judy" creationdate="20150802T124507Z">
+        <seg>一千萬畫素靜態影像
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10a and 10b.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150033Z">
@@ -693,6 +702,15 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>24Mbps High Bit Rate Recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124501Z" creationid="Judy" creationdate="20150802T124501Z">
+        <seg>24Mbps 高位元速率攝影
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>25 words:  Collaboration and productivity at a price that makes business sense.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084908Z">
@@ -737,6 +755,15 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T132308Z">
         <seg>3-2 起動 3-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.0" Touch Panel LCD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124632Z" creationid="Judy" creationdate="20150802T124632Z">
+        <seg>3.0 吋觸控液晶顯示面板
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1033,6 +1060,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142551Z">
         <seg>8010 * (2635mm x 3048mm) 含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8GB Internal Memory</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124717Z" creationid="Judy" creationdate="20150802T124717Z">
+        <seg>8GB 內建記憶體</seg>
       </tuv>
     </tu>
     <tu>
@@ -3450,6 +3485,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Wind Cut</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124625Z" creationid="Judy" creationdate="20150802T124625Z">
+        <seg>自動濾除風切聲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Wind Cut
 Original technology reduces wind noises picked up at the microphone, so gusts of wind won�t spoil your soundtrack.</seg>
       </tuv>
@@ -4425,6 +4468,15 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T141734Z">
         <seg>用於處理超過 8 英呎之工件，機床尺寸可供客製作大型看板及直接加工大型材料無，無須另行加工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Built-in Zoom Microphone</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124534Z" creationid="Judy" creationdate="20150802T124534Z">
+        <seg>內建變焦麥克風
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -7935,6 +7987,15 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Easy Upload to YouTube/ Facebook (HD Compatible)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124649Z" creationid="Judy" creationdate="20150802T124649Z">
+        <seg>輕鬆上傳至 YouTube/ Facebook （相容 HD 高畫質）
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit text and object attributes (font, color, line weight, display and print options)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071222Z">
@@ -8185,6 +8246,15 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enhanced Advanced Image Stabiliser</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124519Z" creationid="Judy" creationdate="20150802T124519Z">
+        <seg>增強先進影像穩定器
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enhanced Image Stabilisation
 Count on steady, less jittery images with effective compensation for camera shake.</seg>
       </tuv>
@@ -8407,6 +8477,15 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150731T133600Z" creationid="Judy" creationdate="20150731T133313Z">
         <seg>Everio 全線產品和功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everio MediaBrowser 4 Software Provided</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124643Z" creationid="Judy" creationdate="20150802T124643Z">
+        <seg>附贈 Everio MediaBrowser 4 軟體
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -13320,6 +13399,15 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T055846Z" creationid="Judy" creationdate="20150802T055846Z">
         <seg>K2 技術
 使用此錄影模式以播放出高傳真的影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>K2 Technology in REC Mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124547Z" creationid="Judy" creationdate="20150802T124547Z">
+        <seg>錄影模式 K2 技術
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -21606,6 +21694,15 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simultaneous Full HD Video &amp; 2M Still Shooting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124514Z" creationid="Judy" creationdate="20150802T124514Z">
+        <seg>同步錄製 Full HD 高畫質影片 &amp; 兩百萬畫素靜態影像
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Six1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182047Z">
@@ -21778,6 +21875,15 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T045922Z">
         <seg>語音輸入筆記：使用整合之 Dragon Notes 程式能輕鬆地在 PDF 檔案中使用語音輸入文字筆記 —— 快速、準確、節省時間並提高生產力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special Effects Recording (Video/Stills)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124529Z" creationid="Judy" creationdate="20150802T124529Z">
+        <seg>特殊效果錄影（影片/相片）
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -22179,6 +22285,15 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130448Z">
         <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Super LoLux</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124445Z" creationid="Judy" creationdate="20150802T124445Z">
+        <seg>Super LoLux 高感度技術
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -27471,6 +27586,15 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time-Lapse REC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124524Z" creationid="Judy" creationdate="20150802T124524Z">
+        <seg>延時錄影
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time-Lapse REC
 Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
@@ -29543,6 +29667,15 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wi-Fi Functions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124736Z" creationid="Judy" creationdate="20150802T124736Z">
+        <seg>▋Wi-Fi 無線傳輸功能
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wi-Fi Functions*
 � Live Monitoring and Remote Recording</seg>
       </tuv>
@@ -29847,6 +29980,15 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T072604Z" creationid="Judy" creationdate="20150802T072604Z">
         <seg>可使用 iMovie 和 Final Cut Pro X 進行後製處理
 進行專業的影像後製編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Works with iMovie and Final Cut Pro X</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124637Z" creationid="Judy" creationdate="20150802T124637Z">
+        <seg>可使用 iMovie 和 Final Cut Pro X 進行後製處理
+</seg>
       </tuv>
     </tu>
     <tu>
