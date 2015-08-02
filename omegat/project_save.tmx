@@ -15222,6 +15222,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: Quad Proof is not a guarantee of protection against damage and malfunction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T072621Z" creationid="Judy" creationdate="20150802T072621Z">
+        <seg>注意：四防功能不保證能避免損壞和故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: The execution of an EPC is generally done in the presence of several representatives who may take all the samples during the operation that they deem useful.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T134804Z">
@@ -29749,6 +29757,16 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055310Z">
         <seg>工作流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Works with iMovie and    	Final Cut Pro X
+Edit your video afterwards just like the pros do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T072604Z" creationid="Judy" creationdate="20150802T072604Z">
+        <seg>可使用 iMovie 和 Final Cut Pro X 進行後製處理
+進行專業的影像後製編輯。</seg>
       </tuv>
     </tu>
     <tu>
