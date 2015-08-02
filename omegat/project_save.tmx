@@ -6049,6 +6049,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converted to MP4 (640x360) automatically</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070346Z" creationid="Judy" creationdate="20150802T070346Z">
+        <seg>自動轉檔為 MP4 (640x360) 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Converting static PDF into editable Office files that users can begin working with right away</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121446Z">
@@ -21884,6 +21892,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Still images</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070358Z" creationid="Judy" creationdate="20150802T070358Z">
+        <seg>靜態影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stock levels that are incompatible with the delivery performance requirements without exceptional means of transport.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161504Z">
@@ -28571,6 +28587,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Video files</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070322Z" creationid="Judy" creationdate="20150802T070322Z">
+        <seg>影像檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View and navigate page thumbnails</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032644Z">
@@ -29391,6 +29415,16 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092108Z">
         <seg>為何無法正確運作？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wi-Fi Functions*
+� Live Monitoring and Remote Recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070233Z" creationid="Judy" creationdate="20150802T070233Z">
+        <seg>Wi-Fi 功能*
+•現場監看和遙控錄影</seg>
       </tuv>
     </tu>
     <tu>
@@ -31696,6 +31730,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094311Z" creationid="Judy" creationdate="20150801T094311Z">
         <seg>•四防功能不保證能避免損壞和故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� Wireless Data Transfer to Smartphone/Tablet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070311Z" creationid="Judy" creationdate="20150802T070311Z">
+        <seg>•無限資料傳輸至智慧型手機 / 平板</seg>
       </tuv>
     </tu>
     <tu>
