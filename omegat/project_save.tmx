@@ -27383,6 +27383,16 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time-Lapse REC
+Records one frame at a time at set intervals for a fast-motion view.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T072440Z" creationid="Judy" creationdate="20150802T072440Z">
+        <seg>延時錄影
+依照設定時間間隔一次記錄一幀圖像以播放快速運動影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014454Z" creationid="Judy" creationdate="20150704T014454Z">
