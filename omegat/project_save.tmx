@@ -1313,6 +1313,16 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALL-WEATHER CAM
+Keep going.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T052214Z" creationid="Judy" creationdate="20150802T052214Z">
+        <seg>全天候攝影機 
+無懼風雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AMDEC: Default Method, Effect and Critical Level Analysis (see standard NF-X 60-510): Quantitative prevention method analysis of the reliability of a system by determining, in terms of severity and occurrences, the effects of each default method and their critical impact on other system elements and/or functions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025644Z">
@@ -13105,6 +13115,15 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124730Z">
         <seg>刀具配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep safe.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T052216Z" creationid="Judy" creationdate="20150802T052216Z">
+        <seg>
+全天候高畫質攝影</seg>
       </tuv>
     </tu>
     <tu>
