@@ -400,6 +400,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.5m Shockproof
+Accidental droppage can destroy an ordinary camcorder, but Everio is built tough to take it in stride.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T053208Z" creationid="Judy" creationdate="20150802T053017Z">
+        <seg>1.5 公尺防震
+意外掉落可能會摧毀普通的攝影機，但 Everio 能避免因撞擊而損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10 used for W5500 select</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053124Z">
@@ -7476,6 +7486,16 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121306Z">
         <seg>此期間內，除非另有說明，所有交付之貨物必須都包括分析認證，證明供應商交付的產品經過供應商的檢驗，且貨物符合管控規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dustproof
+IP5X certified dustproofing lets you use Everio in some seriously dusty environments without worry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T053301Z" creationid="Judy" creationdate="20150802T053301Z">
+        <seg>防塵 
+IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</seg>
       </tuv>
     </tu>
     <tu>
