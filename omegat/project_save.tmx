@@ -288,8 +288,8 @@
       <tuv lang="EN-US">
         <seg>*	Applicable models only.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070909Z" creationid="Judy" creationdate="20150802T070848Z">
-        <seg>*僅適用特定機型，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T071205Z" creationid="Judy" creationdate="20150802T070848Z">
+        <seg>*僅適用特定機型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5319,6 +5319,16 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150502T061007Z">
         <seg>關閉閥門並拆卸軟管，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close-up Sub-Window*
+Keep an eye on the whole team while getting a special close-up look at your hero.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T071158Z" creationid="Judy" creationdate="20150802T071158Z">
+        <seg>特寫子視窗* 
+觀看完整畫面的同時另外顯示一個主角的特寫鏡頭。</seg>
       </tuv>
     </tu>
     <tu>
