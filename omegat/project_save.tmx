@@ -311,11 +311,27 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*1 	5H is the approximate time of continuous recording in 50i if the 		internal battery has been fully charged, when the LED light (if available) 		is off, the monitor backlight is set to standard mode, and without the 		use of zoom function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061605Z" creationid="Judy" creationdate="20150802T061605Z">
+        <seg>*1 5 小時為內建電池完全充滿的條件下，LED 燈（若有配備時）關閉、監看螢幕背光設定為為標準模式、且未使用變焦功能時連續 50i 錄影之約略時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*1 5H is the approximate time of continuous recording in 50i if the internal battery has been fully charged, when the LED light 
 	(if available) is off, the monitor backlight is set to standard mode, and without the use of zoom function.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T051516Z" creationid="Judy" creationdate="20150801T051516Z">
         <seg>*1 5 小時為內建電池完全充滿的條件下，LED 燈（若有配備時）關閉、監看螢幕背光設定為為標準模式、且未使用變焦功能時連續 50i 錄影之約略時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*2 	When used with a portable battery of over 1.0A, 5V and over 5200mAh.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061635Z" creationid="Judy" creationdate="20150802T061635Z">
+        <seg>*2 當使用行動電源超過 1.0A、5V 且容量高於 5200mAh。</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +906,16 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093339Z">
         <seg>5GB 以上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5H*1 Internal Long-Life Battery
+Shoot entire events, with no risk of damage by changing the battery in bad weather.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061409Z" creationid="Judy" creationdate="20150802T061409Z">
+        <seg>內建五小時長效電池*1
+持續進行攝影，無需冒著風險在惡劣的環境中更換電池。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5515,6 +5541,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compatibility is not guaranteed for all portable batteries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061640Z" creationid="Judy" creationdate="20150802T061640Z">
+        <seg>不保證相容於所有行動電源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compatibility/Collaboration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063533Z">
@@ -5551,6 +5585,16 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140741Z">
         <seg>相容於 Microsoft®  Windows®  7, 8, 8.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatible with Portable Battery*2 and USB Charging
+Additional power wherever you are.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061522Z" creationid="Judy" creationdate="20150802T061522Z">
+        <seg>相容於行動電源*2 和 USB 充電
+無論您身在何處都能使額外的電源供應。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18296,6 +18340,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135626Z">
         <seg>電源需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powerful Creative Capabilities</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061718Z" creationid="Judy" creationdate="20150802T061718Z">
+        <seg>強大的創新功能</seg>
       </tuv>
     </tu>
     <tu>
