@@ -2277,6 +2277,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All brand names are trademarks, registered trademarks, or trade names of their respective holders.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051201Z" creationid="Judy" creationdate="20150802T051201Z">
+        <seg>所有品牌名稱均為其持有機構之商標、註冊商標或商品名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All events generated in the video analysis modules can be searched via records with the opportunity to seek your footage on NVR system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071934Z">
@@ -20166,6 +20174,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014536Z">
         <seg>適用範圍 1-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen images and print samples on this catalogue are simulated unless otherwise specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051351Z" creationid="Judy" creationdate="20150802T051351Z">
+        <seg>除非特別指明，此型錄之螢幕圖片和列印樣品皆為模擬示意圖。</seg>
       </tuv>
     </tu>
     <tu>
