@@ -458,6 +458,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1080/50p progressive recording is also available for high-end models.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T054958Z" creationid="Judy" creationdate="20150802T054958Z">
+        <seg>高階機種具有 1080/50p 逐行式錄影。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10a and 10b.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150033Z">
