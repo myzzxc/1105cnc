@@ -31362,6 +31362,14 @@ z	Everio MediaBrowser 4 Software Provided
         <seg>•四防功能不保證能避免損壞和故障。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>�AVCHD�, the �AVCHD� logo, �AVCHD Progressive� and the �AVCHD Progressive� logo are trademarks of Panasonic Corporation and Sony Corporation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T050732Z" creationid="Judy" creationdate="20150802T050732Z">
+        <seg>"AVCHD"、"AVCHD" 標識、"AVCHD Progressive" 以及 "AVCHD Progressive" 標誌為松下公司 (Panasonic Corporation) 和索尼公司 (Sony Corporation) 之註冊商標。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">M009118370 Pre-Installation Guide 4008 1C-2Z(2106).docx</prop>
