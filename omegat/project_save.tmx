@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Provided in the built-in memory of the camera)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125053Z" creationid="Judy" creationdate="20150802T125053Z">
+        <seg>（隨機附贈於攝影機內建記憶體中）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Some reports may also reference older code families such as the BOCA National Codes, the Standard Codes, and the Uniform Codes.) Section 104.11 of the International Building Code* reads as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T131116Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023009Z">
         <seg>（更多的資訊，請參閱產品版本資訊）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(if available) is off, the monitor backlight is set to standard mode, and without the use of zoom function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124950Z" creationid="Judy" creationdate="20150802T124950Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -323,6 +339,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061605Z" creationid="Judy" creationdate="20150802T061605Z">
         <seg>*1 5 小時為內建電池完全充滿的條件下，LED 燈（若有配備時）關閉、監看螢幕背光設定為為標準模式、且未使用變焦功能時連續 50i 錄影之約略時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*1 5H is the approximate time of continuous recording in 50i if the internal battery has been fully charged, when the LED light</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124945Z" creationid="Judy" creationdate="20150802T124945Z">
+        <seg>*1 五小時為內建電池完全充滿的條件下，LED 燈（若有配備時）關閉、監看螢幕背光設定為為標準模式、且未使用變焦功能時連續 50i 錄影之約略時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1543,6 +1567,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051520Z" creationid="Judy" creationdate="20150802T051520Z">
         <seg>經銷商</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AVCHD Progressive Video Recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124839Z" creationid="Judy" creationdate="20150802T124839Z">
+        <seg>AVCHD 逐行式錄影錄影</seg>
       </tuv>
     </tu>
     <tu>
@@ -3469,6 +3501,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Illumi.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124851Z" creationid="Judy" creationdate="20150802T124851Z">
+        <seg>自動打光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Save</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054206Z">
@@ -4100,6 +4140,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070155Z">
         <seg>卸下固定端頭之前, 必須釋放浮動端所有彈簧墊片之張力，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before use in water, be sure to read the “Detailed User Guide” in the built-in memory of the camcorder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125105Z" creationid="Judy" creationdate="20150802T125105Z">
+        <seg>於水中使用前，請確定已詳閱攝影機內建記憶體中的“詳細使用說明書”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5394,10 +5442,26 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close the connector cover firmly until it clicks and confirm that the red sign completely goes off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125108Z" creationid="Judy" creationdate="20150802T125108Z">
+        <seg>緊密蓋上連接孔蓋直到發出“咖”一聲，確認紅色指示燈完全熄滅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close valve and remove hose.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150502T061007Z">
         <seg>關閉閥門並拆卸軟管，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close-up Sub-Window</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124921Z" creationid="Judy" creationdate="20150802T124921Z">
+        <seg>特寫子視窗</seg>
       </tuv>
     </tu>
     <tu>
@@ -5625,6 +5689,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140531Z">
         <seg>相容性功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatibility is not guaranteed for all</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125017Z" creationid="Judy" creationdate="20150802T125017Z">
+        <seg>不保證相容於所有行動電源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7463,6 +7535,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not apply impact in water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125130Z" creationid="Judy" creationdate="20150802T125130Z">
+        <seg>請勿於水中受到衝擊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not exceed the design pressure shown on the assembly drawing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140042Z">
@@ -7717,6 +7797,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024224Z">
         <seg>荷蘭文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dynamic Zoom does not work when AIS is set to</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125007Z" creationid="Judy" creationdate="20150802T125007Z">
+        <seg>當 AIS 設定為增強模式時動態變焦將無法使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8285,6 +8373,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122755Z">
         <seg>強化了建立和驗證符合規範資訊存取性標準之功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enhanced mode.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125011Z" creationid="Judy" creationdate="20150802T125011Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -13758,6 +13854,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124856Z" creationid="Judy" creationdate="20150802T124856Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light 
 z	Digital Zoom: 200x 
 z	SD/SDHC/SDXC Card Slot
@@ -14204,6 +14308,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure that there is no damage to and no foreign material adhered to the packing inside the cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125112Z" creationid="Judy" creationdate="20150802T125112Z">
+        <seg>確認外蓋內部包裝無損傷且無異物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure to change the network settings for your network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141702Z">
@@ -14240,6 +14352,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023823Z">
         <seg>選擇所需設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malfunction due to misuse by the customer is not covered by warranty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125101Z" creationid="Judy" creationdate="20150802T125101Z">
+        <seg>不當使用所造成的故障不在保固範圍內</seg>
       </tuv>
     </tu>
     <tu>
@@ -26309,6 +26429,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The waterproof cannot be guaranteed if the camcorder is subject to impact such as dropping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125127Z" creationid="Judy" creationdate="20150802T125127Z">
+        <seg>當攝影機受到衝擊如掉落時，便無法保證其防水性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The way it does this is to model each pixel to ‘learn’ the background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103011Z">
@@ -28457,6 +28585,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the camcorder in marine water and fresh water not deeper than 5m and for not more</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125117Z" creationid="Judy" creationdate="20150802T125117Z">
+        <seg>於 5 公尺深以內的海水或淡水中使用，且使用時間不超過 30 分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the following instruction for inspections UPON RECEIPT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150501T020636Z">
@@ -29669,8 +29805,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Wi-Fi Functions</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124736Z" creationid="Judy" creationdate="20150802T124736Z">
-        <seg>▋Wi-Fi 無線傳輸功能
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124841Z" creationid="Judy" creationdate="20150802T124736Z">
+        <seg>Wi-Fi 無線傳輸功能
 </seg>
       </tuv>
     </tu>
@@ -31072,6 +31208,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>portable batteries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125020Z" creationid="Judy" creationdate="20150802T125020Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>pressure foot and T-gantry as standard.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144107Z">
@@ -31204,6 +31348,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173109Z">
         <seg>††請參閱4.7.2.2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>than 30 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125121Z" creationid="Judy" creationdate="20150802T125121Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -31532,6 +31684,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T114704Z">
         <seg>• 250 mm 滾珠螺桿 Z 軸行程，含 150 mm 間隙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• AC Power Adapter and Cable  • AV Cable  • USB Cable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125026Z" creationid="Judy" creationdate="20150802T125026Z">
+        <seg>• AC 交流電源變壓器和電源線 •AV 線 •USB 線</seg>
       </tuv>
     </tu>
     <tu>
