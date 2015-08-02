@@ -13153,6 +13153,16 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>K2 Technology
+Applied during recording for superior fidelity during playback.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T055846Z" creationid="Judy" creationdate="20150802T055846Z">
+        <seg>K2 技術
+使用此錄影模式以播放出高傳真的影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KB (ATmega32u4) of which 4 KB used by bootloader</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053441Z">
@@ -21964,10 +21974,10 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
         <seg>Super LoLux
 2.5M Back-illuminated CMOS Image Sensor helps indoor and night scenes look brilliant.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T055513Z" creationid="Judy" creationdate="20150802T055513Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T055920Z" creationid="Judy" creationdate="20150802T055513Z">
         <seg>Super LoLux 高感度技術
 兩百五十萬畫素背照式 CMOS 影像感測器
-讓室內和夜間場景也能有良好的錄影效果</seg>
+讓室內和夜間場景也能有明亮的錄影效果</seg>
       </tuv>
     </tu>
     <tu>
@@ -29399,6 +29409,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With Super LoLux</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T055928Z" creationid="Judy" creationdate="20150802T055928Z">
+        <seg>使用 Super LoLux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With a choice of power levels, Pure is flexible to match your needs now and in the future.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T134137Z">
@@ -29523,6 +29541,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140801Z">
         <seg>此紀錄可於物體通過時計算前景像素，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without Super LoLux</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T055932Z" creationid="Judy" creationdate="20150802T055932Z">
+        <seg>未使用 Super LoLux</seg>
       </tuv>
     </tu>
     <tu>
