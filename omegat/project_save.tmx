@@ -7268,6 +7268,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dolby and the double-D symbol are registered trademarks of Dolby Laboratories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T050835Z" creationid="Judy" creationdate="20150802T050835Z">
+        <seg>杜比 (Dolby) 和 雙 D 標識為杜比實驗室 (Dolby Laboratories) 之註冊商標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don’t let the hassle of filling out long forms slow down your business.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113746Z">
@@ -9963,6 +9971,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153220Z">
         <seg>保證申訴流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HDMI, the HDMI logo and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T050924Z" creationid="Judy" creationdate="20150802T050924Z">
+        <seg>HDMI、HDMI 標識以及 High-Definition Multimedia Interface 為 HDMI Licensing LLC 之註冊商標。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18683,6 +18699,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>QR Code is registered trademark of DENSO WAVE INCORPORATED.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051055Z" creationid="Judy" creationdate="20150802T051055Z">
+        <seg>QR Code 為 DENSO WAVE INCORPORATED 之註冊商標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>QSE System Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154149Z">
@@ -23372,6 +23396,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T093220Z">
         <seg>S2DSUBDIR 屬性必須符合 ShareScan “主目錄”模式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The SD, SDHC, and SDXC logos are trademarks of the SD Card Association.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051015Z" creationid="Judy" creationdate="20150802T051015Z">
+        <seg>SD、SDHC 以及 SDXC 標誌為 SD 記憶卡協會之商標。</seg>
       </tuv>
     </tu>
     <tu>
