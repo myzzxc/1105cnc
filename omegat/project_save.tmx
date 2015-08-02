@@ -182,10 +182,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(32-bit edition/64-bit edition, pre-installed, SP1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125359Z" creationid="Judy" creationdate="20150802T125359Z">
+        <seg>(32-位元版本/64-位元版本，SP1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(32-bit edition/64-bit edition, pre-installed, SP2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125440Z" creationid="Judy" creationdate="20150802T125440Z">
+        <seg>(32-位元版本 /64-位元版本，SP2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(3Phase)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050353Z">
         <seg>(3 相)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(64-bit edition, pre-installed)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125319Z" creationid="Judy" creationdate="20150802T125319Z">
+        <seg>(64-位元版本）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3767,6 +3791,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoid use in conditions where sand and/</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125159Z" creationid="Judy" creationdate="20150802T125159Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoid use in conditions where sand and/
 	or dust particles can become lodged in moving parts such as the LCD monitor hinge and zoom lever.</seg>
       </tuv>
@@ -4693,6 +4725,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142523Z">
         <seg>企業品管部門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPU:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125450Z" creationid="Judy" creationdate="20150802T125450Z">
+        <seg>中央處理器：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7551,6 +7591,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not soak the camcorder in hot springs or water of 40ºC or higher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125134Z" creationid="Judy" creationdate="20150802T125134Z">
+        <seg>請勿將攝影機進入溫泉或超過 40ºC 的水中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have sufficient compressed air available in your work shop?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081507Z">
@@ -7781,6 +7829,14 @@ IP5X certified dustproofing lets you use Everio in some seriously dusty environm
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T053301Z" creationid="Judy" creationdate="20150802T053301Z">
         <seg>防塵 
 IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dustproof function is not meant to encourage use on sand.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125139Z" creationid="Judy" creationdate="20150802T125139Z">
+        <seg>防塵功能不代表建議於沙塵中使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12854,6 +12910,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intel® Core™ Duo, at least 1.66GHz</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125458Z" creationid="Judy" creationdate="20150802T125458Z">
+        <seg> Intel® Core® Duo，1.66GHz 以上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intergrated pressure foot with adjustable tension tohold down materials under heavy cutpressures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050704Z">
@@ -15969,6 +16033,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153251Z">
         <seg>卓越營運要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125237Z" creationid="Judy" creationdate="20150802T125237Z">
+        <seg>作業系統：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23100,6 +23172,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperatures between 0ºC and -10ºC temporarily lower battery performance,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125220Z" creationid="Judy" creationdate="20150802T125220Z">
+        <seg>•溫度介於 0℃ 和 -10℃ 之間將暫時降低電池效能，可錄影時間將減少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ten</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183152Z">
@@ -29894,6 +29974,39 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windows Vista® Home Basic / Home Premium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125432Z" creationid="Judy" creationdate="20150802T125432Z">
+        <seg>Windows Vista® 家用基本版 / 家用進階版
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows® 7 Home Premium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125349Z" creationid="Judy" creationdate="20150802T125349Z">
+        <seg>Windows® 7 家用進階版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows® 8 / Windows® 8 Pro</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125336Z" creationid="Judy" creationdate="20150802T125336Z">
+        <seg>Windows® 8 / Windows® 8 專業版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows® 8.1 / Windows® 8.1 Pro</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125310Z" creationid="Judy" creationdate="20150802T125310Z">
+        <seg>Windows® 8.1 / Windows® 8.1 專業版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wireless connectivity:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133019Z">
@@ -31184,6 +31297,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>or dust particles can become lodged in moving parts such as the LCD monitor hinge and zoom lever.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125204Z" creationid="Judy" creationdate="20150802T125204Z">
+        <seg>避免於沙子或灰塵環境中使用移動元件如液晶螢幕轉軸和變焦撥桿以防止沙塵堆積於內部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>or its affiliates in the United States and/or other countries.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051301Z">
@@ -31259,6 +31380,14 @@ Sound zooms along with the picture for a perfect match.</seg>
         <seg>property rights.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181620Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reducing the time available for recording.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125224Z" creationid="Judy" creationdate="20150802T125224Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -31732,6 +31861,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082751Z">
         <seg>• 直覺的操作介面，彩色圖形化的圖像可供快速、準確地操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Quad Proof is not a guarantee of protection against damage and malfunction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125228Z" creationid="Judy" creationdate="20150802T125228Z">
+        <seg>四防功能不保證能避免損壞和故障。</seg>
       </tuv>
     </tu>
     <tu>
