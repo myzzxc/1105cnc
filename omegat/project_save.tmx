@@ -376,6 +376,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-10�C Freezeproof
+Take Everio out in the snow or on the slopes � even if you�re freezing, Everio will keep working.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061221Z" creationid="Judy" creationdate="20150802T061221Z">
+        <seg>-10ºC 防凍
+帶著 Everio 到滑雪道上——即使您凍僵了 Everio 仍然能持續運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...the system is not updating when sales are made during the course of a day and it is also not decoding the security tags?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115635Z">
