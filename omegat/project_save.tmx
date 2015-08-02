@@ -3180,6 +3180,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applicable models only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130204Z" creationid="Judy" creationdate="20150802T130204Z">
+        <seg>僅適用特定機型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application Publishing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T012722Z">
@@ -5591,6 +5599,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124921Z" creationid="Judy" creationdate="20150802T124921Z">
         <seg>特寫子視窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close-up Sub-Window*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130213Z" creationid="Judy" creationdate="20150802T130207Z">
+        <seg>特寫子視窗* </seg>
       </tuv>
     </tu>
     <tu>
@@ -8278,6 +8294,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit your video afterwards just like the pros do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130248Z" creationid="Judy" creationdate="20150802T130248Z">
+        <seg>進行專業的影像後製編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit, cut, copy and paste text</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060819Z">
@@ -9413,6 +9437,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060252Z">
         <seg>此篩選器在 6.6 版中已重新設計並最佳化，當物件遺落在設定的區域內時，便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final Cut Pro X</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130239Z" creationid="Judy" creationdate="20150802T130239Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -13771,6 +13803,14 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124438Z" creationid="Judy" creationdate="20150802T124438Z">
         <seg>KONICA MINOLTA HD 高畫質鏡頭
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep an eye on the whole team while getting a special close-up look at your hero.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130211Z" creationid="Judy" creationdate="20150802T130211Z">
+        <seg>觀看完整畫面的同時另外顯示一個主角的特寫鏡頭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19860,6 +19900,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125818Z" creationid="Judy" creationdate="20150802T125818Z">
         <seg>錄影、觀看和分享原生 Full HD 高解析度的畫質影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Records one frame at a time at set intervals for a fast-motion view.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130222Z" creationid="Judy" creationdate="20150802T130222Z">
+        <seg>依照設定時間間隔一次記錄一幀圖像以播放快速運動影像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29980,6 +30028,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When used with a portable battery of over 1.0A, 5V and over 5200mAh.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130122Z" creationid="Judy" creationdate="20150802T130122Z">
+        <seg> 當使用行動電源超過 1.0A、5V 且容量高於 5200mAh。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When using the Arduino 9 Axes Motion Shield, be sure to solder the Interrupt bridge and Reset bridge in the correct position depending on the board used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133034Z">
@@ -30137,6 +30193,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124841Z" creationid="Judy" creationdate="20150802T124736Z">
         <seg>Wi-Fi 無線傳輸功能
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wi-Fi Functions*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130156Z" creationid="Judy" creationdate="20150802T130133Z">
+        <seg>Wi-Fi 無線功能*</seg>
       </tuv>
     </tu>
     <tu>
@@ -30476,6 +30540,15 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055310Z">
         <seg>工作流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Works with iMovie and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130230Z" creationid="Judy" creationdate="20150802T130230Z">
+        <seg>可使用 iMovie 和 Final Cut Pro X 進行後製處理
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -32195,6 +32268,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Live Monitoring and Remote Recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130144Z" creationid="Judy" creationdate="20150802T130144Z">
+        <seg>•現場監看和遙控錄影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Quad Proof is not a guarantee of protection against damage and malfunction.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125228Z" creationid="Judy" creationdate="20150802T125228Z">
@@ -32215,6 +32296,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T110149Z">
         <seg>• 標準支援包括 AXYZ PANELBuilder、EnRoute、ArtCam、Type 3、Mastercam、ProfileLab 以及更多 CAM 套裝軟體之 NC 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Wireless Data Transfer to Smartphone/Tablet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130153Z" creationid="Judy" creationdate="20150802T130153Z">
+        <seg>•無限資料傳輸至智慧型手機 / 平板</seg>
       </tuv>
     </tu>
     <tu>
