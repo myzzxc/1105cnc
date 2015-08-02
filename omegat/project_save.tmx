@@ -3379,6 +3379,16 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Wind Cut
+Original technology reduces wind noises picked up at the microphone, so gusts of wind won�t spoil your soundtrack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T060509Z" creationid="Judy" creationdate="20150802T060509Z">
+        <seg>自動過濾風切聲
+此原創技術能降低麥克風所收錄到的風聲雜訊，以避免破壞收音品質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Zone Switching</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072408Z">
@@ -29419,6 +29429,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With Stabilisation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T060518Z" creationid="Judy" creationdate="20150802T060518Z">
+        <seg>使用穩定器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With Super LoLux</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T055928Z" creationid="Judy" creationdate="20150802T055928Z">
@@ -29551,6 +29569,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140801Z">
         <seg>此紀錄可於物體通過時計算前景像素，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without Stabilisation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T060528Z" creationid="Judy" creationdate="20150802T060528Z">
+        <seg>未使用穩定器</seg>
       </tuv>
     </tu>
     <tu>
