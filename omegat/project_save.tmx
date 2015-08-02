@@ -448,6 +448,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-10ºC Freezeproof</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130007Z" creationid="Judy" creationdate="20150802T130007Z">
+        <seg>-10ºC 防凍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-10�C Freezeproof
 Take Everio out in the snow or on the slopes � even if you�re freezing, Everio will keep working.</seg>
       </tuv>
@@ -681,6 +689,15 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085822Z">
         <seg>2-6 碟型彈簧墊片 2-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.5M Back-illuminated CMOS Image Sensor helps indoor and night scenes look brilliant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125904Z" creationid="Judy" creationdate="20150802T125904Z">
+        <seg>兩百五十萬畫素背照式 CMOS 影像感測器
+讓室內和夜間場景也能有明亮的錄影效果</seg>
       </tuv>
     </tu>
     <tu>
@@ -945,6 +962,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>40x Optical and 60x Dynamic Zoom</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125839Z" creationid="Judy" creationdate="20150802T125839Z">
+        <seg>40x 光學變焦和 60x 動態變焦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>40x Optical and 60x Dynamic Zoom
 Zoom to 40x magnification with full optical quality, then beyond to 60x without sacrificing resolution.</seg>
       </tuv>
@@ -1024,6 +1049,22 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124344Z" creationid="Judy" creationdate="20150802T124344Z">
         <seg>內建五小時長效電池*1
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5H is the approximate time of continuous recording in 50i if the</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130058Z" creationid="Judy" creationdate="20150802T130058Z">
+        <seg>五小時為內建電池完全充滿的條件下，LED 燈（若有配備時）關閉、監看螢幕背光設定為為標準模式、且未使用變焦功能時連續 50i 錄影之約略時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5H*1 Internal Long-Life Battery</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130017Z" creationid="Judy" creationdate="20150802T130017Z">
+        <seg>內建五小時長效電池*1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2327,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional power wherever you are.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130047Z" creationid="Judy" creationdate="20150802T130047Z">
+        <seg>無論您身在何處都能使額外的電源供應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional results of tests performed by the manufacturer shall be permitted to be considered only if the results are statistically equivalent to those of the ITEA.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194411Z">
@@ -3151,6 +3200,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121554Z">
         <seg>施加扭矩、雙側錨固、單側邊緣錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Applied during recording for superior fidelity during playback.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125922Z" creationid="Judy" creationdate="20150802T125922Z">
+        <seg>使用此錄影模式以播放出高傳真的影像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5830,6 +5887,15 @@ Keep an eye on the whole team while getting a special close-up look at your hero
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compatible with Portable Battery*2 and USB Charging</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130037Z" creationid="Judy" creationdate="20150802T130037Z">
+        <seg>相容於行動電源*2 和 USB 充電
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compatible with Portable Battery*2 and USB Charging
 Additional power wherever you are.</seg>
       </tuv>
@@ -6551,6 +6617,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T133018Z">
         <seg>瓦愣紙和塑膠、密封材料、橡膠、軟木、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Count on steady, less jittery images with effective compensation for camera shake.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125942Z" creationid="Judy" creationdate="20150802T125942Z">
+        <seg>藉由高效的攝影機晃動補償而得到更穩定、更少抖動的影像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7863,6 +7937,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dustproof</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125810Z" creationid="Judy" creationdate="20150802T125810Z">
+        <seg>防塵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dustproof
 IP5X certified dustproofing lets you use Everio in some seriously dusty environments without worry.</seg>
       </tuv>
@@ -8435,6 +8517,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124519Z" creationid="Judy" creationdate="20150802T124519Z">
         <seg>增強先進影像穩定器
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enhanced Image Stabilisation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125946Z" creationid="Judy" creationdate="20150802T125946Z">
+        <seg>增強影像穩定器</seg>
       </tuv>
     </tu>
     <tu>
@@ -10160,6 +10250,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033552Z">
         <seg>冰點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full HD 1920x1080 Recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125823Z" creationid="Judy" creationdate="20150802T125823Z">
+        <seg>Full HD 1920x1080 高畫質錄影</seg>
       </tuv>
     </tu>
     <tu>
@@ -13617,6 +13715,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>K2 Technology</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125930Z" creationid="Judy" creationdate="20150802T125917Z">
+        <seg>K2 技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>K2 Technology
 Applied during recording for superior fidelity during playback.</seg>
       </tuv>
@@ -17013,6 +17119,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Original technology reduces wind noises picked up at the microphone, so gusts of wind won’t spoil your soundtrack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125953Z" creationid="Judy" creationdate="20150802T125953Z">
+        <seg>此原創技術能降低麥克風所收錄到的風聲雜訊，以避免破壞收音品質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oscillating Knife</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T030457Z">
@@ -19742,6 +19856,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Record, watch and share high quality video in native Full HD resolution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125818Z" creationid="Judy" creationdate="20150802T125818Z">
+        <seg>錄影、觀看和分享原生 Full HD 高解析度的畫質影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recurrent non-compliance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161523Z">
@@ -21780,6 +21902,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shoot entire events, with no risk of damage by changing the battery in bad weather.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130025Z" creationid="Judy" creationdate="20150802T130025Z">
+        <seg>持續進行攝影，無需冒著風險在惡劣的環境中更換電池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shortcut presentation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115820Z">
@@ -22082,6 +22212,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083910Z">
         <seg>解決方案：為企業用戶提供價格合理且符合其功能需求的 PDF 軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound zooms along with the picture for a perfect match.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125909Z" creationid="Judy" creationdate="20150802T125909Z">
+        <seg>聲音隨畫面放大以達到完美的匹配效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23158,6 +23296,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T054258Z">
         <seg>虛擬閘門：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take Everio out in the snow or on the slopes – even if you’re freezing, Everio will keep working.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130003Z" creationid="Judy" creationdate="20150802T130003Z">
+        <seg>帶著 Everio 到滑雪道上——即使您凍僵了 Everio 仍然能持續運行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30174,6 +30320,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With a tough quad-proof body for protection from bad weather and bad luck, and internal long-life battery for endurance — Everio lets you keep going and keep safe at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125957Z" creationid="Judy" creationdate="20150802T125957Z">
+        <seg>強悍的四防機身能承受惡劣天氣和意外發生，內建長效的電池——Everio 能讓您安心的持續記錄並同時保持攝影機安全。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With a tough quad-proof body for protection from bad weather and bad luck, and internal long-life battery for endurance � Everio lets you keep going and keep safe at the same time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061006Z" creationid="Judy" creationdate="20150802T060828Z">
@@ -30779,12 +30933,28 @@ whether it�s raining or snowing</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zoom Microphone</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125912Z" creationid="Judy" creationdate="20150802T125912Z">
+        <seg>變焦麥克風</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zoom Microphone
 Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T055611Z" creationid="Judy" creationdate="20150802T055611Z">
         <seg>變焦麥克風
 聲音隨畫面放大以達到完美的匹配效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom to 40x magnification with full optical quality, then beyond to 60x without sacrificing resolution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125829Z" creationid="Judy" creationdate="20150802T125829Z">
+        <seg>保有完整的光學品質的 40 倍放大，即使 60 倍變焦也不會降低解析度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31203,6 +31373,22 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064502Z">
         <seg>安裝暫存檔案以及使用者介面語言使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>internal battery has been fully charged, when the LED light (if available)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130105Z" creationid="Judy" creationdate="20150802T130105Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is off, the monitor backlight is set to standard mode, and without the</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130109Z" creationid="Judy" creationdate="20150802T130109Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -31716,6 +31902,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133034Z">
         <seg>使用連接產品與其不同的元件以及其不同生產階段之追蹤系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>use of zoom function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130114Z" creationid="Judy" creationdate="20150802T130114Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
