@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*	Applicable models only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070909Z" creationid="Judy" creationdate="20150802T070848Z">
+        <seg>*僅適用特定機型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* All models include A2MC controller and Artcam Express</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142138Z">
@@ -9730,6 +9738,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132140Z">
         <seg>電路板上具有四個螺絲孔以便安裝於平面上或機箱內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free app available for Android and iOS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070947Z" creationid="Judy" creationdate="20150802T070947Z">
+        <seg>提供 Android 和 iOS 之免費應用程式。</seg>
       </tuv>
     </tu>
     <tu>
