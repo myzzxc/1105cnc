@@ -23856,6 +23856,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Wi-Fi Logo is a certification mark of the Wi-Fi Alliance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T115913Z" creationid="Judy" creationdate="20150801T115913Z">
+        <seg>Wi-Fi 標識為 Wi-Fi 聯盟之認證標章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Wiznet W5500 provides a network (IP) stack capable of both TCP and UDP.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T014825Z">
