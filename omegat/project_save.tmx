@@ -11238,6 +11238,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I trust this will put the matter to rest but please liaise with Jean if further information is required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T145911Z" creationid="CCYU" creationdate="20150819T145911Z">
+        <seg>以上資訊應足以解決您的疑慮，但如須更多詳細資訊，請與 Jean 聯絡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ICC EVALUATION SERVICE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123420Z">
@@ -18650,8 +18658,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Porex conducts the testing to give the customer confidence that the product they buy will pass their own tests.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T145559Z" creationid="CCYU" creationdate="20150819T145559Z">
-        <seg>Porex 進行之測試使客戶對於購買的產品具有信心能通過其自身所進行的測試，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T145953Z" creationid="CCYU" creationdate="20150819T145559Z">
+        <seg>Porex 所進行之測試，使客戶對於購買的產品具有信心能通過其自身所進行的測試，</seg>
       </tuv>
     </tu>
     <tu>
