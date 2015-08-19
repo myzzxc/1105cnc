@@ -27947,6 +27947,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This product has been in production for almost 20 years and had gone through several specification changes as we learn more about the materials and implement new testing equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T144214Z" creationid="CCYU" creationdate="20150819T144214Z">
+        <seg>由於我們對於材料有更多的瞭解和採用新的檢測設，在本產品近 20 年的生產歷史中進行了數項規格變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This quality manual addresses our expectations on the use of this tool.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T145043Z">
