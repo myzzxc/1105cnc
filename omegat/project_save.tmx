@@ -3098,6 +3098,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Andrew Maclennan Managing Director</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T131223Z" creationid="CCYU" creationdate="20150819T131223Z">
+        <seg>總經理 Andrew Maclennan </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another time the model can fail is if the model of the objects pixel looks very similar to the background model:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105514Z">
