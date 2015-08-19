@@ -11173,6 +11173,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, please note that it is always the responsibility of the end user to ensure the part functions appropriately in their end device as conditions and uses differ from the test laboratory conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T145331Z" creationid="CCYU" creationdate="20150819T145331Z">
+        <seg>然而仍請注意，當環境和使用方式異於實驗室測試環境時，確保零件適合用於其末端設備上為最終使用者的責任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, there are several complementary activities that should be monitored if the aim of achieving a good shelf life is to be successfully achieved.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030628Z">
