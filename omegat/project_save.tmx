@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30978,6 +30978,14 @@ whether it�s raining or snowing</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T052748Z" creationid="Judy" creationdate="20150802T052748Z">
         <seg>無論風雨或下雪
 都能留下美好回憶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yours sincerely</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T131159Z" creationid="CCYU" creationdate="20150819T131159Z">
+        <seg>順頌 商祺</seg>
       </tuv>
     </tu>
     <tu>
