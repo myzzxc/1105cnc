@@ -10717,6 +10717,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Groundwater supplies are diminishing, with an estimated 20% of the world’s aquifers currently over-exploited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T143000Z" creationid="CCYU" creationdate="20150820T143000Z">
+        <seg>地下水供應不斷減少，估計目前世界的含水層有 20% 已過度使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Group Policy (GPO), a component of Active Directory, includes a Software Installation snap-in that enables an administrator to create a network installation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T095036Z">
