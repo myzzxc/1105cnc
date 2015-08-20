@@ -7383,6 +7383,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Demand for freshwater is growing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T140849Z" creationid="CCYU" creationdate="20150820T140849Z">
+        <seg>對於乾淨水源的需求正在增加中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the HUTCHINSON site in question, the formalization of the product approval shall be specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T133635Z">
@@ -29006,6 +29014,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T235903Z">
         <seg>除非另有說明，在專案開發、更新或更換供應商階段之設備，為 HUTCHINSON 客戶之財產，若 HUTCHINSON 自身向供應商下訂單時，產權便屬於 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless the balance between demand and finite supplies is restored, the world will face an increasingly severe global water deficit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T140934Z" creationid="CCYU" creationdate="20150820T140934Z">
+        <seg>除非恢復到需求與有限的供給之間的平衡，否則世界將面臨日益嚴重的全球缺水問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsustainable development pathways and governance failures have affected the quality and availability of water resources, compromising their capacity to generate social and economic benefits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T140802Z" creationid="CCYU" creationdate="20150820T140802Z">
+        <seg>非永續發展的途徑和失敗的治理影響了水資源的品質和可用性，降低了社會和經濟利益的產出。</seg>
       </tuv>
     </tu>
     <tu>
