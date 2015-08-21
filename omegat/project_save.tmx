@@ -4746,6 +4746,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By 2050, agriculture will need to produce 60% more food globally, and 100% more in developing countries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T155058Z" creationid="CCYU" creationdate="20150821T155058Z">
+        <seg>2050 年時，全球農業將需要增產 60% 的糧食，而在發展中國家，將需要增產超過 100% 的糧食。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By 2050, global water demand is projected to increase by 55%, mainly due to growing demands from manufacturing, thermal electricity generation and domestic use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T141258Z" creationid="CCYU" creationdate="20150820T141258Z">
@@ -13710,6 +13718,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134424Z">
         <seg>此模組與Arduino Uno和Mega相容（使用乙太網路程式館）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is however possible to improve performance of urban water supply systems while continuing to expand the system and addressing the needs of the poor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T154928Z" creationid="CCYU" creationdate="20150821T154928Z">
+        <seg>然而同時改善城市供水系統，並繼續擴大供水系統且解決窮人的需求是可能實現的。 </seg>
       </tuv>
     </tu>
     <tu>
