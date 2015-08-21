@@ -2408,6 +2408,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adoption of ‘ecosystem-based management’ is key to ensuring water long-term sustainability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T135348Z" creationid="CCYU" creationdate="20150821T135348Z">
+        <seg>採用「基於生態系統的管理」為確保水資源長期永續性的關鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020726Z">
@@ -29717,8 +29725,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Valuation is also important in assessing trade-offs in ecosystem conservation, and can be used to better inform development plans.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T135037Z" creationid="CCYU" creationdate="20150821T135037Z">
-        <seg>評估對於生態系統保育的取捨也相當重要，而且可以用來更好地瞭解發展計畫。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T135227Z" creationid="CCYU" creationdate="20150821T135037Z">
+        <seg>價值評估對於生態系統保育的取捨也相當重要，而且可提供發展計畫更好的參考。</seg>
       </tuv>
     </tu>
     <tu>
