@@ -28107,6 +28107,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This often means more income opportunities to enhance expenditure in health and education, reinforcing a selfsustained dynamic of economic development.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T132557Z" creationid="CCYU" creationdate="20150821T132557Z">
+        <seg>此舉通常能帶來更多收入的機會，以提昇衛生及教育、強化經濟發展自給能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This option gives you the opportunity to create a transform file (.mst) based on the differences between the open package and the modifications set by yourself.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T020740Z">
