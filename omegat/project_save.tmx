@@ -2544,6 +2544,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Agricultural water pollution, which may worsen with increased intensive agriculture, can be reduced through a combination of instruments, including more stringent regulation, enforcement and well-targeted subsidies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T155636Z" creationid="CCYU" creationdate="20150821T155636Z">
+        <seg>隨著集約型農業的發展，農業用水的污染問題會日益嚴重。此問題可以藉由一系列的措施舒緩，例如更嚴格的監管、執法和具有針對性的補貼政策等。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air Flow Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090743Z">
@@ -8660,6 +8668,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045223Z">
         <seg>使用記錄管理協定使用戶檔案符合規範
 使用者可以直接從 File （檔案）功能表或於 Portfolio （文件夾）模式中輕鬆地開啟或儲存 PDF 檔案至企業文件管理系統 —— 提供更快、更簡便的存取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Energy production is generally water-intensive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T155756Z" creationid="CCYU" creationdate="20150821T155756Z">
+        <seg>通常產生能源的耗水量相當大，</seg>
       </tuv>
     </tu>
     <tu>
