@@ -12657,8 +12657,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In a sustainable world that is achievable in the near future, water and related resources are managed in support of human well-being and ecosystem integrity in a robust economy.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T132848Z" creationid="CCYU" creationdate="20150820T132848Z">
-        <seg>在不久的將來能於永續的世界中實現的願景是：對水和相關的資源進行管理以達到人類福祉和在強健的經濟中維持生態系統的完整性。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T133310Z" creationid="CCYU" creationdate="20150820T132848Z">
+        <seg>在不久的將來，能於永續的世界中實現的願景是：對水和相關的資源進行管理以達到人類福祉和在強健的經濟中維持生態系統的完整性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26956,6 +26956,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The principle of equity, perhaps more than any technical recommendation, carries with it the promise of a more water-secure world for all.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T133201Z" creationid="CCYU" creationdate="20150822T133201Z">
+        <seg>平等原則或許比任何技術建議更能保證人人均能享有一個水資源更有保障的世界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The probative delivery status shall be used in case of non-compliant products.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121714Z">
@@ -30391,8 +30399,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Vision 2050: Water in a sustainable world</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T132408Z" creationid="CCYU" creationdate="20150820T132408Z">
-        <seg>2050 願景：永續發展世界中的水</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T133243Z" creationid="CCYU" creationdate="20150820T132408Z">
+        <seg>展望 2050：永續發展世界中的水</seg>
       </tuv>
     </tu>
     <tu>
@@ -30567,8 +30575,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Water is at the core of sustainable development.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T131415Z" creationid="CCYU" creationdate="20150820T131415Z">
-        <seg>水是永續發展的核心元素，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T133214Z" creationid="CCYU" creationdate="20150820T131415Z">
+        <seg>水是永續發展的核心，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30607,8 +30615,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Water resources management, infrastructure and service delivery are sustainably financed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T133628Z" creationid="CCYU" creationdate="20150820T133628Z">
-        <seg>水資源管理、基礎設施和服務供給的資金也能維持永續經營。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T133509Z" creationid="CCYU" creationdate="20150820T133628Z">
+        <seg>人類以永續的方式進行水資源管理、基礎設施建設與服務注入資金。</seg>
       </tuv>
     </tu>
     <tu>
