@@ -6997,6 +6997,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current projections show that crucial changes in the temporal and　spatial distributing of water resources and the frequency and intensity of water-related disasters rise significantly with increasing greenhouse gas emissions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T082831Z" creationid="CCYU" creationdate="20150822T082831Z">
+        <seg>當前的預測顯示，水資源分佈時空的重要變化以及水災所發生的頻率和強度，隨溫室氣體排放量增長而顯著增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom Installation Deployment Kit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020624Z">
@@ -9130,6 +9138,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140439Z">
         <seg>執行摘要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exploitation of new data sources, better models and more powerful data analysis methods, as well as the design of adaptive management strategies can help respond effectively to changing and uncertain conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T082946Z" creationid="CCYU" creationdate="20150822T082946Z">
+        <seg>新數據來源的開發、更好的模型和更強大的數據分析方法，以及適應性管理策略的設計，都能有效應對不斷變化的不確定的條件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20573,6 +20589,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133313Z">
         <seg>真空抽氣使用之再生鼓風機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regional perspectives</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T083009Z" creationid="CCYU" creationdate="20150822T083009Z">
+        <seg>區域觀點</seg>
       </tuv>
     </tu>
     <tu>
