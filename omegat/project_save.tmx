@@ -11854,6 +11854,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IWRM is based on a sound and systematic knowledge of the resource, both surface and groundwater, and of its current state.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T083109Z" creationid="CCYU" creationdate="20150823T083056Z">
+        <seg>整合水資源管理是根據地表水和地下水其當前狀態的健全和系統化的知識，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Id</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181659Z">
@@ -14271,6 +14279,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135143Z">
         <seg>其支援經由GPRS連線之TCP/UDP和HTTP通訊協定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports effective and adaptive decision-making across a broad policy spectrum, including agriculture and food security, energy, industry, financing, environmental protection, public health and public security.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T083332Z" creationid="CCYU" creationdate="20150823T083108Z">
+        <seg>它支援廣泛的政策範圍，其中包括農業和糧食安全、能源、工業、財務、環境保護、 公共衛生和公共安全，能有效並適當調整決策。</seg>
       </tuv>
     </tu>
     <tu>
