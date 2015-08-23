@@ -24309,6 +24309,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Technological innovation allows for reduced water consumption, such as through waterless sanitation infrastructure that provides energy and products from human excreta and eliminates pollution to precious freshwater resources.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T064609Z" creationid="CCYU" creationdate="20150823T064609Z">
+        <seg>技術創新能使水的消耗減少，例如透過無水下水道基礎設施從人類排泄物提供能源和產品並消除對珍貴淡水資源的污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tel:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T143412Z" creationid="CCYU" creationdate="20150819T143412Z">
@@ -27915,6 +27923,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141652Z">
         <seg>擴充模組板上有兩個小按鈕，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a balance between extracted water and water returned to aquatic ecosystems and aquifers, ensuring their long-term sustainability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T064748Z" creationid="CCYU" creationdate="20150823T064748Z">
+        <seg>抽取的水資源與水循環回到水生態系統和含水層之間達到一個平衡，以確保其長期永續性的平衡。</seg>
       </tuv>
     </tu>
     <tu>
