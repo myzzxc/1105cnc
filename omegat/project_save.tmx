@@ -7736,6 +7736,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Despite massive reductions in greenhouse gas emissions GHG emissions worldwide, impacts from such　extreme events are still increasing as a result of decades of human-induced climate change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T115723Z" creationid="CCYU" creationdate="20150823T115723Z">
+        <seg>儘管世界中的溫室氣體排放量大幅減少，此類極端事件的影響仍因數十年來人類所引起的氣候變化而增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destination folder: you can choose the default installation value or Browse to select a different location.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051240Z">
@@ -24012,6 +24020,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142620Z">
         <seg>支援 JavaScript 子集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surface and groundwater, conjunctively managed, are at the centre of climate adaptation strategies, and improved and expanded water storage capacities create buffers for periods of water shortages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T115958Z" creationid="CCYU" creationdate="20150823T115958Z">
+        <seg>氣候調適策略首重地面水和地下水的結合管理，並改善和擴大儲水能力以建立缺水期的緩衝。</seg>
       </tuv>
     </tu>
     <tu>
