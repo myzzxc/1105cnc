@@ -6259,6 +6259,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complexity costs were evaluated using ValueMap™ quantifying the bottom-line benefits of modularity within MTS’s value stream.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T160440Z">
+        <seg>利用 ValueMap™ 來量化模塊化的收益底線符合 MTS 的考量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compliance checking</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132018Z">
