@@ -1385,6 +1385,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A modularization program was formulated that would accomplish MTS’s strategy and provide a business case to support the investment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T160100Z">
+        <seg>模塊化程式的制定能達成 MTS 的策略，並提供一個商業案例來以支援投資。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A more holistic focus on ecosystems for water and development that maintains a beneficial mix between built and natural infrastructure can ensure that benefits are maximized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T134404Z">
@@ -10688,8 +10696,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Formulate</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T155409Z">
-        <seg>整合</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T155949Z">
+        <seg>制定</seg>
       </tuv>
     </tu>
     <tu>
