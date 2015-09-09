@@ -10686,6 +10686,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formulate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T155409Z">
+        <seg>整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Four screw holes allow the board to be attached to a surface or case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132140Z">
@@ -28626,9 +28634,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>They strived to leverage a range of product offerings within a unified product family and significantly increase the efficiency of operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T154934Z">
-        <seg>
-他們努力地利用在一個統一的產品家族中的產品範圍和顯著提高運作的效率。
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T155301Z">
+        <seg>他們盡力在統合產品家族中提供各式產品，並因而顯著地提高營運的效率。
 </seg>
       </tuv>
     </tu>
