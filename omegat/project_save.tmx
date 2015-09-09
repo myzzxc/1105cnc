@@ -1433,6 +1433,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A program plan addressed the creation, implementation and governance of the various product offerings within consecutive waves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T160739Z">
+        <seg>規劃書中闡明了同一系列中各種產品的創建、執行和管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A properly configured shield can read the IOREF pin voltage and select the appropriate power source or enable voltage translators on the outputs for working with the 5V or 3.3V.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124835Z">
@@ -6945,6 +6953,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140433Z">
         <seg>計數分析（人、物件、汽車）為純統計資料，不能完全代表真實數據，因此僅能作為統計資料使用。我們 不建議於商店、賣場內或人潮擁擠的入口處使用人頭計數功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T160747Z">
+        <seg>創建</seg>
       </tuv>
     </tu>
     <tu>
