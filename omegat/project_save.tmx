@@ -2792,6 +2792,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of this is done in a structured and coherent way so that your engineers will know exactly what to do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134104Z" creationid="Judy" creationdate="20150910T134104Z">
+        <seg>所有工作都是以結構化和一致的方式完成，如此能使工程師明確了解工作內容，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All other brand and product names are trademarks or registered trademarks of their respective companies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051318Z">
@@ -14116,9 +14124,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It also holds the technical solutions that comprise the product, specifications on modules, interfaces and the configuration rules for your products.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133450Z" creationid="Judy" creationdate="20150910T133450Z">
-        <seg>
-It also holds the technical solutions that comprise the product, specifications on modules, interfaces and the configuration rules for your products.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133932Z" creationid="Judy" creationdate="20150910T133450Z">
+        <seg>此軟體還具有包含了您的產品、模塊規格、接口和產品配置規則的技術解決方案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27939,6 +27946,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052613Z">
         <seg>其連續噴出之微潤滑油霧提供更好的切削表面和更長的刀具壽命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134116Z" creationid="Judy" creationdate="20150910T134116Z">
+        <seg>成效？</seg>
       </tuv>
     </tu>
     <tu>
