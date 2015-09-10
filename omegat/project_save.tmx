@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1387,8 +1387,8 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       <tuv lang="EN-US">
         <seg>A modularization program was formulated that would accomplish MTS’s strategy and provide a business case to support the investment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T160100Z">
-        <seg>模塊化程式的制定能達成 MTS 的策略，並提供一個商業案例來以支援投資。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T014620Z">
+        <seg>模塊化計畫的制定能達成 MTS 的策略，並提供一個商業案例來以支持其投資。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11617,6 +11617,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T041451Z">
         <seg>修補程式應另行安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How MM works</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T014500Z" creationid="Judy" creationdate="20150910T014500Z">
+        <seg>模塊化管理的運作方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -28674,8 +28682,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>They strived to leverage a range of product offerings within a unified product family and significantly increase the efficiency of operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150909T155301Z">
-        <seg>他們盡力在統合產品家族中提供各式產品，並因而顯著地提高營運的效率。
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T014448Z">
+        <seg>他們盡力在統合的產品家族中提供各式產品，並因而顯著地提高營運的效率。
 </seg>
       </tuv>
     </tu>
