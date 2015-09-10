@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16077,6 +16077,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153029Z">
         <seg>變更管理要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modular Transformation™ established needed changes for a new way of working to ensure the benefits of modularity would be a lasting and profitable foundation for MTS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115301Z" creationid="Judy" creationdate="20150910T115301Z">
+        <seg>模塊化轉型™ (Modular Transformation™ ) 建立新作業方式所需的變更，以確保模塊化的效益能長久並成為 MTS 的盈利基礎。</seg>
       </tuv>
     </tu>
     <tu>
