@@ -14114,6 +14114,15 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also holds the technical solutions that comprise the product, specifications on modules, interfaces and the configuration rules for your products.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133450Z" creationid="Judy" creationdate="20150910T133450Z">
+        <seg>
+It also holds the technical solutions that comprise the product, specifications on modules, interfaces and the configuration rules for your products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also provides the sensor fusion signals such as</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125919Z">
@@ -16157,6 +16166,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115301Z" creationid="Judy" creationdate="20150910T115301Z">
         <seg>模塊化轉型™ (Modular Transformation™ ) 建立新作業方式所需的變更，以確保模塊化的效益能長久並成為 MTS 的盈利基礎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modularity can take years to implement because of poorly managed information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133327Z" creationid="Judy" creationdate="20150910T133327Z">
+        <seg>若資訊管理不善，模塊化可能需要多年才能執行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18452,6 +18469,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T130325Z" creationid="Judy" creationdate="20150910T130325Z">
         <seg>模塊化管理 PALMA™ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PALMA™ provides a holistic and detailed view of customer needs as well as the product properties that meet them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133453Z" creationid="Judy" creationdate="20150910T133445Z">
+        <seg>PALMA™ 提供依客戶需求的全面和詳細視圖以及滿足客戶的產品屬性。</seg>
       </tuv>
     </tu>
     <tu>
