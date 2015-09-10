@@ -14130,6 +14130,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows you to easily trace product and design decisions back to strategy to ensure a lasting product foundation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T141035Z" creationid="Judy" creationdate="20150910T141035Z">
+        <seg>它能輕鬆地追蹤產品和設計決策以維持和策略同調，確保長久的產品基礎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also has 2.5 KB of SRAM and 1 KB of EEPROM (which can be read and written with the EEPROM library).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125213Z">
