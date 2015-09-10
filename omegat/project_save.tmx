@@ -27348,6 +27348,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lifecycle of your product platform runs well over a decade.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T140456Z" creationid="Judy" creationdate="20150910T140456Z">
+        <seg>產品平台的生命週期能良好運作數十年，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The list of available connectors is displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T091117Z">
