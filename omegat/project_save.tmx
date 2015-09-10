@@ -6500,6 +6500,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuring a product offering for your customer requires understanding and managing information from many sources.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134918Z" creationid="Judy" creationdate="20150910T134910Z">
+        <seg>配置依客戶要求的產品，需要了解和管理來自多種來源的資訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080308Z">
@@ -14174,6 +14182,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141613Z">
         <seg>可於 Microsoft 網站下載：http://www.microsoft.com/en-us/download/details.aspx?id=17851 或使用 Power PDF 安裝媒體中 Prerequisites 資料夾內的程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be time consuming to get to the right data, resulting in a lengthy and error-prone process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T135033Z" creationid="Judy" creationdate="20150910T134920Z">
+        <seg>取得正確的資料可能會很耗費時間，從而導致冗長而且容易出錯的程序。</seg>
       </tuv>
     </tu>
     <tu>
