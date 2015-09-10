@@ -18440,6 +18440,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PALMA™ provides one billboard where all critical product information is captured and made accessible in real time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132552Z" creationid="Judy" creationdate="20150910T132552Z">
+        <seg>PALMA™ 提供了能即時取得所有重要產品資訊的看板，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PANELBUILDER 2D &amp; True Nesting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134417Z">
@@ -29439,9 +29447,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This often leads to sending spreadsheets, manuals and other documents – many of them outdated - back and forth between different departments.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132306Z" creationid="Judy" creationdate="20150910T132306Z">
-        <seg>
-這常常導致發送試算表、 手冊和其他檔 — — 許多他們過時-來回不同部門之間。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132430Z" creationid="Judy" creationdate="20150910T132306Z">
+        <seg>通常發送試算表、 手冊和其它檔案來回不同部門之間時，會有許多資料已過時。</seg>
       </tuv>
     </tu>
     <tu>
