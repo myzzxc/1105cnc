@@ -16057,6 +16057,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module Design™ was used to implement standardized interfaces while managing development streams, priorities and module requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034253Z" creationid="Judy" creationdate="20150910T034253Z">
+        <seg>設計模塊™ (Module Design™) 用於執行標準化的接口，同時管理開發流、優先事項和模塊的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module Finance™ supplied a model that balanced the direct and indirect cost implications of each architecture decision and the tools to analyze the profitability of the modular system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033403Z" creationid="Judy" creationdate="20150910T033403Z">
@@ -32198,6 +32206,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084611Z">
         <seg>物理感測器需要在車輛行經的路線上使用紅外感測器或電磁感測器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With these enabling concepts, MTS’s approach to documentation was reimagined with process and tools and applied to the existing CAD/PDM systems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034832Z" creationid="Judy" creationdate="20150910T034832Z">
+        <seg>利用這些實用的概念，MTS 藉由程序和工具重新定義其建檔方法，並將此方法應用於現有的 CAD/PDM 系統中。</seg>
       </tuv>
     </tu>
     <tu>
