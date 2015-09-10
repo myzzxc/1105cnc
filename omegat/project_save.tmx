@@ -29705,6 +29705,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To continuously ensure the right product offering, both during and after a modularization program, Modular Management offers PALMA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120142Z" creationid="Judy" creationdate="20150910T120142Z">
+        <seg>為了確保不斷提供正確的產品，模塊化計劃期間和結束之後，模塊化管理提供了產品架構生命週期管理軟體 (PALMA®)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To disallow user to change these add DisableUserServerConfig DWORD value 1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053855Z">
