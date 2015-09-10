@@ -2800,6 +2800,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of this means that your modularity implementation could take months instead of years.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134618Z" creationid="Judy" creationdate="20150910T134618Z">
+        <seg>一切的功能都能使您的模塊化於幾個月內執行，而不用花上數年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All other brand and product names are trademarks or registered trademarks of their respective companies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051318Z">
@@ -21766,6 +21774,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121304Z">
         <seg>HUTCHINSON 所訂定之交貨“期間”為供應商必須遵守的基本要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respond quickly to customer requests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134649Z" creationid="Judy" creationdate="20150910T134649Z">
+        <seg>快速回應客戶要求</seg>
       </tuv>
     </tu>
     <tu>
