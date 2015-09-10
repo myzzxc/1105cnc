@@ -18528,6 +18528,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PALMA™’s unique Configuration Intent manage the logic of the product, it’s translated automatically in to configuration logic to be executed by the built-in configurator so that configurability of your product offerings can be analyzed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T135439Z" creationid="Judy" creationdate="20150910T135439Z">
+        <seg>PALMA™ 的獨特配置目標功能可以管理產品的邏輯，藉由內建配置器自動轉換將執行的配置邏輯，以便可以分析您的產品的可配置性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PANELBUILDER 2D &amp; True Nesting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134417Z">
