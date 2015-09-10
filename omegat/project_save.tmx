@@ -11173,6 +11173,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Govern</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T040040Z" creationid="Judy" creationdate="20150910T040040Z">
+        <seg>管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Governance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T085742Z">
@@ -15370,6 +15378,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T140507Z">
         <seg>售價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MTS began to manufacture and maintain a product families with dramatically fewer unique part numbers while greatly decreasing lead times and inventory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T040012Z" creationid="Judy" creationdate="20150910T040012Z">
+        <seg>MTS 製造和維護產品家族時，開始大量減少特殊零件數量，並同時大幅降低交貨時間和庫存。</seg>
       </tuv>
     </tu>
     <tu>
