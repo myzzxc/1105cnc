@@ -7365,6 +7365,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cut implementation time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133230Z" creationid="Judy" creationdate="20150910T133230Z">
+        <seg>縮短執行時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cutting Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T133339Z">
@@ -32932,6 +32940,14 @@ whether it�s raining or snowing</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T052748Z">
         <seg>無論風雨或下雪
 都能留下美好回憶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your staff can work with the same information in real time which means they can specify, share and review product and technical requirements in one common format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133215Z" creationid="Judy" creationdate="20150910T133215Z">
+        <seg>您的員工可以使用即時更新的相同資訊，他們能以一種共同格式指明、分享和審查產品和技術要求，。</seg>
       </tuv>
     </tu>
     <tu>
