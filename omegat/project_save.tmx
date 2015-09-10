@@ -10534,6 +10534,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For further reading about PALMA®, please click here…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120427Z" creationid="Judy" creationdate="20150910T120427Z">
+        <seg>請點擊此處⋯⋯以便進一步了解 PALMA®</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052107Z">
@@ -11649,6 +11657,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T014500Z" creationid="Judy" creationdate="20150910T014500Z">
         <seg>模塊化管理的運作方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How Modular Management worked at MTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120531Z" creationid="Judy" creationdate="20150910T120531Z">
+        <seg>模塊化管理如何在 MTS 運作</seg>
       </tuv>
     </tu>
     <tu>
@@ -29409,6 +29425,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T144214Z">
         <seg>由於我們對於材料有更多的瞭解和採用新的檢測設，在本產品近 20 年的生產歷史中進行了數項規格變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This proprietary software supports the multiple work streams in each phase and manages all of the data that is created.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120312Z" creationid="Judy" creationdate="20150910T120312Z">
+        <seg>這套專用軟體於每個階段中支援多個工作流並能管理所有創建的資料。</seg>
       </tuv>
     </tu>
     <tu>
