@@ -16049,6 +16049,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module Finance™ supplied a model that balanced the direct and indirect cost implications of each architecture decision and the tools to analyze the profitability of the modular system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033403Z" creationid="Judy" creationdate="20150910T033403Z">
+        <seg>財務模塊™ (Module Finance™) 提供了每個架構決策所涉的直接和間接成本的平衡模型和分析模塊化系統盈利能力的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More Automated</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071902Z">
