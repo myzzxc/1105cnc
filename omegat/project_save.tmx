@@ -16482,6 +16482,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New roles, such as Chief Architect and Module System Product Manager, were created with the mandate to sustain and leverage the architecture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115755Z" creationid="Judy" creationdate="20150910T115755Z">
+        <seg>為了維持和利用架構，創造出了首席架構師和模塊系統產品經理等新的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Newer versions of the board will turn the modem on automatically.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142052Z">
@@ -20402,6 +20410,14 @@ PrimeSource 建築產品</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050257Z">
         <seg>Product
 產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product Architecture Life Cycle Management Software (PALMA®)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115923Z" creationid="Judy" creationdate="20150910T115923Z">
+        <seg>產品架構生命週期管理軟體 (Product Architecture Life Cycle Management Software, PALMA®)</seg>
       </tuv>
     </tu>
     <tu>
