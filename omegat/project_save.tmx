@@ -29738,6 +29738,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To make the modular architecture actionable, MTS’s inbound, outbound and production value streams were newly envisioned using Module Supply Chain Study.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033839Z" creationid="Judy" creationdate="20150910T033839Z">
+        <seg>為了操作模塊化產品架構，MTS 的進貨、出貨和生產價值流利用模塊化供應鏈研究進行全新的預測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To medical record review and collaboration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143522Z">
