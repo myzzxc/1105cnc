@@ -12703,6 +12703,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Implement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034130Z" creationid="Judy" creationdate="20150910T034130Z">
+        <seg>執行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Implementation and enforcement of water use regulation, in combination with development and adoption of waterefficient manufacturing processes, has limited the water demand for industry, prompting economic development.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T072623Z">
@@ -19276,6 +19284,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T130942Z">
         <seg>計劃、準備與協調應對，包括氾濫平原管理、早期預警系統和公眾風險意識提高等，都會大幅提升各個社區的適應能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plans were established for each module along with the system requirements to deliver them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034114Z" creationid="Judy" creationdate="20150910T034114Z">
+        <seg>每個模塊根據各個系統要求建立了規畫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29740,8 +29756,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To make the modular architecture actionable, MTS’s inbound, outbound and production value streams were newly envisioned using Module Supply Chain Study.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033839Z" creationid="Judy" creationdate="20150910T033839Z">
-        <seg>為了操作模塊化產品架構，MTS 的進貨、出貨和生產價值流利用模塊化供應鏈研究進行全新的預測。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033944Z" creationid="Judy" creationdate="20150910T033839Z">
+        <seg>為了操作模塊化產品架構，MTS 的進貨、出貨和生產價值流利用供應鏈研究模塊 (Module Supply Chain Study) 進行全新的預測。</seg>
       </tuv>
     </tu>
     <tu>
