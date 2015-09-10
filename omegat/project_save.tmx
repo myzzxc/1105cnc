@@ -15102,6 +15102,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like any other product development project, a successful modularization project involves a cross-functional commitment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132309Z" creationid="Judy" creationdate="20150910T132248Z">
+        <seg>如同其它的產品開發專案，一個成功的模塊化專案包含了各種功能的整合，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like in a single license the client receives various analytics, he can also choose the desired analytics and run on the specified camera, and you can still run at the same time several analytics on the same camera, except the capture of the face, left objects and missing objects that should run separated with another configuration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135856Z">
@@ -29425,6 +29433,15 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T141709Z">
         <seg>例如兩人牽手經過攝影機，或以其他方式相連在一起的情況下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This often leads to sending spreadsheets, manuals and other documents – many of them outdated - back and forth between different departments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132306Z" creationid="Judy" creationdate="20150910T132306Z">
+        <seg>
+這常常導致發送試算表、 手冊和其他檔 — — 許多他們過時-來回不同部門之間。</seg>
       </tuv>
     </tu>
     <tu>
