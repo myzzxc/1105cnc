@@ -3218,6 +3218,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An optimized Modular Product Architecture was created using Modular Function Deployment® (MFD®), and this architecture was populated with the Module Variants and rules needed to configure the full range of products.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033026Z" creationid="Judy" creationdate="20150910T032924Z">
+        <seg>利用模塊功能展開 (Modular Function Deployment®, MFD ®) 建立了最佳化的模塊化產品架構 ( Modular Product Architecture)，此架構中結合了模塊變數和設置全線產品所需的規則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analog Input Pins</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053141Z">
