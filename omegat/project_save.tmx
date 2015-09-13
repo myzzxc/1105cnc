@@ -512,6 +512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*The research institute for Sweden’s engineering industry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115248Z" creationid="Judy" creationdate="20150913T115248Z">
+        <seg>* 瑞典工程業的研究機構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Nuance PDF Customer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131813Z">
@@ -2796,6 +2804,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T084127Z">
         <seg>Albrighton Business Park, Newport Road, Albrighton, Wolverhampton, England WV7 3ET 電話： +44 190 237 6382 傳真： +44 190 237 5662 電子信箱： enquiries@axyz.com 網址： www.axyz.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alex von Yxkull, Founder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115206Z" creationid="Judy" creationdate="20150913T115206Z">
+        <seg>創辦人 Alex von Yxkull</seg>
       </tuv>
     </tu>
     <tu>
@@ -19160,6 +19176,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Option 1;  can also be shortened by removing “Modular Management can help you ..”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115429Z" creationid="Judy" creationdate="20150913T115429Z">
+        <seg>選項 1；也能刪除「模塊化管理能協助你⋯⋯」來簡化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Option 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115443Z" creationid="Judy" creationdate="20150913T115443Z">
+        <seg>選項 2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optional test, see Section 8.13.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193710Z">
@@ -33474,6 +33506,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052310Z" creationid="Judy" creationdate="20150913T052310Z">
         <seg>我們將協助您重新設計供應鏈以達到一個具有彈性的製造系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’re continuously challenged to improve and develop more methods and tools that make modularization faster, safer and more effective.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115155Z" creationid="Judy" creationdate="20150913T115155Z">
+        <seg>我們能不斷挑戰以改進並開發更多的方法和工具，使模塊化更快速、更安全且更有效率。</seg>
       </tuv>
     </tu>
     <tu>
