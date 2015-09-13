@@ -7253,6 +7253,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Critical information won’t leave your organization when staff members do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T021237Z" creationid="Judy" creationdate="20150913T021237Z">
+        <seg>員工處理資料時，關鍵資訊不會離開您的組織。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curing time at standard, minimum and maximum temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121837Z">
