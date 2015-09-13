@@ -7437,6 +7437,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cut operations costs by 15%</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025639Z" creationid="Judy" creationdate="20150913T025612Z">
+        <seg>降低 15% 的營運成本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cutting Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T133339Z">
@@ -7731,6 +7739,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081752Z">
         <seg>桌面高度 (h2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decrease time to market by 25%</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025535Z" creationid="Judy" creationdate="20150913T025535Z">
+        <seg>減少 25% 導入市場的時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -21297,6 +21313,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about our success with Trane here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025457Z" creationid="Judy" creationdate="20150913T025457Z">
+        <seg>請參考我們在 Trane 公司的成功案例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read document aloud—Text-to-speech capability</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T063050Z">
@@ -21509,6 +21533,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T135738Z">
         <seg>紅線標註 / 標示劃記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduce part number count by 58%</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025619Z" creationid="Judy" creationdate="20150913T025606Z">
+        <seg>降低 58% 的零件數量</seg>
       </tuv>
     </tu>
     <tu>
