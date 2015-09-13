@@ -7693,6 +7693,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data may be duplicated or outdated as it’s passed around from person to person.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023125Z" creationid="Judy" creationdate="20150913T023125Z">
+        <seg>當資料傳遞時，資料有可能重複或已經過時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142145Z">
@@ -23075,6 +23083,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T062523Z">
         <seg>透過電子郵件傳送 PDF 檔案至傳真機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sending information back and forth between different departments often results in wasted time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023054Z" creationid="Judy" creationdate="20150913T023054Z">
+        <seg>不同部門之間來回發送資訊經常造成時間的浪費，</seg>
       </tuv>
     </tu>
     <tu>
