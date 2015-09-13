@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Our Expertise)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T074008Z" creationid="Judy" creationdate="20150913T074008Z">
+        <seg>(我們的專長)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Please refer to Table 3.0 for the necessary requirements)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081555Z">
@@ -16809,6 +16817,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular Management can show you how to arrive at a new product design that lets you evolve with the market needs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073821Z" creationid="Judy" creationdate="20150913T073821Z">
+        <seg>模塊化管理可以展現出如何讓您隨市場需求推出新的產品設計，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Management has a solid track record of implementing product platform design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031114Z" creationid="Judy" creationdate="20150913T031114Z">
@@ -19186,8 +19202,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our Expertise</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030151Z" creationid="Judy" creationdate="20150913T030151Z">
-        <seg>我們的專業</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T074014Z" creationid="Judy" creationdate="20150913T030151Z">
+        <seg>我們的專長</seg>
       </tuv>
     </tu>
     <tu>
@@ -32938,6 +32954,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030242Z" creationid="Judy" creationdate="20150913T030242Z">
         <seg>我們每天都在建立模塊化產品架構，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We do this by using the process of Modular Function Deployment®, a cross functional product design approach, which starts and ends with your customer requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073947Z" creationid="Judy" creationdate="20150913T073947Z">
+        <seg>我們利用模塊功能展開®中的程序，這是一種完全跟隨您的客戶要求的跨功能產品設計方法。</seg>
       </tuv>
     </tu>
     <tu>
