@@ -5242,6 +5242,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capture all critical data on one billboard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022331Z" creationid="Judy" creationdate="20150913T022331Z">
+        <seg>截取看板上的所有關鍵資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Care must also be taken during the evisceration process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T042939Z">
@@ -18568,6 +18576,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PALMA™ lets you:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022316Z" creationid="Judy" creationdate="20150913T022316Z">
+        <seg>PALMA™ 能夠：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PALMA™ provides a holistic and detailed view of customer needs as well as the product properties that meet them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133453Z" creationid="Judy" creationdate="20150910T133445Z">
@@ -23347,6 +23363,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142617Z">
         <seg>電路板底部有許多數據機的針腳，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Share information in real time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022336Z" creationid="Judy" creationdate="20150913T022336Z">
+        <seg>即時共用資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -31032,6 +31056,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020903Z">
         <seg>使用雲端協作服務儲存和共用資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using one single repository, you can create and manage your product platforms over their entire lifecycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022258Z" creationid="Judy" creationdate="20150913T022258Z">
+        <seg>使用單一的檔案庫，可以在其整個產品生命週期中建立和管理產品平台。</seg>
       </tuv>
     </tu>
     <tu>
