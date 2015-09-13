@@ -6516,6 +6516,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure your product offerings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022417Z" creationid="Judy" creationdate="20150913T022417Z">
+        <seg>配置產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuring a product offering for your customer requires understanding and managing information from many sources.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134918Z" creationid="Judy" creationdate="20150910T134910Z">
@@ -30318,6 +30326,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121538Z">
         <seg>扭矩測試‡‡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trace decisions back to your strategy</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022523Z" creationid="Judy" creationdate="20150913T022523Z">
+        <seg>依照策略追蹤決策</seg>
       </tuv>
     </tu>
     <tu>
