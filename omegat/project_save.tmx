@@ -12502,6 +12502,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I added this (keyword).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120840Z" creationid="Judy" creationdate="20150913T120840Z">
+        <seg>我補充這個（關鍵字）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I think it’s enough with the actual contact information.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120322Z" creationid="Judy" creationdate="20150913T120322Z">
@@ -19212,6 +19220,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193710Z">
         <seg>非必要測試，請見8.13節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional, but I think you need a call-to-action to push the reader to read on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120619Z" creationid="Judy" creationdate="20150913T120619Z">
+        <seg>選擇性內容，但我認為需要一個號召動作以促使讀者繼續閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31265,6 +31281,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181120Z">
         <seg>這份問卷應每年進行修改一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This quote or another is maybe more effective if pulled out and put in a ’pratbubbel’ ?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120817Z" creationid="Judy" creationdate="20150913T120817Z">
+        <seg>這句話或另一句如果去除並加入「pratbubbel」也許更有效？</seg>
       </tuv>
     </tu>
     <tu>
