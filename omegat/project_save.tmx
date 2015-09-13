@@ -16273,6 +16273,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular Management can help you reduce development time, expand product assortment and reduce product cost – all at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025309Z" creationid="Judy" creationdate="20150913T025309Z">
+        <seg>模塊化管理能同時減少開發時間、擴大產品類別並降低產品成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Transformation™ established needed changes for a new way of working to ensure the benefits of modularity would be a lasting and profitable foundation for MTS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115301Z" creationid="Judy" creationdate="20150910T115301Z">
@@ -23891,8 +23899,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Sounds unthinkable?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025000Z" creationid="Judy" creationdate="20150913T025000Z">
-        <seg>nSounds unthinkable?</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025318Z" creationid="Judy" creationdate="20150913T025000Z">
+        <seg>聽起來很不可思議嗎？</seg>
       </tuv>
     </tu>
     <tu>
