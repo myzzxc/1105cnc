@@ -3474,6 +3474,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And thanks to them, we never stop growing and expanding our competence.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115101Z" creationid="Judy" creationdate="20150913T115101Z">
+        <seg>且因為這些客戶，我們持續不停地成長並擴展我們的競爭力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And the language-specific transform files in the case of a multi-language setup package.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T104109Z">
@@ -33466,6 +33474,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052310Z" creationid="Judy" creationdate="20150913T052310Z">
         <seg>我們將協助您重新設計供應鏈以達到一個具有彈性的製造系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’re proud of the results modularity has achieved for our customers – companies like Whirlpool, Ericsson, ABB and Volvo.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114927Z" creationid="Judy" creationdate="20150913T114927Z">
+        <seg>我們對於為客戶達成模塊化的成果非常自豪，客戶中包含了惠而浦、易立信、 ABB 和 Volvo 等公司。</seg>
       </tuv>
     </tu>
     <tu>
