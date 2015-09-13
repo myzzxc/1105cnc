@@ -16281,6 +16281,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modularity can take years to implement with poor information management.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023454Z" creationid="Judy" creationdate="20150913T023454Z">
+        <seg>資訊管理不善會使模塊化需要多年才能執行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module Design™ was used to implement standardized interfaces while managing development streams, priorities and module requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034253Z" creationid="Judy" creationdate="20150910T034253Z">
@@ -18580,6 +18588,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T130325Z" creationid="Judy" creationdate="20150910T130325Z">
         <seg>模塊化管理 PALMA™ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PALMA™ delivers data in a structured and coherent way that tells your engineers exactly what to do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023535Z" creationid="Judy" creationdate="20150913T023535Z">
+        <seg>PALMA™  以結構化和一致的方式傳遞資料，如此能使工程師明確了解工作內容，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PALMA™ ensures all your critical product information is captured on one billboard where your sales, production and engineering staff can share and review the same information in real time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023352Z" creationid="Judy" creationdate="20150913T023352Z">
+        <seg>PALMA™ 確保所有關鍵產品資訊皆截取在相同的看板上，使銷售、生產和工程技術人員可以共用和即時查看相同的資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23990,6 +24014,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062252Z">
         <seg>超速警報：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speed up implementation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023405Z" creationid="Judy" creationdate="20150913T023405Z">
+        <seg>加速執行</seg>
       </tuv>
     </tu>
     <tu>
@@ -32993,6 +33025,14 @@ Edit your video afterwards just like the pros do.</seg>
         <seg>You avoid reworks in design at a later stage and bring your products to market faster.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134254Z" creationid="Judy" creationdate="20150910T134254Z">
+        <seg>能避免晚期階段更改設計的情況，並更快速將產品導入市場。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You avoid reworks in design at a later stage so you can bring your products to market faster.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023553Z" creationid="Judy" creationdate="20150913T023553Z">
         <seg>能避免晚期階段更改設計的情況，並更快速將產品導入市場。</seg>
       </tuv>
     </tu>
