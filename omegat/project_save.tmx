@@ -2103,6 +2103,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>About Us</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031456Z" creationid="Judy" creationdate="20150913T031456Z">
+        <seg>關於我們</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accelerometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133930Z">
@@ -13492,6 +13500,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T175022Z">
         <seg>於此議題上，HUTCHINSON 要求供應商負責產品之安全性和產品適用之法規。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section, you can read about the results our clients have achieved through modularity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031453Z" creationid="Judy" creationdate="20150913T031453Z">
+        <seg>您可以在本節中讀到關於我們的客戶藉由模塊化所達成的結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32966,6 +32982,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T130123Z">
         <seg>擁有超過  20 年的經驗且已安裝數千台 CNC 雕刻機，AXYZ 有自信製造及銷售強大、耐用且使用簡便的 CNC 雕刻機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With our proven methodology, you can increase your offering, reduce production cost and speed up time to market.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031345Z" creationid="Judy" creationdate="20150913T031345Z">
+        <seg>藉由我們行之多年的有效方法，可以增加您的產品供給、降低生產成本和加快導入市場的時間。</seg>
       </tuv>
     </tu>
     <tu>
