@@ -3386,6 +3386,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And it all pays off in the end.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071519Z" creationid="Judy" creationdate="20150913T071519Z">
+        <seg>而這一切花費將在最終得到回報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And our expertise is unique.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030316Z" creationid="Judy" creationdate="20150913T030316Z">
@@ -19088,6 +19096,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our Modular Function Deployment® process is a structured method and procedure for company-supported modularization.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071311Z" creationid="Judy" creationdate="20150913T071311Z">
+        <seg>我們的模塊功能展開® (Modular Function Deployment®) 程序為一種結構化的方法和支援公司模塊化的程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our desire to involve suppliers in this process translates into the requirements set forth in this quality manual.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125721Z">
@@ -28777,6 +28793,14 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T063801Z">
         <seg>The procedures for traceability will be based on Customer order number that will provide a code, machine or production line number, and the shift or work group number.
 追蹤程序將利用客戶訂單號碼之代碼、機器或產線號碼以及班表和工作群組號碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The process involves spending up-front time on determining market requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071523Z" creationid="Judy" creationdate="20150913T071451Z">
+        <seg>這個程序包括早期決定市場需求所花費的時間，</seg>
       </tuv>
     </tu>
     <tu>
