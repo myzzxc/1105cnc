@@ -10089,6 +10089,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill in your name and e-mail and we’ll contact you.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031014Z" creationid="Judy" creationdate="20150913T031014Z">
+        <seg>請填寫您的姓名和電子郵件，我們會與您聯繫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill shellside with water using a hose or piping through the top nozzle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T081402Z">
@@ -14394,6 +14402,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It doesn’t matter if you work with postal service or automobile manufacturing, whether you produce five units per year or five million.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031231Z" creationid="Judy" creationdate="20150913T031231Z">
+        <seg>無論您是郵政服務或汽車製造業、產量是每年五個或五百萬個單位，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables you to manage your product platforms over their entire lifecycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131734Z" creationid="Judy" creationdate="20150910T131734Z">
@@ -16365,6 +16381,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025309Z" creationid="Judy" creationdate="20150913T025309Z">
         <seg>模塊化管理能同時減少開發時間、擴大產品類別並降低產品成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modular Management has a solid track record of implementing product platform design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031114Z" creationid="Judy" creationdate="20150913T031114Z">
+        <seg>模塊化管理具有執行產品平台設計的完整記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30623,6 +30647,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T063253Z">
         <seg>Traceability
 追蹤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Track Record</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031017Z" creationid="Judy" creationdate="20150913T031017Z">
+        <seg>追蹤記錄</seg>
       </tuv>
     </tu>
     <tu>
