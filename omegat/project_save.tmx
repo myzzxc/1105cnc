@@ -29014,6 +29014,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The theory suggests that your company can excel in just one of these areas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040514Z" creationid="Judy" creationdate="20150913T040514Z">
+        <seg>此理論中表明了公司能只專注在這些領域的其中之一達到卓越。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tool presets certain installation options to configure client installation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T033755Z">
