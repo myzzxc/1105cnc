@@ -506,6 +506,14 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-Modular Management client</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071837Z" creationid="Judy" creationdate="20150913T071837Z">
+        <seg>——模塊化管理的客戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...the system is not updating when sales are made during the course of a day and it is also not decoding the security tags?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115635Z">
@@ -19136,6 +19144,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our time to market has been reduced.”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071809Z" creationid="Judy" creationdate="20150913T071809Z">
+        <seg>我們已經減少了導入市場的時間。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outside Diameter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T084038Z">
@@ -32782,6 +32798,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We can pinpoint which new module variants we will need or if any interfaces will be impacted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071738Z" creationid="Judy" creationdate="20150913T071722Z">
+        <seg>我們可以找出所需要的新模組變型或接口是否將會受到影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We can see that the counting line will see two separate objects as they pass through the counting line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T142629Z">
@@ -35578,6 +35602,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054708Z">
         <seg>“選擇 Adobe (或 IBM) 讓人永遠不會失去工作”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“The modular architecture allows us to predict, very quickly, where new requirements from marketing will impact our architecture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071734Z" creationid="Judy" creationdate="20150913T071640Z">
+        <seg>「模塊化結構使我們能夠非常快速預測市場行銷的新要求將如何影響我們的架構，</seg>
       </tuv>
     </tu>
     <tu>
