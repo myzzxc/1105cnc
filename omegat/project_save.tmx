@@ -16513,6 +16513,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular Management can show it’s possible to optimize your strategic position in all directions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043630Z" creationid="Judy" creationdate="20150913T043630Z">
+        <seg>模塊化管理展現出所有方向的最佳化策略的可能性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Management has a solid track record of implementing product platform design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031114Z" creationid="Judy" creationdate="20150913T031114Z">
@@ -17122,6 +17130,22 @@ without the documented approval of the appropriate Quality Control personnel.
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082147Z">
         <seg>凸出式移動接環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043645Z" creationid="Judy" creationdate="20150913T043645Z">
+        <seg>不只一個方向，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not two.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043709Z" creationid="Judy" creationdate="20150913T043655Z">
+        <seg>也不只兩個方向，</seg>
       </tuv>
     </tu>
     <tu>
