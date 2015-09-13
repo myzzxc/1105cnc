@@ -16937,6 +16937,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular Management Group is an international company based in Stockholm, Sweden, with subsidiaries in Sweden, U.S.A, Asia and Germany.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114734Z" creationid="Judy" creationdate="20150913T114734Z">
+        <seg>模塊化管理集團為一間國際性的公司，總部設於瑞典的斯德哥爾摩，於瑞典、美國、亞洲和德國設有分公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Management can help you reduce development time, expand product assortment and reduce product cost – all at the same time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025309Z" creationid="Judy" creationdate="20150913T025309Z">
@@ -31726,6 +31734,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025806Z">
         <seg>若要使用 RMS 保護之文件，必須安裝 Active Directory Rights Management Service Client 2.1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Today we use 20 methods and over 70 tools to give your company the best possible support for modularization.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114630Z" creationid="Judy" creationdate="20150913T114630Z">
+        <seg>時至今日，我們使用 20 種方法和超過 70 種工具為企業模塊化提供最好的支援。</seg>
       </tuv>
     </tu>
     <tu>
