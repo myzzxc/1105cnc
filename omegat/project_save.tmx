@@ -15719,6 +15719,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Managing your modular product architecture involves keeping track of vast amounts of information surrounding your product assortment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T020328Z" creationid="Judy" creationdate="20150913T020328Z">
+        <seg>模塊化產品架構管理牽涉到追蹤產品類別相關的大量資訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Managing your product architecture is all about managing information.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T130741Z" creationid="Judy" creationdate="20150910T130730Z">
