@@ -4312,6 +4312,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automobiles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082830Z" creationid="Judy" creationdate="20150913T082830Z">
+        <seg>汽車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Distribution Media: Individual license (serialised), Volume Licensing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081327Z">
@@ -14890,6 +14898,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It doesn’t matter what type of product or service your company offers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082934Z" creationid="Judy" creationdate="20150913T082934Z">
+        <seg>無論貴公司提供何種類型的產品或服務，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables you to manage your product platforms over their entire lifecycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131734Z" creationid="Judy" creationdate="20150910T131734Z">
@@ -19168,6 +19184,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or whether you make five units per year or five million.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082956Z" creationid="Judy" creationdate="20150913T082956Z">
+        <seg>無論您的產量是每年五個或五百萬個單位，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Organize and manage a library of PDF security envelopes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060542Z">
@@ -19372,6 +19396,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075940Z" creationid="Judy" creationdate="20150913T075940Z">
         <seg>我們使用的方法經過了超過 20 年不斷研究和實際應用的焠鍊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our proven methodology can help you improve business performance through market-driven, strategic modular product architectures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083121Z" creationid="Judy" creationdate="20150913T083121Z">
+        <seg>我們經過實際驗證有效的方法能協助您藉由市場導向、策略性模塊化產品結構來改善公司業績。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21326,6 +21358,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135626Z">
         <seg>電源需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082850Z" creationid="Judy" creationdate="20150913T082850Z">
+        <seg>電力系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -24559,6 +24599,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shipping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082825Z" creationid="Judy" creationdate="20150913T082825Z">
+        <seg>航運</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shoot entire events, with no risk of damage by changing the battery in bad weather.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130025Z">
@@ -26273,6 +26321,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T055639Z">
         <seg>遠端放大位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telecommunications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082827Z" creationid="Judy" creationdate="20150913T082827Z">
+        <seg>電信</seg>
       </tuv>
     </tu>
     <tu>
@@ -31699,6 +31755,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trains</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082843Z" creationid="Judy" creationdate="20150913T082843Z">
+        <seg>火車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transfer of production from a provisional to a definitive means</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141301Z">
@@ -31711,6 +31775,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024111Z">
         <seg>轉換檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trucks and buses</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082848Z" creationid="Judy" creationdate="20150913T082848Z">
+        <seg>卡車和公車</seg>
       </tuv>
     </tu>
     <tu>
