@@ -13616,6 +13616,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the product design and manufacturing process, the focus is usually on reducing material cost.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050034Z" creationid="Judy" creationdate="20150913T050025Z">
+        <seg>在產品設計和製造過程中，重點通常是降低材料成本，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the special case of a product delivered during "deferral," it will be part of a special repair.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T145305Z">
@@ -31476,6 +31484,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Uncover hidden costs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045955Z" creationid="Judy" creationdate="20150913T045955Z">
+        <seg>揭露隱性成本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Under Import mode you can:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022835Z">
@@ -32134,6 +32150,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Very little attention is paid to the price of creating and maintaining the parts used to build the product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050130Z" creationid="Judy" creationdate="20150913T050032Z">
+        <seg>而很少注意到建立和維護用於生成產品的零件價格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Video files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070322Z">
@@ -32650,6 +32674,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140530Z">
         <seg>建議僅使用固定式攝影機進行分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We refer to this as the cost of complexity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050141Z" creationid="Judy" creationdate="20150913T050141Z">
+        <seg>我們將這稱為複雜性的成本，</seg>
       </tuv>
     </tu>
     <tu>
