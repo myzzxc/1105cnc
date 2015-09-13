@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Your Challenges – Operational Excellence)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045113Z" creationid="Judy" creationdate="20150913T045113Z">
+        <seg>(你的挑戰 —— 卓越的運營)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Your Challenges)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033402Z" creationid="Judy" creationdate="20150913T033402Z">
@@ -11925,6 +11933,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High productivity and even quality</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045139Z" creationid="Judy" creationdate="20150913T045139Z">
+        <seg>高效率和品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High tolerance THK bearings on X, Y, and Zaxes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T115157Z">
@@ -18644,6 +18660,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T035959Z" creationid="Judy" creationdate="20150913T035959Z">
         <seg>卓越的營運：最佳化所有的程序，以將成本降到最低</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operational excellence aims to achieve cost leadership by automating manufacturing processes and streamlining work procedures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045235Z" creationid="Judy" creationdate="20150913T045235Z">
+        <seg>卓越的運營目標是以製造流程自動化和簡化工作程序以達到成本領先地位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25569,6 +25593,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T054258Z">
         <seg>虛擬閘門：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tailoring your customer offer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044956Z" creationid="Judy" creationdate="20150913T044956Z">
+        <seg>客製化您的產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -35264,7 +35296,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>“The secret to success is maintaining your interfaces.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044717Z" creationid="Judy" creationdate="20150913T044717Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045040Z" creationid="Judy" creationdate="20150913T044717Z">
         <seg>「成功的秘訣就是維持您的接口，</seg>
       </tuv>
     </tu>
