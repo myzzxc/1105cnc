@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Your Challenges)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033402Z" creationid="Judy" creationdate="20150913T033402Z">
+        <seg>(您的挑戰)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(for more information, see the product release notes)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023009Z">
@@ -8580,6 +8588,22 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E-mail: info.americas@modularmanagement.com</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033239Z" creationid="Judy" creationdate="20150913T033239Z">
+        <seg>電子郵件：info.americas@modularmanagement.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E-mail: info.asia@modularmanagement.com</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033318Z" creationid="Judy" creationdate="20150913T033318Z">
+        <seg>電子郵件: info.asia@modularmanagement.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E-mail: info@modularmanagement.com</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033210Z" creationid="Judy" creationdate="20150913T033210Z">
@@ -9019,6 +9043,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050154Z">
         <seg>Email:
 電子郵件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email: info@modularmanagement.de</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033357Z" creationid="Judy" creationdate="20150913T033357Z">
+        <seg>電子郵件：info@modularmanagement.de</seg>
       </tuv>
     </tu>
     <tu>
@@ -16105,6 +16137,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meet Your Challenges</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033413Z" creationid="Judy" creationdate="20150913T033413Z">
+        <seg>滿足您的挑戰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meeting ever-growing demands for energy will generate increasing stress on freshwater resources with repercussions on other users, such as agriculture and industry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T155936Z">
@@ -21881,6 +21921,30 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regional office Americas</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033222Z" creationid="Judy" creationdate="20150913T033222Z">
+        <seg>美洲區辦公室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regional office Asia</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033248Z" creationid="Judy" creationdate="20150913T033248Z">
+        <seg>亞洲區辦公室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regional office Germany</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033337Z" creationid="Judy" creationdate="20150913T033337Z">
+        <seg>德國區辦公室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regional perspectives</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T083009Z">
@@ -25421,10 +25485,42 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tel: +1 (952) 854 6800</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033231Z" creationid="Judy" creationdate="20150913T033231Z">
+        <seg>電話：+1 (952) 854 6800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tel: +46 (0)8 456 35 00</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033201Z" creationid="Judy" creationdate="20150913T033201Z">
         <seg>電話：+46 (0)8 456 35 00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tel: +49 (0) 69-667741180</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033350Z" creationid="Judy" creationdate="20150913T033350Z">
+        <seg>電話：+49 (0) 69-667741180</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tel: +86(10)8248-4308 (Beijing)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033258Z" creationid="Judy" creationdate="20150913T033258Z">
+        <seg>電話：+86 (10) 8248-4308 (北京)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tel: +886(2)2552-6763 (Taipei)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033315Z" creationid="Judy" creationdate="20150913T033315Z">
+        <seg>電話：+886 (2) 2552-6763 (臺北)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33634,6 +33730,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T075805Z">
         <seg>AXYZ 雕刻機工作台即將運送到達。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your customers have high demands.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033446Z" creationid="Judy" creationdate="20150913T033446Z">
+        <seg>客戶具有高要求。</seg>
       </tuv>
     </tu>
     <tu>
