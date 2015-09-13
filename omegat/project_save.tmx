@@ -30199,6 +30199,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is quite a lot of text space on the mock-up, but there really isn’t much to say here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120144Z" creationid="Judy" creationdate="20150913T120144Z">
+        <seg>實體模型還有許多的文字內容，但此處未作太多說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There should be at least one liter of water per bird entering the scalder.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034303Z">
@@ -36242,6 +36250,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054708Z">
         <seg>“選擇 Adobe (或 IBM) 讓人永遠不會失去工作”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Reduce development by up to 60%</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120015Z" creationid="Judy" creationdate="20150913T120015Z">
+        <seg>「降低開發達 60%</seg>
       </tuv>
     </tu>
     <tu>
