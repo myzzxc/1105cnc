@@ -12013,6 +12013,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How modularity works</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044234Z" creationid="Judy" creationdate="20150913T044234Z">
+        <seg>模塊化的運作方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to install help</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051247Z">
@@ -16573,6 +16581,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023454Z" creationid="Judy" creationdate="20150913T023454Z">
         <seg>資訊管理不善會使模塊化需要多年才能執行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modularity is defined as “the degree to which a system is made up of relatively independent but interlocking components or parts.”  Modular product architecture is the foundation for tailoring your product or service to the needs of your customers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044222Z" creationid="Judy" creationdate="20150913T044222Z">
+        <seg>模塊化定義為「系統是由相對獨立但能交互共用的組件或零件所組成」，模塊化的產品架構為依客戶需求制定產品或服務的基礎。</seg>
       </tuv>
     </tu>
     <tu>
