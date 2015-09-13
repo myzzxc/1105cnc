@@ -12502,6 +12502,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I took these statistics from Trane, but maybe more general statistics are appropriate here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115544Z" creationid="Judy" creationdate="20150913T115544Z">
+        <seg>統計資料取自 Trane，但此處也許更適合使用更一般性的統計數據。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I trust this will put the matter to rest but please liaise with Jean if further information is required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T145911Z">
