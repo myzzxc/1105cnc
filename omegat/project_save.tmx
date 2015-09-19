@@ -17275,8 +17275,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Most ATVs include seating for up to two passengers which are either seated side-by-side or with the passenger positioned behind the driver of the ATV.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T083822Z" creationid="Judy" creationdate="20150919T083822Z">
-        <seg>大多數的全地形車只能承載最多兩名乘客，其座位的安排為並排或乘客位於駕駛後方的前後排列。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T083952Z" creationid="Judy" creationdate="20150919T083822Z">
+        <seg>大多數的全地形車只能承載最多兩名乘客，其座位的安排為並排（方向盤式）或乘客位於駕駛後方的前後排列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24899,6 +24899,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051222Z">
         <seg>於安裝精靈中只顯示 Install Welcome（安裝歡迎畫面）、License Agreement （授權合約）和 Ready to Install （準備好進行安裝）對話視窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Side-by- side ATVs, in which the driver and passenger are seated beside each other on laterally spaced apart seats, have become 2o popular because of the ability to allow the passenger to share the driver's viewpoint.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T083848Z" creationid="Judy" creationdate="20150919T083848Z">
+        <seg>方向盤式全地形車Side-by- side ATVs, in which the driver and passenger are seated beside each other on laterally spaced apart seats, have become 2o popular because of the ability to allow the passenger to share the driver's viewpoint.</seg>
       </tuv>
     </tu>
     <tu>
