@@ -8737,6 +8737,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to increasing recreational interest in ATVs, specialty ATVs, such as those used for trail riding, racing, and cargo hauling have entered the market place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T083358Z" creationid="Judy" creationdate="20150919T083358Z">
+        <seg>由於全地形車在休閒用途的需求越來越高，用於野外騎乘、賽車，貨物牽引等專用全地形車已經進入了市場。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to the use of colour to detect fire, if the colour range of the camera is incorrect the fire detection algorithm could fail.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155211Z">
