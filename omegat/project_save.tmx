@@ -17283,8 +17283,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Most ATVs include seating for up to two passengers which are either seated side-by-side or with the passenger positioned behind the driver of the ATV.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T083952Z" creationid="Judy" creationdate="20150919T083822Z">
-        <seg>大多數的全地形車只能承載最多兩名乘客，其座位的安排為並排（方向盤式）或乘客位於駕駛後方的前後排列。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T090727Z" creationid="Judy" creationdate="20150919T083822Z">
+        <seg>大多數的全地形車只能承載至多兩名乘客，其座位的安排為並排（方向盤式）或乘客位於駕駛後方的前後排列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28120,6 +28120,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070002Z">
         <seg>應用程式預設使用法文：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bar is pivotally mounted at a first end to the vehicle, and is latchable to the vehicle at a second opposite end, whereby the side net assembly can be in a latched position when a rider is in the vehicle and can be collapsed to 35 allow ingress and egress of a rider.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T090646Z" creationid="Judy" creationdate="20150919T090646Z">
+        <seg>樞軸桿第一端安裝於車輛上，對側第二端可鎖定於車輛上。當駕駛位於車輛中時，其側邊護網組件位於鎖定位置並可摺疊以便駕駛進出。</seg>
       </tuv>
     </tu>
     <tu>
