@@ -490,8 +490,8 @@
       <tuv lang="EN-US">
         <seg>*SUPPLIER AGREES THAT THE PURCHASER MAY AT HIS OPTION TO DESIGNATE ONE OR MORE THIRD PARTIES TO OPEN LCs UNDER THE CONTRACT.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T140605Z" creationid="Judy" creationdate="20150921T140605Z">
-        <seg>* 供應商同意買方可依合約自行指定一個或多個第三方開立。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T140627Z" creationid="Judy" creationdate="20150921T140605Z">
+        <seg>* 供應商同意買方可依合約自行指定一個或多個第三方開立信用狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,6 +640,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T132410Z" creationid="Judy" creationdate="20150921T132310Z">
         <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行擔保第 1 號支付。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10% BY T/T IN 30 DAYS AFTER RECEIVED OF ORIGINAL INVOICE AND THE CERTIFICATE OF PERFORMANCE TEST ACCEPTANCE SIGNED BY AUTHORIZED REPRESENTATIVES OF THE PURCHASER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T140851Z" creationid="Judy" creationdate="20150921T140851Z">
+        <seg>收到發票正本和經買方授權代表簽署之效能測試驗收證書起 30 天內以電匯支付 10 % 款項</seg>
       </tuv>
     </tu>
     <tu>
