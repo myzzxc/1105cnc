@@ -439,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* PURCHASER'S BANK GUARANTEE TEXT IS ACCEPTED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152011Z" creationid="Judy" creationdate="20150921T152011Z">
+        <seg>* 接受買方之銀行保證函文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*1 	5H is the approximate time of continuous recording in 50i if the 		internal battery has been fully charged, when the LED light (if available) 		is off, the monitor backlight is set to standard mode, and without the 		use of zoom function.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061605Z">
@@ -8101,6 +8109,22 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DELIVERY TERMS &amp; SCHEDULE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152049Z" creationid="Judy" creationdate="20150921T152049Z">
+        <seg>交貨條款及排程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DELIVERY TERMS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152112Z" creationid="Judy" creationdate="20150921T152112Z">
+        <seg>交貨條款：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION AND APPLICATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T022825Z">
@@ -12874,6 +12898,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141316Z" creationid="Judy" creationdate="20150921T133736Z">
         <seg>IN，裝運兩個月前開立 80% 款項之即期信用狀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN, TBD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152029Z" creationid="Judy" creationdate="20150921T152029Z">
+        <seg>IN，待商定</seg>
       </tuv>
     </tu>
     <tu>
@@ -20146,8 +20178,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PAYMENT TERMS FOR IMPORT PORTION</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T131547Z" creationid="Judy" creationdate="20150921T131547Z">
-        <seg>進口部分之付款方式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152057Z" creationid="Judy" creationdate="20150921T131547Z">
+        <seg>進口部分之付款條款</seg>
       </tuv>
     </tu>
     <tu>
