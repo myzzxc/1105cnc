@@ -562,10 +562,26 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T132320Z" creationid="Judy" creationdate="20150921T132320Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 A (only when powered via the external power supply)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053303Z">
         <seg>1 A（僅適用透過外接電源供應的情況下）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 AND ORIGINAL INVOICE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T132421Z" creationid="Judy" creationdate="20150921T132421Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -608,6 +624,22 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T084822Z">
         <seg>15 字：平價提供商用級的協作性和高效率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10% - DOWN PAYMENT BY T/T IN 30 DAYS AFTER CONTRACT SIGNING DATE, PAYABLE AGAINST THE ORIGINAL INVOICE AND SUPPLIER'S BANK GUARANTEE NO.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T132410Z" creationid="Judy" creationdate="20150921T132310Z">
+        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行擔保第 1 號支付。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10% DP BY T/T IN 30 DAYS AFTER CONTRACT SIGNING, AGAINST BG NO.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T132417Z" creationid="Judy" creationdate="20150921T132417Z">
+        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行擔保第 1 號支付。</seg>
       </tuv>
     </tu>
     <tu>
