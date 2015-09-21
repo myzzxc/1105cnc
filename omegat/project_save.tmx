@@ -608,10 +608,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- ALL DELIVERY OF DOCUMENTS, INCLUDING BUT NOT LIMITED TO: CIVIL AND INSTALLATION RELATED DOCUMENTS, INSTRUCTION MANUALS, DRAWINGS, ETC, SHALL BE DELIVERED IN DDP TERMS TO MILL SITE (OR ANY DESTINATION SPECIFIED LATER ON IN THE CONTRACT).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T233756Z" creationid="Judy" creationdate="20150921T233545Z">
+        <seg>- 所有交付之文件，包括但不限於：土木和安裝相關文件、說明書、設計圖等，應根據輸入國稅訖交貨條件 (DDP) 交貨至廠房現場 (或稍後在合同中指定任何目的地)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- ALL DELIVERY OF SPARE PARTS, CONSUMABLES OR REPAIRED/REPLACEMENT PARTS DURING MECHANICAL GUARANTEE PERIOD SHALL BE DELIVERED IN DDP MILL SITE TERMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T233524Z" creationid="Judy" creationdate="20150921T233524Z">
+        <seg>- 所有於機械保證期間交付之備品零件、消耗品或修復/更換零件應根據輸入國稅訖交貨條件 (DDP) 廠房現場條款交貨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- ANY DELIVERY OF MACHINERIES OR PARTS AFTER AGREED DELIVERY SCHEDULE SHALL BE DELIVERED IN DDP MILL SITE TERMS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T233344Z" creationid="Judy" creationdate="20150921T233344Z">
-        <seg>- 同意交貨計劃後任何交運之機械或零件應根據輸入國稅訖交貨條件 (DDP) 廠房現場條款交貨</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T233550Z" creationid="Judy" creationdate="20150921T233344Z">
+        <seg>- 同意交貨計劃後所有交付之機械或零件應根據輸入國稅訖交貨條件 (DDP) 廠房現場條款交貨</seg>
       </tuv>
     </tu>
     <tu>
