@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* ALL GOODS INSIDE CONTAINER OR IN BREAKBULK SHALL BE SEAWORTHY PACKED ACCORDING TO INTERNATIONAL STANDARD AND PACKED RUST PROOF, GREASED, VACUUM SEALED AND TO BE SUFFICIENT FOR OUTDOOR STORAGE AGAINST RAIN AND SUNLIGHT AND FREEZING TEMPERATURE, RESPECTIVELY INDOOR STORAGE, ACCORDING TO SUPPLIER'S WRITTEN STORAGE INSTRUCTION, FOR AT LEAST 3 MONTHS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T231106Z" creationid="Judy" creationdate="20150921T231106Z">
+        <seg>* 所有貨櫃內的貨物或散貨須為符合國際標準之適航包裝，且包裝應根據供應商之書面儲存指示能防鏽、上油、真空包裝且能儲存於室外至少 3 個月不受與和陽光和結冰溫度侵蝕，室內儲存亦為 3 個月不受侵蝕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* All models include A2MC controller and Artcam Express</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142138Z">
@@ -8193,6 +8201,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152112Z" creationid="Judy" creationdate="20150921T152112Z">
         <seg>交貨條款：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DELIVERY TIME STARTS FROM CONTRACT SIGNING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T231143Z" creationid="Judy" creationdate="20150921T231143Z">
+        <seg>由合約簽署日起交貨時間</seg>
       </tuv>
     </tu>
     <tu>
