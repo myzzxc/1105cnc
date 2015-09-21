@@ -638,16 +638,16 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>10% - DOWN PAYMENT BY T/T IN 30 DAYS AFTER CONTRACT SIGNING DATE PAYABLE AGAINST THE ORIGINAL INVOICE AND SUPPLIER'S BANK GUARANTEE NO.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141750Z" creationid="Judy" creationdate="20150921T141750Z">
-        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行擔保第 2 號支付。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T150357Z" creationid="Judy" creationdate="20150921T141750Z">
+        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行保証函 2 號支付。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>10% - DOWN PAYMENT BY T/T IN 30 DAYS AFTER CONTRACT SIGNING DATE, PAYABLE AGAINST THE ORIGINAL INVOICE AND SUPPLIER'S BANK GUARANTEE NO.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T150256Z" creationid="Judy" creationdate="20150921T132310Z">
-        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行銀行保証函 1 號支付。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T150325Z" creationid="Judy" creationdate="20150921T132310Z">
+        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行保証函 1 號支付。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17689,6 +17689,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NO CLAIM OF INTEREST WILL BE BORNE AND ENTERTAINED BY THE PURCHASER FOR ANY DELAYED PAYMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T150738Z" creationid="Judy" creationdate="20150921T150738Z">
+        <seg>任何延遲付款買方不得請求支付利息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NO.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125943Z" creationid="Judy" creationdate="20150921T125943Z">
@@ -26568,8 +26576,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>THE SUPPLIER SHALL ENSURE THAT ALL RELATED PAYMENT DOCUMENTS, I.E: INVOICE, BANK GUARANTEE, ETC SHALL BE RECEIVED BY THE PURCHASER IN 12 WORKING DAYS PRIOR TO THE PAYMENT DATE.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T150250Z" creationid="Judy" creationdate="20150921T150250Z">
-        <seg>供應商應確保所有相關付款文件，即：發票、 銀行保函等都應在 12 個工作天的付款日期之前收到由買方承擔。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T150544Z" creationid="Judy" creationdate="20150921T150250Z">
+        <seg>供應商應確保買方於付款期限 12 個工作天之前收到所有相關付款文件，即：發票、銀行保証函等。</seg>
       </tuv>
     </tu>
     <tu>
