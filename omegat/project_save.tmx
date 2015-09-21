@@ -5602,6 +5602,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CFR FIRST SHIPMENT / 2ND FRANCO MILL SITE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232644Z" creationid="Judy" creationdate="20150921T232552Z">
+        <seg>運費在內條件 (CFR) 第一批發貨 / FRANCO 第 2 廠房現場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CFR LAST SHIPMENT /4RD FRANCO MILL SITE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232827Z" creationid="Judy" creationdate="20150921T232827Z">
+        <seg>運費在內條件 (CFR) 最後一批發貨 / FRANCO 第 4 廠房現場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CG Thermal LLC can provide experienced field advisory personnel to guide and instruct construction and maintenance supervisors in the techniques used in assembling, installing and maintaining IMPERVITE® impervious graphite equipment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T072451Z">
@@ -10513,8 +10529,16 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FOB FIRST SHIPMENT  / 1ST FRANCO MILL SITE (for local Indonesia Project)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232433Z" creationid="Judy" creationdate="20150921T232433Z">
-        <seg>輸出港船上交貨條件 (FOB) 第一批發貨 / 1ST FRANCO 廠房現場（印尼當地專案）</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232615Z" creationid="Judy" creationdate="20150921T232433Z">
+        <seg>輸出港船上交貨條件 (FOB) 第一批發貨 / FRANCO 第 1 廠房現場（印尼當地專案）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOB LAST SHIPMENT /3RD FRANCO MILL SITE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232724Z" creationid="Judy" creationdate="20150921T232724Z">
+        <seg>輸出港船上交貨條件 (FOB) 最後一批發貨 / FRANCO 第 3 廠房現場</seg>
       </tuv>
     </tu>
     <tu>
@@ -16698,6 +16722,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022548Z">
         <seg>金屬加工和製程刀具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MONTHS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232737Z" creationid="Judy" creationdate="20150921T232737Z">
+        <seg>個月</seg>
       </tuv>
     </tu>
     <tu>
@@ -36498,6 +36530,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020319Z">
         <seg>於專案進行中，依 HUTCHINSON 要求或自發進行所有管控的組織。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>please specify</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232745Z" creationid="Judy" creationdate="20150921T232745Z">
+        <seg>請指明</seg>
       </tuv>
     </tu>
     <tu>
