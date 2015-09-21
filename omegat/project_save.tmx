@@ -488,6 +488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*SUPPLIER AGREES THAT THE PURCHASER MAY AT HIS OPTION TO DESIGNATE ONE OR MORE THIRD PARTIES TO OPEN LCs UNDER THE CONTRACT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T140605Z" creationid="Judy" creationdate="20150921T140605Z">
+        <seg>* 供應商同意買方可依合約自行指定一個或多個第三方開立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*Test bars in three test specimens for a total of six tests with cast-in bars and six tests with post-installed bars.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T191942Z">
@@ -638,8 +646,8 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>10% DP BY T/T IN 30 DAYS AFTER CONTRACT SIGNING, AGAINST BG NO.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T133528Z" creationid="Judy" creationdate="20150921T132417Z">
-        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，憑原始發票和供應商之銀行擔保第 1 號支付。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T140036Z" creationid="Judy" creationdate="20150921T132417Z">
+        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，憑發票正本和供應商之銀行擔保第 1 號支付。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1293,6 +1301,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200551Z">
         <seg>61之8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>80% BY T/T PAYABLE 180 DAYS AFTER B/L DATE PROPORTIONALLY 80% OF EACH SHIPPED GOODS VALUE, AGAINST INVOICE AND ORIGINAL BILL OF LADING OF THE LAST SHIPMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T140349Z" creationid="Judy" creationdate="20150921T140026Z">
+        <seg>於提單日起 180天內以電匯支付每批裝運貨物價值 80 % 款項，憑發票正本和最後一批裝運提單正本支付。</seg>
       </tuv>
     </tu>
     <tu>
