@@ -1140,6 +1140,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>53, SANLONG STREET, SHULIN DIST, 23866, NEW TAIPEI CITY, TAIWAN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125946Z" creationid="Judy" creationdate="20150921T125946Z">
+        <seg>台北縣樹林市三龍街 53 號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5GB or Higher</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093339Z">
@@ -2611,6 +2619,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051110Z">
         <seg>此外溫度也必須維持恆定，溫度改變將有利細菌繁殖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Address</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125910Z" creationid="Judy" creationdate="20150921T125910Z">
+        <seg>地址</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,6 +5402,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHYAU BAN MACHINERY CO., LTD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125904Z" creationid="Judy" creationdate="20150921T125904Z">
+        <seg>僑邦機械有限公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CLAMP PLATE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053957Z">
@@ -7016,6 +7040,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093259Z">
         <seg>連絡人姓名…………………………………………………………………………</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact Person</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130010Z" creationid="Judy" creationdate="20150921T130010Z">
+        <seg>連絡人</seg>
       </tuv>
     </tu>
     <tu>
@@ -10308,6 +10340,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054336Z">
         <seg>我的最愛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax No.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130005Z" creationid="Judy" creationdate="20150921T130005Z">
+        <seg>傳真號碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -15443,6 +15483,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JENNIFER CHEN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130032Z" creationid="Judy" creationdate="20150921T130032Z">
+        <seg>(JENNIFER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070318Z">
@@ -15651,6 +15699,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T134325Z">
         <seg>刀具切削解決方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOCAL AGENT NAME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130058Z" creationid="Judy" creationdate="20150921T130058Z">
+        <seg>本地代理商名稱</seg>
       </tuv>
     </tu>
     <tu>
@@ -16306,6 +16362,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132850Z">
         <seg>更加自動化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130025Z" creationid="Judy" creationdate="20150921T130025Z">
+        <seg>陳小姐 </seg>
       </tuv>
     </tu>
     <tu>
@@ -17033,6 +17097,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mobile No</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130039Z" creationid="Judy" creationdate="20150921T130039Z">
+        <seg>行動電話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mobile User Guide</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T052350Z">
@@ -17461,6 +17533,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131000Z">
         <seg>使用多重支架於單一機床上可使機台運用更為彈性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NO.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125943Z" creationid="Judy" creationdate="20150921T125943Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -18644,6 +18724,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033128Z">
         <seg>辦公室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Official Email Address</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130044Z" creationid="Judy" creationdate="20150921T130044Z">
+        <seg>官方電子郵件地址</seg>
       </tuv>
     </tu>
     <tu>
@@ -20692,6 +20780,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T134515Z">
         <seg>持續的貧窮、用水供給和衛生服務分配不均、資金短缺以及缺乏水資源現狀、使用和管理等相關信息的匱乏，都進一步限制了水資源管理及其幫助實現永續發展目標的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phone No.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125955Z" creationid="Judy" creationdate="20150921T125955Z">
+        <seg>電話號碼</seg>
       </tuv>
     </tu>
     <tu>
