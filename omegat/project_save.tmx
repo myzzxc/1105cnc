@@ -8189,10 +8189,18 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DELIVERY SCHEDULE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232140Z" creationid="Judy" creationdate="20150921T232140Z">
+        <seg>交貨計畫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DELIVERY TERMS &amp; SCHEDULE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152049Z" creationid="Judy" creationdate="20150921T152049Z">
-        <seg>交貨條款及排程</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232206Z" creationid="Judy" creationdate="20150921T152049Z">
+        <seg>交貨條款及預定計劃</seg>
       </tuv>
     </tu>
     <tu>
@@ -24235,6 +24243,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T131241Z" creationid="Judy" creationdate="20150921T131241Z">
         <seg>供應商意見</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPPLIER'S DELIVERY SCHEDULE RESPONSIBILITIES ARE UNTIL CFR ARRIVAL DATES AND START UP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232115Z" creationid="Judy" creationdate="20150921T232115Z">
+        <seg>供應商的交貨時程表責任至運費在內條件 (CFR) 抵達日期並啟動為止</seg>
       </tuv>
     </tu>
     <tu>
