@@ -424,8 +424,8 @@
       <tuv lang="EN-US">
         <seg>* FOR IMPORT PORTION, CFR FULL LINER LINER TANJUNG PRIOK PORT (Port Name), JAKARTA – INDONESIA, ACCORDING TO INCOTERM 2010</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152847Z" creationid="Judy" creationdate="20150921T152847Z">
-        <seg>* 進口部分，印尼雅加達 TANJUNG PRIOK （港口名稱）港，班輪成本加運費依照 2010 國際商業貿易條款。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T155543Z" creationid="Judy" creationdate="20150921T152847Z">
+        <seg>* 進口部分，印尼雅加達 TANJUNG PRIOK （港口名稱）港，班輪成本加運費 (CFR) 依照 2010 國際商業貿易條款。</seg>
       </tuv>
     </tu>
     <tu>
