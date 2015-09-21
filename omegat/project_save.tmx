@@ -1096,6 +1096,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 days</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T234401Z" creationid="Judy" creationdate="20150921T234401Z">
+        <seg>3 天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 phase 380-440 volts 50/60 Hertz</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T093125Z">
@@ -13098,6 +13106,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152029Z" creationid="Judy" creationdate="20150921T152029Z">
         <seg>IN，待商定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN, WITHIN 5 DAYS FOR ASEAN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T234358Z" creationid="Judy" creationdate="20150921T234358Z">
+        <seg>IN，5 天內，東盟 (ASEAN) 國家</seg>
       </tuv>
     </tu>
     <tu>
@@ -33883,6 +33899,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WITHIN 2 DAYS (ASEAN) / 3 DAYS (ASIA / AUSTRALIA) / 7 DAYS (OTHERS) AFTER BILL OF LADING DATE, SUPPLIER MUST SEND :</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T234305Z" creationid="Judy" creationdate="20150921T234127Z">
+        <seg>提單日起 2 天內 (東盟 ASEAN) / 3 天內 (亞洲 / 澳洲) / 7 天內 (其它地區)，供應商必須發送：</seg>
       </tuv>
     </tu>
     <tu>
