@@ -1297,6 +1297,22 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>: MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130638Z" creationid="Judy" creationdate="20150921T130638Z">
+        <seg>: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>: ROYVIEW ENTERPRISES LIMITED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130610Z" creationid="Judy" creationdate="20150921T130610Z">
+        <seg>: 和耀企業有限公司 (ROYVIEW ENTERPRISES LIMITED)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;path_of_Office.appv&gt;  and &lt;path_of_DeploymentConfig.xml&gt;  should be changed to the real path</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160851Z">
@@ -23822,6 +23838,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SUBJECTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130751Z" creationid="Judy" creationdate="20150921T130751Z">
+        <seg>項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SUMMARY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T084848Z">
@@ -26345,6 +26369,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055757Z">
         <seg>測試法蘭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOMA CHENG, MARTA, SUSAN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130710Z" creationid="Judy" creationdate="20150921T130710Z">
+        <seg>TOMA CHENG 先生、MARTA 先生、SUSAN 先生</seg>
       </tuv>
     </tu>
     <tu>
