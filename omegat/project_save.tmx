@@ -413,6 +413,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>* BANK GUARANTEE NO.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151614Z" creationid="Judy" creationdate="20150921T151614Z">
+        <seg>* 銀行保證函</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>？</note>
       <tuv lang="EN-US">
         <seg>* It is also an option to load from the side of the table.</seg>
@@ -638,16 +646,16 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>10% - DOWN PAYMENT BY T/T IN 30 DAYS AFTER CONTRACT SIGNING DATE PAYABLE AGAINST THE ORIGINAL INVOICE AND SUPPLIER'S BANK GUARANTEE NO.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T150357Z" creationid="Judy" creationdate="20150921T141750Z">
-        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行保証函 2 號支付。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151556Z" creationid="Judy" creationdate="20150921T141750Z">
+        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行保證函 2 號支付。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>10% - DOWN PAYMENT BY T/T IN 30 DAYS AFTER CONTRACT SIGNING DATE, PAYABLE AGAINST THE ORIGINAL INVOICE AND SUPPLIER'S BANK GUARANTEE NO.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T150325Z" creationid="Judy" creationdate="20150921T132310Z">
-        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行保証函 1 號支付。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151533Z" creationid="Judy" creationdate="20150921T132310Z">
+        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行保證函 1 號支付。</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,8 +670,8 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>10% DP BY T/T IN 30 DAYS AFTER CONTRACT SIGNING, AGAINST BG NO.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T150312Z" creationid="Judy" creationdate="20150921T132417Z">
-        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，憑發票正本和供應商之銀行保証函 1 號支付。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151538Z" creationid="Judy" creationdate="20150921T132417Z">
+        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，憑發票正本和供應商之銀行保證函 1 號支付。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1862,6 +1870,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133629Z">
         <seg>ACT：當RX或TX活動時閃爍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ALL UNIT PRICE SHALL BE VALID UNTIL END OF MECHANICAL GUARANTEE PERIOD.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151357Z" creationid="Judy" creationdate="20150921T151357Z">
+        <seg>所有單位價格應於機械保證結束前有效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4581,6 +4597,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053552Z">
         <seg>擋板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BANK GUARANTEES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151512Z" creationid="Judy" creationdate="20150921T151406Z">
+        <seg>銀行保證函</seg>
       </tuv>
     </tu>
     <tu>
@@ -26576,8 +26600,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>THE SUPPLIER SHALL ENSURE THAT ALL RELATED PAYMENT DOCUMENTS, I.E: INVOICE, BANK GUARANTEE, ETC SHALL BE RECEIVED BY THE PURCHASER IN 12 WORKING DAYS PRIOR TO THE PAYMENT DATE.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T150544Z" creationid="Judy" creationdate="20150921T150250Z">
-        <seg>供應商應確保買方於付款期限 12 個工作天之前收到所有相關付款文件，即：發票、銀行保証函等。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151517Z" creationid="Judy" creationdate="20150921T150250Z">
+        <seg>供應商應確保買方於付款期限 12 個工作天之前收到所有相關付款文件，即：發票、銀行保證函等。</seg>
       </tuv>
     </tu>
     <tu>
