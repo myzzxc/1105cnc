@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -216,7 +216,7 @@
       <tuv lang="EN-US">
         <seg>(About Us)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083246Z" creationid="Judy" creationdate="20150913T083246Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083246Z">
         <seg>（關於我們）</seg>
       </tuv>
     </tu>
@@ -232,7 +232,7 @@
       <tuv lang="EN-US">
         <seg>(Our Expertise)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T074008Z" creationid="Judy" creationdate="20150913T074008Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T074008Z">
         <seg>(我們的專長)</seg>
       </tuv>
     </tu>
@@ -280,7 +280,7 @@
       <tuv lang="EN-US">
         <seg>(Track record)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082504Z" creationid="Judy" creationdate="20150913T082504Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082504Z">
         <seg>（追蹤記錄）</seg>
       </tuv>
     </tu>
@@ -296,7 +296,7 @@
       <tuv lang="EN-US">
         <seg>(Your Challenges – Customer Intimacy)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072201Z" creationid="Judy" creationdate="20150913T072201Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072201Z">
         <seg>(你的挑戰 —— 客戶的緊密關係)</seg>
       </tuv>
     </tu>
@@ -304,7 +304,7 @@
       <tuv lang="EN-US">
         <seg>(Your Challenges – Operational Excellence)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045113Z" creationid="Judy" creationdate="20150913T045113Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045113Z">
         <seg>(你的挑戰 —— 卓越的運營)</seg>
       </tuv>
     </tu>
@@ -312,7 +312,7 @@
       <tuv lang="EN-US">
         <seg>(Your Challenges – Product Leadership)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052411Z" creationid="Judy" creationdate="20150913T052411Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052411Z">
         <seg>(你的挑戰 —— 產品的領導地位)</seg>
       </tuv>
     </tu>
@@ -320,7 +320,7 @@
       <tuv lang="EN-US">
         <seg>(Your Challenges)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033402Z" creationid="Judy" creationdate="20150913T033402Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033402Z">
         <seg>(您的挑戰)</seg>
       </tuv>
     </tu>
@@ -360,7 +360,7 @@
       <tuv lang="EN-US">
         <seg>(start page cont’d)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030143Z" creationid="Judy" creationdate="20150913T030143Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030143Z">
         <seg>(起始頁接續)</seg>
       </tuv>
     </tu>
@@ -514,7 +514,7 @@
       <tuv lang="EN-US">
         <seg>*The research institute for Sweden’s engineering industry.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115248Z" creationid="Judy" creationdate="20150913T115248Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115248Z">
         <seg>* 瑞典工程業的研究機構。</seg>
       </tuv>
     </tu>
@@ -548,7 +548,7 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
       <tuv lang="EN-US">
         <seg>-Modular Management client</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071837Z" creationid="Judy" creationdate="20150913T071837Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071837Z">
         <seg>——模塊化管理的客戶</seg>
       </tuv>
     </tu>
@@ -1475,7 +1475,7 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       <tuv lang="EN-US">
         <seg>A modularization project is a huge undertaking for any organization.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075456Z" creationid="Judy" creationdate="20150913T075456Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075456Z">
         <seg>模塊化的專案對任何組織都是一項浩大工程，</seg>
       </tuv>
     </tu>
@@ -1491,7 +1491,7 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       <tuv lang="EN-US">
         <seg>A new end-to-end, integrated Configure-to-Order system was also implemented and production was transformed from time-station assembly to a production line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T035533Z" creationid="Judy" creationdate="20150910T035533Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T035533Z">
         <seg>全新的點對點、整合配置與訂購系統也同時執行，而生產由標準作業時間轉換成一條生產線。</seg>
       </tuv>
     </tu>
@@ -1604,7 +1604,7 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>A solid track record – a down-to-earth approach</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082543Z" creationid="Judy" creationdate="20150913T082543Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082543Z">
         <seg>完整的記錄——腳踏實地的方法</seg>
       </tuv>
     </tu>
@@ -2193,7 +2193,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>About Us</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031456Z" creationid="Judy" creationdate="20150913T031456Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031456Z">
         <seg>關於我們</seg>
       </tuv>
     </tu>
@@ -2201,7 +2201,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Accelerate your new product development process</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T070907Z" creationid="Judy" creationdate="20150913T070907Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T070907Z">
         <seg>加速新產品開發程序</seg>
       </tuv>
     </tu>
@@ -2313,7 +2313,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>According to an illustrative embodiment of the present disclosure, a utility vehicle is shown comprising a frame extending in a generally longitudinal direction, a drive train supported by the frame, a plurality of wheels operably coupled to the frame, a first seating area, and a side net 30 assembly comprised of a pivotal bar and a net supported by the pivotal bar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T091624Z" creationid="Judy" creationdate="20150919T090056Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T091624Z">
         <seg>根據現迂有揭露資料中的實例說明，多功能越野車包含整體上縱向延伸的框架、固定於框架上的駕駛座、多組連接於框架之車輪、第一座位區以及由樞軸桿和樞軸桿支撐之護網所組合而成的側邊護網。</seg>
       </tuv>
     </tu>
@@ -2345,7 +2345,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Achieve market leadership</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052458Z" creationid="Judy" creationdate="20150913T052439Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052458Z">
         <seg>成為市場的領導者</seg>
       </tuv>
     </tu>
@@ -2353,7 +2353,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Achieving high productivity and quality</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025946Z" creationid="Judy" creationdate="20150913T025946Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025946Z">
         <seg>實現高效率和品質</seg>
       </tuv>
     </tu>
@@ -2818,7 +2818,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Alex von Yxkull, Founder</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115206Z" creationid="Judy" creationdate="20150913T115206Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115206Z">
         <seg>創辦人 Alex von Yxkull</seg>
       </tuv>
     </tu>
@@ -2882,7 +2882,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>All critical data is captured in PALMA™, linking your company’s strategy to our methods in a single program.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080747Z" creationid="Judy" creationdate="20150913T080747Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080747Z">
         <seg>所有的關鍵資料都截取 PALMA™ 之中，能藉由單一的程式將貴公司的策略與我們的方法連結。</seg>
       </tuv>
     </tu>
@@ -2946,7 +2946,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>All of this is done in a structured and coherent way so that your engineers will know exactly what to do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134104Z" creationid="Judy" creationdate="20150910T134104Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134104Z">
         <seg>所有工作都是以結構化和一致的方式完成，如此能使工程師明確了解工作內容，</seg>
       </tuv>
     </tu>
@@ -2954,7 +2954,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>All of this means that your modularity implementation could take months instead of years.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134618Z" creationid="Judy" creationdate="20150910T134618Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134618Z">
         <seg>一切的功能都能使您的模塊化於幾個月內執行，而不用花上數年。</seg>
       </tuv>
     </tu>
@@ -3348,7 +3348,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>An Effective Way to Create and Manage Product Platforms</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T015159Z" creationid="Judy" creationdate="20150913T015159Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T015159Z">
         <seg>有效建立和管理產品平台的方式</seg>
       </tuv>
     </tu>
@@ -3356,7 +3356,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>An almost limitless number of product configurations quickly produced with fewer parts and lower overall costs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044650Z" creationid="Judy" creationdate="20150913T044650Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044650Z">
         <seg>產品配置的數量近乎無限，能使用更少的零件以及更低的總成本快速生產。</seg>
       </tuv>
     </tu>
@@ -3404,7 +3404,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>An impossible equation to balance?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033800Z" creationid="Judy" creationdate="20150913T033800Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033800Z">
         <seg>是否不可能達到平衡？</seg>
       </tuv>
     </tu>
@@ -3420,7 +3420,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>An optimized Modular Product Architecture was created using Modular Function Deployment® (MFD®), and this architecture was populated with the Module Variants and rules needed to configure the full range of products.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033026Z" creationid="Judy" creationdate="20150910T032924Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033026Z">
         <seg>利用模塊功能展開 (Modular Function Deployment®, MFD ®) 建立了最佳化的模塊化產品架構 ( Modular Product Architecture)，此架構中結合了模塊變數和設置全線產品所需的規則。</seg>
       </tuv>
     </tu>
@@ -3460,7 +3460,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>And everyone expects competitive prices.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033710Z" creationid="Judy" creationdate="20150913T033710Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033710Z">
         <seg>每個人都希望能有具競爭力的價格。</seg>
       </tuv>
     </tu>
@@ -3476,7 +3476,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>And it all pays off in the end.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071519Z" creationid="Judy" creationdate="20150913T071519Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071519Z">
         <seg>而這一切花費將在最終得到回報。</seg>
       </tuv>
     </tu>
@@ -3484,7 +3484,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>And our expertise is unique.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030316Z" creationid="Judy" creationdate="20150913T030316Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030316Z">
         <seg>且我們具有獨有的專業知識。</seg>
       </tuv>
     </tu>
@@ -3492,7 +3492,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>And sometimes, it’s simply inside the heads of experienced staff.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131327Z" creationid="Judy" creationdate="20150910T131327Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131327Z">
         <seg>甚至有些時候，資料儲存在有經驗的工作人員的腦袋中。</seg>
       </tuv>
     </tu>
@@ -3500,7 +3500,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>And thanks to them, we never stop growing and expanding our competence.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115101Z" creationid="Judy" creationdate="20150913T115101Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115101Z">
         <seg>且因為這些客戶，我們持續不停地成長並擴展我們的競爭力。</seg>
       </tuv>
     </tu>
@@ -3516,7 +3516,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>And the solution lies in modularity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043745Z" creationid="Judy" creationdate="20150913T043745Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043745Z">
         <seg>解決的方案就是模塊化。</seg>
       </tuv>
     </tu>
@@ -3524,7 +3524,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>And we can do it for you.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025843Z" creationid="Judy" creationdate="20150913T025843Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025843Z">
         <seg>同樣地我們也能讓您成功。</seg>
       </tuv>
     </tu>
@@ -3532,7 +3532,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>And with easily-generated reports, you skip lengthy specifications with overlapping information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134442Z" creationid="Judy" creationdate="20150910T134442Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134442Z">
         <seg>簡便生成的報告，能省略具有重複資訊的冗長規格。</seg>
       </tuv>
     </tu>
@@ -3638,7 +3638,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Appliances</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082750Z" creationid="Judy" creationdate="20150913T082750Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082750Z">
         <seg>電器</seg>
       </tuv>
     </tu>
@@ -3944,7 +3944,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>As your trusted partner, we can offer:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075732Z" creationid="Judy" creationdate="20150913T075732Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075732Z">
         <seg>作為您值得信賴的合作夥伴，我們能夠提供：</seg>
       </tuv>
     </tu>
@@ -4056,7 +4056,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>At Modular Management, we do modular product architecture every day.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075722Z" creationid="Judy" creationdate="20150913T075722Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075722Z">
         <seg>在模塊化管理，我們每天的工作就是推動模塊化架構，</seg>
       </tuv>
     </tu>
@@ -4354,7 +4354,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Automobiles</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082830Z" creationid="Judy" creationdate="20150913T082830Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082830Z">
         <seg>汽車</seg>
       </tuv>
     </tu>
@@ -4443,7 +4443,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>BACKGROUND</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T082250Z" creationid="Judy" creationdate="20150919T082250Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T082250Z">
         <seg>背景資料</seg>
       </tuv>
     </tu>
@@ -5179,7 +5179,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Building/construction</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082807Z" creationid="Judy" creationdate="20150913T082807Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082807Z">
         <seg>建築</seg>
       </tuv>
     </tu>
@@ -5244,7 +5244,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>But for the long-term success of a modular product platform, this simply won’t do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131505Z" creationid="Judy" creationdate="20150910T131505Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131505Z">
         <seg>但這種情況下，一個模塊化產品平台無法長期成功運作。</seg>
       </tuv>
     </tu>
@@ -5252,7 +5252,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>But three.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043726Z" creationid="Judy" creationdate="20150913T043726Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043726Z">
         <seg>而是三個方向。</seg>
       </tuv>
     </tu>
@@ -5260,7 +5260,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>But what if your organization doesn’t fall into this category?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045815Z" creationid="Judy" creationdate="20150913T045815Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045815Z">
         <seg>但如果您的組織不屬於這一類型呢？</seg>
       </tuv>
     </tu>
@@ -5268,7 +5268,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>But what if your organization falls outside this category?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T053023Z" creationid="Judy" creationdate="20150913T053023Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T053023Z">
         <seg>但如果您的組織不屬於這一類型呢？</seg>
       </tuv>
     </tu>
@@ -5460,7 +5460,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>CUSTOMER INTIMACY</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030051Z" creationid="Judy" creationdate="20150913T030051Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030051Z">
         <seg>與客戶的緊密關係</seg>
       </tuv>
     </tu>
@@ -5540,7 +5540,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Capture all critical data on one billboard</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022331Z" creationid="Judy" creationdate="20150913T022331Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022331Z">
         <seg>截取看板上的所有關鍵資料</seg>
       </tuv>
     </tu>
@@ -5796,7 +5796,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Choose a discipline</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044853Z" creationid="Judy" creationdate="20150913T044853Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044853Z">
         <seg>選擇一個領域</seg>
       </tuv>
     </tu>
@@ -6141,7 +6141,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Click here to gain access to a variety of publications on the topics of modularity and product architecture.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032536Z" creationid="Judy" creationdate="20150913T032536Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032536Z">
         <seg>按一下此處了解各種模塊化和產品架構主題的出版物。</seg>
       </tuv>
     </tu>
@@ -6439,7 +6439,7 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       <tuv lang="EN-US">
         <seg>Companies who pursue this strategy must respond quickly to the needs of the individual customer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072502Z" creationid="Judy" creationdate="20150913T072502Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072502Z">
         <seg>追求此策略的企業必須快速回應個別客戶的需求。</seg>
       </tuv>
     </tu>
@@ -6838,7 +6838,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Configure your product offerings</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022417Z" creationid="Judy" creationdate="20150913T022417Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022417Z">
         <seg>配置產品</seg>
       </tuv>
     </tu>
@@ -6846,7 +6846,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Configuring a product offering for your customer requires understanding and managing information from many sources.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134918Z" creationid="Judy" creationdate="20150910T134910Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134918Z">
         <seg>配置依客戶要求的產品，需要了解和管理來自多種來源的資訊，</seg>
       </tuv>
     </tu>
@@ -6974,7 +6974,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Contact</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032847Z" creationid="Judy" creationdate="20150913T032847Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032847Z">
         <seg>連絡我們</seg>
       </tuv>
     </tu>
@@ -7047,7 +7047,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Contractor equipment</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082757Z" creationid="Judy" creationdate="20150913T082757Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082757Z">
         <seg>承包商設備</seg>
       </tuv>
     </tu>
@@ -7607,7 +7607,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Creating superior products and brand image</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030016Z" creationid="Judy" creationdate="20150913T030016Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030016Z">
         <seg>創造優質的產品和品牌形象</seg>
       </tuv>
     </tu>
@@ -7615,7 +7615,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Critical information won’t leave your organization when staff members do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T021237Z" creationid="Judy" creationdate="20150913T021237Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T021237Z">
         <seg>員工處理資料時，關鍵資訊不會離開您的組織。</seg>
       </tuv>
     </tu>
@@ -7679,7 +7679,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Customer Intimacy</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044933Z" creationid="Judy" creationdate="20150913T044933Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044933Z">
         <seg>與客戶的緊密關係</seg>
       </tuv>
     </tu>
@@ -7687,7 +7687,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Customer Intimacy: Tailoring and shaping your products exactly to the customer’s need to build long-term loyalty</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040239Z" creationid="Judy" creationdate="20150913T040239Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040239Z">
         <seg>客戶的緊密關係：量身打造完全符合客戶需求的產品以建立長期的忠誠性</seg>
       </tuv>
     </tu>
@@ -7703,7 +7703,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Customer intimacy aims to achieve increased market share by personalizing services and customizing products to meet varying customer needs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072346Z" creationid="Judy" creationdate="20150913T072346Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072346Z">
         <seg>客戶緊密關係的目標為藉由個人化服務和客製化產品以滿足不同客戶的需求以增加市占率。</seg>
       </tuv>
     </tu>
@@ -7799,7 +7799,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Cut implementation time</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133230Z" creationid="Judy" creationdate="20150910T133230Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133230Z">
         <seg>縮短執行時間</seg>
       </tuv>
     </tu>
@@ -7807,7 +7807,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Cut operations costs by 15%</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025639Z" creationid="Judy" creationdate="20150913T025612Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025639Z">
         <seg>降低 15% 的營運成本</seg>
       </tuv>
     </tu>
@@ -8071,7 +8071,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Data may be duplicated or outdated as it’s passed around from person to person.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023125Z" creationid="Judy" creationdate="20150913T023125Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023125Z">
         <seg>當資料傳遞時，資料有可能重複或已經過時。</seg>
       </tuv>
     </tu>
@@ -8113,7 +8113,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Decrease time to market by 25%</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025535Z" creationid="Judy" creationdate="20150913T025535Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025535Z">
         <seg>減少 25% 導入市場的時間</seg>
       </tuv>
     </tu>
@@ -8747,7 +8747,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Due to increasing recreational interest in ATVs, specialty ATVs, such as those used for trail riding, racing, and cargo hauling have entered the market place.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T083358Z" creationid="Judy" creationdate="20150919T083358Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T083358Z">
         <seg>由於全地形車在休閒用途的需求越來越高，用於野外騎乘、賽車，貨物牽引等專用全地形車已經進入了市場。</seg>
       </tuv>
     </tu>
@@ -8886,7 +8886,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>E-mail: info.americas@modularmanagement.com</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033239Z" creationid="Judy" creationdate="20150913T033239Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033239Z">
         <seg>電子郵件：info.americas@modularmanagement.com</seg>
       </tuv>
     </tu>
@@ -8894,7 +8894,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>E-mail: info.asia@modularmanagement.com</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033318Z" creationid="Judy" creationdate="20150913T033318Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033318Z">
         <seg>電子郵件: info.asia@modularmanagement.com</seg>
       </tuv>
     </tu>
@@ -8902,7 +8902,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>E-mail: info@modularmanagement.com</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033210Z" creationid="Judy" creationdate="20150913T033210Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033210Z">
         <seg>電子郵件：info@modularmanagement.com</seg>
       </tuv>
     </tu>
@@ -9345,7 +9345,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Email: info@modularmanagement.de</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033357Z" creationid="Judy" creationdate="20150913T033357Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033357Z">
         <seg>電子郵件：info@modularmanagement.de</seg>
       </tuv>
     </tu>
@@ -9361,7 +9361,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Embrace changing markets</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073024Z" creationid="Judy" creationdate="20150913T073024Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073024Z">
         <seg>擁抱變化中的市場</seg>
       </tuv>
     </tu>
@@ -9928,7 +9928,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Examples of product leaders include Apple, Fidelity Investments, Pfizer and BMW.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052958Z" creationid="Judy" creationdate="20150913T052958Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052958Z">
         <seg>產品領導者的例子包括蘋果、富達投資、 輝瑞公司和寶馬。</seg>
       </tuv>
     </tu>
@@ -9936,7 +9936,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Examples of such customer-centric companies include Lexus, IBM, Virgin Atlantic and Amazon.com.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072606Z" creationid="Judy" creationdate="20150913T072606Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072606Z">
         <seg>這種以客戶為中心的公司範例包括凌志、 IBM、 Virgin Atlantic 和亞馬遜。</seg>
       </tuv>
     </tu>
@@ -10161,7 +10161,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FIELD OF THE DISCLOSURE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T081228Z" creationid="Judy" creationdate="20150919T081228Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T081228Z">
         <seg>資訊揭露範圍</seg>
       </tuv>
     </tu>
@@ -10250,7 +10250,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Fast implementation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080042Z" creationid="Judy" creationdate="20150913T080042Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080042Z">
         <seg>快速執行</seg>
       </tuv>
     </tu>
@@ -10491,7 +10491,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Fill in your name and e-mail and we’ll contact you.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031014Z" creationid="Judy" creationdate="20150913T031014Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031014Z">
         <seg>請填寫您的姓名和電子郵件，我們會與您聯繫。</seg>
       </tuv>
     </tu>
@@ -10611,7 +10611,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Find out more about what modularity can do for you.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030953Z" creationid="Judy" creationdate="20150913T030953Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030953Z">
         <seg>瞭解更多關於模塊化的能為您提供的功能。</seg>
       </tuv>
     </tu>
@@ -11080,7 +11080,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For example, you could achieve flexibility and efficiency by producing certain modules close to market and others in centers of excellence.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051656Z" creationid="Judy" creationdate="20150913T051656Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051656Z">
         <seg>例如，可以藉由生產貼近市場和其他方面的特定模組以達到彈性和效率。</seg>
       </tuv>
     </tu>
@@ -11120,7 +11120,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For further reading about PALMA®, please click here…</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120427Z" creationid="Judy" creationdate="20150910T120427Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120427Z">
         <seg>請點擊此處⋯⋯以便進一步了解 PALMA®</seg>
       </tuv>
     </tu>
@@ -11392,7 +11392,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>From concept to launch and all that comes after, we’ve got it covered.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080302Z" creationid="Judy" creationdate="20150913T080302Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080302Z">
         <seg>從概念到產品發售以及後續活動，我們都有相應方案。</seg>
       </tuv>
     </tu>
@@ -11408,7 +11408,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>From research papers and theses by Modular Management associates, to case studies and external publications, you can find out more about the theory and practice of modularization.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032835Z" creationid="Judy" creationdate="20150913T032835Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032835Z">
         <seg>由模塊化管理合夥人所發表的研究論文、案例研究和外部的出版物中，可以找到更多關於模組化的實踐與理論。</seg>
       </tuv>
     </tu>
@@ -11432,7 +11432,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>From there, PALMA™ helps your company to manage your product assortment and architecture over its lifecycle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082206Z" creationid="Judy" creationdate="20150913T082206Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082206Z">
         <seg>藉由這些基礎，PALMA™ 能協助您的公司在在產品整個生命週期中管理您的產品種類和產品平台。</seg>
       </tuv>
     </tu>
@@ -11559,7 +11559,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Gain a competitive edge –</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040825Z" creationid="Judy" creationdate="20150913T040825Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040825Z">
         <seg>增加兩項以上的競爭優勢</seg>
       </tuv>
     </tu>
@@ -11591,7 +11591,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Generally, all terrain vehicles ("ATVs") and utility vehicles 10 ("UVs") are used to carry one or two passengers and a small amount of caigo over a variety of terrains.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T082830Z" creationid="Judy" creationdate="20150919T082830Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T082830Z">
         <seg>一般來說，全地形車 (all terrain vehicle，簡稱 ATV) 和多功能越野車 (utility vehicle，簡稱 UV) 用於承載一名或兩名乘客以及少量的貨物穿梭於各種地形中。</seg>
       </tuv>
     </tu>
@@ -11663,7 +11663,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Getting the right data to configure a product offering can be a long and error-prone process.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023655Z" creationid="Judy" creationdate="20150913T023655Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023655Z">
         <seg>取得正確的資料是很耗費時間而且容易出錯的程序，</seg>
       </tuv>
     </tu>
@@ -11815,7 +11815,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Govern</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T040040Z" creationid="Judy" creationdate="20150910T040040Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T040040Z">
         <seg>管理</seg>
       </tuv>
     </tu>
@@ -12119,7 +12119,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Head office Stockholm, Sweden</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033151Z" creationid="Judy" creationdate="20150913T033151Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033151Z">
         <seg>瑞典斯德哥爾摩總公司</seg>
       </tuv>
     </tu>
@@ -12231,7 +12231,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>High productivity and even quality</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045139Z" creationid="Judy" creationdate="20150913T045139Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045139Z">
         <seg>高效率和品質</seg>
       </tuv>
     </tu>
@@ -12303,7 +12303,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>How MM works</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T014500Z" creationid="Judy" creationdate="20150910T014500Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T014500Z">
         <seg>模塊化管理的運作方式</seg>
       </tuv>
     </tu>
@@ -12311,7 +12311,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>How Modular Management worked at MTS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120531Z" creationid="Judy" creationdate="20150910T120531Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120531Z">
         <seg>模塊化管理如何在 MTS 運作</seg>
       </tuv>
     </tu>
@@ -12319,7 +12319,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>How can you decrease your time to market while keeping costs low and meeting customer needs?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T053128Z" creationid="Judy" creationdate="20150913T053128Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T053128Z">
         <seg>您要如何減少導入市場你的時間，並同時保持低成本低和滿足客戶需求？</seg>
       </tuv>
     </tu>
@@ -12327,7 +12327,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>How can you focus on individual customer’s needs while offering superior products and maintaining cost management?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072650Z" creationid="Judy" creationdate="20150913T072650Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072650Z">
         <seg>如何在專注於個別客戶需求的同時提供優質的產品並維持成本管理？</seg>
       </tuv>
     </tu>
@@ -12335,7 +12335,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>How can your product development strategy achieve operational excellence while still meeting your customers’ demands?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045902Z" creationid="Judy" creationdate="20150913T045902Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045902Z">
         <seg>如何訂定您的產品開發策略以實現卓越的運營，同時仍滿足客戶的需求？</seg>
       </tuv>
     </tu>
@@ -12375,7 +12375,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>How modularity works</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044234Z" creationid="Judy" creationdate="20150913T044234Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044234Z">
         <seg>模塊化的運作方式</seg>
       </tuv>
     </tu>
@@ -12472,7 +12472,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Huge complexity costs are incurred when there’s a quick increase of unique services to meet the needs of each user.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050429Z" creationid="Judy" creationdate="20150913T050241Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050429Z">
         <seg>當滿足每個使用者的特有服務需求快速增加時，將產生鉅額的複雜性成本。</seg>
       </tuv>
     </tu>
@@ -12544,7 +12544,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>I added this (keyword).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120840Z" creationid="Judy" creationdate="20150913T120840Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120840Z">
         <seg>我補充這個（關鍵字）。</seg>
       </tuv>
     </tu>
@@ -12552,7 +12552,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>I think it’s enough with the actual contact information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120322Z" creationid="Judy" creationdate="20150913T120322Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120322Z">
         <seg>我認為提供實際聯繫資訊已足夠。</seg>
       </tuv>
     </tu>
@@ -12560,7 +12560,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>I took these statistics from Trane, but maybe more general statistics are appropriate here.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115544Z" creationid="Judy" creationdate="20150913T115544Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115544Z">
         <seg>統計資料取自 Trane，但此處也許更適合使用更一般性的統計數據。</seg>
       </tuv>
     </tu>
@@ -13080,7 +13080,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If the modules have standardized interfaces, then each variant can be combined in different ways to create completely different products.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044449Z" creationid="Judy" creationdate="20150913T044449Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044449Z">
         <seg>如果模組採用標準化的接口，則每種變形能以不同的方式來建立完全不同的產品。</seg>
       </tuv>
     </tu>
@@ -13433,7 +13433,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If your product families or service offerings are late to market you could not only lose sales, but lose market share as well.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071122Z" creationid="Judy" creationdate="20150913T071122Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071122Z">
         <seg>如果產品家族或服務較晚進入市場，您可能不止失去銷售量，同時也失去市占率。</seg>
       </tuv>
     </tu>
@@ -13465,7 +13465,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Implement</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034130Z" creationid="Judy" creationdate="20150910T034130Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034130Z">
         <seg>執行</seg>
       </tuv>
     </tu>
@@ -13745,7 +13745,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In both scenarios, the organization will often not have the tools to put a price tag on that complexity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050532Z" creationid="Judy" creationdate="20150913T050532Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050532Z">
         <seg>這兩種情況下，多數組織通常沒有衡量這種複雜性成本的工具。</seg>
       </tuv>
     </tu>
@@ -13962,7 +13962,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In the early 1990s, I was part of a team of dedicated researchers at Stockholm’s Royal Institute of Technology and IVF.* We were investigating the drivers behind modularization and how it was being successfully employed in product design, development and marketing by a number of companies including Sony, Honda, and Scania.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T085912Z" creationid="Judy" creationdate="20150913T085912Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T085912Z">
         <seg>在 1990 年代初期，我是斯德哥爾摩皇家技術研究所和 IVF.* 研究團隊中的一員，我們研究模塊化背後的驅動力以及模塊化如何被成功地被 Sony、Honda 以及 Scania 用於產品設計、開發和行銷。</seg>
       </tuv>
     </tu>
@@ -13978,7 +13978,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In the product design and manufacturing process, the focus is usually on reducing material cost.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050034Z" creationid="Judy" creationdate="20150913T050025Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050034Z">
         <seg>在產品設計和製造過程中，重點通常是降低材料成本，</seg>
       </tuv>
     </tu>
@@ -14002,7 +14002,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In the years that followed, we developed two more methods: one to quantify the cost of product structure complexity and another to manufacture a modular product in the best possible way.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114355Z" creationid="Judy" creationdate="20150913T114355Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114355Z">
         <seg>在之後的幾年間，我們多開發了兩種方法：一種用於量化產品結構的複雜性成本，另一種是以最佳的方式製造模塊化產品。</seg>
       </tuv>
     </tu>
@@ -14074,7 +14074,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In this section, you can read about the results our clients have achieved through modularity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031453Z" creationid="Judy" creationdate="20150913T031453Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031453Z">
         <seg>您可以在本節中讀到關於我們的客戶藉由模塊化所達成的結果。</seg>
       </tuv>
     </tu>
@@ -14138,7 +14138,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Increase market offering by 44%</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025726Z" creationid="Judy" creationdate="20150913T025726Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025726Z">
         <seg>增加 44% 的產品供給</seg>
       </tuv>
     </tu>
@@ -14162,7 +14162,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Increasing market share and customer loyalty</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030117Z" creationid="Judy" creationdate="20150913T030117Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030117Z">
         <seg>增加市占率和客戶忠誠度</seg>
       </tuv>
     </tu>
@@ -14836,7 +14836,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Is it factually correct?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120851Z" creationid="Judy" creationdate="20150913T120851Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120851Z">
         <seg>是否正確？</seg>
       </tuv>
     </tu>
@@ -14868,7 +14868,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It accepts diverse and changing markets; it standardizes interfaces rather than the product or service itself.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073327Z" creationid="Judy" creationdate="20150913T073327Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073327Z">
         <seg>它接受不同的和變化中的市場；標準化接口，而非產品或服務本身。</seg>
       </tuv>
     </tu>
@@ -14876,7 +14876,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It allows a company to combine a few building blocks – modules - into more products than marketing and customers may imagine.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073622Z" creationid="Judy" creationdate="20150913T073622Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073622Z">
         <seg>它使公司能結合數個模塊成為更多遠比市場行銷和客戶能想像的產品。</seg>
       </tuv>
     </tu>
@@ -14884,7 +14884,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It allows you to easily trace product and design decisions back to strategy to ensure a lasting product foundation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T141035Z" creationid="Judy" creationdate="20150910T141035Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T141035Z">
         <seg>它能輕鬆地追蹤產品和設計決策以維持和策略同調，確保長久的產品基礎。</seg>
       </tuv>
     </tu>
@@ -14908,7 +14908,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It also holds the technical solutions that comprise the product, specifications on modules, interfaces and the configuration rules for your products.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133932Z" creationid="Judy" creationdate="20150910T133450Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133932Z">
         <seg>此軟體還具有包含了您的產品、模塊規格、接口和產品配置規則的技術解決方案。</seg>
       </tuv>
     </tu>
@@ -14948,7 +14948,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It can be time consuming to get to the right data, resulting in a lengthy and error-prone process.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T135033Z" creationid="Judy" creationdate="20150910T134920Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T135033Z">
         <seg>取得正確的資料可能會很耗費時間，從而導致冗長而且容易出錯的程序。</seg>
       </tuv>
     </tu>
@@ -15012,7 +15012,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It doesn’t matter if you work with postal service or automobile manufacturing, whether you produce five units per year or five million.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031231Z" creationid="Judy" creationdate="20150913T031231Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031231Z">
         <seg>無論您是郵政服務或汽車製造業、產量是每年五個或五百萬個單位，</seg>
       </tuv>
     </tu>
@@ -15020,7 +15020,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It doesn’t matter what type of product or service your company offers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082934Z" creationid="Judy" creationdate="20150913T082934Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082934Z">
         <seg>無論貴公司提供何種類型的產品或服務，</seg>
       </tuv>
     </tu>
@@ -15028,7 +15028,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It enables you to manage your product platforms over their entire lifecycle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131734Z" creationid="Judy" creationdate="20150910T131734Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131734Z">
         <seg>此軟體能夠在產品整個生命週期中管理您的產品平台，</seg>
       </tuv>
     </tu>
@@ -15044,7 +15044,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It focuses on a few products or services that customers are willing to pay a premium for.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052917Z" creationid="Judy" creationdate="20150913T052917Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052917Z">
         <seg>它著重於少數幾個客戶願意支付高價的產品或服務。</seg>
       </tuv>
     </tu>
@@ -15052,7 +15052,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It gives a cross-functional view of your product assortment that delivers key information to marketing, production, and engineers throughout the MFD process and beyond.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132935Z" creationid="Judy" creationdate="20150910T132904Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132935Z">
         <seg>其中提供了跨功能檢視產品類別，於整個模塊功能展開程序中將關鍵資訊傳送到市場行銷、生產和工程師手上。</seg>
       </tuv>
     </tu>
@@ -15561,7 +15561,7 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Keeping track of different data and decisions made is essential to keeping in line with your strategy and market objectives.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T140656Z" creationid="Judy" creationdate="20150910T140656Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T140656Z">
         <seg>持續追蹤不同的資料並和決策，對於符合您的策略和市場目標至關重要。</seg>
       </tuv>
     </tu>
@@ -15778,7 +15778,7 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Leaders in operational excellence include Wal-Mart, IKEA, FedEx and McDonald’s.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045656Z" creationid="Judy" creationdate="20150913T045656Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045656Z">
         <seg>卓越營運的領導公司包括了Wal-Mart、宜家、聯邦快遞和麥當勞。</seg>
       </tuv>
     </tu>
@@ -15968,7 +15968,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Like any other product development project, a successful modularization project involves a cross-functional commitment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132309Z" creationid="Judy" creationdate="20150910T132248Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132309Z">
         <seg>如同其它的產品開發專案，一個成功的模塊化專案包含了各種功能的整合，</seg>
       </tuv>
     </tu>
@@ -16160,7 +16160,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Loyal customers and increased market share</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072246Z" creationid="Judy" creationdate="20150913T072246Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072246Z">
         <seg>忠誠的客戶和市占率的增加</seg>
       </tuv>
     </tu>
@@ -16304,7 +16304,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MTS began to manufacture and maintain a product families with dramatically fewer unique part numbers while greatly decreasing lead times and inventory.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T040012Z" creationid="Judy" creationdate="20150910T040012Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T040012Z">
         <seg>MTS 製造和維護產品家族時，開始大量減少特殊零件數量，並同時大幅降低交貨時間和庫存。</seg>
       </tuv>
     </tu>
@@ -16505,7 +16505,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Managing your modular product architecture involves keeping track of vast amounts of information surrounding your product assortment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T020328Z" creationid="Judy" creationdate="20150913T020328Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T020328Z">
         <seg>模塊化產品架構管理牽涉到追蹤產品類別相關的大量資訊，</seg>
       </tuv>
     </tu>
@@ -16513,7 +16513,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Managing your product architecture is all about managing information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T130741Z" creationid="Judy" creationdate="20150910T130730Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T130741Z">
         <seg>管理產品架構就是資訊管理，</seg>
       </tuv>
     </tu>
@@ -16691,7 +16691,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Meet Your Challenges</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033413Z" creationid="Judy" creationdate="20150913T033413Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033413Z">
         <seg>滿足您的挑戰</seg>
       </tuv>
     </tu>
@@ -16915,7 +16915,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Minimized risk</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T081008Z" creationid="Judy" creationdate="20150913T081008Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T081008Z">
         <seg>風險最小化</seg>
       </tuv>
     </tu>
@@ -17035,7 +17035,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management Group is an international company based in Stockholm, Sweden, with subsidiaries in Sweden, U.S.A, Asia and Germany.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114734Z" creationid="Judy" creationdate="20150913T114734Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114734Z">
         <seg>模塊化管理集團為一間國際性的公司，總部設於瑞典的斯德哥爾摩，於瑞典、美國、亞洲和德國設有分公司。</seg>
       </tuv>
     </tu>
@@ -17043,7 +17043,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management can help you reduce development time, expand product assortment and reduce product cost – all at the same time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025309Z" creationid="Judy" creationdate="20150913T025309Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025309Z">
         <seg>模塊化管理能同時減少開發時間、擴大產品類別並降低產品成本。</seg>
       </tuv>
     </tu>
@@ -17051,7 +17051,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management can help you:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045917Z" creationid="Judy" creationdate="20150913T045917Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045917Z">
         <seg>模塊化管理可以協助您：</seg>
       </tuv>
     </tu>
@@ -17059,7 +17059,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management can show it’s possible to optimize your strategic position in all directions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043630Z" creationid="Judy" creationdate="20150913T043630Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043630Z">
         <seg>模塊化管理展現出所有方向的最佳化策略的可能性，</seg>
       </tuv>
     </tu>
@@ -17067,7 +17067,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management can show you how to arrive at a new product design that lets you evolve with the market needs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073821Z" creationid="Judy" creationdate="20150913T073821Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073821Z">
         <seg>模塊化管理可以展現出如何讓您隨市場需求推出新的產品設計，</seg>
       </tuv>
     </tu>
@@ -17075,7 +17075,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management has a solid track record of implementing product platform design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031114Z" creationid="Judy" creationdate="20150913T031114Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031114Z">
         <seg>模塊化管理具有執行產品平台設計的完整記錄。</seg>
       </tuv>
     </tu>
@@ -17083,7 +17083,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management is a global leader in strategic modular product architecture.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031819Z" creationid="Judy" creationdate="20150913T031641Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031819Z">
         <seg>模塊化管理為策略性模塊化產品架構的全球領導者。</seg>
       </tuv>
     </tu>
@@ -17091,7 +17091,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management makes the impossible possible:  We use modular product architecture to help you achieve high productivity, superior products and services, and increased market share – all at the same time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083524Z" creationid="Judy" creationdate="20150913T083406Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083524Z">
         <seg>模塊化管理化不可能變為可能：我們使用模塊化產品架構協助您同時實現高產量、優質的產品和服務並增加市占率。</seg>
       </tuv>
     </tu>
@@ -17099,7 +17099,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management’s Supply Chain Study process can help you unlock these opportunities.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052215Z" creationid="Judy" creationdate="20150913T052215Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052215Z">
         <seg>模塊化管理的供應鏈研究能協助您把握這些機會。</seg>
       </tuv>
     </tu>
@@ -17107,7 +17107,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management’s ValueMap™ process helps your company understand these costs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051004Z" creationid="Judy" creationdate="20150913T051004Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051004Z">
         <seg>模塊化管理的 ValueMap™ 程序可幫助明您的公司瞭解這些成本。</seg>
       </tuv>
     </tu>
@@ -17115,7 +17115,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management’s quality is unsurpassed in its field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075847Z" creationid="Judy" creationdate="20150913T075847Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075847Z">
         <seg>模塊化管理的高品質在其領域中是無可比擬的。</seg>
       </tuv>
     </tu>
@@ -17123,7 +17123,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Transformation™ established needed changes for a new way of working to ensure the benefits of modularity would be a lasting and profitable foundation for MTS.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115301Z" creationid="Judy" creationdate="20150910T115301Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115301Z">
         <seg>模塊化轉型™ (Modular Transformation™ ) 建立新作業方式所需的變更，以確保模塊化的效益能長久並成為 MTS 的盈利基礎。</seg>
       </tuv>
     </tu>
@@ -17131,7 +17131,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular product design is also a platform for supply chain optimization.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052358Z" creationid="Judy" creationdate="20150913T052358Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052358Z">
         <seg>模塊化產品設計也是一個供應鏈最佳化的平台。</seg>
       </tuv>
     </tu>
@@ -17139,7 +17139,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modularity can take years to implement because of poorly managed information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133327Z" creationid="Judy" creationdate="20150910T133327Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133327Z">
         <seg>若資訊管理不善，模塊化可能需要多年才能執行。</seg>
       </tuv>
     </tu>
@@ -17147,7 +17147,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modularity can take years to implement with poor information management.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023454Z" creationid="Judy" creationdate="20150913T023454Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023454Z">
         <seg>資訊管理不善會使模塊化需要多年才能執行，</seg>
       </tuv>
     </tu>
@@ -17155,7 +17155,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modularity is defined as “the degree to which a system is made up of relatively independent but interlocking components or parts.”  Modular product architecture is the foundation for tailoring your product or service to the needs of your customers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044222Z" creationid="Judy" creationdate="20150913T044222Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044222Z">
         <seg>模塊化定義為「系統是由相對獨立但能交互共用的組件或零件所組成」，模塊化的產品架構為依客戶需求制定產品或服務的基礎。</seg>
       </tuv>
     </tu>
@@ -17163,7 +17163,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modularity proves this theory wrong.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040736Z" creationid="Judy" creationdate="20150913T040736Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040736Z">
         <seg>模塊化證明了這理論的錯誤。</seg>
       </tuv>
     </tu>
@@ -17171,7 +17171,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modularity – makes the impossible possible</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024957Z" creationid="Judy" creationdate="20150913T024957Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024957Z">
         <seg>模組化 —— 化不可能為可能</seg>
       </tuv>
     </tu>
@@ -17179,7 +17179,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modularization starts with understanding where variety and product development is needed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073227Z" creationid="Judy" creationdate="20150913T073227Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073227Z">
         <seg>模塊化始於瞭解變化和產品開發的需求，</seg>
       </tuv>
     </tu>
@@ -17187,7 +17187,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modularize (not standardize).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072708Z" creationid="Judy" creationdate="20150913T072708Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072708Z">
         <seg>模塊化（非標準化）</seg>
       </tuv>
     </tu>
@@ -17195,7 +17195,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Module Design™ was used to implement standardized interfaces while managing development streams, priorities and module requirements.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034253Z" creationid="Judy" creationdate="20150910T034253Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034253Z">
         <seg>設計模塊™ (Module Design™) 用於執行標準化的接口，同時管理開發流、優先事項和模塊的要求。</seg>
       </tuv>
     </tu>
@@ -17203,7 +17203,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Module Finance™ supplied a model that balanced the direct and indirect cost implications of each architecture decision and the tools to analyze the profitability of the modular system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033403Z" creationid="Judy" creationdate="20150910T033403Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033403Z">
         <seg>財務模塊™ (Module Finance™) 提供了每個架構決策所涉的直接和間接成本的平衡模型和分析模塊化系統盈利能力的工具。</seg>
       </tuv>
     </tu>
@@ -17283,7 +17283,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Most ATVs include seating for up to two passengers which are either seated side-by-side or with the passenger positioned behind the driver of the ATV.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T090727Z" creationid="Judy" creationdate="20150919T083822Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T090727Z">
         <seg>大多數的全地形車只能承載至多兩名乘客，其座位的安排為並排（方向盤式）或乘客位於駕駛後方的前後排列。</seg>
       </tuv>
     </tu>
@@ -17331,7 +17331,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Most companies will take on a major product platform development only once every few decades – and their internal processes aren’t focused on modularity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075639Z" creationid="Judy" creationdate="20150913T075639Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075639Z">
         <seg>大多數公司數十年進行一次主要的產品平台開發，而其內部的程序並非專注於模塊化。</seg>
       </tuv>
     </tu>
@@ -17604,7 +17604,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>New roles, such as Chief Architect and Module System Product Manager, were created with the mandate to sustain and leverage the architecture.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115755Z" creationid="Judy" creationdate="20150910T115755Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115755Z">
         <seg>為了維持和利用架構，創造出了首席架構師和模塊系統產品經理等新的角色。</seg>
       </tuv>
     </tu>
@@ -17768,7 +17768,7 @@ without the documented approval of the appropriate Quality Control personnel.
       <tuv lang="EN-US">
         <seg>Not one.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043645Z" creationid="Judy" creationdate="20150913T043645Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043645Z">
         <seg>不只一個方向，</seg>
       </tuv>
     </tu>
@@ -17776,7 +17776,7 @@ without the documented approval of the appropriate Quality Control personnel.
       <tuv lang="EN-US">
         <seg>Not two.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043709Z" creationid="Judy" creationdate="20150913T043655Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043709Z">
         <seg>也不只兩個方向，</seg>
       </tuv>
     </tu>
@@ -18385,7 +18385,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>OPERATIONAL EXCELLENCE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025930Z" creationid="Judy" creationdate="20150913T025012Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025930Z">
         <seg>卓越的營運</seg>
       </tuv>
     </tu>
@@ -18610,7 +18610,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Offices</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033128Z" creationid="Judy" creationdate="20150913T033128Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033128Z">
         <seg>辦公室</seg>
       </tuv>
     </tu>
@@ -18906,7 +18906,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Once in place, you can easily convert this into a configurator that can be used by your sales staff to configure a product with just a few clicks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T135905Z" creationid="Judy" creationdate="20150910T135905Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T135905Z">
         <seg>只需幾個簡單步驟，便可以輕鬆地轉換為銷售人員可以用於產品配置的配置器。</seg>
       </tuv>
     </tu>
@@ -18962,7 +18962,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Once you have a modular product design, a number of opportunities in design and manufacturing arise.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051506Z" creationid="Judy" creationdate="20150913T051506Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051506Z">
         <seg>當您具有模塊化產品設計時，設計和製造過程中將會出現大量的機會。</seg>
       </tuv>
     </tu>
@@ -18986,7 +18986,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>One system to ensure the right product offering</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T130640Z" creationid="Judy" creationdate="20150910T130640Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T130640Z">
         <seg>確保所提供正確產品的一套系統</seg>
       </tuv>
     </tu>
@@ -19210,7 +19210,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Operational Excellence</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044858Z" creationid="Judy" creationdate="20150913T044858Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044858Z">
         <seg>卓越的營運</seg>
       </tuv>
     </tu>
@@ -19218,7 +19218,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Operational Excellence: Optimizing all processes to deliver the lowest cost</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T035959Z" creationid="Judy" creationdate="20150913T035959Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T035959Z">
         <seg>卓越的營運：最佳化所有的程序，以將成本降到最低</seg>
       </tuv>
     </tu>
@@ -19226,7 +19226,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Operational excellence aims to achieve cost leadership by automating manufacturing processes and streamlining work procedures.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045235Z" creationid="Judy" creationdate="20150913T045235Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045235Z">
         <seg>卓越的運營目標是以製造流程自動化和簡化工作程序以達到成本領先地位。</seg>
       </tuv>
     </tu>
@@ -19242,7 +19242,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Optimizing processes and work procedures</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044916Z" creationid="Judy" creationdate="20150913T044916Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044916Z">
         <seg>最佳化流程及工作程序</seg>
       </tuv>
     </tu>
@@ -19258,7 +19258,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Option 1;  can also be shortened by removing “Modular Management can help you ..”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115429Z" creationid="Judy" creationdate="20150913T115429Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115429Z">
         <seg>選項 1；也能刪除「模塊化管理能協助你⋯⋯」來簡化</seg>
       </tuv>
     </tu>
@@ -19266,7 +19266,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Option 2.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115443Z" creationid="Judy" creationdate="20150913T115443Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115443Z">
         <seg>選項 2。</seg>
       </tuv>
     </tu>
@@ -19282,7 +19282,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Optional, but I think you need a call-to-action to push the reader to read on.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120619Z" creationid="Judy" creationdate="20150913T120619Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120619Z">
         <seg>選擇性內容，但我認為需要一個號召動作以促使讀者繼續閱讀。</seg>
       </tuv>
     </tu>
@@ -19346,7 +19346,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Or increase throughput and achieve higher assembly efficiency by specializing assembly operations in module production cells.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051902Z" creationid="Judy" creationdate="20150913T051902Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051902Z">
         <seg>或藉由模塊生產單位的專業化組裝來增加生產速度並達到更高的組裝效率。</seg>
       </tuv>
     </tu>
@@ -19354,7 +19354,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Or whether you make five units per year or five million.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082956Z" creationid="Judy" creationdate="20150913T082956Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082956Z">
         <seg>無論您的產量是每年五個或五百萬個單位，</seg>
       </tuv>
     </tu>
@@ -19490,7 +19490,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Others want a wide range of different models or services.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033658Z" creationid="Judy" creationdate="20150913T033658Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033658Z">
         <seg>有些公司想要提供多種不同的產品或服務。</seg>
       </tuv>
     </tu>
@@ -19514,7 +19514,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our Expertise</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T074014Z" creationid="Judy" creationdate="20150913T030151Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T074014Z">
         <seg>我們的專長</seg>
       </tuv>
     </tu>
@@ -19522,7 +19522,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our Modular Function Deployment® process is a structured method and procedure for company-supported modularization.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071311Z" creationid="Judy" creationdate="20150913T071311Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071311Z">
         <seg>我們的模塊功能展開® (Modular Function Deployment®) 程序為一種結構化的方法和支援公司模塊化的程序。</seg>
       </tuv>
     </tu>
@@ -19530,7 +19530,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our PALMA™ software supports the entire process, ensuring you the best result: a lasting product foundation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080034Z" creationid="Judy" creationdate="20150913T080034Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080034Z">
         <seg> PALMA™ 軟體支援整個流程，確保最好的結果：持久的產品基礎。</seg>
       </tuv>
     </tu>
@@ -19538,7 +19538,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our consultants work with you hand-in-hand to get your modular products to market quickly and smoothly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T081003Z" creationid="Judy" creationdate="20150913T081003Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T081003Z">
         <seg>與我們攜手合作能讓您的模塊化產品迅速且順利導入市場。</seg>
       </tuv>
     </tu>
@@ -19554,7 +19554,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our global consultants have held management positions in fields like product management, lean manufacturing, industrial product design, supply chain and modular design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T081453Z" creationid="Judy" creationdate="20150913T081453Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T081453Z">
         <seg>我們的全球顧問擔任管理職位的領域包括產品管理、生產精進、工業產品設計、供應鏈和模塊化設計。</seg>
       </tuv>
     </tu>
@@ -19562,7 +19562,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our methodology has been refined over 20 years of ongoing research and practical application.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075940Z" creationid="Judy" creationdate="20150913T075940Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075940Z">
         <seg>我們使用的方法經過了超過 20 年不斷研究和實際應用的焠鍊。</seg>
       </tuv>
     </tu>
@@ -19570,7 +19570,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our proven methodology can help you improve business performance through market-driven, strategic modular product architectures.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083412Z" creationid="Judy" creationdate="20150913T083121Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083412Z">
         <seg>我們經過實際驗證有效的方法能協助您藉由市場導向、策略性模塊化產品架構來改善公司業績。</seg>
       </tuv>
     </tu>
@@ -19578,7 +19578,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our research led us to start Modular Management in 1996 as a product development consultant firm.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032048Z" creationid="Judy" creationdate="20150913T032048Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032048Z">
         <seg>藉由我們的研究成果，我們於 1996 年成立了專營產品開發的模塊化管理顧問公司。</seg>
       </tuv>
     </tu>
@@ -19586,7 +19586,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our software PALMA™ helps you to do just that.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131649Z" creationid="Judy" creationdate="20150910T131649Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131649Z">
         <seg>我們提供的 PALMA™  軟體能協助您達成所需。</seg>
       </tuv>
     </tu>
@@ -19594,7 +19594,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our success story</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T085417Z" creationid="Judy" creationdate="20150913T085417Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T085417Z">
         <seg>我們的成功案例</seg>
       </tuv>
     </tu>
@@ -19610,7 +19610,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our time to market has been reduced.”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071809Z" creationid="Judy" creationdate="20150913T071809Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071809Z">
         <seg>我們已經減少了導入市場的時間。」</seg>
       </tuv>
     </tu>
@@ -19706,7 +19706,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™ allows you to track your product and design decisions back to strategy to ensure a lasting product foundation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024120Z" creationid="Judy" creationdate="20150913T024120Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024120Z">
         <seg>PALMA™ 能輕鬆地追蹤產品和設計決策以維持和策略同調，確保長久的產品基礎。</seg>
       </tuv>
     </tu>
@@ -19714,7 +19714,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™ by Modular Management</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T130325Z" creationid="Judy" creationdate="20150910T130325Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T130325Z">
         <seg>模塊化管理 PALMA™ </seg>
       </tuv>
     </tu>
@@ -19722,7 +19722,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™ delivers data in a structured and coherent way that tells your engineers exactly what to do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023535Z" creationid="Judy" creationdate="20150913T023535Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023535Z">
         <seg>PALMA™  以結構化和一致的方式傳遞資料，如此能使工程師明確了解工作內容，</seg>
       </tuv>
     </tu>
@@ -19730,7 +19730,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™ ensures all your critical product information is captured on one billboard where your sales, production and engineering staff can share and review the same information in real time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023352Z" creationid="Judy" creationdate="20150913T023352Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023352Z">
         <seg>PALMA™ 確保所有關鍵產品資訊皆截取在相同的看板上，使銷售、生產和工程技術人員可以共用和即時查看相同的資訊。</seg>
       </tuv>
     </tu>
@@ -19738,7 +19738,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™ is the tool to continuously ensure you have the right product offering.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T140825Z" creationid="Judy" creationdate="20150910T140825Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T140825Z">
         <seg>PALMA™ 為持續確保能提供合適產品的工具，</seg>
       </tuv>
     </tu>
@@ -19746,7 +19746,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™ lets you:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022316Z" creationid="Judy" creationdate="20150913T022316Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022316Z">
         <seg>PALMA™ 能夠：</seg>
       </tuv>
     </tu>
@@ -19754,7 +19754,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™ provides a holistic and detailed view of customer needs as well as the product properties that meet them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133453Z" creationid="Judy" creationdate="20150910T133445Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133453Z">
         <seg>PALMA™ 提供依客戶需求的全面和詳細視圖以及滿足客戶的產品屬性。</seg>
       </tuv>
     </tu>
@@ -19762,7 +19762,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™ provides one billboard where all critical product information is captured and made accessible in real time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132552Z" creationid="Judy" creationdate="20150910T132552Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132552Z">
         <seg>PALMA™ 提供了能即時取得所有重要產品資訊的看板，</seg>
       </tuv>
     </tu>
@@ -19770,7 +19770,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™’ has a unique capability of capturing the Configuration Intent of a product and translate that into an executable configuration model, by using the built-in configurator the configurability of your product offerings can be analyzed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023959Z" creationid="Judy" creationdate="20150913T023959Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023959Z">
         <seg>PALMA™ 獨特的產品配置目標功能可以藉由內建配置器自動轉換成執行的配置模型，以便分析產品的可配置性。</seg>
       </tuv>
     </tu>
@@ -19778,7 +19778,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™’s unique Configuration Intent manage the logic of the product, it’s translated automatically in to configuration logic to be executed by the built-in configurator so that configurability of your product offerings can be analyzed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T135617Z" creationid="Judy" creationdate="20150910T135439Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T135617Z">
         <seg>PALMA™ 的獨特配置目標功能可以管理產品的邏輯，藉由內建配置器自動轉換成執行的配置邏輯，以便分析產品的可配置性。</seg>
       </tuv>
     </tu>
@@ -20130,7 +20130,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PRODUCT LEADERSHIP</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030000Z" creationid="Judy" creationdate="20150913T025951Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030000Z">
         <seg>產品的領導地位</seg>
       </tuv>
     </tu>
@@ -20530,7 +20530,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Partnering with Modular Management means you can rely on highest quality service and a quick and effective implementation of modularity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030913Z" creationid="Judy" creationdate="20150913T030913Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030913Z">
         <seg>與模塊化管理合作讓您能依靠高品質的服務和模塊化快速且有效率的執行。</seg>
       </tuv>
     </tu>
@@ -20778,7 +20778,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Plans were established for each module along with the system requirements to deliver them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034114Z" creationid="Judy" creationdate="20150910T034114Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034114Z">
         <seg>每個模塊根據各個系統要求建立了規畫。</seg>
       </tuv>
     </tu>
@@ -20834,7 +20834,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Please contact us to find out more about how your company can benefit from modularity</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033115Z" creationid="Judy" creationdate="20150913T033115Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033115Z">
         <seg>請與我們聯繫以瞭解更多如何利用模塊化為您的公司帶來利益的相關資訊</seg>
       </tuv>
     </tu>
@@ -21147,7 +21147,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Postal service</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082800Z" creationid="Judy" creationdate="20150913T082800Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082800Z">
         <seg>郵政服務</seg>
       </tuv>
     </tu>
@@ -21540,7 +21540,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Power systems</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082850Z" creationid="Judy" creationdate="20150913T082850Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082850Z">
         <seg>電力系統</seg>
       </tuv>
     </tu>
@@ -21823,7 +21823,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Processes in and around the value stream were enhanced with decision metrics and tools to sustain the improved business performance.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115548Z" creationid="Judy" creationdate="20150910T115548Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115548Z">
         <seg>價值流中和周邊的程序藉由決策指標和持續提高的業務績效工具增強了。</seg>
       </tuv>
     </tu>
@@ -21880,7 +21880,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product Architecture Life Cycle Management Software (PALMA®)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115923Z" creationid="Judy" creationdate="20150910T115923Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115923Z">
         <seg>產品架構生命週期管理軟體 (Product Architecture Life Cycle Management Software, PALMA®)</seg>
       </tuv>
     </tu>
@@ -21904,7 +21904,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product Leadership: Focusing on being first-to-market with new products to achieve price premium</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040139Z" creationid="Judy" creationdate="20150913T040139Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040139Z">
         <seg>產品領導地位：專注於最早向市場提供新產品，以實現產品溢價</seg>
       </tuv>
     </tu>
@@ -21952,7 +21952,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product X is composed of 20 separate modules – each module available in five different variants.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044340Z" creationid="Judy" creationdate="20150913T044340Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044340Z">
         <seg>產品 X 由 20 個獨立模組所組成 —— 每個模組有五種不同的變形。</seg>
       </tuv>
     </tu>
@@ -21968,7 +21968,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product leadership aims to achieve premium market prices by swiftly and continuously bringing superior products to market.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052741Z" creationid="Judy" creationdate="20150913T052443Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052741Z">
         <seg>產品領導地位的目標為藉由迅速和不斷導入優質產品進入市場以實現產品在市價上的溢價，</seg>
       </tuv>
     </tu>
@@ -21992,7 +21992,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Production Leadership</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044922Z" creationid="Judy" creationdate="20150913T044922Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044922Z">
         <seg>產品的領導地位</seg>
       </tuv>
     </tu>
@@ -22000,7 +22000,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Production equipment</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082810Z" creationid="Judy" creationdate="20150913T082810Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082810Z">
         <seg>生產設備</seg>
       </tuv>
     </tu>
@@ -22136,7 +22136,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Publications</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032322Z" creationid="Judy" creationdate="20150913T032322Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032322Z">
         <seg>出版物</seg>
       </tuv>
     </tu>
@@ -22475,7 +22475,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Read about our success with Trane here.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025457Z" creationid="Judy" creationdate="20150913T025457Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025457Z">
         <seg>請參考我們在 Trane 公司的成功案例。</seg>
       </tuv>
     </tu>
@@ -22491,7 +22491,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Read more about how we work</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082455Z" creationid="Judy" creationdate="20150913T082455Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082455Z">
         <seg>閱讀更多關於我們的運作方式</seg>
       </tuv>
     </tu>
@@ -22499,7 +22499,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Read more about our success with Trane here.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025848Z" creationid="Judy" creationdate="20150913T025004Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025848Z">
         <seg>請參考我們在 Trane 公司的成功案例。</seg>
       </tuv>
     </tu>
@@ -22539,7 +22539,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Read these case stories to find out how our customers have gained from modularization.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083221Z" creationid="Judy" creationdate="20150913T083221Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083221Z">
         <seg>閱讀這些真實案例以了解我們的客戶如何藉由模塊化獲益。</seg>
       </tuv>
     </tu>
@@ -22555,7 +22555,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Real-time information sharing</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131936Z" creationid="Judy" creationdate="20150910T131936Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131936Z">
         <seg>即時資訊共用</seg>
       </tuv>
     </tu>
@@ -22715,7 +22715,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Reduce part number count by 58%</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025619Z" creationid="Judy" creationdate="20150913T025606Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025619Z">
         <seg>降低 58% 的零件數量</seg>
       </tuv>
     </tu>
@@ -22731,7 +22731,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Reducing time to market</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044931Z" creationid="Judy" creationdate="20150913T044931Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044931Z">
         <seg>減少導入市場的時間</seg>
       </tuv>
     </tu>
@@ -22851,7 +22851,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Regional office Americas</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033222Z" creationid="Judy" creationdate="20150913T033222Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033222Z">
         <seg>美洲區辦公室</seg>
       </tuv>
     </tu>
@@ -22859,7 +22859,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Regional office Asia</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033248Z" creationid="Judy" creationdate="20150913T033248Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033248Z">
         <seg>亞洲區辦公室</seg>
       </tuv>
     </tu>
@@ -22867,7 +22867,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Regional office Germany</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033337Z" creationid="Judy" creationdate="20150913T033337Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033337Z">
         <seg>德國區辦公室</seg>
       </tuv>
     </tu>
@@ -23212,7 +23212,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Respond quickly to customer requests</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134649Z" creationid="Judy" creationdate="20150910T134649Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134649Z">
         <seg>快速回應客戶要求</seg>
       </tuv>
     </tu>
@@ -23608,7 +23608,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>SIDE-BY-SIDE VEHICLE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T081150Z" creationid="Judy" creationdate="20150919T081150Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T081150Z">
         <seg>方向盤式全地形車 (SIDE-BY-SIDE VEHICLE)</seg>
       </tuv>
     </tu>
@@ -23688,7 +23688,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>SUMMARY</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T084848Z" creationid="Judy" creationdate="20150919T084848Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T084848Z">
         <seg>簡介</seg>
       </tuv>
     </tu>
@@ -24425,7 +24425,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Sending information back and forth between different departments often results in wasted time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023054Z" creationid="Judy" creationdate="20150913T023054Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023054Z">
         <seg>不同部門之間來回發送資訊經常造成時間的浪費，</seg>
       </tuv>
     </tu>
@@ -24729,7 +24729,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Share information in real time</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022336Z" creationid="Judy" creationdate="20150913T022336Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022336Z">
         <seg>即時共用資訊</seg>
       </tuv>
     </tu>
@@ -24737,7 +24737,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Share information with cross-functional view</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023001Z" creationid="Judy" creationdate="20150913T023001Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023001Z">
         <seg>以跨功能視圖共用資訊</seg>
       </tuv>
     </tu>
@@ -24801,7 +24801,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Shipping</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082825Z" creationid="Judy" creationdate="20150913T082825Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082825Z">
         <seg>航運</seg>
       </tuv>
     </tu>
@@ -24921,7 +24921,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Side-by- side ATVs, in which the driver and passenger are seated beside each other on laterally spaced apart seats, have become 2o popular because of the ability to allow the passenger to share the driver's viewpoint.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T084836Z" creationid="Judy" creationdate="20150919T083848Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T084836Z">
         <seg>方向盤式全地形車之駕駛和乘客座位並排分開，因為乘客能與駕駛共享視角而使其越來越受歡迎。</seg>
       </tuv>
     </tu>
@@ -25027,7 +25027,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Since 1996, we’ve helped over 100 organizations around the globe implement modularity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030354Z" creationid="Judy" creationdate="20150913T030354Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030354Z">
         <seg>1996 年以來，我們已經協助世界各地超過 100 家的組織實施模塊化。</seg>
       </tuv>
     </tu>
@@ -25163,7 +25163,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Some industries we’ve worked in are:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082745Z" creationid="Judy" creationdate="20150913T082745Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082745Z">
         <seg>我們合作過的產業包括了：</seg>
       </tuv>
     </tu>
@@ -25171,7 +25171,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Some want cutting edge products.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033554Z" creationid="Judy" creationdate="20150913T033529Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033554Z">
         <seg>有些公司想創造出劃時代的產品，</seg>
       </tuv>
     </tu>
@@ -25179,7 +25179,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Sometimes, the information is managed in various documents like spreadsheets and manuals.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131227Z" creationid="Judy" creationdate="20150910T131053Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131227Z">
         <seg>有時，資訊管理需要管理各種類型的檔案，如試算表和手冊等。</seg>
       </tuv>
     </tu>
@@ -25195,7 +25195,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Sounds unthinkable?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025318Z" creationid="Judy" creationdate="20150913T025000Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025318Z">
         <seg>聽起來很不可思議嗎？</seg>
       </tuv>
     </tu>
@@ -25380,7 +25380,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Speed up implementation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023405Z" creationid="Judy" creationdate="20150913T023405Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023405Z">
         <seg>加速執行</seg>
       </tuv>
     </tu>
@@ -25476,7 +25476,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Standardization aims at phasing out low running products to reduce the number of parts managed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072839Z" creationid="Judy" creationdate="20150913T072839Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072839Z">
         <seg>標準化的目的是逐步淘汰產量較少的產品以降低管理的零件數量，</seg>
       </tuv>
     </tu>
@@ -25516,7 +25516,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Stay aligned with your strategy</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T140126Z" creationid="Judy" creationdate="20150910T140126Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T140126Z">
         <seg>維持與訂定之策略同調</seg>
       </tuv>
     </tu>
@@ -25532,7 +25532,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Step up your supply chain</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051357Z" creationid="Judy" creationdate="20150913T051357Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051357Z">
         <seg>加強您的供應鏈</seg>
       </tuv>
     </tu>
@@ -26367,7 +26367,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Tailoring your customer offer</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044956Z" creationid="Judy" creationdate="20150913T044956Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044956Z">
         <seg>客製化您的產品</seg>
       </tuv>
     </tu>
@@ -26487,7 +26487,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Tel: +1 (952) 854 6800</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033231Z" creationid="Judy" creationdate="20150913T033231Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033231Z">
         <seg>電話：+1 (952) 854 6800</seg>
       </tuv>
     </tu>
@@ -26495,7 +26495,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Tel: +46 (0)8 456 35 00</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033201Z" creationid="Judy" creationdate="20150913T033201Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033201Z">
         <seg>電話：+46 (0)8 456 35 00</seg>
       </tuv>
     </tu>
@@ -26503,7 +26503,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Tel: +49 (0) 69-667741180</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033350Z" creationid="Judy" creationdate="20150913T033350Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033350Z">
         <seg>電話：+49 (0) 69-667741180</seg>
       </tuv>
     </tu>
@@ -26511,7 +26511,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Tel: +86(10)8248-4308 (Beijing)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033258Z" creationid="Judy" creationdate="20150913T033258Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033258Z">
         <seg>電話：+86 (10) 8248-4308 (北京)</seg>
       </tuv>
     </tu>
@@ -26519,7 +26519,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Tel: +886(2)2552-6763 (Taipei)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033315Z" creationid="Judy" creationdate="20150913T033315Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033315Z">
         <seg>電話：+886 (2) 2552-6763 (臺北)</seg>
       </tuv>
     </tu>
@@ -26535,7 +26535,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Telecommunications</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082827Z" creationid="Judy" creationdate="20150913T082827Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082827Z">
         <seg>電信</seg>
       </tuv>
     </tu>
@@ -26760,7 +26760,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>That led us to form Modular Management in 1996 as a product development consulting firm.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114133Z" creationid="Judy" creationdate="20150913T114133Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114133Z">
         <seg>因此我們於 1996 年成立了專營產品開發的顧問公司「模塊化管理」。</seg>
       </tuv>
     </tu>
@@ -28126,7 +28126,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The bar is pivotally mounted at a first end to the vehicle, and is latchable to the vehicle at a second opposite end, whereby the side net assembly can be in a latched position when a rider is in the vehicle and can be collapsed to 35 allow ingress and egress of a rider.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T090646Z" creationid="Judy" creationdate="20150919T090646Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T090646Z">
         <seg>樞軸桿第一端安裝於車輛上，對側第二端可鎖定於車輛上。當駕駛位於車輛中時，其側邊護網組件位於鎖定位置並可摺疊以便駕駛進出。</seg>
       </tuv>
     </tu>
@@ -28934,7 +28934,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The lifecycle of your product platform runs well over a decade, so it can be easy to stray from your original strategy and market objectives.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024104Z" creationid="Judy" creationdate="20150913T024104Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024104Z">
         <seg>產品平台的生命週期能良好運作數十年，因此很可能偏離原始的策略和市場目標。</seg>
       </tuv>
     </tu>
@@ -28942,7 +28942,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The lifecycle of your product platform runs well over a decade.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T140456Z" creationid="Judy" creationdate="20150910T140456Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T140456Z">
         <seg>產品平台的生命週期能良好運作數十年，</seg>
       </tuv>
     </tu>
@@ -28990,7 +28990,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The marketing theory “The Discipline of Market Leaders”  presents a simple yet useful model that explains how your company could beat the competition by focusing on one of three value disciplines:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T035852Z" creationid="Judy" creationdate="20150913T035852Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T035852Z">
         <seg>行銷理論「市場領導者的領域」中提出了一個簡單實用的模型，解釋了公司如何藉由專注於三個價值領域的其中一個以擊敗競爭對手：</seg>
       </tuv>
     </tu>
@@ -29334,7 +29334,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The present invention relates to side-by-side all terrain 5 vehicles having netting enclosing the seating area.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T081920Z" creationid="Judy" creationdate="20150919T081920Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T081920Z">
         <seg>本發明為具有護網包覆座位區之方向盤式全地形車。</seg>
       </tuv>
     </tu>
@@ -29399,7 +29399,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The process involves spending up-front time on determining market requirements.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071523Z" creationid="Judy" creationdate="20150913T071451Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071523Z">
         <seg>這個程序包括早期決定市場需求所花費的時間，</seg>
       </tuv>
     </tu>
@@ -29632,7 +29632,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The result is a quicker, smoother implementation and a lasting product foundation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022703Z" creationid="Judy" creationdate="20150913T022703Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022703Z">
         <seg>讓您得到一個更快、更順利執行且持久的產品基礎。</seg>
       </tuv>
     </tu>
@@ -29648,7 +29648,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The result?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134116Z" creationid="Judy" creationdate="20150910T134116Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134116Z">
         <seg>成效？</seg>
       </tuv>
     </tu>
@@ -29680,7 +29680,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The same goes for service-producing operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050246Z" creationid="Judy" creationdate="20150913T050237Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050246Z">
         <seg>此情形同樣適用於生產服務的運作，</seg>
       </tuv>
     </tu>
@@ -29808,7 +29808,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The strategy relies on deep customer knowledge and insight into customers’ business processes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072439Z" creationid="Judy" creationdate="20150913T072439Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072439Z">
         <seg>這種策略依靠深層的客戶知識和深入瞭解客戶的業務流程。</seg>
       </tuv>
     </tu>
@@ -30016,7 +30016,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The theory suggests that your company can excel in just one of these areas.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040711Z" creationid="Judy" creationdate="20150913T040514Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040711Z">
         <seg>此理論中表明了公司只能專注在這些領域的其中之一達到卓越。</seg>
       </tuv>
     </tu>
@@ -30297,7 +30297,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>There is an important difference between standardization and modularization.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072739Z" creationid="Judy" creationdate="20150913T072739Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072739Z">
         <seg>標準化和模塊化之間有一個重要的區別，</seg>
       </tuv>
     </tu>
@@ -30321,7 +30321,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>There is quite a lot of text space on the mock-up, but there really isn’t much to say here.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120144Z" creationid="Judy" creationdate="20150913T120144Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120144Z">
         <seg>實體模型還有許多的文字內容，但此處未作太多說明。</seg>
       </tuv>
     </tu>
@@ -30458,7 +30458,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>These methods led to our growing reputation as experts in modularity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114507Z" creationid="Judy" creationdate="20150913T114507Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114507Z">
         <seg>這些方法為我們在模塊化領域中贏得了越來越多的好評。</seg>
       </tuv>
     </tu>
@@ -30682,7 +30682,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>They strived to leverage a range of product offerings within a unified product family and significantly increase the efficiency of operations</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120612Z" creationid="Judy" creationdate="20150910T120612Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120612Z">
         <seg>他們努力地利用在一個統一的產品家族中的產品範圍和顯著提高運作的效率</seg>
       </tuv>
     </tu>
@@ -30707,7 +30707,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>They’re strongly centralized and have a standardized, rule-based operation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045757Z" creationid="Judy" creationdate="20150913T045757Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045757Z">
         <seg>他們具有高度集中和標準化、基於規則的營運。</seg>
       </tuv>
     </tu>
@@ -30835,7 +30835,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This could maybe go as a caption under the graphic?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120414Z" creationid="Judy" creationdate="20150913T120414Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120414Z">
         <seg>圖形下方也許可以加入一個下標？</seg>
       </tuv>
     </tu>
@@ -31141,7 +31141,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This is the core of modular design that enables mass customization.”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044835Z" creationid="Judy" creationdate="20150913T044835Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044835Z">
         <seg>這就是能達成大量客製化的模塊化設計的核心。」</seg>
       </tuv>
     </tu>
@@ -31271,7 +31271,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This often leads to sending spreadsheets, manuals and other documents – many of them outdated - back and forth between different departments.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132430Z" creationid="Judy" creationdate="20150910T132306Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132430Z">
         <seg>通常發送試算表、 手冊和其它檔案來回不同部門之間時，會有許多資料已過時。</seg>
       </tuv>
     </tu>
@@ -31359,7 +31359,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This proprietary software supports the multiple work streams in each phase and manages all of the data that is created.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120312Z" creationid="Judy" creationdate="20150910T120312Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120312Z">
         <seg>這套專用軟體於每個階段中支援多個工作流並能管理所有創建的資料。</seg>
       </tuv>
     </tu>
@@ -31383,7 +31383,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This quote or another is maybe more effective if pulled out and put in a ’pratbubbel’ ?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120817Z" creationid="Judy" creationdate="20150913T120817Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120817Z">
         <seg>這句話或另一句如果去除並加入「pratbubbel」也許更有效？</seg>
       </tuv>
     </tu>
@@ -31447,7 +31447,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This strategy relies on high volume and standardization – ideal for markets where customers value price over choice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045550Z" creationid="Judy" creationdate="20150913T045550Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045550Z">
         <seg>這種策略依靠高容量和標準化 —— 適合於客戶的選擇偏重價格的市場。</seg>
       </tuv>
     </tu>
@@ -31455,7 +31455,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This strategy relies on using problem solving, teamwork and creativity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052842Z" creationid="Judy" creationdate="20150913T052842Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052842Z">
         <seg>這種策略依靠著解決問題的能力、團隊合作和創造力的運用。</seg>
       </tuv>
     </tu>
@@ -31683,7 +31683,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To continuously ensure the right product offering, both during and after a modularization program, Modular Management offers PALMA.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120142Z" creationid="Judy" creationdate="20150910T120142Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120142Z">
         <seg>為了確保不斷提供正確的產品，模塊化計劃期間和結束之後，模塊化管理提供了產品架構生命週期管理軟體 (PALMA®)。</seg>
       </tuv>
     </tu>
@@ -31804,7 +31804,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To make the modular architecture actionable, MTS’s inbound, outbound and production value streams were newly envisioned using Module Supply Chain Study.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033944Z" creationid="Judy" creationdate="20150910T033839Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033944Z">
         <seg>為了操作模塊化產品架構，MTS 的進貨、出貨和生產價值流利用供應鏈研究模塊 (Module Supply Chain Study) 進行全新的預測。</seg>
       </tuv>
     </tu>
@@ -31932,7 +31932,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Today we use 20 methods and over 70 tools to give your company the best possible support for modularization.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114630Z" creationid="Judy" creationdate="20150913T114630Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114630Z">
         <seg>時至今日，我們使用 20 種方法和超過 70 種工具為企業模塊化提供最好的支援。</seg>
       </tuv>
     </tu>
@@ -31940,7 +31940,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Today, we are an international team with offices in Sweden, Germany, the United States, and China.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032145Z" creationid="Judy" creationdate="20150913T032145Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032145Z">
         <seg>時至今日，我們擁有一組國際性的研究小組，在瑞典、德國、美國和中國設有辦事處。</seg>
       </tuv>
     </tu>
@@ -31988,7 +31988,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Trace decisions back to strategy</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024005Z" creationid="Judy" creationdate="20150913T024005Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024005Z">
         <seg>依照策略追蹤決策</seg>
       </tuv>
     </tu>
@@ -31996,7 +31996,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Trace decisions back to your strategy</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022523Z" creationid="Judy" creationdate="20150913T022523Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022523Z">
         <seg>依照策略追蹤決策</seg>
       </tuv>
     </tu>
@@ -32013,7 +32013,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Track Record</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031017Z" creationid="Judy" creationdate="20150913T031017Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031017Z">
         <seg>追蹤記錄</seg>
       </tuv>
     </tu>
@@ -32029,7 +32029,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Trains</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082843Z" creationid="Judy" creationdate="20150913T082843Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082843Z">
         <seg>火車</seg>
       </tuv>
     </tu>
@@ -32053,7 +32053,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Trucks and buses</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082848Z" creationid="Judy" creationdate="20150913T082848Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082848Z">
         <seg>卡車和公車</seg>
       </tuv>
     </tu>
@@ -32069,7 +32069,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Try to compete in a second and you’ll lose focus on the first.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040646Z" creationid="Judy" creationdate="20150913T040646Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040646Z">
         <seg>若想達到二種目標，便會失去在第一種目標上的專注性。</seg>
       </tuv>
     </tu>
@@ -32294,7 +32294,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Typically, many people in the organization will hold separate data on the features and technical designs of your product assortment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131055Z" creationid="Judy" creationdate="20150910T130735Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131055Z">
         <seg>通常情況下，產品類別中的功能和技術設計分別由組織中許多人所擁有。</seg>
       </tuv>
     </tu>
@@ -32342,7 +32342,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Uncover hidden costs</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045955Z" creationid="Judy" creationdate="20150913T045955Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045955Z">
         <seg>揭露隱性成本</seg>
       </tuv>
     </tu>
@@ -32422,7 +32422,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Unique expertise</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075800Z" creationid="Judy" creationdate="20150913T075800Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075800Z">
         <seg>獨有的專業知識</seg>
       </tuv>
     </tu>
@@ -32470,7 +32470,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Unmatched Experts in Modularity</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T074351Z" creationid="Judy" creationdate="20150913T074351Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T074351Z">
         <seg>模塊化無可比擬的專家</seg>
       </tuv>
     </tu>
@@ -32798,7 +32798,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Using innovative tools and structured processes, we partner with your organization to uncover and exploit the potential of a modular product architecture that lies within your markets, products, technologies and operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T085411Z" creationid="Judy" creationdate="20150913T085411Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T085411Z">
         <seg>使用創新的工具和結構化的流程，您的組織與我們能合作發現並利用模塊化產品架構在您的市場、產品、技術和營運方面的潛力。</seg>
       </tuv>
     </tu>
@@ -32806,7 +32806,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Using one single repository, you can create and manage your product platforms over their entire lifecycle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022258Z" creationid="Judy" creationdate="20150913T022258Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022258Z">
         <seg>使用單一的檔案庫，可以在其整個產品生命週期中建立和管理產品平台。</seg>
       </tuv>
     </tu>
@@ -32822,7 +32822,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Using our research, we built a working model for approaching and implementing modularization in a structured and effective way.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114017Z" creationid="Judy" creationdate="20150913T090112Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114017Z">
         <seg>我們藉由研究建立了結構化和有效的方法和執行模塊化的工作模型，</seg>
       </tuv>
     </tu>
@@ -33040,7 +33040,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Very little attention is paid to the price of creating and maintaining the parts used to build the product.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050130Z" creationid="Judy" creationdate="20150913T050032Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050130Z">
         <seg>而很少注意到建立和維護用於生成產品的零件價格。</seg>
       </tuv>
     </tu>
@@ -33480,7 +33480,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We began as a team of researchers at Stockholm’s Royal Institute of Technology and IVF* investigating modularization.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031808Z" creationid="Judy" creationdate="20150913T031808Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031808Z">
         <seg>我們由斯德哥爾摩的皇家技術研究所和 IVF* 的一組研究模塊化的人員所成立，</seg>
       </tuv>
     </tu>
@@ -33488,7 +33488,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We can pinpoint which new module variants we will need or if any interfaces will be impacted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071738Z" creationid="Judy" creationdate="20150913T071722Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071738Z">
         <seg>我們可以找出所需要的新模組變型或接口是否將會受到影響，</seg>
       </tuv>
     </tu>
@@ -33512,7 +33512,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We do modular product architecture every day.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030242Z" creationid="Judy" creationdate="20150913T030242Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030242Z">
         <seg>我們每天都在建立模塊化產品架構，</seg>
       </tuv>
     </tu>
@@ -33520,7 +33520,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We do this by using the process of Modular Function Deployment®, a cross functional product design approach, which starts and ends with your customer requirements.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073947Z" creationid="Judy" creationdate="20150913T073947Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073947Z">
         <seg>我們利用模塊功能展開®中的程序，這是一種完全跟隨您的客戶要求的跨功能產品設計方法。</seg>
       </tuv>
     </tu>
@@ -33560,7 +33560,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We incorporate the information into your product or service development process so it will be geared towards reducing total costs rather than material costs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051255Z" creationid="Judy" creationdate="20150913T051255Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051255Z">
         <seg>我們將資訊納入產品或服務的開發過程，因此將會朝降低總成本而非僅是材料成本的目標進行開發。</seg>
       </tuv>
     </tu>
@@ -33576,7 +33576,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We recognized that our model would have great value for any organization dealing with different or changing customer needs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114037Z" creationid="Judy" creationdate="20150913T114006Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114037Z">
         <seg>我們發現到這個模型對於任何有不同的或不斷變化的客戶需求的組織會有很大價值，</seg>
       </tuv>
     </tu>
@@ -33600,7 +33600,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We refer to this as the cost of complexity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050244Z" creationid="Judy" creationdate="20150913T050141Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050244Z">
         <seg>我們將這稱為複雜性的成本。</seg>
       </tuv>
     </tu>
@@ -33656,7 +33656,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We’ll help you identify how to redesign your supply chain to get a, flexible manufacturing system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052310Z" creationid="Judy" creationdate="20150913T052310Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052310Z">
         <seg>我們將協助您重新設計供應鏈以達到一個具有彈性的製造系統。</seg>
       </tuv>
     </tu>
@@ -33664,7 +33664,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We’re continuously challenged to improve and develop more methods and tools that make modularization faster, safer and more effective.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115155Z" creationid="Judy" creationdate="20150913T115155Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115155Z">
         <seg>我們能不斷挑戰以改進並開發更多的方法和工具，使模塊化更快速、更安全且更有效率。</seg>
       </tuv>
     </tu>
@@ -33672,7 +33672,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We’re proud of the results modularity has achieved for our customers – companies like Whirlpool, Ericsson, ABB and Volvo.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114927Z" creationid="Judy" creationdate="20150913T114927Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114927Z">
         <seg>我們對於為客戶達成模塊化的成果非常自豪，客戶中包含了惠而浦、易立信、 ABB 和 Volvo 等公司。</seg>
       </tuv>
     </tu>
@@ -33680,7 +33680,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We’ve Got the Method.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083257Z" creationid="Judy" creationdate="20150913T083257Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083257Z">
         <seg>我們提供方法，</seg>
       </tuv>
     </tu>
@@ -33688,7 +33688,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We’ve accumulated 300 man-years of experience and continuously refine our tools and methods through ongoing research and implementation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030547Z" creationid="Judy" creationdate="20150913T030547Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030547Z">
         <seg>我們已經累積了 300 人次－年的經驗，藉由進行中的研究和執行計劃不斷改進我們的工具和方法。</seg>
       </tuv>
     </tu>
@@ -33696,7 +33696,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We’ve done it for over a hundred companies.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025815Z" creationid="Judy" creationdate="20150913T025104Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025815Z">
         <seg>我們已經成功施行於一百家以上的企業，</seg>
       </tuv>
     </tu>
@@ -33704,7 +33704,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We’ve got the tools and methods you need to implement modular product platforms.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080147Z" creationid="Judy" creationdate="20150913T080147Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080147Z">
         <seg>我們擁有您所需要執行模塊化產品平台的工具和方法，</seg>
       </tuv>
     </tu>
@@ -33712,7 +33712,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We’ve helped a wide range of companies across the globe use modularity to achieve dramatic improvements in business performance.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082723Z" creationid="Judy" creationdate="20150913T082723Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082723Z">
         <seg>我們協助了全球各地各種類型的公司使用模塊化來顯著改善業務績效，</seg>
       </tuv>
     </tu>
@@ -33736,7 +33736,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>What are your challenges?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025906Z" creationid="Judy" creationdate="20150913T025906Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025906Z">
         <seg>您的挑戰是什麼？</seg>
       </tuv>
     </tu>
@@ -34096,7 +34096,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Where are your challenges?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044841Z" creationid="Judy" creationdate="20150913T044841Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044841Z">
         <seg>您的挑戰是什麼？</seg>
       </tuv>
     </tu>
@@ -34176,7 +34176,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>While this seems attractive from a cost and quality perspective, it often leads to conflicts with marketing and customers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073012Z" creationid="Judy" creationdate="20150913T073012Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073012Z">
         <seg>雖然從成本和品質的角度看來具有吸引力，但此舉往往會導致市場行銷和客戶之間的衝突。</seg>
       </tuv>
     </tu>
@@ -34372,7 +34372,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>With PALMA™, all the critical data of the product architecture you need is stored in one single repository to ensure quality and profitability over time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131931Z" creationid="Judy" creationdate="20150910T131931Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131931Z">
         <seg>藉由 PALMA™，您需要的產品架構中的所有重要資料都儲存在單一的檔案庫，以確保長期的品質和盈利能力。</seg>
       </tuv>
     </tu>
@@ -34380,7 +34380,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>With PALMA™, there’s no need to manage your data in multiple spreadsheets or slides and share information by mailing back and forth.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T021016Z" creationid="Judy" creationdate="20150913T021016Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T021016Z">
         <seg>使用 PALMA™ 就不需要以郵件來回傳遞多組試算表或投影片來進行資料的管理。</seg>
       </tuv>
     </tu>
@@ -34516,7 +34516,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>With our own set of comprehensive tools and methods, we help companies around the globe reap the benefits of modularization.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032317Z" creationid="Judy" creationdate="20150913T032317Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T032317Z">
         <seg>藉由我們開發的全面性的工具和方法，我們協助了全球各地的公司進行模塊化並使之從中受益。</seg>
       </tuv>
     </tu>
@@ -34524,7 +34524,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>With our proven methodology, you can increase your offering, reduce production cost and speed up time to market.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031345Z" creationid="Judy" creationdate="20150913T031345Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031345Z">
         <seg>藉由我們行之多年的有效方法，可以增加您的產品供給、降低生產成本和加快導入市場的時間。</seg>
       </tuv>
     </tu>
@@ -34532,7 +34532,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>With over 100 client programs and 300 years of accumulated experience, we can help you develop modular product platforms on time and on budget.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T081603Z" creationid="Judy" creationdate="20150913T081603Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T081603Z">
         <seg>具有超過 100 個用戶和 300 年的經驗積累，我們可以協助您在時間和預算的前提下開發模塊化產品平台。</seg>
       </tuv>
     </tu>
@@ -34564,7 +34564,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>With the right modular product design, you can identify specific customer needs and create a higher customer value that you can get paid for.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072004Z" creationid="Judy" creationdate="20150913T072004Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072004Z">
         <seg>藉由合適的模塊化產品設計，你可以找出特定的客戶需求並創造更高的客戶價值進而從中獲益。</seg>
       </tuv>
     </tu>
@@ -34572,7 +34572,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>With these enabling concepts, MTS’s approach to documentation was reimagined with process and tools and applied to the existing CAD/PDM systems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034832Z" creationid="Judy" creationdate="20150910T034832Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034832Z">
         <seg>利用這些實用的概念，MTS 藉由程序和工具重新定義其建檔方法，並將此方法應用於現有的 CAD/PDM 系統中。</seg>
       </tuv>
     </tu>
@@ -34880,7 +34880,7 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You avoid reworks in design at a later stage and bring your products to market faster.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134254Z" creationid="Judy" creationdate="20150910T134254Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134254Z">
         <seg>能避免晚期階段更改設計的情況，並更快速將產品導入市場。</seg>
       </tuv>
     </tu>
@@ -34888,7 +34888,7 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You avoid reworks in design at a later stage so you can bring your products to market faster.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023553Z" creationid="Judy" creationdate="20150913T023553Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023553Z">
         <seg>能避免晚期階段更改設計的情況，並更快速將產品導入市場。</seg>
       </tuv>
     </tu>
@@ -35032,7 +35032,7 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You could also reduce takt time on the assembly line as assembly steps become coherent.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052126Z" creationid="Judy" creationdate="20150913T052126Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T052126Z">
         <seg>也能降低生產線的節奏使組裝步驟更為連貫。</seg>
       </tuv>
     </tu>
@@ -35088,7 +35088,7 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>Your customers have high demands.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033446Z" creationid="Judy" creationdate="20150913T033446Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033446Z">
         <seg>客戶具有高要求。</seg>
       </tuv>
     </tu>
@@ -35114,7 +35114,7 @@ whether it�s raining or snowing</seg>
       <tuv lang="EN-US">
         <seg>Your staff can work with the same information in real time which means they can specify, share and review product and technical requirements in one common format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133215Z" creationid="Judy" creationdate="20150910T133215Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133215Z">
         <seg>您的員工可以使用即時更新的相同資訊，他們能以一種共同格式指明、分享和審查產品和技術要求，。</seg>
       </tuv>
     </tu>
@@ -35130,7 +35130,7 @@ whether it�s raining or snowing</seg>
       <tuv lang="EN-US">
         <seg>You’ll be able to implement performance upgrades and style updates faster and with less cost - again and again.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072143Z" creationid="Judy" creationdate="20150913T072143Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072143Z">
         <seg>客戶將能一再地以更快速度和更低的成本實現效能升級和款式更新。</seg>
       </tuv>
     </tu>
@@ -35138,7 +35138,7 @@ whether it�s raining or snowing</seg>
       <tuv lang="EN-US">
         <seg>You’ll need to manage vast amounts of data that encompass a whole product assortment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131616Z" creationid="Judy" creationdate="20150910T131616Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131616Z">
         <seg>您將需要處理包括整個產品類別的大量的資料，</seg>
       </tuv>
     </tu>
@@ -35154,7 +35154,7 @@ whether it�s raining or snowing</seg>
       <tuv lang="EN-US">
         <seg>You’ve Got the Potential.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083333Z" creationid="Judy" creationdate="20150913T083329Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083333Z">
         <seg>讓您發揮潛力。</seg>
       </tuv>
     </tu>
@@ -35348,7 +35348,7 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="EN-US">
         <seg>and then two more</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040832Z" creationid="Judy" creationdate="20150913T040832Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040832Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -36392,7 +36392,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>“Reduce development by up to 60%</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120015Z" creationid="Judy" creationdate="20150913T120015Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120015Z">
         <seg>「降低開發達 60%</seg>
       </tuv>
     </tu>
@@ -36400,7 +36400,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>“The modular architecture allows us to predict, very quickly, where new requirements from marketing will impact our architecture.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071734Z" creationid="Judy" creationdate="20150913T071640Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071734Z">
         <seg>「模塊化結構使我們能夠非常快速預測市場行銷的新要求將如何影響我們的架構，</seg>
       </tuv>
     </tu>
@@ -36408,7 +36408,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>“The secret to success is maintaining your interfaces.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045040Z" creationid="Judy" creationdate="20150913T044717Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045040Z">
         <seg>「成功的秘訣就是維持您的接口，</seg>
       </tuv>
     </tu>
