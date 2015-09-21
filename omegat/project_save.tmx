@@ -1329,6 +1329,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>80% - DELIVERY PROGRESS PAYMENT, PAYABLE BY T/T PROPORTIONALLY 80% OF EACH DELIVERED GOODS VALUE, IN 60 DAYS AFTER THE RECEIPT OF EACH DELIVERY OF THE GOODS AT THE MILL SITE (MONTHLY BASIS), AGAINST ORIGINAL INVOICE AND GOODS RECEIPT CERTIFICATE SIGNED BY THE AUTHORIZED PERSON OF THE PURCHASER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T142304Z" creationid="Judy" creationdate="20150921T142304Z">
+        <seg>80% - 交貨進度付款，廠區 (每月) 收到貨物起 60 天內，依據每批交付貨物價值按比例以電匯支付 80% 款項，憑發票正本和買方授權人員簽署之貨物收據支付</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>80% BY T/T PAYABLE 180 DAYS AFTER B/L DATE PROPORTIONALLY 80% OF EACH SHIPPED GOODS VALUE, AGAINST INVOICE AND ORIGINAL BILL OF LADING OF THE LAST SHIPMENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T140349Z" creationid="Judy" creationdate="20150921T140026Z">
@@ -18671,6 +18679,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OTHERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T142349Z" creationid="Judy" creationdate="20150921T142345Z">
+        <seg>其它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Object Classes Registration:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071346Z">
@@ -33241,6 +33257,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132549Z">
         <seg>真空切換歧管（三 Z 加工組態）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VAT INCLUDED FOR LOCAL PORTION .</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T142341Z" creationid="Judy" creationdate="20150921T142341Z">
+        <seg>當地部分包括增值稅。</seg>
       </tuv>
     </tu>
     <tu>
