@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* 100% USED CONTAINERS ARE OF SHIPPER OWNED CONTAINER (S.O.C.), AND SHALL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T160912Z" creationid="Judy" creationdate="20150921T160912Z">
+        <seg>* 100% 使用之貨櫃為貨主自有櫃 (S.O.C.)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* All models include A2MC controller and Artcam Express</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142138Z">
@@ -422,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* CARRIER OWNED CONTAINER (C.O.C.) SHALL BE 45 DAYS FREE OF CHARGE USE FOR PROJECT CARGO &gt;= 5 PARTIAL SHIPMENTS AND 21 DAYS FREE OF CHARGE USE FOR LESS THEN 5 PARTIAL SHIPMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T161346Z" creationid="Judy" creationdate="20150921T161346Z">
+        <seg>*  &gt;= 5 分批裝運，專案貨物之運送人自有貨櫃 (C.O.C.) 45 天免費使用；低於 5 批裝運 21 天免費使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* FOR IMPORT PORTION, CFR FULL LINER LINER TANJUNG PRIOK PORT (Port Name), JAKARTA – INDONESIA, ACCORDING TO INCOTERM 2010</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T155543Z" creationid="Judy" creationdate="20150921T152847Z">
@@ -434,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T160555Z" creationid="Judy" creationdate="20150921T160555Z">
         <seg>* 印尼雅加達當地部分，UNV SERANG (廠房名稱) 之 FRANCO 廠房現場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* IF DIMENSIONNALY POSSIBLE, ALL GOODS SHALL BE PLACED AND TRANSPORTED INSIDE CONTAINERS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T161526Z" creationid="Judy" creationdate="20150921T161526Z">
+        <seg>* 如果尺寸允許，所有的貨物應放置於貨櫃中運送。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4701,6 +4725,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133824Z">
         <seg>BECKER 泵 10HP 含真空保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BECOME THE PROPERTY OF THE PURCHASER AFTER GOODS ARRIVAL, OR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T160957Z" creationid="Judy" creationdate="20150921T160957Z">
+        <seg>當貨物抵達後轉移為買方財產，或</seg>
       </tuv>
     </tu>
     <tu>
@@ -12930,6 +12962,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T023214Z">
         <seg>IMPERVITE® 具有最佳的導熱係數與極端腐蝕性和熱衝擊的特性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN, 14 DAYS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T161352Z" creationid="Judy" creationdate="20150921T161352Z">
+        <seg>IN，14 天</seg>
       </tuv>
     </tu>
     <tu>
