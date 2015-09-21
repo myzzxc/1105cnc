@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A) 1/3 SHIPPED ON BOARD ORIGINAL BILL OF LADING STATED FREIGHT INCLUDING “THC AT PORT OF DISCHARGE PREPAID".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T234846Z" creationid="Judy" creationdate="20150921T234846Z">
+        <seg>(A) 1/3 已裝載 (SHIPPED ON BOARD) 提單正本， 聲明貨運「在卸貨港的碼頭處理費 (THC) 已經付清」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(About Us)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083246Z">
