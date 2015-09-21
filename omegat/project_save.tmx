@@ -230,6 +230,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(B) 1 FOLD OF ORIGINAL PACKING LIST
+(C) 1 FOLD OF ORIGINAL COMMERCIAL INVOICE
+(D) 1 FOLD OF CERTIFICATE OF ORIGIN
+(E) CERTIFICATE OF INSURANCE (IF THE TERM IS CIF)
+(F) ORIGINAL FORM D FOR ASEAN / FORM E FOR CHINA / FORM AK FOR KOREA / FORM JIEPA FOR JAPAN / FORM AANZ FOR AUSTRALIA &amp; NEW ZEALAND / FORM AI FOR INDIA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T235500Z" creationid="Judy" creationdate="20150921T235500Z">
+        <seg>(B) 包裝清單正本 1 份
+(C) 商業發票正本 1 份
+(D) 原產地證書 1 份
+(E) 運保費在內條件證書 (若為 CIF 條款)
+(F) D 表格 (東盟ASEAN) / E 表格 (中國) / AK 表格 (韓國) / JIEPA 表格 (日本) / AANZ 表格 (澳洲和紐西蘭) / AI 表格 (印度)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Ensure that the entire \Tools\CustomKit\ folder is available on this workstation.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023555Z">
@@ -515,6 +531,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152011Z" creationid="Judy" creationdate="20150921T152011Z">
         <seg>* 接受買方之銀行保證函文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* THIS CLAUSE SHALL BE STATED IN THE TERMS AND CONDITIONS OF LC PAYMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T235654Z" creationid="Judy" creationdate="20150921T235654Z">
+        <seg>* 此條文應於信用狀付款條款和細則中聲明</seg>
       </tuv>
     </tu>
     <tu>
