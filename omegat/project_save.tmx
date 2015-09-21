@@ -15799,6 +15799,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LC CONFIRMATION FEE IS UNDER SUPPLIER'S ACCOUNT IF PAID BY CONFIRMED LC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141645Z" creationid="Judy" creationdate="20150921T141645Z">
+        <seg>若以保兌信用狀支付則信用狀兌換費用向供應商賬戶支付</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LINK: indicates the presence of a network link and flashes when the Shield transmits or receives data</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133436Z">
