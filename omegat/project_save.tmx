@@ -12998,6 +12998,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN, FROM DP RECEIVED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T231635Z" creationid="Judy" creationdate="20150921T231622Z">
+        <seg>IN，自收到付款交單 (DP) 日起</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN, TBD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152029Z" creationid="Judy" creationdate="20150921T152029Z">
