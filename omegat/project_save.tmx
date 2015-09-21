@@ -594,6 +594,14 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 AMOUNTING 10% OF IMPORT PORTION AMOUNT, VALID UNTIL END</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151717Z" creationid="Judy" creationdate="20150921T151717Z">
+        <seg>1 號為進口部分總額 10%，有效期至</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 AND ORIGINAL INVOICE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T132421Z" creationid="Judy" creationdate="20150921T132421Z">
@@ -785,6 +793,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141800Z" creationid="Judy" creationdate="20150921T141800Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 AMOUNTING 10% OF LOCAL PORTION AMOUNT, VALID UNTIL END</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151835Z" creationid="Judy" creationdate="20150921T151835Z">
+        <seg>2 號為當地部分總額 10%，有效期至</seg>
       </tuv>
     </tu>
     <tu>
@@ -18651,6 +18667,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070814Z">
         <seg>字元辨識 (OCR) / 可搜索 PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OF MECHANICAL GUARANTEE PERIOD AGAINST CERTIFICATE OF FINAL ACCEPTANCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151815Z" creationid="Judy" creationdate="20150921T151815Z">
+        <seg>機械保證期結束為止，依最終驗收認證日期為基準</seg>
       </tuv>
     </tu>
     <tu>
