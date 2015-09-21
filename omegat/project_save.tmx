@@ -11609,6 +11609,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GOODS CONTRACT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T131342Z" creationid="Judy" creationdate="20150921T131342Z">
+        <seg>貨物契約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GPRS maximum data downlink and uplink transfer speed is 85.6 kbps.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135206Z">
@@ -19928,6 +19936,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PAYMENT TERMS FOR IMPORT PORTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T131547Z" creationid="Judy" creationdate="20150921T131547Z">
+        <seg>進口部分之付款方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF Conversion Features</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T015736Z">
@@ -23859,6 +23875,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T084848Z">
         <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPPLIER COMMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T131241Z" creationid="Judy" creationdate="20150921T131241Z">
+        <seg>供應商意見</seg>
       </tuv>
     </tu>
     <tu>
