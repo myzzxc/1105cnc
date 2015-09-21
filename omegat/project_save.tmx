@@ -636,6 +636,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10% - DOWN PAYMENT BY T/T IN 30 DAYS AFTER CONTRACT SIGNING DATE PAYABLE AGAINST THE ORIGINAL INVOICE AND SUPPLIER'S BANK GUARANTEE NO.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141750Z" creationid="Judy" creationdate="20150921T141750Z">
+        <seg>合約簽署日起 30 天內以電匯方式預付 10% 交易款，依據原始發票和供應商之銀行擔保第 2 號支付。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10% - DOWN PAYMENT BY T/T IN 30 DAYS AFTER CONTRACT SIGNING DATE, PAYABLE AGAINST THE ORIGINAL INVOICE AND SUPPLIER'S BANK GUARANTEE NO.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T132410Z" creationid="Judy" creationdate="20150921T132310Z">
@@ -761,6 +769,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T143444Z">
         <seg>新北市新莊區五權一路7號1樓之8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141800Z" creationid="Judy" creationdate="20150921T141800Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -17657,6 +17673,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>N/A</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141808Z" creationid="Judy" creationdate="20150921T141808Z">
+        <seg>不適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NO.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125943Z" creationid="Judy" creationdate="20150921T125943Z">
@@ -20052,6 +20076,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T131547Z" creationid="Judy" creationdate="20150921T131547Z">
         <seg>進口部分之付款方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PAYMENT TERMS FOR LOCAL PORTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141738Z" creationid="Judy" creationdate="20150921T141738Z">
+        <seg>當地部分之付款方式</seg>
       </tuv>
     </tu>
     <tu>
