@@ -20304,6 +20304,15 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PURCHASER REQUEST 
+IN / EX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T131151Z" creationid="Judy" creationdate="20150921T131151Z">
+        <seg>買方要求 IN / EX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PURPOSE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T074242Z">
