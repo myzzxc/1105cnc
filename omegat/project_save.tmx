@@ -429,6 +429,22 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>* INCLUDING THC AT PORT OF DISCHARGE HAS BEEN PREPAID</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T155858Z" creationid="Judy" creationdate="20150921T155858Z">
+        <seg>* 在卸貨港的碼頭處理費 (THC) 已經付清。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* INCLUDING UNLOADING, EX QUAY CRANE / EX HOOK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T155729Z" creationid="Judy" creationdate="20150921T155729Z">
+        <seg>* 包括卸貨時不得使用「橋式起重機」及「拉鉤」</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>？</note>
       <tuv lang="EN-US">
         <seg>* It is also an option to load from the side of the table.</seg>
