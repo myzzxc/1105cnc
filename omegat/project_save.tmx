@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* AFTERWARDS, THE PRICE WILL BE ESCALATED BY 0.25% PER FULL MONTH (NOT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123346Z" creationid="Judy" creationdate="20150922T123252Z">
+        <seg>* 此後每完整一個月價格增加 0.25% (不累加)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* ALL GOODS INSIDE CONTAINER OR IN BREAKBULK SHALL BE SEAWORTHY PACKED ACCORDING TO INTERNATIONAL STANDARD AND PACKED RUST PROOF, GREASED, VACUUM SEALED AND TO BE SUFFICIENT FOR OUTDOOR STORAGE AGAINST RAIN AND SUNLIGHT AND FREEZING TEMPERATURE, RESPECTIVELY INDOOR STORAGE, ACCORDING TO SUPPLIER'S WRITTEN STORAGE INSTRUCTION, FOR AT LEAST 3 MONTHS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T231106Z" creationid="Judy" creationdate="20150921T231106Z">
@@ -2022,6 +2030,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123611Z">
         <seg>混凝土元件黏合後安裝錨固驗收標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ACCUMULATIVE) UNTIL 5 YEARS FROM THE DAY WHEN PRICES START ESCALATING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123419Z" creationid="Judy" creationdate="20150922T123419Z">
+        <seg>直到價格增加起始日起 5 年內</seg>
       </tuv>
     </tu>
     <tu>
@@ -27242,6 +27258,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160229Z">
         <seg>彎刀之裁刀匣（含刀片）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TERMINATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123430Z" creationid="Judy" creationdate="20150922T123430Z">
+        <seg>終止合約</seg>
       </tuv>
     </tu>
     <tu>
