@@ -585,8 +585,8 @@
       <tuv lang="EN-US">
         <seg>* OPERATION TEST OR PERFORMANCE TEST HAS NOT BEEN STARTED WITHIN THE AGREED SCHEDULE DUE TO SUPPLIER'S FAULT OR THE GUARANTEED PERFORMANCE CANNOT BE REACHED AND/OR THE APPLIED LIQUIDATED DAMAGES HAVE REACHED MAXIMUM LIMIT AMOUNT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T125621Z" creationid="Judy" creationdate="20150922T125621Z">
-        <seg>* 因為供應商之過失未能於商定的計劃時程內開始運行測試或效能測試，或無法達到保證之性能，或違約金已達到最大限制金額</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140506Z" creationid="Judy" creationdate="20150922T125621Z">
+        <seg>* 因為供應商之過失未能於商定的計劃時程內開始操作測試或效能測試，或無法達到保證之性能，或違約金已達到最大限制金額</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,6 +752,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*INSTALLATION+START UP COMMISIONING SUPERVISION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140412Z" creationid="Judy" creationdate="20150922T140412Z">
+        <seg>* 安裝 + 啟動試運行監工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*OPERATION TEST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140449Z" creationid="Judy" creationdate="20150922T140449Z">
+        <seg>* 操作測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*PERFORMANCE TEST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140512Z" creationid="Judy" creationdate="20150922T140512Z">
+        <seg>* 性能測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*POSTPONEMENT OF PROJECT DUE TO FORCE MAJEURE FOR MORE THAN 12 MONTHS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134057Z" creationid="Judy" creationdate="20150922T134057Z">
@@ -764,6 +788,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T140627Z" creationid="Judy" creationdate="20150921T140605Z">
         <seg>* 供應商同意買方可依合約自行指定一個或多個第三方開立信用狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*TRAINING:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140524Z" creationid="Judy" creationdate="20150922T140524Z">
+        <seg>* 教育訓練：</seg>
       </tuv>
     </tu>
     <tu>
@@ -824,10 +856,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- CLASS ROOM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140533Z" creationid="Judy" creationdate="20150922T140533Z">
+        <seg>- 教室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Nuance PDF Customer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131813Z">
         <seg>– Nuance PDF 客戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- ON JOB TRAINING:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140604Z" creationid="Judy" creationdate="20150922T140604Z">
+        <seg>- 在職訓練:</seg>
       </tuv>
     </tu>
     <tu>
