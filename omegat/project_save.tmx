@@ -5770,6 +5770,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CODE OF STANDARD (ISO,DIN,JIS,ASTM,Others:please specify)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T113828Z" creationid="Judy" creationdate="20150922T113828Z">
+        <seg>標準代碼 (ISO、DIN、JISASTM、其他：請指明)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COLLET DRAG KNIFE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130257Z">
