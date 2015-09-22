@@ -13136,8 +13136,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>IN, 24 MONTHS AFTER OPERATION TEST ACCEPTANCE OR 36 MONTHS AFTER THE MILL SITE ARRIVAL DATE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T023732Z" creationid="Judy" creationdate="20150922T023732Z">
-        <seg>IN，操作測試驗收完成後 24 個月貨抵達廠房現場日起 36 個月</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T023835Z" creationid="Judy" creationdate="20150922T023732Z">
+        <seg>IN，操作測試驗收完成後 24 個月或抵達廠房現場日起 36 個月</seg>
       </tuv>
     </tu>
     <tu>
@@ -16850,6 +16850,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232737Z" creationid="Judy" creationdate="20150921T232737Z">
         <seg>個月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MONTHS AFTER OPERATION TEST ACCEPTANCE OR 48 MONTHS AFTER THE MILL SITE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T024037Z" creationid="Judy" creationdate="20150922T023830Z">
+        <seg>操作測試驗收完成後 24 個月或最後一批貨物抵達廠房現場日起 48 個月</seg>
       </tuv>
     </tu>
     <tu>
