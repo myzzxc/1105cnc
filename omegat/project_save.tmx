@@ -2074,6 +2074,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALL PARTS/ITEMS DESCRIPTION AND NUMBER HAVE TO BE SUBMITTED IN EXCEL FORMAT PRIOR CONDUCTING OF OPERATION TEST ACCEPTANCE (HARDCOPY AND SOFTCOPY)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122441Z" creationid="Judy" creationdate="20150922T122441Z">
+        <seg>所有零件/項目敘述和數量都必須於操作測試驗收前以 EXCEL 格式提供 (紙本和電子版)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALL SPARE PARTS SHALL BE  ATTACHED WITH BARCODE LABEL ACCORDING TO THE GUIDELINE OF PURCHASER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T120343Z" creationid="Judy" creationdate="20150922T120343Z">
@@ -24555,6 +24563,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115819Z" creationid="Judy" creationdate="20150922T115819Z">
         <seg>備品零件價格清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPARE PARTS STORAGE LOCATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122453Z" creationid="Judy" creationdate="20150922T122453Z">
+        <seg>備品零件儲存位置</seg>
       </tuv>
     </tu>
     <tu>
