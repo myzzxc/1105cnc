@@ -24382,6 +24382,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SERIOUS PRODUCTION DISTURBANCE PENALTY ACCEPTED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115319Z" creationid="Judy" creationdate="20150922T115319Z">
+        <seg>接受嚴重生產妨害罰金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SERVICE SIDE NOZZLES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T084002Z">
