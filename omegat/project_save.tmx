@@ -1345,6 +1345,22 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>30% AGAINST OPERATION TEST ACCEPTANCE AND SPAREPART SIGNED BY PURCHASER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T135614Z" creationid="Judy" creationdate="20150922T135614Z">
+        <seg>操作測試驗收完成和備品零件由買方簽署後支付 30% 款項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>30% AGAINST PERFORMANCE TEST ACCEPTANCE SIGNED BY PURCHASER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T135652Z" creationid="Judy" creationdate="20150922T135652Z">
+        <seg>性能測試驗收完成由買方簽署後支付 30% 款項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3048mm x 1841mm Process Area</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144132Z">
@@ -27490,6 +27506,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160229Z">
         <seg>彎刀之裁刀匣（含刀片）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TAX ISSUES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T135705Z" creationid="Judy" creationdate="20150922T135705Z">
+        <seg>稅務問題</seg>
       </tuv>
     </tu>
     <tu>
