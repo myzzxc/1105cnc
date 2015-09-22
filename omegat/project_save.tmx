@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(SIGNATURE)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155740Z" creationid="Judy" creationdate="20150922T155740Z">
+        <seg>(簽名)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Some reports may also reference older code families such as the BOCA National Codes, the Standard Codes, and the Uniform Codes.) Section 104.11 of the International Building Code* reads as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T131116Z">
@@ -1305,6 +1313,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T143444Z">
         <seg>新北市新莊區五權一路7號1樓之8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1st shipment ...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155701Z" creationid="Judy" creationdate="20150922T155701Z">
+        <seg>第 1 批裝運 ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8925,6 +8941,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DELIVERY TIME ( CFR arrival after DP )</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155644Z" creationid="Judy" creationdate="20150922T155644Z">
+        <seg>交貨時間 (付款交單後以運費在內條件送達)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DELIVERY TIME STARTS FROM CONTRACT SIGNING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T231143Z" creationid="Judy" creationdate="20150921T231143Z">
@@ -13998,6 +14022,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INTEREST RATE PER ANNUM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155447Z" creationid="Judy" creationdate="20150922T155447Z">
+        <seg>年利率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INTERRUPT PIN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133015Z">
@@ -18697,6 +18729,34 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Months</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155736Z" creationid="Judy" creationdate="20150922T155736Z">
+        <seg>個月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Months
+2nd shipment ...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155723Z" creationid="Judy" creationdate="20150922T155707Z">
+        <seg>個月
+第 2 批裝運...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Months
+3rd shipment ...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155729Z" creationid="Judy" creationdate="20150922T155729Z">
+        <seg>個月
+第 3 批裝運...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More Automated</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071902Z">
@@ -22489,6 +22549,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please Specify/Edit the LC Term base on signed CCL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155545Z" creationid="Judy" creationdate="20150922T155442Z">
+        <seg>請根據已簽署之 CCL 註明/編輯信用狀條款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please accept this letter as formal confirmation that Porex has not changed the manufacturing process for the PM23J material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T143826Z">
@@ -22598,6 +22666,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142103Z">
         <seg>請紀錄測試壓力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please specify the interest rate from At sight to Usance 180 and vice versa</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155533Z" creationid="Judy" creationdate="20150922T155533Z">
+        <seg>請註明 180 天即期和遠期之利率</seg>
       </tuv>
     </tu>
     <tu>
