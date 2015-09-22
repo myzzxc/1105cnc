@@ -11049,8 +11049,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FINAL DATA &amp; DRAWINGS SHOULD BE SUBMITTED COMPLETELY BY EACH SUPPLIER</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T144748Z" creationid="Judy" creationdate="20150922T144748Z">
-        <seg>每個供應商應遞交完整最終資料和設計圖</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145111Z" creationid="Judy" creationdate="20150922T144748Z">
+        <seg>每個供應商應於機臺合約簽署後三十天內遞交完整最終資料和設計圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -16747,6 +16747,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114217Z" creationid="Judy" creationdate="20150922T114217Z">
         <seg>違約金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LIST OF 5(FIVE) BEST REFERENCE OF INSTALLATION/MACHINERY WITH SIMILAR CAPACITY:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145244Z" creationid="Judy" creationdate="20150922T145244Z">
+        <seg>列出五項具有類似效能的安裝/機械之最佳參考資料：</seg>
       </tuv>
     </tu>
     <tu>
@@ -34851,6 +34859,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T234305Z" creationid="Judy" creationdate="20150921T234127Z">
         <seg>提單日起 2 天內 (東盟 ASEAN) / 3 天內 (亞洲 / 澳洲) / 7 天內 (其它地區)，供應商必須發送：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WITHIN 30 (THIRTY) DAYS AFTER MACHINE CONTRACT SIGNING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145043Z" creationid="Judy" creationdate="20150922T145000Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
