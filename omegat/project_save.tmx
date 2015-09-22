@@ -784,6 +784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*SUPERVISORS FLIGHT TICKETS (INTERNATIONAL &amp; LOCAL)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140639Z" creationid="Judy" creationdate="20150922T140639Z">
+        <seg>* 監工人員機票 (國際和當地)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*SUPPLIER AGREES THAT THE PURCHASER MAY AT HIS OPTION TO DESIGNATE ONE OR MORE THIRD PARTIES TO OPEN LCs UNDER THE CONTRACT.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T140627Z" creationid="Judy" creationdate="20150921T140605Z">
@@ -876,6 +884,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140604Z" creationid="Judy" creationdate="20150922T140604Z">
         <seg>- 在職訓練:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- TESTING AND CERTIFICATIONS (PASS / NOT)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140619Z" creationid="Judy" creationdate="20150922T140619Z">
+        <seg>- 測試和認證 (通過 / 未通過)</seg>
       </tuv>
     </tu>
     <tu>
