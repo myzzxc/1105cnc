@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(detail as per signed technical documents)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153944Z" creationid="Judy" creationdate="20150922T153944Z">
+        <seg>(詳細資訊請見簽署之技術文件)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(for more information, see the product release notes)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023009Z">
@@ -968,6 +976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Automatic Sheet Counter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153850Z" creationid="Judy" creationdate="20150922T153850Z">
+        <seg>- 自動面紙計數器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- CLASS ROOM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140533Z" creationid="Judy" creationdate="20150922T140533Z">
@@ -988,6 +1004,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153542Z" creationid="Judy" creationdate="20150922T153542Z">
         <seg>- 交叉折疊單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Feeding System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153904Z" creationid="Judy" creationdate="20150922T153904Z">
+        <seg>- 送料系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -5265,6 +5289,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BARCODE SYSTEM FOR SPARE PART 2 YEARS WARRANTY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154155Z" creationid="Judy" creationdate="20150922T154155Z">
+        <seg>條碼系統之備品零件為 2 年保固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BASIC DATA:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153138Z" creationid="Judy" creationdate="20150922T153138Z">
@@ -6162,6 +6194,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAPITAL SPARE PARTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154128Z" creationid="Judy" creationdate="20150922T154128Z">
+        <seg>資本類備件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAUTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134014Z">
@@ -6318,6 +6358,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055737Z">
         <seg>軟管或加壓管路連接點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONSUMABLE SPARE PARTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154103Z" creationid="Judy" creationdate="20150922T154103Z">
+        <seg>耗材備件</seg>
       </tuv>
     </tu>
     <tu>
@@ -22610,6 +22658,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pocketpack Machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154003Z" creationid="Judy" creationdate="20150922T154003Z">
+        <seg>袖珍包面紙機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PokaYoke(anti-errorsystem): Prevention method that aims to prohibit, by simple means, any error that could have a negative influence on a system (visual, audio, etc).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014440Z">
@@ -23942,6 +23998,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150501T020247Z">
         <seg>接收檢驗作業說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RECOMENDED SPARE PART DURING MECHANICAL GUARANTEE PERIOD (*)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154040Z" creationid="Judy" creationdate="20150922T154040Z">
+        <seg>機械保證期間建議之備品零件 (*)</seg>
       </tuv>
     </tu>
     <tu>
