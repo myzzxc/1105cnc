@@ -7309,6 +7309,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Company Letter Head</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T152358Z" creationid="Judy" creationdate="20150922T152358Z">
+        <seg>公司信頁首</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Company Name:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T045945Z">
