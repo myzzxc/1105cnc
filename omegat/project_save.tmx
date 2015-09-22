@@ -19167,6 +19167,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OTHERWISE, THE PENALTY IS 200% OF CONTRACT AMOUNT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115600Z" creationid="Judy" creationdate="20150922T115600Z">
+        <seg>否則，將處合約價 200% 之罰金。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Object Classes Registration:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071346Z">
@@ -24479,6 +24487,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SPARE PARTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115603Z" creationid="Judy" creationdate="20150922T115603Z">
+        <seg>備品零件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPARE PARTS GUARANTEE:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115609Z" creationid="Judy" creationdate="20150922T115609Z">
+        <seg>備品零件保證：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SPECIFY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232444Z" creationid="Judy" creationdate="20150921T232444Z">
@@ -24579,6 +24603,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T131241Z" creationid="Judy" creationdate="20150921T131241Z">
         <seg>供應商意見</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPPLIER CONFIRMS THAT THE PRICE OF THE CONTRACT SHALL BE THE LOWEST EVER SOLD IN THE MARKET FOR THE SAME SCOPE OF SUPPLY AND SPECIFICATION.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115526Z" creationid="Judy" creationdate="20150922T115526Z">
+        <seg>供應商確認合約價格為市場上銷售之同一供貨範圍和規格中最低，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPPLIER WILL REBUILD THE MACHINERY UNTIL REACH 100% PRODUCTION CAPACITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115358Z" creationid="Judy" creationdate="20150922T115358Z">
+        <seg>供應商將重新建造機械直到達到 100% 產能</seg>
       </tuv>
     </tu>
     <tu>
