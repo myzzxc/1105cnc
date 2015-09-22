@@ -11977,6 +11977,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GUARANTEES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T235701Z" creationid="Judy" creationdate="20150921T235701Z">
+        <seg>保證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GZ-R320
 HD Memory Camcorder</seg>
       </tuv>
@@ -16802,6 +16810,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064235Z">
         <seg>MB 記憶體 (RAM)，建議配備 1 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MECHANICAL GUARANTEE:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T000019Z" creationid="Judy" creationdate="20150922T000019Z">
+        <seg>機械保證：</seg>
       </tuv>
     </tu>
     <tu>
