@@ -583,6 +583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* SUPPLIER FAILED IN REMEDYING ANY DEFECT UNDER MECHANICAL GUARANTEE WITHIN 90 DAYS FROM THE PURCHASER'S NOTIFICATION OR ANY TIME PERIOD AGREED BY THE PARTIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T124333Z" creationid="Judy" creationdate="20150922T124333Z">
+        <seg>* 供應商未能在機械保證其內，於買方通知日起 90 天或各方商定之期限內改正任何缺陷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* SUPPLIER WILL PROVIDE SPARE PARTS PRICE LIST WITH ORIGINAL SPARE PARTS MANUFACTURERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115926Z" creationid="Judy" creationdate="20150922T115926Z">
@@ -26198,6 +26206,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154712Z">
         <seg>煙霧具有平滑的線條，缺少銳利的邊緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So it's shorther than period that we gave, 90 days</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T124126Z" creationid="Judy" creationdate="20150922T124126Z">
+        <seg>此期限相較我方給予之 90 天期限短</seg>
       </tuv>
     </tu>
     <tu>
