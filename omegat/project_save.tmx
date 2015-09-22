@@ -13302,6 +13302,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN, DEFECT STILL UNDER THE SCOPE OF SIGNED TCL/PG, TBD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T125000Z" creationid="Judy" creationdate="20150922T125000Z">
+        <seg>IN，缺陷仍在簽署之 TCL/PG 範圍內，待定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN, EXCLUDE CONSUMABLE PARTS AND WRONG OPERATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115805Z" creationid="Judy" creationdate="20150922T115805Z">
