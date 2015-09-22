@@ -559,6 +559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* SUPPLIER AGREE TO SUPPLY 4 MORE OPTIONS OF SIMILAR GOODS FOR PURCHASER'S MILLS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123135Z" creationid="Judy" creationdate="20150922T122937Z">
+        <seg>* 供應商同意以相同的價格，供應買方之廠區額外 4 種類似貨物選擇權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* SUPPLIER WILL PROVIDE SPARE PARTS PRICE LIST WITH ORIGINAL SPARE PARTS MANUFACTURERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115926Z" creationid="Judy" creationdate="20150922T115926Z">
@@ -19201,8 +19209,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>OPTION MILLS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122740Z" creationid="Judy" creationdate="20150922T122740Z">
-        <seg>可選廠區</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123016Z" creationid="Judy" creationdate="20150922T122740Z">
+        <seg>廠區選擇權</seg>
       </tuv>
     </tu>
     <tu>
@@ -34259,6 +34267,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WITH THE SAME PRICE UNTIL 2 YEARS AFTER CONTRACT SIGNING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123123Z" creationid="Judy" creationdate="20150922T123123Z">
+        <seg>至合約簽署日起 2 年內</seg>
       </tuv>
     </tu>
     <tu>
