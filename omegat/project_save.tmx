@@ -488,8 +488,8 @@
       <tuv lang="EN-US">
         <seg>* FOR LOCAL PORTION FRANCO MILL SITE AT UNV SERANG (Mill Name), JAKARTA, INDONESIA</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T160555Z" creationid="Judy" creationdate="20150921T160555Z">
-        <seg>* 印尼雅加達當地部分，UNV SERANG (廠房名稱) 之 FRANCO 廠房現場</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122607Z" creationid="Judy" creationdate="20150921T160555Z">
+        <seg>* 印尼雅加達當地部分，UNV SERANG (廠房名稱) 之 FRANCO 廠區</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,24 +682,24 @@
       <tuv lang="EN-US">
         <seg>- ALL DELIVERY OF DOCUMENTS, INCLUDING BUT NOT LIMITED TO: CIVIL AND INSTALLATION RELATED DOCUMENTS, INSTRUCTION MANUALS, DRAWINGS, ETC, SHALL BE DELIVERED IN DDP TERMS TO MILL SITE (OR ANY DESTINATION SPECIFIED LATER ON IN THE CONTRACT).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T233850Z" creationid="Judy" creationdate="20150921T233545Z">
-        <seg>- 所有交付之文件，包括但不限於：土木和安裝相關文件、說明書、設計圖等，應根據輸入國稅訖交貨條件 (DDP) 交貨至廠房現場 (或稍後在合約中指定之任何目的地)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122638Z" creationid="Judy" creationdate="20150921T233545Z">
+        <seg>- 所有交付之文件，包括但不限於：土木和安裝相關文件、說明書、設計圖等，應根據輸入國稅訖交貨條件 (DDP) 交貨至廠區 (或稍後在合約中指定之任何目的地)。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>- ALL DELIVERY OF SPARE PARTS, CONSUMABLES OR REPAIRED/REPLACEMENT PARTS DURING MECHANICAL GUARANTEE PERIOD SHALL BE DELIVERED IN DDP MILL SITE TERMS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T233819Z" creationid="Judy" creationdate="20150921T233524Z">
-        <seg>- 所有於機械保證期間交付之備品零件、消耗品或修復/更換零件應根據輸入國稅訖交貨條件 (DDP) 交貨至廠房現場</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122630Z" creationid="Judy" creationdate="20150921T233524Z">
+        <seg>- 所有於機械保證期間交付之備品零件、消耗品或修復/更換零件應根據輸入國稅訖交貨條件 (DDP) 交貨至廠區</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>- ANY DELIVERY OF MACHINERIES OR PARTS AFTER AGREED DELIVERY SCHEDULE SHALL BE DELIVERED IN DDP MILL SITE TERMS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T233832Z" creationid="Judy" creationdate="20150921T233344Z">
-        <seg>- 同意交貨計劃後所有交付之機械或零件應根據輸入國稅訖交貨條件 (DDP) 交貨至廠房現場</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122624Z" creationid="Judy" creationdate="20150921T233344Z">
+        <seg>- 同意交貨計劃後所有交付之機械或零件應根據輸入國稅訖交貨條件 (DDP) 交貨至廠區</seg>
       </tuv>
     </tu>
     <tu>
@@ -5748,16 +5748,16 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>CFR FIRST SHIPMENT / 2ND FRANCO MILL SITE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232644Z" creationid="Judy" creationdate="20150921T232552Z">
-        <seg>運費在內條件 (CFR) 第一批發貨 / FRANCO 第 2 廠房現場</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122615Z" creationid="Judy" creationdate="20150921T232552Z">
+        <seg>運費在內條件 (CFR) 第一批發貨 / FRANCO 第 2 廠區</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>CFR LAST SHIPMENT /4RD FRANCO MILL SITE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232827Z" creationid="Judy" creationdate="20150921T232827Z">
-        <seg>運費在內條件 (CFR) 最後一批發貨 / FRANCO 第 4 廠房現場</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122620Z" creationid="Judy" creationdate="20150921T232827Z">
+        <seg>運費在內條件 (CFR) 最後一批發貨 / FRANCO 第 4 廠區</seg>
       </tuv>
     </tu>
     <tu>
@@ -10721,16 +10721,16 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FOB FIRST SHIPMENT  / 1ST FRANCO MILL SITE (for local Indonesia Project)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232615Z" creationid="Judy" creationdate="20150921T232433Z">
-        <seg>輸出港船上交貨條件 (FOB) 第一批發貨 / FRANCO 第 1 廠房現場（印尼當地專案）</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122613Z" creationid="Judy" creationdate="20150921T232433Z">
+        <seg>輸出港船上交貨條件 (FOB) 第一批發貨 / FRANCO 第 1 廠區（印尼當地專案）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>FOB LAST SHIPMENT /3RD FRANCO MILL SITE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232724Z" creationid="Judy" creationdate="20150921T232724Z">
-        <seg>輸出港船上交貨條件 (FOB) 最後一批發貨 / FRANCO 第 3 廠房現場</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122618Z" creationid="Judy" creationdate="20150921T232724Z">
+        <seg>輸出港船上交貨條件 (FOB) 最後一批發貨 / FRANCO 第 3 廠區</seg>
       </tuv>
     </tu>
     <tu>
@@ -13248,8 +13248,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>IN, 24 MONTHS AFTER OPERATION TEST ACCEPTANCE OR 36 MONTHS AFTER THE MILL SITE ARRIVAL DATE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T023835Z" creationid="Judy" creationdate="20150922T023732Z">
-        <seg>IN，操作測試驗收完成後 24 個月或抵達廠房現場日起 36 個月</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122645Z" creationid="Judy" creationdate="20150922T023732Z">
+        <seg>IN，操作測試驗收完成後 24 個月或抵達廠區日起 36 個月</seg>
       </tuv>
     </tu>
     <tu>
@@ -16902,6 +16902,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAINTENANCE SYSTEM AGREED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122527Z" creationid="Judy" creationdate="20150922T122527Z">
+        <seg>維護系統協議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MANUFACTURER NAME</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125831Z" creationid="Judy" creationdate="20150921T125831Z">
@@ -17008,8 +17016,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MONTHS AFTER OPERATION TEST ACCEPTANCE OR 48 MONTHS AFTER THE MILL SITE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T024207Z" creationid="Judy" creationdate="20150922T023830Z">
-        <seg>操作測試驗收完成後 24 個月或最後一批貨物抵達廠房現場於最新履約保證日起 48 個月</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122658Z" creationid="Judy" creationdate="20150922T023830Z">
+        <seg>操作測試驗收完成後 24 個月或最後一批貨物抵達廠區於最新履約保證日起 48 個月</seg>
       </tuv>
     </tu>
     <tu>
@@ -19187,6 +19195,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153251Z">
         <seg>卓越營運要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OPTION MILLS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122740Z" creationid="Judy" creationdate="20150922T122740Z">
+        <seg>可選廠區</seg>
       </tuv>
     </tu>
     <tu>
@@ -27154,6 +27170,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014451Z">
         <seg>目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TAIPEI, MILL SITE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122507Z" creationid="Judy" creationdate="20150922T122507Z">
+        <seg>臺北，廠區</seg>
       </tuv>
     </tu>
     <tu>
