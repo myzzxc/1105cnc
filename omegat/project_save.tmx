@@ -543,6 +543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* SPARE PART PRICES ARE VALID FOR PURCHASES UNTIL 6 MONTHS AFTER THE END OF THE MECHANICAL GUARANTEE PERIOD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T120050Z" creationid="Judy" creationdate="20150922T120050Z">
+        <seg>* 備品零件價格有效期至機械保證期結束後 6 個月止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* SPAREPARTS, INCLUDING CONSUMABLES, ARE SUPPLIED FOR  24 MONTHS OF</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115737Z" creationid="Judy" creationdate="20150922T115737Z">
@@ -27194,6 +27202,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151517Z" creationid="Judy" creationdate="20150921T150250Z">
         <seg>供應商應確保買方於付款期限 12 個工作天之前收到所有相關付款文件，即：發票、銀行保證函等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THEREAFTER, ESCALATED BY 0.25% PER FULL MONTH DURING TWO FOLLOWING YEARS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T120219Z" creationid="Judy" creationdate="20150922T120104Z">
+        <seg>此後兩年內，每完整一個月價格增加 0.25%</seg>
       </tuv>
     </tu>
     <tu>
