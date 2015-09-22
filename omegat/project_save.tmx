@@ -663,6 +663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* SUPPLIER WILL COOPERATE FULLY WITH ENGINEERING &amp; SUPERVISION TEAMS FROM ANY INSTITUTES SELECTED BY THE PURCHASER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141305Z" creationid="Judy" creationdate="20150922T141305Z">
+        <seg>* 供應商將與由買方選定任何機構之工程和監工團隊充分合作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* SUPPLIER WILL PROVIDE SPARE PARTS PRICE LIST WITH ORIGINAL SPARE PARTS MANUFACTURERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115926Z" creationid="Judy" creationdate="20150922T115926Z">
@@ -2246,6 +2254,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123611Z">
         <seg>混凝土元件黏合後安裝錨固驗收標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ACCOMODATION &amp; MEALS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141317Z" creationid="Judy" creationdate="20150922T141317Z">
+        <seg>住宿和膳食</seg>
       </tuv>
     </tu>
     <tu>
