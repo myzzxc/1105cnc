@@ -583,6 +583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* PURCHASER ENTITLE TO RECOVER ALL DAMAGES AND ADDITIONAL EXPENSES CAUSED BY THIS TERMINATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T130641Z" creationid="Judy" creationdate="20150922T130641Z">
+        <seg>* 買方有權要求所有損害賠償和合約終止所造成之額外開支</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* PURCHASER'S BANK GUARANTEE TEXT IS ACCEPTED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152011Z" creationid="Judy" creationdate="20150921T152011Z">
@@ -619,6 +627,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T124333Z" creationid="Judy" creationdate="20150922T124333Z">
         <seg>* 供應商未能在機械保證其內，於買方通知日起 90 天或各方商定之期限內改正任何缺陷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* SUPPLIER SHALL RETURN ALL RECEIVED PAYMENTS WITH 12% ANNUAL INTEREST CALCULATED FROM THE DATE OF EACH PAYMENT TO THE PAY-BACK DATE OF THE RESPECTIVE PAYMENT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T130557Z" creationid="Judy" creationdate="20150922T130557Z">
+        <seg>* 供應商應退還所有已收款項並自每筆付款日起至各別償還日止加計 12% 年息。</seg>
       </tuv>
     </tu>
     <tu>
