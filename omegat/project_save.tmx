@@ -528,8 +528,8 @@
       <tuv lang="EN-US">
         <seg>* FOR IMPORT PORTION, CFR FULL LINER LINER TANJUNG PRIOK PORT (Port Name), JAKARTA – INDONESIA, ACCORDING TO INCOTERM 2010</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T155543Z" creationid="Judy" creationdate="20150921T152847Z">
-        <seg>* 進口部分，印尼雅加達 TANJUNG PRIOK （港口名稱）港，班輪成本加運費 (CFR) 依照 2010 國際商業貿易條款。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154637Z" creationid="Judy" creationdate="20150921T152847Z">
+        <seg>* 進口部分，運費在內條件 (CFR) 運送至印尼雅加達 TANJUNG PRIOK （港口名稱）港， 依照 2010 國際商業貿易條款。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10005,6 +10005,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EQUIPMENT DELIVERY TO BE CFR FULL LINER TO TANJUNG PRIOK, INDONESIA ACCORDING TO INCOTERMS 2010</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154540Z" creationid="Judy" creationdate="20150922T154540Z">
+        <seg>設備運費在內條件 (CFR) 運送至印尼雅加達 TANJUNG PRIOK 港，依照 2010 國際商業貿易條款。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXAMPLE 1: The customer does not want to put Digifort 16 licenses and analytical, so he gets the Base version and a Professional Pack of 8 additional licenses Professional (DGFPR1008V6 DGFPR1108V6 +), moreover it must acquire a license basis Analytical and a pack of 16 permits analytical (DGFAN1000V1 + DGFAN1116V1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T144228Z">
@@ -11289,8 +11297,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FREIGHT COST(*) DELIVERY TO BE CFR FULL LINER TO TANJUNG PRIOK PORT, JAKARTA, INDONESIA ACCORDING TO INCOTERMS 2010</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154327Z" creationid="Judy" creationdate="20150922T154327Z">
-        <seg>運費 (*) 運送至印尼雅加達 TANJUNG PRIOK 港，班輪成本加運費 (CFR) 依照 2010 國際商業貿易條款。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154608Z" creationid="Judy" creationdate="20150922T154327Z">
+        <seg>運費 (*) 以運費在內條件 (CFR) 運送至印尼雅加達 TANJUNG PRIOK 港， 依照 2010 國際商業貿易條款。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17011,6 +17019,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T150802Z">
         <seg>不含當地稅賦和進口稅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LUMPSUM SERVICES, INCL.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154809Z" creationid="Judy" creationdate="20150922T154800Z">
+        <seg>總價服務，</seg>
       </tuv>
     </tu>
     <tu>
@@ -35227,6 +35243,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123123Z" creationid="Judy" creationdate="20150922T123123Z">
         <seg>至合約簽署日起 2 年內</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WITHHOLDING TAX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154817Z" creationid="Judy" creationdate="20150922T154817Z">
+        <seg>包含預繳稅金</seg>
       </tuv>
     </tu>
     <tu>
