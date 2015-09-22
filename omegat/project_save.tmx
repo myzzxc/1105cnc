@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* ANY RELATED LICENSE OR PERMIT OUTSIDE PURCHASER'S COUNTRY HAS NOT BEEN GRANTED IN 90 DAYS FROM CONTRACT EFFECTIVE DATE.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123735Z" creationid="Judy" creationdate="20150922T123735Z">
+        <seg>* 未能在合約生效日起 90 天內取得所有買方所在國加以外之相關的執照或許可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* All models include A2MC controller and Artcam Express</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142138Z">
@@ -21076,6 +21084,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142914Z">
         <seg>泵消音器（2.5" 適合所有鼓風機 &amp; 消音器）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PURCHASER ENTITLE TO TERMINATE THE CONTRACT, IN WHOLE OR IN PARTS, UPON REACHING ANY OF FOLLOWING CONDITIONS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123527Z" creationid="Judy" creationdate="20150922T123527Z">
+        <seg>達到以下任一條件時，買方有權終止全部或部分合約：</seg>
       </tuv>
     </tu>
     <tu>
