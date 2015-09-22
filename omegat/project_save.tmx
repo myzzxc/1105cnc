@@ -464,8 +464,8 @@
       <tuv lang="EN-US">
         <seg>* AS ALTERNATIVE TO THE TERMINATION, THE PURCHASER IS ENTITLED TO CONTRACT WITH NEW SUPPLIER TO COMPLETE THE DELIVERY AT SUPPLIER'S COST</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T133958Z" creationid="Judy" creationdate="20150922T133958Z">
-        <seg>* 買方有權與新供應商簽署合約作為合約終止之替代選擇以完成運送，並由供應商負責其開銷</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134004Z" creationid="Judy" creationdate="20150922T133958Z">
+        <seg>* 買方有權與新供應商簽署合約作為合約終止之替代選擇以完成運送，並由供應商負責其開銷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -587,6 +587,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T125621Z" creationid="Judy" creationdate="20150922T125621Z">
         <seg>* 因為供應商之過失未能於商定的計劃時程內開始運行測試或效能測試，或無法達到保證之性能，或違約金已達到最大限制金額</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* PROJECT SUSPENSION, ORDERED BY PURCHASER, HAVE CONTINUED MORE THAN 12 MONTHS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134153Z" creationid="Judy" creationdate="20150922T134153Z">
+        <seg>* 買方下訂後專案暫停，持續超過 12 個月</seg>
       </tuv>
     </tu>
     <tu>
@@ -724,6 +732,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T171454Z">
         <seg>*高強度和低強度混凝土之定義請參閱4.3.4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*POSTPONEMENT OF PROJECT DUE TO FORCE MAJEURE FOR MORE THAN 12 MONTHS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134057Z" creationid="Judy" creationdate="20150922T134057Z">
+        <seg>* 專案因不可抗拒因素延遲超過 12 個月</seg>
       </tuv>
     </tu>
     <tu>
@@ -13278,6 +13294,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IF CONTRACT IS TERMINATED DUE TO PURCHASER'S REASON:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134203Z" creationid="Judy" creationdate="20150922T134203Z">
+        <seg>如果因為買方因素而終止合約：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IF CONTRACT IS TERMINATED DUE TO SUPPLIER'S REASON:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T130325Z" creationid="Judy" creationdate="20150922T130325Z">
@@ -24843,6 +24867,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115526Z" creationid="Judy" creationdate="20150922T115526Z">
         <seg>供應商確認合約價格為市場上銷售之同一供貨範圍和規格中最低，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPPLIER ENTITLE TO TERMINATE THE CONTRACT UPON REACHING ANY OF FOLLOWING CONDITIONS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134040Z" creationid="Judy" creationdate="20150922T134040Z">
+        <seg>達到以下任一條件時，供應商有權終止合約：</seg>
       </tuv>
     </tu>
     <tu>
