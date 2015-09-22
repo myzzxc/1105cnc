@@ -615,6 +615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* RATE PER DAY INCLUDING OVERTIME 3 HOURS /DAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T142123Z" creationid="Judy" creationdate="20150922T142123Z">
+        <seg>* 每日工資，包含每天 3 小時加班費</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* SPARE PART PRICES ARE VALID FOR PURCHASES UNTIL 6 MONTHS AFTER THE END OF THE MECHANICAL GUARANTEE PERIOD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T120050Z" creationid="Judy" creationdate="20150922T120050Z">
@@ -938,6 +946,22 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-ESTIMATED MANMONTHS FOR INSTALLATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141930Z" creationid="Judy" creationdate="20150922T141856Z">
+        <seg>-預估安裝人力時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-ESTIMATED MANMONTHS FOR TESTING AND TRAINING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141945Z" creationid="Judy" creationdate="20150922T141923Z">
+        <seg>-預估測試和訓練人力時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-Modular Management client</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071837Z">
@@ -1177,6 +1201,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151835Z" creationid="Judy" creationdate="20150921T151835Z">
         <seg>2 號為當地部分總額 10%，有效期至</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 MEN IN 28 DAYS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141910Z" creationid="Judy" creationdate="20150922T141910Z">
+        <seg>2 人 28 天</seg>
       </tuv>
     </tu>
     <tu>
@@ -9833,6 +9865,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143216Z">
         <seg>延長 Z 軸間隙 &amp; 進程，從 150mm 至 450mm (每一 Z 軸）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXTRA SUPERVISORY SERVICES (as requested by the Purchaser in writing)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T142022Z" creationid="Judy" creationdate="20150922T142022Z">
+        <seg>額外監工服務 (按買方以書面形式之要求)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33841,6 +33881,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T143301Z">
         <seg>USB 電流過載保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USD 250/PERSON/DAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T142213Z" creationid="Judy" creationdate="20150922T142213Z">
+        <seg>每人每天美金 250 元</seg>
       </tuv>
     </tu>
     <tu>
