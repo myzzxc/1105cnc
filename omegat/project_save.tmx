@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* FIRST 4 WEEKS  OF DELAY: 1.5% OF CONTRACT AMOUNT PER FULL WEEK OR FRACTION OF WEEK OF DELAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114546Z" creationid="Judy" creationdate="20150922T114546Z">
+        <seg>* 4 周以內延遲：每完整一周為合約金額 1.5% 或按延遲天數佔一周之比例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* FOR IMPORT PORTION, CFR FULL LINER LINER TANJUNG PRIOK PORT (Port Name), JAKARTA – INDONESIA, ACCORDING TO INCOTERM 2010</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T155543Z" creationid="Judy" creationdate="20150921T152847Z">
@@ -531,6 +539,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152011Z" creationid="Judy" creationdate="20150921T152011Z">
         <seg>* 接受買方之銀行保證函文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* THE FOLLOWING WEEKS: 2.5% OF CONTRACT AMOUNT PER FULL WEEK OR FRACTION OF A WEEK OF DELAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114623Z" creationid="Judy" creationdate="20150922T114623Z">
+        <seg>* 4 周以上：每完整一周為合約金額 2.5% 或按延遲天數佔一周之比例</seg>
       </tuv>
     </tu>
     <tu>
@@ -19099,6 +19115,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130300Z">
         <seg>擺動刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OTHER DELAYS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114633Z" creationid="Judy" creationdate="20150922T114633Z">
+        <seg>其他延遲</seg>
       </tuv>
     </tu>
     <tu>
