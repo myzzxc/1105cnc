@@ -16358,6 +16358,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KICK OF MEETING TO BE CONDUCTED AFTER THE CONTRACT SIGN  ( BEFORE DOWN  PAYMENT )</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134955Z" creationid="Judy" creationdate="20150922T134955Z">
+        <seg>於合約簽署後進行專案啟動會議 (交付定金前)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KNIFE MATTING (Price per square meter of process area)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142025Z">
@@ -20832,6 +20840,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PAYMENT TERMS (ALL PART LIST MUST BE SUBMITTED PRIOR RELEASING THE WHOLE PAYMENT):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T135223Z" creationid="Judy" creationdate="20150922T135215Z">
+        <seg>付款條件 (交付全部款項前必須遞交所有零件清單)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PAYMENT TERMS FOR IMPORT PORTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152057Z" creationid="Judy" creationdate="20150921T131547Z">
@@ -24658,6 +24674,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115319Z" creationid="Judy" creationdate="20150922T115319Z">
         <seg>接受嚴重生產妨害罰金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERVICE CONTRACT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T135002Z" creationid="Judy" creationdate="20150922T135002Z">
+        <seg>服務合約</seg>
       </tuv>
     </tu>
     <tu>
