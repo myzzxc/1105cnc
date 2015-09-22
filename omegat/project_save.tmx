@@ -1000,6 +1000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Unwinding Units</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153438Z" creationid="Judy" creationdate="20150922T153247Z">
+        <seg>- 原紙放料單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-10ºC Freezeproof</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130007Z">
@@ -12270,6 +12278,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the parts that can be specify the quantity, please write it down</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153514Z" creationid="Judy" creationdate="20150922T153355Z">
+        <seg>此部分可以指定數量，請寫下所需數量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the purposes of this assessment, statistical equivalence shall be demonstrated by a two-sided Student's t-Test at a probability of 95% with a confidence level of 90 percent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194850Z">
@@ -15868,6 +15884,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125458Z">
         <seg> Intel® Core® Duo，1.66GHz 以上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interfold Machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153235Z" creationid="Judy" creationdate="20150922T153235Z">
+        <seg>抽取式面紙機</seg>
       </tuv>
     </tu>
     <tu>
@@ -34217,6 +34241,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T142213Z" creationid="Judy" creationdate="20150922T142213Z">
         <seg>每人每天美金 250 元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USD currency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153220Z" creationid="Judy" creationdate="20150922T153220Z">
+        <seg>美元計價</seg>
       </tuv>
     </tu>
     <tu>
