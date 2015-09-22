@@ -647,6 +647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* SUPPLIER HAS THE RIGHT TO RECEIVE COMPENSATION FOR ITS DOCUMENTED DIRECT DAMAGES AND PURCHASER HAS THE RIGHT TO TAKE OVER THE GOODS WHICH HAVE BEEN COMPLETED TO THAT POINT OF TIME.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134444Z" creationid="Judy" creationdate="20150922T134444Z">
+        <seg>* 供應商有權就其有記錄之直接損害請求賠償，而買方須接收該時間點已完工之貨物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* SUPPLIER SHALL RETURN ALL RECEIVED PAYMENTS WITH 12% ANNUAL INTEREST CALCULATED FROM THE DATE OF EACH PAYMENT TO THE PAY-BACK DATE OF THE RESPECTIVE PAYMENT.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T130557Z" creationid="Judy" creationdate="20150922T130557Z">
@@ -5990,6 +5998,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T160733Z" creationid="Judy" creationdate="20150921T160733Z">
         <seg>貨櫃使用條款：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONTRACT TEXT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134453Z" creationid="Judy" creationdate="20150922T134453Z">
+        <seg>合約本文</seg>
       </tuv>
     </tu>
     <tu>
@@ -24851,6 +24867,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T084848Z">
         <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPPLIER AGREES TO PURCHASER CONTRACT TEXT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134554Z" creationid="Judy" creationdate="20150922T134542Z">
+        <seg>供應商同意買方合約本文</seg>
       </tuv>
     </tu>
     <tu>
