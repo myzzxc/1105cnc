@@ -8309,6 +8309,22 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DELAY OF DOCUMENTS DELIVERY = USD 30,000 PER FULL WEEK OR FRACTION OF WEEK OF DELAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114754Z" creationid="Judy" creationdate="20150922T114738Z">
+        <seg>文件寄送延遲 = 每完整一周為美金 30,000 元或按延遲天數佔一周之比例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DELAY OF SUPERVISORS ARRIVAL = USD 30,000 PER FULL WEEK OR FRACTION OF WEEK OF DELAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114843Z" creationid="Judy" creationdate="20150922T114843Z">
+        <seg>監督人員抵達延遲 = 每完整一周為美金 30,000 元或按延遲天數佔一周之比例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DELAYS OF GOODS DELIVERY (FROM CFR ARRIVAL DATES)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114258Z" creationid="Judy" creationdate="20150922T114258Z">
@@ -13222,6 +13238,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN, USD 5,000.-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114748Z" creationid="Judy" creationdate="20150922T114748Z">
+        <seg>IN, 美金 5,000.-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN, WITHIN 5 DAYS FOR ASEAN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T234358Z" creationid="Judy" creationdate="20150921T234358Z">
@@ -16858,6 +16882,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022709Z">
         <seg>材料真空固定配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MAX.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114938Z" creationid="Judy" creationdate="20150922T114938Z">
+        <seg>最高</seg>
       </tuv>
     </tu>
     <tu>
@@ -20732,6 +20764,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071107Z">
         <seg>PDF&lt;&gt;Office 轉檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PERFORMANCE DEVIATION (Details to be agreed separately)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114914Z" creationid="Judy" creationdate="20150922T114914Z">
+        <seg>性能偏差 (細節另行約定)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27074,6 +27114,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130710Z" creationid="Judy" creationdate="20150921T130710Z">
         <seg>TOMA CHENG 先生、MARTA 先生、SUSAN 先生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOTAL LIQUIDATED DAMAGES (LD): 15%</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115003Z" creationid="Judy" creationdate="20150922T115003Z">
+        <seg>違約金 (LD) 總額：15%</seg>
       </tuv>
     </tu>
     <tu>
