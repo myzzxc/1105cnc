@@ -744,6 +744,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*BABYSITTING AT SITE FOR 24 MONTHS AFTER OPERATION TEST ACCEPTANCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141111Z" creationid="Judy" creationdate="20150922T141111Z">
+        <seg>* 操作測試驗收完成後 24 個月現場支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*For definition of high- and low-strength concrete, refer to 4.3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T171454Z">
@@ -836,6 +844,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115248Z">
         <seg>* 瑞典工程業的研究機構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*WEEKLY WORKING TIME TO FOLLOWTIME OF SUPERVISED PERSONNEL, UP TO 48 HOURS PLUS 3 HRS PER DAY TEMPORARY OVERTIME INCLUDED, IF REQUIRED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140916Z" creationid="Judy" creationdate="20150922T140916Z">
+        <seg>* 監工人員每週工作時間如下：最多 48 小時，包含每日 3 小時臨時加班 (如有需求)</seg>
       </tuv>
     </tu>
     <tu>
