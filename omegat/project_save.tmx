@@ -2074,6 +2074,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALL SPARE PARTS SHALL BE  ATTACHED WITH BARCODE LABEL ACCORDING TO THE GUIDELINE OF PURCHASER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T120343Z" creationid="Judy" creationdate="20150922T120343Z">
+        <seg>所有備品零件應依據買家準則附有條碼標籤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALL UNIT PRICE SHALL BE VALID UNTIL END OF MECHANICAL GUARANTEE PERIOD.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151357Z" creationid="Judy" creationdate="20150921T151357Z">
