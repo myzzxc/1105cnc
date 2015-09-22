@@ -559,6 +559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* OPERATION TEST OR PERFORMANCE TEST HAS NOT BEEN STARTED WITHIN THE AGREED SCHEDULE DUE TO SUPPLIER'S FAULT OR THE GUARANTEED PERFORMANCE CANNOT BE REACHED AND/OR THE APPLIED LIQUIDATED DAMAGES HAVE REACHED MAXIMUM LIMIT AMOUNT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T125621Z" creationid="Judy" creationdate="20150922T125621Z">
+        <seg>* 因為供應商之過失未能於商定的計劃時程內開始運行測試或效能測試，或無法達到保證之性能，或違約金已達到最大限制金額</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* PURCHASER'S BANK GUARANTEE TEXT IS ACCEPTED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152011Z" creationid="Judy" creationdate="20150921T152011Z">
