@@ -28262,6 +28262,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TOTAL PRICE (LC at sight)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155148Z" creationid="Judy" creationdate="20150922T155148Z">
+        <seg>總價格 (即期信用狀)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRAINING: CLASS ROOM , ON JOB TRAINING &amp; TESTING &amp; CERTIFICATIONS ( PASS / NOT PASS)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155134Z" creationid="Judy" creationdate="20150922T155134Z">
+        <seg>教育訓練：教室、在職訓練和測試以及認證 (通過 / 未通過)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TRANSFORMS="&lt;source_path&gt;\1036.mst" defines the installation language.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000000Z">
