@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1051,6 +1051,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130010Z">
         <seg>21G 換刀器含 5 組 ISO 30 錐型夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>24</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T023736Z" creationid="Judy" creationdate="20150922T023736Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -13122,6 +13130,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T161352Z" creationid="Judy" creationdate="20150921T161352Z">
         <seg>IN，14 天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN, 24 MONTHS AFTER OPERATION TEST ACCEPTANCE OR 36 MONTHS AFTER THE MILL SITE ARRIVAL DATE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T023732Z" creationid="Judy" creationdate="20150922T023732Z">
+        <seg>IN，操作測試驗收完成後 24 個月貨抵達廠房現場日起 36 個月</seg>
       </tuv>
     </tu>
     <tu>
