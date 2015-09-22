@@ -16350,6 +16350,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KICK OF MEETING ( KOM)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134655Z" creationid="Judy" creationdate="20150922T134655Z">
+        <seg>專案啟動會議 (KOM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KNIFE MATTING (Price per square meter of process area)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142025Z">
