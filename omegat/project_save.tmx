@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* HARMONIC SYSTEM CODE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145757Z" creationid="Judy" creationdate="20150922T145757Z">
+        <seg>* 協調製度代碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* IF DIMENSIONNALY POSSIBLE, ALL GOODS SHALL BE PLACED AND TRANSPORTED INSIDE CONTAINERS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T161526Z" creationid="Judy" creationdate="20150921T161526Z">
@@ -627,6 +635,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140506Z" creationid="Judy" creationdate="20150922T125621Z">
         <seg>* 因為供應商之過失未能於商定的計劃時程內開始操作測試或效能測試，或無法達到保證之性能，或違約金已達到最大限制金額</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* PORT OF ORIGIN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145653Z" creationid="Judy" creationdate="20150922T145653Z">
+        <seg>* 貨物原產地港口</seg>
       </tuv>
     </tu>
     <tu>
@@ -6238,6 +6254,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070334Z">
         <seg>電腦需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONFIDENTIALITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145815Z" creationid="Judy" creationdate="20150922T145815Z">
+        <seg>保密協定</seg>
       </tuv>
     </tu>
     <tu>
