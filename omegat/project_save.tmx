@@ -13310,6 +13310,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN, IN 30 DAYS FROM CONTRACT EFFECTIVE DATE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123807Z" creationid="Judy" creationdate="20150922T123807Z">
+        <seg>IN, 合約生效日起 30 天內</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN, TBD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T152029Z" creationid="Judy" creationdate="20150921T152029Z">
@@ -13570,6 +13578,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140521Z">
         <seg>若發現洩漏，依照規格鎖緊以阻止洩漏，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If in 30 days from contract effective date, Supplier don't have license, so we can terminate it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123956Z" creationid="Judy" creationdate="20150922T123956Z">
+        <seg>如果在合約生效日起 30 天內，供應商沒有取得執照，則我方可以終止合約。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34883,6 +34899,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025906Z">
         <seg>您的挑戰是什麼？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What does it means?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123821Z" creationid="Judy" creationdate="20150922T123821Z">
+        <seg>這是什麼意思？</seg>
       </tuv>
     </tu>
     <tu>
