@@ -8293,6 +8293,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DELAYS OF GOODS DELIVERY (FROM CFR ARRIVAL DATES)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114258Z" creationid="Judy" creationdate="20150922T114258Z">
+        <seg>貨物延遲遞送 (自運費在內條件日起)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DELIVERING THE PRODUCT FOR ACCEPTANCE AND AS A SERIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152952Z">
@@ -16203,6 +16211,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133436Z">
         <seg>LINK：已連接網路，當模組版傳輸或接收資料時會閃爍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LIQUIDATED DAMAGES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114217Z" creationid="Judy" creationdate="20150922T114217Z">
+        <seg>違約金</seg>
       </tuv>
     </tu>
     <tu>
