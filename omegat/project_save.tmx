@@ -12384,8 +12384,16 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For the quantity in freight cost should be for 2 units interfold + Packaging</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154426Z" creationid="Judy" creationdate="20150922T154426Z">
-        <seg>運費包含支數量為 2 台抽取式面紙機 + 包裝</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154853Z" creationid="Judy" creationdate="20150922T154426Z">
+        <seg>運費包含數量為 2 台抽取式面紙機 + 包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the quantity in lumpsum services should be for 2 units interfold + packaging</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154846Z" creationid="Judy" creationdate="20150922T154846Z">
+        <seg>總價服務包含數量為 2 台抽取式面紙機 + 包裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -17690,6 +17698,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115809Z" creationid="Judy" creationdate="20150922T115809Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MECHANICAL GUARANTEE SERVICES AFTER START-UP SUPERVISION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155026Z" creationid="Judy" creationdate="20150922T155026Z">
+        <seg>啟動監工後機械保證服務</seg>
       </tuv>
     </tu>
     <tu>
@@ -25499,6 +25515,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141816Z" creationid="Judy" creationdate="20150922T141816Z">
         <seg>監工期限：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPERVISOR DURING OPERATION AND PERFORMANCE TEST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154953Z" creationid="Judy" creationdate="20150922T154953Z">
+        <seg>操作和性能測試之監工人員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPERVISOR FOR INSTALLATION, COMMISSIONING, START-UP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154925Z" creationid="Judy" creationdate="20150922T154925Z">
+        <seg>安裝、調試、啟動之監工人員</seg>
       </tuv>
     </tu>
     <tu>
