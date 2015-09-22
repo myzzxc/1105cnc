@@ -2442,6 +2442,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADDITONAL REMARKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T150335Z" creationid="Judy" creationdate="20150922T150335Z">
+        <seg>其它備註</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALL PARTS/ITEMS DESCRIPTION AND NUMBER HAVE TO BE SUBMITTED IN EXCEL FORMAT PRIOR CONDUCTING OF OPERATION TEST ACCEPTANCE (HARDCOPY AND SOFTCOPY)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122441Z" creationid="Judy" creationdate="20150922T122441Z">
@@ -10202,6 +10210,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060819Z">
         <seg>編輯、剪下和貼上文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit: 25 JUN 15</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T150406Z" creationid="Judy" creationdate="20150922T150406Z">
+        <seg>編輯：2015年6月25日</seg>
       </tuv>
     </tu>
     <tu>
@@ -25267,6 +25283,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140146Z" creationid="Judy" creationdate="20150922T140146Z">
         <seg>監工服務為總價合約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPPLIER AGREE TO KEEP THE EXISTENCE OF THIS PROJECT, ITS PURPOSES AND ANY FUTURE AGREEMENTS IN RELATION TO THIS PROJECT STRICTLY CONFIDENTIAL AND SHALL NOT DISCLOSE, DIVULGE OR USE THE SAME IN ANY PUBLICITY, ADVERTISEMENT, OFFICIAL PRESS RELEASES, ANNOUNCEMENTS OR ANY OTHER SIMILAR MEDIA OUTLET WITHOUT OBTAINING THE PRIOR CONSENT IN WRITING OF THE PURCHASER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T150329Z" creationid="Judy" creationdate="20150922T150329Z">
+        <seg>供應商同意未取得買方的書面同意前，對此專案、其宗旨和專案未來相關的任何協定內容保密，並不得透露、洩露或使用相同內容於任何宣傳、廣告、官方新聞稿、公告或任何其它類似的媒體上。</seg>
       </tuv>
     </tu>
     <tu>
