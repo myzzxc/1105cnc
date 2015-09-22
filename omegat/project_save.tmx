@@ -976,6 +976,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Cross Cutting Section</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153818Z" creationid="Judy" creationdate="20150922T153818Z">
+        <seg>- 切割組件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Cross Folding Units</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153542Z" creationid="Judy" creationdate="20150922T153542Z">
+        <seg>- 交叉折疊單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Nuance PDF Customer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131813Z">
@@ -12274,6 +12290,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T115549Z">
         <seg>我們為最先進的maker和不願意花費太多精力於找尋安置UNO型電路板之容器的maker們開發了全新的保護殼：UNO型保護殼。此保護殼能避免電路板意外損傷，滿足了玩家們對電路板的收納需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the parts that can be specify the price, please write down in price column or included in machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153722Z" creationid="Judy" creationdate="20150922T153722Z">
+        <seg>可以指明價格之零件，請寫於價格欄位或包含於機器中</seg>
       </tuv>
     </tu>
     <tu>
@@ -37481,6 +37505,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172637Z">
         <seg>或當標稱直徑大於1/2英吋時測試其最小標稱直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>don't forget to fill IN/EX column</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153832Z" creationid="Judy" creationdate="20150922T153832Z">
+        <seg>別忘了填寫 IN/EX 欄</seg>
       </tuv>
     </tu>
     <tu>
