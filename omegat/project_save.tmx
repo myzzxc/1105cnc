@@ -543,6 +543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* LONG DELAY IN DELIVERY WHERE THE APPLIED LIQUIDATED DAMAGES HAVE REACHED MAXIMUM LIMIT AMOUNT OR IF SUCH DELAY BECOMES OBVIOUSLY IMMINENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T125322Z" creationid="Judy" creationdate="20150922T125322Z">
+        <seg>* 長期延遲交付時，當違約金已達到最大限制金額或情況明顯將繼續延遲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Not available for beta version.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024103Z">
