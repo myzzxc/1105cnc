@@ -687,6 +687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* WITHOLDING TAX FOR SERVICE PAYMENT, IF APPLICABLE, SHALL BE PAID BY SUPPLIER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T135935Z" creationid="Judy" creationdate="20150922T135935Z">
+        <seg>* 應由供應商支付維修服務付款扣繳之稅金 (依據情況)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*1 	5H is the approximate time of continuous recording in 50i if the 		internal battery has been fully charged, when the LED light (if available) 		is off, the monitor backlight is set to standard mode, and without the 		use of zoom function.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061605Z">
@@ -12237,6 +12245,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T124506Z">
         <seg>支架配件和組態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GENERAL SCOPE OF SERVICE:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T135945Z" creationid="Judy" creationdate="20150922T135945Z">
+        <seg>一般維修服務範圍：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24931,6 +24947,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T084848Z">
         <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPERVISORY SERVICES INCLUDES:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140202Z" creationid="Judy" creationdate="20150922T140202Z">
+        <seg>監工服務包含：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPERVISORYSERVICES IS LUMPSUM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140146Z" creationid="Judy" creationdate="20150922T140146Z">
+        <seg>監工服務為總價合約</seg>
       </tuv>
     </tu>
     <tu>
