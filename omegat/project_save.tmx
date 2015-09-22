@@ -543,6 +543,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* SPAREPARTS, INCLUDING CONSUMABLES, ARE SUPPLIED FOR  24 MONTHS OF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115737Z" creationid="Judy" creationdate="20150922T115737Z">
+        <seg>* 備品零件，包括消耗品，於機械保證之 24 個月內供應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* SUPPLIER WILL PROVIDE SPARE PARTS PRICE LIST WITH ORIGINAL SPARE PARTS MANUFACTURERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115926Z" creationid="Judy" creationdate="20150922T115926Z">
+        <seg>* 供應商將提供原始備品零件製造商之備品零件價格清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* THE FOLLOWING WEEKS: 2.5% OF CONTRACT AMOUNT PER FULL WEEK OR FRACTION OF A WEEK OF DELAY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114623Z" creationid="Judy" creationdate="20150922T114623Z">
@@ -13222,6 +13238,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN, EXCLUDE CONSUMABLE PARTS AND WRONG OPERATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115805Z" creationid="Judy" creationdate="20150922T115805Z">
+        <seg>IN, 不包含耗材和錯誤操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN, FROM DP RECEIVED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T231635Z" creationid="Judy" creationdate="20150921T231622Z">
@@ -16922,6 +16946,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064235Z">
         <seg>MB 記憶體 (RAM)，建議配備 1 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MECHANICAL GUARANTEE PERIOD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115809Z" creationid="Judy" creationdate="20150922T115809Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -24499,6 +24531,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115609Z" creationid="Judy" creationdate="20150922T115609Z">
         <seg>備品零件保證：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPARE PARTS PRICE LIST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115819Z" creationid="Judy" creationdate="20150922T115819Z">
+        <seg>備品零件價格清單</seg>
       </tuv>
     </tu>
     <tu>
