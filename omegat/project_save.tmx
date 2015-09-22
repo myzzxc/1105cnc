@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* GOVERNING LAW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145508Z" creationid="Judy" creationdate="20150922T145508Z">
+        <seg>* 管轄法律</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* IF DIMENSIONNALY POSSIBLE, ALL GOODS SHALL BE PLACED AND TRANSPORTED INSIDE CONTAINERS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T161526Z" creationid="Judy" creationdate="20150921T161526Z">
@@ -575,10 +583,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* LOCATION &amp; SIZE OF SERVICE FACILITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145432Z" creationid="Judy" creationdate="20150922T145416Z">
+        <seg>* 維修服務設施之位置及規模</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* LONG DELAY IN DELIVERY WHERE THE APPLIED LIQUIDATED DAMAGES HAVE REACHED MAXIMUM LIMIT AMOUNT OR IF SUCH DELAY BECOMES OBVIOUSLY IMMINENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T125322Z" creationid="Judy" creationdate="20150922T125322Z">
         <seg>* 長期延遲交付時，當違約金已達到最大限制金額或情況明顯將繼續延遲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* MAIN COUNTRIES OF MANUFACTURING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145533Z" creationid="Judy" creationdate="20150922T145533Z">
+        <seg>* 主要製造國家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* NUMBER OF SERVICE PERSONNEL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145426Z" creationid="Judy" creationdate="20150922T145426Z">
+        <seg>* 維修服務人員數目</seg>
       </tuv>
     </tu>
     <tu>
@@ -699,6 +731,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115926Z" creationid="Judy" creationdate="20150922T115926Z">
         <seg>* 供應商將提供原始備品零件製造商之備品零件價格清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* SUPPORTING WORKSHOP &amp; SERVICE FACILITY IN CHINA OR INDONESIA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145436Z" creationid="Judy" creationdate="20150922T145402Z">
+        <seg>* 位於中國或印尼之支援工作室及維修服務設施</seg>
       </tuv>
     </tu>
     <tu>
@@ -19679,6 +19719,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OTHER INFORMATIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145441Z" creationid="Judy" creationdate="20150922T145441Z">
+        <seg>其它資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OTHERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T142349Z" creationid="Judy" creationdate="20150921T142345Z">
@@ -25023,6 +25071,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SINGAPORE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145515Z" creationid="Judy" creationdate="20150922T145515Z">
+        <seg>新加坡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SINGAPORE /  INDONESIA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145513Z" creationid="Judy" creationdate="20150922T145513Z">
+        <seg>新加坡 / 印尼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SOFTWARE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022719Z">
@@ -25227,6 +25291,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115358Z" creationid="Judy" creationdate="20150922T115358Z">
         <seg>供應商將重新建造機械直到達到 100% 產能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUPPLIER WORKSHOPS &amp; SERVICE FACILITIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145326Z" creationid="Judy" creationdate="20150922T145326Z">
+        <seg>供應商工作室及維修服務設施</seg>
       </tuv>
     </tu>
     <tu>
@@ -27706,6 +27778,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122507Z" creationid="Judy" creationdate="20150922T122507Z">
         <seg>臺北，廠區</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TAIWAN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145536Z" creationid="Judy" creationdate="20150922T145536Z">
+        <seg>臺灣</seg>
       </tuv>
     </tu>
     <tu>
