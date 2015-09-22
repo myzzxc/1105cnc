@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* DELAY IN SUPPLIER'S DELIVERY DUE TO FORCE MAJEURE MORE THAN 4 MONTHS OR IF SUCH DELAY BECOMES OBVIOUSLY IMMINENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T130021Z" creationid="Judy" creationdate="20150922T130021Z">
+        <seg>* 由於不可抗力因素供應商交貨延遲超過 4 個月，或情況明顯將繼續延遲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* FIRST 4 WEEKS  OF DELAY: 1.5% OF CONTRACT AMOUNT PER FULL WEEK OR FRACTION OF WEEK OF DELAY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114546Z" creationid="Judy" creationdate="20150922T114546Z">
@@ -13346,6 +13354,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123807Z" creationid="Judy" creationdate="20150922T123807Z">
         <seg>IN, 合約生效日起 30 天內</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN, NOT ONLY DUE TO SUPPLIER SIDE, ALSO CUSTOMER SIDE, TBD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T125835Z" creationid="Judy" creationdate="20150922T125835Z">
+        <seg>IN, 不僅因為供應方，也包括客戶所導致之原因，待定</seg>
       </tuv>
     </tu>
     <tu>
