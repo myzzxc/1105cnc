@@ -11287,6 +11287,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FREIGHT COST(*) DELIVERY TO BE CFR FULL LINER TO TANJUNG PRIOK PORT, JAKARTA, INDONESIA ACCORDING TO INCOTERMS 2010</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154327Z" creationid="Judy" creationdate="20150922T154327Z">
+        <seg>運費 (*) 運送至印尼雅加達 TANJUNG PRIOK 港，班輪成本加運費 (CFR) 依照 2010 國際商業貿易條款。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face Detection:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060540Z">
@@ -12362,6 +12370,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194850Z">
         <seg>此評估中，統計等效應使用雙尾 t-檢定，於95%機率下滿足90%信賴水準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the quantity in freight cost should be for 2 units interfold + Packaging</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154426Z" creationid="Judy" creationdate="20150922T154426Z">
+        <seg>運費包含支數量為 2 台抽取式面紙機 + 包裝</seg>
       </tuv>
     </tu>
     <tu>
