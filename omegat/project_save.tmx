@@ -2108,6 +2108,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ARRIVAL DATE OF THE LAST SHIPMENT AT THE LATEST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T024210Z" creationid="Judy" creationdate="20150922T024210Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATC - Automatic Tool Changer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121615Z">
@@ -16856,8 +16864,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MONTHS AFTER OPERATION TEST ACCEPTANCE OR 48 MONTHS AFTER THE MILL SITE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T024037Z" creationid="Judy" creationdate="20150922T023830Z">
-        <seg>操作測試驗收完成後 24 個月或最後一批貨物抵達廠房現場日起 48 個月</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T024207Z" creationid="Judy" creationdate="20150922T023830Z">
+        <seg>操作測試驗收完成後 24 個月或最後一批貨物抵達廠房現場於最新履約保證日起 48 個月</seg>
       </tuv>
     </tu>
     <tu>
@@ -20660,6 +20668,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071107Z">
         <seg>PDF&lt;&gt;Office 轉檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PERFORMANCE GUARANTEE (Details are to be agreed separately)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T024228Z" creationid="Judy" creationdate="20150922T024228Z">
+        <seg>(細節另行約定)</seg>
       </tuv>
     </tu>
     <tu>
