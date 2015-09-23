@@ -7389,6 +7389,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commercial/Residential Buildings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114601Z" creationid="Judy" creationdate="20150923T114601Z">
+        <seg>商業/住宅建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Communication</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125112Z">
@@ -7944,6 +7952,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052150Z">
         <seg>連接點開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Construction Equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114451Z" creationid="Judy" creationdate="20150923T114451Z">
+        <seg>建築設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consumer Products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114626Z" creationid="Judy" creationdate="20150923T114626Z">
+        <seg>消費性產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -10406,6 +10430,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical Equipment &amp; Electronics</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114614Z" creationid="Judy" creationdate="20150923T114531Z">
+        <seg>電機設備和電子產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electronic form creation and conversion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071119Z">
@@ -12805,6 +12837,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General Industrial Equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114455Z" creationid="Judy" creationdate="20150923T114455Z">
+        <seg>一般工業設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General settings for working with .pdf files, related programs and applications</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052126Z">
@@ -14138,6 +14178,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084206Z">
         <seg>規劃並清理空間供機台放置，確保入口與門的大小足以使機台通過。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identify and initiate the organizational transformation into Modularity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114414Z" creationid="Judy" creationdate="20150923T114414Z">
+        <seg>確認並開始組織性轉型為模塊化</seg>
       </tuv>
     </tu>
     <tu>
@@ -18097,6 +18145,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manufacturing Equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114500Z" creationid="Judy" creationdate="20150923T114500Z">
+        <seg>製造設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many benefits may be gained by promoting and facilitating use of the best available technologies and management systems in water provision, productivity and efficiency, and by improving water allocation mechanisms.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T132916Z">
@@ -18237,6 +18293,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080146Z">
         <seg>媒體磁碟機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medical &amp; Bioscience Equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114619Z" creationid="Judy" creationdate="20150923T114610Z">
+        <seg>醫學和生物科學設備</seg>
       </tuv>
     </tu>
     <tu>
@@ -18609,6 +18673,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular Management Has Extensive Experience</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114443Z" creationid="Judy" creationdate="20150923T114443Z">
+        <seg>模塊化管理具有豐富的經驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Management can help you reduce development time, expand product assortment and reduce product cost – all at the same time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T025309Z">
@@ -18661,6 +18733,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083524Z">
         <seg>模塊化管理化不可能變為可能：我們使用模塊化產品架構協助您同時實現高產量、優質的產品和服務並增加市占率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modular Management’s Range of Offerings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114426Z" creationid="Judy" creationdate="20150923T114426Z">
+        <seg>模塊化管理的產品範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -25967,6 +26047,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130600Z">
         <seg>電路圖：arduino_9AxesShield-schematic.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scientific/Technical Instruments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114541Z" creationid="Judy" creationdate="20150923T114541Z">
+        <seg>科學/技術儀器</seg>
       </tuv>
     </tu>
     <tu>
@@ -34284,6 +34372,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024111Z">
         <seg>轉換檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transportation Equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114545Z" creationid="Judy" creationdate="20150923T114545Z">
+        <seg>運輸設備</seg>
       </tuv>
     </tu>
     <tu>
