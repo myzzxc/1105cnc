@@ -3632,6 +3632,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air Filtration Systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121447Z" creationid="Judy" creationdate="20150923T121447Z">
+        <seg>空氣過濾系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air Flow Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090743Z">
@@ -4574,6 +4582,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arc Welders &amp; Plasma Cutters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121420Z" creationid="Judy" creationdate="20150923T121420Z">
+        <seg>電焊機和電漿切割器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Archiving Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z">
@@ -4802,6 +4818,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T154218Z">
         <seg>具有選配可交換式刀匣可供選擇，刀匣同時適用於標準刀鋒、輪形刀、壓花輪以及 45 度角刀鋒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Asphalt Road Pavers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121331Z" creationid="Judy" creationdate="20150923T121331Z">
+        <seg>瀝青鋪面機</seg>
       </tuv>
     </tu>
     <tu>
@@ -7457,6 +7481,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T115328Z" creationid="Judy" creationdate="20150923T115328Z">
         <seg>商用製冷系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commercial Floor Cleaners</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121443Z" creationid="Judy" creationdate="20150923T121443Z">
+        <seg>商用地板清潔劑</seg>
       </tuv>
     </tu>
     <tu>
@@ -15768,6 +15800,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Industrial Pumps &amp; Separation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121503Z" creationid="Judy" creationdate="20150923T121503Z">
+        <seg>工業泵和分離器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Industrial Robotics</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T120831Z" creationid="Judy" creationdate="20150923T120831Z">
@@ -17336,6 +17376,22 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Large-drive Hydraulic Motors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121538Z" creationid="Judy" creationdate="20150923T121538Z">
+        <seg>大型液壓馬達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Large-scale Power Transmission</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121543Z" creationid="Judy" creationdate="20150923T121543Z">
+        <seg>大型電力傳輸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laser Digitiser</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082125Z">
@@ -18421,6 +18477,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071148Z">
         <seg>標示 &amp; 註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Material Handling Trucks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121437Z" creationid="Judy" creationdate="20150923T121437Z">
+        <seg>物料搬運卡車</seg>
       </tuv>
     </tu>
     <tu>
@@ -23330,6 +23394,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130505Z">
         <seg>消耗功率 50mW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power Generator Products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121510Z" creationid="Judy" creationdate="20150923T121510Z">
+        <seg>發電機產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -36519,6 +36591,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113943Z">
         <seg>新增功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wheel Loaders</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121338Z" creationid="Judy" creationdate="20150923T121338Z">
+        <seg>輪式裝載機</seg>
       </tuv>
     </tu>
     <tu>
