@@ -5443,8 +5443,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Balance all objectives within module designs to maximize value</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T111715Z" creationid="Judy" creationdate="20150923T111715Z">
-        <seg>平衡內模組設計，以實現價值最大化的所有目標</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T111828Z" creationid="Judy" creationdate="20150923T111715Z">
+        <seg>於模塊設計中平衡所有目標，以實現價值最大化</seg>
       </tuv>
     </tu>
     <tu>
@@ -18689,10 +18689,18 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular Product Architecture Governance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T112155Z" creationid="Judy" creationdate="20150923T112155Z">
+        <seg>模塊化產品架構管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Product Implementation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T111711Z" creationid="Judy" creationdate="20150923T111711Z">
-        <seg>執行模塊化產品</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T111732Z" creationid="Judy" creationdate="20150923T111711Z">
+        <seg>實行模塊化產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -20928,6 +20936,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054758Z">
         <seg>PDF 文件最佳化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimize business systems to produce and deliver the module system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T112058Z" creationid="Judy" creationdate="20150923T112058Z">
+        <seg>最佳化業務系統以產生並實現模塊系統</seg>
       </tuv>
     </tu>
     <tu>
