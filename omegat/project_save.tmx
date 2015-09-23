@@ -10851,6 +10851,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Establish the process and people roles to maintain the Architecture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114112Z" creationid="Judy" creationdate="20150923T114112Z">
+        <seg>建立程序和人的角色，以維持架構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ethernet Controller: W5500 with internal 32K buffer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013750Z">
