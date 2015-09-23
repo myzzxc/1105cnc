@@ -18377,6 +18377,22 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medical Diagnostics Equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T115853Z" creationid="Judy" creationdate="20150923T115853Z">
+        <seg>醫療診斷設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medical Imaging Equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T115741Z" creationid="Judy" creationdate="20150923T115741Z">
+        <seg>醫學影像設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meet Your Challenges</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033413Z">
