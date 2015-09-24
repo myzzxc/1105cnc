@@ -2089,6 +2089,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Module Is an Abstract Entity;    A Module Variant Represents the Physical Realization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T041605Z" creationid="Judy" creationdate="20150924T041605Z">
+        <seg>模塊是一個萃取的實體；     模塊變數代表了實物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A PC with an Intel®  Pentium®  4, higher or equivalent processor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052526Z">
@@ -2253,6 +2261,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T075456Z">
         <seg>模塊化的專案對任何組織都是一項浩大工程，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A module is an abstract entity, with standardized interfaces (attachment and spatial, in the example).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T041827Z" creationid="Judy" creationdate="20150924T041827Z">
+        <seg>模塊是一個萃取的實體，具有標準化的接口（範例中為附件和空間）。</seg>
       </tuv>
     </tu>
     <tu>
