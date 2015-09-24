@@ -6554,6 +6554,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cabs - Scania 4 series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031834Z" creationid="Judy" creationdate="20150924T031834Z">
+        <seg>座艙 - Scania 4 系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cabs - Scania 4 series The Cab modular system, modules and variants</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031412Z" creationid="Judy" creationdate="20150924T031412Z">
@@ -7589,6 +7597,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commonality</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031755Z" creationid="Judy" creationdate="20150924T031755Z">
+        <seg>通用性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Communication</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125112Z">
@@ -7984,6 +8000,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T141832Z">
         <seg>墊木和運送外箱狀況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configurability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031800Z" creationid="Judy" creationdate="20150924T031800Z">
+        <seg>可配置性</seg>
       </tuv>
     </tu>
     <tu>
@@ -19337,6 +19361,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modularity terms:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031701Z" creationid="Judy" creationdate="20150924T031701Z">
+        <seg>模塊化項目：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modularity – makes the impossible possible</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024957Z">
@@ -19377,6 +19409,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031805Z" creationid="Judy" creationdate="20150924T031805Z">
+        <seg>模塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module Design™ was used to implement standardized interfaces while managing development streams, priorities and module requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T034253Z">
@@ -19393,10 +19433,26 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031819Z" creationid="Judy" creationdate="20150924T031819Z">
+        <seg>模塊系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module variant</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031812Z" creationid="Judy" creationdate="20150924T031812Z">
+        <seg>模塊變數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module: A building block with defined interfaces, driven by company specific strategic reasons</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030004Z" creationid="Judy" creationdate="20150924T025625Z">
-        <seg>模塊：根據公司具體的策略緣由而產生的一個具有固定接口的構成單元</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031729Z" creationid="Judy" creationdate="20150924T025625Z">
+        <seg>模塊：根據公司具體的策略緣由而產生的一個具有特定接口的構成單元</seg>
       </tuv>
     </tu>
     <tu>
@@ -28179,6 +28235,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080604Z">
         <seg>可能會針對某些特定單位增訂特殊的要求規範，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specified interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031738Z" creationid="Judy" creationdate="20150924T031718Z">
+        <seg>特定接口</seg>
       </tuv>
     </tu>
     <tu>
