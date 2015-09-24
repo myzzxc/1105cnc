@@ -5745,6 +5745,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before	After	Improvement (%)Sheet metal parts	1400	380	72</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032003Z" creationid="Judy" creationdate="20150924T032003Z">
+        <seg>模塊化前	模塊化後	改進幅度 (%) 鈑金零件	1400	380	72</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before any delivery, the Supplier must ensure compliance - with the HUTCHINSON technical requirements - of the prototype parts that it will deliver.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001419Z">
@@ -16480,6 +16488,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interior fittings	1800	600	67</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032119Z" creationid="Judy" creationdate="20150924T032018Z">
+        <seg>內裝配件 	1800	600	67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interlinkages between water and sustainable development reach far beyond its social, economic and environmental dimensions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T152839Z">
@@ -23029,6 +23045,30 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parts in cab roof	7	3	57</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032116Z" creationid="Judy" creationdate="20150924T032035Z">
+        <seg>車頂零件 	7	3	57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parts in doors	12	8	33</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032111Z" creationid="Judy" creationdate="20150924T032052Z">
+        <seg>車門零件 	12	8	33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parts in front	8	3	62</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032113Z" creationid="Judy" creationdate="20150924T032043Z">
+        <seg>車頭零件 	8	3	62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Password-protect files with secure 128-bit or 256-bit AES encryption, permission controls, and open documents protected with FileOpen rights management.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044622Z">
@@ -27680,6 +27720,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122505Z">
         <seg>剪力、單側邊緣錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sheet metal tools	1600	380	83</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032139Z" creationid="Judy" creationdate="20150924T032139Z">
+        <seg>鈑金工具 	1600	380	83</seg>
       </tuv>
     </tu>
     <tu>
@@ -36138,6 +36186,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Variants	&lt;1000	&gt;50.000</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032149Z" creationid="Judy" creationdate="20150924T032149Z">
+        <seg>變數 	&lt;1000	&gt;50.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vehicle Testing Systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121842Z" creationid="Judy" creationdate="20150923T121842Z">
@@ -37490,6 +37546,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030734Z" creationid="Judy" creationdate="20150924T030734Z">
         <seg>擋風玻璃模塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wind shields	3	1	67</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032106Z" creationid="Judy" creationdate="20150924T032106Z">
+        <seg>擋風玻璃零件 	3	1	67</seg>
       </tuv>
     </tu>
     <tu>
