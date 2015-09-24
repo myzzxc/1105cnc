@@ -24403,6 +24403,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proven ability to take clients from concept stage and strategy definition to realisation of benefits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T023715Z" creationid="Judy" creationdate="20150924T023715Z">
+        <seg>經實務驗證能將客戶從概念階段和策略定義帶入效益的實現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide 8-bit PWM output with the analogWrite() function.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131839Z">
