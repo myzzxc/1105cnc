@@ -1301,6 +1301,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>14 modules with a number of submodules</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100629Z" creationid="Judy" creationdate="20150924T100629Z">
+        <seg>14 個模塊與多個子模塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1500V isolation (input to output)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023508Z">
@@ -2099,8 +2107,8 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       <tuv lang="EN-US">
         <seg>A Module Is an Abstract Entity;    A Module Variant Represents the Physical Realization</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T041605Z" creationid="Judy" creationdate="20150924T041605Z">
-        <seg>模塊是一個萃取的實體；     模塊變數代表了實物</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100758Z" creationid="Judy" creationdate="20150924T041605Z">
+        <seg>模塊是一個萃取的實體；     模塊變形代表了實物</seg>
       </tuv>
     </tu>
     <tu>
@@ -2283,8 +2291,8 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       <tuv lang="EN-US">
         <seg>A module variant is a physical realization (i.e., has a drawing) with the same interfaces.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042003Z" creationid="Judy" creationdate="20150924T042003Z">
-        <seg>模塊變數是一個具有相同接口的實物（即具有設計圖）。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100801Z" creationid="Judy" creationdate="20150924T042003Z">
+        <seg>模塊變形是一個具有相同接口的實物（即具有設計圖）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6620,8 +6628,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Cabs - Scania 4 series The Cab modular system, modules and variants</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031412Z" creationid="Judy" creationdate="20150924T031412Z">
-        <seg>座艙 - Scania 4 系列 座艙模塊化系統、模塊和變數</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100748Z" creationid="Judy" creationdate="20150924T031412Z">
+        <seg>座艙 - Scania 4 系列 座艙模塊化系統、模塊和變形</seg>
       </tuv>
     </tu>
     <tu>
@@ -18486,6 +18494,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maintained product leadership</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100702Z" creationid="Judy" creationdate="20150924T100702Z">
+        <seg>維持產品的領導地位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Major indexes are updated when the Equipment is modified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T111220Z">
@@ -19571,24 +19587,24 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Module variant</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031812Z" creationid="Judy" creationdate="20150924T031812Z">
-        <seg>模塊變數</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100751Z" creationid="Judy" creationdate="20150924T031812Z">
+        <seg>模塊變形</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Module variants</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042509Z" creationid="Judy" creationdate="20150924T042509Z">
-        <seg>模塊變數</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100809Z" creationid="Judy" creationdate="20150924T042509Z">
+        <seg>模塊變形</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Module, Module variant and Standardized Interface</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042051Z" creationid="Judy" creationdate="20150924T042033Z">
-        <seg>模塊、模塊變數和標準化接口</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100807Z" creationid="Judy" creationdate="20150924T042033Z">
+        <seg>模塊、模塊變形和標準化接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -20805,16 +20821,16 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Number ofModulevariants</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095945Z" creationid="Judy" creationdate="20150924T095945Z">
-        <seg>模塊變數總量</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100816Z" creationid="Judy" creationdate="20150924T095945Z">
+        <seg>模塊變形總量</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Number ofproduct variants</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095719Z" creationid="Judy" creationdate="20150924T095719Z">
-        <seg>產品變數總量</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100811Z" creationid="Judy" creationdate="20150924T095719Z">
+        <seg>產品變形總量</seg>
       </tuv>
     </tu>
     <tu>
@@ -24715,6 +24731,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product variants from 150 to &gt;100 000</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100912Z" creationid="Judy" creationdate="20150924T100912Z">
+        <seg>產品變形數量由 150 增加至 &gt;100 000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product/Process Audit Report</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020227Z">
@@ -24757,8 +24781,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Productvariants</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095832Z" creationid="Judy" creationdate="20150924T095832Z">
-        <seg>產品變數</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100813Z" creationid="Judy" creationdate="20150924T095832Z">
+        <seg>產品變形</seg>
       </tuv>
     </tu>
     <tu>
@@ -36428,8 +36452,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Variants	&lt;1000	&gt;50.000</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032149Z" creationid="Judy" creationdate="20150924T032149Z">
-        <seg>變數 	&lt;1000	&gt;50.000</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100753Z" creationid="Judy" creationdate="20150924T032149Z">
+        <seg>變形 	&lt;1000	&gt;50.000</seg>
       </tuv>
     </tu>
     <tu>
