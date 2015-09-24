@@ -4598,6 +4598,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approximatly 60 man-years invested over a 20 year learning curve</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T025220Z" creationid="Judy" creationdate="20150924T025220Z">
+        <seg>超過 20 年投入約 60 人次-年的學習曲線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arc Welders &amp; Plasma Cutters</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121420Z" creationid="Judy" creationdate="20150923T121420Z">
@@ -7862,8 +7870,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Comprehensive, well-proven and highly effective methodology</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T024947Z" creationid="Judy" creationdate="20150924T024947Z">
-        <seg>全面、 可靠和高效的方法</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T025058Z" creationid="Judy" creationdate="20150924T024947Z">
+        <seg>全面、充分驗證且高效的方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -19141,6 +19149,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115301Z">
         <seg>模塊化轉型™ (Modular Transformation™ ) 建立新作業方式所需的變更，以確保模塊化的效益能長久並成為 MTS 的盈利基礎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modular design for re-usability and scalability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T025314Z" creationid="Judy" creationdate="20150924T025314Z">
+        <seg>以模塊化設計達成再使用性和可擴展性</seg>
       </tuv>
     </tu>
     <tu>
