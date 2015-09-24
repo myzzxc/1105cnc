@@ -19185,6 +19185,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular System: A set of modules that through different combinations generates a range of products that can be efficiently developed, marketed, produced, and delivered</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030010Z" creationid="Judy" creationdate="20150924T030010Z">
+        <seg>模組化系統: 一組模組，通過不同的組合生成一系列產品，可以有效地開發、 銷售、 生產、 和交付</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Transformation™ established needed changes for a new way of working to ensure the benefits of modularity would be a lasting and profitable foundation for MTS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115301Z">
@@ -19299,8 +19307,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Module: A building block with defined interfaces, driven by company specific strategic reasons</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T025625Z" creationid="Judy" creationdate="20150924T025625Z">
-        <seg>模塊：構建基塊與定義的介面，由公司具體的戰略原因</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030004Z" creationid="Judy" creationdate="20150924T025625Z">
+        <seg>模塊：根據公司具體的策略緣由而產生的一個具有固定接口的構成單元</seg>
       </tuv>
     </tu>
     <tu>
