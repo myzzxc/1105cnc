@@ -4814,6 +4814,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As specified “interactions” between Modules, there are six basic forms of Module Interfaces represented in Modularity:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042749Z" creationid="Judy" creationdate="20150924T042749Z">
+        <seg>依模塊間的特定「交互關係」，模塊化設計中有六個代表性的基本形式模塊接口:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As such we require a high quality PTZ camera for auto tracking.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152436Z">
@@ -19473,6 +19481,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module Interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042801Z" creationid="Judy" creationdate="20150924T042801Z">
+        <seg>模塊接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module system</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031819Z" creationid="Judy" creationdate="20150924T031819Z">
@@ -26181,6 +26197,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024256Z">
         <seg>俄羅斯文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S - Spatial:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042810Z" creationid="Judy" creationdate="20150924T042810Z">
+        <seg>S - 空間：</seg>
       </tuv>
     </tu>
     <tu>
