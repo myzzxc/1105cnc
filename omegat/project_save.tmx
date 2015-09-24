@@ -29210,6 +29210,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T - Transfer:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094627Z" creationid="Judy" creationdate="20150924T094627Z">
+        <seg>T - 傳送：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T-SLOT CLAMPING KIT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132640Z">
@@ -39294,6 +39302,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020319Z">
         <seg>於專案進行中，依 HUTCHINSON 要求或自發進行所有管控的組織。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>physical connection of Modules through a referenced Interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094525Z" creationid="Judy" creationdate="20150924T094525Z">
+        <seg>通過參照接口的物理連接</seg>
       </tuv>
     </tu>
     <tu>
