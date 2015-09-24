@@ -7980,6 +7980,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Components</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095817Z" creationid="Judy" creationdate="20150924T095817Z">
+        <seg>元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comprehensive, well-proven and highly effective methodology</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T025058Z" creationid="Judy" creationdate="20150924T024947Z">
@@ -16504,6 +16512,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Integratedarchitecture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095845Z" creationid="Judy" creationdate="20150924T095845Z">
+        <seg>整合架構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intellectual and Industrial Property Rights</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181415Z">
@@ -20763,6 +20779,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Number ofModulevariants</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095945Z" creationid="Judy" creationdate="20150924T095945Z">
+        <seg>模塊變數總量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number ofproduct variants</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095719Z" creationid="Judy" creationdate="20150924T095719Z">
+        <seg>產品變數總量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OCR / Searchable PDF</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070814Z">
@@ -24691,6 +24723,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Productvariants</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095832Z" creationid="Judy" creationdate="20150924T095832Z">
+        <seg>產品變數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Programming</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133444Z">
@@ -28567,6 +28607,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Standardization vs. Modularization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095814Z" creationid="Judy" creationdate="20150924T095814Z">
+        <seg>標準化與模組化比較</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standardize settings files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090359Z">
@@ -28764,6 +28812,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063529Z">
         <seg>與 MFP 領導供應商維持強而有力的夥伴關係</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sub-assemblies</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095821Z" creationid="Judy" creationdate="20150924T095821Z">
+        <seg>子元件</seg>
       </tuv>
     </tu>
     <tu>
@@ -29230,6 +29286,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T034419Z">
         <seg>系統需求：自訂工具組需要用戶端電腦上已至少安裝 Microsoft Windows Installer (MSI) 3.1 和 Windows .Net 4.0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Systemlevel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095929Z" creationid="Judy" creationdate="20150924T095929Z">
+        <seg>系統層</seg>
       </tuv>
     </tu>
     <tu>
@@ -35067,6 +35131,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033944Z">
         <seg>為了操作模塊化產品架構，MTS 的進貨、出貨和生產價值流利用供應鏈研究模塊 (Module Supply Chain Study) 進行全新的預測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To many articles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095754Z" creationid="Judy" creationdate="20150924T095754Z">
+        <seg>太多製品</seg>
       </tuv>
     </tu>
     <tu>
