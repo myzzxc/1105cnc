@@ -19489,6 +19489,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module variants</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042509Z" creationid="Judy" creationdate="20150924T042509Z">
+        <seg>模塊變數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module, Module variant and Standardized Interface</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042051Z" creationid="Judy" creationdate="20150924T042033Z">
