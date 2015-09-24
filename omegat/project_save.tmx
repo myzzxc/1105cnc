@@ -19513,6 +19513,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module based operational signals that pass through an Interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095104Z" creationid="Judy" creationdate="20150924T095104Z">
+        <seg>通過參照接口的模塊化操作訊號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module system</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031819Z" creationid="Judy" creationdate="20150924T031819Z">
@@ -34826,6 +34834,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Three directions of competitiveness</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095147Z" creationid="Judy" creationdate="20150924T095123Z">
+        <seg>競爭力的三個面向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Three of the languages are in the Nuance Power PDF Advanced.msi package.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071012Z">
@@ -37867,6 +37883,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061006Z">
         <seg>強悍的四防機身能承受惡劣天氣和意外發生，內建長效的電池——Everio 能讓您安心的持續記錄並同時保持攝影機安全。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With a traditional integrated product it is hard improving in one direction without sacrificing the other two.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T095244Z" creationid="Judy" creationdate="20150924T095244Z">
+        <seg>傳統的整合式產品很難在改進一個面向的同時兼顧其它兩個面向。</seg>
       </tuv>
     </tu>
     <tu>
