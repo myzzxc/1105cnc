@@ -28306,8 +28306,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Strategic thinking as well as operational and technical know-how</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T023957Z" creationid="Judy" creationdate="20150924T023957Z">
-        <seg>策略性思維方式以及業務和科技的專有技術</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T024259Z" creationid="Judy" creationdate="20150924T023957Z">
+        <seg>策略性思維方式以及業務和技術的專有知識</seg>
       </tuv>
     </tu>
     <tu>
@@ -34763,6 +34763,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091740Z">
         <seg>工具配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top management attention and sponsorship combined with operational and technical level proficiency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T024409Z" creationid="Judy" creationdate="20150924T024238Z">
+        <seg>最高管理層的重視和支持結合熟練的業務和技術水準</seg>
       </tuv>
     </tu>
     <tu>
