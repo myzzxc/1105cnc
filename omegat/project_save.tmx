@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(%) Q1, 2010</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030456Z" creationid="Judy" creationdate="20150924T030456Z">
+        <seg>(%) 2010 年第 1 季</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(32-bit edition/64-bit edition, pre-installed, SP1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125359Z">
@@ -10245,6 +10253,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EBIT margin</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030427Z" creationid="Judy" creationdate="20150924T030427Z">
+        <seg>稅前息前獲利</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EMERGENCY HELP GUARANTEE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T113732Z" creationid="Judy" creationdate="20150922T113732Z">
@@ -17652,6 +17668,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T023547Z">
         <seg>法律校閱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leif Östling, CEO Scania AB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030608Z" creationid="Judy" creationdate="20150924T030608Z">
+        <seg>Scania AB 執行長 Leif Östling</seg>
       </tuv>
     </tu>
     <tu>
