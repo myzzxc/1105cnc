@@ -1072,6 +1072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-10% cost of operations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101546Z" creationid="Judy" creationdate="20150924T101546Z">
+        <seg>營運成本減少 10%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-10ºC Freezeproof</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130007Z">
@@ -1090,10 +1098,26 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-25% Time to Market</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101625Z" creationid="Judy" creationdate="20150924T101625Z">
+        <seg>導入市場時間減少 25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-58% part numbers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101534Z" creationid="Judy" creationdate="20150924T101534Z">
         <seg>零件數量減少 58% </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-7% direct material cost</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101603Z" creationid="Judy" creationdate="20150924T101603Z">
+        <seg>直接材料成本減少 7%</seg>
       </tuv>
     </tu>
     <tu>
@@ -1824,6 +1848,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T055218Z">
         <seg>40x 光學變焦和 60x 動態變焦
 保有完整的光學品質的 40 倍放大，即使 60 倍變焦也不會降低解析度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>47% reduction of part numbers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101855Z" creationid="Judy" creationdate="20150924T101855Z">
+        <seg>零件數量減少 47% </seg>
       </tuv>
     </tu>
     <tu>
@@ -6846,6 +6878,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101419Z" creationid="Judy" creationdate="20150924T101419Z">
         <seg>案例 3: Trane 公司，商用空調設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case 4: Electrolux Wascator</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101830Z" creationid="Judy" creationdate="20150924T101830Z">
+        <seg>案例 4: Electrolux Wascator</seg>
       </tuv>
     </tu>
     <tu>
@@ -26179,6 +26219,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T084604Z">
         <seg>響應和執行措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101840Z" creationid="Judy" creationdate="20150924T101840Z">
+        <seg>成果：</seg>
       </tuv>
     </tu>
     <tu>
