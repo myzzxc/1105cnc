@@ -2273,6 +2273,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A module variant is a physical realization (i.e., has a drawing) with the same interfaces.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042003Z" creationid="Judy" creationdate="20150924T042003Z">
+        <seg>模塊變數是一個具有相同接口的實物（即具有設計圖）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A more holistic focus on ecosystems for water and development that maintains a beneficial mix between built and natural infrastructure can ensure that benefits are maximized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T134404Z">
@@ -19481,6 +19489,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module, Module variant and Standardized Interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042051Z" creationid="Judy" creationdate="20150924T042033Z">
+        <seg>模塊、模塊變數和標準化接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module: A building block with defined interfaces, driven by company specific strategic reasons</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031729Z" creationid="Judy" creationdate="20150924T025625Z">
@@ -28491,6 +28507,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090359Z">
         <seg>標準化設定檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standardized Interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042048Z" creationid="Judy" creationdate="20150924T042048Z">
+        <seg>標準化接口</seg>
       </tuv>
     </tu>
     <tu>
