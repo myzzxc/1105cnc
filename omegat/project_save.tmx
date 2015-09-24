@@ -19187,8 +19187,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular System: A set of modules that through different combinations generates a range of products that can be efficiently developed, marketed, produced, and delivered</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030010Z" creationid="Judy" creationdate="20150924T030010Z">
-        <seg>模組化系統: 一組模組，通過不同的組合生成一系列產品，可以有效地開發、 銷售、 生產、 和交付</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030133Z" creationid="Judy" creationdate="20150924T030010Z">
+        <seg>模塊化系統：一組模塊，透過不同組合而生成的一系列產品，可以有效地開發、銷售、 生產、和交付</seg>
       </tuv>
     </tu>
     <tu>
@@ -19261,6 +19261,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024957Z">
         <seg>模組化 —— 化不可能為可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modularization example</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030155Z" creationid="Judy" creationdate="20150924T030155Z">
+        <seg>模塊化範例</seg>
       </tuv>
     </tu>
     <tu>
@@ -26547,6 +26555,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scania attributes its profitability to its company wide adoption of Modular Systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030314Z" creationid="Judy" creationdate="20150924T030314Z">
+        <seg>Scania 的盈利能力歸功於其公司廣泛採用的模塊化系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scantech Surface Scanner</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052638Z">
@@ -30372,6 +30388,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051015Z">
         <seg>SD、SDHC 以及 SDXC 標誌為 SD 記憶卡協會之商標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Scania 5-series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030217Z" creationid="Judy" creationdate="20150924T030217Z">
+        <seg>Scania 5-系列</seg>
       </tuv>
     </tu>
     <tu>
