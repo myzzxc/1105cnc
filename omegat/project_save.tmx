@@ -6378,6 +6378,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C - Command &amp; Control:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094822Z" creationid="Judy" creationdate="20150924T094822Z">
+        <seg>C - 指令和控制：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAM-DUCT Software</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134425Z">
@@ -11643,6 +11651,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T061314Z">
         <seg>依頁面範圍、空白頁、頁面內容或書籤截取文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F - Field &amp; E - Environmental:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094837Z" creationid="Judy" creationdate="20150924T094734Z">
+        <seg>F - 場 和 E - 環境：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39049,6 +39065,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>internal and external effects that pass through an Interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094804Z" creationid="Judy" creationdate="20150924T094804Z">
+        <seg>通過參照接口的內部和外部效應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>internal battery has been fully charged, when the LED light (if available)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130105Z">
@@ -39157,6 +39181,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133207Z">
         <seg>登記證明產品符合規範，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>material and or energy that passes through a reference Interface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094709Z" creationid="Judy" creationdate="20150924T094709Z">
+        <seg>通過參照接口的材料或能量</seg>
       </tuv>
     </tu>
     <tu>
