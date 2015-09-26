@@ -1972,6 +1972,30 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50% reduction in building design costs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085836Z" creationid="Judy" creationdate="20150926T085836Z">
+        <seg>建築設計成本減少 50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>50% reduction in construction time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085806Z" creationid="Judy" creationdate="20150926T085806Z">
+        <seg>建設時間減少 50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>50% reduction in onsite indirect costs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085823Z" creationid="Judy" creationdate="20150926T085823Z">
+        <seg>現場間接成本減少 50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5010 * (1841mm x 3048mm PROCESS AREA)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142317Z">
@@ -2101,6 +2125,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142523Z">
         <seg>6010 * (2159mm x 3048mm) 含真空床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>75% reduction in rework</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085908Z" creationid="Judy" creationdate="20150926T085908Z">
+        <seg>減少 75% 重新施工</seg>
       </tuv>
     </tu>
     <tu>
