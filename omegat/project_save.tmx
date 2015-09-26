@@ -24768,6 +24768,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previous attempts at prefabricated buildings fell short with few features and levels of customization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085042Z" creationid="Judy" creationdate="20150926T085042Z">
+        <seg>傳統預先建造的建築物缺少功能和客製化的樓層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previous revisions of the Shield were not compatible with the Mega and needed to be manually reset after power-up.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022626Z">
