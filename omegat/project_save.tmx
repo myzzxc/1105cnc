@@ -1381,6 +1381,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>16% overall cost reduction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085752Z" creationid="Judy" creationdate="20150926T085748Z">
+        <seg>整體成本減少 16%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>17% reduction of in-house manufactured articles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T102008Z" creationid="Judy" creationdate="20150924T101942Z">
@@ -15599,6 +15607,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Implementing industrial process improvements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085520Z" creationid="Judy" creationdate="20150926T085520Z">
+        <seg>實施工業流程的改進</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important Note</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133630Z">
@@ -19961,6 +19977,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071902Z">
         <seg>更加自動化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More accurate and detailed plans for assembly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085505Z" creationid="Judy" creationdate="20150926T085505Z">
+        <seg>更精確且詳細的組裝計畫</seg>
       </tuv>
     </tu>
     <tu>
@@ -36621,6 +36645,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020903Z">
         <seg>使用雲端協作服務儲存和共用資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using industry workers instead of tradespeople</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085728Z" creationid="Judy" creationdate="20150926T085728Z">
+        <seg>僱用專業技工而非臨時工</seg>
       </tuv>
     </tu>
     <tu>
