@@ -5294,6 +5294,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assess the readiness for modular implementation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T041148Z">
+        <seg>評估模塊化的實行是否準備就緒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assessment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150822Z">
@@ -7014,6 +7022,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100748Z">
         <seg>座艙 - Scania 4 系列 座艙模塊化系統、模塊和變形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calculate the financial effects and create the modularization business case</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T041030Z">
+        <seg>計算財務影響並建立模塊化商業案例</seg>
       </tuv>
     </tu>
     <tu>
