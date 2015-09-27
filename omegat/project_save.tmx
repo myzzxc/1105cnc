@@ -19865,6 +19865,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manufacturing of modules in different Master Plants, reduces the need for duplication of technology and utilizes the competitive advantage of each plant more effectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124516Z" creationid="Judy" creationdate="20150927T124257Z">
+        <seg>於不同的主要廠房中製造模塊，減少重複的技術需求並更有效地利用各廠房的競爭優勢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many benefits may be gained by promoting and facilitating use of the best available technologies and management systems in water provision, productivity and efficiency, and by improving water allocation mechanisms.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T132916Z">
@@ -20025,6 +20033,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035848Z">
         <seg>市場需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Master Plants</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124307Z" creationid="Judy" creationdate="20150927T124227Z">
+        <seg>主要廠房 (Master Plants)</seg>
       </tuv>
     </tu>
     <tu>
