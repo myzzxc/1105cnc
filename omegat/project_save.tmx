@@ -12080,6 +12080,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Engineers sometimes must modify a component because of interface description.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145649Z" creationid="Judy" creationdate="20150927T145649Z">
+        <seg>有時，工程師因為接口說明而必須修改元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024235Z">
@@ -13656,6 +13664,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T160644Z">
         <seg>對於 HUTCHINSON 集團的所有供應商，於下列情況下，系統會於應變措施升級流程前觸發監控機制：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For an engineer, it’s easy to be distracted by system components because they absorb most of the design work and determine the cost of the system, but interfaces determine performance, risk and value of the system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145543Z" creationid="Judy" creationdate="20150927T145543Z">
+        <seg>對於工程師，很容易因為系統元件而分散注意力，因為他們占了大部分的設計工作且決定了系統的成本，但接口決定了系統的效能、風險和價值。</seg>
       </tuv>
     </tu>
     <tu>
