@@ -21146,6 +21146,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Product Development</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122235Z" creationid="Judy" creationdate="20150927T122235Z">
+        <seg>新產品開發</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New acceptance criteria will only have an "approved" date, which is the date the document was approved by the Evaluation Committee.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T134947Z">
@@ -38245,8 +38253,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Visualized on the Product Management Map</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121400Z" creationid="Judy" creationdate="20150927T121400Z">
-        <seg>直觀地反映出產品管理圖</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122229Z" creationid="Judy" creationdate="20150927T121400Z">
+        <seg>視覺化產品管理計劃圖</seg>
       </tuv>
     </tu>
     <tu>
