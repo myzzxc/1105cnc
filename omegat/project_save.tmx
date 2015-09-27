@@ -6818,6 +6818,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONCEPT DESIGN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033618Z">
+        <seg>概念設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONFIDENTIALITY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145815Z">
@@ -9669,6 +9677,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DETAILED DESIGN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033621Z">
+        <seg>詳細設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DISC SPRING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085816Z">
@@ -10777,6 +10793,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143739Z">
         <seg>範例 3：用戶已經有 Digifort 監控專業版和 32 架設影機，另外打算購買 4 套影像分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXECUTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033623Z">
+        <seg>執行</seg>
       </tuv>
     </tu>
     <tu>
@@ -19633,6 +19657,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mod.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033831Z">
+        <seg>模塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Model</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081433Z">
@@ -22542,8 +22574,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Our customers project phases</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033536Z">
-        <seg>我們客戶的專案階段</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033604Z">
+        <seg>我們的客戶專案階段</seg>
       </tuv>
     </tu>
     <tu>
@@ -23080,6 +23112,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T075404Z">
         <seg>AXYZ 雕刻機工作台安裝前指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRE-STUDY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033615Z">
+        <seg>前期研究</seg>
       </tuv>
     </tu>
     <tu>
@@ -25163,6 +25203,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product configurations based  on properties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033805Z">
+        <seg>產品屬性配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product definition</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T021542Z">
@@ -26797,6 +26845,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042810Z">
         <seg>S - 空間：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SALES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033642Z">
+        <seg>銷售</seg>
       </tuv>
     </tu>
     <tu>
@@ -36857,6 +36913,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VALUE $</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033644Z">
+        <seg>價值 $</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VAT INCLUDED FOR LOCAL PORTION .</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T142341Z">
@@ -40629,8 +40693,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>“To increase sales value of delivery projects we need to be able to offer in the early phases of our customers project”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033528Z">
-        <seg>「要增加交付專案計畫的銷售價值，我們必須在消費者專案計畫的早期提出產品」</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033555Z">
+        <seg>「要增加交付專案計畫的銷售價值，我們必須在客戶專案計畫的早期階段提出產品」</seg>
       </tuv>
     </tu>
     <tu>
