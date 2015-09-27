@@ -10223,6 +10223,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delivery precision</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120209Z" creationid="Judy" creationdate="20150927T120209Z">
+        <seg>交付精確度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Demand for freshwater is growing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T133908Z">
@@ -17554,6 +17562,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inventory level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120134Z" creationid="Judy" creationdate="20150927T120134Z">
+        <seg>庫存量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory turns</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120140Z" creationid="Judy" creationdate="20150927T120140Z">
+        <seg>庫存周轉率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Investing in all aspects of water resources management, services provision and infrastructure (development, operation and maintenance) can generate significant social and economic benefits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T130803Z">
@@ -18658,8 +18682,8 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Lead-time from Order to Delivery (OTD)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T112245Z" creationid="Judy" creationdate="20150927T112245Z">
-        <seg>訂購至交貨時間 (OTD)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120121Z" creationid="Judy" creationdate="20150927T112245Z">
+        <seg>下單至交貨時間 (OTD)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21867,6 +21891,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035354Z">
         <seg>訂單數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of suppliers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120147Z" creationid="Judy" creationdate="20150927T120147Z">
+        <seg>供應商數量</seg>
       </tuv>
     </tu>
     <tu>
@@ -40645,6 +40677,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034156Z">
         <seg>外觀和接口)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120308Z" creationid="Judy" creationdate="20150927T120308Z">
+        <seg>等等⋯⋯</seg>
       </tuv>
     </tu>
     <tu>
