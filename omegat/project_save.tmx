@@ -26799,6 +26799,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Promotes multiple industries and depth within each industry</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144053Z" creationid="Judy" creationdate="20150927T144016Z">
+        <seg>推行多種產業和每種產業中的深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proper safety precautions as detailed throughout this manual and as recommended by applicable codes, guidelines, and design societies should be exercised in the operation of all heat transfer equipment to prevent equipment damage or personal injury in event of operation error or mechanical failure.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014437Z">
@@ -38549,6 +38557,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122406Z">
         <seg>使用者現在可以更簡便地使用大多數常用的文件管理系統 (DMS) ，由組合模式或從 Internet Explorer 直接由儲存/另存新檔的功能表中進行存取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uses a visual that gives the impression of lots of experience</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143950Z" creationid="Judy" creationdate="20150927T143950Z">
+        <seg>提供視覺化的經驗豐富印象</seg>
       </tuv>
     </tu>
     <tu>
