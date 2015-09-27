@@ -4698,6 +4698,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An essential question is: What can module A do to module B?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150113Z" creationid="Judy" creationdate="20150927T150113Z">
+        <seg>關鍵的問題是：模塊 A 對模塊 B 的作用為何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An estimated US$53 billion a year over a five-year period would be needed to achieve universal coverage – a small sum given this represented less than 0.1% of the 2010 global GDP.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T154442Z">
@@ -8397,6 +8405,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Company Description</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150157Z" creationid="Judy" creationdate="20150927T150157Z">
+        <seg>公司說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Company Letter Head</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T152358Z">
@@ -10829,6 +10845,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T110829Z" creationid="Judy" creationdate="20150927T110829Z">
         <seg>直接材料節省</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direct physical connection between two modules is not a necessary condition for an interface; spatial interfaces do not necessarily imply one module touches another, yet it is an interface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150013Z" creationid="Judy" creationdate="20150927T150013Z">
+        <seg>兩個模塊之間的直接物理連接不是接口的必要條件；空間接口不必然表示模塊接觸到另一個，也不是一個接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16138,6 +16162,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133018Z">
         <seg>若未完成上述測試和文件記錄，之後發現的任何損壞將由客戶自行負責。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the answer is “nothing,” no interface exists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150151Z" creationid="Judy" creationdate="20150927T150151Z">
+        <seg>如果答案是「沒有作用」，則沒有接口。</seg>
       </tuv>
     </tu>
     <tu>
