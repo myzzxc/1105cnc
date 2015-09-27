@@ -4330,6 +4330,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allign the way we understand modularity and train the organisation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T041634Z">
+        <seg>以我們的模塊化知識支援並為組織提供訓練</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow 3 to 4 feet clearance at the floating end for removal of the dome.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073425Z">
@@ -19134,6 +19142,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MSAP Deliverables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T041650Z">
+        <seg>MSAP 可交付成果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MSI 3.1 installed on the target (client) computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103802Z">
@@ -19533,6 +19549,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071148Z">
         <seg>標示 &amp; 註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Market Position</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T041700Z">
+        <seg>市場定位</seg>
       </tuv>
     </tu>
     <tu>
