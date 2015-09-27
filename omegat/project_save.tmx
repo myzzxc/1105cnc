@@ -8451,6 +8451,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complexity cost potential measured by ValueMap</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T110810Z" creationid="Judy" creationdate="20150927T110810Z">
+        <seg>以 ValueMap 衡量之潛在複雜性成本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complexity costs were evaluated using ValueMap™ quantifying the bottom-line benefits of modularity within MTS’s value stream.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T015135Z">
@@ -9233,6 +9241,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T105718Z" creationid="Judy" creationdate="20150927T105718Z">
         <seg>營運成本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cost of Quality savings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111038Z" creationid="Judy" creationdate="20150927T111038Z">
+        <seg>品質成本節省</seg>
       </tuv>
     </tu>
     <tu>
@@ -10453,6 +10469,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T041909Z">
         <seg>直接材料成本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direct Material savings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T110829Z" creationid="Judy" creationdate="20150927T110829Z">
+        <seg>直接材料節省</seg>
       </tuv>
     </tu>
     <tu>
@@ -18708,6 +18732,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094937Z">
         <seg>於智慧型手機 / 平板上了解更多關於四防 Everio 的資訊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leveraged buying power from reduced complexity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111017Z" creationid="Judy" creationdate="20150927T111017Z">
+        <seg>因降低複雜而性強化購買力</seg>
       </tuv>
     </tu>
     <tu>
