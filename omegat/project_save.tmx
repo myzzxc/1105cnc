@@ -6033,6 +6033,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125002Z" creationid="Judy" creationdate="20150927T125002Z">
+        <seg>基點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on the HUTCHINSON entities, the frequency of this re-qualification may be increased.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140152Z">
@@ -7186,6 +7194,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capacity:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125113Z" creationid="Judy" creationdate="20150927T125113Z">
+        <seg>負載力：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capex/Opex offers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034434Z">
@@ -7663,6 +7679,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092410Z">
         <seg>分類
 計數線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classification:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125009Z" creationid="Judy" creationdate="20150927T125009Z">
+        <seg>分類：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9001,6 +9025,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082757Z">
         <seg>承包商設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control system:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125133Z" creationid="Judy" creationdate="20150927T125133Z">
+        <seg>控制系統：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11824,6 +11856,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Engine:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125130Z" creationid="Judy" creationdate="20150927T125130Z">
+        <seg>引擎：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Engineer to order</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035335Z">
@@ -14018,6 +14058,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033552Z">
         <seg>冰點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fuel type:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125122Z" creationid="Judy" creationdate="20150927T125122Z">
+        <seg>燃料種類：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25740,6 +25788,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125033Z" creationid="Judy" creationdate="20150927T125033Z">
+        <seg>電源：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powerful Creative Capabilities</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T061718Z">
@@ -30147,6 +30203,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080604Z">
         <seg>可能會針對某些特定單位增訂特殊的要求規範，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124853Z" creationid="Judy" creationdate="20150927T124853Z">
+        <seg>規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -38527,6 +38591,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120931Z" creationid="Judy" creationdate="20150927T120931Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voltage:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125127Z" creationid="Judy" creationdate="20150927T125127Z">
+        <seg>電壓：</seg>
       </tuv>
     </tu>
     <tu>
