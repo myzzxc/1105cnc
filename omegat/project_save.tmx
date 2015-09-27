@@ -4746,6 +4746,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An interface might, for example, be a surface for an attachment, or the connection between components to transfer kinetic or electric energy and/or transfer media such as fluids or gas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145212Z" creationid="Judy" creationdate="20150927T145212Z">
+        <seg>例如，接口可能為附件的表面，或傳送動力或電源、或傳送如液體或氣體等媒介於元件間的連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An optimized Modular Product Architecture was created using Modular Function Deployment® (MFD®), and this architecture was populated with the Module Variants and rules needed to configure the full range of products.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033026Z">
@@ -11336,6 +11344,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043633Z">
         <seg>動態圖章讓使用者進行進階編輯，以提高協作和工作效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E – Environmental</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144904Z" creationid="Judy" creationdate="20150927T144904Z">
+        <seg>E - 環境</seg>
       </tuv>
     </tu>
     <tu>
