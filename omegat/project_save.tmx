@@ -18656,6 +18656,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lead-time from Order to Delivery (OTD)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T112245Z" creationid="Judy" creationdate="20150927T112245Z">
+        <seg>訂購至交貨時間 (OTD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaders in operational excellence include Wal-Mart, IKEA, FedEx and McDonald’s.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045656Z">
@@ -26398,6 +26406,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024345Z">
         <seg>桌面 pdf 和影像檔案快速索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate of new part introduction (Reuse)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T112120Z" creationid="Judy" creationdate="20150927T112120Z">
+        <seg>使用新零件比率 (再利用)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36334,6 +36350,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111428Z" creationid="Judy" creationdate="20150927T111428Z">
         <seg>減少導入市場時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time to market (TTM)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T112134Z" creationid="Judy" creationdate="20150927T112134Z">
+        <seg>導入市場時間 (TTM)</seg>
       </tuv>
     </tu>
     <tu>
