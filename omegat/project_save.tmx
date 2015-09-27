@@ -19102,6 +19102,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Limited depreciation time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123818Z" creationid="Judy" creationdate="20150927T123818Z">
+        <seg>有限的折舊時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linear acceleration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125741Z">
@@ -20281,6 +20289,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020005Z">
         <seg>簡化學習門檻並最大化生產力，使用者不費吹灰之力便能由 WORD 文書處理轉換至 PDF 發佈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimized production cost.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123857Z" creationid="Judy" creationdate="20150927T123857Z">
+        <seg>最小化的生產成本</seg>
       </tuv>
     </tu>
     <tu>
@@ -25195,6 +25211,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possibility to change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123847Z" creationid="Judy" creationdate="20150927T123847Z">
+        <seg>可能變更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Post-slaughter, however, the carcass temperature falls.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031014Z">
@@ -26017,8 +26041,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product Implication</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123221Z" creationid="Judy" creationdate="20150927T123221Z">
-        <seg>產品蘊涵</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123800Z" creationid="Judy" creationdate="20150927T123221Z">
+        <seg>產品關聯</seg>
       </tuv>
     </tu>
     <tu>
@@ -26147,6 +26171,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035933Z">
         <seg>產品配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Production Implication</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123757Z" creationid="Judy" creationdate="20150927T123757Z">
+        <seg>生產關聯</seg>
       </tuv>
     </tu>
     <tu>
