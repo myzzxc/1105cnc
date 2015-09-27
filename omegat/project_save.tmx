@@ -4998,6 +4998,22 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Architecture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035816Z">
+        <seg>架構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ArchitectureDesigns</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035926Z">
+        <seg>架構設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Archiving Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152541Z">
@@ -8516,6 +8532,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concept</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035903Z">
+        <seg>概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Condition of skid and shipping covers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T141832Z">
@@ -9393,6 +9417,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030016Z">
         <seg>創造優質的產品和品牌形象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035840Z">
+        <seg>建立</seg>
       </tuv>
     </tu>
     <tu>
@@ -16704,6 +16736,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Industrialize</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035916Z">
+        <seg>工業化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Infinite flexibility</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133142Z">
@@ -19461,6 +19501,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T024843Z">
         <seg>以市場為導向和基於商業案例的方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MarketRequirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035848Z">
+        <seg>市場需求</seg>
       </tuv>
     </tu>
     <tu>
@@ -25119,6 +25167,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pre-Study</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035850Z">
+        <seg>前期研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Precautions for Quad Proof Function</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T053110Z">
@@ -25527,6 +25583,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152754Z">
         <seg>產品/流程合格要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ProductConfigurations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035933Z">
+        <seg>產品配置</seg>
       </tuv>
     </tu>
     <tu>
