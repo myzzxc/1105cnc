@@ -5006,6 +5006,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apr	May	June	July	Aug	Sept	Oct	Nov	Dec	Jan</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T043656Z">
+        <seg>四月	五月	六月	七月	八月	九月	十月	十一月	十二月	一月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arc Welders &amp; Plasma Cutters</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121420Z">
@@ -20393,6 +20401,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modularization starts by defining the strategic improvements targeted for your company</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T044045Z">
+        <seg>模塊化由定義貴公司的策略性改進目標開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modularization starts with understanding where variety and product development is needed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073227Z">
@@ -27059,6 +27075,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035725Z">
         <seg>資源和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resources (FTEs)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T043916Z">
+        <seg>資源 (FTE 指數)</seg>
       </tuv>
     </tu>
     <tu>
