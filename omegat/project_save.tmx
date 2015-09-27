@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(3+5 door, station wagon, convertible, and Minivan)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032557Z">
+        <seg>(3+5 門、旅行車、敞篷車和多功能休旅車)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(32-bit edition/64-bit edition, pre-installed, SP1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125359Z">
@@ -36846,6 +36854,30 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131728Z">
         <seg>渦流槍 - 冷風</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VW Bora</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032609Z">
+        <seg>福斯 Bora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VW Golf IV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032334Z">
+        <seg>福斯 Golf 第四代</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VW estimates development and investment cost savings of $1.5 billion/yr using platforms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032316Z">
+        <seg>福斯估計使用平台每年能節省約 $15 億的開發和投資成本</seg>
       </tuv>
     </tu>
     <tu>
