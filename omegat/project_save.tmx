@@ -11161,6 +11161,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drops names of clients</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144239Z" creationid="Judy" creationdate="20150927T144239Z">
+        <seg>提出客戶名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to PTZ cameras all having different zoom, focus and moving speeds each PTZ has to be calibrated so that the algorithm knows how much to move each PTZ.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T151345Z">
@@ -13388,6 +13396,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, an evaluation by the project team of interface connections will be one of the most important factors for selecting a module concept.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144514Z" creationid="Judy" creationdate="20150927T144514Z">
+        <seg>首先，由接口連接專案團隊所進行的評估，將成為選擇模塊概念最重要的因素之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, plug in one side of the Ethernet cable into the LAN port of the router, then plug the same cable into your computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092646Z">
@@ -13560,6 +13576,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T145257Z">
         <seg>可參考下列圖表以更清楚地了解我們一般提供於客戶之尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a modular design, the interfaces between modules have a vital influence on the final product and the flexibility within the product portfolio.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144400Z" creationid="Judy" creationdate="20150927T144400Z">
+        <seg>模塊化設計中，模塊間的接口對最終產品和產品群組中的彈性有重大的影響。</seg>
       </tuv>
     </tu>
     <tu>
