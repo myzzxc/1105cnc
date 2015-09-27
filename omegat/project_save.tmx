@@ -3617,8 +3617,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Actionable design specification for implementing products</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120702Z" creationid="Judy" creationdate="20150927T120702Z">
-        <seg>實現產品的可執行設計規範</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122322Z" creationid="Judy" creationdate="20150927T120702Z">
+        <seg>實現產品的可執行設計規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -10384,6 +10384,22 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122311Z" creationid="Judy" creationdate="20150927T122311Z">
+        <seg>設計要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design Specifications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122317Z" creationid="Judy" creationdate="20150927T122317Z">
+        <seg>設計規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Design System and Product Definition</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125841Z">
@@ -11748,6 +11764,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120959Z" creationid="Judy" creationdate="20150927T120959Z">
         <seg>工程聲音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engineering Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122308Z" creationid="Judy" creationdate="20150927T122308Z">
+        <seg>工程要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -19861,6 +19885,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Market Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122302Z" creationid="Judy" creationdate="20150927T122302Z">
+        <seg>市場需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Market oriented and business case driven approach</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T024843Z">
@@ -25975,6 +26007,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122305Z" creationid="Judy" creationdate="20150927T122305Z">
+        <seg>產品要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product Sheet</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051425Z">
@@ -27189,8 +27229,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080304Z">
-        <seg>需求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122558Z">
+        <seg>要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -29891,6 +29931,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150509T080604Z">
         <seg>可能會針對某些特定單位增訂特殊的要求規範，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122609Z" creationid="Judy" creationdate="20150927T122609Z">
+        <seg>規格</seg>
       </tuv>
     </tu>
     <tu>
