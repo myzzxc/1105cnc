@@ -3615,6 +3615,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actionable design specification for implementing products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120702Z" creationid="Judy" creationdate="20150927T120702Z">
+        <seg>實現產品的可執行設計規範</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Directory Rights Management Service</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025717Z">
@@ -17032,6 +17040,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Input:Identified market opportunity with clear customer targets</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120501Z" creationid="Judy" creationdate="20150927T120501Z">
+        <seg>輸入：以清楚的客戶目標確定之市場機會</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert Pre-made and custom watermarks at creation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040446Z">
@@ -23284,6 +23300,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T071809Z">
         <seg>我們已經減少了導入市場的時間。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120506Z" creationid="Judy" creationdate="20150927T120506Z">
+        <seg>輸出：</seg>
       </tuv>
     </tu>
     <tu>
