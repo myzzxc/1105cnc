@@ -8708,6 +8708,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124530Z" creationid="Judy" creationdate="20150927T124530Z">
+        <seg>配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuration Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134301Z">
