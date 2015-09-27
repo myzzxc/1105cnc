@@ -6113,6 +6113,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be basis for a Go / NoGo decision and direction for an implementation project</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T040404Z">
+        <seg>以執行(Go) / 不執行(NoGo) 為基礎的決策和專案執行的方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because Power PDF Advanced is Windows Installer compatible, ZAP files are not necessary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T103543Z">
@@ -13430,6 +13438,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For that we need to…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T040455Z">
+        <seg>為此我們必須......</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the W5500, set digital pin 10 as a high output.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133429Z">
@@ -20133,6 +20149,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T110853Z">
         <seg>模塊化策略制定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modular Strategy and Potential (MSAP) Purposes and deliverables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T040228Z">
+        <seg>模塊化策略和潛在 (MSAP) 用途和可交付成果</seg>
       </tuv>
     </tu>
     <tu>
