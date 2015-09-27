@@ -20949,6 +20949,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular Product Architecture Development – Aligned Gates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143400Z" creationid="Judy" creationdate="20150927T143319Z">
+        <seg>模塊化產品架構開發 –  對齊階段閘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Product Architecture Governance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T112155Z">
@@ -37963,8 +37971,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Typical Stage Gate New Product Development Process</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142800Z" creationid="Judy" creationdate="20150927T142800Z">
-        <seg>典型新產品開發流程的階段</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143357Z" creationid="Judy" creationdate="20150927T142800Z">
+        <seg>典型新產品開發流程的階段閘</seg>
       </tuv>
     </tu>
     <tu>
