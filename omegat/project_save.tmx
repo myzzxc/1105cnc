@@ -25090,6 +25090,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Part of the Atlas Copco Corporation and one of the world’s foremost manufacturers of compaction and paving equipment for road construction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150412Z" creationid="Judy" creationdate="20150927T150343Z">
+        <seg>Atlas Copco 公司的一部分且為世界上首要的壓實和鋪路施工設備製造商之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Partial Delivery Requirements (Chemical Products)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152702Z">
@@ -36152,6 +36160,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T233328Z">
         <seg>由 HUTCHINSON 或其客戶端要求於供應商外包廠商之廠房進行之審核可由 HUTCHINSON （或 HUTCHISON 指定之第三方機構）執行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These complex vehicle systems that are assembled from components from multiple suppliers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150505Z" creationid="Judy" creationdate="20150927T150349Z">
+        <seg>這些複雜的車輛系統由來自多個供應商的元件所組裝。</seg>
       </tuv>
     </tu>
     <tu>
