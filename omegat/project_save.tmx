@@ -21061,6 +21061,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module system documented in support systems (Product Lifecycle Management, ERP, configurator)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141430Z" creationid="Judy" creationdate="20150927T141430Z">
+        <seg>模塊系統記錄於支援系統中 (產品生命週期管理、ERP、配置器)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module variant</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100751Z">
@@ -26259,6 +26267,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115548Z">
         <seg>價值流中和周邊的程序藉由決策指標和持續提高的業務績效工具增強了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Processes, methods and tools</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130117Z" creationid="Judy" creationdate="20150927T130117Z">
+        <seg>流程、方法和工具</seg>
       </tuv>
     </tu>
     <tu>
