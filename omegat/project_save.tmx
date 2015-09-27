@@ -8293,6 +8293,30 @@ Keep an eye on the whole team while getting a special close-up look at your hero
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Communication plan, board and top management</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130018Z" creationid="Judy" creationdate="20150927T125944Z">
+        <seg>溝通計畫，董事會和最高管理層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Communication plan, company wide</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130009Z" creationid="Judy" creationdate="20150927T130009Z">
+        <seg>溝通計畫，全公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Communication plan, stakeholders and resource owners</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130012Z" creationid="Judy" creationdate="20150927T130003Z">
+        <seg>溝通計畫，利益相關者和資源擁有者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compact Construction Vehicles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T120857Z">
@@ -8338,6 +8362,22 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093237Z">
         <seg>公司名稱…………………………………………………………………………</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Company wide decision model for managing architectural changes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125858Z" creationid="Judy" creationdate="20150927T125858Z">
+        <seg>全公司管理架構變更的決策模型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Company wide strategy and metrics</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125804Z" creationid="Judy" creationdate="20150927T125804Z">
+        <seg>全公司的策略和指標</seg>
       </tuv>
     </tu>
     <tu>
@@ -9681,6 +9721,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035758Z">
         <seg>文化和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture and Values</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125921Z" creationid="Judy" creationdate="20150927T125921Z">
+        <seg>文化和價值觀</seg>
       </tuv>
     </tu>
     <tu>
@@ -27909,6 +27957,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rewards and incentives model aligned with modularization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130056Z" creationid="Judy" creationdate="20150927T130056Z">
+        <seg>符合模塊化的獎勵和激勵機制模型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082946Z">
@@ -27993,6 +28049,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121059Z">
         <seg>鑽岩系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roles and responsibilities after implementation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125911Z" creationid="Judy" creationdate="20150927T125911Z">
+        <seg>實施後的角色和職責</seg>
       </tuv>
     </tu>
     <tu>
