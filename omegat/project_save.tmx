@@ -5070,6 +5070,22 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Architecture Design</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142633Z" creationid="Judy" creationdate="20150927T142633Z">
+        <seg>架構設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Architecture Verification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142643Z" creationid="Judy" creationdate="20150927T142643Z">
+        <seg>架構驗證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ArchitectureDesigns</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035926Z">
@@ -14525,6 +14541,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to Market  Prep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142657Z" creationid="Judy" creationdate="20150927T142657Z">
+        <seg>進入市場準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to Market Prep</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142405Z" creationid="Judy" creationdate="20150927T142405Z">
@@ -20781,6 +20805,22 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular Architecture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142617Z" creationid="Judy" creationdate="20150927T142617Z">
+        <seg>模塊化架構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modular Concept</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142624Z" creationid="Judy" creationdate="20150927T142624Z">
+        <seg>模塊化概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Management</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T110526Z">
@@ -20925,6 +20965,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular Strategy &amp; Potential</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142715Z" creationid="Judy" creationdate="20150927T142715Z">
+        <seg>模塊化策略和潛力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Strategy Formulation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T110853Z">
@@ -20937,6 +20985,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121521Z">
         <seg>模塊化策略和潛在 (MSAP) 用途和可實現成果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modular Supply</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142651Z" creationid="Judy" creationdate="20150927T142651Z">
+        <seg>模塊化供應</seg>
       </tuv>
     </tu>
     <tu>
@@ -37901,6 +37957,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142238Z" creationid="Judy" creationdate="20150927T142238Z">
         <seg>典型新產品開發的階段和模塊化產品架構設計階段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Stage Gate New Product Development Process</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142800Z" creationid="Judy" creationdate="20150927T142800Z">
+        <seg>典型新產品開發流程的階段</seg>
       </tuv>
     </tu>
     <tu>
