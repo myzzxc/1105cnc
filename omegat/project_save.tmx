@@ -14575,8 +14575,16 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Governance</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T085742Z">
-        <seg>治理</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142113Z">
+        <seg>管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Governance of a modular system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142106Z" creationid="Judy" creationdate="20150927T142106Z">
+        <seg>模塊化架構管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -27883,10 +27891,18 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resources and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142029Z" creationid="Judy" creationdate="20150927T142020Z">
+        <seg>資源和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resources and competences</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141657Z" creationid="Judy" creationdate="20150927T141657Z">
-        <seg>資源和職權</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142017Z" creationid="Judy" creationdate="20150927T141657Z">
+        <seg>資源和能力</seg>
       </tuv>
     </tu>
     <tu>
@@ -41268,6 +41284,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050348Z">
         <seg>coated with zinc for corrosion resistance
 抗腐蝕鍍鋅塗料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>competences</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142036Z" creationid="Judy" creationdate="20150927T142036Z">
+        <seg>能力</seg>
       </tuv>
     </tu>
     <tu>
