@@ -10424,6 +10424,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Designing a Modular Architecure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122915Z" creationid="Judy" creationdate="20150927T122915Z">
+        <seg>設計模塊化架構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Designing assortment instead of individual buildings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085359Z">
@@ -23584,6 +23592,15 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PALMA™Proprietary Software Supports MFD®…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122718Z" creationid="Judy" creationdate="20150927T122718Z">
+        <seg>PALMA™
+支援 MFD® 的獨有軟體…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PALMA™’ has a unique capability of capturing the Configuration Intent of a product and translate that into an executable configuration model, by using the built-in configurator the configurability of your product offerings can be analyzed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023959Z">
@@ -25920,9 +25937,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050257Z">
-        <seg>Product
-產品</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122616Z">
+        <seg>產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -41911,6 +41927,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082613Z">
         <seg>• 適用於任何 CAM 軟體之程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>… and everything else needed in the total process</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122843Z" creationid="Judy" creationdate="20150927T122843Z">
+        <seg>......以及全部流程中所需的一切</seg>
       </tuv>
     </tu>
     <tu>
