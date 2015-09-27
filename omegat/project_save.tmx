@@ -10233,8 +10233,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Deliverables</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121336Z" creationid="Judy" creationdate="20150927T121336Z">
-        <seg>成果</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121431Z" creationid="Judy" creationdate="20150927T121336Z">
+        <seg>可實現成果</seg>
       </tuv>
     </tu>
     <tu>
@@ -19408,16 +19408,16 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MSAP Deliverables</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T043505Z">
-        <seg>MSAP 成果</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121529Z">
+        <seg>MSAP 可實現成果</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>MSAP Deliverables, Program plan</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T043455Z">
-        <seg>MSAP 成果、專案計畫</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121536Z">
+        <seg>MSAP 可實現成果、專案計畫</seg>
       </tuv>
     </tu>
     <tu>
@@ -20503,8 +20503,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Strategy and Potential (MSAP) Purposes and deliverables</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T043527Z">
-        <seg>模塊化策略和潛在 (MSAP) 用途和成果</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121521Z">
+        <seg>模塊化策略和潛在 (MSAP) 用途和可實現成果</seg>
       </tuv>
     </tu>
     <tu>
@@ -25794,6 +25794,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083251Z">
         <seg>問題：PDF 文件為商業文件協作的標準格式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process Deliverables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121444Z" creationid="Judy" creationdate="20150927T121444Z">
+        <seg>流程可實現成果</seg>
       </tuv>
     </tu>
     <tu>
@@ -36519,8 +36527,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Timely deliverables based of a modular architecture</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034701Z">
-        <seg>模塊化架構的及時交付成果</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121516Z">
+        <seg>模塊化架構的可及時實現成果</seg>
       </tuv>
     </tu>
     <tu>
@@ -38231,6 +38239,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034540Z">
         <seg>視覺化銷售配置器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visualized on the Product Management Map</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121400Z" creationid="Judy" creationdate="20150927T121400Z">
+        <seg>直觀地反映出產品管理圖</seg>
       </tuv>
     </tu>
     <tu>
