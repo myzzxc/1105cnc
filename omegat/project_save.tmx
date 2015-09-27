@@ -1194,6 +1194,14 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-Selling capacity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034804Z">
+        <seg>-銷售能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...the system is not updating when sales are made during the course of a day and it is also not decoding the security tags?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T115635Z">
@@ -9943,6 +9951,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delivery capability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034800Z">
+        <seg>交付能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delivery performance (including freight supplements)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T234712Z">
@@ -18408,6 +18424,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Life cycle solutions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034715Z">
+        <seg>生命週期解決方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lifecycle planning approaches have improved understanding of the short-term, mid-term and long-term costs associated with development, maintenance and replacement of water systems.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T084724Z">
@@ -25347,6 +25371,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034703Z">
+        <seg>產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Productvariants</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100813Z">
@@ -29982,6 +30014,14 @@ For further details, see the Detailed User Guide.</seg>
 	(32-位元版本 /64-位元版本，SP2)
 中央處理器： Intel® Core® Duo，1.66GHz 以上
 更多詳細資訊請參閱詳細使用說明書。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System integration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034711Z">
+        <seg>系統整合</seg>
       </tuv>
     </tu>
     <tu>
@@ -35685,6 +35725,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Timely deliverables based of a modular architecture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034701Z">
+        <seg>模塊化架構的及時交付成果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timing of involvement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034756Z">
+        <seg>參與時機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014454Z">
@@ -37335,6 +37391,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094823Z">
         <seg>請上 Everio 網站</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visual sales configurator</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034540Z">
+        <seg>視覺化銷售配置器</seg>
       </tuv>
     </tu>
     <tu>
