@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(3+ 5-door)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032824Z">
+        <seg>(3+ 5-門)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(3+5 door, station wagon, convertible, and Minivan)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032557Z">
@@ -262,10 +270,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Bora sedan, coupe, convertible, and station wagon)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032742Z">
+        <seg>(Bora 房車、雙門轎跑車、敞篷車和旅行車）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Ensure that the entire \Tools\CustomKit\ folder is available on this workstation.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023555Z">
         <seg>（確保此工作站中具有完整 \Tools\CustomKit\ 資料夾。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(New Beetle, New Beetle convertible)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032806Z">
+        <seg>(New Beetle, New Beetle 敞篷車)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Octavia sedan, and station wagon)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032820Z">
+        <seg>(Octavia 房車和旅行車)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36854,6 +36886,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131728Z">
         <seg>渦流槍 - 冷風</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VW Beetle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032747Z">
+        <seg>福斯 Beetle</seg>
       </tuv>
     </tu>
     <tu>
