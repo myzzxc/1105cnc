@@ -7989,6 +7989,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commissioning</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034056Z">
+        <seg>測試調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commonality</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031755Z">
@@ -10076,6 +10084,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051240Z">
         <seg>Destination folder （目標資料夾）：可選擇預設安裝位置或點擊 Browse （瀏覽）來選擇不同的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detail drawings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033937Z">
+        <seg>詳細設計圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -12505,6 +12521,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Final assembly instructions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034013Z">
+        <seg>最終組裝說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finalizing the transform file (above) is optional; also you can include more than a customized transform file in your installation package.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021122Z">
@@ -13488,6 +13512,14 @@ Record, watch and share high quality video in native Full HD resolution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full technical documentation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034019Z">
+        <seg>完整技術文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FullFrequencyEvaluation(EPC): Appreciation, in a given period, of the production capacity of the Supplier to reach the industrial performance objectives (quality, capacity, etc.) defined during the study phase.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025831Z">
@@ -14161,6 +14193,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T045544Z">
         <seg>硬化鋼彈出式定位銷為氣動式驅動，可快速、重複放置切割材料於機台上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hardware delivery</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033957Z">
+        <seg>交付硬體</seg>
       </tuv>
     </tu>
     <tu>
@@ -28854,6 +28894,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Solution &amp; layout Configurations (prod.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034146Z">
+        <seg>解決方案與設計配置 (產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Solution: PDF software that gives business users the features they need to be productive at a price that businesses can justify.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083910Z">
@@ -30366,6 +30414,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081511Z">
         <seg>目標市場：SOHO 族、專業人士、小型公司、大型企業、醫療合法律單位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Technical documentation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033941Z">
+        <seg>技術文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -39757,6 +39813,22 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053011Z">
         <seg>eDOCS 外掛程式註冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>envelopes and Interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034143Z">
+        <seg>外觀和接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>envelopes and interfaces)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034156Z">
+        <seg>外觀和接口)</seg>
       </tuv>
     </tu>
     <tu>
