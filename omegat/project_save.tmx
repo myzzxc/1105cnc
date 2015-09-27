@@ -6714,6 +6714,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Business</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121008Z" creationid="Judy" creationdate="20150927T121008Z">
+        <seg>業務聲音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Business Situation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T102439Z">
@@ -9629,6 +9637,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120954Z" creationid="Judy" creationdate="20150927T120954Z">
+        <seg>客戶聲音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customer Intimacy</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044933Z">
@@ -11716,6 +11732,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035335Z">
         <seg>工程師導向訂單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engineering</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120959Z" creationid="Judy" creationdate="20150927T120959Z">
+        <seg>工程聲音</seg>
       </tuv>
     </tu>
     <tu>
@@ -19318,6 +19342,22 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MFD Process Flow: Incorporates all Internal and External Voices with Modular Function Deployment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120833Z" creationid="Judy" creationdate="20150927T120833Z">
+        <seg>模塊功能展開 (MFD) 處理流程：以模塊功能展開包括所有內部及外部聲音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MFD® Process Flow</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120912Z" creationid="Judy" creationdate="20150927T120912Z">
+        <seg>MFD® 處理流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MONTHS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232737Z">
@@ -19785,6 +19825,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071148Z">
         <seg>標示 &amp; 註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Market</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120945Z" creationid="Judy" creationdate="20150927T120945Z">
+        <seg>市場聲音</seg>
       </tuv>
     </tu>
     <tu>
@@ -20489,6 +20537,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100041Z">
         <seg>模塊化架構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modularity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121013Z" creationid="Judy" creationdate="20150927T121013Z">
+        <seg>模塊化聲音</seg>
       </tuv>
     </tu>
     <tu>
@@ -38159,6 +38215,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034540Z">
         <seg>視覺化銷售配置器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voice of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120931Z" creationid="Judy" creationdate="20150927T120931Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
