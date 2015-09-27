@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp; Tools</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035713Z">
+        <seg>和工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>( 3.7Kw) (3 Phase)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050155Z">
@@ -8299,6 +8307,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Competences</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035752Z">
+        <seg>業務能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Competing demands impose difficult allocation decisions and limit the expansion of sectors critical to sustainable development, in particular food production and energy.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T134036Z">
@@ -9389,6 +9405,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Culture &amp;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035758Z">
+        <seg>文化和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curing time at standard, minimum and maximum temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121837Z">
@@ -9409,6 +9433,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T082831Z">
         <seg>當前的預測顯示，水資源分佈時空的重要變化以及水災所發生的頻率和強度，隨溫室氣體排放量增長而顯著增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CurrentState</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035558Z">
+        <seg>現狀</seg>
       </tuv>
     </tu>
     <tu>
@@ -10148,6 +10180,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083938Z">
         <seg>說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035808Z">
+        <seg>設計</seg>
       </tuv>
     </tu>
     <tu>
@@ -18400,6 +18440,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leadership</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035653Z">
+        <seg>領導能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leads from a battery can be inserted in the Gnd and Vin pin headers of the POWER connector. The board can operate on an external supply of 6 to 20 volts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131945Z">
@@ -20730,6 +20778,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115755Z">
         <seg>為了維持和利用架構，創造出了首席架構師和模塊系統產品經理等新的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NewState</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035551Z">
+        <seg>新境界</seg>
       </tuv>
     </tu>
     <tu>
@@ -25274,6 +25330,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Processes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035707Z">
+        <seg>程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Processes in and around the value stream were enhanced with decision metrics and tools to sustain the improved business performance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T115548Z">
@@ -26763,6 +26827,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T144831Z">
         <seg>排除 Prepare Computer 對話視窗中所列出的問題，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resources &amp;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035725Z">
+        <seg>資源和</seg>
       </tuv>
     </tu>
     <tu>
@@ -29865,6 +29937,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015546Z">
         <seg>供應商服務評等：優良交付貨物數量占總交付貨物總數的百分比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supply Chain</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035804Z">
+        <seg>供應鏈</seg>
       </tuv>
     </tu>
     <tu>
@@ -37362,6 +37442,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Value Increase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035554Z">
+        <seg>價值增加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Values</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035802Z">
+        <seg>價值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Variants	&lt;1000	&gt;50.000</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100753Z">
@@ -37519,6 +37615,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072609Z">
         <seg>可見度設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vision &amp;Business Plan</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035634Z">
+        <seg>遠見和商業計畫</seg>
       </tuv>
     </tu>
     <tu>
