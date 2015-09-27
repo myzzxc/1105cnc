@@ -19184,8 +19184,16 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MSAP Deliverables</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T041650Z">
-        <seg>MSAP 可交付成果</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T043505Z">
+        <seg>MSAP 成果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MSAP Deliverables, Program plan</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T043455Z">
+        <seg>MSAP 成果、專案計畫</seg>
       </tuv>
     </tu>
     <tu>
@@ -20251,8 +20259,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Strategy and Potential (MSAP) Purposes and deliverables</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T040228Z">
-        <seg>模塊化策略和潛在 (MSAP) 用途和可交付成果</seg>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T043527Z">
+        <seg>模塊化策略和潛在 (MSAP) 用途和成果</seg>
       </tuv>
     </tu>
     <tu>
