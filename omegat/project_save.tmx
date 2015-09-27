@@ -8556,6 +8556,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure to order</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035350Z">
+        <seg>配置導向訂單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configure your product offerings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T022417Z">
@@ -10160,6 +10168,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design to order</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035334Z">
+        <seg>設計導向訂單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Designing assortment instead of individual buildings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085359Z">
@@ -10861,6 +10877,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EBIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035433Z">
+        <seg>稅前息前獲利</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EBIT margin</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030427Z">
@@ -11460,6 +11484,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T155756Z">
         <seg>通常產生能源的耗水量相當大，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engineer to order</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035335Z">
+        <seg>工程師導向訂單</seg>
       </tuv>
     </tu>
     <tu>
@@ -19849,6 +19881,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035249Z">
+        <seg>模塊化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modular Management</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T110526Z">
@@ -20818,6 +20858,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non-modular</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035240Z">
+        <seg>非模塊化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Norms and attitudes have changed as a result of educational interventions, institutional changes, improved scientific and technical knowledge, sharing of lessons learned and best practices, and proactive policy and legislative developments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T063445Z">
@@ -21431,6 +21479,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092917Z">
         <seg>主軸數量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of orders</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035354Z">
+        <seg>訂單數</seg>
       </tuv>
     </tu>
     <tu>
@@ -28644,6 +28700,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shifting from Engineer to Order to Configure to Order</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035230Z">
+        <seg>由工程師導向訂單轉換為配置導向訂單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ship Yard Cranes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T120444Z">
@@ -33803,6 +33867,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The road to success</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035441Z">
+        <seg>成功之路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The saber blade isarobust and multi purpose tool ideal forcutting hard materials such as laminates, Styrene, Sintra and similar up to about 1-2mm thick.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T161531Z">
@@ -36163,6 +36235,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121538Z">
         <seg>扭矩測試‡‡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total man-hours</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035414Z">
+        <seg>總人次工時</seg>
       </tuv>
     </tu>
     <tu>
