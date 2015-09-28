@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_10" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2046,7 +2046,7 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
       <tuv lang="EN-US">
         <seg>43 days</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125321Z" creationid="Judy" creationdate="20150927T125321Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125321Z">
         <seg>43 天</seg>
       </tuv>
     </tu>
@@ -2820,7 +2820,7 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>A – Attachment</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144757Z" creationid="Judy" creationdate="20150927T144757Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144757Z">
         <seg>A - 附件</seg>
       </tuv>
     </tu>
@@ -3513,7 +3513,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Access to more segments and markets</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111916Z" creationid="Judy" creationdate="20150927T111840Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111916Z">
         <seg>取得更多市場區隔和市場</seg>
       </tuv>
     </tu>
@@ -3633,7 +3633,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Actionable design specification for implementing products</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122322Z" creationid="Judy" creationdate="20150927T120702Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122322Z">
         <seg>實現產品的可執行設計規格</seg>
       </tuv>
     </tu>
@@ -4050,7 +4050,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Agile production OR Flexibility Supplier</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124046Z" creationid="Judy" creationdate="20150927T124046Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124046Z">
         <seg>快速生產或有彈性的供應商</seg>
       </tuv>
     </tu>
@@ -4138,7 +4138,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Aligning a Supply Chain</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123046Z" creationid="Judy" creationdate="20150927T123046Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123046Z">
         <seg>調整供應鏈</seg>
       </tuv>
     </tu>
@@ -4692,7 +4692,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>An engineer may specify an interface with the help of the function it performs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144648Z" creationid="Judy" creationdate="20150927T144648Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144648Z">
         <seg>工程師可以藉由其執行的功能指定接口。</seg>
       </tuv>
     </tu>
@@ -4700,7 +4700,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>An essential question is: What can module A do to module B?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150113Z" creationid="Judy" creationdate="20150927T150113Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150113Z">
         <seg>關鍵的問題是：模塊 A 對模塊 B 的作用為何？</seg>
       </tuv>
     </tu>
@@ -4756,7 +4756,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>An interface might, for example, be a surface for an attachment, or the connection between components to transfer kinetic or electric energy and/or transfer media such as fluids or gas.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145212Z" creationid="Judy" creationdate="20150927T145212Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145212Z">
         <seg>例如，接口可能為附件的表面，或傳送動力或電源、或傳送如液體或氣體等媒介於元件間的連接。</seg>
       </tuv>
     </tu>
@@ -5104,7 +5104,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Architecture Design</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142633Z" creationid="Judy" creationdate="20150927T142633Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142633Z">
         <seg>架構設計</seg>
       </tuv>
     </tu>
@@ -5112,7 +5112,7 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Architecture Verification</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142643Z" creationid="Judy" creationdate="20150927T142643Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142643Z">
         <seg>架構驗證</seg>
       </tuv>
     </tu>
@@ -6091,7 +6091,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Base</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125002Z" creationid="Judy" creationdate="20150927T125002Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125002Z">
         <seg>基點</seg>
       </tuv>
     </tu>
@@ -6595,7 +6595,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Bottom-line</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T105710Z" creationid="Judy" creationdate="20150927T105710Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T105710Z">
         <seg>底線</seg>
       </tuv>
     </tu>
@@ -6796,7 +6796,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Business</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121008Z" creationid="Judy" creationdate="20150927T121008Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121008Z">
         <seg>業務聲音</seg>
       </tuv>
     </tu>
@@ -6804,7 +6804,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Business Case &amp; Proposal</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142433Z" creationid="Judy" creationdate="20150927T142433Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142433Z">
         <seg>商業案例和提案</seg>
       </tuv>
     </tu>
@@ -6924,7 +6924,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>C – Command and Control</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144801Z" creationid="Judy" creationdate="20150927T144801Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144801Z">
         <seg>C - 指令和控制</seg>
       </tuv>
     </tu>
@@ -7188,7 +7188,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Calculating a Modular Architecture (Total Cost)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123004Z" creationid="Judy" creationdate="20150927T123004Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123004Z">
         <seg>計算模塊化架構 (總費用)</seg>
       </tuv>
     </tu>
@@ -7268,7 +7268,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Capacity:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125113Z" creationid="Judy" creationdate="20150927T125113Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125113Z">
         <seg>負載力：</seg>
       </tuv>
     </tu>
@@ -7436,7 +7436,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Centre of Excellence</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124206Z" creationid="Judy" creationdate="20150927T124206Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124206Z">
         <seg>卓越中心</seg>
       </tuv>
     </tu>
@@ -7572,7 +7572,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>China</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124147Z" creationid="Judy" creationdate="20150927T124147Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124147Z">
         <seg>中國</seg>
       </tuv>
     </tu>
@@ -7757,7 +7757,7 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Classification:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125009Z" creationid="Judy" creationdate="20150927T125009Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125009Z">
         <seg>分類：</seg>
       </tuv>
     </tu>
@@ -8359,7 +8359,7 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       <tuv lang="EN-US">
         <seg>Communication plan, board and top management</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130018Z" creationid="Judy" creationdate="20150927T125944Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130018Z">
         <seg>溝通計畫，董事會和最高管理層</seg>
       </tuv>
     </tu>
@@ -8367,7 +8367,7 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       <tuv lang="EN-US">
         <seg>Communication plan, company wide</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130009Z" creationid="Judy" creationdate="20150927T130009Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130009Z">
         <seg>溝通計畫，全公司</seg>
       </tuv>
     </tu>
@@ -8375,7 +8375,7 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       <tuv lang="EN-US">
         <seg>Communication plan, stakeholders and resource owners</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130012Z" creationid="Judy" creationdate="20150927T130003Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130012Z">
         <seg>溝通計畫，利益相關者和資源擁有者</seg>
       </tuv>
     </tu>
@@ -8407,7 +8407,7 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       <tuv lang="EN-US">
         <seg>Company Description</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150157Z" creationid="Judy" creationdate="20150927T150157Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150157Z">
         <seg>公司說明</seg>
       </tuv>
     </tu>
@@ -8440,7 +8440,7 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       <tuv lang="EN-US">
         <seg>Company wide decision model for managing architectural changes</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125858Z" creationid="Judy" creationdate="20150927T125858Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125858Z">
         <seg>全公司管理架構變更的決策模型</seg>
       </tuv>
     </tu>
@@ -8448,7 +8448,7 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       <tuv lang="EN-US">
         <seg>Company wide strategy and metrics</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125804Z" creationid="Judy" creationdate="20150927T125804Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125804Z">
         <seg>全公司的策略和指標</seg>
       </tuv>
     </tu>
@@ -8629,7 +8629,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Competitors include Bomag (Germany), Ingersoll Rand (Ireland) and Caterpillar (USA).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150543Z" creationid="Judy" creationdate="20150927T150543Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150543Z">
         <seg>競爭對手包括Bomag (德國)、Ingersoll Rand  (愛爾蘭) 和 Caterpillar (美國)。</seg>
       </tuv>
     </tu>
@@ -8669,7 +8669,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Complexity cost potential measured by ValueMap</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T110810Z" creationid="Judy" creationdate="20150927T110810Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T110810Z">
         <seg>以 ValueMap 衡量之潛在複雜性成本</seg>
       </tuv>
     </tu>
@@ -8750,7 +8750,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Components, WIP, FG</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111408Z" creationid="Judy" creationdate="20150927T111408Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111408Z">
         <seg>元件、WIP、FG</seg>
       </tuv>
     </tu>
@@ -8838,7 +8838,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Concept Study</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142244Z" creationid="Judy" creationdate="20150927T142244Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142244Z">
         <seg>概念研究</seg>
       </tuv>
     </tu>
@@ -8854,7 +8854,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Conditions</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125230Z" creationid="Judy" creationdate="20150927T125230Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125230Z">
         <seg>狀態</seg>
       </tuv>
     </tu>
@@ -8878,7 +8878,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Configuration</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124530Z" creationid="Judy" creationdate="20150927T124530Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124530Z">
         <seg>配置</seg>
       </tuv>
     </tu>
@@ -9175,7 +9175,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Control system:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125133Z" creationid="Judy" creationdate="20150927T125133Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125133Z">
         <seg>控制系統：</seg>
       </tuv>
     </tu>
@@ -9375,7 +9375,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Cooperation between development and production</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123916Z" creationid="Judy" creationdate="20150927T123916Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123916Z">
         <seg>發展與生產間的合作</seg>
       </tuv>
     </tu>
@@ -9503,7 +9503,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Cost Focus</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124001Z" creationid="Judy" creationdate="20150927T124001Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124001Z">
         <seg>成本集中</seg>
       </tuv>
     </tu>
@@ -9511,7 +9511,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Cost of Inventory</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111103Z" creationid="Judy" creationdate="20150927T111103Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111103Z">
         <seg>存貨成本</seg>
       </tuv>
     </tu>
@@ -9519,7 +9519,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Cost of Operation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T105718Z" creationid="Judy" creationdate="20150927T105718Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T105718Z">
         <seg>營運成本</seg>
       </tuv>
     </tu>
@@ -9527,7 +9527,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Cost of Quality savings</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111038Z" creationid="Judy" creationdate="20150927T111038Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111038Z">
         <seg>品質成本節省</seg>
       </tuv>
     </tu>
@@ -9799,7 +9799,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Creation:  link market and product strategies to engineering and design requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150918Z" creationid="Judy" creationdate="20150927T150918Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150918Z">
         <seg>創造：將市場和產品策略連結到工程和設計要求</seg>
       </tuv>
     </tu>
@@ -9823,7 +9823,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Culture and Values</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125921Z" creationid="Judy" creationdate="20150927T125921Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125921Z">
         <seg>文化和價值觀</seg>
       </tuv>
     </tu>
@@ -9831,7 +9831,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Culture and values</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141716Z" creationid="Judy" creationdate="20150927T141716Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141716Z">
         <seg>文化和價值觀</seg>
       </tuv>
     </tu>
@@ -9903,7 +9903,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Customer</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120954Z" creationid="Judy" creationdate="20150927T120954Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120954Z">
         <seg>客戶聲音</seg>
       </tuv>
     </tu>
@@ -10497,7 +10497,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Deliverables</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121431Z" creationid="Judy" creationdate="20150927T121336Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121431Z">
         <seg>可實現成果</seg>
       </tuv>
     </tu>
@@ -10521,7 +10521,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Delivery precision</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120209Z" creationid="Judy" creationdate="20150927T120209Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120209Z">
         <seg>交付精確度</seg>
       </tuv>
     </tu>
@@ -10537,7 +10537,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Demonstrates MM’s experience</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143855Z" creationid="Judy" creationdate="20150927T143855Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143855Z">
         <seg>展現模塊化管理的經驗</seg>
       </tuv>
     </tu>
@@ -10658,7 +10658,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Design Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122311Z" creationid="Judy" creationdate="20150927T122311Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122311Z">
         <seg>設計要求</seg>
       </tuv>
     </tu>
@@ -10666,7 +10666,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Design Specifications</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122317Z" creationid="Judy" creationdate="20150927T122317Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122317Z">
         <seg>設計規格</seg>
       </tuv>
     </tu>
@@ -10682,7 +10682,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Design Verification</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142310Z" creationid="Judy" creationdate="20150927T142310Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142310Z">
         <seg>設計驗證</seg>
       </tuv>
     </tu>
@@ -10706,7 +10706,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Designing a Modular Architecure</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122915Z" creationid="Judy" creationdate="20150927T122915Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122915Z">
         <seg>設計模塊化架構</seg>
       </tuv>
     </tu>
@@ -10738,7 +10738,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Detail Design</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142259Z" creationid="Judy" creationdate="20150927T142259Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142259Z">
         <seg>詳細設計</seg>
       </tuv>
     </tu>
@@ -10762,7 +10762,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Detailed Study</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142255Z" creationid="Judy" creationdate="20150927T142255Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142255Z">
         <seg>詳細研究</seg>
       </tuv>
     </tu>
@@ -10859,7 +10859,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Direct Material savings</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T110829Z" creationid="Judy" creationdate="20150927T110829Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T110829Z">
         <seg>直接材料節省</seg>
       </tuv>
     </tu>
@@ -10867,7 +10867,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Direct physical connection between two modules is not a necessary condition for an interface; spatial interfaces do not necessarily imply one module touches another, yet it is an interface.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150013Z" creationid="Judy" creationdate="20150927T150013Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150013Z">
         <seg>兩個模塊之間的直接物理連接不是接口的必要條件；空間接口不必然表示模塊接觸到另一個，也不是一個接口。</seg>
       </tuv>
     </tu>
@@ -11235,7 +11235,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Drops names of clients</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144239Z" creationid="Judy" creationdate="20150927T144239Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144239Z">
         <seg>提出客戶名稱</seg>
       </tuv>
     </tu>
@@ -11390,7 +11390,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>E – Environmental</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144904Z" creationid="Judy" creationdate="20150927T144904Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144904Z">
         <seg>E - 環境</seg>
       </tuv>
     </tu>
@@ -11687,7 +11687,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Earliest:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125325Z" creationid="Judy" creationdate="20150927T125325Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125325Z">
         <seg>最早：</seg>
       </tuv>
     </tu>
@@ -12090,7 +12090,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Engine:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125130Z" creationid="Judy" creationdate="20150927T125130Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125130Z">
         <seg>引擎：</seg>
       </tuv>
     </tu>
@@ -12106,7 +12106,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Engineering</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120959Z" creationid="Judy" creationdate="20150927T120959Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120959Z">
         <seg>工程聲音</seg>
       </tuv>
     </tu>
@@ -12114,7 +12114,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Engineering Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122308Z" creationid="Judy" creationdate="20150927T122308Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122308Z">
         <seg>工程要求</seg>
       </tuv>
     </tu>
@@ -12122,7 +12122,7 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Engineers sometimes must modify a component because of interface description.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145649Z" creationid="Judy" creationdate="20150927T145649Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145649Z">
         <seg>有時，工程師因為接口說明而必須修改元件。</seg>
       </tuv>
     </tu>
@@ -12656,7 +12656,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Execute a larger percentage of your plan with same budget</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111705Z" creationid="Judy" creationdate="20150927T111705Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111705Z">
         <seg>以相同預算達成更高的計畫執行率</seg>
       </tuv>
     </tu>
@@ -12849,7 +12849,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>F – Field</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144837Z" creationid="Judy" creationdate="20150927T144818Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144837Z">
         <seg>F - 場</seg>
       </tuv>
     </tu>
@@ -13203,7 +13203,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Few product changes and low variance</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123402Z" creationid="Judy" creationdate="20150927T123402Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123402Z">
         <seg>少量的產品的變更和低差異性</seg>
       </tuv>
     </tu>
@@ -13299,7 +13299,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Filter type:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125148Z" creationid="Judy" creationdate="20150927T125148Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125148Z">
         <seg>濾芯種類：</seg>
       </tuv>
     </tu>
@@ -13494,7 +13494,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>First, an evaluation by the project team of interface connections will be one of the most important factors for selecting a module concept.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144514Z" creationid="Judy" creationdate="20150927T144514Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144514Z">
         <seg>首先，由接口連接專案團隊所進行的評估，將成為選擇模塊概念最重要的因素之一。</seg>
       </tuv>
     </tu>
@@ -13678,7 +13678,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For a modular design, the interfaces between modules have a vital influence on the final product and the flexibility within the product portfolio.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144400Z" creationid="Judy" creationdate="20150927T144400Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144400Z">
         <seg>模塊化設計中，模塊間的接口對最終產品和產品群組中的彈性有重大的影響。</seg>
       </tuv>
     </tu>
@@ -13710,7 +13710,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For an engineer, it’s easy to be distracted by system components because they absorb most of the design work and determine the cost of the system, but interfaces determine performance, risk and value of the system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145543Z" creationid="Judy" creationdate="20150927T145543Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145543Z">
         <seg>對於工程師，很容易因為系統元件而分散注意力，因為他們占了大部分的設計工作且決定了系統的成本，但接口決定了系統的效能、風險和價值。</seg>
       </tuv>
     </tu>
@@ -14200,7 +14200,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Formulation:  understand business performance and potential through the lens of Modularity</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150843Z" creationid="Judy" creationdate="20150927T150843Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150843Z">
         <seg>制定：透過模塊化瞭解商業績效和潛力</seg>
       </tuv>
     </tu>
@@ -14248,7 +14248,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Frequent product changes and new technology</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123258Z" creationid="Judy" creationdate="20150927T123258Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123258Z">
         <seg>頻繁的產品變更和新技術</seg>
       </tuv>
     </tu>
@@ -14352,7 +14352,7 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Fuel type:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125122Z" creationid="Judy" creationdate="20150927T125122Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125122Z">
         <seg>燃料種類：</seg>
       </tuv>
     </tu>
@@ -14687,7 +14687,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Go to Market  Prep</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142657Z" creationid="Judy" creationdate="20150927T142657Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142657Z">
         <seg>進入市場準備</seg>
       </tuv>
     </tu>
@@ -14695,7 +14695,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Go to Market Prep</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142405Z" creationid="Judy" creationdate="20150927T142405Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142405Z">
         <seg>進入市場準備</seg>
       </tuv>
     </tu>
@@ -14799,7 +14799,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Governance of a modular system</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142106Z" creationid="Judy" creationdate="20150927T142106Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142106Z">
         <seg>模塊化架構管理</seg>
       </tuv>
     </tu>
@@ -14807,7 +14807,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Governance:  identify and initiate the organizational transformation into Modularity</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T151153Z" creationid="Judy" creationdate="20150927T151153Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T151153Z">
         <seg>管理：確認並啟動組織轉型為模塊化</seg>
       </tuv>
     </tu>
@@ -14879,7 +14879,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Guidelines for ways of working (modularity embedded in company processes)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141612Z" creationid="Judy" creationdate="20150927T141612Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141612Z">
         <seg>工作方式指南 (模塊化嵌入於在公司流程中)</seg>
       </tuv>
     </tu>
@@ -15279,7 +15279,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>High variance and risk of new non-anticipated variants</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123514Z" creationid="Judy" creationdate="20150927T123514Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123514Z">
         <seg>高差異性和新變形的非預期風險</seg>
       </tuv>
     </tu>
@@ -16200,7 +16200,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If the answer is “nothing,” no interface exists.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150151Z" creationid="Judy" creationdate="20150927T150151Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150151Z">
         <seg>如果答案是「沒有作用」，則沒有接口。</seg>
       </tuv>
     </tu>
@@ -16681,7 +16681,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Implementation:  balance all objectives within module designs and operations to maximize value</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T151032Z" creationid="Judy" creationdate="20150927T151032Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T151032Z">
         <seg>執行：平衡模塊設計和營運內的所有目標以將價值最大化</seg>
       </tuv>
     </tu>
@@ -17066,7 +17066,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In short, interfaces are where the action is!</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145255Z" creationid="Judy" creationdate="20150927T145255Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145255Z">
         <seg>簡而言之，接口所在處即為作動處！</seg>
       </tuv>
     </tu>
@@ -17330,7 +17330,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In-house production OR Technology Strategic Supplier</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123942Z" creationid="Judy" creationdate="20150927T123942Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123942Z">
         <seg>內部生產或技術策略供應商</seg>
       </tuv>
     </tu>
@@ -17378,7 +17378,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Increase assortment available</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111716Z" creationid="Judy" creationdate="20150927T111716Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111716Z">
         <seg>增加產品類別</seg>
       </tuv>
     </tu>
@@ -17394,7 +17394,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Increase market share and grow by being faster to market</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111547Z" creationid="Judy" creationdate="20150927T111547Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111547Z">
         <seg>增加市站率並藉由快速導入市場而成長</seg>
       </tuv>
     </tu>
@@ -17410,7 +17410,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Increased development efficiency</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111607Z" creationid="Judy" creationdate="20150927T111602Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111607Z">
         <seg>提高開發效率</seg>
       </tuv>
     </tu>
@@ -17490,7 +17490,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Industrialization</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142347Z" creationid="Judy" creationdate="20150927T142347Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142347Z">
         <seg>工業化</seg>
       </tuv>
     </tu>
@@ -17610,7 +17610,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Input:Identified market opportunity with clear customer targets</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120501Z" creationid="Judy" creationdate="20150927T120501Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120501Z">
         <seg>輸入：以清楚的客戶目標確定之市場機會</seg>
       </tuv>
     </tu>
@@ -18083,7 +18083,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Introduces a finer resolution of MM’s scope</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143811Z" creationid="Judy" creationdate="20150927T143811Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143811Z">
         <seg>介紹模塊化管理的詳細展望</seg>
       </tuv>
     </tu>
@@ -18156,7 +18156,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Inventory level</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120134Z" creationid="Judy" creationdate="20150927T120134Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120134Z">
         <seg>庫存量</seg>
       </tuv>
     </tu>
@@ -18164,7 +18164,7 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Inventory turns</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120140Z" creationid="Judy" creationdate="20150927T120140Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120140Z">
         <seg>庫存周轉率</seg>
       </tuv>
     </tu>
@@ -18765,7 +18765,7 @@ or artistic work embodied therein.</seg>
       <tuv lang="EN-US">
         <seg>Italy</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124145Z" creationid="Judy" creationdate="20150927T124145Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124145Z">
         <seg>義大利</seg>
       </tuv>
     </tu>
@@ -19170,7 +19170,7 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Launch</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142414Z" creationid="Judy" creationdate="20150927T142414Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142414Z">
         <seg>產品發表</seg>
       </tuv>
     </tu>
@@ -19274,7 +19274,7 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Layout</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125207Z" creationid="Judy" creationdate="20150927T125207Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125207Z">
         <seg>設計佈局</seg>
       </tuv>
     </tu>
@@ -19298,7 +19298,7 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Lead time:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125317Z" creationid="Judy" creationdate="20150927T125317Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125317Z">
         <seg>交貨期：</seg>
       </tuv>
     </tu>
@@ -19306,7 +19306,7 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Lead-time from Order to Delivery (OTD)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120121Z" creationid="Judy" creationdate="20150927T112245Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120121Z">
         <seg>下單至交貨時間 (OTD)</seg>
       </tuv>
     </tu>
@@ -19330,7 +19330,7 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Leadership and decision model</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125446Z" creationid="Judy" creationdate="20150927T125446Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125446Z">
         <seg>領導和決策模型</seg>
       </tuv>
     </tu>
@@ -19410,7 +19410,7 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Less complexity reduces errors</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111058Z" creationid="Judy" creationdate="20150927T111058Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111058Z">
         <seg>較低複雜度可減少錯誤</seg>
       </tuv>
     </tu>
@@ -19466,7 +19466,7 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Leveraged buying power from reduced complexity</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111017Z" creationid="Judy" creationdate="20150927T111017Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111017Z">
         <seg>因降低複雜而性強化購買力</seg>
       </tuv>
     </tu>
@@ -19616,7 +19616,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Limited depreciation time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123818Z" creationid="Judy" creationdate="20150927T123818Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123818Z">
         <seg>有限的折舊時間</seg>
       </tuv>
     </tu>
@@ -19760,7 +19760,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Longer depreciation time</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123903Z" creationid="Judy" creationdate="20150927T123903Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123903Z">
         <seg>更長的折舊時間</seg>
       </tuv>
     </tu>
@@ -19952,7 +19952,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MFD Process Flow: Incorporates all Internal and External Voices with Modular Function Deployment</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120833Z" creationid="Judy" creationdate="20150927T120833Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120833Z">
         <seg>模塊功能展開 (MFD) 處理流程：以模塊功能展開包括所有內部及外部聲音</seg>
       </tuv>
     </tu>
@@ -19960,7 +19960,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MFD creates  a series of interlinked matrices with relationships and analysis to ultimately create Modules and their interactions which define the requirements for Interfaces</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121327Z" creationid="Judy" creationdate="20150927T121327Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121327Z">
         <seg>MFD 創建一系列相互關聯的矩陣並加以分析，最終建立模塊和其交互作用以定義接口的要求</seg>
       </tuv>
     </tu>
@@ -19968,7 +19968,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MFD® Process Flow</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120912Z" creationid="Judy" creationdate="20150927T120912Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120912Z">
         <seg>MFD® 處理流程</seg>
       </tuv>
     </tu>
@@ -20323,7 +20323,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Manufacturing of modules in different Master Plants, reduces the need for duplication of technology and utilizes the competitive advantage of each plant more effectively.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124516Z" creationid="Judy" creationdate="20150927T124257Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124516Z">
         <seg>於不同的主要廠房中製造模塊，減少重複的技術需求並更有效地利用各廠房的競爭優勢。</seg>
       </tuv>
     </tu>
@@ -20391,7 +20391,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Margin:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125306Z" creationid="Judy" creationdate="20150927T125306Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125306Z">
         <seg>利潤：</seg>
       </tuv>
     </tu>
@@ -20463,7 +20463,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Market</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120945Z" creationid="Judy" creationdate="20150927T120945Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120945Z">
         <seg>市場聲音</seg>
       </tuv>
     </tu>
@@ -20479,7 +20479,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Market Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122302Z" creationid="Judy" creationdate="20150927T122302Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122302Z">
         <seg>市場需求</seg>
       </tuv>
     </tu>
@@ -20503,7 +20503,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Master Plants</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124307Z" creationid="Judy" creationdate="20150927T124227Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124307Z">
         <seg>主要廠房 (Master Plants)</seg>
       </tuv>
     </tu>
@@ -20839,7 +20839,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Minimized production cost.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123857Z" creationid="Judy" creationdate="20150927T123857Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123857Z">
         <seg>最小化的生產成本</seg>
       </tuv>
     </tu>
@@ -20991,7 +20991,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Architecture</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142617Z" creationid="Judy" creationdate="20150927T142617Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142617Z">
         <seg>模塊化架構</seg>
       </tuv>
     </tu>
@@ -20999,7 +20999,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Concept</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142624Z" creationid="Judy" creationdate="20150927T142624Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142624Z">
         <seg>模塊化概念</seg>
       </tuv>
     </tu>
@@ -21015,7 +21015,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Management AB</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143554Z" creationid="Judy" creationdate="20150927T143554Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143554Z">
         <seg>Modular Management AB (模塊化管理)</seg>
       </tuv>
     </tu>
@@ -21143,7 +21143,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Product Architecture Development – Aligned Gates</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143400Z" creationid="Judy" creationdate="20150927T143319Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143400Z">
         <seg>模塊化產品架構開發 –  對齊階段閘</seg>
       </tuv>
     </tu>
@@ -21167,7 +21167,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Strategy &amp; Potential</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142715Z" creationid="Judy" creationdate="20150927T142715Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142715Z">
         <seg>模塊化策略和潛力</seg>
       </tuv>
     </tu>
@@ -21191,7 +21191,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modular Supply</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142651Z" creationid="Judy" creationdate="20150927T142651Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142651Z">
         <seg>模塊化供應</seg>
       </tuv>
     </tu>
@@ -21247,7 +21247,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Modularity</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121013Z" creationid="Judy" creationdate="20150927T121013Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121013Z">
         <seg>模塊化聲音</seg>
       </tuv>
     </tu>
@@ -21407,7 +21407,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Module system documented in support systems (Product Lifecycle Management, ERP, configurator)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141430Z" creationid="Judy" creationdate="20150927T141430Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141430Z">
         <seg>模塊系統記錄於支援系統中 (產品生命週期管理、ERP、配置器)</seg>
       </tuv>
     </tu>
@@ -21844,7 +21844,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>New Product Development</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122235Z" creationid="Judy" creationdate="20150927T122235Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122235Z">
         <seg>新產品開發</seg>
       </tuv>
     </tu>
@@ -22689,7 +22689,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Number of suppliers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120147Z" creationid="Judy" creationdate="20150927T120147Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120147Z">
         <seg>供應商數量</seg>
       </tuv>
     </tu>
@@ -22777,7 +22777,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>OR Low cost Country</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124020Z" creationid="Judy" creationdate="20150927T124020Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124020Z">
         <seg>或低成本國家</seg>
       </tuv>
     </tu>
@@ -23826,7 +23826,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Order: CTO</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125246Z" creationid="Judy" creationdate="20150927T125246Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125246Z">
         <seg>訂單：CTO</seg>
       </tuv>
     </tu>
@@ -24098,7 +24098,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Output:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120506Z" creationid="Judy" creationdate="20150927T120506Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120506Z">
         <seg>輸出：</seg>
       </tuv>
     </tu>
@@ -24194,7 +24194,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Ownership of future Module System</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125702Z" creationid="Judy" creationdate="20150927T125702Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125702Z">
         <seg>未來模塊系統的擁有權</seg>
       </tuv>
     </tu>
@@ -24274,7 +24274,7 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PALMA™Proprietary Software Supports MFD®…</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122718Z" creationid="Judy" creationdate="20150927T122718Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122718Z">
         <seg>PALMA™
 支援 MFD® 的獨有軟體…</seg>
       </tuv>
@@ -25132,7 +25132,7 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Part of the Atlas Copco Corporation and one of the world’s foremost manufacturers of compaction and paving equipment for road construction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150412Z" creationid="Judy" creationdate="20150927T150343Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150412Z">
         <seg>Atlas Copco 公司的一部分且為世界上首要的壓實和鋪路施工設備製造商之一。</seg>
       </tuv>
     </tu>
@@ -25228,7 +25228,7 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Peab is one of the largest contractors in Europe’s Nordic region for building and home construction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150627Z" creationid="Judy" creationdate="20150927T150627Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150627Z">
         <seg>Peab 是北歐地區建築和住宅建設的最大承包商之一。</seg>
       </tuv>
     </tu>
@@ -25308,7 +25308,7 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Performance:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125330Z" creationid="Judy" creationdate="20150927T125330Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125330Z">
         <seg>性能：</seg>
       </tuv>
     </tu>
@@ -25356,7 +25356,7 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Phone: 	+46 (0)8 4563500</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143606Z" creationid="Judy" creationdate="20150927T143606Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143606Z">
         <seg>電話： 	+46 (0)8 4563500</seg>
       </tuv>
     </tu>
@@ -25500,7 +25500,7 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Platform</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124138Z" creationid="Judy" creationdate="20150927T124138Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124138Z">
         <seg>平台</seg>
       </tuv>
     </tu>
@@ -25877,7 +25877,7 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Possibility to change.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123847Z" creationid="Judy" creationdate="20150927T123847Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123847Z">
         <seg>可能變更</seg>
       </tuv>
     </tu>
@@ -26302,7 +26302,7 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Power:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125033Z" creationid="Judy" creationdate="20150927T125033Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125033Z">
         <seg>電源：</seg>
       </tuv>
     </tu>
@@ -26577,7 +26577,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Proactive program board (modularity implemented as a business principle)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125645Z" creationid="Judy" creationdate="20150927T125645Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125645Z">
         <seg>主動計劃委員 (以商業原則實現模塊化)</seg>
       </tuv>
     </tu>
@@ -26601,7 +26601,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Process Deliverables</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121444Z" creationid="Judy" creationdate="20150927T121444Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T121444Z">
         <seg>流程可實現成果</seg>
       </tuv>
     </tu>
@@ -26641,7 +26641,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Processes, methods and tools</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130117Z" creationid="Judy" creationdate="20150927T130117Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130117Z">
         <seg>流程、方法和工具</seg>
       </tuv>
     </tu>
@@ -26689,7 +26689,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Producing a Modular Architecture</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124126Z" creationid="Judy" creationdate="20150927T124126Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124126Z">
         <seg>建立模塊化架構</seg>
       </tuv>
     </tu>
@@ -26737,7 +26737,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product Implication</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123800Z" creationid="Judy" creationdate="20150927T123221Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123800Z">
         <seg>產品關聯</seg>
       </tuv>
     </tu>
@@ -26793,7 +26793,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product Requirements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122305Z" creationid="Judy" creationdate="20150927T122305Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122305Z">
         <seg>產品要求</seg>
       </tuv>
     </tu>
@@ -26833,7 +26833,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product development process adapted to module system development</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141535Z" creationid="Judy" creationdate="20150927T141535Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141535Z">
         <seg>產品開發流程改造為模塊系統開發</seg>
       </tuv>
     </tu>
@@ -26881,7 +26881,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Production Implication</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123757Z" creationid="Judy" creationdate="20150927T123757Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123757Z">
         <seg>生產關聯</seg>
       </tuv>
     </tu>
@@ -26897,7 +26897,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Production and Supply Chain Strategy</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123929Z" creationid="Judy" creationdate="20150927T123929Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123929Z">
         <seg>生產與供應鏈策略</seg>
       </tuv>
     </tu>
@@ -26977,7 +26977,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Project resource plan</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141711Z" creationid="Judy" creationdate="20150927T141711Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141711Z">
         <seg>專案資源規劃</seg>
       </tuv>
     </tu>
@@ -26985,7 +26985,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Promotes multiple industries and depth within each industry</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144053Z" creationid="Judy" creationdate="20150927T144016Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144053Z">
         <seg>推行多種產業和每種產業中的深度</seg>
       </tuv>
     </tu>
@@ -27276,7 +27276,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Quotation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125210Z" creationid="Judy" creationdate="20150927T125210Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125210Z">
         <seg>報價</seg>
       </tuv>
     </tu>
@@ -27428,7 +27428,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Rate of new part introduction (Reuse)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T112120Z" creationid="Judy" creationdate="20150927T112120Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T112120Z">
         <seg>使用新零件比率 (再利用)</seg>
       </tuv>
     </tu>
@@ -28245,7 +28245,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Resources and</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142029Z" creationid="Judy" creationdate="20150927T142020Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142029Z">
         <seg>資源和</seg>
       </tuv>
     </tu>
@@ -28253,7 +28253,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Resources and competences</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142017Z" creationid="Judy" creationdate="20150927T141657Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142017Z">
         <seg>資源和能力</seg>
       </tuv>
     </tu>
@@ -28383,7 +28383,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Rewards and incentives model aligned with modularization</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130056Z" creationid="Judy" creationdate="20150927T130056Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T130056Z">
         <seg>符合模塊化的獎勵和激勵機制模型</seg>
       </tuv>
     </tu>
@@ -28479,7 +28479,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Roles and responsibilities after implementation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125911Z" creationid="Judy" creationdate="20150927T125911Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125911Z">
         <seg>實施後的角色和職責</seg>
       </tuv>
     </tu>
@@ -28583,7 +28583,7 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>S – Spatial</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144804Z" creationid="Judy" creationdate="20150927T144804Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144804Z">
         <seg>S - 空間</seg>
       </tuv>
     </tu>
@@ -29830,7 +29830,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Selling a Modular Architecture</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125402Z" creationid="Judy" creationdate="20150927T125402Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125402Z">
         <seg>銷售模塊化架構</seg>
       </tuv>
     </tu>
@@ -30382,7 +30382,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Shows activities and accomplishments within each step</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143837Z" creationid="Judy" creationdate="20150927T143837Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143837Z">
         <seg>展示每個步驟中的活動和成就</seg>
       </tuv>
     </tu>
@@ -30520,7 +30520,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Six basic interface-function specifications are useful to this end:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144752Z" creationid="Judy" creationdate="20150927T144752Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144752Z">
         <seg>此處六個基本接口功能規格相當實用：</seg>
       </tuv>
     </tu>
@@ -30712,7 +30712,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Sources of Financial Potential &amp; KPIs</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T112006Z" creationid="Judy" creationdate="20150927T112006Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T112006Z">
         <seg>財務潛在資源和 KPI </seg>
       </tuv>
     </tu>
@@ -30833,7 +30833,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Specification</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124853Z" creationid="Judy" creationdate="20150927T124853Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124853Z">
         <seg>規格</seg>
       </tuv>
     </tu>
@@ -30841,7 +30841,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Specifications</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122609Z" creationid="Judy" creationdate="20150927T122609Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122609Z">
         <seg>規格</seg>
       </tuv>
     </tu>
@@ -31137,7 +31137,7 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Stockholm</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143630Z" creationid="Judy" creationdate="20150927T143630Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143630Z">
         <seg>Stockholm (瑞典，斯德哥爾摩)</seg>
       </tuv>
     </tu>
@@ -31788,7 +31788,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>T – Transfer</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144759Z" creationid="Judy" creationdate="20150927T144759Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144759Z">
         <seg>T - 傳送</seg>
       </tuv>
     </tu>
@@ -36214,7 +36214,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>These complex vehicle systems that are assembled from components from multiple suppliers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150505Z" creationid="Judy" creationdate="20150927T150349Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150505Z">
         <seg>這些複雜的車輛系統由來自多個供應商的元件所組裝。</seg>
       </tuv>
     </tu>
@@ -36479,7 +36479,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>They are the most important control points in the system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145325Z" creationid="Judy" creationdate="20150927T145325Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145325Z">
         <seg>他們在系統中是最重要的控制點。</seg>
       </tuv>
     </tu>
@@ -37476,7 +37476,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Time to Market reduction</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111428Z" creationid="Judy" creationdate="20150927T111428Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111428Z">
         <seg>減少導入市場時間</seg>
       </tuv>
     </tu>
@@ -37484,7 +37484,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Time to market (TTM)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T112134Z" creationid="Judy" creationdate="20150927T112134Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T112134Z">
         <seg>導入市場時間 (TTM)</seg>
       </tuv>
     </tu>
@@ -37881,7 +37881,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Top-line</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111418Z" creationid="Judy" creationdate="20150927T111418Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111418Z">
         <seg>上線</seg>
       </tuv>
     </tu>
@@ -37905,7 +37905,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Total Cost:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125258Z" creationid="Judy" creationdate="20150927T125258Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125258Z">
         <seg>總成本：</seg>
       </tuv>
     </tu>
@@ -37970,7 +37970,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Training program</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141700Z" creationid="Judy" creationdate="20150927T141700Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141700Z">
         <seg>培訓計畫</seg>
       </tuv>
     </tu>
@@ -38243,7 +38243,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Typical Stage Gate New Product Development &amp; Modular Product Architecture Phases</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142238Z" creationid="Judy" creationdate="20150927T142238Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142238Z">
         <seg>典型新產品開發的階段和模塊化產品架構設計階段</seg>
       </tuv>
     </tu>
@@ -38251,7 +38251,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Typical Stage Gate New Product Development Process</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143357Z" creationid="Judy" creationdate="20150927T142800Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143357Z">
         <seg>典型新產品開發流程的階段閘</seg>
       </tuv>
     </tu>
@@ -38787,7 +38787,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Uses a visual that gives the impression of lots of experience</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143950Z" creationid="Judy" creationdate="20150927T143950Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143950Z">
         <seg>提供視覺化的經驗豐富印象</seg>
       </tuv>
     </tu>
@@ -39277,7 +39277,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Visualized on the Product Management Map</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122229Z" creationid="Judy" creationdate="20150927T121400Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122229Z">
         <seg>視覺化產品管理計劃圖</seg>
       </tuv>
     </tu>
@@ -39285,7 +39285,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Voice of</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120931Z" creationid="Judy" creationdate="20150927T120931Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120931Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -39293,7 +39293,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Voltage:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125127Z" creationid="Judy" creationdate="20150927T125127Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125127Z">
         <seg>電壓：</seg>
       </tuv>
     </tu>
@@ -39845,7 +39845,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Website:  http://www.modularmanagement.com</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143643Z" creationid="Judy" creationdate="20150927T143643Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143643Z">
         <seg>網站： http://www.modularmanagement.com</seg>
       </tuv>
     </tu>
@@ -40737,7 +40737,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>With annual revenue over 7 billion USD, the company provides construction services, civil engineering services, industrial products and property development.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150731Z" creationid="Judy" creationdate="20150927T150731Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150731Z">
         <seg>公司提供建築服務、土木工程服務、工業產品和房地產開發，年營收超過 70 億美元。</seg>
       </tuv>
     </tu>
@@ -41738,7 +41738,7 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="EN-US">
         <seg>competences</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142036Z" creationid="Judy" creationdate="20150927T142036Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142036Z">
         <seg>能力</seg>
       </tuv>
     </tu>
@@ -41867,7 +41867,7 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="EN-US">
         <seg>etc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120308Z" creationid="Judy" creationdate="20150927T120308Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120308Z">
         <seg>等等⋯⋯</seg>
       </tuv>
     </tu>
@@ -42925,7 +42925,7 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>… and everything else needed in the total process</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122843Z" creationid="Judy" creationdate="20150927T122843Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122843Z">
         <seg>......以及全部流程中所需的一切</seg>
       </tuv>
     </tu>
