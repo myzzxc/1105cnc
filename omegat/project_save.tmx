@@ -30804,6 +30804,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sheduled Events</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142323Z" creationid="Judy" creationdate="20151008T142323Z">
+        <seg>排程事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sheet metal tools	1600	380	83</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032139Z">
@@ -31290,6 +31298,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125909Z">
         <seg>聲音隨畫面放大以達到完美的匹配效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sounds alarm in case of an event</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142348Z" creationid="Judy" creationdate="20151008T142348Z">
+        <seg>事件發生時發出聲音警報</seg>
       </tuv>
     </tu>
     <tu>
@@ -32229,6 +32245,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports Global Events</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142552Z" creationid="Judy" creationdate="20151008T142552Z">
+        <seg>支援整體事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports LexisNexis CaseMap</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142505Z">
@@ -32257,6 +32281,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142620Z">
         <seg>支援 JavaScript 子集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports alarm input and output</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142359Z" creationid="Judy" creationdate="20151008T142359Z">
+        <seg>支援警報輸入和輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports creation of diverse contacts and groups for receiving e-mail and SMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142524Z" creationid="Judy" creationdate="20151008T142524Z">
+        <seg>支援建立不同的電子郵件和簡訊接收連絡人和群組</seg>
       </tuv>
     </tu>
     <tu>
@@ -41743,6 +41783,22 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081607Z">
         <seg>有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes ( Unlimited)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142613Z" creationid="Judy" creationdate="20151008T142613Z">
+        <seg>有 (無限制)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes ( Up to 24 events)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142611Z" creationid="Judy" creationdate="20151008T142611Z">
+        <seg>有 (最多 24 個事件)</seg>
       </tuv>
     </tu>
     <tu>
