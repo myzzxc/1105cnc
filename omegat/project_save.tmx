@@ -8591,6 +8591,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compatible with Onvif version 1.02 or higher and Onvif Profile-S</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123210Z" creationid="Judy" creationdate="20151008T123210Z">
+        <seg>相容於 Onvif 1.02 以上版本和 Onvif Profile-S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compatible with Portable Battery*2 and USB Charging</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130037Z">
