@@ -15157,6 +15157,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has Master / Slave Architecture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124209Z" creationid="Judy" creationdate="20151008T124209Z">
+        <seg>具有主/副架構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has complete users rights system</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123826Z" creationid="Judy" creationdate="20151008T123602Z">
@@ -15185,6 +15193,30 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123932Z" creationid="Judy" creationdate="20151008T123932Z">
         <seg>具有使用者功能系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has privacy masking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124218Z" creationid="Judy" creationdate="20151008T124218Z">
+        <seg>具有隱私遮罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has server activity log</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124228Z" creationid="Judy" creationdate="20151008T124228Z">
+        <seg>具有伺服器活動日誌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has user profile for live monitoring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124250Z" creationid="Judy" creationdate="20151008T124250Z">
+        <seg>具有即時監視之使用者設定檔</seg>
       </tuv>
     </tu>
     <tu>
@@ -18048,6 +18080,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Integration with Active Directory domain</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124741Z" creationid="Judy" creationdate="20151008T124741Z">
+        <seg>與 Active Directory 網域整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration with Digifort Evidence</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124759Z" creationid="Judy" creationdate="20151008T124759Z">
+        <seg>與 Digifort Evidence 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intellectual and Industrial Property Rights</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181415Z">
@@ -18326,6 +18374,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073622Z">
         <seg>它使公司能結合數個模塊成為更多遠比市場行銷和客戶能想像的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows audit records to be exported.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124832Z" creationid="Judy" creationdate="20151008T124832Z">
+        <seg>允許輸出審查記錄</seg>
       </tuv>
     </tu>
     <tu>
