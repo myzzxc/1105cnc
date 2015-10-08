@@ -32053,6 +32053,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports expansion of cameras via packs (Packs)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135754Z" creationid="Judy" creationdate="20151008T135754Z">
+        <seg>支援透過授權包擴充攝影機 (授權包)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Surface and groundwater, conjunctively managed, are at the centre of climate adaptation strategies, and improved and expanded water storage capacities create buffers for periods of water shortages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T115958Z">
@@ -41495,6 +41503,30 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081607Z">
         <seg>有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (Unlimited)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135851Z" creationid="Judy" creationdate="20151008T135851Z">
+        <seg>有 (無限制)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (Up to 16) Yes (Up to 32)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135840Z" creationid="Judy" creationdate="20151008T135827Z">
+        <seg>有 (最多 16 台) 有 (最多 32 台)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (Up to 64)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135854Z" creationid="Judy" creationdate="20151008T135836Z">
+        <seg>有 (最多 64 台)</seg>
       </tuv>
     </tu>
     <tu>
