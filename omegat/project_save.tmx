@@ -18580,56 +18580,64 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It features a Database management module.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132637Z" creationid="Judy" creationdate="20151008T125827Z">
-        <seg>具有資料庫管理模組的功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133015Z" creationid="Judy" creationdate="20151008T125827Z">
+        <seg>具有資料庫管理模組</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It features a RTSP integrated media server</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132605Z" creationid="Judy" creationdate="20151008T132357Z">
-        <seg>具有整合 RTSP 之媒體伺服器的功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133027Z" creationid="Judy" creationdate="20151008T132357Z">
+        <seg>具有整合 RTSP 之媒體伺服器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It features a full resource for bookmarking for full event scheduling</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132625Z" creationid="Judy" creationdate="20151008T132211Z">
-        <seg>具有為完整事件排程建立書簽之完整資源的功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133019Z" creationid="Judy" creationdate="20151008T132211Z">
+        <seg>具有為完整事件排程建立書簽之完整資源</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It features a privacy mode resource.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132620Z" creationid="Judy" creationdate="20151008T132226Z">
-        <seg>具有隱私模式資源的功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133023Z" creationid="Judy" creationdate="20151008T132226Z">
+        <seg>具有隱私模式資源</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It features an automatic services manager</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132558Z" creationid="Judy" creationdate="20151008T132424Z">
-        <seg>具有自動服務管理員的功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133035Z" creationid="Judy" creationdate="20151008T132424Z">
+        <seg>具有自動服務管理員</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It features an identification of ownership resource.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132553Z" creationid="Judy" creationdate="20151008T132511Z">
-        <seg>具有辨識擁有權資源的功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133039Z" creationid="Judy" creationdate="20151008T132511Z">
+        <seg>具有辨識擁有權資源</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It features complete support for the dewarping of panamorphic lenses</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132530Z" creationid="Judy" creationdate="20151008T132530Z">
-        <seg>具有它的特點完全支援 dewarping panamorphic 鏡頭</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133005Z" creationid="Judy" creationdate="20151008T132530Z">
+        <seg>完全支援全景鏡頭變形修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features support for HTTPS and SSL.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132947Z" creationid="Judy" creationdate="20151008T132947Z">
+        <seg>支援 HTTPS 和 SSL</seg>
       </tuv>
     </tu>
     <tu>
@@ -18710,6 +18718,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T014102Z">
         <seg>其使用Wiznet W5500乙太網路晶片（數據資料表）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is compatible with Unicode characters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133057Z" creationid="Judy" creationdate="20151008T133057Z">
+        <seg>相容 Unicode 字元</seg>
       </tuv>
     </tu>
     <tu>
@@ -18955,10 +18971,26 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports bidirectional and unidirectional audio.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133112Z" creationid="Judy" creationdate="20151008T133112Z">
+        <seg>支援雙向和單向音訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports effective and adaptive decision-making across a broad policy spectrum, including agriculture and food security, energy, industry, financing, environmental protection, public health and public security.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T083332Z">
         <seg>它支援廣泛的政策範圍，其中包括農業和糧食安全、能源、工業、財務、環境保護、 公共衛生和公共安全，能有效並適當調整決策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports notification via HTTP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133130Z" creationid="Judy" creationdate="20151008T133130Z">
+        <seg>支援透過 HTTP 發出通知</seg>
       </tuv>
     </tu>
     <tu>
