@@ -4594,6 +4594,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows live visualization of images of various servers on the same screen</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T143249Z" creationid="Judy" creationdate="20151008T143249Z">
+        <seg>允許同一螢幕即時顯示不同伺服器之圖像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows simultaneous operations (Multi-tasking)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T122953Z" creationid="Judy" creationdate="20151008T122953Z">
