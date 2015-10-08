@@ -15149,10 +15149,18 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has IP Filters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123957Z" creationid="Judy" creationdate="20151008T123957Z">
+        <seg>具有 IP 篩選器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has complete users rights system</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123602Z" creationid="Judy" creationdate="20151008T123602Z">
-        <seg>擁有完整的使用者權限系統</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123826Z" creationid="Judy" creationdate="20151008T123602Z">
+        <seg>具有完整的使用者權限系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -15161,6 +15169,22 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123744Z" creationid="Judy" creationdate="20151008T123716Z">
         <seg>具有圖像篩選器和效果控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has events log</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123817Z" creationid="Judy" creationdate="20151008T123817Z">
+        <seg>具有事件日誌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has features system for users</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123932Z" creationid="Judy" creationdate="20151008T123932Z">
+        <seg>具有使用者功能系統</seg>
       </tuv>
     </tu>
     <tu>
