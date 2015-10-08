@@ -32037,6 +32037,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports Multi-Users</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140207Z" creationid="Judy" creationdate="20151008T140207Z">
+        <seg>支援多使用者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports Open Text eDOCS (Hummingbird Enterprise) Autonomy-Interwoven Worksite, Livelink, NetDocuments, Worldox GX3, Documentum, Xerox DocuShare, Therefore, Office 365 and SharePoint Document Management Systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142251Z">
@@ -32057,6 +32065,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135754Z" creationid="Judy" creationdate="20151008T135754Z">
         <seg>支援透過授權包擴充攝影機 (授權包)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports multi-processor (optimizes tasks dividing the processing among the processors)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140201Z" creationid="Judy" creationdate="20151008T140201Z">
+        <seg>支援多處理器 (於處理器之間劃分處理以最佳化任務)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41515,10 +41531,26 @@ Edit your video afterwards just like the pros do.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes (Up to 16 different users)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140259Z" creationid="Judy" creationdate="20151008T140259Z">
+        <seg>有 (最多 16 名不同使用者)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes (Up to 16) Yes (Up to 32)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135840Z" creationid="Judy" creationdate="20151008T135827Z">
         <seg>有 (最多 16 台) 有 (最多 32 台)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (Up to 4 different users) Yes (Up to 8 different users)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140245Z" creationid="Judy" creationdate="20151008T140245Z">
+        <seg>有 (最多 4 名不同使用者) 有 (最多 8 名不同使用者)</seg>
       </tuv>
     </tu>
     <tu>
