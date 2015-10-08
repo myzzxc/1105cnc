@@ -18546,6 +18546,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the control of the login schedule and system use by the users</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125313Z" creationid="Judy" creationdate="20151008T125313Z">
+        <seg>允許控制使用者的登錄時程和系統使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the distribution of videos through multicast on demand</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125512Z" creationid="Judy" creationdate="20151008T125512Z">
+        <seg>允許透過多點傳送依需求發送影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables you to manage your product platforms over their entire lifecycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131734Z">
