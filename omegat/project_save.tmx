@@ -12105,8 +12105,8 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Enables Biometric Authentication by Digifort - BioPass</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123512Z" creationid="Judy" creationdate="20151008T123500Z">
-        <seg>啟用 Digifort 之生物認證 - BioPass</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125043Z" creationid="Judy" creationdate="20151008T123500Z">
+        <seg>允許使用 Digifort 之生物認證 - BioPass</seg>
       </tuv>
     </tu>
     <tu>
@@ -18526,6 +18526,22 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082934Z">
         <seg>無論貴公司提供何種類型的產品或服務，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables edge recording.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124922Z" creationid="Judy" creationdate="20151008T124922Z">
+        <seg>允許邊緣錄影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables sending e-mails via SMTP with SSL authentication</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125143Z" creationid="Judy" creationdate="20151008T125143Z">
+        <seg>允許透過 SMTP 使用 SSL 驗證發送電子郵件</seg>
       </tuv>
     </tu>
     <tu>
