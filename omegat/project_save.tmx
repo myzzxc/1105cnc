@@ -18580,40 +18580,56 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It features a Database management module.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125827Z" creationid="Judy" creationdate="20151008T125827Z">
-        <seg>具有資料庫管理模組功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132637Z" creationid="Judy" creationdate="20151008T125827Z">
+        <seg>具有資料庫管理模組的功能</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It features a RTSP integrated media server</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132357Z" creationid="Judy" creationdate="20151008T132357Z">
-        <seg>具有整合 RTSP 之媒體伺服器</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132605Z" creationid="Judy" creationdate="20151008T132357Z">
+        <seg>具有整合 RTSP 之媒體伺服器的功能</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It features a full resource for bookmarking for full event scheduling</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132325Z" creationid="Judy" creationdate="20151008T132211Z">
-        <seg>具有為完整事件排程建立書簽之完整資源功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132625Z" creationid="Judy" creationdate="20151008T132211Z">
+        <seg>具有為完整事件排程建立書簽之完整資源的功能</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It features a privacy mode resource.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132320Z" creationid="Judy" creationdate="20151008T132226Z">
-        <seg>具有隱私模式資源功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132620Z" creationid="Judy" creationdate="20151008T132226Z">
+        <seg>具有隱私模式資源的功能</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It features an automatic services manager</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132424Z" creationid="Judy" creationdate="20151008T132424Z">
-        <seg>具有自動服務管理員功能</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132558Z" creationid="Judy" creationdate="20151008T132424Z">
+        <seg>具有自動服務管理員的功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features an identification of ownership resource.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132553Z" creationid="Judy" creationdate="20151008T132511Z">
+        <seg>具有辨識擁有權資源的功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features complete support for the dewarping of panamorphic lenses</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132530Z" creationid="Judy" creationdate="20151008T132530Z">
+        <seg>具有它的特點完全支援 dewarping panamorphic 鏡頭</seg>
       </tuv>
     </tu>
     <tu>
