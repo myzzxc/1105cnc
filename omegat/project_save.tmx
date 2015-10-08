@@ -18965,8 +18965,8 @@ or artistic work embodied therein.</seg>
       <tuv lang="EN-US">
         <seg>It supports TCP and UDP (Unicast and Multicast) protocols.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133218Z" creationid="Judy" creationdate="20151008T133218Z">
-        <seg>支援 TCP 和 UDP (單一播送和多重播送) 協定。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133455Z" creationid="Judy" creationdate="20151008T133218Z">
+        <seg>支援 TCP 和 UDP (單一播送和多重播送) 協定</seg>
       </tuv>
     </tu>
     <tu>
@@ -19866,6 +19866,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065717Z">
         <seg>受制於價格使授權數量有限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limit of connections to server</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133521Z" creationid="Judy" creationdate="20151008T133521Z">
+        <seg>限制伺服器連接數</seg>
       </tuv>
     </tu>
     <tu>
@@ -22939,6 +22947,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051514Z">
         <seg>Nuance® Power PDF 能改變這個情形，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of Alarm Boards</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133627Z" creationid="Judy" creationdate="20151008T133627Z">
+        <seg>警報看板數量</seg>
       </tuv>
     </tu>
     <tu>
@@ -38741,6 +38757,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T140934Z">
         <seg>除非恢復到需求與有限的供給之間的平衡，否則世界將面臨日益嚴重的全球缺水問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlimited</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133524Z" creationid="Judy" creationdate="20151008T133524Z">
+        <seg>無限</seg>
       </tuv>
     </tu>
     <tu>
