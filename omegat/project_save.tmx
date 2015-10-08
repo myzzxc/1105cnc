@@ -4586,6 +4586,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows creation of synoptic map</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142835Z" creationid="Judy" creationdate="20151008T142835Z">
+        <seg>允許建立縱觀影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows simultaneous operations (Multi-tasking)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T122953Z" creationid="Judy" creationdate="20151008T122953Z">
@@ -20154,6 +20162,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063819Z">
         <seg>更多的資訊連結：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Live Monitoring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142713Z" creationid="Judy" creationdate="20151008T142713Z">
+        <seg>即時監控</seg>
       </tuv>
     </tu>
     <tu>
@@ -39891,6 +39907,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Video playback within the alarm pop up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142657Z" creationid="Judy" creationdate="20151008T142657Z">
+        <seg>彈出警報中播放影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View and navigate page thumbnails</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032644Z">
@@ -41803,6 +41827,14 @@ Edit your video afterwards just like the pros do.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes (10 maps)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142925Z" creationid="Judy" creationdate="20151008T142925Z">
+        <seg>有 (10 幅影像)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes (Unlimited)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135851Z" creationid="Judy" creationdate="20151008T135851Z">
@@ -41839,6 +41871,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135854Z" creationid="Judy" creationdate="20151008T135836Z">
         <seg>有 (最多 64 台)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (up to 2 screens)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142859Z" creationid="Judy" creationdate="20151008T142859Z">
+        <seg>有 (最多 2 個螢幕)</seg>
       </tuv>
     </tu>
     <tu>
