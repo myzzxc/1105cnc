@@ -3695,6 +3695,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activates alarm outputs in case of event</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140557Z" creationid="Judy" creationdate="20151008T140557Z">
+        <seg>事件發生時啟動警報輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Directory Rights Management Service</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025717Z">
@@ -8139,6 +8147,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Client / Server</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140322Z" creationid="Judy" creationdate="20151008T140322Z">
+        <seg>用戶端 / 伺服器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Client / Server Client / Server</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140319Z" creationid="Judy" creationdate="20151008T140319Z">
+        <seg>用戶端 / 伺服器用戶端 / 伺服器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Client Installation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T014246Z">
@@ -12575,6 +12599,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025554Z">
         <seg>即使到了今天，當靈感來時，即使他正在休息也會毫不猶豫地進行工作，設計出最新的 DARIO MARTINI ® 款式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Events Support</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140531Z" creationid="Judy" creationdate="20151008T140531Z">
+        <seg>支援事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -32157,6 +32189,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System Architecture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140308Z" creationid="Judy" creationdate="20151008T140308Z">
+        <seg>系統架構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System Audit Report – Supplier Evaluation HUT DQ FP1001</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020200Z">
@@ -41403,6 +41443,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055310Z">
         <seg>工作流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Works with IP Cameras IP e Video Servers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140524Z" creationid="Judy" creationdate="20151008T140524Z">
+        <seg>IP 攝像機 IP e 視訊伺服器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Works with alarm boards</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140406Z" creationid="Judy" creationdate="20151008T140406Z">
+        <seg>警報看板</seg>
       </tuv>
     </tu>
     <tu>
