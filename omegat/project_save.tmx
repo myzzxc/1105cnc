@@ -18562,10 +18562,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables working with Multi Streaming System.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125746Z" creationid="Judy" creationdate="20151008T125746Z">
+        <seg>允許與多重影音串流系統 (Multi Streaming System) 共同使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables you to manage your product platforms over their entire lifecycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T131734Z">
         <seg>此軟體能夠在產品整個生命週期中管理您的產品平台，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features a Database management module.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125827Z" creationid="Judy" creationdate="20151008T125827Z">
+        <seg>具有資料庫管理模組功能</seg>
       </tuv>
     </tu>
     <tu>
