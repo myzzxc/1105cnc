@@ -14725,6 +14725,30 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generates an event if a camera is out of order</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140950Z" creationid="Judy" creationdate="20151008T140950Z">
+        <seg>於攝影機異常時產生成一個事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generates an event upon detection of movement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141024Z" creationid="Judy" creationdate="20151008T141024Z">
+        <seg>偵測到運動時產生一個事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generates an event upon recording failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141050Z" creationid="Judy" creationdate="20151008T141050Z">
+        <seg>錄影失敗時產生一個事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>German</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070340Z">
@@ -15333,6 +15357,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has manual events</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141113Z" creationid="Judy" creationdate="20151008T141113Z">
+        <seg>具有手動事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has privacy masking</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124218Z" creationid="Judy" creationdate="20151008T124218Z">
@@ -15345,6 +15377,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124228Z" creationid="Judy" creationdate="20151008T124228Z">
         <seg>具有伺服器活動日誌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has timer events</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141128Z" creationid="Judy" creationdate="20151008T141128Z">
+        <seg>具有定時事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -18666,10 +18706,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables Event scheduling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141156Z" creationid="Judy" creationdate="20151008T141156Z">
+        <seg>事件排程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables edge recording.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124922Z" creationid="Judy" creationdate="20151008T124922Z">
         <seg>允許邊緣錄影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables motion detection processed directly by the cameras</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141242Z" creationid="Judy" creationdate="20151008T141242Z">
+        <seg>直接由攝影機處理運動偵測</seg>
       </tuv>
     </tu>
     <tu>
