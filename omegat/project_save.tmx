@@ -18586,6 +18586,38 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features a RTSP integrated media server</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132357Z" creationid="Judy" creationdate="20151008T132357Z">
+        <seg>具有整合 RTSP 之媒體伺服器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features a full resource for bookmarking for full event scheduling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132325Z" creationid="Judy" creationdate="20151008T132211Z">
+        <seg>具有為完整事件排程建立書簽之完整資源功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features a privacy mode resource.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132320Z" creationid="Judy" creationdate="20151008T132226Z">
+        <seg>具有隱私模式資源功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features an automatic services manager</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132424Z" creationid="Judy" creationdate="20151008T132424Z">
+        <seg>具有自動服務管理員功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It fits every UNO sized boards, and you can choose among a number of nice colors, as they’re all of the same size and they can all be used on the same type of boards.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120323Z">
