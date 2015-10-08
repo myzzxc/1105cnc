@@ -18546,6 +18546,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows Event reports to be exported.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142253Z" creationid="Judy" creationdate="20151008T142253Z">
+        <seg>允許匯出事件報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows a company to combine a few building blocks – modules - into more products than marketing and customers may imagine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073622Z">
@@ -18556,8 +18564,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It allows audit records to be exported.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124832Z" creationid="Judy" creationdate="20151008T124832Z">
-        <seg>允許輸出審查記錄</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142216Z" creationid="Judy" creationdate="20151008T124832Z">
+        <seg>允許匯出審查記錄</seg>
       </tuv>
     </tu>
     <tu>
@@ -21265,6 +21273,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T134938Z" creationid="Judy" creationdate="20151008T134938Z">
         <seg>Microsoft Windows Server 2003 / 2008 / 2012, 32 &amp; 64 位元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Windows Server 2003 / 2008 / 2012,32 &amp; 64 Bits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142229Z" creationid="Judy" creationdate="20151008T142229Z">
+        <seg>Microsoft Windows Server 2003 / 2008 / 2012,32 &amp; 64 位元</seg>
       </tuv>
     </tu>
     <tu>
@@ -24122,8 +24138,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Opens popup with camera images in case of event</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141856Z" creationid="Judy" creationdate="20151008T141856Z">
-        <seg>於事件中開啟彈出式攝影機影像</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142150Z" creationid="Judy" creationdate="20151008T141856Z">
+        <seg>發生事件時開啟彈出式攝影機影像</seg>
       </tuv>
     </tu>
     <tu>
@@ -26421,8 +26437,8 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Positions PTZ cameras in case of event</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141941Z" creationid="Judy" creationdate="20151008T141941Z">
-        <seg>於事件中定位 PTZ 攝影機</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142137Z" creationid="Judy" creationdate="20151008T141941Z">
+        <seg>發生事件時定位 PTZ 攝影機</seg>
       </tuv>
     </tu>
     <tu>
@@ -30400,6 +30416,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023054Z">
         <seg>不同部門之間來回發送資訊經常造成時間的浪費，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sends an instantaneous message to operator in case of event</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142130Z" creationid="Judy" creationdate="20151008T142041Z">
+        <seg>發生事件時發送即時訊息至管理人員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sends e-mail or SMS in case of event</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142118Z" creationid="Judy" creationdate="20151008T142118Z">
+        <seg>發生事件時發送電子郵件或簡訊</seg>
       </tuv>
     </tu>
     <tu>
