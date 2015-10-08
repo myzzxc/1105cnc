@@ -18963,6 +18963,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports TCP and UDP (Unicast and Multicast) protocols.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133218Z" creationid="Judy" creationdate="20151008T133218Z">
+        <seg>支援 TCP 和 UDP (單一播送和多重播送) 協定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports TCP/UDP and HTTP protocols through a GPRS connection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135143Z">
