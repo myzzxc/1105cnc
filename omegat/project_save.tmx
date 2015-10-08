@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4522,6 +4522,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows simultaneous operations (Multi-tasking)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T122953Z" creationid="Judy" creationdate="20151008T122953Z">
+        <seg>允許同時操作 (多工處理)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows that all captured faces be filed in a database for further research and reporting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060658Z">
@@ -5114,6 +5122,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142643Z">
         <seg>架構驗證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Architecture and Security</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T122921Z" creationid="Judy" creationdate="20151008T122921Z">
+        <seg>架構和安全</seg>
       </tuv>
     </tu>
     <tu>
@@ -5732,6 +5748,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022609Z">
         <seg>關閉產品自動更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic update of changes carried out in the system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123102Z" creationid="Judy" creationdate="20151008T123102Z">
+        <seg>系統中進行變更的自動更新</seg>
       </tuv>
     </tu>
     <tu>
