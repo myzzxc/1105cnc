@@ -12103,6 +12103,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enables Biometric Authentication by Digifort - BioPass</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123512Z" creationid="Judy" creationdate="20151008T123500Z">
+        <seg>啟用 Digifort 之生物認證 - BioPass</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Encourage users to comply with records management protocols Users can easily open and save PDFs to enterprise document management systems directly from the File menu, or in Portfolio mode—all to provide faster, easier access.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045223Z">
@@ -15137,6 +15145,22 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033957Z">
         <seg>交付硬體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has complete users rights system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123602Z" creationid="Judy" creationdate="20151008T123602Z">
+        <seg>擁有完整的使用者權限系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has control for filters and effects on the image</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T123744Z" creationid="Judy" creationdate="20151008T123716Z">
+        <seg>具有圖像篩選器和效果控制</seg>
       </tuv>
     </tu>
     <tu>
