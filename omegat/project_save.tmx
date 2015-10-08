@@ -4674,6 +4674,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternative video profile for motion detection on the server.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140724Z" creationid="Judy" creationdate="20151008T140724Z">
+        <seg>伺服器上運動偵測之替代影像設置檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although IMPERVITE® itself is immune to thermal shock, do NOT thermal shock the heat exchanger with a hot liquid or vapor when it is empty 01' cold nor with a cold fluid when the heat exchanger is hot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T132006Z">
@@ -5642,6 +5650,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050359Z">
         <seg>當雞隻離開冷卻機時也需要特別注意屠宰體溫度的控制，應維持於 4 °C 以下，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audio level detection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140738Z" creationid="Judy" creationdate="20151008T140738Z">
+        <seg>音量偵測</seg>
       </tuv>
     </tu>
     <tu>
@@ -8767,6 +8783,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153113Z">
         <seg>申訴回應時間要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete system of alarms and events</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140812Z" creationid="Judy" creationdate="20151008T140812Z">
+        <seg>警報和事件之完整系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -12599,6 +12623,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025554Z">
         <seg>即使到了今天，當靈感來時，即使他正在休息也會毫不猶豫地進行工作，設計出最新的 DARIO MARTINI ® 款式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Event notifications through HTTP calls</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140902Z" creationid="Judy" creationdate="20151008T140902Z">
+        <seg>透過 HTTP 進行事件通知</seg>
       </tuv>
     </tu>
     <tu>
