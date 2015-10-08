@@ -5044,6 +5044,22 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any resolution (depends on Any resolution (depends on the camera) the camera)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135419Z" creationid="Judy" creationdate="20151008T135419Z">
+        <seg>任何解析度 (取決於攝影機) 任何解析度 (取決於攝影機) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any resolution (depends on the camera)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135424Z" creationid="Judy" creationdate="20151008T135424Z">
+        <seg>任何解析度 (取決於攝影機) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appliances</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082750Z">
@@ -32001,6 +32017,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045632Z">
         <seg>支援作業系統：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports DNS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135429Z" creationid="Judy" creationdate="20151008T135429Z">
+        <seg>支援 DNS</seg>
       </tuv>
     </tu>
     <tu>
