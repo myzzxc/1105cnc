@@ -19002,6 +19002,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features a public mosaic resource.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T014856Z" creationid="Judy" creationdate="20151010T014856Z">
+        <seg>具有分享馬賽克資源之功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features an automatic services manager</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133035Z" creationid="Judy" creationdate="20151008T132424Z">
