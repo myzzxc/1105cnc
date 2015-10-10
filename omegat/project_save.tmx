@@ -32829,6 +32829,38 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports PTZ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070343Z" creationid="Judy" creationdate="20151010T070343Z">
+        <seg>支援 PTZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports PTZ Pattern</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070436Z" creationid="Judy" creationdate="20151010T070436Z">
+        <seg>支援 PTZ 模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports PTZ by joystick</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070416Z" creationid="Judy" creationdate="20151010T070416Z">
+        <seg>支援搖桿控制 PTZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports PTZ by visual joystick</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070428Z" creationid="Judy" creationdate="20151010T070428Z">
+        <seg>支援虛擬搖桿控制 PTZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports Presets</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070235Z" creationid="Judy" creationdate="20151010T070219Z">
@@ -32921,6 +32953,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091945Z">
         <seg>監控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surveillance PTZ analog cameras support patterns</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070537Z" creationid="Judy" creationdate="20151010T070537Z">
+        <seg>監視 PTZ 類比攝影機支援模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -40487,6 +40527,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050130Z">
         <seg>而很少注意到建立和維護用於生成產品的零件價格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video Recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070547Z" creationid="Judy" creationdate="20151010T070547Z">
+        <seg>影像錄製</seg>
       </tuv>
     </tu>
     <tu>
