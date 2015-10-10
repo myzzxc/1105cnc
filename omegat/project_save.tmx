@@ -19242,10 +19242,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the playback of images recorded through 360 degree panamorphic lenses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T073839Z" creationid="Judy" creationdate="20151010T073839Z">
+        <seg>能播放由 360 度全景鏡頭錄製之圖像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables the remote operation of those computers captured on the network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T013205Z" creationid="Judy" creationdate="20151010T013205Z">
         <seg>能對連上網路之電腦進行遠端操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the retrieval of recorded images by using a date and time range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T074131Z" creationid="Judy" creationdate="20151010T074033Z">
+        <seg>能依日期和時間進行錄製之影像檢索</seg>
       </tuv>
     </tu>
     <tu>
