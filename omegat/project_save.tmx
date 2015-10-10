@@ -32549,6 +32549,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suportts PTZ by "Click and Centralize"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070134Z" creationid="Judy" creationdate="20151010T070134Z">
+        <seg>支援 PTZ "點擊並移至中心"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suportts Remote access to server</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135221Z" creationid="Judy" creationdate="20151008T135221Z">
@@ -32679,8 +32687,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Support for PTZ (Pan / Tilt / Zoom)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T065124Z" creationid="Judy" creationdate="20151010T065124Z">
-        <seg>支援 PTZ (平移 / 傾斜 / 變焦)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070037Z" creationid="Judy" creationdate="20151010T065124Z">
+        <seg>PTZ (平移 / 傾斜 / 變焦) 支援</seg>
       </tuv>
     </tu>
     <tu>
@@ -32773,6 +32781,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports Digital PTZ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070157Z" creationid="Judy" creationdate="20151010T070157Z">
+        <seg>支援數位 PTZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports Global Events</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142552Z" creationid="Judy" creationdate="20151008T142552Z">
@@ -32813,10 +32829,26 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports Presets</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070235Z" creationid="Judy" creationdate="20151010T070219Z">
+        <seg>支援預設檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports a subset of JavaScript</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T142620Z">
         <seg>支援 JavaScript 子集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports advanced PTZ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070149Z" creationid="Judy" creationdate="20151010T070149Z">
+        <seg>支援進階 PTZ</seg>
       </tuv>
     </tu>
     <tu>
@@ -42443,6 +42475,14 @@ Edit your video afterwards just like the pros do.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes (Up to 16 presets for camera)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070251Z" creationid="Judy" creationdate="20151010T070230Z">
+        <seg>有 (最多 16 組攝影機預設檔)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes (Up to 16) Yes (Up to 32)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135840Z" creationid="Judy" creationdate="20151008T135827Z">
@@ -42463,6 +42503,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135854Z" creationid="Judy" creationdate="20151008T135836Z">
         <seg>有 (最多 64 台)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (number of presets unlimited)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070313Z" creationid="Judy" creationdate="20151010T070313Z">
+        <seg>有 (預設檔數目無限制)</seg>
       </tuv>
     </tu>
     <tu>
