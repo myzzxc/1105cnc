@@ -19098,6 +19098,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables instant playback of videos from events.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T073525Z" creationid="Judy" creationdate="20151010T073525Z">
+        <seg>事件影像即時重播</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables live and sectorized audio surveillance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T012901Z" creationid="Judy" creationdate="20151010T012901Z">
@@ -19146,6 +19154,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables synchronized video and audio</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T073641Z" creationid="Judy" creationdate="20151010T073551Z">
+        <seg>影像和音訊同步播放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables the authorized user to receive all controls for system operation via web</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062609Z" creationid="Judy" creationdate="20151010T062609Z">
@@ -19166,6 +19182,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T071816Z" creationid="Judy" creationdate="20151010T071816Z">
         <seg>能截取、錄製和播放電腦螢幕畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the choice of playback range of the recorded video</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T073739Z" creationid="Judy" creationdate="20151010T073739Z">
+        <seg>由錄製的影像中選擇播放範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -19206,6 +19230,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062903Z" creationid="Judy" creationdate="20151010T062828Z">
         <seg>能變更報告上的標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the playback of events</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T073754Z" creationid="Judy" creationdate="20151010T073754Z">
+        <seg>事件重播</seg>
       </tuv>
     </tu>
     <tu>
@@ -44046,6 +44078,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094525Z">
         <seg>通過參照接口的物理連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>playback.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T073649Z" creationid="Judy" creationdate="20151010T073649Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
