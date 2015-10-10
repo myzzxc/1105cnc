@@ -19074,6 +19074,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables to export the registry screens from objects from the system's administration client</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064336Z" creationid="Judy" creationdate="20151010T064308Z">
+        <seg>能由系統管理客戶端中的目標物件匯出註冊表畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables to limit simultaneous access to cameras.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T014419Z" creationid="Judy" creationdate="20151010T014419Z">
