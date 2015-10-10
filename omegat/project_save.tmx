@@ -25513,6 +25513,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PTZ lock by priority</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052648Z" creationid="Judy" creationdate="20151010T052648Z">
+        <seg>按優先順序進行 PTZ 鎖定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PUMP SILENCER (2.5" fits all blowers &amp; silencers)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142914Z">
@@ -32505,6 +32513,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142359Z" creationid="Judy" creationdate="20151008T142359Z">
         <seg>支援警報輸入和輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports bilinear redimensioning</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052737Z" creationid="Judy" creationdate="20151010T052737Z">
+        <seg>支援雙線性重新設定尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports creation of different positionings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052829Z" creationid="Judy" creationdate="20151010T052805Z">
+        <seg>支援建立不同的攝影機定位</seg>
       </tuv>
     </tu>
     <tu>
@@ -43190,6 +43214,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034407Z">
         <seg>msiexec.exe 將安裝產品預設語言（英文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of cameras</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052836Z" creationid="Judy" creationdate="20151010T052836Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
