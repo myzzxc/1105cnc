@@ -18914,10 +18914,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the user to configure the display mode of the names and objects in the system's object li</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T014316Z" creationid="Judy" creationdate="20151010T014316Z">
+        <seg>使用者能於系統之目標物件清單中設置名稱和物件的顯示模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables to attach an image from any camera to be sent via e-mail in the detection of an event</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141605Z" creationid="Judy" creationdate="20151008T141605Z">
         <seg>偵測到事件時能由任何攝影機附加圖像以透過電子郵件發送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables to limit simultaneous access to cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T014419Z" creationid="Judy" creationdate="20151010T014419Z">
+        <seg>限制同時存取攝影機</seg>
       </tuv>
     </tu>
     <tu>
