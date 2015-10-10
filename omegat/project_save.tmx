@@ -15349,6 +15349,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has Image Relay Feature*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T011945Z" creationid="Judy" creationdate="20151010T011945Z">
+        <seg>具有影像中繼功能 (Image Relay Feature)*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has Master / Slave Architecture</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124209Z" creationid="Judy" creationdate="20151008T124209Z">
@@ -15413,10 +15421,34 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has resource Virtual Array</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T012103Z" creationid="Judy" creationdate="20151010T012103Z">
+        <seg>具有虛擬陣列 (Virtual Array) 資源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has screenshot tool</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T012113Z" creationid="Judy" creationdate="20151010T012113Z">
+        <seg>具有截圖工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has server activity log</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124228Z" creationid="Judy" creationdate="20151008T124228Z">
         <seg>具有伺服器活動日誌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has support Virtual PTZ in live view</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T012155Z" creationid="Judy" creationdate="20151010T012155Z">
+        <seg>支援及時影像中的虛擬 PTZ </seg>
       </tuv>
     </tu>
     <tu>
