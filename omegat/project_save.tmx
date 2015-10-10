@@ -33301,6 +33301,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports de-interlacing of images</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075859Z" creationid="Judy" creationdate="20151010T075859Z">
+        <seg>支援影像去交錯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports expansion of cameras via packs (Packs)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135754Z" creationid="Judy" creationdate="20151008T135754Z">
@@ -40935,6 +40943,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050130Z">
         <seg>而很少注意到建立和維護用於生成產品的零件價格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video Exportation Formats</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075937Z" creationid="Judy" creationdate="20151010T075937Z">
+        <seg>影像輸出格式</seg>
       </tuv>
     </tu>
     <tu>
