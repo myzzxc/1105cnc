@@ -19386,6 +19386,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features reports with originality codes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T071923Z" creationid="Judy" creationdate="20151010T071923Z">
+        <seg>包含原始程式碼之報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features support for HTTPS and SSL.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132947Z" creationid="Judy" creationdate="20151008T132947Z">
@@ -19783,6 +19791,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141923Z">
         <seg>可用於所有 5 和 10 HP 主軸 (Elte 或 HSD)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It works with recordings in the JPEG, MPEG4, H.263 and H.264 formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072018Z" creationid="Judy" creationdate="20151010T072018Z">
+        <seg>相容於 JPEG、MPEG4、H.263 和 H.264 格式之影像</seg>
       </tuv>
     </tu>
     <tu>
@@ -20642,6 +20658,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133521Z" creationid="Judy" creationdate="20151008T133521Z">
         <seg>限制伺服器連接數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limit or recordings per day</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072046Z" creationid="Judy" creationdate="20151010T072046Z">
+        <seg>每日錄影限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -23088,6 +23112,14 @@ z	Everio MediaBrowser 4 Software Provided
         <seg>No deviation from the plan in this manual shall occur 
 without the documented approval of the appropriate Quality Control personnel.
 未經品質管制人員書面同意，不得違反本手冊所制定之計劃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No limit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072049Z" creationid="Judy" creationdate="20151010T072049Z">
+        <seg>沒有限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -26470,6 +26502,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052612Z" creationid="Judy" creationdate="20151010T052612Z">
         <seg>允許由監控用戶端執行緊急本機錄影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permits image recording in file servers (by network)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072138Z" creationid="Judy" creationdate="20151010T072138Z">
+        <seg>允許錄製影像於伺服器中 (透過網路)</seg>
       </tuv>
     </tu>
     <tu>
