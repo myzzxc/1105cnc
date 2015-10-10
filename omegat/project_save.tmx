@@ -4634,6 +4634,22 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows playback of media on surveillance client</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072750Z" creationid="Judy" creationdate="20151010T072750Z">
+        <seg>允許於監控客戶端上播放影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows saving an image during video reproduction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072836Z" creationid="Judy" creationdate="20151010T072836Z">
+        <seg>允許於影像複製時儲存圖像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows simultaneous operations (Multi-tasking)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T122953Z" creationid="Judy" creationdate="20151008T122953Z">
@@ -33093,6 +33109,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports recording by detection of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072543Z" creationid="Judy" creationdate="20151010T072543Z">
+        <seg>支援動作偵測錄影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports recording by events</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072603Z" creationid="Judy" creationdate="20151010T072603Z">
+        <seg>支援事件錄影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Surface and groundwater, conjunctively managed, are at the centre of climate adaptation strategies, and improved and expanded water storage capacities create buffers for periods of water shortages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T115958Z">
@@ -40691,6 +40723,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Video Reproduction, Export and Look-Up</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072651Z" creationid="Judy" creationdate="20151010T072645Z">
+        <seg>影像複製、匯出和搜尋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Video files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070322Z">
@@ -43854,6 +43894,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121343Z">
         <seg>min††</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>movement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072550Z" creationid="Judy" creationdate="20151010T072550Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
