@@ -936,6 +936,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*Image Relay is a function where the the server captures the camera's images and passes it on to the clients, thus saving camera processing and bandwidth for remote cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080724Z" creationid="Judy" creationdate="20151010T080724Z">
+        <seg>*影像中繼 (Image Relay) 為伺服器截取攝影機之影像並傳送至客戶端之功能，因而能節省遠端之攝影機運算和頻寬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*OPERATION TEST</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140449Z">
@@ -12563,6 +12571,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enterprise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080815Z" creationid="Judy" creationdate="20151010T080815Z">
+        <seg>企業版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enterprise PDF security and rights management</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044347Z">
@@ -12978,6 +12994,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T082946Z">
         <seg>新數據來源的開發、更好的模型和更強大的數據分析方法，以及適應性管理策略的設計，都能有效應對不斷變化的不確定的條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explorer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080756Z" creationid="Judy" creationdate="20151010T080756Z">
+        <seg>入門版</seg>
       </tuv>
     </tu>
     <tu>
@@ -28359,6 +28383,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Professional</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080804Z" creationid="Judy" creationdate="20151010T080804Z">
+        <seg>專業版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Programming</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133444Z">
@@ -32523,6 +32555,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T134206Z">
         <seg>圖章 / 浮水印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080800Z" creationid="Judy" creationdate="20151010T080800Z">
+        <seg>標準版</seg>
       </tuv>
     </tu>
     <tu>
