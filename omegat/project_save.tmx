@@ -19322,6 +19322,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables to advance and rewind the video</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T074554Z" creationid="Judy" creationdate="20151010T074454Z">
+        <seg>能快轉和倒退影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables to attach an image from any camera to be sent via e-mail in the detection of an event</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141605Z" creationid="Judy" creationdate="20151008T141605Z">
@@ -19338,6 +19346,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables to fast forward and rewind the video to the next bookmark.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T074546Z" creationid="Judy" creationdate="20151010T074546Z">
+        <seg>能夠快轉和倒退影像至下一個書簽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables to import any object from other Digifort servers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064451Z" creationid="Judy" creationdate="20151010T064451Z">
@@ -19350,6 +19366,22 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T014419Z" creationid="Judy" creationdate="20151010T014419Z">
         <seg>限制同時存取攝影機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables to limit video playback and export</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T074635Z" creationid="Judy" creationdate="20151010T074635Z">
+        <seg>能限制影像播放和匯出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables to resize the video during export to AVI</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T074718Z" creationid="Judy" creationdate="20151010T074718Z">
+        <seg>能於匯出 AVI 調整影像大小</seg>
       </tuv>
     </tu>
     <tu>
