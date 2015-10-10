@@ -12247,6 +12247,22 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enables automatic updating of Customer Monitoring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T011707Z" creationid="Judy" creationdate="20151010T011707Z">
+        <seg>客戶監控自動更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables the creation of presets Customer Monitoring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T011757Z" creationid="Judy" creationdate="20151010T011757Z">
+        <seg>建立客戶監控預設值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Encourage users to comply with records management protocols Users can easily open and save PDFs to enterprise document management systems directly from the File menu, or in Portfolio mode—all to provide faster, easier access.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T045223Z">
@@ -15337,6 +15353,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124209Z" creationid="Judy" creationdate="20151008T124209Z">
         <seg>具有主/副架構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has automatic view dimensioning</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T011852Z" creationid="Judy" creationdate="20151010T011852Z">
+        <seg>自動監視畫面尺寸分配</seg>
       </tuv>
     </tu>
     <tu>
