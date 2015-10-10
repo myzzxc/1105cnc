@@ -18978,6 +18978,30 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the authorized user to receive all controls for system operation via web</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062609Z" creationid="Judy" creationdate="20151010T062609Z">
+        <seg>允許授權的使用者透過網路進行所有的系統操作控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the automatic location of cameras that use the ONVIF protocol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062715Z" creationid="Judy" creationdate="20151010T062715Z">
+        <seg>允許使用 ONVIF 協定之攝影機的自動位址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the configuration of the audio buffer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062740Z" creationid="Judy" creationdate="20151010T062740Z">
+        <seg>能設置音訊緩衝區</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables the control of the login schedule and system use by the users</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125313Z" creationid="Judy" creationdate="20151008T125313Z">
@@ -18998,6 +19022,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125512Z" creationid="Judy" creationdate="20151008T125512Z">
         <seg>允許透過多點傳送依需求發送影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the logo on reports to be changed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062828Z" creationid="Judy" creationdate="20151010T062828Z">
+        <seg>能變更報告上的圖示It enables the logo on reports to be changed</seg>
       </tuv>
     </tu>
     <tu>
