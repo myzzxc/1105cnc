@@ -19402,6 +19402,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables video playback acceleration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075109Z" creationid="Judy" creationdate="20151010T075109Z">
+        <seg>能加速影像播放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables video playback in Multi-thread.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075147Z" creationid="Judy" creationdate="20151010T075147Z">
+        <seg>能同時播放多個影像畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables viewing information on camera status on the surveillance client</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T014521Z" creationid="Judy" creationdate="20151010T014521Z">
@@ -19498,6 +19514,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features a recorded image time line</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075224Z" creationid="Judy" creationdate="20151010T075224Z">
+        <seg>具有錄製圖像時間表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features an audit system for user actions and server connections</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064721Z" creationid="Judy" creationdate="20151010T064721Z">
@@ -19526,6 +19550,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052428Z" creationid="Judy" creationdate="20151010T052428Z">
         <seg>監控用戶端之目標物件篩選器功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features audited media export</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075301Z" creationid="Judy" creationdate="20151010T075301Z">
+        <seg>審核媒體匯出功能</seg>
       </tuv>
     </tu>
     <tu>
