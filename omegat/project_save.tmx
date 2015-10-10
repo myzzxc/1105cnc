@@ -19186,6 +19186,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features Virtual PTZ for fixed and mobile cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T065503Z" creationid="Judy" creationdate="20151010T065503Z">
+        <seg>具有供固定式或移動式攝影機使用之虛擬 PTZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features a Database management module.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133015Z" creationid="Judy" creationdate="20151008T125827Z">
@@ -19318,6 +19326,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132935Z">
         <seg>其中提供了跨功能檢視產品類別，於整個模塊功能展開程序中將關鍵資訊傳送到市場行銷、生產和工程師手上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has advanced settings for joystick</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T065541Z" creationid="Judy" creationdate="20151010T065541Z">
+        <seg>具有操縱桿之進階設定</seg>
       </tuv>
     </tu>
     <tu>
