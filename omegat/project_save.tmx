@@ -18994,6 +18994,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables Failover and Failback configuration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T071255Z" creationid="Judy" creationdate="20151010T071255Z">
+        <seg>具有故障切換和故障回復設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables audio recording on the formats: PCM, G.711, G.726 and AAC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T071009Z" creationid="Judy" creationdate="20151010T071009Z">
+        <seg>支援音訊錄製格式：PCM、G.711、G.726 和 AAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables edge recording.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124922Z" creationid="Judy" creationdate="20151008T124922Z">
