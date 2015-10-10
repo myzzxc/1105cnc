@@ -19034,6 +19034,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables increasing the frame rate whenever motion is detected on the images</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T071532Z" creationid="Judy" creationdate="20151010T071532Z">
+        <seg>當偵測到影像上有動作時能增加畫面速率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables live and sectorized audio surveillance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T012901Z" creationid="Judy" creationdate="20151010T012901Z">
