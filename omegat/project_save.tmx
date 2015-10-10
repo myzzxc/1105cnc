@@ -15373,6 +15373,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Had disk allotment for the automatic disk management system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070652Z" creationid="Judy" creationdate="20151010T070652Z">
+        <seg>自動硬碟管理系統之硬碟分配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Handling and taking immediate action following a complaint at the HUTCHINSON site must be performed within 48 hours after it is issued.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T152811Z">
@@ -15425,6 +15433,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124209Z" creationid="Judy" creationdate="20151008T124209Z">
         <seg>具有主/副架構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has automatic disk management system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070704Z" creationid="Judy" creationdate="20151010T070704Z">
+        <seg>具有自動硬碟管理系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -15565,6 +15581,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has system of digital certificate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070755Z" creationid="Judy" creationdate="20151010T070755Z">
+        <seg>具有數位憑證系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has timer events</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141128Z" creationid="Judy" creationdate="20151008T141128Z">
@@ -15577,6 +15601,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T012235Z" creationid="Judy" creationdate="20151010T012235Z">
         <seg>具有攝影機捷徑之工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has tool for test of detection of movement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070852Z" creationid="Judy" creationdate="20151010T070852Z">
+        <seg>具有測試動作偵測的工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -15769,6 +15801,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123514Z">
         <seg>高差異性和新變形的非預期風險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High-performance data bank</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070920Z" creationid="Judy" creationdate="20151010T070920Z">
+        <seg>高效能資料庫</seg>
       </tuv>
     </tu>
     <tu>
