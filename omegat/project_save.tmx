@@ -4610,6 +4610,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows applying configurations to a set of cameras simultaneously</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053336Z" creationid="Judy" creationdate="20151010T053336Z">
+        <seg>允許同時套用設置至多台攝影機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows creation of synoptic map</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142835Z" creationid="Judy" creationdate="20151008T142835Z">
@@ -4646,6 +4654,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T064043Z">
         <seg>利用客戶端--伺服器架構來平均分配分析之運算到多台伺服器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows the location of the cameras and automatic registration for UPnP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053436Z" creationid="Judy" creationdate="20151010T053436Z">
+        <seg>允許 UPnP 之攝影機位址和自動註冊</seg>
       </tuv>
     </tu>
     <tu>
@@ -5876,6 +5892,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155949Z">
         <seg>自動進給鑽頭可添加至幾乎任何刀架組態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic location of recording servers on the local network</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053539Z" creationid="Judy" creationdate="20151010T053539Z">
+        <seg>本地網路上之錄影伺服器之自動位址</seg>
       </tuv>
     </tu>
     <tu>
