@@ -15493,6 +15493,30 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has programming of alarm actions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064945Z" creationid="Judy" creationdate="20151010T064945Z">
+        <seg>具有程式化警報操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has programming of image recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T065016Z" creationid="Judy" creationdate="20151010T065016Z">
+        <seg>具有程式化圖像記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has programming of image transmission</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T065031Z" creationid="Judy" creationdate="20151010T065031Z">
+        <seg>具有程式化圖像傳輸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has resource Virtual Array</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T012103Z" creationid="Judy" creationdate="20151010T012103Z">
@@ -19222,6 +19246,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141727Z" creationid="Judy" creationdate="20151008T141727Z">
         <seg>針對性警報事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features manual or automatic system configuration Backup.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064735Z" creationid="Judy" creationdate="20151010T064735Z">
+        <seg>具有手動或自動系統組態備份</seg>
       </tuv>
     </tu>
     <tu>
@@ -30844,6 +30876,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sends report of functioning of the server</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064814Z" creationid="Judy" creationdate="20151010T064814Z">
+        <seg>發送伺服器之運作情形報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sensitivity to freezing/thawing conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T120648Z">
@@ -31498,6 +31538,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124514Z">
         <seg>同步錄製 Full HD 高畫質影片 &amp; 兩百萬畫素靜態影像
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simultaneous user access limit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064832Z" creationid="Judy" creationdate="20151010T064832Z">
+        <seg>使用者同時存取限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -39885,6 +39933,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153359Z">
         <seg>對使用者友善之手持式控制器可方便操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User groups</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064840Z" creationid="Judy" creationdate="20151010T064840Z">
+        <seg>使用者群組</seg>
       </tuv>
     </tu>
     <tu>
