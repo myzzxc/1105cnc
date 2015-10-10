@@ -19386,6 +19386,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables to search, by the code of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075003Z" creationid="Judy" creationdate="20151010T074848Z">
+        <seg>能依原始代碼搜尋報告中生成之圖像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables to zoom different areas of the screen</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075035Z" creationid="Judy" creationdate="20151010T075035Z">
+        <seg>能放大螢幕上不同的區域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables viewing information on camera status on the surveillance client</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T014521Z" creationid="Judy" creationdate="20151010T014521Z">
@@ -19540,8 +19556,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It features reports with originality codes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T071923Z" creationid="Judy" creationdate="20151010T071923Z">
-        <seg>包含原始程式碼之報告</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T074823Z" creationid="Judy" creationdate="20151010T071923Z">
+        <seg>能生成包含原始代碼之報告</seg>
       </tuv>
     </tu>
     <tu>
@@ -44134,6 +44150,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020319Z">
         <seg>於專案進行中，依 HUTCHINSON 要求或自發進行所有管控的組織。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>originality, an image generated in a report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075007Z" creationid="Judy" creationdate="20151010T075007Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
