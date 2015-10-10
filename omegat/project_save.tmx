@@ -26714,6 +26714,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permits printing of an image during reprodutionof the video with event description</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075434Z" creationid="Judy" creationdate="20151010T075434Z">
+        <seg>能於複製影像時印出包含事件說明之圖像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permits viewing video by time bar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T134908Z" creationid="Judy" creationdate="20151008T134908Z">
@@ -29443,6 +29451,30 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reproduces video by date and time range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075501Z" creationid="Judy" creationdate="20151010T075501Z">
+        <seg>依日期和時間範圍複製影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reproduces video by fixed time range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075540Z" creationid="Judy" creationdate="20151010T075540Z">
+        <seg>依固定時間範圍複製影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reproducion of cameras simultaneously</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075558Z" creationid="Judy" creationdate="20151010T075558Z">
+        <seg>同時複製攝影機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050939Z">
@@ -31946,6 +31978,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064832Z" creationid="Judy" creationdate="20151010T064832Z">
         <seg>使用者同時存取限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simultaneous video playback on the surveillance client</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075650Z" creationid="Judy" creationdate="20151010T075650Z">
+        <seg>於監控客戶端上同時播放影像數量</seg>
       </tuv>
     </tu>
     <tu>
