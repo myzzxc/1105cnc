@@ -18794,6 +18794,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It blocks access to the system after x invalid attempts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062338Z" creationid="Judy" creationdate="20151010T062338Z">
+        <seg>在 x 次無效嘗試之後會阻檔對系統的存取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can also be used forcutting vinyl on large format flex faced signs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T032827Z">
@@ -18874,6 +18882,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It displays the name of the operator who is connected to the surveillance client</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062428Z" creationid="Judy" creationdate="20151010T062428Z">
+        <seg>顯示連接到監控用戶端之操作人員的名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It does the same with the person with the red top and the people are tracked correctly after coming together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T121904Z">
@@ -18910,6 +18926,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124922Z" creationid="Judy" creationdate="20151008T124922Z">
         <seg>允許邊緣錄影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables image cropping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062452Z" creationid="Judy" creationdate="20151010T062452Z">
+        <seg>能進行影像裁剪</seg>
       </tuv>
     </tu>
     <tu>
