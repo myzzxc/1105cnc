@@ -15485,6 +15485,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has built-in web server</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080054Z" creationid="Judy" creationdate="20151010T080054Z">
+        <seg>內建網站伺服器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has calculator for calculation of storage</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053735Z" creationid="Judy" creationdate="20151010T053735Z">
@@ -19190,6 +19198,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T073739Z" creationid="Judy" creationdate="20151010T073739Z">
         <seg>由錄製的影像中選擇播放範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the configuration of a standard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080225Z" creationid="Judy" creationdate="20151010T080225Z">
+        <seg>能設置監視之媒體和相片匯出的標準資料夾路徑</seg>
       </tuv>
     </tu>
     <tu>
@@ -41643,6 +41659,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Web Server</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080320Z" creationid="Judy" creationdate="20151010T080320Z">
+        <seg>網站伺服器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Web access needed for product registration, activation, Dragon Notes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064604Z">
@@ -43793,6 +43817,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>directory for media and photo export in the</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080229Z" creationid="Judy" creationdate="20151010T080229Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>don't forget to fill IN/EX column</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153832Z">
@@ -44414,6 +44446,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034837Z">
         <seg>不顯示任何使用者介面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>surveillance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080239Z" creationid="Judy" creationdate="20151010T080239Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
