@@ -28802,6 +28802,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recording by movement allows definition of various areas sensitive to movement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072325Z" creationid="Judy" creationdate="20151010T072325Z">
+        <seg>動作錄影允許定義不同對動作敏感之區域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130222Z">
@@ -33029,6 +33037,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports buffer for pre/post alarm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072401Z" creationid="Judy" creationdate="20151010T072401Z">
+        <seg>支援警報前後之緩衝區</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports creation of different positionings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052829Z" creationid="Judy" creationdate="20151010T052805Z">
@@ -33049,6 +33065,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135754Z" creationid="Judy" creationdate="20151008T135754Z">
         <seg>支援透過授權包擴充攝影機 (授權包)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports filing of recordings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072520Z" creationid="Judy" creationdate="20151010T072520Z">
+        <seg>支援錄影歸檔</seg>
       </tuv>
     </tu>
     <tu>
@@ -42643,6 +42667,14 @@ Edit your video afterwards just like the pros do.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes (Up to 10 seconds)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072442Z" creationid="Judy" creationdate="20151010T072422Z">
+        <seg>有 (最長 10 秒)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes (Up to 16 different users)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140259Z" creationid="Judy" creationdate="20151008T140259Z">
@@ -42671,6 +42703,22 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140245Z" creationid="Judy" creationdate="20151008T140245Z">
         <seg>有 (最多 4 名不同使用者) 有 (最多 8 名不同使用者)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (Up to 5 seconds)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072439Z" creationid="Judy" creationdate="20151010T072418Z">
+        <seg>有 (最長 5 秒)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (Up to 60 seconds)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072433Z" creationid="Judy" creationdate="20151010T072433Z">
+        <seg>有 (最長 60 秒)</seg>
       </tuv>
     </tu>
     <tu>
