@@ -2313,6 +2313,30 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7 Native</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053200Z" creationid="Judy" creationdate="20151010T053119Z">
+        <seg>7 組原生樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7 Native with support for creation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053223Z" creationid="Judy" creationdate="20151010T053223Z">
+        <seg>7 組原生樣式並支援新增樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7 Native with support for creation of 2 new</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053158Z" creationid="Judy" creationdate="20151010T053158Z">
+        <seg>7 組原生樣式並支援新增兩組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75% reduction in rework</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150926T085908Z">
@@ -20966,6 +20990,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Management</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053227Z" creationid="Judy" creationdate="20151010T053227Z">
+        <seg>管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Management personnel responsible for approving the initial quality manual shall also review and approve all revisions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T052524Z">
@@ -32485,6 +32517,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports Multi-Monitor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052945Z" creationid="Judy" creationdate="20151010T052945Z">
+        <seg>支援多顯示器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports Multi-Users</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140207Z" creationid="Judy" creationdate="20151008T140207Z">
@@ -32545,6 +32585,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135754Z" creationid="Judy" creationdate="20151008T135754Z">
         <seg>支援透過授權包擴充攝影機 (授權包)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports live Detection of Movement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052932Z" creationid="Judy" creationdate="20151010T052932Z">
+        <seg>支援即時動作偵測 (Detection of Movement) </seg>
       </tuv>
     </tu>
     <tu>
@@ -38807,6 +38855,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool has virtual keyboard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053023Z" creationid="Judy" creationdate="20151010T053023Z">
+        <seg>工具具有虛擬鍵盤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tooling Option</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091740Z">
@@ -40159,6 +40215,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T040239Z">
         <seg>由來源文件 —— 例如 Microsoft Word、Excel、PowerPoint、WordPerfect、JPG、BMP、TIF、或 XPS —— 檢視和選擇頁面，並插入至目的文件檔，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View styles for live monitoring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053052Z" creationid="Judy" creationdate="20151010T053052Z">
+        <seg>即時監控之檢視樣式</seg>
       </tuv>
     </tu>
     <tu>
@@ -42055,6 +42119,30 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142925Z" creationid="Judy" creationdate="20151008T142925Z">
         <seg>有 (10 幅影像)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (Eight)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053015Z" creationid="Judy" creationdate="20151010T053015Z">
+        <seg>有 (八台)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (Four)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053008Z" creationid="Judy" creationdate="20151010T053008Z">
+        <seg>有 (四台)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes (Two)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052959Z" creationid="Judy" creationdate="20151010T052959Z">
+        <seg>有 (兩台)</seg>
       </tuv>
     </tu>
     <tu>
