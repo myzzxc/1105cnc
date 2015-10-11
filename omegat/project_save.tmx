@@ -18970,6 +18970,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows recording of redundant Databases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132455Z" creationid="Judy" creationdate="20151011T132455Z">
+        <seg>允許錄製多餘的資料庫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows searching and reproducing videos, via the bookmark, which are on the time line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T095812Z" creationid="Judy" creationdate="20151011T095812Z">
@@ -19006,6 +19014,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T105123Z" creationid="Judy" creationdate="20151011T104858Z">
         <seg>允許於偵測到動作時自動建立書籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows the configuration of Failover 1 to 1, 1 to N, and N to N.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132622Z" creationid="Judy" creationdate="20151011T132622Z">
+        <seg>允許設定 1 對 1、1 對 N 以及 N 對 N 組故障切換。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19678,6 +19694,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064607Z" creationid="Judy" creationdate="20151010T064607Z">
         <seg>註冊攝影機後能選擇欄位以改善目標物件的識別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features Failover and Failback without human intervention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132516Z" creationid="Judy" creationdate="20151011T132516Z">
+        <seg>具有自動故障切換和故障回復設置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37173,6 +37197,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135455Z">
         <seg>最新版擴充電路板使用Arduino UNO電路板(rev 3)之1.0針腳排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The motion sensor for recording allows the selection of unlimited areas, sensitive or insensitive, to movement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132401Z" creationid="Judy" creationdate="20151011T132401Z">
+        <seg>動作錄影允許選擇無限制對動作敏感或不敏感之區域。</seg>
       </tuv>
     </tu>
     <tu>
