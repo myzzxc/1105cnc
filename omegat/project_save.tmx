@@ -18938,6 +18938,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows blocking and terminating accounts of users imported from the Active Directory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T091549Z" creationid="Judy" creationdate="20151011T091549Z">
+        <seg>允許阻檔並終止由 Active Directory 匯入之使用者帳戶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows concurrent operations such as recording, video playback, system configuration, live surveillance, event search, image search, server monitoring and several other tasks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022641Z" creationid="Judy" creationdate="20151011T022641Z">
@@ -31152,6 +31160,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015609Z">
         <seg>第五節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secure access system via user name and password, access to AD (Windows Active Directory), restricted by date and time, and the computer that may be accessed, as well as confirmation by biometrics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T091441Z" creationid="Judy" creationdate="20151011T091441Z">
+        <seg>透過使用者名稱和密碼安全存取 AD (Windows Active Directory)，依日期和時間以及可能存取之電腦進行限制，也可以使用生物認證進行驗證。</seg>
       </tuv>
     </tu>
     <tu>
