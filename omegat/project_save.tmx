@@ -20395,6 +20395,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports recording schedule per hour and day of the week.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132821Z" creationid="Judy" creationdate="20151011T132821Z">
+        <seg>支援每小時以及每週固定日期排程錄影。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports recording speed and live display of 30 frames or more per camera.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132049Z" creationid="Judy" creationdate="20151011T132049Z">
