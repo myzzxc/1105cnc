@@ -20355,6 +20355,30 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports recording by motion detection and Events.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132220Z" creationid="Judy" creationdate="20151011T132220Z">
+        <seg>支援動作偵測和事件錄影。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports recording of an unlimited number of cameras per server.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132206Z" creationid="Judy" creationdate="20151011T132206Z">
+        <seg>每台伺服器支援無限多台攝影機錄影。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports recording speed and live display of 30 frames or more per camera.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132049Z" creationid="Judy" creationdate="20151011T132049Z">
+        <seg>每台攝影機支援以 30 幀以上之錄影速率和即時顯示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports up to eight  simultaneous socket connections.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T015158Z">
