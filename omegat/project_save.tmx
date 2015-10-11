@@ -18946,6 +18946,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows sharing the same user base with all servers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025042Z" creationid="Judy" creationdate="20151011T025042Z">
+        <seg>能在所有伺服器中共用使用者群組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows system expansion by using additional licenses.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024816Z" creationid="Judy" creationdate="20151011T024816Z">
@@ -19578,6 +19586,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features Slave and Master Server architecture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024928Z" creationid="Judy" creationdate="20151011T024928Z">
+        <seg>具有主副伺服器架構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features Virtual PTZ for fixed and mobile cameras.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T065503Z" creationid="Judy" creationdate="20151010T065503Z">
@@ -19694,6 +19710,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075301Z" creationid="Judy" creationdate="20151010T075301Z">
         <seg>審核媒體匯出功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features automatic update of surveillance clients.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025115Z" creationid="Judy" creationdate="20151011T025115Z">
+        <seg>具有監視用戶端自動更新功能。</seg>
       </tuv>
     </tu>
     <tu>
