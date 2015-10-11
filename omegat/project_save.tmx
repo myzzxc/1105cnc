@@ -10341,6 +10341,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DATASHEET ENTERPRISE EDITION Version 7.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T014728Z" creationid="Judy" creationdate="20151011T014728Z">
+        <seg>企業版 7.0 版產品資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DATE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125808Z">
@@ -11060,6 +11068,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T052925Z">
         <seg>數位I/O針腳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Digital Security System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T014621Z" creationid="Judy" creationdate="20151011T014621Z">
+        <seg>數位安全系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -33574,6 +33590,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T034419Z">
         <seg>系統需求：自訂工具組需要用戶端電腦上已至少安裝 Microsoft Windows Installer (MSI) 3.1 和 Windows .Net 4.0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System resources description</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T014628Z" creationid="Judy" creationdate="20151011T014628Z">
+        <seg>系統資源說明</seg>
       </tuv>
     </tu>
     <tu>
