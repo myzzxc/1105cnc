@@ -18970,6 +18970,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the RTSP media server to be integrated with third-party systems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T031647Z" creationid="Judy" creationdate="20151011T031647Z">
+        <seg>允許 RTSP 媒體伺服器與第三方系統整合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the distribution of videos via multicast on demand.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025603Z" creationid="Judy" creationdate="20151011T025603Z">
@@ -19838,6 +19846,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024134Z" creationid="Judy" creationdate="20151011T024134Z">
         <seg>具有 IP 篩選器資源，僅有授權 IP 能存取伺服器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has an integrated RTSP media server that may be used to provide media to any player that supports the RTSP protocol, besides also being able to send media to broadcast servers such as Wowza.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T031542Z" creationid="Judy" creationdate="20151011T031542Z">
+        <seg>具有整合式 RTSP 媒體伺服器，用以放送至任何支援 RTSP 協定之播放器，除此之外，也能發送媒體至如 Wowza 等廣播伺服器。</seg>
       </tuv>
     </tu>
     <tu>
