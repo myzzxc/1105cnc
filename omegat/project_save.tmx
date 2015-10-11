@@ -19658,6 +19658,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features a database management module in which the administrator may perform a backup of the system's database, restore this database and repair a corrupted file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T032021Z" creationid="Judy" creationdate="20151011T032021Z">
+        <seg>具有資料庫管理模組，管理員可以執行系統資料庫的備份、還原以及修復損毀的檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features a full resource for bookmarking for full event scheduling</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133019Z" creationid="Judy" creationdate="20151008T132211Z">
