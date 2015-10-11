@@ -19706,6 +19706,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features an automatic service manager in which the status of each available system service is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T030647Z" creationid="Judy" creationdate="20151011T030647Z">
+        <seg>具有自動服務管理員顯示出可用系統服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features an automatic services manager</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133035Z" creationid="Judy" creationdate="20151008T132424Z">
