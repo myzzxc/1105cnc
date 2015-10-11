@@ -37819,6 +37819,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The scheduling allows the administrator to specify the image recording method for each time range (Without Recording, By Movement, By Event, By Movement and Event) of each camera.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T133144Z" creationid="Judy" creationdate="20151011T133144Z">
+        <seg>管理員能於排程中指定每段時間範圍內每台攝影機的影像錄製方法 (無錄影、依動作偵測、依事件、依動作和事件)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The security plan shall be regularly updated and take into account the specific risks of each project.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190822Z">
