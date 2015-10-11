@@ -20067,6 +20067,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It works with IP and analog cameras connected to a video server or integrated DVR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022246Z" creationid="Judy" creationdate="20151011T022246Z">
+        <seg>IP 攝像機 IP e 視訊伺服器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It works with recordings in the JPEG, MPEG4, H.263 and H.264 formats.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072018Z" creationid="Judy" creationdate="20151010T072018Z">
@@ -32214,6 +32222,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Software Architecture:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022216Z" creationid="Judy" creationdate="20151011T022216Z">
+        <seg>軟體架構：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Software activation turned off</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022543Z">
@@ -37463,6 +37479,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091927Z">
         <seg>管路大小則取決於選購之配件，如以下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The software features Windows based user-friendly graphical interface and the display of screen, functions, menu, and windows help.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022149Z" creationid="Judy" creationdate="20151011T022018Z">
+        <seg>軟體具有以 Windows 為基礎的圖形介面和顯示螢幕畫面、功能、功能表以及 Windows 説明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42897,8 +42921,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Works with IP Cameras IP e Video Servers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140524Z" creationid="Judy" creationdate="20151008T140524Z">
-        <seg>IP 攝像機 IP e 視訊伺服器</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022256Z" creationid="Judy" creationdate="20151008T140524Z">
+        <seg>IP 攝影機 IP e 視訊伺服器</seg>
       </tuv>
     </tu>
     <tu>
