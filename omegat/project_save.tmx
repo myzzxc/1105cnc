@@ -11040,6 +11040,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digifort Enterprise enables the use of a wide variety of IP Cameras and Video Servers from different manufacturers, thus enabling the choice of the hardware set that best meets the needs of the customer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T015905Z" creationid="Judy" creationdate="20151011T015905Z">
+        <seg>Digifort 企業版能使用各式各樣來自不同的製造商的 IP 攝影機和視訊伺服器，因而最能滿足客戶的硬體選擇需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digifort LPR allows you reliably identify vehicles with restrictions (stolen car, not licensed, unpaid fines, etc...), alerting the authorities when they´ve passed through inspection, allowing immediate action such as seizure of the vehicle, surrender of passengers and any other action.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T083709Z">
