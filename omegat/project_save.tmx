@@ -36673,6 +36673,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The disk management system also offers a disk quota system, with the option of limiting the amount of disk to be used, sharing this quota with all cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T135431Z" creationid="Judy" creationdate="20151011T135431Z">
+        <seg>磁碟管理系統還提供磁碟容量分配系統，其中具有限制使用磁碟容量之選項，所有的攝影幾共用此容量分配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The document describes all parameters and installer options that you may want to use during product setup.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T021156Z">
