@@ -18946,6 +18946,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows e-mails to be sent through SMTP to make use of servers with SSL authentication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025652Z" creationid="Judy" creationdate="20151011T025652Z">
+        <seg>允許透過 SMTP 使用伺服器 SSL 驗證發送電子郵件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows sharing the same user base with all servers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025042Z" creationid="Judy" creationdate="20151011T025042Z">
@@ -18958,6 +18966,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024816Z" creationid="Judy" creationdate="20151011T024816Z">
         <seg>能透過額外授權擴充系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows the distribution of videos via multicast on demand.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025603Z" creationid="Judy" creationdate="20151011T025603Z">
+        <seg>允許透過多點傳送依需求發送影像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19890,6 +19906,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is compatible with ONVIF V1.02 or higher and ONVIF Profile S.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025517Z" creationid="Judy" creationdate="20151011T025517Z">
+        <seg>相容於 ONVIF V1.02 以上版本和 ONVIF Profile S。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is compatible with Unicode characters</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133057Z" creationid="Judy" creationdate="20151008T133057Z">
@@ -20135,6 +20159,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133455Z" creationid="Judy" creationdate="20151008T133218Z">
         <seg>支援 TCP 和 UDP (單一播送和多重播送) 協定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports TCP-IP and UDP (Unicast and Multicast) protocols.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025526Z" creationid="Judy" creationdate="20151011T025526Z">
+        <seg>支援 TCP 和 UDP (單一播送和多重播送) 協定。</seg>
       </tuv>
     </tu>
     <tu>
