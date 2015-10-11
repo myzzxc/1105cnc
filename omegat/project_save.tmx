@@ -18994,6 +18994,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the automatic creation of bookmarks whenever movement is detected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T105123Z" creationid="Judy" creationdate="20151011T104858Z">
+        <seg>允許於偵測到動作時自動建立書籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the distribution of videos via multicast on demand.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025603Z" creationid="Judy" creationdate="20151011T025603Z">
@@ -19358,6 +19366,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062609Z" creationid="Judy" creationdate="20151010T062609Z">
         <seg>允許授權的使用者透過網路進行所有的系統操作控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the automatic creation of a bookmark, whenever an event takes place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T105102Z" creationid="Judy" creationdate="20151011T105102Z">
+        <seg>於事件發生時自動建立書籤。</seg>
       </tuv>
     </tu>
     <tu>
