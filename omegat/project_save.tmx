@@ -19154,6 +19154,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It disconnects, optionally the operator, when his or her login time on the system has expired.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T091804Z" creationid="Judy" creationdate="20151011T091804Z">
+        <seg>當超過系統的登錄時間時，操作人員可選擇切斷使用者之連線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It displays the name of the operator who is connected to the surveillance client</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062428Z" creationid="Judy" creationdate="20151010T062428Z">
