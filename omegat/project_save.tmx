@@ -20323,6 +20323,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports embedded analytics in cameras that feature notification by HTTP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T131826Z" creationid="Judy" creationdate="20151011T131826Z">
+        <seg>支援具有 HTTP 通知功能之攝影機進行嵌入式分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports embedded analytics on cameras from the manufacturers SONY and UDP.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T131642Z" creationid="Judy" creationdate="20151011T131642Z">
@@ -29414,6 +29422,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072325Z" creationid="Judy" creationdate="20151010T072325Z">
         <seg>動作錄影允許定義不同對動作敏感之區域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recording:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T131845Z" creationid="Judy" creationdate="20151011T131845Z">
+        <seg>錄影：</seg>
       </tuv>
     </tu>
     <tu>
