@@ -18954,6 +18954,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the recording to be carried out using a given video configuration and the surveillance to be done using a different configuration, through Video Profiles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T023111Z" creationid="Judy" creationdate="20151011T023111Z">
+        <seg>允許透過視訊設定檔功能使用指定視訊設置進行錄影，同時使用不同設置進行監控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows you to easily trace product and design decisions back to strategy to ensure a lasting product foundation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T141035Z">
