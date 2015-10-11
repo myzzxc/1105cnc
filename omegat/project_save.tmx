@@ -33469,6 +33469,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Surveillance and recording software for closed circuit TV on TCP/IP networks with ability of controlling and displaying images from IP or analog cameras connected by video servers or encoders, in addition to recording images for later search and selective retrieval.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T021819Z" creationid="Judy" creationdate="20151011T021819Z">
+        <seg>TCP/IP 網路上的閉路電視監控和錄影軟體能控制和顯示來自連接至視訊伺服器或編碼器的 IP 或類比攝影機的影像，也能錄製影像用於未來之搜尋和選擇性檢索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SurveillancePlan: A preventative work document allowing all verification actions performed to ensure that the specific requirements have been met.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014125Z">
