@@ -20178,6 +20178,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible to configure a directory to back-up the system configurations and the number of days these backup files should be kept.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T135619Z" creationid="Judy" creationdate="20151011T135619Z">
+        <seg>可設置備份系統組態之資料夾和保留備份檔案之時間長度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended for the long term operation of the table that an air drier is used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083730Z">
