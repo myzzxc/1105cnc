@@ -35360,6 +35360,30 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The RTSP media server supports the following audio formats: PCM, G.711, G.726 and AAC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T031755Z" creationid="Judy" creationdate="20151011T031755Z">
+        <seg>RTSP 媒體伺服器支援以下音訊格式：PCM G.711、 G.726 和 AAC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The RTSP media server supports the following video formats: H.264, MPEG4 and Motion JPEG.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T031729Z" creationid="Judy" creationdate="20151011T031729Z">
+        <seg>RTSP 媒體伺服器支援以下視訊格式：H.264、MPEG4 和 Motion JPEG。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The RTSP server supports sending media over TCP and UDP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T031830Z" creationid="Judy" creationdate="20151011T031830Z">
+        <seg>RTSP 伺服器支援透過 TCP 和 UDP 發送媒體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The RX and TX LEDs on the board will flash when data is being transmitted via the USB connection to the computer (but not for serial communication on pins 0 and 1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130149Z">
