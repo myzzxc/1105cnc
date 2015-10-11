@@ -18938,6 +18938,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows concurrent operations such as recording, video playback, system configuration, live surveillance, event search, image search, server monitoring and several other tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022641Z" creationid="Judy" creationdate="20151011T022641Z">
+        <seg>允許錄影、影像重播、系統設置、即時監控、事件搜尋、 圖片搜尋、伺服器監控和其他多種任務同時作業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the dynamic update of mosaics on the surveillance client.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T012339Z" creationid="Judy" creationdate="20151010T012339Z">
@@ -19554,6 +19562,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features a Multi-Streaming system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022914Z" creationid="Judy" creationdate="20151011T022842Z">
+        <seg>具有多重影音串流 (Multi-Streaming) 系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features a RTSP integrated media server</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133027Z" creationid="Judy" creationdate="20151008T132357Z">
@@ -20047,6 +20063,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T083332Z">
         <seg>它支援廣泛的政策範圍，其中包括農業和糧食安全、能源、工業、財務、環境保護、 公共衛生和公共安全，能有效並適當調整決策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports image recording and surveillance in Motion-JPEG, MPEG-4, H.263 and H.264.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022755Z" creationid="Judy" creationdate="20151011T022755Z">
+        <seg>支援 Motion-JPEG、MPEG-4、H.263 和 H.264 格式之影像錄製和監控。</seg>
       </tuv>
     </tu>
     <tu>
