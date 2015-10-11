@@ -18946,6 +18946,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows system expansion by using additional licenses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024816Z" creationid="Judy" creationdate="20151011T024816Z">
+        <seg>能透過額外授權擴充系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the dynamic update of mosaics on the surveillance client.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T012339Z" creationid="Judy" creationdate="20151010T012339Z">
@@ -19690,6 +19698,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features compatibility with Unicode characters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024542Z" creationid="Judy" creationdate="20151011T024542Z">
+        <seg>相容 Unicode 字元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features complete support for the dewarping of panamorphic lenses</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133005Z" creationid="Judy" creationdate="20151008T132530Z">
@@ -20143,6 +20159,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022404Z" creationid="Judy" creationdate="20151011T022246Z">
         <seg>相容於連接至視訊伺服器或整合式 DVR 之 IP 和類比攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It works with a licensing system per camera.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024652Z" creationid="Judy" creationdate="20151011T024652Z">
+        <seg>能逐台進行攝影機授權。</seg>
       </tuv>
     </tu>
     <tu>
