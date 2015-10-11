@@ -3599,6 +3599,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access passwords and alarm devices, and the surveillance client computers are stored with encryption.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T105249Z" creationid="Judy" creationdate="20151011T105249Z">
+        <seg>存取密碼和警報裝置以及監控用戶端電腦皆加密儲存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access to more segments and markets</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111916Z">
@@ -19252,8 +19260,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It enables edge recording.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124922Z" creationid="Judy" creationdate="20151008T124922Z">
-        <seg>允許邊緣錄影</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T105145Z" creationid="Judy" creationdate="20151008T124922Z">
+        <seg>能進行邊緣錄影。</seg>
       </tuv>
     </tu>
     <tu>
