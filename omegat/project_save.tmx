@@ -19834,6 +19834,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features an advanced disk management system, whereas the system must automatically allocate an amount of disk space required for the recording of each camera.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T134935Z" creationid="Judy" creationdate="20151011T134935Z">
+        <seg>具有進階磁碟管理系統，而系統必須自動分配的每台攝影機記錄所需的磁碟空間量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features an audit system for user actions and server connections</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064721Z" creationid="Judy" creationdate="20151010T064721Z">
