@@ -20187,6 +20187,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports bidirectional and unidirectional audio synchronized with video, live, recorded and sectored.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T030845Z" creationid="Judy" creationdate="20151011T030845Z">
+        <seg>支援雙向和單向音訊與視訊、即時影像、錄影和分割影像同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports bidirectional and unidirectional audio.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133112Z" creationid="Judy" creationdate="20151008T133112Z">
