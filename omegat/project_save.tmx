@@ -10149,6 +10149,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customer / Server Architecture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022420Z" creationid="Judy" creationdate="20151011T022420Z">
+        <seg>客戶端 / 伺服器架構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customer Intimacy</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044933Z">
@@ -20069,8 +20077,8 @@ or artistic work embodied therein.</seg>
       <tuv lang="EN-US">
         <seg>It works with IP and analog cameras connected to a video server or integrated DVR.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022246Z" creationid="Judy" creationdate="20151011T022246Z">
-        <seg>IP 攝像機 IP e 視訊伺服器</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022404Z" creationid="Judy" creationdate="20151011T022246Z">
+        <seg>相容於連接至視訊伺服器或整合式 DVR 之 IP 和類比攝影機。</seg>
       </tuv>
     </tu>
     <tu>
