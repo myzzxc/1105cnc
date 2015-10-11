@@ -19258,6 +19258,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the authentication of system users by using biometrics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024431Z" creationid="Judy" creationdate="20151011T024431Z">
+        <seg>能使用生物驗證技術進行系統使用者驗證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables the authorized user to receive all controls for system operation via web</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062609Z" creationid="Judy" creationdate="20151010T062609Z">
