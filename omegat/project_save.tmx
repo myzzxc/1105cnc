@@ -20323,6 +20323,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports embedded analytics on cameras from the manufacturers SONY and UDP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T131642Z" creationid="Judy" creationdate="20151011T131642Z">
+        <seg>支援於 SONY 和 UDP 所製造之攝影機進行嵌入式分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports image recording and surveillance in Motion-JPEG, MPEG-4, H.263 and H.264.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022755Z" creationid="Judy" creationdate="20151011T022755Z">
