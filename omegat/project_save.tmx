@@ -11161,6 +11161,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digital image (captured live or recorded) zoom and virtual PTZ from the network computers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T123056Z" creationid="Judy" creationdate="20151012T123056Z">
+        <seg>網路電腦 (擷取或即時錄影) 之數位影像縮放和虛擬 PTZ 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digital signatures for forms</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071233Z">
@@ -19054,6 +19062,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T105123Z" creationid="Judy" creationdate="20151011T104858Z">
         <seg>允許於偵測到動作時自動建立書籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows the choice of how many frames per second to be used for computer screen recording.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T122852Z" creationid="Judy" creationdate="20151012T122852Z">
+        <seg>可選擇電腦螢幕畫面錄製之每秒幀數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29982,6 +29998,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T131619Z">
         <seg>拆下外箱並檢查所有原件外觀是否有所損傷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove operation of those computers captured on the network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T123140Z" creationid="Judy" creationdate="20151012T123140Z">
+        <seg>移除網路上擷取之電腦操作。</seg>
       </tuv>
     </tu>
     <tu>
