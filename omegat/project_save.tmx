@@ -20122,6 +20122,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has a user profile system so that the user may have his or her camera positioning profile upon accessing the camera from anywhere.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125901Z" creationid="Judy" creationdate="20151012T125833Z">
+        <seg>具有一個使用者設定檔系統，使用者無論在何地存取攝影機時，皆能使用自身設定之攝影機定位設定檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has advanced settings for joystick</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T065541Z" creationid="Judy" creationdate="20151010T065541Z">
