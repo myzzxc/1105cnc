@@ -19034,6 +19034,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows another map to be opened through a link, thus making it a map of levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151223Z" creationid="Judy" creationdate="20151012T151213Z">
+        <seg>能透過連結開啟另一個影像圖，而建立層級影像圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows audit records to be exported.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142216Z" creationid="Judy" creationdate="20151008T124832Z">
@@ -19054,6 +19062,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022641Z" creationid="Judy" creationdate="20151011T022641Z">
         <seg>允許錄影、影像重播、系統設置、即時監控、事件搜尋、 圖片搜尋、伺服器監控和其他多種任務同時作業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows control through visual indicators (such as open door, turn light on, trigger siren).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151314Z" creationid="Judy" creationdate="20151012T151219Z">
+        <seg>能透過視覺化指標 (如開門、開燈、觸發警報) 控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19388,8 +19404,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It displays information on the devices, such as cameras, sensors and relays, informing the device's status through visual indicators.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T150944Z" creationid="Judy" creationdate="20151012T150944Z">
-        <seg>能在攝影機、感應器和中繼器等裝置上顯示資訊，透過視覺化指示器顯示裝置的狀態。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151240Z" creationid="Judy" creationdate="20151012T150944Z">
+        <seg>能在攝影機、感應器和中繼器等裝置上顯示資訊，透過視覺化指標顯示裝置的狀態。</seg>
       </tuv>
     </tu>
     <tu>
