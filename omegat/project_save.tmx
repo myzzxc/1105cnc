@@ -2705,6 +2705,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A media server may be created to make the images available for the Internet without accessing the main server.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T122239Z" creationid="Judy" creationdate="20151012T122239Z">
+        <seg>可建立一個媒體伺服器以透過網路存取圖像，無需存取主伺服器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A modularization program was formulated that would accomplish MTS’s strategy and provide a business case to support the investment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T014620Z">
