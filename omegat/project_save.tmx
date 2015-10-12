@@ -37625,6 +37625,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The printed images and/or reports are stored on the image server with the possibility of searching and carrying out new printing events through the originality code.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T122044Z" creationid="Judy" creationdate="20151012T122044Z">
+        <seg>列印之圖像或報告儲存於圖像伺服器中，可透過原始代碼搜尋並進行新列印事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The probative delivery status shall be used in case of non-compliant products.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121714Z">
