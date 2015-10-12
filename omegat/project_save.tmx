@@ -20603,6 +20603,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It works with a full Virtual Matrix, in which it is possible to choose the desired monitor and to send a sequence of images, maps and mosaics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T123732Z" creationid="Judy" creationdate="20151012T123732Z">
+        <seg>適用全虛擬矩陣，其中能選擇所需的監視器並發送一系列的圖像、映射和馬賽克分割畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It works with a licensing system per camera.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024652Z" creationid="Judy" creationdate="20151011T024652Z">
