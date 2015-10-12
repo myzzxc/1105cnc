@@ -20266,6 +20266,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible to choose a quadrant of a mosaic on the desired monitor in order to receive the object to be sent via the Virtual Matrix.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T124419Z" creationid="Judy" creationdate="20151012T124419Z">
+        <seg>可於馬賽克之分割畫面上選擇欲接收目標物件之監視器，以透過虛擬矩陣傳送。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible to configure a directory to back-up the system configurations and the number of days these backup files should be kept.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T135619Z" creationid="Judy" creationdate="20151011T135619Z">
