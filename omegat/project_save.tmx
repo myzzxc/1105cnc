@@ -11649,6 +11649,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During live surveillance, it is possible to zoom (digitally) the different areas of the screen, thus opening a screen for each zoom carried out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T142234Z" creationid="Judy" creationdate="20151012T142028Z">
+        <seg>現場監控時，可針對螢幕上不同區域進行 (數位) 縮放，每次縮放將打開一個畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During scalding, it is essential that any foam – which is formed by protein in blood plasma mixing with the hot and agitated water - that accumulates on the water is removed if sanitary conditions are to be maintained.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T042129Z">
@@ -19074,6 +19082,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows remote operations to perform an emergency local recording, thus recording the images that are being monitored.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T141956Z" creationid="Judy" creationdate="20151012T141956Z">
+        <seg>允許遠端操作執行緊急本機記錄，記錄正在監控的影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows searching and reproducing videos, via the bookmark, which are on the time line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T095812Z" creationid="Judy" creationdate="20151011T095812Z">
@@ -19134,6 +19150,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125033Z" creationid="Judy" creationdate="20151012T125033Z">
         <seg>允許建立公用馬賽克分割畫面以與系統中的所有使用者共用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows the creation of various surveillance mosaics, each with its independent camera positioning configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T142612Z" creationid="Judy" creationdate="20151012T142612Z">
+        <seg>允許建立各種監控馬賽克分割畫面，每一種都具有其獨立的攝影機定位設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19586,6 +19610,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the display of cameras from multiple servers (from various different places) on the same screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T142531Z" creationid="Judy" creationdate="20151012T142531Z">
+        <seg>能在同一螢幕上顯示來自多台伺服器 (來自不同的地方) 的攝影機畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables the distribution of videos through multicast on demand</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125512Z" creationid="Judy" creationdate="20151008T125512Z">
@@ -19962,6 +19994,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features a zoom system with bilinear treatment to avoid the image from becoming checkered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T142417Z" creationid="Judy" creationdate="20151012T142417Z">
+        <seg>縮放系統具有雙線性處理功能以避免影像解析度過低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features an advanced disk management system, whereas the system must automatically allocate an amount of disk space required for the recording of each camera.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T134935Z" creationid="Judy" creationdate="20151011T134935Z">
@@ -20070,6 +20110,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064735Z" creationid="Judy" creationdate="20151010T064735Z">
         <seg>具有手動或自動系統組態備份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features motion detection in real time during live surveillance, regardless whether the camera has this function or not.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T141751Z" creationid="Judy" creationdate="20151012T141751Z">
+        <seg>無論攝影機是否具有動作偵測功能，能於現場監控期間進行即時動作偵測。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20639,6 +20687,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132049Z" creationid="Judy" creationdate="20151011T132049Z">
         <seg>每台攝影機支援以 30 幀以上之錄影速率和即時顯示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports two or more video monitors per client station for live surveillance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T142706Z" creationid="Judy" creationdate="20151012T142706Z">
+        <seg>每個用戶端支援兩台以上的視訊監視器以進行現場監控。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39484,6 +39540,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140519Z">
         <seg>這 4 組授權碼可用於任何網路攝像機的分析，但每次只限四台攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This function highlights the movement on the screen with a specific color (Standard Green).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T141904Z" creationid="Judy" creationdate="20151012T141805Z">
+        <seg>此功能會以特定顏色 (標準為綠色) 標示出螢幕畫面上的動作。</seg>
       </tuv>
     </tu>
     <tu>
