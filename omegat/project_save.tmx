@@ -20138,6 +20138,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features the option of removing a camera from the screen via its pop-up menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T142936Z" creationid="Judy" creationdate="20151012T142936Z">
+        <seg>可透過彈出式功能表選項從螢幕中移除攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It fits every UNO sized boards, and you can choose among a number of nice colors, as they’re all of the same size and they can all be used on the same type of boards.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120323Z">
@@ -44239,6 +44247,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104049Z">
         <seg>可由上圖看出與平常背景的不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can select and maximize (Full Screen Surveillance Client) a camera by double clicking it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T142823Z" creationid="Judy" creationdate="20151012T142823Z">
+        <seg>可以雙擊畫面以最大化 (全螢幕監控用戶端) 攝影機畫面。</seg>
       </tuv>
     </tu>
     <tu>
