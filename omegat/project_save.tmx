@@ -43727,6 +43727,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With this privacy mode feature, the administrator may establish a list of users who shall lose access to the camera when the operator activates the privacy mode on the surveillance client.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T143757Z" creationid="Judy" creationdate="20151012T143757Z">
+        <seg>此隱私模式功能中，管理員可以設定當操作人員啟動監控用戶端上的隱私模式時，將失去相機存取權限的使用者的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Without Stabilisation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T060528Z">
