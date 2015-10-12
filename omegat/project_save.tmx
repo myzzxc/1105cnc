@@ -19570,6 +19570,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the audio to be continuously transmitted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151853Z" creationid="Judy" creationdate="20151012T151853Z">
+        <seg>能不斷傳送音訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables the authentication of system users by using biometrics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024431Z" creationid="Judy" creationdate="20151011T024431Z">
@@ -20614,6 +20622,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T031246Z" creationid="Judy" creationdate="20151011T031246Z">
         <seg>無論即時和錄製圖像，皆提供 360 度全景鏡頭變形修正，四畫面、虛擬區域和虛擬 PTZ 顯示控制的完整支援。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It provides live and sectored audio surveillance, in which the operator may choose a camera or a group of cameras which shall simultaneously receive the desire audio feed, making use of microphones and speakers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151817Z" creationid="Judy" creationdate="20151012T151817Z">
+        <seg>提供現場和局部音訊監控，操作人員可以選擇同時接收所需音訊的一台攝影機或攝影機群組，使用麥克風和揚聲器。</seg>
       </tuv>
     </tu>
     <tu>
