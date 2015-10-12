@@ -19050,6 +19050,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows filtering objects on the object list contained on the surveillance client screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125348Z" creationid="Judy" creationdate="20151012T125348Z">
+        <seg>允許於監視用戶端螢幕上篩選目標物件清單上所包含的物件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows recording of redundant Databases.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132455Z" creationid="Judy" creationdate="20151011T132455Z">
@@ -19150,6 +19158,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T134404Z" creationid="Judy" creationdate="20151011T134149Z">
         <seg>允許透過馬賽克分割畫面同時從多台攝影機觀看錄影，從而能複製多台攝影機畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows the surveillance mosaic to be dynamically updated in real time when created, updated or erased at all the surveillance clients, without the need to reconnect to the server.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125246Z" creationid="Judy" creationdate="20151012T125246Z">
+        <seg>當建立、更新或消除時，允許監控馬賽克畫面即時動態更新於所有監控用戶端，。</seg>
       </tuv>
     </tu>
     <tu>
