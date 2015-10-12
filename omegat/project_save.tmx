@@ -5912,6 +5912,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic creation of a bookmark whenever an edge recording is transferred to the main server.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T121115Z" creationid="Judy" creationdate="20151012T121115Z">
+        <seg>當邊緣錄影送至主伺服器時自動建立書籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic feed drills are fixture mounted tools that combine linear feed and rotation forall drilling operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T151621Z">
@@ -20190,6 +20198,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T135619Z" creationid="Judy" creationdate="20151011T135619Z">
         <seg>可設置備份系統組態之資料夾和保留備份檔案之時間長度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is possible to differentiate original recordings from the ones downloaded from the SD-Cards, through the time line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T121256Z" creationid="Judy" creationdate="20151012T121256Z">
+        <seg>能透過時間表區分原始錄影或由 SD 記憶卡下載之錄影。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37021,6 +37037,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T061240Z">
         <seg>人類免受水污染、 疾病和與水災所害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The images recorded on the SD-Card may be either automatically downloaded or not in the occurrence of any programmed event, and with the option of different resolutions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T121035Z" creationid="Judy" creationdate="20151012T121035Z">
+        <seg>記錄於 SD 卡上之影像能選擇於發生任何的程式化事件時是否自動下載，並且能選擇使用不同的解析度。</seg>
       </tuv>
     </tu>
     <tu>
