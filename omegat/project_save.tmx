@@ -43745,8 +43745,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>With this option, the administrator may limit the number of simultaneous cameras a user or group of users may concurrently view per work station.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T144528Z" creationid="Judy" creationdate="20151012T144528Z">
-        <seg>使用此選項，管理員可以限制使用者組可以同時查看每工作站同時觀景窗的數量。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T144710Z" creationid="Judy" creationdate="20151012T144528Z">
+        <seg>此選項使管理人員可以限制每個工作站之使用者或群組可以同時查看攝影機畫面的數量。</seg>
       </tuv>
     </tu>
     <tu>
