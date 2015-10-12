@@ -5928,6 +5928,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic image recording on SD-Card whenever a network failure occurs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T120734Z" creationid="Judy" creationdate="20151012T120734Z">
+        <seg>當網路發生故障時自動記錄圖像於 SD 記憶卡上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic location of recording servers on the local network</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053548Z" creationid="Judy" creationdate="20151010T053539Z">
