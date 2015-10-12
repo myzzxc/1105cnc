@@ -41851,6 +41851,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Virtual Matrix control via SDK/API for the creation of macros and scripts in other languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T123915Z" creationid="Judy" creationdate="20151012T123915Z">
+        <seg>虛擬矩陣控制透過 SDK/API 建立其它語言中的巨集和腳本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Virtual barriers:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062117Z">
