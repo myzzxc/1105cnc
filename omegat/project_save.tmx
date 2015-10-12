@@ -19058,6 +19058,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows increasing the frame rate of a given surveillance camera, whenever it is selected (i.e.: normal surveillance at 4FPS, whenever the user selects the camera, increase to 30FPS, and upon being deselected, return the frame rate to 4FPS).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125656Z" creationid="Judy" creationdate="20151012T125656Z">
+        <seg>允許增加選定之監控攝影機的畫面播放速率 (即：一般監控 4 fps，當使用者選擇攝影機時增加為 30 FPS，取消選擇時回到畫面播放速率 4 FPS)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows recording of redundant Databases.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132455Z" creationid="Judy" creationdate="20151011T132455Z">
@@ -36989,6 +36997,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030815Z">
         <seg>檔案必須符合 PPAP 或 VDA 6.3 之要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The filter is applied to all the objects on the list, searching for the object's name and description.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125526Z" creationid="Judy" creationdate="20151012T125526Z">
+        <seg>篩選器適用於清單中的所有物件，尋找物件的名稱和說明。</seg>
       </tuv>
     </tu>
     <tu>
