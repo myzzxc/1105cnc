@@ -43743,6 +43743,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With this option, the administrator may limit the number of simultaneous cameras a user or group of users may concurrently view per work station.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T144528Z" creationid="Judy" creationdate="20151012T144528Z">
+        <seg>使用此選項，管理員可以限制使用者組可以同時查看每工作站同時觀景窗的數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With this privacy mode feature, the administrator may establish a list of users who shall lose access to the camera when the operator activates the privacy mode on the surveillance client.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T143757Z" creationid="Judy" creationdate="20151012T143757Z">
