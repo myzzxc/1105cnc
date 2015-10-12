@@ -41353,6 +41353,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Upon moving the mouse over a camera on the synoptic map, it is possible to get a preview of the live images together with information from the cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151505Z" creationid="Judy" creationdate="20151012T151505Z">
+        <seg>當滑鼠移動至縱觀影像上時，可以取得攝影機即時圖像預覽以及其資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Clip Art</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055241Z">
