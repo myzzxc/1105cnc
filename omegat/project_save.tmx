@@ -9108,6 +9108,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Computer screen recording in MJPEG, MPEG4 or H.264.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T122756Z" creationid="Judy" creationdate="20151012T122756Z">
+        <seg>電腦螢幕畫面錄製格式為 MJPEG、MPEG4 或 H.264。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concept</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035903Z">
@@ -31320,6 +31328,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051351Z">
         <seg>除非特別指明，此型錄之螢幕圖片和列印樣品皆為模擬示意圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen, keyboard and mouse capture, from any existing Windows based computer on the network and recoding of its screens on the same CCTV storage media for later searching.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T122727Z" creationid="Judy" creationdate="20151012T122727Z">
+        <seg>擷取任何連接至網路且運行 Windows 的電腦上螢幕、鍵盤和滑鼠並錄製其螢幕畫面於與閉路電視相同之儲存媒體中，以便未來搜尋。</seg>
       </tuv>
     </tu>
     <tu>
