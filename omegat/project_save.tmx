@@ -19010,6 +19010,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows a camera to be opened by directly clicking on its icon on the map.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151048Z" creationid="Judy" creationdate="20151012T151048Z">
+        <seg>能在縱觀影像上直接點擊其圖示開啟攝影機畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows a company to combine a few building blocks – modules - into more products than marketing and customers may imagine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073622Z">
@@ -19374,6 +19382,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T091804Z" creationid="Judy" creationdate="20151011T091804Z">
         <seg>當超過系統的登錄時間時，操作人員可選擇切斷使用者之連線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It displays information on the devices, such as cameras, sensors and relays, informing the device's status through visual indicators.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T150944Z" creationid="Judy" creationdate="20151012T150944Z">
+        <seg>能在攝影機、感應器和中繼器等裝置上顯示資訊，透過視覺化指示器顯示裝置的狀態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20180,8 +20196,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It has a Synoptic Map for live surveillance.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T150722Z" creationid="Judy" creationdate="20151012T150722Z">
-        <seg>現場監控具有縱觀影像 (Synoptic Map)&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T150734Z" creationid="Judy" creationdate="20151012T150722Z">
+        <seg>現場監控具有縱觀影像 (Synoptic Map)。</seg>
       </tuv>
     </tu>
     <tu>
