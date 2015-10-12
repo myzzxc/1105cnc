@@ -19074,6 +19074,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows limiting simultaneous access to cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T144244Z" creationid="Judy" creationdate="20151012T144244Z">
+        <seg>能限制同時存取攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows recording of redundant Databases.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132455Z" creationid="Judy" creationdate="20151011T132455Z">
@@ -39548,6 +39556,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054115Z">
         <seg>此功能對於限制文件修改或電子化歸檔特別實用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This feature is very useful when the cameras of a given installation are externally available, as with this feature the operator may temporarily block external access to the camera whenever he or she so desires.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T144105Z" creationid="Judy" creationdate="20151012T144105Z">
+        <seg>此功能於安裝之攝影機可供外部使用時將非常實用，因為操作人員可依其所需使用此功能暫時阻檔外部存取攝影機。</seg>
       </tuv>
     </tu>
     <tu>
