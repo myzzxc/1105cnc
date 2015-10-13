@@ -19306,6 +19306,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also supports zoom via the mouse wheel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131736Z" creationid="Judy" creationdate="20151013T131736Z">
+        <seg>也支援使用滑鼠滾輪進行縮放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It blocks access to the system after x invalid attempts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062338Z" creationid="Judy" creationdate="20151010T062338Z">
@@ -19938,6 +19946,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features PTZ block by priority.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131930Z" creationid="Judy" creationdate="20151013T131926Z">
+        <seg>具有 PTZ 優先鎖定功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features Slave and Master Server architecture.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024928Z" creationid="Judy" creationdate="20151011T024928Z">
@@ -19966,6 +19982,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022914Z" creationid="Judy" creationdate="20151011T022842Z">
         <seg>具有多重影音串流 (Multi-Streaming) 系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features a PTZ Surveillance system with the possibility of scheduling surveillance schemes based on day and time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132126Z" creationid="Judy" creationdate="20151013T132126Z">
+        <seg>PTZ 監控系統能根據日期和時間進行排程監控程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20054,6 +20078,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024006Z" creationid="Judy" creationdate="20151011T024006Z">
         <seg>監控用戶端上具有虛擬鍵盤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features a visual joystick, in which the user clicks on the image and drags the mouse towards the direction the camera is to be moved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131706Z" creationid="Judy" creationdate="20151013T131706Z">
+        <seg>具有虛擬搖桿功能，使用者可點擊圖像並拖曳滑鼠朝攝影機遇移動隻方向滑動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20162,6 +20194,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features control for the PTZ cameras with more than 64 presets per camera (the number of presets depends on the camera).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131417Z" creationid="Judy" creationdate="20151013T131417Z">
+        <seg>每台攝影機具有超過 64 組預設 (預設數目取決於攝影機) PTZ 攝影機控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features directed alarm events</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141727Z" creationid="Judy" creationdate="20151008T141727Z">
@@ -20258,10 +20298,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has a joystick interface to control the PTZ cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131507Z" creationid="Judy" creationdate="20151013T131507Z">
+        <seg>其具有搖桿界面來控制 PTZ 攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has a user profile system so that the user may have his or her camera positioning profile upon accessing the camera from anywhere.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125901Z" creationid="Judy" creationdate="20151012T125833Z">
         <seg>具有一個使用者設定檔系統，使用者無論在何地存取攝影機時，皆能使用自身設定之攝影機定位設定檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has a visual joystick with zoom control via the buttons.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131844Z" creationid="Judy" creationdate="20151013T131844Z">
+        <seg>具有透過按鈕控制縮放之虛擬搖桿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27374,6 +27430,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133722Z">
         <seg>頁面檢視 + 圖章能瀏覽並加入圖章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pan / Tilt / Zoom Control:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T125127Z" creationid="Judy" creationdate="20151013T125127Z">
+        <seg> 平移 / 傾斜 / 變焦 (PTZ) 控制：</seg>
       </tuv>
     </tu>
     <tu>
