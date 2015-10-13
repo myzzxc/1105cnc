@@ -19042,6 +19042,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows a particular photo from the video playback to be printed, with a description, date and time of the event.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T142110Z" creationid="Judy" creationdate="20151013T142110Z">
+        <seg>能列印視訊播放中的特定照片，並附有事件說明、日期和時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows a text watermark to be added to exported images.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T073202Z" creationid="Judy" creationdate="20151010T073202Z">
@@ -38831,6 +38839,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084040Z">
         <seg>系統有兩種運作方式：使用物理感測器或使用虛擬感測器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system, during export and search for movement on recorded videos, allows the display of the time remaining until the end of the operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T142000Z" creationid="Judy" creationdate="20151013T142000Z">
+        <seg>匯出和搜尋動作影像時，系統能顯示操作所需時間。</seg>
       </tuv>
     </tu>
     <tu>
