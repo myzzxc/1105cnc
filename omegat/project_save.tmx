@@ -19298,6 +19298,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the playback of audio and video synchronized in the proprietary format and AVI.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T143841Z" creationid="Judy" creationdate="20151013T143841Z">
+        <seg>可透過特有格式和 AVI 同步播放音訊和視訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the recording to be carried out using a given video configuration and the surveillance to be done using a different configuration, through Video Profiles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T023111Z" creationid="Judy" creationdate="20151011T023111Z">
@@ -39016,6 +39024,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T143303Z" creationid="Judy" creationdate="20151013T143303Z">
         <seg>可使用：2x、4x、8x、16x、32x、64x、128x、256x 和 512x 快速重播。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The video player resizes images according to the configuration of the surveillance client, such as centralize, resize to occupy the entire space and resize maintaining the image's original proportion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T143729Z" creationid="Judy" creationdate="20151013T143729Z">
+        <seg>視訊播放器依據監控用戶端的設置調整影像大小，如置中、全螢幕以及保持圖像的原始比例等選項。</seg>
       </tuv>
     </tu>
     <tu>
