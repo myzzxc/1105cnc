@@ -19762,6 +19762,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the opening of the Media Player in non-modal mode, which allows the user to continue working with the client while the player is open.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T135730Z" creationid="Judy" creationdate="20151013T135730Z">
+        <seg>使用非模態模式開啟媒體播放器，能讓使用者在開啟播放器的狀態下繼續使用用戶端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables the operator to identify the person who used the PTZ block.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T133127Z" creationid="Judy" creationdate="20151013T133127Z">
