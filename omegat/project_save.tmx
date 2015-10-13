@@ -20490,6 +20490,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has instant playback of videos from events.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T142401Z" creationid="Judy" creationdate="20151013T142401Z">
+        <seg>具有事件影像即時重播功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has more than 4500 integrated camera, DVR and NVR models.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025439Z" creationid="Judy" creationdate="20151011T025439Z">
@@ -42335,6 +42343,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142657Z" creationid="Judy" creationdate="20151008T142657Z">
         <seg>彈出警報中播放影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Videos exported in AVI and images in JPEG feature watermarks with the camera's name and the date and time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T142336Z" creationid="Judy" creationdate="20151013T142336Z">
+        <seg>AVI 格式之視訊和 JPEG 格式之圖片匯出時能加入攝影機名稱以及日期和時間的浮水印。</seg>
       </tuv>
     </tu>
     <tu>
