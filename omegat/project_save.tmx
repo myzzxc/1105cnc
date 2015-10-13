@@ -19338,6 +19338,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the user to choose the interval for skipping (X minutes) ahead or back on the recorded video, thus easing the analysis of the recorded video.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T144220Z" creationid="Judy" creationdate="20151013T144220Z">
+        <seg>允許使用者選擇錄製之影像向前或向後跳轉之時間間隔 (X 分鐘)，以簡化錄製影像的分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows you to easily trace product and design decisions back to strategy to ensure a lasting product foundation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T141035Z">
@@ -19830,6 +19838,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T073839Z" creationid="Judy" creationdate="20151010T073839Z">
         <seg>能播放由 360 度全景鏡頭錄製之圖像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the playback of recorded images through the 360 degree panamorphic lenses, providing some controls such as display in quad, display of virtual areas and virtual PTZ.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T144031Z" creationid="Judy" creationdate="20151013T144031Z">
+        <seg>可播放 360 度全景鏡頭產生之影像，並提供四格畫面、顯示虛擬區域和虛擬 PTZ 等控制。</seg>
       </tuv>
     </tu>
     <tu>
