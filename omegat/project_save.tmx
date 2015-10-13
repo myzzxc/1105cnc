@@ -19338,6 +19338,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows, during the search for events by the surveillance client, that a video playback from the cameras linked to the event may reproduce a video from the cameras associated to that event, issued via alarm pop-ups.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T143149Z" creationid="Judy" creationdate="20151013T143149Z">
+        <seg>以監視用戶端搜尋事件時，可從攝影機連結到該事件的視訊播放中，透過警報彈出式視窗重生攝影機中與事件相關的影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows, in a single surveillance client, video playback of unlimited cameras concurrently.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T134124Z" creationid="Judy" creationdate="20151013T134124Z">
