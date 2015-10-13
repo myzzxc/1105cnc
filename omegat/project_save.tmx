@@ -19106,6 +19106,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows informing the information of the last user who moved the camera using PTZ.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T133543Z" creationid="Judy" creationdate="20151013T133543Z">
+        <seg>允許通知最後一位使用 PTZ 移動攝影機的使用者資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows limiting simultaneous access to cameras.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T144244Z" creationid="Judy" creationdate="20151012T144244Z">
@@ -19214,6 +19222,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T142612Z" creationid="Judy" creationdate="20151012T142612Z">
         <seg>允許建立各種監控馬賽克分割畫面，每一種都具有其獨立的攝影機定位設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows the determination of PTZ control rights individually for each user, thus each camera shall feature PTZ control rights for different users and group of users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T133440Z" creationid="Judy" creationdate="20151013T133440Z">
+        <seg>可決定每位使用者之 PTZ 控制權，因此每台攝影機能針對不同的使用者和使用者群組提供 PTZ 控制權。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42159,6 +42175,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T075937Z" creationid="Judy" creationdate="20151010T075937Z">
         <seg>影像輸出格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video Playback, Search, and Export:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T133612Z" creationid="Judy" creationdate="20151013T133612Z">
+        <seg>視訊播放、搜尋和匯出：</seg>
       </tuv>
     </tu>
     <tu>
