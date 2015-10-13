@@ -19130,10 +19130,34 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows fast-forwarding and rewinding the video to the next bookmark.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T145254Z" creationid="Judy" creationdate="20151013T145254Z">
+        <seg>能夠快轉和倒退影像至下一個書籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows fast-forwarding and rewinding the video, frame by frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T145241Z" creationid="Judy" creationdate="20151013T145241Z">
+        <seg>能夠格放快轉和倒退影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows filtering objects on the object list contained on the surveillance client screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125348Z" creationid="Judy" creationdate="20151012T125348Z">
         <seg>允許於監視用戶端螢幕上篩選目標物件清單上所包含的物件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows for video resizing during export in AVI to ensure better compatibility with existing codecs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T145127Z" creationid="Judy" creationdate="20151013T145127Z">
+        <seg>匯出 AVI 時可調整影像大小，以確保與現有的編碼器有更好的相容性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19198,6 +19222,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T095812Z" creationid="Judy" creationdate="20151011T095812Z">
         <seg>允許透過書籤搜尋和複製時間軸上的影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows searching, by the code of originality, an image generated in a report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T145306Z" creationid="Judy" creationdate="20151013T145306Z">
+        <seg>它允許通過創意，代碼搜索圖像生成一份報告中。</seg>
       </tuv>
     </tu>
     <tu>
