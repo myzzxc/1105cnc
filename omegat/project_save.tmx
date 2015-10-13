@@ -19194,6 +19194,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the configuration of PTZ surveillance, manual or automatic, by the system's scheduling scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132836Z" creationid="Judy" creationdate="20151013T132723Z">
+        <seg>能依系統之排程手動或自動設定 PTZ 監控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the creation of public mosaics which may be shared with all system users.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125033Z" creationid="Judy" creationdate="20151012T125033Z">
@@ -19964,8 +19972,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It features Virtual PTZ for fixed and mobile cameras.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T065503Z" creationid="Judy" creationdate="20151010T065503Z">
-        <seg>具有供固定式或移動式攝影機使用之虛擬 PTZ</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132838Z" creationid="Judy" creationdate="20151010T065503Z">
+        <seg>具有供固定式或移動式攝影機使用之虛擬 PTZ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37825,6 +37833,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number shall be used to call the scheme through a certified keyboard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132953Z" creationid="Judy" creationdate="20151013T132953Z">
+        <seg>需透過認證之鍵盤套用方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The official license must be installed on the official machine because won’t possible to reactivated it on another machine later, so please test the machine before installing the official license.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141917Z">
@@ -41269,6 +41285,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022835Z">
         <seg>於 Import mode 中可選擇：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under the PTZ surveillance scheme, a number, as well as name, may be applied.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132957Z" creationid="Judy" creationdate="20151013T132829Z">
+        <seg>PTZ 監控程序中能套用數字以及名稱。</seg>
       </tuv>
     </tu>
     <tu>
