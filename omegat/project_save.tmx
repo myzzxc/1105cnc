@@ -20378,6 +20378,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has native protocol support for analog cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132527Z" creationid="Judy" creationdate="20151013T132527Z">
+        <seg>具有支援類比攝影機的本機協定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has the ease of bookmarking for quick event marking.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T095538Z" creationid="Judy" creationdate="20151011T095443Z">
@@ -36016,6 +36024,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T051120Z">
         <seg>PDF/A 規範檢查器能分析 PDF/A-1a、 -1b、-2a、-2b、-2u、-3a、-3b 和 -3u 級標章的 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The PTZ system allows control over the Focus, Iris, Auto-Focus and AutoIris, as well as also allowing PTZ Absolute and Relative controls of the cameras with these features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132451Z" creationid="Judy" creationdate="20151013T132451Z">
+        <seg>PTZ 系統能控制焦點、光圈、自動對焦和自動光圈，也能針對這些項目進行 PTZ 絕對和相對攝影機控制控制。</seg>
       </tuv>
     </tu>
     <tu>
