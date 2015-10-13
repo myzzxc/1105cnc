@@ -19228,8 +19228,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It allows searching, by the code of originality, an image generated in a report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T145306Z" creationid="Judy" creationdate="20151013T145306Z">
-        <seg>它允許通過創意，代碼搜索圖像生成一份報告中。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T145404Z" creationid="Judy" creationdate="20151013T145306Z">
+        <seg>能依原始代碼搜尋報告中生成之圖像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37469,6 +37469,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191340Z">
         <seg>保存期限必須標示於包裝上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The export of media is audited, allowing future database searches, such as: period exported, directory where the file was exported to, total size of export, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T145652Z" creationid="Judy" creationdate="20151013T145652Z">
+        <seg>匯出之媒體經過審核，可於未來進行資料庫搜尋：匯出期間、檔案匯出之目錄、匯出檔案總容量等等。</seg>
       </tuv>
     </tu>
     <tu>
