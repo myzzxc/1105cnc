@@ -19066,6 +19066,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows adding a text watermark to exported images.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T142716Z" creationid="Judy" creationdate="20151013T142716Z">
+        <seg>允許於匯出之圖像加上浮水印文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows adding a watermark per user for identification of image ownership.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T142722Z" creationid="Judy" creationdate="20151013T142700Z">
+        <seg>能依使用者加入浮水印以辨識影像擁有權。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows another map to be opened through a link, thus making it a map of levels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151223Z" creationid="Judy" creationdate="20151012T151213Z">
@@ -20358,6 +20374,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T142936Z" creationid="Judy" creationdate="20151012T142936Z">
         <seg>可透過彈出式功能表選項從螢幕中移除攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features the possibility of limiting, within the policies for user and group of users, video playback and export, thus avoiding that a playback or export with more than X minutes (configurable) from being carried out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T142636Z" creationid="Judy" creationdate="20151013T142632Z">
+        <seg>於使用者和使用者群組的規則中，可限制影像播放和匯出，以避免播放或匯出超過 X 分鐘 (可設定)。</seg>
       </tuv>
     </tu>
     <tu>
