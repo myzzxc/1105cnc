@@ -4248,6 +4248,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alerts and Events:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T150055Z" creationid="Judy" creationdate="20151013T150055Z">
+        <seg>警報和事件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alex von Yxkull, Founder</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T115206Z">
@@ -38963,6 +38971,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The system has complete management over alarms and events, with recognition of alarms from any device with dry contact connected to the video cameras or servers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T150305Z" creationid="Judy" creationdate="20151013T150305Z">
+        <seg>系統具有完整的警報和事件管理，能識別從任何連接到攝影機或伺服器的設備警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system works in two ways: With Physical Sensor or with Virtual Sensor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084040Z">
@@ -39826,6 +39842,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T134328Z">
         <seg>發行此驗收標準之目標，為供相關單位驗證符合規範之效能特性之參考指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This alarm management includes the following features:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T150319Z" creationid="Judy" creationdate="20151013T150319Z">
+        <seg>警報管理包括以下功能：</seg>
       </tuv>
     </tu>
     <tu>
