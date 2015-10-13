@@ -17960,6 +17960,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the event of an external alarm (any alarm sensor connected to the cameras or video servers), the system shall take pro-active actions in order to alert the operators, with possibilities of sending an e-mail and/or SMS to a group of people warning them about the occurred, opening on screens of the pop-up type images from the cameras, maps, analytics, LPR, issue alarm sounds, sending instant messages to the operator via screens of the pop-up type, positioning the cameras with (PTZ) Movement in defined Presets and triggering alarm outputs of the cameras where these outputs can be connected to sirens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T151308Z" creationid="Judy" creationdate="20151013T151308Z">
+        <seg>外部警報的事件中 (任何連接到攝影機或視訊伺服器的警報感應器)，系統將主動提醒操作人員，能透過發送電子郵件或簡訊至群組人員以警告他們發生事件、在攝影機畫面、縱觀影像、分析數據、LPR上開啟彈出式影像、發出警報聲、將攝影機以 (PTZ) 運動攝定位至預設位置並觸發攝影機警報輸出至警笛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the product design and manufacturing process, the focus is usually on reducing material cost.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050034Z">
