@@ -19714,6 +19714,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the operator to identify the person who used the PTZ block.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T133127Z" creationid="Judy" creationdate="20151013T133127Z">
+        <seg>操作人員能夠識別使用 PTZ 方塊的人員。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables the playback of events</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T073754Z" creationid="Judy" creationdate="20151010T073754Z">
@@ -19956,8 +19964,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It features PTZ block by priority.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131930Z" creationid="Judy" creationdate="20151013T131926Z">
-        <seg>具有 PTZ 優先鎖定功能。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T133149Z" creationid="Judy" creationdate="20151013T131926Z">
+        <seg>具有優先 PTZ 方塊功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37835,8 +37843,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The number shall be used to call the scheme through a certified keyboard.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132953Z" creationid="Judy" creationdate="20151013T132953Z">
-        <seg>需透過認證之鍵盤套用方案。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T133046Z" creationid="Judy" creationdate="20151013T132953Z">
+        <seg>需透過認證之鍵盤套用數字以啟動程序。</seg>
       </tuv>
     </tu>
     <tu>
