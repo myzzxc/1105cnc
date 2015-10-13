@@ -38675,6 +38675,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The software allows the video playback to be carried out with multi-thread resources, significantly increasing the performance for the playback of simultaneous cameras, especially in megapixel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T143512Z" creationid="Judy" creationdate="20151013T143512Z">
+        <seg>軟體允許多工執行，能大幅提高同時播放攝影機畫面之性能的同時相機，尤其是使用高像素時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The software features Windows based user-friendly graphical interface and the display of screen, functions, menu, and windows help.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022149Z" creationid="Judy" creationdate="20151011T022018Z">
@@ -39000,6 +39008,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103400Z">
         <seg>介於之間數值為灰色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The video may be sped up, during playback, to: 2x, 4x, 8x, 16x, 32x, 64x, 128x, 256x and 512x.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T143303Z" creationid="Judy" creationdate="20151013T143303Z">
+        <seg>可使用：2x、4x、8x、16x、32x、64x、128x、256x 和 512x 快速重播。</seg>
       </tuv>
     </tu>
     <tu>
