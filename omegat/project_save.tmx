@@ -39171,6 +39171,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The system has a tool for global settings for the cameras, in which the administrator may apply the same configuration for a group of cameras at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T135145Z" creationid="Judy" creationdate="20151014T135145Z">
+        <seg>系統具有攝影機全域設置，管理員可以同時套用相同設置於一整組攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system has complete management over alarms and events, with recognition of alarms from any device with dry contact connected to the video cameras or servers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T150305Z" creationid="Judy" creationdate="20151013T150305Z">
