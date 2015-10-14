@@ -3631,6 +3631,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access to event logs can only be performed by the system administrator or by a user authorized by the same.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T144011Z" creationid="Judy" creationdate="20151014T144011Z">
+        <seg>僅系統管理員或具有相同授權的使用者，可以存取事件日誌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access to more segments and markets</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111916Z">
@@ -39099,6 +39107,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The software enables to export records from an audit and to search records of events to a .CSV file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T143828Z" creationid="Judy" creationdate="20151014T143828Z">
+        <seg>軟體能匯出審核記錄和搜尋事件記錄至 .CSV 檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The software features Windows based user-friendly graphical interface and the display of screen, functions, menu, and windows help.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022149Z" creationid="Judy" creationdate="20151011T022018Z">
@@ -39311,6 +39327,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T150305Z" creationid="Judy" creationdate="20151013T150305Z">
         <seg>系統具有完整的警報和事件管理，能識別從任何連接到攝影機或伺服器的設備警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system may provide disconnection time for each camera.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T143905Z" creationid="Judy" creationdate="20151014T143905Z">
+        <seg>系統可提供每台攝影機的斷線時間。</seg>
       </tuv>
     </tu>
     <tu>
