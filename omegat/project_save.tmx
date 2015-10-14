@@ -19178,6 +19178,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows customized scheduling of days (Holidays, week-ends, important dates).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131337Z" creationid="Judy" creationdate="20151014T131337Z">
+        <seg>允許自訂排程日 (假日、週末、重要日期)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows e-mails to be sent through SMTP to make use of servers with SSL authentication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025652Z" creationid="Judy" creationdate="20151011T025652Z">
@@ -19358,6 +19366,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132836Z" creationid="Judy" creationdate="20151013T132723Z">
         <seg>能依系統之排程手動或自動設定 PTZ 監控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows the configuration of independent schedules for each event of alarm input (cameras and I/O devices).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131538Z" creationid="Judy" creationdate="20151014T131538Z">
+        <seg>允許為警報輸入 (攝影機和輸/輸出設備) 的每個事件設定獨立的排程。</seg>
       </tuv>
     </tu>
     <tu>
