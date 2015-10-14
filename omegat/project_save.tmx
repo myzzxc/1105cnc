@@ -17992,6 +17992,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the occurrence of any event, the system allows the attachment of any image from any camera in order to allow it to be sent by e-mail.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131249Z" creationid="Judy" creationdate="20151014T131249Z">
+        <seg>任何事件發生時，系統能夠透過電子郵件發送來自任何攝影機的任何圖像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the product design and manufacturing process, the focus is usually on reducing material cost.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050034Z">
@@ -19302,6 +19310,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024816Z" creationid="Judy" creationdate="20151011T024816Z">
         <seg>能透過額外授權擴充系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows that on the image analysis system, the objects being alarmed by any analytic rule have their outline changed to a particular color, for example, red.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131138Z" creationid="Judy" creationdate="20151014T131138Z">
+        <seg>允許將影像分析系統上任何解析規則中的警報物件輪廓變更為一個特定的顏色，例如紅色。</seg>
       </tuv>
     </tu>
     <tu>
