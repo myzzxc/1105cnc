@@ -21050,6 +21050,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible to change the logo from the reports to the users' own.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T144439Z" creationid="Judy" creationdate="20151014T144439Z">
+        <seg>可變更報告之標誌為使用者自行設定之標誌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible to choose a quadrant of a mosaic on the desired monitor in order to receive the object to be sent via the Virtual Matrix.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T124419Z" creationid="Judy" creationdate="20151012T124419Z">
