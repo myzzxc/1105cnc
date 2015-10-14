@@ -21122,6 +21122,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It provides a server performance monitoring tool through historical graphs with information such as: Processor usage, memory use, connected users, entry traffic in KB/s and outgoing traffic in KB/s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T142720Z" creationid="Judy" creationdate="20151014T142720Z">
+        <seg>伺服器效能監控工具提供歷史圖表資訊如：處理器使用率、記憶體使用量、連接之使用者、上傳和下載傳輸量 (KB/s)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It provides actions such as manual alarm, in which the operator shall be able to trigger the pro-active actions through a single click on a list of actions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T122751Z" creationid="Judy" creationdate="20151014T122751Z">
