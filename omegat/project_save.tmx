@@ -19418,6 +19418,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows, by triggering the alarm from a camera, a recording to start and/or the transmission of images from any other camera.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T125126Z" creationid="Judy" creationdate="20151014T125126Z">
+        <seg>可由攝影機觸發警報以開始錄影或從其它任何攝影機傳輸圖像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows, during the search for events by the surveillance client, that a video playback from the cameras linked to the event may reproduce a video from the cameras associated to that event, issued via alarm pop-ups.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T143149Z" creationid="Judy" creationdate="20151013T143149Z">
@@ -20486,6 +20494,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T142636Z" creationid="Judy" creationdate="20151013T142632Z">
         <seg>於使用者和使用者群組的規則中，可限制影像播放和匯出，以避免播放或匯出超過 X 分鐘 (可設定)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features various alarm sounds in order to enable the operators to differentiate each alarm by means of a different sound.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T125222Z" creationid="Judy" creationdate="20151014T125222Z">
+        <seg>具有不同的警報聲音讓操作人員能透過不同的聲音來區分各種警報。</seg>
       </tuv>
     </tu>
     <tu>
