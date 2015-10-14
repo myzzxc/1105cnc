@@ -19274,6 +19274,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows searching the events database, through the event type, filtering by dates, objects and others, for internal and external occurrences to the software, related to system alarms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T130728Z" creationid="Judy" creationdate="20151014T130728Z">
+        <seg>允許透過事件種類、日期、物件和其它條件篩選搜尋資料庫，以取得軟體內部和外部事件之系統相關警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows searching, by the code of originality, an image generated in a report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T145404Z" creationid="Judy" creationdate="20151013T145306Z">
