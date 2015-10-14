@@ -20178,6 +20178,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables to export reports and graphs from the system to PDF, CSV, TXT, RTF, XLS and HTML formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T144319Z" creationid="Judy" creationdate="20151014T144319Z">
+        <seg>系統報告和圖表能匯出至 PDF、 CSV、 TXT、RTF、 XLS 和 HTML 格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables to export the registry screens from objects from the system's administration client</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T064336Z" creationid="Judy" creationdate="20151010T064308Z">
@@ -20742,6 +20750,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131507Z" creationid="Judy" creationdate="20151013T131507Z">
         <seg>其具有搖桿界面來控制 PTZ 攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has a limit for concurrent accesses by the same user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T144200Z" creationid="Judy" creationdate="20151014T144200Z">
+        <seg>具有相同使用者的同時存取限制。</seg>
       </tuv>
     </tu>
     <tu>
