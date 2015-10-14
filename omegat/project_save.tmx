@@ -20690,6 +20690,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has a log of system events that will log all user activity as well as the activities from the system itself.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T140408Z" creationid="Judy" creationdate="20151014T140408Z">
+        <seg>具有系統事件日誌功能，將記錄所有使用者活動以及系統本身的活動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has a time line of the recorded images which must display the points where there is recording and/or movement, as well as allows the selection of the current time through the time line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T134517Z" creationid="Judy" creationdate="20151013T134517Z">
@@ -21086,6 +21094,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015143Z">
         <seg>一旦時程有所變更，應立即向 HUTCHINSON 回報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It operates with the concept of alert groups in which, in the occurrence of a specific event, only the group configured to receive the alert shall be notified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T140238Z" creationid="Judy" creationdate="20151014T140238Z">
+        <seg>其操作使用警報群組之概念，在發生特定的事件時，將只通知預設接收警報之群組。</seg>
       </tuv>
     </tu>
     <tu>
