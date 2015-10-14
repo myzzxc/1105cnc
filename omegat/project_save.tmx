@@ -19378,10 +19378,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the receipt of notification of movement detection from the cameras through HTTP calls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T130201Z" creationid="Judy" creationdate="20151014T130201Z">
+        <seg>可透過 HTTP 進行攝影機動作偵測通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the recording to be carried out using a given video configuration and the surveillance to be done using a different configuration, through Video Profiles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T023111Z" creationid="Judy" creationdate="20151011T023111Z">
         <seg>允許透過視訊設定檔功能使用指定視訊設置進行錄影，同時使用不同設置進行監控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows the scheduling of one or more events for them to take place on any desired day of the month and year.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T130059Z" creationid="Judy" creationdate="20151014T130059Z">
+        <seg>允許排定一個或多個事件於任何所需的年份和月份執行。</seg>
       </tuv>
     </tu>
     <tu>
