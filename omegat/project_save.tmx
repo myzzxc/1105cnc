@@ -20914,6 +20914,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible, in the alarm and events POP-UP itself, to playback a video of the event immediately, with the information of the server which generated such alarm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131806Z" creationid="Judy" creationdate="20151014T131806Z">
+        <seg>可於警報中和事件快顯視窗中立即播放事件影像，並顯示警報來源伺服器的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended for the long term operation of the table that an air drier is used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083730Z">
