@@ -20596,8 +20596,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It features support for HTTPS and SSL.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T132947Z" creationid="Judy" creationdate="20151008T132947Z">
-        <seg>支援 HTTPS 和 SSL</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T140541Z" creationid="Judy" creationdate="20151008T132947Z">
+        <seg>支援 HTTPS 和 SSL。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20726,6 +20726,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131844Z" creationid="Judy" creationdate="20151013T131844Z">
         <seg>具有透過按鈕控制縮放之虛擬搖桿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has a web server embedded in the system for live surveillance and remote video playback.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T140535Z" creationid="Judy" creationdate="20151014T140535Z">
+        <seg>系統內建網站伺服器，能進行現場監控和遠端視訊播放。</seg>
       </tuv>
     </tu>
     <tu>
