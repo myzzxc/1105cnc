@@ -4489,6 +4489,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All these alarm actions can be independently configured for each camera and all of them must have an operation schedule, whereas they shall be called upon only if the scheduling permits them to do so.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T121648Z" creationid="Judy" creationdate="20151014T121648Z">
+        <seg>所有的警報操作都能在每台攝影機上獨立設定，且全部攝影機都必須有一組操作排程，而攝影機只會依照排程作動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All these prerequisites have enabled the company to become structurally stronger thanks to the constant increase of sales and the extension of its end markets.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T022830Z">
