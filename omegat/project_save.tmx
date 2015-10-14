@@ -20922,6 +20922,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It provides actions such as manual alarm, in which the operator shall be able to trigger the pro-active actions through a single click on a list of actions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T122751Z" creationid="Judy" creationdate="20151014T122751Z">
+        <seg>系統提供手動警報功能，可讓操作人員點擊動作清單以起動主動警報動作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It provides all the capabilities business users need at significant cost savings over Adobe.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T123710Z">
@@ -36876,6 +36884,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T122504Z" creationid="Judy" creationdate="20151014T122504Z">
         <seg>系統也能在攝影機或視訊伺服器失效或影像錄製過程中發生任何錯誤時採取所有這些主動措施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The System provides a recognition schedule for external alarm per camera, in other words, it may recognize the alarm only during these preset periods.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T122936Z" creationid="Judy" creationdate="20151014T122936Z">
+        <seg>系統為每台攝影機提供外部警報識別排程，換句話說，它只能在預設時間內識別這些警報。</seg>
       </tuv>
     </tu>
     <tu>
