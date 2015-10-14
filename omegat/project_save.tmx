@@ -4032,6 +4032,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Administration:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T132350Z" creationid="Judy" creationdate="20151014T132350Z">
+        <seg>管理：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adobe Position:  We created PDF, you should go with Adobe because we are who we are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054610Z">
@@ -19186,6 +19194,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows detection of audio level for alerts and events.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T132346Z" creationid="Judy" creationdate="20151014T132346Z">
+        <seg>允許偵測音量以觸發警報和事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows e-mails to be sent through SMTP to make use of servers with SSL authentication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025652Z" creationid="Judy" creationdate="20151011T025652Z">
@@ -19236,8 +19252,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It allows generating a communication failure event if the device remains out of operation for longer than X seconds, with the option of continue to issue the event at each X seconds while the device is off-line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T132053Z" creationid="Judy" creationdate="20151014T132053Z">
-        <seg>允許生成通訊故障事件，如果該設備仍然不能長於 X 秒，用的選項運行繼續發行該事件在每個 X 秒時，設備離線。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T132313Z" creationid="Judy" creationdate="20151014T132053Z">
+        <seg>允許於裝置無法操作超過 X 秒時產生通訊故障事件，可選擇當裝置斷線時每 X 秒持續發出事件通知。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46679,6 +46695,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082751Z">
         <seg>• 直覺的操作介面，彩色圖形化的圖像可供快速、準確地操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• It has a feature for automatically sending server reports via e-mail, containing information such as recording status and the most recent accesses to the server.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T132503Z" creationid="Judy" creationdate="20151014T132503Z">
+        <seg>• 具有透過電子郵件自動發送伺服器報告之功能，其中包含如錄影狀態和最新的伺服器存取資訊。</seg>
       </tuv>
     </tu>
     <tu>
