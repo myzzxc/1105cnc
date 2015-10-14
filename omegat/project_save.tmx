@@ -20602,6 +20602,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features user control and password with differentiated rights for each user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T135317Z" creationid="Judy" creationdate="20151014T135317Z">
+        <seg>具有使用者控制和每個使用者的權限區分密碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features various alarm sounds in order to enable the operators to differentiate each alarm by means of a different sound.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T125222Z" creationid="Judy" creationdate="20151014T125222Z">
@@ -20742,6 +20750,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T142401Z" creationid="Judy" creationdate="20151013T142401Z">
         <seg>具有事件影像即時重播功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has integration with Microsoft's Active Directory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T135333Z" creationid="Judy" creationdate="20151014T135333Z">
+        <seg>可與微軟之 Active Directory 整合。</seg>
       </tuv>
     </tu>
     <tu>
