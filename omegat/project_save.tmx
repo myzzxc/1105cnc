@@ -19186,6 +19186,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows configuring a standard directory to export media and photos from the surveillance client screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T143202Z" creationid="Judy" creationdate="20151014T143202Z">
+        <seg>允許設置標準的目錄，用於從監控用戶端螢幕匯出媒體和照片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows control through visual indicators (such as open door, turn light on, trigger siren).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151314Z" creationid="Judy" creationdate="20151012T151219Z">
@@ -19606,6 +19614,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131736Z" creationid="Judy" creationdate="20151013T131736Z">
         <seg>也支援使用滑鼠滾輪進行縮放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It automatic searches for cameras on the network via UPnP protocol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T143336Z" creationid="Judy" creationdate="20151014T143336Z">
+        <seg>透過 UPnP 協定自動搜尋網路上之攝影機。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20078,6 +20094,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T074302Z" creationid="Judy" creationdate="20151010T074302Z">
         <seg>能選擇開啟媒體播放器之標準監視器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the selection of the fonts to be used in the titles of cameras on the surveillance screen in regards to their format, size and color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T143106Z" creationid="Judy" creationdate="20151014T143106Z">
+        <seg>允許在監控螢幕上選擇攝影機標題之字體格式、大小和顏色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37196,6 +37220,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112923Z">
         <seg>場景中新增的物體也利用與取走物體類似的偵測方法，但不是去尋找辨識背景中的空洞，而是尋找在畫面中停留時間夠久，因而成為辨識背景一部分的新增物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The administration and surveillance clients may automatically locate all the video recording servers available on the local network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T143303Z" creationid="Judy" creationdate="20151014T143303Z">
+        <seg>管理和監控用戶端可自動搜尋區域網路上所有可用的視訊錄影伺服器。</seg>
       </tuv>
     </tu>
     <tu>
