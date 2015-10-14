@@ -19218,10 +19218,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows for an audio detection event if the level is above or below a preset limit for a specified length of time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131941Z" creationid="Judy" creationdate="20151014T131941Z">
+        <seg>可使用音訊偵測事件，當音量高於或低於預設限制值超過指定的時間長度時起動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows for video resizing during export in AVI to ensure better compatibility with existing codecs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T145127Z" creationid="Judy" creationdate="20151013T145127Z">
         <seg>匯出 AVI 時可調整影像大小，以確保與現有的編碼器有更好的相容性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows generating a communication failure event if the device remains out of operation for longer than X seconds, with the option of continue to issue the event at each X seconds while the device is off-line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T132053Z" creationid="Judy" creationdate="20151014T132053Z">
+        <seg>允許生成通訊故障事件，如果該設備仍然不能長於 X 秒，用的選項運行繼續發行該事件在每個 X 秒時，設備離線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21151,6 +21167,22 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135143Z">
         <seg>其支援經由GPRS連線之TCP/UDP和HTTP通訊協定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports an unlimited number of I/O modules.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T132008Z" creationid="Judy" creationdate="20151014T132008Z">
+        <seg>支援無限數量的 I/O 模組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports an unlimited number of registered system users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T132022Z" creationid="Judy" creationdate="20151014T132022Z">
+        <seg>支援無限數量的系統註冊使用者。</seg>
       </tuv>
     </tu>
     <tu>
