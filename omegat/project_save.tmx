@@ -17775,6 +17775,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In camera registry, it is possible to choose the desired columns for improved identification, such as: name, description, firmware, port, address, user, whether it is active or not, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T144759Z" creationid="Judy" creationdate="20151014T144759Z">
+        <seg>攝影機註冊表中，可以選擇所需的欄位以提高辨識性，如：名稱、說明、韌體、連接埠、位址、使用者是否活動中等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In case of even temporary non-respect of one or more regulatory requirements, the Supplier must inform the HUTCHNSON Purchasing and/or Quality Department manager as soon as possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173735Z">
