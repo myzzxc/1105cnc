@@ -4240,6 +4240,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm events directed only for specific Users or Group of Users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T125917Z" creationid="Judy" creationdate="20151014T125917Z">
+        <seg>警報事件只傳送至特定的使用者或使用者群組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Albrighton Business Park, Newport Road, Albrighton, Wolverhampton, England WV7 3ET Tel: +44 190 237 6382 Fax: +44 190 237 5662 Email: enquiries@axyz.com Web: www.axyz.com</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T084127Z">
