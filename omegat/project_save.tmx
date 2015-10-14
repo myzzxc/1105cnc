@@ -19170,6 +19170,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows all the screens from registered objects from the system's administration client to be exported in screen, and with this, the administrator may generate reports with the desired information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T151337Z" creationid="Judy" creationdate="20151014T151337Z">
+        <seg>允許從系統管理用戶端中已註冊物件的所有螢幕匯出至螢幕中，此功能使管理員能會生成具有所需資訊的報表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows another map to be opened through a link, thus making it a map of levels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151223Z" creationid="Judy" creationdate="20151012T151213Z">
@@ -19366,6 +19374,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T095812Z" creationid="Judy" creationdate="20151011T095812Z">
         <seg>允許透過書籤搜尋和複製時間軸上的影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows searching by date and starting and ending times, in the audit system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T151520Z" creationid="Judy" creationdate="20151014T151520Z">
+        <seg>允許於審核系統中依日期以及開始和結束時間搜尋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20038,6 +20054,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T125512Z" creationid="Judy" creationdate="20151008T125512Z">
         <seg>允許透過多點傳送依需求發送影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables the import of cameras, alarm devices, users, configurations of analytics, and LPR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T151129Z" creationid="Judy" creationdate="20151014T151129Z">
+        <seg>可匯入攝影機、警報裝置、使用者、分析之設置和 LPR。</seg>
       </tuv>
     </tu>
     <tu>
