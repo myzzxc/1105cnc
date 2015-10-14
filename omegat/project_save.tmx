@@ -36872,6 +36872,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The System can also take all these pro-active measures if the camera or video server becomes inoperative and/or any error takes place during image recording.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T122504Z" creationid="Judy" creationdate="20151014T122504Z">
+        <seg>系統也能在攝影機或視訊伺服器失效或影像錄製過程中發生任何錯誤時採取所有這些主動措施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The System takes pro-active actions in the detection of movements from the cameras on preset times, that is, if on a preset time, where no movement should take place in a particular camera, the system detects movement, all previously described alarms actions shall take place (sending e-mail / SMS), opening images from cameras in pop-ups, sounding alarms, sending instant messages to the operator, positioning PTZ cameras in preset points and triggering alarm outputs from the cameras and/or video servers).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T122352Z" creationid="Judy" creationdate="20151014T122352Z">
+        <seg>在預設時間中系統對動作偵測採取主動行動，亦即在預設的時間之中攝影機畫面沒有動作發生，當系統偵測到動作時，將進行所有上述警報操作 (發送電子郵件 / 簡訊)、彈出攝影機影像畫面、發出警報聲、發送即時訊息至操作人員、將 PTZ 攝影機定位至預設點並觸發攝影機和視訊伺服器之警報輸出 )。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Tangential Knife adds the robustness needed for heavier knife cutting applications than the vinyl knife can accommodate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T143046Z">
