@@ -20154,10 +20154,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables other systems via Digifort to activate alarm outputs from cameras / video servers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134052Z" creationid="Judy" creationdate="20151015T134052Z">
+        <seg>其它系統能透過 Digifort 來啟動攝影機或視訊伺服器的警報輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables other systems via Digifort to check the status of I/O ports from alarm devices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134001Z" creationid="Judy" creationdate="20151015T134001Z">
+        <seg>其它系統能透過 Digifort 來檢查警報裝置 I/O 連接埠的狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables other systems via Digifort to check the status of I/O ports from cameras / video servers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T133916Z" creationid="Judy" creationdate="20151015T133916Z">
-        <seg>其它系統能透過 Digifort 來檢查攝影機或是訊伺服器的 I/O 連接埠的狀態。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134008Z" creationid="Judy" creationdate="20151015T133916Z">
+        <seg>其它系統能透過 Digifort 來檢查攝影機或視訊伺服器的 I/O 連接埠的狀態。</seg>
       </tuv>
     </tu>
     <tu>
