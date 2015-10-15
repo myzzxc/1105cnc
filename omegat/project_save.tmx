@@ -20930,6 +20930,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has filters for image control (Blur, Gaussian Blur, Sharpen, Emboss, Flip, Flop, Gray Scale and Invert) per camera (Video Playback and Live Surveillance) with preset configurations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T121305Z" creationid="Judy" creationdate="20151015T121305Z">
+        <seg>每台攝影機 (視訊播放和現場監控) 具有預設影像控制濾鏡 (模糊、高斯模糊、銳化、浮雕、翻轉、多層影像、灰階和負片效果)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has instant playback of videos from events.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T142401Z" creationid="Judy" creationdate="20151013T142401Z">
