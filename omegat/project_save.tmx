@@ -20106,6 +20106,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables integration with other systems to search recordings from any camera.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T133343Z" creationid="Judy" creationdate="20151015T133343Z">
+        <seg>可整合其它系統以從任何攝影機搜尋錄影。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables live and sectorized audio surveillance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T012901Z" creationid="Judy" creationdate="20151010T012901Z">
@@ -20118,6 +20126,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141242Z" creationid="Judy" creationdate="20151008T141242Z">
         <seg>直接由攝影機處理運動偵測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables other systems through Digifort to acquire PTZ control (Pan, Tilt, Optical zoom) and digital zoom.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T133510Z" creationid="Judy" creationdate="20151015T133510Z">
+        <seg>其它系統能透過 Digifort 取得 PTZ 控制 (平移、傾斜、光學變焦) 和數位變焦。</seg>
       </tuv>
     </tu>
     <tu>
