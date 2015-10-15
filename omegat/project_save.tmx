@@ -20010,6 +20010,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the authorized user to receive all controls for system operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125431Z" creationid="Judy" creationdate="20151015T125431Z">
+        <seg>允許授權的使用者進行所有系統操作控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables the automatic creation of a bookmark, whenever an event takes place.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T105102Z" creationid="Judy" creationdate="20151011T105102Z">
@@ -20710,6 +20718,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T141727Z" creationid="Judy" creationdate="20151008T141727Z">
         <seg>針對性警報事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features image viewing via cell phone or any compatible mobile device running Android Armset or higher and IOS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125610Z" creationid="Judy" creationdate="20151015T125610Z">
+        <seg>具有透過手機或或任何運行 Android Armset 以上版和 IOS 的相容行動裝置查看圖像的功能，。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23873,6 +23889,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091756Z">
         <seg>噴頭配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mobile Device Access:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125439Z" creationid="Judy" creationdate="20151015T125439Z">
+        <seg>行動裝置存取：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39439,6 +39463,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T120142Z" creationid="Judy" creationdate="20151015T120142Z">
         <seg>監控站所有時間都可提供已連接之操作人員名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The surveillance system via browser allows the user to view all cameras through previously created mosaics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125320Z" creationid="Judy" creationdate="20151015T125320Z">
+        <seg>瀏覽器監控系統允許使用者透過先前建立之馬賽克分割畫面查看所有攝影機。</seg>
       </tuv>
     </tu>
     <tu>
