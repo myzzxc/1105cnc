@@ -16774,6 +16774,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IP Surveillance System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134712Z" creationid="Judy" creationdate="20151015T134712Z">
+        <seg>IP 監控系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IP5X certified dustproofing lets you use Everio in some seriously dusty environments without worry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125808Z">
@@ -20206,6 +20214,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134008Z" creationid="Judy" creationdate="20151015T133916Z">
         <seg>其它系統能透過 Digifort 來檢查攝影機或視訊伺服器的 I/O 連接埠的狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables other systems via Digifort to work with global events.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134611Z" creationid="Judy" creationdate="20151015T134611Z">
+        <seg>其它系統能透過 Digifort 來操作全體事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25531,6 +25547,14 @@ without the documented approval of the appropriate Quality Control personnel.
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051453Z">
         <seg>註：此功能預設為“
 Nuance 線上說明”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: To learn more on the operational and administrative features, see our manuals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134702Z" creationid="Judy" creationdate="20151015T134702Z">
+        <seg>註：欲瞭解更多的操作和管理功能，請參閱我們的說明手冊。</seg>
       </tuv>
     </tu>
     <tu>
