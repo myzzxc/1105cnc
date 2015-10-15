@@ -20146,10 +20146,42 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables other systems integrated with Digifort to acquire PTZ control of the cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134322Z" creationid="Judy" creationdate="20151015T134322Z">
+        <seg>其它系統能與 Digifort 整合以取得攝影機的 PTZ 控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables other systems through Digifort to acquire PTZ control (Pan, Tilt, Optical zoom) and digital zoom.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T133510Z" creationid="Judy" creationdate="20151015T133510Z">
         <seg>其它系統能透過 Digifort 取得 PTZ 控制 (平移、傾斜、光學變焦) 和數位變焦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables other systems to acquire a "Camera Listing".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134346Z" creationid="Judy" creationdate="20151015T134346Z">
+        <seg>其它系統能取得“攝影機清單”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables other systems to acquire an "Alarm Device Listing".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134431Z" creationid="Judy" creationdate="20151015T134431Z">
+        <seg>其它系統能取得“警報裝置清單”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables other systems via Digifort to activate alarm outputs from alarm devices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T134241Z" creationid="Judy" creationdate="20151015T134241Z">
+        <seg>其它系統能透過 Digifort 來啟動警報裝置的警報輸出。</seg>
       </tuv>
     </tu>
     <tu>
