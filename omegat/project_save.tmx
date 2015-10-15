@@ -19634,6 +19634,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the use of a cell phone integrated to the system, as if it were a camera from the system itself, enabling the transmission of live images via 3G, 4G, or wi-fi, directly to the surveillance center as well as enabling these images to be automatically recorded on the CCTV system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T130427Z" creationid="Judy" creationdate="20151015T130427Z">
+        <seg>允許整合系統至手機中，於手機上操作如同系統本身攝影機畫面，透過 3g、 4g 或 wi-fi 直接與監控中心進行即時的圖像傳輸，以及設定圖像自動記錄在閉路電視系統上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the use of any image resolution.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T023842Z" creationid="Judy" creationdate="20151011T023842Z">
