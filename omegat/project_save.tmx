@@ -19122,6 +19122,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows PTZ control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125918Z" creationid="Judy" creationdate="20151015T125918Z">
+        <seg>它允許 PTZ 控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows a camera to be opened by directly clicking on its icon on the map.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151048Z" creationid="Judy" creationdate="20151012T151048Z">
@@ -19230,6 +19238,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T143202Z" creationid="Judy" creationdate="20151014T143202Z">
         <seg>允許設置標準的目錄，用於從監控用戶端螢幕匯出媒體和照片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows connections to multiple servers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125741Z" creationid="Judy" creationdate="20151015T125741Z">
+        <seg>允許連接至多個伺服器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19382,6 +19398,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T141956Z" creationid="Judy" creationdate="20151012T141956Z">
         <seg>允許遠端操作執行緊急本機記錄，記錄正在監控的影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows saving a screenshot of the image on the mobile device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125847Z" creationid="Judy" creationdate="20151015T125806Z">
+        <seg>允許在行動裝置上儲存圖像的螢幕截圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19602,10 +19626,34 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the use of presets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125940Z" creationid="Judy" creationdate="20151015T125936Z">
+        <seg>允許使用預設設置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the user to choose the interval for skipping (X minutes) ahead or back on the recorded video, thus easing the analysis of the recorded video.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T144220Z" creationid="Judy" creationdate="20151013T144220Z">
         <seg>允許使用者選擇錄製之影像向前或向後跳轉之時間間隔 (X 分鐘)，以簡化錄製影像的分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows viewing cameras individually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125817Z" creationid="Judy" creationdate="20151015T125804Z">
+        <seg>允許個別查看攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows viewing the image in full screen or in mosaics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125911Z" creationid="Judy" creationdate="20151015T125911Z">
+        <seg>允許全螢幕或分割畫面查看圖像。</seg>
       </tuv>
     </tu>
     <tu>
