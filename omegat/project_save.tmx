@@ -11232,6 +11232,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digifort enables integration with other systems, making their APIs (ActiveX and HTTP API) available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T132441Z" creationid="Judy" creationdate="20151015T132441Z">
+        <seg>Digifort 能與其他系統的整合，可使用其 API (ActiveX 和 HTTP API)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digital I/O Pins</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T052925Z">
@@ -18832,6 +18840,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Integration with Digifort</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T131025Z" creationid="Judy" creationdate="20151015T131025Z">
+        <seg>與 Digifort 整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Integration with Digifort Evidence</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T124759Z" creationid="Judy" creationdate="20151008T124759Z">
@@ -19382,6 +19398,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T152121Z" creationid="Judy" creationdate="20151012T152121Z">
         <seg>能監控或直播或錄製 360 度全景鏡頭產生之影像，並控制四格畫面、虛擬區域或虛擬 PTZ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows operation via virtual matrix enabling the transmission of an image from one camera within a mosaic directly to the video wall.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T131013Z" creationid="Judy" creationdate="20151015T131013Z">
+        <seg>可透過虛擬矩陣進行圖像傳輸操作，將分割畫面的其中一個攝影機畫面直接傳至電視牆。</seg>
       </tuv>
     </tu>
     <tu>
