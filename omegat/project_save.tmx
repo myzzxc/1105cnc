@@ -39483,6 +39483,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The system was designed to enable remote access, allowing remote access to live images and video playback through an integrated Web server or the system's client.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125129Z" creationid="Judy" creationdate="20151015T125129Z">
+        <seg>系統可啟用遠端存取，允許透過整合網站伺服器或系統用戶端遠端存取現場圖像和視訊重播。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system works in two ways: With Physical Sensor or with Virtual Sensor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084040Z">
