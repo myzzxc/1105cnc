@@ -19482,6 +19482,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the configuration of an audio buffer with the purpose of offering continuous and crisp playback.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T120224Z" creationid="Judy" creationdate="20151015T120224Z">
+        <seg>允許設定供連續和快速播放之音訊緩衝區。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the configuration of independent schedules for each event of alarm input (cameras and I/O devices).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131538Z" creationid="Judy" creationdate="20151014T131538Z">
@@ -20950,6 +20958,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132527Z" creationid="Judy" creationdate="20151013T132527Z">
         <seg>具有支援類比攝影機的本機協定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has privacy mask features (inhibiting certain screen areas in order to hide any details on the screen) for fixed cameras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T120410Z" creationid="Judy" creationdate="20151015T120410Z">
+        <seg>固定式攝影機具有隱私遮罩功能 (遮住某些螢幕區域以隱藏在螢幕上的任何細節)。</seg>
       </tuv>
     </tu>
     <tu>
