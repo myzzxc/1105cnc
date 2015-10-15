@@ -19482,6 +19482,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the activation of alarms (Turn on Lamps, trigger siren, open and close gates, etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T130148Z" creationid="Judy" creationdate="20151015T130148Z">
+        <seg>允許啟動警報 (開燈、觸發警笛、開門和關門等)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the automatic creation of bookmarks whenever movement is detected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T105123Z" creationid="Judy" creationdate="20151011T104858Z">
@@ -19526,6 +19534,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131538Z" creationid="Judy" creationdate="20151014T131538Z">
         <seg>允許為警報輸入 (攝影機和輸/輸出設備) 的每個事件設定獨立的排程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows the configuration of viewing by Resolution, Image Quality and Frames per Second (FPS).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T130023Z" creationid="Judy" creationdate="20151015T130023Z">
+        <seg>允許設定檢視解析度、圖像品質和每秒幀數 (FPS)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19878,6 +19894,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T062428Z" creationid="Judy" creationdate="20151010T062428Z">
         <seg>顯示連接到監控用戶端之操作人員的名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It displays the status of Consumer Bandwidth in Kbytes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T130115Z" creationid="Judy" creationdate="20151015T130115Z">
+        <seg>以 Kb 為單位顯示客戶的頻寬狀態。</seg>
       </tuv>
     </tu>
     <tu>
