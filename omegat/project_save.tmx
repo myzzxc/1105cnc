@@ -3663,6 +3663,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access via Browser:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T121614Z" creationid="Judy" creationdate="20151015T121614Z">
+        <seg>透過瀏覽器存取：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access your documents stored in cloud based services such as Evernote and Dropbox</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T144308Z">
@@ -20686,6 +20694,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131417Z" creationid="Judy" creationdate="20151013T131417Z">
         <seg>每台攝影機具有超過 64 組預設 (預設數目取決於攝影機) PTZ 攝影機控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It features control over image shades (Red, Green, Blue, Contract, Brightness and Color Level) per camera (Video Playback and Live Surveillance) with preset configurations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T121446Z" creationid="Judy" creationdate="20151015T121446Z">
+        <seg>每台攝影機 (視訊播放和現場監控) 具有預設影像控制色調 (紅色、綠色、藍色、對比、亮度和色彩級別)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39455,6 +39471,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T143905Z" creationid="Judy" creationdate="20151014T143905Z">
         <seg>系統可提供每台攝影機的斷線時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system offers the option of image cropping with the purpose of selecting an area in the image which will remain visible to other users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T121603Z" creationid="Judy" creationdate="20151015T121603Z">
+        <seg>系統提供影像剪裁選項，用於選擇影像中其他使用者可看見的一個區域。</seg>
       </tuv>
     </tu>
     <tu>
