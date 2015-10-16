@@ -19740,8 +19740,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It allows the simultaneous viewing of recordings from more than one camera, through mosaics, thus allowing the reproduction of several cameras concurrently, over the same length of time, easing the review and analysis of the recorded images.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T132731Z" creationid="Judy" creationdate="20151016T132731Z">
-        <seg>允許透過馬賽克分割畫面同時從多台攝影機觀看錄影，從而能複製多台攝影機畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133311Z" creationid="Judy" creationdate="20151016T132731Z">
+        <seg>允許透過馬賽克分割畫面同時從多台攝影機觀看錄影，從而能於相同的時間範圍內複製多台攝影機畫面，同時檢查並分析錄製之影像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19830,6 +19830,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T134124Z" creationid="Judy" creationdate="20151013T134124Z">
         <seg>在單一監控用戶端中允許無限攝影機同時播放影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows, in a single surveillance client, video playback until 64 cameras concurrently.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133511Z" creationid="Judy" creationdate="20151016T133511Z">
+        <seg>在單一監控用戶端中允許最多 64 台攝影機同時播放影像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21058,6 +21066,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It features simultaneous video playback and export ( until 64 ).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133544Z" creationid="Judy" creationdate="20151016T133544Z">
+        <seg>能同時進行影像播放和匯出 (最多 64 台)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It features simultaneous video playback and export.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T134241Z" creationid="Judy" creationdate="20151013T134241Z">
@@ -21126,6 +21142,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T132935Z">
         <seg>其中提供了跨功能檢視產品類別，於整個模塊功能展開程序中將關鍵資訊傳送到市場行銷、生產和工程師手上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has a Synoptic Map for live surveillance ( until 10 maps ).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133417Z" creationid="Judy" creationdate="20151016T133417Z">
+        <seg>現場監控具有縱觀影像 (Synoptic Map) (最多 10 個影像畫面)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21314,10 +21338,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has synchronized export from simultaneous multiple cameras ( until 64 ).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133530Z" creationid="Judy" creationdate="20151016T133530Z">
+        <seg>具有同時從多組攝影機同步匯出之功能 (最多 64 台)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has synchronized export from simultaneous multiple cameras.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T134205Z" creationid="Judy" creationdate="20151013T134205Z">
         <seg>具有同時從多組攝影機同步匯出之功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has synchronized playback from multiple simultaneous cameras ( until 64 ).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133448Z" creationid="Judy" creationdate="20151016T133448Z">
+        <seg>具有從多台攝影機同步播放功能 (最多 64 台)。</seg>
       </tuv>
     </tu>
     <tu>
