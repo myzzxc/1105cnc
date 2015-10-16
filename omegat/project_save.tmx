@@ -21178,6 +21178,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has a feature for automatically sending server reports via e-mail, containing information such as recording status and the most recent accesses to the server.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133717Z" creationid="Judy" creationdate="20151016T133717Z">
+        <seg>具有透過電子郵件自動發送伺服器報告之功能，其中包含如錄影狀態和最新的伺服器存取資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has a joystick interface to control the PTZ cameras.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131507Z" creationid="Judy" creationdate="20151013T131507Z">
@@ -21811,6 +21819,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports UNTIL 6 I/O modules.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133613Z" creationid="Judy" creationdate="20151016T133613Z">
+        <seg>支援 6 組 I/O 模組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports an unlimited number of I/O modules.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T132008Z" creationid="Judy" creationdate="20151014T132008Z">
@@ -21867,10 +21883,26 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports global event ( until 24 )</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133631Z" creationid="Judy" creationdate="20151016T133631Z">
+        <seg>支援整體事件 (最多 24 組)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports image recording and surveillance in Motion-JPEG, MPEG-4, H.263 and H.264.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022755Z" creationid="Judy" creationdate="20151011T022755Z">
         <seg>支援 Motion-JPEG、MPEG-4、H.263 和 H.264 格式之影像錄製和監控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports live surveillance of 64 cameras per client with different screen styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133751Z" creationid="Judy" creationdate="20151016T133751Z">
+        <seg>即時監控支援 64 台攝影機使用不同螢幕樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26412,6 +26444,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130044Z">
         <seg>官方電子郵件地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OiEiFort</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133643Z" creationid="Judy" creationdate="20151016T133643Z">
+        <seg>DigiFort</seg>
       </tuv>
     </tu>
     <tu>
