@@ -21835,6 +21835,22 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports multi-monitor ( limit 4 )</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T132605Z" creationid="Judy" creationdate="20151016T132605Z">
+        <seg>支援多顯示器 (最多 4 台)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports multi-users ( limit 64 )</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T132544Z" creationid="Judy" creationdate="20151016T132544Z">
+        <seg>支援多使用者 (最多 64 位使用者)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports notification via HTTP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T133130Z" creationid="Judy" creationdate="20151008T133130Z">
@@ -37084,6 +37100,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Professional edition was developed with the aim of preserving the customer's investment, maintaining all the characteristics from the earlier versions, combined to new unique features, as well as providing greater scalability for future expansions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T132425Z" creationid="Judy" creationdate="20151016T132425Z">
+        <seg>專業版的開發目標為維護客戶的投資、維持早期版本中的功能並整合至全新的獨有功能，以及對未來的擴展，提供更大的擴充性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Quality Control Manual is applicable to the activities, procedures and products of:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T045903Z">
@@ -44891,6 +44915,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T021338Z" creationid="Judy" creationdate="20151011T021338Z">
         <seg>使用 Digifort 企業版將為數位 (IP) 監控攝影機和警報系統帶來市場上最佳的解決方案，其介面調整直觀且容易理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With Digifort Professional you will have the best solution for digital (IP) surveillance of cameras and alarms available on the market, with intuitive adjustments and easy to understand.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T132459Z" creationid="Judy" creationdate="20151016T132459Z">
+        <seg>使用 Digifort 專業版將為數位 (IP) 監控攝影機和警報系統帶來市場上最佳的解決方案，其介面調整直觀且容易理解。</seg>
       </tuv>
     </tu>
     <tu>
