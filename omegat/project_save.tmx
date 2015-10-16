@@ -19738,6 +19738,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows the simultaneous viewing of recordings from more than one camera, through mosaics, thus allowing the reproduction of several cameras concurrently, over the same length of time, easing the review and analysis of the recorded images.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T132731Z" creationid="Judy" creationdate="20151016T132731Z">
+        <seg>允許透過馬賽克分割畫面同時從多台攝影機觀看錄影，從而能複製多台攝影機畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows the surveillance mosaic to be dynamically updated in real time when created, updated or erased at all the surveillance clients, without the need to reconnect to the server.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125246Z" creationid="Judy" creationdate="20151012T125246Z">
