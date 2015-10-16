@@ -11288,6 +11288,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digifort Professional enables the use of a wide variety of IP Cameras and Video Servers from different manufacturers, thus enabling the choice of the hardware set that best meets the needs of the customer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T132226Z" creationid="Judy" creationdate="20151016T132226Z">
+        <seg>Digifort 專業版能使用各式各樣來自不同的製造商的 IP 攝影機和視訊伺服器，因而最能滿足客戶的硬體選擇需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digifort enables integration with other systems, making their APIs (ActiveX and HTTP API) available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T132441Z" creationid="Judy" creationdate="20151015T132441Z">
