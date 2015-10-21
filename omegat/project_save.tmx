@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(74) Attorney, Agent, or Firm — Faegre Baker Daniels LLP (57)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T125322Z" creationid="CCYU" creationdate="20151021T125322Z">
+        <seg>(74) 專利代理人 — Faegre Baker Daniels 律師事務所 (57)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(75) Inventors: Michael D Schneider, Dalbo, MN (US);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121927Z" creationid="CCYU" creationdate="20151021T121856Z">
@@ -3070,6 +3078,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133658Z">
         <seg>A000025（有PoE）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ABSTRACT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T125325Z" creationid="CCYU" creationdate="20151021T125325Z">
+        <seg>摘要</seg>
       </tuv>
     </tu>
     <tu>
@@ -39453,6 +39469,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T134127Z">
         <seg>所有醫療組織所需的強大的功能，以及使用者已經熟悉的操作介面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The present invention relates to all terrain vehicles having at least a pair of laterally spaced apart seating surfaces.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T125559Z" creationid="CCYU" creationdate="20151021T125559Z">
+        <seg>本發明為涉及具有至少一對並排分開的座位面之方向盤式全地形車。</seg>
       </tuv>
     </tu>
     <tu>
