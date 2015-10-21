@@ -40269,10 +40269,18 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The side net assembly can be in a latched position when a rider is in the vehicle and can be collapsed to allow ingress and egress of a rider</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T231444Z" creationid="Judy" creationdate="20151021T231444Z">
+        <seg>當駕駛位於車輛中時，其側邊護網組件位於鎖定位置並可摺疊以便駕駛進出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The side net assembly comprises a pivotal bar and a net supported by the pivotal bar, where the side net assembly is supported by one of the frame tubes and is latchable to another of the frame tubes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T230923Z" creationid="Judy" creationdate="20151021T230923Z">
-        <seg>側邊護網組包含The side net assembly comprises a pivotal bar and a net supported by the pivotal bar, where the side net assembly is supported by one of the frame tubes and is latchable to another of the frame tubes.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T231318Z" creationid="Judy" creationdate="20151021T230923Z">
+        <seg>側邊護網組包含由樞軸桿支撐之護網，側邊護網組由其中一支框架管所支撐並可鎖定於另一支框架管。</seg>
       </tuv>
     </tu>
     <tu>
