@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(12) United States Patent</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121226Z" creationid="CCYU" creationdate="20151021T121226Z">
+        <seg>(12) 美國專利</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(3+ 5-door)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032824Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124950Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(io) Patent No.:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121256Z" creationid="CCYU" creationdate="20151021T121256Z">
+        <seg>(io) 專利號：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32831,6 +32847,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130600Z">
         <seg>電路圖：arduino_9AxesShield-schematic.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schneider et al.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121242Z" creationid="CCYU" creationdate="20151021T121242Z">
+        <seg>Schneider 等人</seg>
       </tuv>
     </tu>
     <tu>
