@@ -13802,8 +13802,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FIG. 1 shows a left front perspective view of the vehicle of the present disclosure;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T232226Z" creationid="Judy" creationdate="20151021T232226Z">
-        <seg>圖 1 為此揭露中之車輛的左前方全景視圖</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T232336Z" creationid="Judy" creationdate="20151021T232226Z">
+        <seg>圖 1 為此揭露中之車輛的左前方透視圖；</seg>
       </tuv>
     </tu>
     <tu>
@@ -13832,6 +13832,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIG. 2 shows a left rear perspective view of the vehicle of FIG. 1;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T232330Z" creationid="Judy" creationdate="20151021T232242Z">
+        <seg>圖 2 為圖 1 之車輛的左後方透視圖；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIG. 28A \</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T143013Z" creationid="Judy" creationdate="20151021T143013Z">
@@ -13840,10 +13848,42 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIG. 3 shows a left side view of the vehicle of FIG. 1;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T232409Z" creationid="Judy" creationdate="20151021T232409Z">
+        <seg>圖 3 為圖 1 之車輛的左側視圖；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIG. 4 shows a top view of the vehicle of FIG. 1;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T232435Z" creationid="Judy" creationdate="20151021T232421Z">
+        <seg>圖 4 為圖 1 之車輛的上視圖；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIG. 5</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T142550Z" creationid="Judy" creationdate="20151021T142550Z">
         <seg>圖 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIG. 5 shows a front view of the vehicle of FIG. 1;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T232440Z" creationid="Judy" creationdate="20151021T232432Z">
+        <seg>圖 5 為圖 1 之車輛的前視圖；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIG. 6 shows a rear view of the vehicle of FIG. 1;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T232453Z" creationid="Judy" creationdate="20151021T232453Z">
+        <seg>圖 6 為圖 1 之車輛的後視圖；</seg>
       </tuv>
     </tu>
     <tu>
