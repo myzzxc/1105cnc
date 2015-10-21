@@ -27907,8 +27907,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PATENT DOCUMENTS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T124821Z" creationid="CCYU" creationdate="20151021T124821Z">
-        <seg>專利文件</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T124946Z" creationid="CCYU" creationdate="20151021T124821Z">
+        <seg>專利文獻</seg>
       </tuv>
     </tu>
     <tu>
@@ -30201,6 +30201,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T124008Z">
         <seg>早期核准版本 2014年5月、2013年12月、2013年6月、2013年2月、2012年2月、2011年6月、2009年11月、2009年6 月、2008年10月、2008年8 月、2008年5 月、2008年2月2008年1月、2007年10月、2007年6月、2007年2月、2006年6月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Primary Examiner — Toan To</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T125014Z" creationid="CCYU" creationdate="20151021T125014Z">
+        <seg>專利審查委員 — Toan To</seg>
       </tuv>
     </tu>
     <tu>
