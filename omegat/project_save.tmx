@@ -1629,6 +1629,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>14, 2009, 6 pages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T141641Z" creationid="Judy" creationdate="20151021T141641Z">
+        <seg>6 頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>14, 2010, 5 pages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T141228Z" creationid="Judy" creationdate="20151021T141228Z">
@@ -28267,8 +28275,16 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>POLARIS Industries, Ranger Catalog, 2008 (32 pgs.).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T140949Z" creationid="Judy" creationdate="20151021T140522Z">
-        <seg>北極星工業型錄 POLARIS Industries, Ranger Catalog, 2008 (32 頁)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T141919Z" creationid="Judy" creationdate="20151021T140522Z">
+        <seg>北極星工業越野車型錄 POLARIS Industries, Ranger Catalog, 2008 (32 頁)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POLARIS Industries, Ranger RZR Catalog, 2008 (12 pgs.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T141909Z" creationid="Judy" creationdate="20151021T141909Z">
+        <seg>北極星工業越野車型錄 POLARIS Industries, Ranger RZR Catalog, 2008 (12 pgs.).</seg>
       </tuv>
     </tu>
     <tu>
