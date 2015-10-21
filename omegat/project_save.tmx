@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(75) Inventors: Michael D Schneider, Dalbo, MN (US);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121927Z" creationid="CCYU" creationdate="20151021T121856Z">
+        <seg>(75) 發明人：Michael D Schneider， 明尼蘇達州 Dalbo (美國)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A) 1/3 SHIPPED ON BOARD ORIGINAL BILL OF LADING STATED FREIGHT INCLUDING “THC AT PORT OF DISCHARGE PREPAID".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T234846Z">
@@ -24033,6 +24041,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T025418Z">
         <seg>整合於 Palma® 軟體中的方法能確保一致性和效率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Michael J Hanten, Delano, MN (US); Cal W Johnson, Gem Lake, MN (US); Kevin Van Bronkhorst, St. Croix Falls, WI (US)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121924Z" creationid="CCYU" creationdate="20151021T121924Z">
+        <seg>Michael J Hanten，明尼蘇達州 Delano (美國)、, MN (US); Cal W Johnson, Gem Lake, MN (US); Kevin Van Bronkhorst, St. Croix Falls, WI (US)</seg>
       </tuv>
     </tu>
     <tu>
