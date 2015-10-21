@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>( * ) Notice:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T122626Z" creationid="CCYU" creationdate="20151021T122626Z">
+        <seg>( * ) 註：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>( 3.7Kw) (3 Phase)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050155Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125319Z">
         <seg>(64-位元版本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(73) Assignee: Polaris Industries Inc., Medina, MN (US)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T122614Z" creationid="CCYU" creationdate="20151021T122614Z">
+        <seg>(73) 受讓人：Polaris Industries Inc., 明尼蘇達州 Medina (美國)</seg>
       </tuv>
     </tu>
     <tu>
