@@ -15159,6 +15159,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, while the following description refers primarily to UVs, certain features described herein may be applied to other applications such as ATVs, snowmobiles, motorcycles, mopeds, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T114312Z" creationid="Judy" creationdate="20151022T114312Z">
+        <seg>例如，儘管下面的描述主要是指 UVs，此處描述的某些功能可能應用於其他應用程式，如全地形車、 雪地車、 摩托車、 輕便摩托車等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, you could achieve flexibility and efficiency by producing certain modules close to market and others in centers of excellence.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051656Z">
@@ -31727,6 +31735,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141914Z">
         <seg>Leonardo ETH 的設計能由其連接之電腦所運行的軟體進行重置，上傳前無需手動按下重置按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rather, the embodiments are chosen and described so that others skilled in the art may utilize their teachings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T114307Z" creationid="Judy" creationdate="20151022T114307Z">
+        <seg>相反地，實施例的選擇和說明能使其他熟悉技術之人可以利用其說明。</seg>
       </tuv>
     </tu>
     <tu>
