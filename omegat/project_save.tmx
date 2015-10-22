@@ -5847,6 +5847,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shown, vehicle 10 generally comprises a frame 12 (FIG. 2) supported by ground engaging members 14 and 16.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T114821Z" creationid="Judy" creationdate="20151022T114821Z">
+        <seg>如圖所示，車輛 10 一般包括支援由地面接合成員 14 和 16 架 12 (圖 2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As specified “interactions” between Modules, there are six basic forms of Module Interfaces represented in Modularity:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042749Z">
@@ -41034,6 +41042,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103400Z">
         <seg>介於之間數值為灰色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vehicle is shown generally at 10 and is commonly referred to as an all terrain vehicle (ATV), a side-by-side vehicle (SxS) or a utility vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T114852Z" creationid="Judy" creationdate="20151022T114811Z">
+        <seg>10 所示之車輛通常稱為全地形車 (ATV)、方向盤式全地形車 (SxS) 或多功能越野車。</seg>
       </tuv>
     </tu>
     <tu>
