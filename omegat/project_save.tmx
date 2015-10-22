@@ -25882,6 +25882,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mounting section 152 is provided by a plate 156 provided on frame tube 158 which spans uprights 160 of frame rail 118.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T144728Z" creationid="Judy" creationdate="20151022T144728Z">
+        <seg>安裝架 152 位於框架管 158 上的平板 156，框架管 158 位於垂直跨越框架滑軌 118 之立柱 160 上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move panels reorganize ribbons</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133408Z">
