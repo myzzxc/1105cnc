@@ -2571,8 +2571,8 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       <tuv lang="EN-US">
         <seg>7-12, frame 12 will be described in greater detail.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T124104Z" creationid="Judy" creationdate="20151022T124104Z">
-        <seg>7-12，框架 12 幀將更詳細地描述。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T124142Z" creationid="Judy" creationdate="20151022T124104Z">
+        <seg>7-12，將更詳細地說明框架 12。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15571,6 +15571,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132140Z">
         <seg>電路板上具有四個螺絲孔以便安裝於平面上或機箱內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frame 12 is generally comprised of a main frame section 80 and a front frame section 82, where the two sections are interconnected by way of couplers 84.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T124352Z" creationid="Judy" creationdate="20151022T124352Z">
+        <seg>框架 12 主要包含主框架區 80 和前框架區 82，兩節框架透過連接器 84 相互連接。</seg>
       </tuv>
     </tu>
     <tu>
