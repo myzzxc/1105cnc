@@ -5823,6 +5823,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As also shown, vehicle 10 is comprised of two seating areas, namely a front seating area 60 and a rear seating area 62 where front seating area 60 is comprised of side-by-side seats, shown as bucket seats 64; and rear seating area 62 is comprised of side-by-side seats, shown as bucket seats 66.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T123338Z" creationid="Judy" creationdate="20151022T123338Z">
+        <seg>如圖所示，車輛 10 包含兩座位區，即前座位區 60 和後座位區 62，其中前座位區 60 為桶形座椅 64 並排之座位；後座位區 62 為為桶形座椅 66 並排之座位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As always with Arduino, every element of the platform – hardware, software and documentation – is  freely available and open-source.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T012203Z">
@@ -5875,6 +5883,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150604T121017Z">
         <seg>同時我想提供一個法律事務專業對可靠的 PDF 電腦程式的需求的概述，也讓大家知道部分醫療組織對於採用 PDF 軟體被迫進行的妥協……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As shown best in FIG. 3, front seats include a seat bottom 64a and a seat back 64b, while rear seat 66 includes a seat bottom 66a and a seat back 66b.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T123501Z" creationid="Judy" creationdate="20151022T123501Z">
+        <seg>如圖 3 所示，前排座椅包括座椅底部 64a 、椅背 64b，而後座 66 包括座椅底部 66a 和椅背 66b。</seg>
       </tuv>
     </tu>
     <tu>
