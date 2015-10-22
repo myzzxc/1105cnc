@@ -2113,6 +2113,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>31-33 show a diagrammatic progressive view of the side net post and pivotal link.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T110517Z" creationid="Judy" creationdate="20151022T110517Z">
+        <seg>31-33 為側邊護網與樞軸連接之連續圖解說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>35 db</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182029Z">
@@ -10170,6 +10178,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132942Z">
         <seg>正確的校正能使攝影機計算藉由演算法計算出真實世界中物體的實際長度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Corresponding reference characters indicate corresponding parts throughout the several views.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T110748Z" creationid="Judy" creationdate="20151022T110748Z">
+        <seg>參照數字對應至多張視圖中之相對應零件，</seg>
       </tuv>
     </tu>
     <tu>
