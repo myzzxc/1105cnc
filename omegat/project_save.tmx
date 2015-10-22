@@ -10990,6 +10990,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DETAILED DESCRIPTION OF THE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T111521Z" creationid="Judy" creationdate="20151022T111521Z">
+        <seg>實施例詳細說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DETAILED DESIGN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033621Z">
