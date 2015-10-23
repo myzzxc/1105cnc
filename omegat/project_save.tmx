@@ -5935,6 +5935,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shown best in FIG. 14, the driver and front passenger may easily enter vehicle 10 without contacting longitudinally extending sections 238.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T135711Z" creationid="Judy" creationdate="20151023T135711Z">
+        <seg>如圖 14 所示，駕駛和前排乘客能輕易地進入車輛 10 而不會接觸到縱向延伸段 238，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shown best in FIG. 15, seat belt retractor 300 is positioned on hand bar 290, and is attached to bracket 302 which is connected between hand bar 290 and upright 246.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T134220Z" creationid="Judy" creationdate="20151023T134129Z">
@@ -15409,8 +15417,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For example, uprights at the frame are spaced apart by a dimension of Dj but extend upwardly to a dimension of D2 which is larger than Dr This provides a spacing at 310 between uprights and seat backs 64b providing extra room for the passenger’s knees.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T134751Z" creationid="Judy" creationdate="20151023T134751Z">
-        <seg>例如，立柱在幀間隔時間由 Dj 維度，但向上延伸到 D2，大於博士這提供了一個在 310 立柱和座椅靠背 64b 提供額外的空間，乘客的膝蓋之間的間距尺寸。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T135444Z" creationid="Judy" creationdate="20151023T134751Z">
+        <seg>例如，框架中的立柱具有 D1 長的空間，但向上則延伸為大於 D1 的長度 D2，此設計為乘客的膝蓋提供了立柱 310 和座椅靠背 64b 之間的額外空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41554,6 +41562,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103400Z">
         <seg>介於之間數值為灰色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vehicle design also provides easy ingress and egress.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T135523Z" creationid="Judy" creationdate="20151023T135523Z">
+        <seg>車輛也提供了方便出入的設計，</seg>
       </tuv>
     </tu>
     <tu>
