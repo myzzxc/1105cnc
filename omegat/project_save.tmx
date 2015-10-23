@@ -12178,6 +12178,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to the load on the frame tubes 90, 170, the connection provided by coupler 84 takes place at a longitudinal position from either end of the frame 80, within a distance from the end, of approximately 30% of the length of frame 80.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T112102Z" creationid="Judy" creationdate="20151023T112102Z">
+        <seg>由於框架管 90、170 之負載，框架 80 縱向兩端距離端點大約框架 80 的 30 % 長度位置以連接器 84 連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to the use of colour to detect fire, if the colour range of the camera is incorrect the fire detection algorithm could fail.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155211Z">
@@ -39351,6 +39359,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T144534Z">
         <seg>計數線只辨識到一件很長的物體，但範圍仍然落在是校正寬度內，所以視為一個物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The coupler 84 could also be placed at the rear of frame tubes 90.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T112117Z" creationid="Judy" creationdate="20151023T112117Z">
+        <seg>連接器 84 也可以置於框架管 90 後方。</seg>
       </tuv>
     </tu>
     <tu>
