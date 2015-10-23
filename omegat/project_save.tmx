@@ -5935,6 +5935,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shown, coupler 84 is comprised of individual coupler members 200.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T112307Z" creationid="Judy" creationdate="20151023T112302Z">
+        <seg>如圖所示，連接器 84 是由個別連接器元件 200 所組成，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shown, mounting section 150 includes a plate 154 on each side spanning tube 90 and frame rail 118.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T144249Z" creationid="Judy" creationdate="20151022T144249Z">
@@ -46429,6 +46437,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T114551Z" creationid="Judy" creationdate="20151022T114551Z">
         <seg>首先參考圖 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With reference now to FIG. 12, frame tube coupler 84 is shown poised for receipt within frame tubes 90, 170.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T112232Z" creationid="Judy" creationdate="20151023T112232Z">
+        <seg>現在參照圖 12，框架管連接器 84 準備與框架管 90、170 連接。</seg>
       </tuv>
     </tu>
     <tu>
