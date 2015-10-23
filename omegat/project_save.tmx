@@ -12662,6 +12662,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each of athe cage sections comprise plural frame tubes as shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T123839Z" creationid="Judy" creationdate="20151023T123729Z">
+        <seg>如圖所示，每個防滾架部分包括多支框架管。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each of the 14 digital pins on the Leonardo ETH board can be used as input or output, using the pinMode(), digitalWrite(), and digitalRead() functions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125437Z">
@@ -46605,6 +46613,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T094232Z" creationid="Judy" creationdate="20151023T094221Z">
         <seg>現在參照圖 11 ,  將更詳細說明框架元件 82，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With respect now to FIG. 13, roll cage 70 is shown comprised of front 72, center 74 and rear 76 roll cage sections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T123731Z" creationid="Judy" creationdate="20151023T123726Z">
+        <seg>現在參照圖 13，防滾架 70 包含前段 72、中段 74、後段 76 防滾架部分，</seg>
       </tuv>
     </tu>
     <tu>
