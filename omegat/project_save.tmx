@@ -15599,6 +15599,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frame rails 178 are fixed in relation to frame tubes 170 by way of a strut 180.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T111250Z" creationid="Judy" creationdate="20151023T111250Z">
+        <seg>框架滑軌 178 以支架 180 與框架管 170 相連。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frame tube 114 spans the distance across frame rails 118 and the frame tubes 90.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T142029Z" creationid="Judy" creationdate="20151022T141808Z">
@@ -15745,8 +15753,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Front frame member 82 includes frame tubes 170 which complement frame tubes 90, and are held in a fixed relation by tubes 172,174.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T094225Z" creationid="Judy" creationdate="20151023T094225Z">
-        <seg>前車架成員 82 包括框架管 170 補充框架管 90，並舉行在一個固定的關係由管 172,174。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T111150Z" creationid="Judy" creationdate="20151023T094225Z">
+        <seg>前框架元件 82 包括框架管 170 與框架管 90 連接，並與管 172、174 維持固定位置。</seg>
       </tuv>
     </tu>
     <tu>
