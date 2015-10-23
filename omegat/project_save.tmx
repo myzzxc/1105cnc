@@ -10406,6 +10406,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coupler 84 allows alignment of frame tubes 90 and 170 as individual couplers 200 are each aligned with respective frame tubes 90,170 and individual couplers 200 are alignable to each other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T115203Z" creationid="Judy" creationdate="20151023T115203Z">
+        <seg>當各連接器 200 分別與對應之框架管 90、170 對齊且各連接器性相互對齊時，連接器 84 能與框架管 90 和 170 對齊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150909T160747Z">
