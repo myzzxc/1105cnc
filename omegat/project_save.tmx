@@ -10414,6 +10414,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couplers 84 also allow alignment of frame tubes 90,170 when the main frame 80 and front frame 82 are not themselves perfectly aligned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T115542Z" creationid="Judy" creationdate="20151023T115542Z">
+        <seg>當主框架 80 和前框架 82 沒有完全對齊時，連接器 84 也能與框架管 90、170 對齊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150909T160747Z">
