@@ -35784,6 +35784,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stand-off 212 leaves a weld gap for welding the individual couplers 200 to the frame tubes 90,170.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T114705Z" creationid="Judy" creationdate="20151023T114705Z">
+        <seg>間隙凸點 212 保留銲接間隙以進行各連接器 200 與框架管 90、170 之銲接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080800Z" creationid="Judy" creationdate="20151010T080800Z">
@@ -43044,6 +43052,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T030126Z">
         <seg>若需要安裝說明，點擊 Home 分頁中的 Help （協助）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To connect main frame member 80 and front frame member 82, the individual coupler members 200 are each inserted into respective ends of the frame tubes 90,170 until such time as stand-offs 212 abut an end edge of the frame tubes 90,170.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T114534Z" creationid="Judy" creationdate="20151023T114534Z">
+        <seg>主框架元件 80 和主框架元件 82 連接，連接器元件 200 個別框架管 90、170 兩端直到間隙凸點 212 與框架 90、170 端面相鄰。</seg>
       </tuv>
     </tu>
     <tu>
