@@ -42690,6 +42690,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is due to the fact that the distance (D6) between sections 238 is less than the extreme position adjacent the top of uprights 234 (D5) and is less than the distance between the extreme position adjacent the top of uprights 246 (D4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T140027Z" creationid="Judy" creationdate="20151023T140027Z">
+        <seg>這是因為 238 部分之間的距離 (D6) 小於相鄰立柱 234 頂部最大距離 (D5)，小於相鄰立柱 246 頂部最大距離 (D4)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is enabled by default but you can turn it off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100939Z">
