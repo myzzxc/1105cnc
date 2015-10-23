@@ -2201,10 +2201,26 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 and 6).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T140500Z" creationid="Judy" creationdate="20151023T140451Z">
+        <seg>4 和 6)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 used for SD card select</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053114Z">
         <seg>4用於選擇SD卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4, 6 and 14, longitudinally extending section 264 are inset from extreme positions of both uprights 246 and 260, that is D6 is less than both D2 and D7 (FIGS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T140445Z" creationid="Judy" creationdate="20151023T140445Z">
+        <seg>4、 6 和 14 所示，縱向延伸段 264 由兩立柱 246 和 260 最大距離內縮，即 D6 小於 D2 和 D7 (圖 </seg>
       </tuv>
     </tu>
     <tu>
@@ -42976,6 +42992,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120312Z">
         <seg>這套專用軟體於每個階段中支援多個工作流並能管理所有創建的資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This provides easy ingress for rear passengers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T140525Z" creationid="Judy" creationdate="20151023T140458Z">
+        <seg>此設計使後排乘客輕鬆進入。</seg>
       </tuv>
     </tu>
     <tu>
