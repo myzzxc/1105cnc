@@ -5937,8 +5937,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>As shown best in FIG. 15, seat belt retractor 300 is positioned on hand bar 290, and is attached to bracket 302 which is connected between hand bar 290 and upright 246.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T134129Z" creationid="Judy" creationdate="20151023T134129Z">
-        <seg>如圖 15 所示，安全帶捲收器 300 位於手把 290 上，並固定於與手把 290 和立柱 246 相連之支架 302 上。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T134220Z" creationid="Judy" creationdate="20151023T134129Z">
+        <seg>如圖 15 所示，安全帶捲收器 300 位於手把 290 上，並固定於與手把 290 和立柱 246 相連之支架 302 上，</seg>
       </tuv>
     </tu>
     <tu>
@@ -42888,6 +42888,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124035Z">
         <seg>此針腳輸出由電路板上穩壓器供應之5V電壓，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This places the seat belt retractor 300 in a convenient location for those in front seats 64, yet keeps the retractor away from the rear passengers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T134414Z" creationid="Judy" creationdate="20151023T134218Z">
+        <seg>此設計將安全帶捲收器 300 置於一個方便前座 64 乘客的位置，同時遠離後排乘客。</seg>
       </tuv>
     </tu>
     <tu>
