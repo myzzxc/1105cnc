@@ -41133,6 +41133,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The seating position is the location on the seat having the highest distribution of load from the passenger while idle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T234525Z" creationid="Judy" creationdate="20151023T234520Z">
+        <seg>座椅的位置為靜止時座椅最能分散乘客重量負荷的位置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The security plan shall be regularly updated and take into account the specific risks of each project.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190822Z">
