@@ -5945,8 +5945,16 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>As shown in FIG. 1, support 280 is shown in position where lower portion extends across the entry spaced above floorboard 54.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T133114Z" creationid="Judy" creationdate="20151023T133114Z">
-        <seg>如圖 1 所示，支撐 280 下半部分橫跨間踏板 54 上方之入口位置。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T133136Z" creationid="Judy" creationdate="20151023T133114Z">
+        <seg>如圖 1 所示，支撐 280 下段橫跨間踏板 54 上方之入口位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As shown in FIG. 14, rear seat bottoms 66a are shown elevated relative to front seat bottoms 64a.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T133611Z" creationid="Judy" creationdate="20151023T133611Z">
+        <seg>如圖 14 所示，後座位底部 66a 高於前排座位底部 64a ，</seg>
       </tuv>
     </tu>
     <tu>
@@ -14822,6 +14830,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T114023Z" creationid="Judy" creationdate="20151023T114023Z">
         <seg>最後，連接架 220 用於連接框架滑軌 118 和 178。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, rear passenger hand bar 290 extends between uprights 246, and as best shown in FIG. 14, extends behind front seats 64, as described below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T133522Z" creationid="Judy" creationdate="20151023T133522Z">
+        <seg>最後，後座乘客手把 290 橫向延伸於立柱 246 之間，並如圖 14 所示延伸於前排座椅 64 後方，如下文所述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43694,6 +43710,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024111Z">
         <seg>轉換檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transition section 286 and upper portion 282 extend across the seat 66 and enclose the rear passengers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T133200Z" creationid="Judy" creationdate="20151023T133130Z">
+        <seg>橫段 286 和上段 282 橫跨座位 66 並包覆後排乘客。</seg>
       </tuv>
     </tu>
     <tu>
