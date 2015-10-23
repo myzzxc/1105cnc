@@ -5165,8 +5165,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Also, for ride purposes, the Fl-point of the rear passenger (H2) is positioned either over, or forward of, the centerline of the rear axle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T233847Z" creationid="Judy" creationdate="20151023T233847Z">
-        <seg>同時為了乘坐設計，後座乘客 (H2) 之 H 點由後軸中心線向上或向前。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T235237Z" creationid="Judy" creationdate="20151023T233847Z">
+        <seg>同時為了乘坐設計，後座乘客 (H2) 之 H 點能由後軸中心線向上或向前。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14910,6 +14910,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T133522Z" creationid="Judy" creationdate="20151023T133522Z">
         <seg>最後，後座乘客手把 290 橫向延伸於立柱 246 之間，並如圖 14 所示延伸於前排座椅 64 後方，如下文所述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, seating position 310 is also forward of, a forward most point 330 of engine 322, and as shown best in FIG. 7, this distance is depicted as D10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T235206Z" creationid="Judy" creationdate="20151023T235206Z">
+        <seg>最後如圖 7 所示，就座位置 310 向前最大距離為引擎 322 的最前端 330 ，此距離為 D10。</seg>
       </tuv>
     </tu>
     <tu>
