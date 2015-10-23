@@ -15343,6 +15343,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, and with respect still to FIG. 14, uprights 246 are shown flaring outwardly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T134754Z" creationid="Judy" creationdate="20151023T134746Z">
+        <seg>例如 (仍參照圖 14)  立柱 246 向外傾斜；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if a pixel is looking at a piece a tarmac the whole time, which is generally black, the model for this pixel would look like this:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103843Z">
@@ -15395,6 +15403,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T121926Z">
         <seg>例如，法規包括 REACH 指令，重金屬元素之 2000/53 標準……等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, uprights at the frame are spaced apart by a dimension of Dj but extend upwardly to a dimension of D2 which is larger than Dr This provides a spacing at 310 between uprights and seat backs 64b providing extra room for the passenger’s knees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T134751Z" creationid="Judy" creationdate="20151023T134751Z">
+        <seg>例如，立柱在幀間隔時間由 Dj 維度，但向上延伸到 D2，大於博士這提供了一個在 310 立柱和座椅靠背 64b 提供額外的空間，乘客的膝蓋之間的間距尺寸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44912,6 +44928,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T121830Z" creationid="Judy" creationdate="20151022T115812Z">
         <seg>車輛 10 更包含連接到框架 12 可操作之傳動系統 30 (圖 2) 和連接驅動一個或多個接觸地面元件 14、16。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vehicle 10 is also ergonomically designed for the rear passenger’s riding experience.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T134627Z" creationid="Judy" creationdate="20151023T134627Z">
+        <seg>車輛 10 之後排設計也將人體工學設計納入考量，</seg>
       </tuv>
     </tu>
     <tu>
