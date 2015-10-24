@@ -3041,6 +3041,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A front seating area 860 is formed and would include seats similar to that described above as 64 and 66.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T065107Z" creationid="Judy" creationdate="20151024T065107Z">
+        <seg>前排座位區 860 包含類似前述 64 和 66 之座椅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A good delivery for a supplier is a timely delivery (not late or early) of the part or product specified in the order, in compliance with the quantity ordered.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015835Z">
@@ -16338,6 +16346,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Furthermore, the vehicle would include a driver’s ingress/egress and a passenger’s ingress/egress.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T065514Z" creationid="Judy" creationdate="20151024T065514Z">
+        <seg>此外，車輛也包括一個駕駛出入口和一個乘客出入口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fusing Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050537Z">
@@ -19597,6 +19613,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T034328Z" creationid="Judy" creationdate="20151024T034318Z">
         <seg>參考此實施例中圖 17，前側護網 600 位於鎖定位置並完全包覆駕駛入口/出口 570，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this embodiment, and with reference to FIG. 28, a side net assembly 900 is shown in the latched position and substantially encloses the passenger’s ingress/egress 874.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T065740Z" creationid="Judy" creationdate="20151024T065740Z">
+        <seg>參考此實施例中圖 28，側邊護網 900 位於鎖定位置並完全包覆乘客入口/出口 874，</seg>
       </tuv>
     </tu>
     <tu>
@@ -33790,6 +33814,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roll cage 870 includes a front section 872 and a rear section 876.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T065419Z" creationid="Judy" creationdate="20151024T065419Z">
+        <seg>防滾架 870 包括前段 872 和後段 876。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roll cage assembly 70 comprises ergonomic features for the driver and passengers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T125226Z" creationid="Judy" creationdate="20151023T125226Z">
@@ -41099,6 +41131,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The passenger’s ingress/egress is shown at 874 between front section 872 and rear section 876.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T065617Z" creationid="Judy" creationdate="20151024T065617Z">
+        <seg>874 中的乘客出入口位於前段 872 和後段 876 之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The people tracker is a younger algorithm than the surveillance tracker so tuning and improvements will occur over time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T125143Z">
@@ -45600,6 +45640,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T021727Z" creationid="Judy" creationdate="20151024T021727Z">
         <seg>車輛 410 包括框架 412、接觸地面元件 414 和輪胎 416，以傳動系統 430 驅動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vehicle 810 also includes a roll cage 870 which defines a canopy around front seating area 860.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T065339Z" creationid="Judy" creationdate="20151024T065339Z">
+        <seg>車輛 810 還包括防滾架 870，形成環繞座位區 860 的框架蓬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vehicle 810 could be a 2 passenger or a 4 passenger vehicle, but as shown is a 2 passenger vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T065248Z" creationid="Judy" creationdate="20151024T065248Z">
+        <seg>車輛 810 可為 2 名乘客或 4 名乘客之車輛，但此處之圖為 2 名乘客之車輛。</seg>
       </tuv>
     </tu>
     <tu>
