@@ -32853,8 +32853,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Rear wall 970 includes a slot 976 which feeds into semi-circular opening 974.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T122618Z" creationid="Judy" creationdate="20151024T122618Z">
-        <seg>後1u4方牆 970 包括插槽 976 進半圓形開放 974。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T122833Z" creationid="Judy" creationdate="20151024T122618Z">
+        <seg>後壁 970 包含開槽 976 位於半圓形開口 974 內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45117,8 +45117,9 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Upper wall 962 includes a semi-circular opening 972 (opening rearwardly) and lower wall 964 includes a semi-circular opening 974 (opening forwardly).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T122609Z" creationid="Judy" creationdate="20151024T122609Z">
-        <seg>上壁 962 包含半圓形開口 972 (開口向後)，而下壁 964 包含半圓形開口 974 (開口向前)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T122839Z" creationid="Judy" creationdate="20151024T122609Z">
+        <seg>
+上壁 962 包含半圓形開口 972 (開口向後)，而下壁 964 包含半圓形開口 974 (開口向前)。</seg>
       </tuv>
     </tu>
     <tu>
