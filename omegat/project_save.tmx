@@ -6191,6 +6191,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shown best in FIGS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T121159Z" creationid="Judy" creationdate="20151024T121159Z">
+        <seg>如圖 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shown in FIG. 1, support 280 is shown in position where lower portion extends across the entry spaced above floorboard 54.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T133136Z" creationid="Judy" creationdate="20151023T133114Z">
@@ -6267,6 +6275,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T035920Z" creationid="Judy" creationdate="20151024T035920Z">
         <seg>如圖所示，樞軸桿 610 包括第一端 640 和另一側的第二端 642。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As shown, pivotal bar 910 includes rod 920 having a first end 940 and a second and opposite end (not shown).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T121153Z" creationid="Judy" creationdate="20151024T121153Z">
+        <seg>如圖所示，樞軸桿 910 包括第一端 940 和另一側的第二端 (未顯示於圖中)。</seg>
       </tuv>
     </tu>
     <tu>
