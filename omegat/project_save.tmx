@@ -33414,6 +33414,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right side ingress/egress would also be provided in mirror image to the left hand side of the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T023554Z" creationid="Judy" creationdate="20151024T023554Z">
+        <seg>右側入口為車輛左側的鏡射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-Mouse shortcut for Internet Explorer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141552Z">
