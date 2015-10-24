@@ -6047,6 +6047,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shown, each seat 64, 66 may be removed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T014133Z" creationid="Judy" creationdate="20151024T014133Z">
+        <seg>如圖所示，座位 64、66 可拆除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shown, mounting section 150 includes a plate 154 on each side spanning tube 90 and frame rail 118.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T144249Z" creationid="Judy" creationdate="20151022T144249Z">
@@ -41153,6 +41161,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T133144Z" creationid="Judy" creationdate="20151011T133144Z">
         <seg>管理員能於排程中指定每段時間範圍內每台攝影機的影像錄製方法 (無錄影、依動作偵測、依事件、依動作和事件)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The seat 64 is shown having a lower base 350 having locking feet 352 receivable under latch hook 122 and a latch 354 which is receivable over latching pin 126.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T014318Z" creationid="Judy" creationdate="20151024T014318Z">
+        <seg>座位 64 具有較低的基座 350 ，其中有固定腳 352 能以閂鎖鉤 122 和閂鎖 354 透過閉鎖銷 126 鎖定。</seg>
       </tuv>
     </tu>
     <tu>
