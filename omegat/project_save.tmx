@@ -23617,6 +23617,22 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Latch 354 is substantially similar to the latch shown in pending U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T014543Z" creationid="Judy" creationdate="20151024T014512Z">
+        <seg>閂鎖 354 與 2008 年 10 月 7 日申請中的美國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Latch release 356 releases latch 354 from the latch- locked condition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T014440Z" creationid="Judy" creationdate="20151024T014440Z">
+        <seg>閂鎖解除 356 能將閂鎖 354 之由閂鎖狀態開啟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Launch</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142414Z">
@@ -26595,6 +26611,14 @@ without the documented approval of the appropriate Quality Control personnel.
         <seg>No revision level change is required for grammatical or minor typographical emendations, but they must be documented in the revision history.
 文法或小幅錯字修正無需更改版本數，但必須記錄於修訂歷史中。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No. 12/246,948 filed Oct.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T014637Z" creationid="Judy" creationdate="20151024T014637Z">
+        <seg>No. 12/246,948 </seg>
       </tuv>
     </tu>
     <tu>
@@ -48045,6 +48069,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130148Z">
         <seg>偵測到任何運動（傾斜）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>application Ser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T014519Z" creationid="Judy" creationdate="20151024T014519Z">
+        <seg>專利 Ser.</seg>
       </tuv>
     </tu>
     <tu>
