@@ -43120,6 +43120,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This allows the side nets 020 to swing open when latch 948 is released.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T125452Z" creationid="Judy" creationdate="20151024T125452Z">
+        <seg>此設計使側邊護網 020 能於閂鎖 948 解開時旋開。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This area is normally substantially adjacent to an intersecting line through the torso of the passenger and the seat bottom 66a.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T234729Z" creationid="Judy" creationdate="20151023T234659Z">
