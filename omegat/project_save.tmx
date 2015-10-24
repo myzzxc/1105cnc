@@ -15505,8 +15505,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For example, such accessories could include coolers, tool boxes, trunks, water tanks, fuel containers, camping/fishing gear, a dog crate/kennel, and the like.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T020326Z" creationid="Judy" creationdate="20151024T020326Z">
-        <seg>例如，配件包括冰箱、工具箱、 樹幹、 水箱、 燃料容器、 野營漁具、 板條箱/狗籠，等。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T020616Z" creationid="Judy" creationdate="20151024T020326Z">
+        <seg>配件包括冰箱、工具箱、貨箱、水箱、燃料箱、野營漁具、狗屋/狗籠等等，</seg>
       </tuv>
     </tu>
     <tu>
@@ -42662,6 +42662,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065057Z">
         <seg>除塵風機需使用獨立的三相電源，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This enhances the functionality of vehicle 10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T020614Z" creationid="Judy" creationdate="20151024T020614Z">
+        <seg>此設計增強了車輛 10 的功能。</seg>
       </tuv>
     </tu>
     <tu>
