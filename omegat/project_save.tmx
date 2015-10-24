@@ -43668,6 +43668,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This opens up the driver’s ingress/egress 874 allowing the driver to enter or exit from the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T130953Z" creationid="Judy" creationdate="20151024T130953Z">
+        <seg>如此一來將開啟駕駛之入口/出口 874 使駕駛能進入或離開車輛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This option gives you the opportunity to create a transform file (.mst) based on the differences between the open package and the modifications set by yourself.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T020740Z">
