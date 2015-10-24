@@ -6017,8 +6017,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>As assembled, side netting 600 can now be attached to central upright 646 by positioning a fastener through aperture 646 (FIG. 27) and through pivot member 612.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T062121Z" creationid="Judy" creationdate="20151024T062121Z">
-        <seg>組裝完成後，側邊護網 600 可以連接到中段立 646 由定位通過孔徑 646 (圖 27) 和 612 的樞軸件的緊固件。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T062513Z" creationid="Judy" creationdate="20151024T062121Z">
+        <seg>組裝完成後，可以將緊固件穿過孔 646 (圖 27) 和樞軸元件 612 以固定側邊護網 600 至中段立柱 646 上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40747,6 +40747,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lower end of the netting would also include eyelets which are fastened to the vehicle floorboard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T062504Z" creationid="Judy" creationdate="20151024T062504Z">
+        <seg>護網下端也包含固定至車輛踏板之孔眼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine options have been divided into 5 sections:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z">
@@ -46615,8 +46623,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>When in position, end cap 648 encompasses fasteners 716, 718, and also positions buckle 648 in its proper upright position.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T061938Z" creationid="Judy" creationdate="20151024T061938Z">
-        <seg>當就定位時，端蓋 648 包括緊固件 716、718 以及扣環 648 將位於適當的垂直位置。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T062144Z" creationid="Judy" creationdate="20151024T061938Z">
+        <seg>當就定位時，端蓋 648 包括緊固件 716、718 以及扣環 648 將位於適當的立柱位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47341,6 +47349,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T081603Z">
         <seg>具有超過 100 個用戶和 300 年的經驗積累，我們可以協助您在時間和預算的前提下開發模塊化產品平台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With reference again to FIG. 17, side netting 600 substantially encloses the driver ingress/egress 570 when the buckle 640 is latched to the associated latching tongue 614.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T062903Z" creationid="Judy" creationdate="20151024T062903Z">
+        <seg>再次參照圖 17，當扣環 640 鎖定至相關的閂鎖舌 614 時，側邊護網 600 完全包覆駕駛之出入口 570 。</seg>
       </tuv>
     </tu>
     <tu>
