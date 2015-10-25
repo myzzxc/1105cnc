@@ -19731,8 +19731,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In a further variation thereof, the first rear suspension includes a radius arm coupled to the frame at a third location forward of the rear drive unit and coupled to the bearing carrier.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T121557Z" creationid="Judy" creationdate="20151025T121557Z">
-        <seg>另一種變化為In a further variation thereof, the first rear suspension includes a radius arm coupled to the frame at a third location forward of the rear drive unit and coupled to the bearing carrier.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T122159Z" creationid="Judy" creationdate="20151025T121557Z">
+        <seg>另一種變化為，第一後懸吊包含一個連接至框架上、後傳動單元向前的第三個位置並與軸承載具相連的懸臂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19813,6 +19813,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T135106Z">
         <seg>分析軟體皆含有一組授權碼，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In another variation thereof, the first rear suspension includes a dampening member having a first end coupled to the radius arm at a fourth location and a second end coupled to the frame at a fifth location, the fifth location being forward of the fourth location and closer to the longitudinal centerline plane than the fourth location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T122141Z" creationid="Judy" creationdate="20151025T122141Z">
+        <seg>另一種變化為，第一後懸吊包含連接至框架上、後傳動單元向前的第三個位置並與軸承載具相連的懸臂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42908,6 +42916,22 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040711Z">
         <seg>此理論中表明了公司只能專注在這些領域的其中之一達到卓越。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The third location may be forward of the power source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T122027Z" creationid="Judy" creationdate="20151025T122027Z">
+        <seg>第三個位置可能位於動力源前方，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The third location may be under the seating of the operator area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T122121Z" creationid="Judy" creationdate="20151025T122121Z">
+        <seg>第三的位置可能位於駕駛區的座椅下方。</seg>
       </tuv>
     </tu>
     <tu>
