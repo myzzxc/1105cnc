@@ -48826,6 +48826,30 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a drive train supported by the frame;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T024924Z" creationid="Judy" creationdate="20151025T024924Z">
+        <seg>一組由框架支撐之傳動系統；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a frame extending in a generally longitudinal direction;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T024859Z" creationid="Judy" creationdate="20151025T024855Z">
+        <seg>一個整體縱向延伸之框架；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a plurality of wheels operably coupled to the frame;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T025026Z" creationid="Judy" creationdate="20151025T025026Z">
+        <seg>多組連接到框架上可操作之車輪；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a volume or area referenced as an Interface</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T042846Z">
