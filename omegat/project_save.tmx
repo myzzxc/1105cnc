@@ -3394,6 +3394,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A vehicle may include a CVT unit or a power source which requires ambient air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T083202Z" creationid="Judy" creationdate="20151025T083202Z">
+        <seg>車輛包括無段變速單元或需要空氣之動力源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A vision for 2050</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T060824Z">
@@ -5511,6 +5519,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T015159Z">
         <seg>有效建立和管理產品平台的方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An air inlet for an air intake system coupled to the CVT unit or the power source which requires ambient air may be provided in a side of a cargo carrying portion of the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T083409Z" creationid="Judy" creationdate="20151025T083409Z">
+        <seg>空氣進氣系統之入風口連接到無段變速單元或設於車輛載貨部分一側的需要空氣之動力源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42722,6 +42738,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T021025Z" creationid="Judy" creationdate="20151024T021025Z">
         <seg>車輛基本上與圖 1-16 所說明之車輛類似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vehicle may include a rear radius arm suspension.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T083506Z" creationid="Judy" creationdate="20151025T083506Z">
+        <seg>車輛包括後懸臂架。</seg>
       </tuv>
     </tu>
     <tu>
