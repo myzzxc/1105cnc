@@ -40900,6 +40900,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The control arm being unobscured by the frame from a viewing direction which is perpendicular to a centerline longitudinal plane of the vehicle and rearward of the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T130853Z" creationid="Judy" creationdate="20151025T130853Z">
+        <seg>由垂直於車輛中心線縱向平面和車輛後方的視角觀看時，控制懸臂會被框架遮蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The correct nominal installed height for the disc springs is found on your specific assembly drawing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091125Z">
