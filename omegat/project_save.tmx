@@ -19827,8 +19827,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In another example, the first rear suspension includes a second control arm movably coupled to the rear face of the frame at a second location the second control arm being unobscured by the frame from the viewing direction which is perpendicular to a centerline longitudinal plane of the vehicle and rearward of the vehicle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134121Z" creationid="Judy" creationdate="20151025T134121Z">
-        <seg>另一個範例為，第一後懸吊包含連接到框架後面第二位置之可動式第二控制懸臂， 由垂直於車輛中心線縱向平面和車輛後方的視角觀看時，控制懸臂會被框架遮蔽。。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134412Z" creationid="Judy" creationdate="20151025T134121Z">
+        <seg>另一個範例為，第一後懸吊包含連接到框架後面第二位置之可動式第二控制臂， 由垂直於車輛中心線縱向平面和車輛後方的視角觀看時，控制臂會被框架遮蔽。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19851,8 +19851,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In another variation thereof, the first rear suspension includes a dampening member having a first end coupled to the radius arm at a fourth location and a second end coupled to the frame at a fifth location, the fifth location being forward of the fourth location and closer to the longitudinal centerline plane than the fourth location.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T124942Z" creationid="Judy" creationdate="20151025T122141Z">
-        <seg>另一種變化為，第一後懸吊具有一阻尼元件，其第一端連接至懸臂於第四位置而第二端連接至懸臂第五位置上，第五位置位於第四位置前方且相較第四位置更接近縱向中心平面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134604Z" creationid="Judy" creationdate="20151025T122141Z">
+        <seg>另一種變化為，第一後懸吊具有一阻尼元件，其第一端連接至懸臂於第四位置而第二端連接至框架第五位置上，第五位置位於第四位置前方且相較第四位置更接近縱向中心平面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40934,8 +40934,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The control arm being unobscured by the frame from a viewing direction which is perpendicular to a centerline longitudinal plane of the vehicle and rearward of the vehicle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T130853Z" creationid="Judy" creationdate="20151025T130853Z">
-        <seg>由垂直於車輛中心線縱向平面和車輛後方的視角觀看時，控制懸臂會被框架遮蔽。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134403Z" creationid="Judy" creationdate="20151025T130853Z">
+        <seg>由垂直於車輛中心線縱向平面和車輛後方的視角觀看時，控制臂會被框架遮蔽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41292,18 +41292,26 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first rear suspension includes a dampening member having a first end coupled to the radius arm at a fourth location and a second end coupled to the frame at a fifth location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134626Z" creationid="Judy" creationdate="20151025T134537Z">
+        <seg>第一後懸吊具有一阻尼元件，其第一端連接至懸臂於第四位置而第二端連接至框架第五位置上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first rear suspension may include a radius arm coupled to the frame at a third location forward of the power source and coupled to the bearing carrier.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134247Z" creationid="Judy" creationdate="20151025T134247Z">
-        <seg>第一後懸吊包含一個連接至框架上、後傳動單元向前的第三個位置並與軸承載具相連的懸臂。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134427Z" creationid="Judy" creationdate="20151025T134247Z">
+        <seg>第一後懸吊包含一個連接至框架上、動力源前方的第三位置並與軸承載具相連的懸臂，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The first rear suspension system including a control arm coupled to the frame at a rear face of the frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T130544Z" creationid="Judy" creationdate="20151025T130326Z">
-        <seg>第一後懸吊系統包括連接到框架後面的控制懸臂，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134358Z" creationid="Judy" creationdate="20151025T130326Z">
+        <seg>第一後懸吊系統包括連接到框架後面的控制臂，</seg>
       </tuv>
     </tu>
     <tu>
@@ -43012,8 +43020,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The third location may be under the seating of the operator area.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T122121Z" creationid="Judy" creationdate="20151025T122121Z">
-        <seg>第三的位置可能位於駕駛區的座椅下方。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134436Z" creationid="Judy" creationdate="20151025T122121Z">
+        <seg>第三位置可能位於駕駛區的座椅下方。</seg>
       </tuv>
     </tu>
     <tu>
