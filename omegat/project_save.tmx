@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(75) Inventors: Aaron D. Deckard, Lindstrom, MN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T054245Z" creationid="Judy" creationdate="20151025T054245Z">
+        <seg>(75) 發明人：Aaron D. Deckard，明尼蘇達州 Lindstrom (美國)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(75) Inventors: Michael D Schneider, Dalbo, MN (US);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121927Z" creationid="CCYU" creationdate="20151021T121856Z">
@@ -458,6 +466,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082504Z">
         <seg>（追蹤記錄）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(US); Phillip A. Nowacki, Warroad, MN (US); Brian R. Gillingham, Osceola,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T054340Z" creationid="Judy" creationdate="20151025T054325Z">
+        <seg>；Phillip A. Nowacki，明尼蘇達州 Warroad (美國)； Brian R. Gillingham，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1721,6 +1737,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T023508Z">
         <seg>1500V 絕緣（輸入至輸出）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>154(b) by 340 days.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T054919Z" creationid="Judy" creationdate="20151025T054919Z">
+        <seg> 340 天。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3306,10 +3330,18 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A side net assembly for a utility vehicle, where the vehicle includes a frame extending in a generally longitudinal direction, a first seating area at a first longitudinal position relative to the frame and a frame canopy enclosing the first seating area, and defined by a plurality of frame uprights coupled to the frame defining an envelope around the first seating area, a side net assembly comprised of a pivotal bar and a net supported by the pivotal bar, the side net assembly being supported by at least one of the frame uprights and being latchable to at least one of the frame uprights, whereby the side net assembly can be in a latched position when a rider is in the vehicle and can be collapsed to allow ingress and egress of a rider.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T053739Z" creationid="Judy" creationdate="20151025T053739Z">
+        <seg>一組多功能越野車之側邊護網組件，其中車輛包含整體上縱向延伸的框架、位於框架最前端的第一座位區以及包覆第一座位區的框架蓬、由多根連接至框架隻框架立柱所圍成之第一座位區包覆、包含一根樞軸桿和由樞軸桿支撐之護網所組成之側邊護網組件，側邊護網組件由至少一根框架立柱支撐且可鎖定於至少一根框架立柱上，當乘客位於車內時側邊護網組件可置於鎖定位置，並可摺疊以便駕駛進出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A side net assembly is supported by one of the frame uprights and being latchable to another of the frame tubes, whereby the side net assembly can be in a latched position when a rider is in the vehicle and can be collapsed to allow ingress and egress of a rider.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T145205Z" creationid="Judy" creationdate="20151021T145205Z">
-        <seg>邊護網組件由框架中的一立桿支撐，對側可鎖於框架管上。當駕駛位於車輛中時，其側邊護網組件位於鎖定位置並可摺疊以便駕駛進出。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T050716Z" creationid="Judy" creationdate="20151021T145205Z">
+        <seg>一組由框架中的一立柱支撐並鎖定於另一框架立柱的側邊護網組件。當駕駛位於車輛中時，其側邊護網組件位於鎖定位置並可摺疊以便駕駛進出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3340,7 +3372,7 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>A utility vehicle, comprising:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T133412Z" creationid="Judy" creationdate="20151024T133412Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T050003Z" creationid="Judy" creationdate="20151024T133412Z">
         <seg>多功能越野車，包括：</seg>
       </tuv>
     </tu>
@@ -5801,6 +5833,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T124106Z" creationid="CCYU" creationdate="20151021T124106Z">
         <seg>申請編號：12/796,495</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appl.No.: 12/849,480</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T054936Z" creationid="Judy" creationdate="20151025T054936Z">
+        <seg>申請編號：12/849,480</seg>
       </tuv>
     </tu>
     <tu>
@@ -24919,6 +24959,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MN (US); Mark A. Smith, Center City, MN (US); Curtis R. Kjaer, Roseau, MN (US); Stephen L. Nelson, Osceola, WI (US); Keith A. Hollman, Osceola, WI (US); Jeffrey M. Maher, Hugo, MN (US); Kevin A. McNutt, Osceola, WI (US); Jerome J. Rubatt, Stacy, MN (US); Adam J. Schlangen, Rush City, MN (US)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T054857Z" creationid="Judy" creationdate="20151025T054538Z">
+        <seg>明尼蘇達州 Roseau (美國)；Mark A. Smith，明尼蘇達州 Center City (美國)；Curtis R. Kjaer，明尼蘇達州 Roseau (美國)；Stephen L. Nelson，威斯康辛州 Osceola (美國)；Keith A. Hollman，威斯康辛州 Osceola (美國)；Jeffrey M. Maher，明尼蘇達州 Hugo (美國)；Kevin A. McNutt，威斯康辛州 Osceola (美國)；Jerome J. Rubatt，明尼蘇達州 Stacy (美國)；Adam J. Schlangen，明尼蘇達州 Rush City (美國)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MONTHS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232737Z">
@@ -42326,6 +42374,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 1, wherein the first seating area is defined by side-by-side seats, defining two rider positions and two side net assemblies are provided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T042010Z" creationid="Judy" creationdate="20151025T042010Z">
+        <seg>多功能越野車的專利範圍 1 中的第一座位區範圍為並排之座椅，包含兩個乘坐位置和兩張側邊護網組件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The utility vehicle of claim 1, wherein the frame comprises a frame upright positioned adjacent to the seat back and further comprises a roll cage including a front frame upright forward of the first seating area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T030007Z" creationid="Judy" creationdate="20151025T025908Z">
@@ -42346,6 +42402,142 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T030328Z" creationid="Judy" creationdate="20151025T030328Z">
         <seg>多功能越野車的專利範圍 1 中的樞軸桿沿護網邊緣安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 12, wherein the pivotal bar is positionable in a front pivot link mounted to the front end of a floorboard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T042230Z" creationid="Judy" creationdate="20151025T042230Z">
+        <seg>多功能越野車的專利範圍 12 中的樞軸桿可置於安裝於踏板前端之前樞軸連結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 14, wherein the first seating area is comprised of a seat bottom and a seat back.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T051707Z" creationid="Judy" creationdate="20151025T051707Z">
+        <seg>多功能越野車的專利範圍 14 中的第一座位區包含座椅底座和座椅靠背。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 14, wherein the frame canopy includes a center frame upright positioned adjacent to the seat back and the side net assembly is mounted to the center frame upright.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T052438Z" creationid="Judy" creationdate="20151025T052438Z">
+        <seg>多功能越野車的專利範圍 14 中的框架蓬包含一根位於座椅靠背旁之中段框架立柱，而側邊護網安裝於中段框架立柱上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 14, wherein the frame canopy includes a center frame upright positioned adjacent to the seat back and the side net assembly is pivotally mounted to the center frame upright.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T051851Z" creationid="Judy" creationdate="20151025T051851Z">
+        <seg>多功能越野車的專利範圍 14 中的框架蓬包含一根位於座椅靠背旁之中段框架立柱，側邊護網安裝於中段框架立柱上並可旋轉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 14, wherein the top edge of the side net assembly is rigid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T051125Z" creationid="Judy" creationdate="20151025T051125Z">
+        <seg>多功能越野車的專利範圍 14 中的側邊護網組件頂側為硬質設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 15, wherein the side net assembly is comprised of a rigid pivotal bar and a net supported by the pivotal bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T052051Z" creationid="Judy" creationdate="20151025T051244Z">
+        <seg>多功能越野車的專利範圍 15 中的側邊護網組件包含一根硬質樞軸桿且護網由樞軸桿支撐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 18, wherein the frame canopy including a front frame upright forward of the first seating area, the side net assembly being latchable to the front frame upright.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T052512Z" creationid="Judy" creationdate="20151025T052023Z">
+        <seg>多功能越野車的專利範圍 18 中的框架蓬包含一根位於第一座位區前方之前段框架立柱，側邊護網鎖定於前段框架立柱上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 18, wherein the frame canopy including a front frame upright forward of the first seating area, the side net assembly being latchable to, and pivotally mounted relative to, the front frame upright.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T052609Z" creationid="Judy" creationdate="20151025T052442Z">
+        <seg>多功能越野車的專利範圍 18 中的框架蓬包含一根位於第一座位區前方之前段框架立柱，側邊護網鎖定於前段框架立柱上並可相對前段框架立柱旋轉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 19, wherein the side net assembly is comprised of a pivotal bar and a net supported by the pivotal bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T052112Z" creationid="Judy" creationdate="20151025T052043Z">
+        <seg>多功能越野車的專利範圍 19 中的側邊護網組件包含一根軸桿且護網由樞軸桿支撐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 20, wherein a latching tongue is attached to the front frame upright and a latching buckle is attached to the second end of the pivotal bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T052217Z" creationid="Judy" creationdate="20151025T052217Z">
+        <seg>多功能越野車的專利範圍 20 中的閂鎖舌固定於前框架立柱上，而閂鎖扣環固定於樞軸桿的第二端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 21, wherein the pivotal bar is formed as a clam shell style, with a portion of the net trapped therebetween.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T052303Z" creationid="Judy" creationdate="20151025T052303Z">
+        <seg>多功能越野車的專利範圍 21 中的樞軸桿為蛤殼式設計，部分護網可固定於其中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 22, wherein the net has a top marginal reinforced edge with openings therethrough, the pivotal bar being held together by fasteners extending through the pivotal bar and through the openings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T052353Z" creationid="Judy" creationdate="20151025T052353Z">
+        <seg>多功能越野車的專利範圍 22 中的護網具有上側強化邊緣，其中有一開口，樞軸桿由穿過樞軸桿和開口的緊固件固定於強化邊緣上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 26, wherein the first seating area is comprised of a seat bottom and a seat back.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T053819Z" creationid="Judy" creationdate="20151025T053819Z">
+        <seg>多功能越野車的專利範圍 26 中的第一座位區包含座椅底座和座椅靠背。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 27, wherein the frame canopy includes a front frame upright forward of the first seating area, the side net assembly being latchable to the front frame upright.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T053840Z" creationid="Judy" creationdate="20151025T053840Z">
+        <seg>多功能越野車的專利範圍 27 中的框架蓬包含一根位於第一座位區前方之前段框架立柱，側邊護網鎖定於前段框架立柱上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 28, wherein a latching tongue is attached to the front frame upright and a latching buckle is attached to the front end of the pivotal bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T053916Z" creationid="Judy" creationdate="20151025T053916Z">
+        <seg>多功能越野車的專利範圍 28 中的閂鎖舌固定於前框架立柱上，而閂鎖扣環固定於樞軸桿的前端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 28, wherein the pivotal bar is positioned in a front generally vertical marginal edge of the net.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T054108Z" creationid="Judy" creationdate="20151025T054108Z">
+        <seg>多功能越野車的專利範圍 28 中的樞軸桿位於護網前端垂直方向邊緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 29, wherein the frame canopy includes a center frame upright positioned adjacent to the seat back and the side net assembly is pivotally mounted to the center frame upright.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T053939Z" creationid="Judy" creationdate="20151025T053939Z">
+        <seg>多功能越野車的專利範圍 29 中的框架蓬包含一根位於座椅靠背旁之中段框架立柱，側邊護網安裝於中段框架立柱上並可旋轉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42374,10 +42566,26 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 6, wherein the pivotal bar is mounted to the front marginal end of the net.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T042059Z" creationid="Judy" creationdate="20151025T042059Z">
+        <seg>多功能越野車的專利範圍 6 中的樞軸桿安裝於護網前側邊緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The utility vehicle of claim 8, wherein the net has a top marginal reinforced edge with openings therethrough, the pivotal bar being held together by fasteners extending through the pivotal bar and through the openings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T031139Z" creationid="Judy" creationdate="20151025T031139Z">
         <seg>多功能越野車的專利範圍 8 中的護網具有上側強化邊緣，其中有一開口，樞軸桿由穿過樞軸桿和開口的緊固件固定於強化邊緣上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The utility vehicle of claim 9, wherein the openings have reinforced eyelets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T041824Z" creationid="Judy" creationdate="20151025T041824Z">
+        <seg>多功能越野車的專利範圍 9 中的開口具有強化孔眼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46278,6 +46486,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WI (US); Tracy S. Kofstad, Roseau,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T054544Z" creationid="Judy" creationdate="20151025T054334Z">
+        <seg>威斯康辛州 Osceola (美國)；Tracy S. Kofstad，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WITH THE SAME PRICE UNTIL 2 YEARS AFTER CONTRACT SIGNING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123123Z">
@@ -48898,10 +49114,26 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a first seating area at a first longitudinal position relative to the frame;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T050118Z" creationid="Judy" creationdate="20151025T050118Z">
+        <seg>一個位於縱向框架前端的第一座位區；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a first seating area; and</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T025049Z" creationid="Judy" creationdate="20151025T025049Z">
         <seg>一個第一座位區；和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a frame canopy enclosing the first seating area, and defined by a plurality of frame tubes coupled to the frame, at least some of the frame tubes being in the form of frame uprights, and the frame tubes defining an envelope around the first seating area; and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T050537Z" creationid="Judy" creationdate="20151025T050417Z">
+        <seg>一個包覆第一座位區的框架蓬，由多根連接至框架之框架管所包覆，至少有數根框架管作為框架立柱，且框架管圍成第一座位區；和</seg>
       </tuv>
     </tu>
     <tu>
@@ -48926,6 +49158,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T025222Z" creationid="Judy" creationdate="20151025T025222Z">
         <seg>一組包含一根樞軸桿和由樞軸桿支撐之護網的側邊護網組件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a side net assembly supported by one of the frame uprights and being latchable to another of the frame uprights, the side net assembly comprising a rigidified marginal edge pivotally movable relative to the vehicle, whereby the side net assembly can be in a latched position when a rider is in the vehicle and can be collapsed to allow ingress and egress of a rider.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T052721Z" creationid="Judy" creationdate="20151025T050500Z">
+        <seg>一組由框架中的一立桿支撐並鎖定於另一框架立柱的側邊護網組件，側邊護網組件包含可相對車輛旋轉之強化邊緣，當駕駛位於車輛中時，其側邊護網組件位於鎖定位置並可摺疊以便駕駛進出。</seg>
       </tuv>
     </tu>
     <tu>
