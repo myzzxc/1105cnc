@@ -42238,6 +42238,16 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rear drive being operatively coupled to the power source and operatively coupled to at least a first ground engaging member positioned rearward of the operator area through a drive shaft to transfer power received from the power source to the first ground engaging member.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T092432Z" creationid="Judy" creationdate="20151025T092432Z">
+        <seg>後驅動系統連接動力源與第一 (或更多) 接觸地面元件，
+並透過傳動軸傳送動力源之動力至第一接觸地面元件。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reason for this is that various other objects in a scene could match the pixel characteristics of a fire but not other characteristics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154321Z">
