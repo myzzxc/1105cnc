@@ -19833,6 +19833,15 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In another example, the vehicle further comprises a front drive unit supported by the frame and positioned forward of the operator area, the front drive being operatively coupled to the power source and operatively coupled to at least a second ground engaging member positioned forward of the operator area to transfer power received from the power source to the second ground engaging member.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134703Z" creationid="Judy" creationdate="20151025T134703Z">
+        <seg>前驅動系統連接動力源與第二 (或更多) 接觸地面元件，
+並透過傳動軸傳送動力源之動力至第二接觸地面元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In another example, the vehicle further comprises a front drive unit supported by the frame and positioned forward of the operator area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T125048Z" creationid="Judy" creationdate="20151025T125048Z">
@@ -41244,6 +41253,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fifth location being forward of the fourth location and closer to the longitudinal centerline plane than the fourth location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134648Z" creationid="Judy" creationdate="20151025T134648Z">
+        <seg>第五位置位於第四位置前方且相較第四位置更接近縱向中心平面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The file must be compliant with the PPAP or VDA 6.3 requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030815Z">
@@ -41422,10 +41439,9 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The front drive being operatively coupled to the power source and operatively coupled to at least a second ground engaging member positioned forward of the operator area to transfer power received from the power source to the second ground engaging member.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T125337Z" creationid="Judy" creationdate="20151025T125337Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134712Z" creationid="Judy" creationdate="20151025T125337Z">
         <seg>前驅動系統連接動力源與第二 (或更多) 接觸地面元件，
-並透過傳動軸傳送動力源之動力至第二接觸地面元件。
-</seg>
+並透過傳動軸傳送動力源之動力至第二接觸地面元件。</seg>
       </tuv>
     </tu>
     <tu>
