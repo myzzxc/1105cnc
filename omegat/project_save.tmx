@@ -24907,6 +24907,22 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let's Get Started...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231458Z" creationid="Judy" creationdate="20151026T231407Z">
+        <seg>開始使用系統⋯⋯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let's Try Something New…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231430Z" creationid="Judy" creationdate="20151026T231259Z">
+        <seg>嘗試新的系統⋯⋯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lets take a closer look at the compromises we see enterprises are so often forced to make…[NEXT SLIDE]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092222Z">
@@ -26954,8 +26970,24 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Module 1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231206Z" creationid="Judy" creationdate="20151026T231206Z">
-        <seg>模組 1</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231232Z" creationid="Judy" creationdate="20151026T231206Z">
+        <seg>第一課</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231305Z" creationid="Judy" creationdate="20151026T231305Z">
+        <seg>第二課</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module 3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231501Z" creationid="Judy" creationdate="20151026T231501Z">
+        <seg>第三課</seg>
       </tuv>
     </tu>
     <tu>
