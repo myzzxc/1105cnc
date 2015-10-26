@@ -12587,6 +12587,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discover what’s new in HR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231014Z" creationid="Judy" creationdate="20151026T231014Z">
+        <seg>了解人力資源系統中的新功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Displaying fields for location and contact information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102200Z">
@@ -24827,6 +24835,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn what this means for you going forward!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231118Z" creationid="Judy" creationdate="20151026T231118Z">
+        <seg>學習如何使用這套系統協助您的工作更上層樓！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082936Z">
@@ -26932,6 +26948,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031805Z">
         <seg>模塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231206Z" creationid="Judy" creationdate="20151026T231206Z">
+        <seg>模組 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -47247,6 +47271,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WHY ARE WE HERE?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T230927Z" creationid="Judy" creationdate="20151026T230927Z">
+        <seg>我們的目標是什麼？</seg>
       </tuv>
     </tu>
     <tu>
