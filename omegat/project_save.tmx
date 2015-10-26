@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1849,6 +1849,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T143444Z">
         <seg>新北市新莊區五權一路7號1樓之8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1HR for Employees</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T230835Z" creationid="Judy" creationdate="20151026T230835Z">
+        <seg>1HR 員工訓練</seg>
       </tuv>
     </tu>
     <tu>
@@ -17979,6 +17987,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T132529Z">
         <seg>螺旋齒條</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hello and welcome to 1HR!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T230852Z" creationid="Judy" creationdate="20151026T230852Z">
+        <seg>歡迎使用 1HR！</seg>
       </tuv>
     </tu>
     <tu>
