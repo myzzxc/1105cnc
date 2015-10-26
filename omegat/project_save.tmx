@@ -1855,8 +1855,8 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>1HR Transformation is aimed at building an integrated and efficient HR organisation on the strong foundation of standardised HR processes and policies, advanced technology and a dedicated HR portal in the corporate Intranet site with details on the new HR processes, HR policies and training materials.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T232019Z" creationid="Judy" creationdate="20151026T232019Z">
-        <seg>1HR Transformation 被旨在建立綜合高效的人力資源組織強基礎上標準化的人力資源流程和政策、 先進的技術和細節企業 Intranet 網站專用的人力資源入口網站上的新的人力資源流程、 人力資源政策和培訓材料。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T232555Z" creationid="Judy" creationdate="20151026T232019Z">
+        <seg>1HR Transformation 專案的目標為利用標準化的的人力資源流程和政策、先進的技術建立整合高效率的人力資源組織，並在企業內部網站提供專用的人力資源入口網站以提供詳細的最新人力資源流程、人力資源政策和訓練資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17519,6 +17519,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HR Technology</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T232721Z" creationid="Judy" creationdate="20151026T232721Z">
+        <seg>人力資源技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HSD Spindle</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091801Z">
@@ -30396,6 +30404,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POLICY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T232730Z" creationid="Judy" creationdate="20151026T232730Z">
+        <seg>政策</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POP UP PINS (each) (Y less 70mm)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141857Z">
@@ -32606,6 +32622,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083251Z">
         <seg>問題：PDF 文件為商業文件協作的標準格式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process &amp; Policy Simplification &amp; Standardisation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T232651Z" creationid="Judy" creationdate="20151026T232651Z">
+        <seg>流程和政策的簡化和標準化</seg>
       </tuv>
     </tu>
     <tu>
