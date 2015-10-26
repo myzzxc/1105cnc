@@ -7404,8 +7404,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Background checks for external applicants</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T233439Z" creationid="Judy" creationdate="20151026T233439Z">
-        <seg>外部申請者的背景調查</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T233455Z" creationid="Judy" creationdate="20151026T233439Z">
+        <seg>外部應徵者的背景調查</seg>
       </tuv>
     </tu>
     <tu>
@@ -25869,6 +25869,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071212Z">
         <seg>管理、匯入 &amp; 匯出註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Managed on-boarding and probation periods</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T233801Z" creationid="Judy" creationdate="20151026T233801Z">
+        <seg>管理就職和試用期</seg>
       </tuv>
     </tu>
     <tu>
@@ -46954,6 +46962,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vacancies advertised for 2 weeks internally</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T233540Z" creationid="Judy" creationdate="20151026T233540Z">
+        <seg>公告內部職缺 2 週</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vacuum Arm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070850Z">
@@ -48471,6 +48487,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034815Z">
         <seg>其中 q 定義將安裝何種類型的使用者介面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where there is no differentiation, role to be given to internal candidates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T233716Z" creationid="Judy" creationdate="20151026T233716Z">
+        <seg>沒有適合內部候選人的職缺</seg>
       </tuv>
     </tu>
     <tu>
