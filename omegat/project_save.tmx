@@ -1853,6 +1853,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1HR Transformation is aimed at building an integrated and efficient HR organisation on the strong foundation of standardised HR processes and policies, advanced technology and a dedicated HR portal in the corporate Intranet site with details on the new HR processes, HR policies and training materials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T232019Z" creationid="Judy" creationdate="20151026T232019Z">
+        <seg>1HR Transformation 被旨在建立綜合高效的人力資源組織強基礎上標準化的人力資源流程和政策、 先進的技術和細節企業 Intranet 網站專用的人力資源入口網站上的新的人力資源流程、 人力資源政策和培訓材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1HR for Employees</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T230835Z" creationid="Judy" creationdate="20151026T230835Z">
@@ -47319,6 +47327,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WHAT IS 1HR TRANSFORMATION?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T232025Z" creationid="Judy" creationdate="20151026T231950Z">
+        <seg>1HR TRANSFORMATION (人力資源轉型) 專案是什麼 ?</seg>
       </tuv>
     </tu>
     <tu>
