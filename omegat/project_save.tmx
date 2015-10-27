@@ -206,10 +206,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(1) update your personal data yourself</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123058Z" creationid="Judy" creationdate="20151027T123058Z">
+        <seg>(1) 自行更新個人資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(12) United States Patent</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121226Z" creationid="CCYU" creationdate="20151021T121226Z">
         <seg>(12) 美國專利</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(2) request your holiday</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123151Z" creationid="Judy" creationdate="20151027T123151Z">
+        <seg>(2) 申請休假</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(3) record sickness</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123007Z" creationid="Judy" creationdate="20151027T123007Z">
+        <seg>(3) 病假記錄</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +274,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050353Z">
         <seg>(3 相)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(4) manage your Pension/Healthcare benefits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123037Z" creationid="Judy" creationdate="20151027T123037Z">
+        <seg>(4) 管理退休金/醫療福利</seg>
       </tuv>
     </tu>
     <tu>
@@ -28815,6 +28847,14 @@ Nuance 線上說明”。</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062616Z">
         <seg>Obsolete documents shall be stored for no less than two years.
 過期文件需存檔至少兩年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of the processes we’ve seen… what will we, as Employees of the business, use Workday for?...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T122920Z" creationid="Judy" creationdate="20151027T122920Z">
+        <seg>對於我們曾經看過的流程⋯⋯作為公司的員工，我們能利用 Workday  做什麼？⋯⋯</seg>
       </tuv>
     </tu>
     <tu>
