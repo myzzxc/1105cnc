@@ -13109,6 +13109,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dynamic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T122422Z" creationid="Judy" creationdate="20151027T122422Z">
+        <seg>動態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dynamic Zoom does not work when AIS is set to</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125007Z">
@@ -13757,6 +13765,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073024Z">
         <seg>擁抱變化中的市場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Employee Data Change</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T122343Z" creationid="Judy" creationdate="20151027T122343Z">
+        <seg>員工變更</seg>
       </tuv>
     </tu>
     <tu>
@@ -17611,6 +17627,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143240Z">
         <seg>HP ELTE 24000 RPM  / 電流轉向器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HR TECHNOLOGY-WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T122416Z" creationid="Judy" creationdate="20151027T122416Z">
+        <seg>人力資源技術 - WORKDAY</seg>
       </tuv>
     </tu>
     <tu>
@@ -33769,6 +33793,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T021315Z">
         <seg>閱讀模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Real-Time Reporting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T122426Z" creationid="Judy" creationdate="20151027T122426Z">
+        <seg>即時報告</seg>
       </tuv>
     </tu>
     <tu>
