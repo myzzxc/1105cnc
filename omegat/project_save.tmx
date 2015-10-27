@@ -3289,6 +3289,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A bit like Google.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234326Z" creationid="Judy" creationdate="20151027T234326Z">
+        <seg>與 Google 有點類似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A body 440 surrounds the frame and forms the outer shell of the vehicle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T021802Z" creationid="Judy" creationdate="20151024T021802Z">
@@ -18475,6 +18483,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T134235Z">
         <seg>集中來自前方的聲音並降低其它方向的噪音，協助使用者更清楚辨識嘈雜環境中的聲音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helps you find what you are looking for by recommending search results while you are typing in the Search field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234308Z" creationid="Judy" creationdate="20151027T234302Z">
+        <seg>當您於 Search 欄位中輸入時會提供建議搜尋結果以協助您找尋所需項目，</seg>
       </tuv>
     </tu>
     <tu>
@@ -36423,6 +36439,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search by Categories</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234517Z" creationid="Judy" creationdate="20151027T234517Z">
+        <seg>Search by Categories (按類別搜尋)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search everything in a document - even the contents of bookmarks and comments - so you’re sure to find what you’re looking for.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122436Z">
@@ -46892,6 +46916,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161029Z">
         <seg>輸入 Add-AppvClientPackage -Path &lt;path_of_PowerPDF.appv&gt;  -DynamicDeploymentConfiguration &lt;path_of_DeploymentConfig.xml&gt; | Publish-AppvClientPackage  -Global  並按下Enter 鍵
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type Cost in the search box and it returns options including View Cost Center, Assign Costing Allocation etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234459Z" creationid="Judy" creationdate="20151027T234459Z">
+        <seg>在搜尋方塊中輸入 Cost 它將傳回 View Cost Center、Assign Costing Allocation 等選項。</seg>
       </tuv>
     </tu>
     <tu>
