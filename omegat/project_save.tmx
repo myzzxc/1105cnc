@@ -2135,6 +2135,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>24/7 Access</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T122634Z" creationid="Judy" creationdate="20151027T122634Z">
+        <seg>24小時/7天存取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>24000 RPM  / INVERTER 380 V - with 3 ISO 30 cones</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125944Z">
@@ -4355,6 +4363,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122814Z">
         <seg>存取性標準檢查和校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accessible by PCs, Laptops and Company Provided Mobile Technology</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T122529Z" creationid="Judy" creationdate="20151027T122529Z">
+        <seg>能由個人電腦、筆記型電腦和公司提供之行動裝置進行存取</seg>
       </tuv>
     </tu>
     <tu>
