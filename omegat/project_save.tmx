@@ -9685,6 +9685,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the      icon on the top right of your home page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233101Z" creationid="Judy" creationdate="20151027T233101Z">
+        <seg>點擊首頁右上方的 圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the radio button for online help from Nuance or set on premises.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T053258Z">
@@ -50619,6 +50627,14 @@ Edit your video afterwards just like the pros do.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also configure the Worklets that you want to see on your home page:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233027Z" creationid="Judy" creationdate="20151027T233027Z">
+        <seg>您還可以設置您想要首頁上顯示的 Worklets：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also make/receive voice calls (you will need an external speaker and microphone circuit) and send/receive SMS messages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133224Z">
@@ -50653,8 +50669,8 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You can come back to your home screen at any point by clicking the       icon at the top left of the screen.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T232436Z" creationid="Judy" creationdate="20151027T232436Z">
-        <seg>點擊螢幕左上方圖示可以回到首頁畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233112Z" creationid="Judy" creationdate="20151027T232436Z">
+        <seg>點擊螢幕左上方的 圖示可以回到首頁畫面。</seg>
       </tuv>
     </tu>
     <tu>
