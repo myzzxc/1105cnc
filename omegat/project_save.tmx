@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Access all the training materials and policies)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T124841Z" creationid="Judy" creationdate="20151027T124841Z">
+        <seg>(存取所有的訓練資料和政策)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(B) 1 FOLD OF ORIGINAL PACKING LIST
 (C) 1 FOLD OF ORIGINAL COMMERCIAL INVOICE
 (D) 1 FOLD OF CERTIFICATE OF ORIGIN
@@ -1895,8 +1903,8 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>1HR Transformation is aimed at building an integrated and efficient HR organisation on the strong foundation of standardised HR processes and policies, advanced technology and a dedicated HR portal in the corporate Intranet site with details on the new HR processes, HR policies and training materials.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T232555Z" creationid="Judy" creationdate="20151026T232019Z">
-        <seg>1HR Transformation 專案的目標為利用標準化的的人力資源流程和政策、先進的技術建立整合高效率的人力資源組織，並在企業內部網站提供專用的人力資源入口網站以提供詳細的最新人力資源流程、人力資源政策和訓練資料。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T124741Z" creationid="Judy" creationdate="20151026T232019Z">
+        <seg>1HR Transformation 專案的目標為利用標準化的的人力資源流程和政策、先進的技術建立整合高效率的人力資源組織，並在企業內部網站提供專用的人力資源入口網站 (HR portal) 以提供詳細的最新人力資源流程、人力資源政策和訓練資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9032,6 +9040,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133749Z">
         <seg>充電接點：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chat with your Local HR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T124915Z" creationid="Judy" creationdate="20151027T124915Z">
+        <seg>與當地的人力資源部門職員聊天</seg>
       </tuv>
     </tu>
     <tu>
@@ -33709,6 +33725,22 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RECORD HOLIDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T124613Z" creationid="Judy" creationdate="20151027T124613Z">
+        <seg>休假記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RECORD SICKNESS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T124619Z" creationid="Judy" creationdate="20151027T124619Z">
+        <seg>病假記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REFERENCE DOCUMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153305Z">
@@ -35650,6 +35682,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SUPPORT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T124636Z" creationid="Judy" creationdate="20151027T124636Z">
+        <seg>支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SWARF COLLECTION ATTACHMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022608Z">
@@ -36459,6 +36499,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153430Z">
         <seg>選擇供應商 / 投標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Self Service through HR Portal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T124803Z" creationid="Judy" creationdate="20151027T124803Z">
+        <seg>透過人力資源入口網站 (HR portal) 進行自助服務</seg>
       </tuv>
     </tu>
     <tu>
