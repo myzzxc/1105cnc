@@ -1498,14 +1498,6 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>1</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T132320Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>1 (By License Packs)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T134600Z" creationid="Judy" creationdate="20151008T134600Z">
@@ -15537,6 +15529,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOR EMPLOYEES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T231754Z" creationid="Judy" creationdate="20151027T231754Z">
+        <seg>員工專用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOREIGN PATENT DOCUMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T124919Z" creationid="CCYU" creationdate="20151021T124919Z">
@@ -17295,6 +17295,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T135945Z">
         <seg>一般維修服務範圍：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GETTING STARTED IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T231739Z" creationid="Judy" creationdate="20151027T231739Z">
+        <seg>開始使用 WORKDAY</seg>
       </tuv>
     </tu>
     <tu>
@@ -50711,6 +50719,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140614Z">
         <seg>需要一個專用伺服器以進行分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should use Internet Explorer 9 or above to access Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T231835Z" creationid="Judy" creationdate="20151027T231835Z">
+        <seg>必須使用 Internet Explorer 9 或更新版本以存取 Workday。</seg>
       </tuv>
     </tu>
     <tu>
