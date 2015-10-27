@@ -33159,6 +33159,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Predictive Search</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234104Z" creationid="Judy" creationdate="20151027T234104Z">
+        <seg>Predictive Search (預測搜尋)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prepare client</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T013929Z">
@@ -36395,6 +36403,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T122727Z" creationid="Judy" creationdate="20151012T122727Z">
         <seg>擷取任何連接至網路且運行 Windows 的電腦上螢幕、鍵盤和滑鼠並錄製其螢幕畫面於與閉路電視相同之儲存媒體中，以便未來搜尋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234000Z" creationid="Judy" creationdate="20151027T234000Z">
+        <seg>搜尋選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -49059,6 +49075,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What is it?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234027Z" creationid="Judy" creationdate="20151027T234027Z">
+        <seg>這是什麼？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What it does is keep a log of what it is seeing so that it knows what is passing through the line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T140112Z">
@@ -49351,6 +49375,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142403Z">
         <seg>觸發重置時，處理器會重置並切斷至電腦端的 USB 連線（代表虛擬序列 / COM 連接埠會消失），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When to use it?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234035Z" creationid="Judy" creationdate="20151027T234035Z">
+        <seg>何時使用？</seg>
       </tuv>
     </tu>
     <tu>
