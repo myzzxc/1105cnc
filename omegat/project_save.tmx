@@ -9685,6 +9685,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the       icon to view the list of worklets available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233548Z" creationid="Judy" creationdate="20151027T233548Z">
+        <seg>點擊 圖示可以查看可用的 worklets 清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the      icon on the top right of your home page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233101Z" creationid="Judy" creationdate="20151027T233101Z">
@@ -20563,6 +20571,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Optional Worklets column click the     icon to display the search field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233524Z" creationid="Judy" creationdate="20151027T233524Z">
+        <seg>於 Optional Worklets 欄中，點擊 圖是以顯示搜尋欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the above example, the selected installation language is French (1036.mst).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034052Z">
@@ -29491,6 +29507,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Configure Worklets screen you will see Required Worklets and Optional Worklets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233339Z" creationid="Judy" creationdate="20151027T233339Z">
+        <seg>於 Configure Worklets (Worklets 設定) 螢幕上將會顯示 Required Worklets (預設 Worklets) 和 Optional Worklets (可選 Worklets)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Mega, the hardware SS pin, 53, is not used to select either the W5500 or the SD card, but it must be kept as an output or the SPI interface won't work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133423Z">
@@ -34958,6 +34982,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required Worklets cannot be modified, since they are configured based on your role.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233431Z" creationid="Judy" creationdate="20151027T233431Z">
+        <seg>不能更改 Required Worklets，因為它是根據您的職位所設定的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required for anchor elements with reduced cross section, see Section 8.11.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193630Z">
@@ -36859,6 +36891,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000640Z">
         <seg>於“Software settings\Software installation（軟體設定\軟體安裝）”中選擇套裝程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the relevant Worklet from the options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233600Z" creationid="Judy" creationdate="20151027T233600Z">
+        <seg>從選項中選擇相關的 Worklet。</seg>
       </tuv>
     </tu>
     <tu>
