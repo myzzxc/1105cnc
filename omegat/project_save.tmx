@@ -18503,6 +18503,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helps you search information by typing just partial text in the Search field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235012Z" creationid="Judy" creationdate="20151027T235012Z">
+        <seg>協助您於 Search 欄位中輸入部分文字以搜尋資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here is an example showing how to install the product with different options.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034530Z">
@@ -24698,6 +24706,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T015158Z">
         <seg>支援最多同時八組通訊端連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will search for Change Personal Information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235205Z" creationid="Judy" creationdate="20151027T235205Z">
+        <seg>將搜尋 Change Personal Information (更改個人資訊)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46940,6 +46956,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161029Z">
         <seg>輸入 Add-AppvClientPackage -Path &lt;path_of_PowerPDF.appv&gt;  -DynamicDeploymentConfiguration &lt;path_of_DeploymentConfig.xml&gt; | Publish-AppvClientPackage  -Global  並按下Enter 鍵
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type Cha Per Inf  in the Search field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235038Z" creationid="Judy" creationdate="20151027T235038Z">
+        <seg>於 Search 欄位中輸入 Cha Per Inf，</seg>
       </tuv>
     </tu>
     <tu>
