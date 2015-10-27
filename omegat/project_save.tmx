@@ -50619,6 +50619,14 @@ Edit your video afterwards just like the pros do.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can come back to your home screen at any point by clicking the       icon at the top left of the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T232436Z" creationid="Judy" creationdate="20151027T232436Z">
+        <seg>點擊螢幕左上方圖示可以回到首頁畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can even add bookmarks and transfer hyperlinks when creating PDF documents from Microsoft Word, Excel and PowerPoint.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145920Z">
