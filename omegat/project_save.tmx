@@ -36495,6 +36495,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search functionality helps you explore Workday effectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235427Z" creationid="Judy" creationdate="20151027T235309Z">
+        <seg>搜尋功能可協助您有效地探索 Workday，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Searching for the causes for the non-compliance and the implementation of corrective actions must be reported within 15 calendar days from the issue of the complaint.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T153037Z">
@@ -38053,6 +38061,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082745Z">
         <seg>我們合作過的產業包括了：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of the search options include:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235506Z" creationid="Judy" creationdate="20151027T235506Z">
+        <seg>搜尋選項包括：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46929,8 +46945,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Type &lt;employee name&gt; and click People in the category, it will search through the People category and provide their data only.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234835Z" creationid="Judy" creationdate="20151027T234835Z">
-        <seg>輸入 &lt;員工姓名&gt; 並於分類中點擊 People，將只搜尋 People 分類 並提供其資料。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235416Z" creationid="Judy" creationdate="20151027T234835Z">
+        <seg>輸入 &lt;員工姓名&gt; 並於分類中點擊 People (人員)，將只搜尋 People 分類 並提供其資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46970,8 +46986,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Type Cost in the search box and it returns options including View Cost Center, Assign Costing Allocation etc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234459Z" creationid="Judy" creationdate="20151027T234459Z">
-        <seg>在搜尋方塊中輸入 Cost 它將傳回 View Cost Center、Assign Costing Allocation 等選項。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235403Z" creationid="Judy" creationdate="20151027T234459Z">
+        <seg>在搜尋方塊中輸入 Cost (費用) 它將傳回 View Cost Center (檢視費用中心)、Assign Costing Allocation (指定費用分配) 等選項。</seg>
       </tuv>
     </tu>
     <tu>
