@@ -7738,6 +7738,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Benefits Administration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T122026Z" creationid="Judy" creationdate="20151027T122026Z">
+        <seg>福利管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Benefits of Power PDF Advanced</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043819Z">
@@ -10097,6 +10105,14 @@ Additional power wherever you are.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124431Z">
         <seg>相容於行動電源*3和 USB 充電
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compensation Administration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T121836Z" creationid="Judy" creationdate="20151027T121836Z">
+        <seg>薪資管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -14532,6 +14548,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T131115Z">
         <seg>現有的水資源評估通常不足以滿足現代水資源的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exit Management</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T121850Z" creationid="Judy" creationdate="20151027T121850Z">
+        <seg>離職管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -26676,6 +26700,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T052350Z">
         <seg>行動使用說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mobility Services</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T122015Z" creationid="Judy" creationdate="20151027T122015Z">
+        <seg>行動服務</seg>
       </tuv>
     </tu>
     <tu>
