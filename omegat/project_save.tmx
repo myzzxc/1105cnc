@@ -6335,6 +6335,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a next step:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130513Z" creationid="Judy" creationdate="20151027T130513Z">
+        <seg>下一個步驟為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a receiver-in-canal hearing aid, Pure’s receiver sits directly in the ear canal – enabling a high level of amplification in a tiny housing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T132539Z">
@@ -26848,6 +26856,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minutes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130404Z" creationid="Judy" creationdate="20151027T130404Z">
+        <seg>分鐘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mister Option</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091756Z">
@@ -27736,6 +27752,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141808Z">
         <seg>不適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEXT STEPS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130433Z" creationid="Judy" creationdate="20151027T130433Z">
+        <seg>下一步</seg>
       </tuv>
     </tu>
     <tu>
