@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Get your queries resolved)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T124947Z" creationid="Judy" creationdate="20151027T124947Z">
+        <seg>(解決您的疑問)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Multi Monitor).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T133712Z" creationid="Judy" creationdate="20151013T133712Z">
@@ -5879,6 +5887,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121230Z">
         <seg>而 PDF/A 建立和 508 條款存取性有助於管理和規範標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And brand new kiosks that will placed in our factories across the globe…</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125113Z" creationid="Judy" creationdate="20151027T125113Z">
+        <seg>我們將在全球各地工廠放置全新的自助服務機⋯⋯</seg>
       </tuv>
     </tu>
     <tu>
@@ -17883,6 +17899,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T152811Z">
         <seg>必須於 HUTCHINSON 發出投訴後的 48 小時內處理並立即採取行動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handset</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125124Z" creationid="Judy" creationdate="20151027T125124Z">
+        <seg>耳機</seg>
       </tuv>
     </tu>
     <tu>
@@ -32922,6 +32946,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125128Z" creationid="Judy" creationdate="20151027T125128Z">
+        <seg>印表機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printer driver is excluded during the sequencing process and it must be installed locally on the client.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160226Z">
@@ -35858,6 +35890,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030651Z">
         <seg>Scania 持續優於其它綜合的卡車製造商</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanner</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125126Z" creationid="Judy" creationdate="20151027T125126Z">
+        <seg>掃描器</seg>
       </tuv>
     </tu>
     <tu>
