@@ -3884,6 +3884,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>APPENDIX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130856Z" creationid="Judy" creationdate="20151027T130856Z">
+        <seg>附錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ARRIVAL DATE OF THE LAST SHIPMENT AT THE LATEST</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T024210Z">
@@ -9863,6 +9871,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Come and see me at the Coaching Clinic if you’d like to discuss/practise what’s been covered today</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130832Z" creationid="Judy" creationdate="20151027T130832Z">
+        <seg>如果需要針對今天所教導的內容進行討論或練習，可透過教練診所 (Coaching Clinic) 與我聯繫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coming soon…</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063750Z">
@@ -15518,6 +15534,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054627Z">
         <seg>熟悉的註解和標示工具（筆記、文字方塊、打字機、標註、標記標示、文字底線、劃除、圖章）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Familiarize yourselves with the How To Guides</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130622Z" creationid="Judy" creationdate="20151027T130622Z">
+        <seg>使用指引說明 (How To Guides) 自行熟悉操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -39811,6 +39835,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070546Z">
         <seg>朗讀 (TTS) 語言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank You!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130851Z" creationid="Judy" creationdate="20151027T130851Z">
+        <seg>謝謝！</seg>
       </tuv>
     </tu>
     <tu>
