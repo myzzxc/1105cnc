@@ -18495,6 +18495,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helps you limit the scope of the search to produce more accurate and faster results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234615Z" creationid="Judy" creationdate="20151027T234615Z">
+        <seg>協助您限制搜尋範圍以更準確並更快得到結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here is an example showing how to install the product with different options.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034530Z">
@@ -31777,6 +31785,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152702Z">
         <seg>部份交貨要求（化學產品）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partial Word Searches</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234855Z" creationid="Judy" creationdate="20151027T234855Z">
+        <seg>Partial Word Searches (部分單字搜尋)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46891,6 +46907,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143554Z">
         <seg>雙 5HP Elte 主軸 – 雙 Z 組態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type &lt;employee name&gt; and click People in the category, it will search through the People category and provide their data only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234835Z" creationid="Judy" creationdate="20151027T234835Z">
+        <seg>輸入 &lt;員工姓名&gt; 並於分類中點擊 People，將只搜尋 People 分類 並提供其資料。</seg>
       </tuv>
     </tu>
     <tu>
