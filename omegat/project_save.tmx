@@ -28853,8 +28853,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Of the processes we’ve seen… what will we, as Employees of the business, use Workday for?...</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T122920Z" creationid="Judy" creationdate="20151027T122920Z">
-        <seg>對於我們曾經看過的流程⋯⋯作為公司的員工，我們能利用 Workday  做什麼？⋯⋯</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123252Z" creationid="Judy" creationdate="20151027T122920Z">
+        <seg>對於我們知道的流程⋯⋯作為公司的員工，我們能利用 Workday  做什麼呢？⋯⋯</seg>
       </tuv>
     </tu>
     <tu>
@@ -30223,6 +30223,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125702Z">
         <seg>未來模塊系統的擁有權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ownership of your data through best in class technology</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123428Z" creationid="Judy" creationdate="20151027T123428Z">
+        <seg>藉由最好的技術管理您的資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -47663,6 +47671,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131747Z">
         <seg>WESTERN 雕刻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WHAT DOES THIS MEAN FOR YOU?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123333Z" creationid="Judy" creationdate="20151027T123333Z">
+        <seg>對您有什麼作用呢？</seg>
       </tuv>
     </tu>
     <tu>
