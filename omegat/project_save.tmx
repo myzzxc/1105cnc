@@ -17000,6 +17000,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Front facing colour printer to allow for printing of information, such as, policy documents, employee information, forms etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125528Z" creationid="Judy" creationdate="20151027T125528Z">
+        <seg>前質彩色印表機能列印所需的資訊，例如政策文件、員工資訊、表格等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Front frame 82 further comprises front roll cage mounting sections 182 comprising plates 184 positioned between cross tubes 186, 188, and elevated by way of uprights 192, 194.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T111616Z" creationid="Judy" creationdate="20151023T111616Z">
@@ -27604,6 +27612,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mounted scanner to allow for upload of supporting documentation such as birth certificate, ID, passport etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125426Z" creationid="Judy" creationdate="20151027T125426Z">
+        <seg>內建掃描器能上傳證明文件，例如出生證明、身份證、護照等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mounting section 152 is provided by a plate 156 provided on frame tube 158 which spans uprights 160 of frame rail 118.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T144728Z" creationid="Judy" creationdate="20151022T144728Z">
@@ -35572,8 +35588,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>SUMMARY</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T084848Z">
-        <seg>簡介</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125600Z">
+        <seg>總結</seg>
       </tuv>
     </tu>
     <tu>
@@ -47783,6 +47799,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122229Z">
         <seg>視覺化產品管理計劃圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VoIP handset integrated with the Kiosk to allow calls directly to the support teams</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125331Z" creationid="Judy" creationdate="20151027T125331Z">
+        <seg>自助服務機設有網路電話 (VoIP) 耳機麥克風以直接與支援小組聯繫</seg>
       </tuv>
     </tu>
     <tu>
