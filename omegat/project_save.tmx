@@ -5907,6 +5907,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always add more than one Emergency Contact.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150446Z" creationid="Judy" creationdate="20151028T150446Z">
+        <seg>請加入多位緊急連絡人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always use the appropriate version of the .msi files or _setup.exe according to the operating system you are targeting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023929Z">
@@ -7758,6 +7766,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083618Z">
         <seg>Bangalore, India 560 010 電話： +91 80 2314 6628</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bank Account Details</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150347Z" creationid="Judy" creationdate="20151028T150347Z">
+        <seg>銀行帳戶詳細資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -14413,6 +14429,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073024Z">
         <seg>擁抱變化中的市場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency Contacts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150318Z" creationid="Judy" creationdate="20151028T150318Z">
+        <seg>緊急連絡人</seg>
       </tuv>
     </tu>
     <tu>
@@ -32661,6 +32685,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Personal Bio/Profile</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150339Z" creationid="Judy" creationdate="20151028T150339Z">
+        <seg>個人簡歷/檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Personal Data Changes that can be confirmed instantly</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150249Z" creationid="Judy" creationdate="20151028T150249Z">
@@ -32737,6 +32769,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T134310Z">
         <seg>電話：330-405-0844 傳真：330-487-0304</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150343Z" creationid="Judy" creationdate="20151028T150343Z">
+        <seg>照片</seg>
       </tuv>
     </tu>
     <tu>
@@ -33843,6 +33883,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234104Z" creationid="Judy" creationdate="20151027T234104Z">
         <seg>Predictive Search (預測搜尋)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferred Name</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150315Z" creationid="Judy" creationdate="20151028T150315Z">
+        <seg>稱呼姓名</seg>
       </tuv>
     </tu>
     <tu>
@@ -50510,6 +50558,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T042022Z">
         <seg>當完成必要的修改並發佈包含自訂工具的套裝程式後，依照以下方式儲存修改後的設置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you upload a new profile photograph, the previous one gets deleted automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150535Z" creationid="Judy" creationdate="20151028T150535Z">
+        <seg>上傳一張新個人檔案照片將會自動刪除舊照。</seg>
       </tuv>
     </tu>
     <tu>
