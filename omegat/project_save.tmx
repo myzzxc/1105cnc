@@ -46361,6 +46361,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This tracks the financial impact of HR transactions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125201Z" creationid="Judy" creationdate="20151028T125201Z">
+        <seg>追蹤人力資源業務的財務影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This transform file will be located beside the .msi package file.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035947Z">
