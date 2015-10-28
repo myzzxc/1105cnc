@@ -10053,6 +10053,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on your name in the top right corner of the page to see a list of options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230228Z" creationid="Judy" creationdate="20151028T230228Z">
+        <seg>點擊螢幕右上角您的名字以顯示選項清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the         icon in the top right corner of the screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132553Z" creationid="Judy" creationdate="20151028T132553Z">
@@ -37771,6 +37779,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142157Z">
         <seg>選擇服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select View  Profile just below your name and your Profile Page is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230412Z" creationid="Judy" creationdate="20151028T230412Z">
+        <seg>選擇姓名下方的 View Profile (檢視個人檔案) 將顯示您的 Profile Page (個人檔案頁面)。</seg>
       </tuv>
     </tu>
     <tu>
