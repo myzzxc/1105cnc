@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5931,6 +5931,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An icon on the home screen, which provides easy access to tasks and information that are used regularly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T085035Z" creationid="Judy" creationdate="20151028T085035Z">
+        <seg>首頁上的一個圖示，能輕易地存取您常用的任務和資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An impossible equation to balance?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033800Z">
@@ -7582,6 +7590,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T135259Z">
         <seg>BUSCH MINK 泵 6.8KW 含真空保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BUSINESS PROCESS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T085051Z" creationid="Judy" creationdate="20151028T085051Z">
+        <seg>BUSINESS PROCESS (業務流程)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48647,6 +48663,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141754Z">
         <seg>工作簽證和工作許可證應由供應商支付其相關費用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WORKLET</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T085105Z" creationid="Judy" creationdate="20151028T085105Z">
+        <seg>WORKLET (工作手冊)</seg>
       </tuv>
     </tu>
     <tu>
