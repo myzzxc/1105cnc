@@ -10205,6 +10205,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the      icon next to Document Category and select Leave of Absence.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T235206Z" creationid="Judy" creationdate="20151028T235206Z">
+        <seg>點擊 Document Category (文件類別) 旁的 圖示並選擇 Leave of Absence (休假)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the      icon on the top right of your home page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233101Z" creationid="Judy" creationdate="20151027T233101Z">
@@ -48568,6 +48576,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Under Actions, click Leave Request: &lt;Employee Name&gt; to view the action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T235246Z" creationid="Judy" creationdate="20151028T235246Z">
+        <seg>於 Actions (操作) 中點擊 Leave Request: &lt;Employee Name&gt; (休假申請：&lt;員工姓名&gt;) 以檢視操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Under Change, click Dependents to see your dependents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151019Z" creationid="Judy" creationdate="20151028T151019Z">
@@ -48796,6 +48812,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135056Z" creationid="Judy" creationdate="20151008T135056Z">
         <seg>每台相機最高 30 FPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload your sick note and any other relevant documentation either by dragging the document from your computer or by using the Paperclip icon.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T235121Z" creationid="Judy" creationdate="20151028T235121Z">
+        <seg>從電腦中拖曳文件或使用 Paperclip (附件) 圖示上傳病假和其它任何相關文件。</seg>
       </tuv>
     </tu>
     <tu>
