@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3662,6 +3662,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025545Z">
         <seg>特定的標籤；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A supervisory organisation is a grouping of employees who report up to the same manager.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120453Z" creationid="Judy" creationdate="20151028T120453Z">
+        <seg>監督的組織是由同一位經理報告的雇員的分組。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36186,6 +36194,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SUPERVISORY ORGANISATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120504Z" creationid="Judy" creationdate="20151028T120358Z">
+        <seg>SUPERVISORY ORGANISATION (監管組織)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SUPERVISORY SERVICES INCLUDES:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140202Z">
@@ -47276,6 +47292,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T142534Z" creationid="Judy" creationdate="20151021T142534Z">
         <seg>美國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNDERSTANDING KEY WORKDAY TERMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120332Z" creationid="Judy" creationdate="20151028T120332Z">
+        <seg>了解 WORKDAY 重要用語</seg>
       </tuv>
     </tu>
     <tu>
