@@ -9749,6 +9749,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Add.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T234836Z" creationid="Judy" creationdate="20151028T234836Z">
+        <seg>點擊 Add (增加)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Additional Files.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021925Z">
@@ -36406,6 +36414,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review the details and click Maintain My Worker Documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T234825Z" creationid="Judy" creationdate="20151028T234825Z">
+        <seg>檢查詳細資料並點擊 Maintain My Worker Documents (維護我的員工文件)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Review your settings then launch the collection process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024048Z">
@@ -48540,6 +48556,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045955Z">
         <seg>揭露隱性成本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under Actions, a new option called Leave Request: &lt;Employee Name&gt; is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T234742Z" creationid="Judy" creationdate="20151028T234742Z">
+        <seg>於 Actions (操作) 中會顯示一個新的選項 Leave Request: &lt;Employee Name&gt; (休假申請：&lt;員工姓名&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
