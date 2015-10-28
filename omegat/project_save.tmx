@@ -45131,6 +45131,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These actions may be within Workday or outside of Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T130155Z" creationid="Judy" creationdate="20151028T130155Z">
+        <seg>這些操作可能需要使用 Workday 或於 Workday 之外執行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These audits at the initiative of HUTCHINSON or its client may be performed by HUTCHINSON (or a third party organization appointed by HUTCHISON) in the premises of any of HUTCHINSON Suppliers’ subcontractor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T233328Z">
