@@ -9909,6 +9909,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Personal Information Worklet on the home screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133614Z" creationid="Judy" creationdate="20151028T133614Z">
+        <seg>點擊首頁上的 Personal Information Worklet，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the drop down list next to Preferred Currency to see the various currency options.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132832Z" creationid="Judy" creationdate="20151028T132832Z">
@@ -9921,6 +9929,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132232Z" creationid="Judy" creationdate="20151028T132232Z">
         <seg>點擊 Preferred Display Language  旁邊的下拉選單以顯示各種語言選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the drop down list next to Preferred Locale to see the various location options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133432Z" creationid="Judy" creationdate="20151028T133432Z">
+        <seg>點擊 Preferred Locale 旁邊的下拉選單以顯示各種地區選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36426,6 +36442,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STEP 5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133358Z" creationid="Judy" creationdate="20151028T133358Z">
+        <seg>第 5 步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STEP 6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133356Z" creationid="Judy" creationdate="20151028T133356Z">
+        <seg>第 6 步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SUBJECTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130751Z">
@@ -37435,6 +37467,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132248Z" creationid="Judy" creationdate="20151028T132248Z">
         <seg>選擇您所使用的語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select your preferred location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133445Z" creationid="Judy" creationdate="20151028T133445Z">
+        <seg>選擇您所在的地區。</seg>
       </tuv>
     </tu>
     <tu>
