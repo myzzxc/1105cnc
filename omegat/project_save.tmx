@@ -1965,6 +1965,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>19-Aug-15</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T232617Z" creationid="Judy" creationdate="20151028T232617Z">
+        <seg>2015 年 8 月 19 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1F-8, No. 7, Wu-Chuan 1 Rd Hsin Chuang Dist New Taipei City Taiwan</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T143444Z">
@@ -18511,6 +18519,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOW TO INITIATE A LEAVE OF ABSENCE REQUEST IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T232613Z" creationid="Judy" creationdate="20151028T232613Z">
+        <seg>如何於 WORKDAY 中申請休假</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW TO MANAGE YOUR DEPENDENTS IN WORKDAY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151024Z" creationid="Judy" creationdate="20151028T150838Z">
@@ -20452,6 +20468,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T231215Z" creationid="Judy" creationdate="20151028T231028Z">
         <seg>若您無法看到 Compensation 選項，請如下圖所示點擊螢幕右方的藍色箭頭以顯示清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are not able view the Payroll Worklet on your home screen, refer to ‘Getting Started in Workday’ guide, to understand how to configure Worklets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T232509Z" creationid="Judy" creationdate="20151028T232509Z">
+        <seg>若無法於首頁畫面中看到 Payroll Worklet ，請參考「Getting Started in Workday (Workday 入門)」指示以了解如何設定 Worklets。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26589,6 +26613,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114356Z">
         <seg>以管理員權限登入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log in to Workday with your username and password.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T232654Z" creationid="Judy" creationdate="20151028T232654Z">
+        <seg>使用您的帳號和密碼登入 Workday。</seg>
       </tuv>
     </tu>
     <tu>
