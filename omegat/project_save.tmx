@@ -36009,6 +36009,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SEND BACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T130624Z" creationid="Judy" creationdate="20151028T130624Z">
+        <seg>退回 (SEND BACK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SERIES TABLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134509Z">
@@ -39039,6 +39047,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000655Z">
         <seg>如有更改，恕不另行通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submission of a To-Do confirms that the instructions in the To-Do were followed and completed unless comments or errors are generated to indicate otherwise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T130553Z" creationid="Judy" creationdate="20151028T130553Z">
+        <seg>呈交待辦事項且無另行出現指示或錯誤代表確認遵循並完成待辦事項中的指示。</seg>
       </tuv>
     </tu>
     <tu>
