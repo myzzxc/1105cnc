@@ -10125,6 +10125,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on your name in the top right corner of the page and click Inbox.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T234553Z" creationid="Judy" creationdate="20151028T234553Z">
+        <seg>點擊螢幕右上角您的名字並點擊 Inbox (收件匣)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on your name in the top right corner of the page to see a list of options.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230228Z" creationid="Judy" creationdate="20151028T230228Z">
@@ -18607,6 +18615,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOW TO UPLOAD WORKER DOCUMENTS IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T234457Z" creationid="Judy" creationdate="20151028T234457Z">
+        <seg>如何於 WORKDAY 中上傳員工文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW TO VIEW &amp; CHANGE YOUR PERSONAL INFORMATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134707Z" creationid="Judy" creationdate="20151028T134707Z">
@@ -20028,6 +20044,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T173921Z">
         <seg>若不進行測試7b，無論原地混凝土強度為何，計算之錨固抗張力限制為f'c = 2500 psi 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If Workday displays any Alerts after clicking Submit, you need to edit your leave request by clicking Revise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T234331Z" creationid="Judy" creationdate="20151028T234331Z">
+        <seg>若按下送出後 Workday 顯示任何警示 (Alerts)，必須點擊 Revise (修改) 以修改您的休假申請。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26677,6 +26701,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114356Z">
         <seg>以管理員權限登入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log in to Workday using your username and password.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T234514Z" creationid="Judy" creationdate="20151028T234514Z">
+        <seg>使用您的帳號和密碼登入 Workday。</seg>
       </tuv>
     </tu>
     <tu>
