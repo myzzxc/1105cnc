@@ -10005,6 +10005,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the      icon to use pop out menus when changing your Place of Birth, Marital Status, Race/Ethnicity, Religion, Citizenship Status and/or Nationality.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145508Z" creationid="Judy" creationdate="20151028T145508Z">
+        <seg>當變更您的 Place of Birth (出生地)、Marital Status (婚姻狀況)、 Race/Ethnicity (種族)、Religion (宗教)、Citizenship Status (公民身份) 以及 Nationality (國籍) 時點擊 圖示以使用彈出式功能表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the Personal Information Worklet on the home screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133732Z" creationid="Judy" creationdate="20151028T133614Z">
@@ -51686,6 +51694,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133224Z">
         <seg>您也可以撥打/接聽電話（需要外接喇叭和麥克風）以及傳送/接收簡訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can amend your Legal Name and Preferred Name, but only one amendment can be done at a time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145541Z" creationid="Judy" creationdate="20151028T145541Z">
+        <seg>可以修改您的法律姓名名稱和首選的名稱，但只有一項修正案可以做一次。</seg>
       </tuv>
     </tu>
     <tu>
