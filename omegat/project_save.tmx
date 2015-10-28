@@ -5137,6 +5137,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you have submitted your supporting documents, they will go to People Connect for review.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T142410Z" creationid="Judy" creationdate="20151028T142410Z">
+        <seg>當送出您的證明文件後，將送到 People Connect (人事部門) 進行審查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Again, Nuance has been providing robust PDF solutions over over a decade.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T122651Z">
@@ -11130,6 +11138,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114451Z">
         <seg>建築設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consult local policy for details on which documents are required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T142218Z" creationid="Judy" creationdate="20151028T142218Z">
+        <seg>請查閱當地政策以了解需要哪些證明文件。</seg>
       </tuv>
     </tu>
     <tu>
