@@ -14874,8 +14874,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Examples of roles include People Manager, Budget Owner, Reward COE etc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T124824Z" creationid="Judy" creationdate="20151028T124824Z">
-        <seg>角色的範例包括人事經理 (People Manager)、預算經理 (Budget Owner)、績效獎勵顧問 (Reward COE) 等。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125712Z" creationid="Judy" creationdate="20151028T124824Z">
+        <seg>職位的範例包括人事經理 (People Manager)、預算經理 (Budget Owner)、績效獎勵顧問 (Reward COE) 等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16788,6 +16788,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T020616Z" creationid="Judy" creationdate="20151024T020326Z">
         <seg>配件包括冰箱、工具箱、貨箱、水箱、燃料箱、野營漁具、狗屋/狗籠等等，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the cost center ‘Australia – Brand Marketing’ would track the financial impact of all HR transactions under brand marketing in Australia.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125457Z" creationid="Judy" creationdate="20151028T125457Z">
+        <seg>例如，「澳洲 —— 品牌行銷」成本中心會追蹤澳洲的品牌行銷對所有人力資源業務的財務影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34503,8 +34511,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>ROLE / SUPPORT ROLE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T123738Z" creationid="Judy" creationdate="20151028T123738Z">
-        <seg>角色 / 支援角色</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125707Z" creationid="Judy" creationdate="20151028T123738Z">
+        <seg>職位 / 支援職位</seg>
       </tuv>
     </tu>
     <tu>
@@ -45220,6 +45228,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These people will have access to the information relevant to their role.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125800Z" creationid="Judy" creationdate="20151028T125729Z">
+        <seg>這些人員能存取其職位相關的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These pins can be configured to trigger an interrupt on a low value, a rising or falling edge, or a change in value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131706Z">
@@ -51279,6 +51295,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130228Z" creationid="Judy" creationdate="20151027T130228Z">
         <seg>您可以使用 Workday 更新個人資訊、請假並確保病假記錄正確</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the information provided on your Workday profile (under Contact -&gt; Support Roles) to identify the people holding support roles for you.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125732Z" creationid="Judy" creationdate="20151028T125657Z">
+        <seg>可以使用 Workday 檔案 (位於 Contact -&gt; Support Roles) 中提供的資訊找出您的支援職位人員，</seg>
       </tuv>
     </tu>
     <tu>
