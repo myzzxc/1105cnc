@@ -9564,6 +9564,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Citizenship</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150210Z" creationid="Judy" creationdate="20151028T150210Z">
+        <seg>公民身份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Citrix Publish Application Wizard.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114909Z">
@@ -11238,6 +11246,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contact Information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150300Z" creationid="Judy" creationdate="20151028T150300Z">
+        <seg>聯絡資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contact Name………………………………………………..……………………………..</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093259Z">
@@ -12639,6 +12655,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date of Birth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150211Z" creationid="Judy" creationdate="20151028T150211Z">
+        <seg>出生日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014517Z">
@@ -13199,6 +13223,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133328Z">
         <seg>指向性麥克風：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disability Status</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150134Z" creationid="Judy" creationdate="20151028T150134Z">
+        <seg>殘疾狀況</seg>
       </tuv>
     </tu>
     <tu>
@@ -17831,6 +17863,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gender</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150207Z" creationid="Judy" creationdate="20151028T150207Z">
+        <seg>性別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General Industrial Equipment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114455Z">
@@ -19372,6 +19412,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143622Z">
         <seg>當安裝與使用未正確遵循適用之產品、材料或施工方法之規範以滿足效能表現、或經常發生故障、或不合理之損壞時，ICC-ES保留拒絕發出或續發任何評估報告之權利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ID Information/IDs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150203Z" creationid="Judy" creationdate="20151028T150203Z">
+        <seg>身分證資訊/身分證</seg>
       </tuv>
     </tu>
     <tu>
@@ -25939,6 +25987,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legal Name</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150127Z" creationid="Judy" creationdate="20151028T150047Z">
+        <seg>法律姓名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legal Trademark Names (Use in first instance on each.):</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083942Z">
@@ -27104,6 +27160,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marital Status</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150206Z" creationid="Judy" creationdate="20151028T150206Z">
+        <seg>婚姻狀況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark Enable Connectors so that you can make your selections in the list</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T091205Z">
@@ -27292,6 +27356,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T115853Z">
         <seg>醫療診斷設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medical Exam / Military Status</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150236Z" creationid="Judy" creationdate="20151028T150236Z">
+        <seg>健康檢查 / 兵役狀況</seg>
       </tuv>
     </tu>
     <tu>
@@ -28657,6 +28729,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T121333Z">
         <seg>國家法律支持主流的、基於人權的水源治理方法，能校正潛在的不平衡並避免社會排斥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nationality</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150129Z" creationid="Judy" creationdate="20151028T150101Z">
+        <seg>國籍</seg>
       </tuv>
     </tu>
     <tu>
@@ -32577,6 +32657,22 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T134515Z">
         <seg>持續的貧窮、用水供給和衛生服務分配不均、資金短缺以及缺乏水資源現狀、使用和管理等相關信息的匱乏，都進一步限制了水資源管理及其幫助實現永續發展目標的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Personal Data Changes that can be confirmed instantly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150249Z" creationid="Judy" creationdate="20151028T150249Z">
+        <seg>可立即確認的資料變更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Personal Data Changes that require supporting documentation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150034Z" creationid="Judy" creationdate="20151028T150034Z">
+        <seg>需要證明文件的資料變更</seg>
       </tuv>
     </tu>
     <tu>
@@ -38725,6 +38821,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134622Z" creationid="Judy" creationdate="20151028T134622Z">
         <seg>某些資料變更能立即確認，某些則需要證明文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some fields, including Disability Status and Military Status, may not be available based on your country-specific policy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145958Z" creationid="Judy" creationdate="20151028T145958Z">
+        <seg>某些欄位，包括 Disability Status (殘疾狀況) 和 Military Status (兵役狀況) 可能根據國家特定政策而不存在。</seg>
       </tuv>
     </tu>
     <tu>
