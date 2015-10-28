@@ -22573,6 +22573,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also provides you with a status of any process that you have initiated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T000102Z" creationid="Judy" creationdate="20151028T000102Z">
+        <seg>同時提供您所發起之流程的狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also supports zoom via the mouse wheel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131736Z" creationid="Judy" creationdate="20151013T131736Z">
@@ -38703,6 +38711,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135200Z" creationid="Judy" creationdate="20151008T135200Z">
         <seg>加密儲存之密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stores messages including tasks and requests that require your attention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235959Z" creationid="Judy" creationdate="20151027T235959Z">
+        <seg>儲存任務和需要您注意的請求等訊息，</seg>
       </tuv>
     </tu>
     <tu>
