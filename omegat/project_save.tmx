@@ -25202,6 +25202,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LEAVE OF ABSENCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T122520Z" creationid="Judy" creationdate="20151028T122520Z">
+        <seg>LEAVE OF ABSENCE (請假)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LINK: indicates the presence of a network link and flashes when the Shield transmits or receives data</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133436Z">
