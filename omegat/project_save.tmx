@@ -9765,6 +9765,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Attach to upload a supporting document for your leave request.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T233658Z" creationid="Judy" creationdate="20151028T233658Z">
+        <seg>點擊 Attach (加入附件) 以上傳休假申請之相關證明文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Buy Now and enter the quantity between 5 and 25 in the cart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124342Z">
@@ -10041,6 +10049,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151728Z" creationid="Judy" creationdate="20151028T151728Z">
         <seg>點擊 Submit (送出) 已完成操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Submit to send the request for approvals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T233925Z" creationid="Judy" creationdate="20151028T233925Z">
+        <seg>點擊 Submit (送出) 呈交申請進行審批。</seg>
       </tuv>
     </tu>
     <tu>
