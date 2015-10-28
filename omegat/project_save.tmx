@@ -9741,6 +9741,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Done to confirm the selection and the process is complete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145157Z" creationid="Judy" creationdate="20151028T145157Z">
+        <seg>點擊 Done (完成) 以確認選擇和流程已完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Done to confirm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134254Z" creationid="Judy" creationdate="20151028T134254Z">
@@ -9841,6 +9849,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233719Z" creationid="Judy" creationdate="20151027T233719Z">
         <seg>點擊螢幕左下方的 OK (確定) 以儲存自訂的首頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click OK to display the summary screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145111Z" creationid="Judy" creationdate="20151028T145111Z">
+        <seg>點擊 OK (確定) 以顯示總結畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10713,6 +10729,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153113Z">
         <seg>申訴回應時間要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete fields in the Additional Information if required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145032Z" creationid="Judy" creationdate="20151028T145032Z">
+        <seg>依需求填寫 Additional Information (其它資訊) 欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20975,6 +20999,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T052700Z">
         <seg>總體而言，必須確保冷藏鏈功能正常，並將細菌繁殖的可能性降至最低以避免保存期限縮短。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Account Information section, complete fields including Account Type, Bank Name, Bank Sort Code, and Account Number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T144931Z" creationid="Judy" creationdate="20151028T144931Z">
+        <seg>於 Account Information (賬戶資訊) 畫面中輸入 Account Type (帳號類型)、Bank Name (銀行名稱)、Bank Sort Code (銀行代碼) 以及 Account Number (帳號)。</seg>
       </tuv>
     </tu>
     <tu>
