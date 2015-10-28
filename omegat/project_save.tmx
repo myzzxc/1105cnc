@@ -43926,6 +43926,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The personal information required in Workday differs between countries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145750Z" creationid="Judy" creationdate="20151028T145750Z">
+        <seg>Workday 中所要求的個人資訊依不同國家而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The persons jumper is actually blue on the front and white on the back.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124739Z">
@@ -51700,8 +51708,8 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You can amend your Legal Name and Preferred Name, but only one amendment can be done at a time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145541Z" creationid="Judy" creationdate="20151028T145541Z">
-        <seg>可以修改您的法律姓名名稱和首選的名稱，但只有一項修正案可以做一次。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145709Z" creationid="Judy" creationdate="20151028T145541Z">
+        <seg>可以修改您的法律姓名和稱呼姓名，但一次只能修改一項。</seg>
       </tuv>
     </tu>
     <tu>
