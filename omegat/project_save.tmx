@@ -47334,6 +47334,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To view your bank account details, enter Payment Elections in the search box on your home screen, and choose Payment Elections from the results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T143256Z" creationid="Judy" creationdate="20151028T143058Z">
+        <seg>若要查看您的銀行帳戶詳細資訊，於首頁畫面的搜尋方塊中輸入 Payment Elections (付款選項) ，並從搜尋結果中選擇 Payment Elections。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To work with RMS protected documents Active Directory Rights Management Service Client 2.1 must be installed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025806Z">
