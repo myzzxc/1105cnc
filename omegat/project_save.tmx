@@ -30227,6 +30227,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once approved, your data change will be confirmed in Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T142512Z" creationid="Judy" creationdate="20151028T142512Z">
+        <seg>批准後， Workday 中將確認您的資料變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once deliveries have been completed, data needs to be reviewed to ensure that there were no major fluctuations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T052005Z">
@@ -51262,6 +51270,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081135Z">
         <seg>有 無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YOUR BANK ACCOUNT DETAILS IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T142604Z" creationid="Judy" creationdate="20151028T142604Z">
+        <seg>WORKDAY 中的銀行帳戶詳細資訊</seg>
       </tuv>
     </tu>
     <tu>
