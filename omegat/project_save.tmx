@@ -51526,6 +51526,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Worklet: An icon on the home page, which provides easy access to tasks and information that are used regularly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T152407Z" creationid="Judy" creationdate="20151028T152407Z">
+        <seg>Worklet：首頁上的一個圖示，能輕易地存取您常用的任務和資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Worklets can be customised using the      icon on right of the home screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120952Z" creationid="Judy" creationdate="20151028T120952Z">
@@ -52230,6 +52238,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085055Z">
         <seg>需自行準備一台空氣壓縮機或是可提供雕刻機系統充足空氣之設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will receive the confirmation in your Inbox.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T152348Z" creationid="Judy" creationdate="20151028T152348Z">
+        <seg>您將於收件匣中收到確認通知。</seg>
       </tuv>
     </tu>
     <tu>
