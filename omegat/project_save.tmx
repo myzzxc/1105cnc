@@ -8755,6 +8755,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHANGING YOUR BANK ACCOUNT DETAILS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T144503Z" creationid="Judy" creationdate="20151028T144503Z">
+        <seg>變更銀行帳戶詳細資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHYAU BAN MACHINERY CO., LTD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125904Z">
@@ -20312,6 +20320,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you update your bank account details in Workday, your local payroll system will also be updated and Workday will retain your bank account details for the future.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T144437Z" creationid="Judy" creationdate="20151028T144238Z">
+        <seg>若您於 Workday 中更新銀行帳戶的詳細資料，您當地的工資系統中也會更新，而 Workday 會保留您的銀行帳戶資料供未來使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want this mst file only click Generate Transform in the Transform ribbon and name your file.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044819Z">
@@ -20347,8 +20363,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If your bank account details have been registered with your local payroll system since before Workday was activated in your country, they will not be displayed here.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T143744Z" creationid="Judy" creationdate="20151028T143744Z">
-        <seg>如果您的銀行帳戶資料於您所在國家啟用 Workday 之前便已註冊於當地工資系統中，資料將不會在這裡顯示。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T144258Z" creationid="Judy" creationdate="20151028T143744Z">
+        <seg>如果銀行帳戶資料於所在國家啟用 Workday 之前便已註冊於當地工資系統中，資料將不會在這裡顯示。</seg>
       </tuv>
     </tu>
     <tu>
