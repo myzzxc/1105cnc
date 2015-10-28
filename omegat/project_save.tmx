@@ -16790,6 +16790,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For data changes which require supporting documents, use the Upload option on the initial screen to attach these.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T142022Z" creationid="Judy" creationdate="20151028T142022Z">
+        <seg>資料變更需要附上的證明文件可在最初畫面中使用 Upload (上傳) 選項附加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For demanding business users, Nuance Power PDF Standard is the next generation PDF solution that delivers performance, ease and value as never before, freeing them from the compromises of traditional PDF applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T052519Z">
