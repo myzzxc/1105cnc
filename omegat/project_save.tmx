@@ -24822,6 +24822,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will have complete details about hiring requirements of the position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T123631Z" creationid="Judy" creationdate="20151028T123631Z">
+        <seg>它將會提供完整的招聘職缺要求的詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will search for Change Personal Information.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235205Z" creationid="Judy" creationdate="20151027T235205Z">
@@ -34449,6 +34457,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132902Z">
         <seg>校閱和批准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ROLE / SUPPORT ROLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T123738Z" creationid="Judy" creationdate="20151028T123738Z">
+        <seg>角色 / 支援角色</seg>
       </tuv>
     </tu>
     <tu>
