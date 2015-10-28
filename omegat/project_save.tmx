@@ -3650,6 +3650,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A set designation inside Workday related to the Security Group of the user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T123934Z" creationid="Judy" creationdate="20151028T123934Z">
+        <seg>Workday 中與使用者安全性群組 (Security Group) 相關的一組職稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A side net assembly for a utility vehicle, where the vehicle includes a frame extending in a generally longitudinal direction, a first seating area at a first longitudinal position relative to the frame and a frame canopy enclosing the first seating area, and defined by a plurality of frame uprights coupled to the frame defining an envelope around the first seating area, a side net assembly comprised of a pivotal bar and a net supported by the pivotal bar, the side net assembly being supported by at least one of the frame uprights and being latchable to at least one of the frame uprights, whereby the side net assembly can be in a latched position when a rider is in the vehicle and can be collapsed to allow ingress and egress of a rider.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T053739Z" creationid="Judy" creationdate="20151025T053739Z">
@@ -41328,6 +41336,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030217Z">
         <seg>Scania 5-系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Security Group determines access to data, tasks and reports.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T124027Z" creationid="Judy" creationdate="20151028T124027Z">
+        <seg>安全性群組決定了資料、任務和報告的存取權限。</seg>
       </tuv>
     </tu>
     <tu>
