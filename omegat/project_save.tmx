@@ -15764,8 +15764,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Favorites</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054336Z">
-        <seg>我的最愛</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T000534Z">
+        <seg>Favorites (我的最愛)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28100,6 +28100,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My Account</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T000827Z" creationid="Judy" creationdate="20151028T000827Z">
+        <seg>My Account (我的帳戶)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>N/A</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141808Z">
@@ -38727,6 +38735,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133725Z">
         <seg>將裝置存放於室內以避免元件受潮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Store your most frequently used items such as reports and tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T000602Z" creationid="Judy" creationdate="20151028T000602Z">
+        <seg>儲存最常使用的功能如報告和任務等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51145,6 +51161,14 @@ whether it�s raining or snowing</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T052748Z">
         <seg>無論風雨或下雪
 都能留下美好回憶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your personal online filing cabinet for reports and tasks stored in Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T000816Z" creationid="Judy" creationdate="20151028T000816Z">
+        <seg>儲存於 Workday 中的報告和任務的個人線上檔案匣。</seg>
       </tuv>
     </tu>
     <tu>
