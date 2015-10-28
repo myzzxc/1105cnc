@@ -20496,6 +20496,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you already initiated a Leave of Absence request earlier, you can check the Actions tab in your Inbox to access them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T234120Z" creationid="Judy" creationdate="20151028T234120Z">
+        <seg>若已經提出休假申請，可於收件匣的 Actions 分頁中存取休假申請。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are going to perform the standard installation procedure via Setup.exe – located in the root folder of the CD – then Setup.exe installs these software packages automatically before launching the product installer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T042004Z">
