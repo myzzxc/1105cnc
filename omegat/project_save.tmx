@@ -1845,6 +1845,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>14-Jul-15</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132337Z" creationid="Judy" creationdate="20151028T132337Z">
+        <seg>2015 年 7 月 14 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15% fewer parts per product</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T103750Z">
@@ -9613,6 +9621,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Change Preferences to choose your preferred language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132120Z" creationid="Judy" creationdate="20151028T132120Z">
+        <seg>點擊 Change Preferences 以選擇語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Close on Package completed step</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153532Z">
@@ -9857,6 +9873,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233101Z" creationid="Judy" creationdate="20151027T233101Z">
         <seg>點擊首頁右上方的 圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the drop down list next to Preferred Display Language to see the various language options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132232Z" creationid="Judy" creationdate="20151028T132232Z">
+        <seg>點擊 Preferred Display Language  旁邊的下拉選單以顯示各種語言選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18091,6 +18115,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141949Z">
         <seg>如何取得 DIGIFORT 分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOW TO SET YOUR PREFERRED LANGUAGE, CURRENCY AND LOCALE IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132327Z" creationid="Judy" creationdate="20151028T132327Z">
+        <seg>如何在 Workday 中設定語言、貨幣和地區</seg>
       </tuv>
     </tu>
     <tu>
@@ -36298,6 +36330,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STEP 3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132124Z" creationid="Judy" creationdate="20151028T132124Z">
+        <seg>第 3 步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SUBJECTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130751Z">
@@ -37291,6 +37331,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025805Z">
         <seg>選擇發佈的版本：32 位元或 64 位元，並點擊 OK （確定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select your preferred language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132248Z" creationid="Judy" creationdate="20151028T132248Z">
+        <seg>選擇您所使用的語言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48556,9 +48604,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Version 1.0</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014053Z">
-        <seg>Version 1.0 
-版本 1.0</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132403Z">
+        <seg>1.0 版</seg>
       </tuv>
     </tu>
     <tu>
