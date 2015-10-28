@@ -9284,6 +9284,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check for other preference options like</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T131945Z" creationid="Judy" creationdate="20151028T131847Z">
+        <seg>於此頁面查看其它選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check packing seal on floating end for leaks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065603Z">
@@ -9689,6 +9697,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084420Z">
         <seg>點擊 Microsoft Office Integration。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click My Account to access your account.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132043Z" creationid="Judy" creationdate="20151028T132043Z">
+        <seg>點擊 My Account 以進入您的帳戶資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52442,6 +52458,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>notifications on this page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T131957Z" creationid="Judy" creationdate="20151028T131957Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>of cameras</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T052836Z" creationid="Judy" creationdate="20151010T052836Z">
@@ -52703,6 +52727,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133250Z">
         <seg>所有加工階段依據先進先出原則，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>search preferences, background</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T131951Z" creationid="Judy" creationdate="20151028T131901Z">
+        <seg>如搜尋選項、背景通知</seg>
       </tuv>
     </tu>
     <tu>
