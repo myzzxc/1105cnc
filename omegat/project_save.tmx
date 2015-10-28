@@ -10029,6 +10029,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the        icon next your name, move the mouse pointer over Benefits, and click View Dependents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151430Z" creationid="Judy" creationdate="20151028T151430Z">
+        <seg>點擊您名字旁的 圖示，將滑鼠遊標移至 Benefits (福利)，並點擊 View Dependents (檢視家屬資料)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the       icon on the right of the field or click the field itself to edit the information.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134045Z" creationid="Judy" creationdate="20151028T134045Z">
@@ -30255,6 +30263,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T150435Z" creationid="Judy" creationdate="20151012T150435Z">
         <seg>可於監視用戶端上設置系統之目標物件清單中的名稱和物件的顯示模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On this page, you have the option to Add, Edit or Delete dependents details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151603Z" creationid="Judy" creationdate="20151028T151603Z">
+        <seg>於此頁面中上可選擇 Add (增加)、 Edit (編輯) 或 Delete (刪除) 家的詳細資料。</seg>
       </tuv>
     </tu>
     <tu>
