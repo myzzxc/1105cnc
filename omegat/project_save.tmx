@@ -9853,6 +9853,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the         icon in the top right corner of the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132553Z" creationid="Judy" creationdate="20151028T132553Z">
+        <seg>點擊螢幕右上角的 圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the        icon at the top right of the page to access your account.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235717Z" creationid="Judy" creationdate="20151027T235717Z">
@@ -12525,6 +12533,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063757Z">
         <seg>高度支援 PDF 標準（PDF/A、標籤 (Tagging)、封包 (Packaging)、組合 (Portfolios)、等等……）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default display language is English.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132612Z" creationid="Judy" creationdate="20151028T132612Z">
+        <seg>預設顯示語言為英文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26147,8 +26163,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Login to Workday.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T231406Z" creationid="Judy" creationdate="20151027T231306Z">
-        <seg>登入 Workday。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132533Z" creationid="Judy" creationdate="20151027T231306Z">
+        <seg>登入 Workday </seg>
       </tuv>
     </tu>
     <tu>
@@ -36334,6 +36350,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132124Z" creationid="Judy" creationdate="20151028T132124Z">
         <seg>第 3 步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STEP 4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132724Z" creationid="Judy" creationdate="20151028T132724Z">
+        <seg>第 4 步</seg>
       </tuv>
     </tu>
     <tu>
@@ -51482,6 +51506,14 @@ Edit your video afterwards just like the pros do.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will need Internet Explorer 9 or above browser to access Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132648Z" creationid="Judy" creationdate="20151028T132648Z">
+        <seg>必須使用 Internet Explorer 9 或更新版本的瀏覽器以存取 Workday。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will need to supply 2 Ethernet cables long enough to reach the router table and your network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092328Z">
@@ -51518,6 +51550,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033446Z">
         <seg>客戶具有高要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your home page is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132522Z" creationid="Judy" creationdate="20151028T132522Z">
+        <seg>將顯示您的首頁。</seg>
       </tuv>
     </tu>
     <tu>
