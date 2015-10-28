@@ -3882,6 +3882,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125105Z" creationid="Judy" creationdate="20151028T125105Z">
+        <seg>操作 (ACTION)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADDITONAL REMARKS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T150335Z">
@@ -6241,6 +6249,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T135424Z" creationid="Judy" creationdate="20151008T135424Z">
         <seg>任何解析度 (取決於攝影機) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any transaction within Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T124934Z" creationid="Judy" creationdate="20151028T124934Z">
+        <seg>Workday 中的所有事務處理，</seg>
       </tuv>
     </tu>
     <tu>
@@ -8823,6 +8839,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142523Z">
         <seg>企業品管部門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COST CENTER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125119Z" creationid="Judy" creationdate="20151028T125119Z">
+        <seg>成本中心 (COST CENTER)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51973,6 +51997,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T011447Z">
         <seg>Nuance Power PDF 進階版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for example, onboarding, approve, hire, submit etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125027Z" creationid="Judy" creationdate="20151028T125027Z">
+        <seg>例如，到職、批准、雇用、上呈等。</seg>
       </tuv>
     </tu>
     <tu>
