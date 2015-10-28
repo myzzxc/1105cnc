@@ -3626,6 +3626,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A series (or workflow) of one or more actions / tasks that result in a desired outcome.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T100240Z" creationid="Judy" creationdate="20151028T100144Z">
+        <seg>為得到所需的成果所進行的一系列的單一或多重操作/任務 (或工作流) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A side net assembly for a utility vehicle, where the vehicle includes a frame extending in a generally longitudinal direction, a first seating area at a first longitudinal position relative to the frame and a frame canopy enclosing the first seating area, and defined by a plurality of frame uprights coupled to the frame defining an envelope around the first seating area, a side net assembly comprised of a pivotal bar and a net supported by the pivotal bar, the side net assembly being supported by at least one of the frame uprights and being latchable to at least one of the frame uprights, whereby the side net assembly can be in a latched position when a rider is in the vehicle and can be collapsed to allow ingress and egress of a rider.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T053739Z" creationid="Judy" creationdate="20151025T053739Z">
@@ -16652,6 +16660,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T134754Z" creationid="Judy" creationdate="20151023T134746Z">
         <seg>例如 (仍參照圖 14)  立柱 246 向外傾斜；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, hiring an employee, applying for time off etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T100208Z" creationid="Judy" creationdate="20151028T100208Z">
+        <seg>例如，招聘員工、申請休假等。</seg>
       </tuv>
     </tu>
     <tu>
