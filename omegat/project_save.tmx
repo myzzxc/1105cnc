@@ -24942,6 +24942,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JOB REQUISITION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T122850Z" creationid="Judy" creationdate="20151028T122850Z">
+        <seg>ㄉㄥJOB REQUISITION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070318Z">
@@ -26037,6 +26045,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060921Z">
         <seg>遊蕩：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Long term leave including all non-timesheet-based leaves and sickness leave.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T122918Z" creationid="Judy" creationdate="20151028T122849Z">
+        <seg>所有非出勤表上的休假和病假等長假。</seg>
       </tuv>
     </tu>
     <tu>
