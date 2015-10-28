@@ -5891,6 +5891,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An Action may also be called an Event or a Task.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125841Z" creationid="Judy" creationdate="20151028T125841Z">
+        <seg>操作也稱為事件 (Event) 或任務 (Task)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An Effective Way to Create and Manage Product Platforms</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T015159Z">
@@ -39933,6 +39941,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TO-DO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125917Z" creationid="Judy" creationdate="20151028T125917Z">
+        <seg>待辦事項 (TO-DO)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TOMA CHENG, MARTA, SUSAN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130710Z">
@@ -46946,6 +46962,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025806Z">
         <seg>若要使用 RMS 保護之文件，必須安裝 Active Directory Rights Management Service Client 2.1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To-Do's are actions which need to be performed in order to progress to the next step in a process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T130040Z" creationid="Judy" creationdate="20151028T130040Z">
+        <seg>待辦事項為繼續下一步流程所需要執行的操作，</seg>
       </tuv>
     </tu>
     <tu>
