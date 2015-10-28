@@ -41972,6 +41972,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The action is ‘sent back’ for further amendments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T130855Z" creationid="Judy" creationdate="20151028T130855Z">
+        <seg>此操作為「退回」進行進一步的修訂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The addition of an object to a scene and being abandoned has a similar method of detection but instead of looking for a hole in the learnt background it looks for a new object that has been stationary long enough to become part of the background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112923Z">
@@ -46205,6 +46213,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T020740Z">
         <seg>此選項可根據開放安裝套裝程式和設定的修改間的差異來建立一個轉換檔 (.mst) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option will be selected by a People Manager (or any approver) where certain changes will need to be made to an action that has been submitted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T130823Z" creationid="Judy" creationdate="20151028T130816Z">
+        <seg>對於已呈交的操作需要某些修改時，人事經理 (或任何審批人員) 將選擇此選項。</seg>
       </tuv>
     </tu>
     <tu>
