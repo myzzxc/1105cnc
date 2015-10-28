@@ -7151,6 +7151,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attach any relevant documents of the dependent for proof and click Submit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T152253Z" creationid="Judy" creationdate="20151028T152253Z">
+        <seg>附上家屬的相關文件證明並點擊 Submit (送出)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attach application files or sounds to a PDF</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T062941Z">
@@ -9789,6 +9797,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Done to complete the process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T152322Z" creationid="Judy" creationdate="20151028T152322Z">
+        <seg>點擊 Done (完成) 以完成流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Done to confirm the selection and the process is complete.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145157Z" creationid="Judy" creationdate="20151028T145157Z">
@@ -9985,6 +10001,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151728Z" creationid="Judy" creationdate="20151028T151728Z">
         <seg>點擊 Submit (送出) 已完成操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click To Do and then, click Change Benefits to enrol your dependent for any benefits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T152049Z" creationid="Judy" creationdate="20151028T152032Z">
+        <seg>點擊 To Do 後再點擊 Change Benefits (福利變更) 使您的家屬享有任何福利。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37811,6 +37835,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000427Z">
         <seg>透過網路於 System32 或 System64 資料夾選擇 Nuance_Cloud_Connector.msi 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the appropriate Benefit event type and enter the Benefit event date.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T152212Z" creationid="Judy" creationdate="20151028T152212Z">
+        <seg>選擇適當的福利事件種類並輸入福利事件日期。</seg>
       </tuv>
     </tu>
     <tu>
