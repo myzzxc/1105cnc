@@ -29962,6 +29962,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T231939Z" creationid="Judy" creationdate="20151028T231939Z">
+        <seg>或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OR Low cost Country</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T124020Z">
@@ -37775,6 +37783,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select My Payslips on the Payroll screen and Payslips screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T231937Z" creationid="Judy" creationdate="20151028T231937Z">
+        <seg>選擇 Payroll 頁面中的 My Payships (薪資單) 以顯示薪資單畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Overview tab to view the sub tabs in this tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230728Z" creationid="Judy" creationdate="20151028T230701Z">
@@ -37787,6 +37803,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134959Z">
         <seg>選擇 PDF 應用程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Payroll worklet on your home screen and the Payroll screen appears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T231801Z" creationid="Judy" creationdate="20151028T231801Z">
+        <seg>選擇首頁畫面的 Payroll (薪資發放) worklet 以顯示 Payroll 頁面。</seg>
       </tuv>
     </tu>
     <tu>
