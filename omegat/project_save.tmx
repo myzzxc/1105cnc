@@ -3265,6 +3265,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Supervisory Organisation may have a Superior and a Subordinate organisation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120812Z" creationid="Judy" creationdate="20151028T120812Z">
+        <seg>監管組織可能有上級和下級組織。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Unique Company with a Unique Offering</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T023148Z">
@@ -3668,8 +3676,8 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>A supervisory organisation is a grouping of employees who report up to the same manager.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120453Z" creationid="Judy" creationdate="20151028T120453Z">
-        <seg>監督的組織是由同一位經理報告的雇員的分組。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120636Z" creationid="Judy" creationdate="20151028T120453Z">
+        <seg>監管組織是由同一位主管所管理的員工所組成，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18579,6 +18587,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235012Z" creationid="Judy" creationdate="20151027T235012Z">
         <seg>協助您於 Search 欄位中輸入部分文字以搜尋資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are some of the commonly used Workday key terms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120904Z" creationid="Judy" creationdate="20151028T120904Z">
+        <seg>以下是 Workday 一些常用的重要用語。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45256,6 +45272,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T023619Z">
         <seg>其具有標準尺寸 (BC &amp; B)，標準化可變尺寸 (S)，以及較抗阻塞和較低壓降的大管道 (L)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are building blocks for Imperial Tobacco’s overall organisational structure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120724Z" creationid="Judy" creationdate="20151028T120724Z">
+        <seg>他們是 Imperial Tobacco (帝國煙草) 整體組織結構的基石。</seg>
       </tuv>
     </tu>
     <tu>
