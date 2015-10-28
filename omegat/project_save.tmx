@@ -49434,6 +49434,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>View all of your compensation details on this single screen including Total Salary and Allowances, Total Base Pay, Compensation package, Grade, Grade Profile, Company, Plan Assignments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T231635Z" creationid="Judy" creationdate="20151028T231635Z">
+        <seg>於此頁面中檢視您的薪資詳細資料，包括總薪資和津貼、總基本薪資、薪資方案、職等、職等檔案、公司、計畫任務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View and navigate page thumbnails</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032644Z">
