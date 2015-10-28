@@ -9709,6 +9709,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;Relevant Months Payslip&gt; on the Payslip screen, to view that Payslip for that month.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T232245Z" creationid="Judy" creationdate="20151028T232245Z">
+        <seg>點擊薪資單畫面中的 &lt;Relevant Months Payslip&gt; (每月薪資單) 以檢視該月份的薪資單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Add  to enlist a new dependent, and enter the details.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151651Z" creationid="Judy" creationdate="20151028T151651Z">
@@ -14897,6 +14905,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043023Z">
         <seg>無論是短期或長期禁食，確保良好的禁食過程將有助於減少此階段的細菌污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter My Payslips in the search box on your home screen, Payslips screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T232121Z" creationid="Judy" creationdate="20151028T232039Z">
+        <seg>於首頁畫面的搜尋方塊中輸入 My Payslips 以顯示薪資單畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37785,8 +37801,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Select My Payslips on the Payroll screen and Payslips screen is displayed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T231937Z" creationid="Judy" creationdate="20151028T231937Z">
-        <seg>選擇 Payroll 頁面中的 My Payships (薪資單) 以顯示薪資單畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T232047Z" creationid="Judy" creationdate="20151028T231937Z">
+        <seg>選擇 Payroll 頁面中的 My Payslips (薪資單) 以顯示薪資單畫面。</seg>
       </tuv>
     </tu>
     <tu>
