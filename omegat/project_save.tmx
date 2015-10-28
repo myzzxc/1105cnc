@@ -39821,6 +39821,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TIME OFF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T121049Z" creationid="Judy" creationdate="20151028T121049Z">
+        <seg>TIME OFF (事假)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TOMA CHENG, MARTA, SUSAN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130710Z">
@@ -50571,6 +50579,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055310Z">
         <seg>工作流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Worklets can be customised using the      icon on right of the home screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120952Z" creationid="Judy" creationdate="20151028T120952Z">
+        <seg>可以使用首頁畫面右方的 圖示自訂 Worklets。</seg>
       </tuv>
     </tu>
     <tu>
