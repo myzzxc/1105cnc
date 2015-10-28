@@ -18471,6 +18471,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOW TO ACCESS YOUR COMPENSATION DATA IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230452Z" creationid="Judy" creationdate="20151028T230452Z">
+        <seg>如何於 WORKDAY 中存取薪資資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW TO MANAGE YOUR DEPENDENTS IN WORKDAY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151024Z" creationid="Judy" creationdate="20151028T150838Z">
@@ -30331,6 +30339,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On your Profile Page, many tabs and sub tabs are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230607Z" creationid="Judy" creationdate="20151028T230601Z">
+        <seg>於個人檔案頁面中將顯示許多分頁和子分頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On-Line Help to ensure users have access to the latest information when using Power PDF</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145327Z">
@@ -37731,6 +37747,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T084502Z">
         <seg>選擇 Power PDF 所需整合的 Microsoft Office 應用程式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Overview tab to view the sub tabs in this tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230728Z" creationid="Judy" creationdate="20151028T230701Z">
+        <seg>於分頁中選擇 Overview  (總覽) 分頁以檢視子分頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51490,6 +51514,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T143757Z" creationid="Judy" creationdate="20151012T143757Z">
         <seg>此隱私模式功能中，管理員可以設定當操作人員啟動監控用戶端上的隱私模式時，將失去相機存取權限的使用者的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Within the Overview tab, scroll to the right of the screen and click on Compensation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230704Z" creationid="Judy" creationdate="20151028T230704Z">
+        <seg>於Within the Overview tab, scroll to the right of the screen and click on Compensation.</seg>
       </tuv>
     </tu>
     <tu>
