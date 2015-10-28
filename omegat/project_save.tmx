@@ -7039,6 +7039,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At any point in the process, click Cancel to exit or go back to the home page by clicking the      icon at the top left of the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134523Z" creationid="Judy" creationdate="20151028T134523Z">
+        <seg>在任何過程中，點擊 Cancel (取消) 以退出或點擊螢幕左上方的 圖示返回到首頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At least seven preset screen standards for surveillance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T123356Z" creationid="Judy" creationdate="20151012T123356Z">
@@ -9833,6 +9841,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025550Z">
         <seg>點擊 Publish Package （發佈套裝程式）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Save for Later to come back to this page, and all the information will be saved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134412Z" creationid="Judy" creationdate="20151028T134412Z">
+        <seg>點擊 Save for Later (儲存) 以回到此頁面，而將會儲存所有的資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38541,6 +38557,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083910Z">
         <seg>解決方案：為企業用戶提供價格合理且符合其功能需求的 PDF 軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some data changes can be confirmed instantly, others require supporting documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134622Z" creationid="Judy" creationdate="20151028T134622Z">
+        <seg>某些資料變更能立即確認，某些則需要證明文件。</seg>
       </tuv>
     </tu>
     <tu>
