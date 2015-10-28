@@ -4447,6 +4447,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access this to change your password and account preferences.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T000900Z" creationid="Judy" creationdate="20151028T000900Z">
+        <seg>此處可更改您的密碼和帳戶設定選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access to event logs can only be performed by the system administrator or by a user authorized by the same.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T144011Z" creationid="Judy" creationdate="20151014T144011Z">
@@ -51167,8 +51175,8 @@ whether it�s raining or snowing</seg>
       <tuv lang="EN-US">
         <seg>Your personal online filing cabinet for reports and tasks stored in Workday.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T000816Z" creationid="Judy" creationdate="20151028T000816Z">
-        <seg>儲存於 Workday 中的報告和任務的個人線上檔案匣。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T000959Z" creationid="Judy" creationdate="20151028T000816Z">
+        <seg>個人線上檔案匣，用於儲存 Workday 中的報告和任務。</seg>
       </tuv>
     </tu>
     <tu>
