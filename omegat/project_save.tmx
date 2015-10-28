@@ -9693,6 +9693,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Add  to enlist a new dependent, and enter the details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151651Z" creationid="Judy" creationdate="20151028T151651Z">
+        <seg>點擊 Add 以加入新的家屬並輸入詳細資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Add Elections to display the Payment Election Option screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T144650Z" creationid="Judy" creationdate="20151028T144650Z">
@@ -9969,6 +9977,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T151957Z">
         <seg>點擊 Start installation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Submit to complete the action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151728Z" creationid="Judy" creationdate="20151028T151728Z">
+        <seg>點擊 Submit (送出) 已完成操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15092,6 +15108,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051034Z">
         <seg>每天都有數以百萬計的人們和無數的企業透過能傾聽、理解、學習和融入生活和工作的智慧系統體驗了 Nuance 的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every time you add a new dependent, there is a To Do action to change your benefits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151922Z" creationid="Judy" creationdate="20151028T151922Z">
+        <seg>每增加一名新的家屬，將會有一項 To Do (待辦事項) 操作以變更您的福利。</seg>
       </tuv>
     </tu>
     <tu>
