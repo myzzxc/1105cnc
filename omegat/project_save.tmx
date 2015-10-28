@@ -9685,6 +9685,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Done to confirm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134254Z" creationid="Judy" creationdate="20151028T134254Z">
+        <seg>點擊 Done (完成) 以確認。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Edit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T105143Z">
@@ -9889,6 +9897,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235717Z" creationid="Judy" creationdate="20151027T235717Z">
         <seg>點擊頁面右上方的 圖示頁以存取您的帳戶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the       icon on the right of the field or click the field itself to edit the information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134045Z" creationid="Judy" creationdate="20151028T134045Z">
+        <seg>點擊欄位右邊的 圖示或點擊欄位本身以編輯資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30215,6 +30231,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051506Z">
         <seg>當您具有模塊化產品設計時，設計和製造過程中將會出現大量的機會。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you have updated the information, click Submit for the changes to be updated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134236Z" creationid="Judy" creationdate="20151028T134236Z">
+        <seg>當完成資訊更新後，點擊 Submit (送出) 以更新所作的變更。</seg>
       </tuv>
     </tu>
     <tu>
