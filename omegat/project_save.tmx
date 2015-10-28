@@ -20416,6 +20416,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are not able to view Compensation option, click on the blue arrow on the right of the screen and a list is displayed as represented in the screenshot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T231028Z" creationid="Judy" creationdate="20151028T231028Z">
+        <seg>若您無法查看 Compensation 選項，請按一下螢幕右側的藍色箭頭代表在截圖中顯示的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are not interested in purchasing volume licensing and are looking for individual use Click Here.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124211Z">
@@ -51520,8 +51528,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Within the Overview tab, scroll to the right of the screen and click on Compensation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230704Z" creationid="Judy" creationdate="20151028T230704Z">
-        <seg>於Within the Overview tab, scroll to the right of the screen and click on Compensation.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230926Z" creationid="Judy" creationdate="20151028T230704Z">
+        <seg>於 Overview 分頁中，捲動子分頁至螢幕右方並點擊 Compensation (薪資)。</seg>
       </tuv>
     </tu>
     <tu>
