@@ -10133,6 +10133,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the       icon and complete the required fields including Last Day of Work, First Day of Leave and Estimated Last Day of Leave.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T233152Z" creationid="Judy" creationdate="20151028T233152Z">
+        <seg>點擊 圖示並填寫所需之欄位，包含 Last Day of Work (最後工作日期)、First Day of Leave (假期開始日期) 和 Estimated Last Day of Leave (預估休假結束日期).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the       icon on the right of the field or click the field itself to edit the information.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134045Z" creationid="Judy" creationdate="20151028T134045Z">
@@ -10145,6 +10153,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233548Z" creationid="Judy" creationdate="20151027T233548Z">
         <seg>點擊 圖示可以查看可用的 worklets 清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the      icon in the Leave Type field to select the type of leave from the options available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T233304Z" creationid="Judy" creationdate="20151028T233304Z">
+        <seg>點擊 Leave Type (休假種類) 欄位中的  圖示以從可用選項中選擇休假種類。</seg>
       </tuv>
     </tu>
     <tu>
