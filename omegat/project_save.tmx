@@ -9837,6 +9837,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Compensation Change in the Request column and Request Compensation Change screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144754Z" creationid="Judy" creationdate="20151029T144754Z">
+        <seg>於 Request 欄位點擊 Compensation Change (薪資變更) 以顯示  Request Compensation Change (請求薪資變更) 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Compensation from that list and your Compensation Details are displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T231304Z" creationid="Judy" creationdate="20151028T231304Z">
@@ -48619,6 +48627,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143554Z">
         <seg>雙 5HP Elte 主軸 – 雙 Z 組態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two columns are displayed Request and View.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144613Z" creationid="Judy" creationdate="20151029T144613Z">
+        <seg>將會顯示 Request (請求) 和 View (查看) 兩個欄位。</seg>
       </tuv>
     </tu>
     <tu>
