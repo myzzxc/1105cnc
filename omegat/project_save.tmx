@@ -3491,8 +3491,8 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       <tuv lang="EN-US">
         <seg>A job requisition can be raised only against an existing position within Workday.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T131900Z" creationid="Judy" creationdate="20151029T131725Z">
-        <seg>只能對 Workday 中所存在的職位提出職位需求，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135839Z" creationid="Judy" creationdate="20151029T131725Z">
+        <seg>只能對 Workday 中所存在的職位提出職位需求申請，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18505,8 +18505,8 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Go to the Search box at the top of your home screen and type Create Job Requisition.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132334Z" creationid="Judy" creationdate="20151029T132334Z">
-        <seg>於首頁畫面上方的搜尋方塊中輸入 Create Job Requisition (建立職位需求)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135854Z" creationid="Judy" creationdate="20151029T132334Z">
+        <seg>於首頁畫面上方的搜尋方塊中輸入 Create Job Requisition (建立職位需求申請)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18761,8 +18761,8 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>HOW TO RAISE AND EDIT A JOB REQUISITION</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T131904Z" creationid="Judy" creationdate="20151029T131617Z">
-        <seg>如何提出並編輯職位需求</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135833Z" creationid="Judy" creationdate="20151029T131617Z">
+        <seg>如何提出並編輯職位需求申請</seg>
       </tuv>
     </tu>
     <tu>
@@ -52838,6 +52838,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T075805Z">
         <seg>AXYZ 雕刻機工作台即將運送到達。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Job Requisition will be sent to your HRBP for approval.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135947Z" creationid="Judy" creationdate="20151029T135825Z">
+        <seg>職位需求申請將會送到 HRBP 進行審核，</seg>
       </tuv>
     </tu>
     <tu>
