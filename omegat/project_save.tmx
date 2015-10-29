@@ -27593,6 +27593,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure that you are aware of the details of the One Time Payment Plan, including the policy and eligibility rules, before you select the appropriate plan.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232647Z" creationid="Judy" creationdate="20151029T232629Z">
+        <seg>於選擇合適的方案前，請確認您了解一次性付款方案的詳細資訊，包括政策和適用規則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure to change the network settings for your network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141702Z">
@@ -38561,8 +38569,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Select appropriate One Time Payment Plan from the options available.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232312Z" creationid="Judy" creationdate="20151029T232312Z">
-        <seg>從選項中選擇適當的 One Time Payment Plan (一次性付款方案)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232639Z" creationid="Judy" creationdate="20151029T232312Z">
+        <seg>從選項中選擇合適的 One Time Payment Plan (一次性付款方案)。</seg>
       </tuv>
     </tu>
     <tu>
