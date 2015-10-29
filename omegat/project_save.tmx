@@ -1917,6 +1917,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>16-Aug-15</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T131719Z" creationid="Judy" creationdate="20151029T131719Z">
+        <seg>2015 年 8 月 16 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>17% reduction of in-house manufactured articles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T102008Z">
@@ -3469,6 +3477,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034800Z">
         <seg>機台夾頭上裝有高性能攝影機，AVS 強大軟體功能已完全整合至新型 AXYZ A2MC 機台控制系統內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A job requisition can be raised only against an existing position within Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T131900Z" creationid="Judy" creationdate="20151029T131725Z">
+        <seg>只能對 Workday 中所存在的職位提出職位需求，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16233,6 +16249,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOR PEOPLE MANAGERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T131713Z" creationid="Judy" creationdate="20151029T131713Z">
+        <seg>人事主管專用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOREIGN PATENT DOCUMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T124919Z" creationid="CCYU" creationdate="20151021T124919Z">
@@ -18633,7 +18657,7 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>HOW TO RAISE AND EDIT A JOB REQUISITION</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T131617Z" creationid="Judy" creationdate="20151029T131617Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T131904Z" creationid="Judy" creationdate="20151029T131617Z">
         <seg>如何提出並編輯職位需求</seg>
       </tuv>
     </tu>
