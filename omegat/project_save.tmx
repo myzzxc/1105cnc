@@ -10261,6 +10261,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the For Existing Position option and click the      icon to see a list of Positions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132730Z" creationid="Judy" creationdate="20151029T132730Z">
+        <seg>點選 For Existing Position (現有職位) 選項並點擊   圖示以顯示職位清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the Personal Information Worklet on the home screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133732Z" creationid="Judy" creationdate="20151028T133614Z">
@@ -38171,6 +38179,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000427Z">
         <seg>透過網路於 System32 或 System64 資料夾選擇 Nuance_Cloud_Connector.msi 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the Position related to this Job Requisition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132825Z" creationid="Judy" creationdate="20151029T132825Z">
+        <seg>選擇本次職位需求申請所需之職位。</seg>
       </tuv>
     </tu>
     <tu>
