@@ -9901,6 +9901,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Done to confirm the request.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T151029Z" creationid="Judy" creationdate="20151029T151029Z">
+        <seg>點擊 Done (完成) 以確認請求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Done to confirm the selection and the process is complete.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145157Z" creationid="Judy" creationdate="20151028T145157Z">
@@ -10289,6 +10297,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151430Z" creationid="Judy" creationdate="20151028T151430Z">
         <seg>點擊您名字旁的 圖示，將滑鼠遊標移至 Benefits (福利)，並點擊 View Dependents (檢視家屬資料)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the       icon and a list of Allowance options are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T151000Z" creationid="Judy" creationdate="20151029T151000Z">
+        <seg>點擊   圖示以顯示 Allowance (津貼) 選項清單，</seg>
       </tuv>
     </tu>
     <tu>
@@ -38543,6 +38559,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the relevant Allowance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T151018Z" creationid="Judy" creationdate="20151029T151018Z">
+        <seg>選擇相關的津貼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the relevant Worklet from the options.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233600Z" creationid="Judy" creationdate="20151027T233600Z">
@@ -48133,10 +48157,26 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To add a new allowance, click Add.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150858Z" creationid="Judy" creationdate="20151029T150858Z">
+        <seg>若要增加新的津貼，請點擊 Add (增加)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To assemble the netting 600, upper marginal edge 730 of the netting is sewn into slots 684 and 694 of the respective clasps 680, 690.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T051936Z" creationid="Judy" creationdate="20151024T051936Z">
         <seg>護網 600 之組裝方式為，護網上側邊緣槽 730 縫入個別各卡榫 680、 690 之槽 684 和 694。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change an existing allowance change, click the       icon on the right of the Allowance field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150821Z" creationid="Judy" creationdate="20151029T150821Z">
+        <seg>點擊 Allowance (津貼) 欄位右方的   圖示以進行津貼變更。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48296,8 +48336,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To make an ad-hoc salary change, click the       icon on the right of the Salary field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145648Z" creationid="Judy" creationdate="20151029T145648Z">
-        <seg>點擊 Salary (薪資) 欄位右方的   圖示以進行特別薪資變更。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150830Z" creationid="Judy" creationdate="20151029T145648Z">
+        <seg>點擊 Salary (薪資) 欄位右方的   圖示以進行特設薪資變更。</seg>
       </tuv>
     </tu>
     <tu>
