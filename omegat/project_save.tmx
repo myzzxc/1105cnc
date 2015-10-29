@@ -14207,6 +14207,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EDITING A JOB REQUISITION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T140209Z" creationid="Judy" creationdate="20151029T140209Z">
+        <seg>編輯職位需求申請</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EMBODIMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T111526Z" creationid="Judy" creationdate="20151022T111526Z">
@@ -15113,6 +15121,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043023Z">
         <seg>無論是短期或長期禁食，確保良好的禁食過程將有助於減少此階段的細菌污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter Edit Job Requisition in the search box of your home page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T140351Z" creationid="Judy" creationdate="20151029T140301Z">
+        <seg>於首頁畫面的搜尋方塊中輸入Edit Job Requisition (編輯職位需求)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30915,6 +30931,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once approved by your HRBP, the requisition will be released to the resourcing partner or Local HR to start the hiring process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T140156Z" creationid="Judy" creationdate="20151029T140156Z">
+        <seg>當 HRBP 核准後，將發出職位需求至人力資源合作公司或當地人力資源部門以開始招聘流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once approved, your data change will be confirmed in Workday.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T142512Z" creationid="Judy" creationdate="20151028T142512Z">
@@ -42220,6 +42244,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T033721Z">
         <seg>自訂工具組檔案位於光碟 Tools 資料夾中 (.\Tools\CustomKit\CustomizationKit.exe)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Edit Job Requisition screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T140330Z" creationid="Judy" creationdate="20151029T140330Z">
+        <seg>將顯示 Edit Job Requisition 畫面。</seg>
       </tuv>
     </tu>
     <tu>
