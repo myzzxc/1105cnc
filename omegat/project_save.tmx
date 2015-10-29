@@ -33646,6 +33646,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please refer to the Hiring policy for further details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T141255Z" creationid="Judy" creationdate="20151029T141255Z">
+        <seg>更多詳細資訊請參閱招聘政策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please specify the interest rate from At sight to Usance 180 and vice versa</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155533Z">
@@ -45182,6 +45190,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144611Z">
         <seg>本手所列之要求規範於任何情況下皆不限制於當前標準規範 (ISO/TS 16949 EN 9100 等……)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The requisition will go to your HRBP for further action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T141139Z" creationid="Judy" creationdate="20151029T141139Z">
+        <seg>申請將送至 HPBR 以進行下一個流程。</seg>
       </tuv>
     </tu>
     <tu>
