@@ -18815,10 +18815,18 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOW TO ADMINISTER AN AD HOC SALARY CHANGE OR ALLOWANCE CHANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150711Z" creationid="Judy" creationdate="20151029T150711Z">
+        <seg>如何管理特設薪資變更或津貼變更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW TO ADMINISTER AN AD-HOC SALARY CHANGE OR ALLOWANCE CHANGE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145208Z" creationid="Judy" creationdate="20151029T145132Z">
-        <seg>如何管理特定薪資變更或津貼變更</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150639Z" creationid="Judy" creationdate="20151029T145132Z">
+        <seg>如何管理特設薪資變更或津貼變更</seg>
       </tuv>
     </tu>
     <tu>
@@ -20892,6 +20900,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034304Z">
         <seg>若未指定語言轉換檔：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not wish to make an ad-hoc salary change, you can skip this step.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150624Z" creationid="Judy" creationdate="20151029T150624Z">
+        <seg>若不希望變更特設薪資，可以跳過此步驟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37428,8 +37444,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>STEP 3 (AD-HOC SALARY CHANGE)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145540Z" creationid="Judy" creationdate="20151029T145540Z">
-        <seg>第 3 步  (特別薪水變更)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150633Z" creationid="Judy" creationdate="20151029T145540Z">
+        <seg>第 3 步  (特設薪資變更)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37438,6 +37454,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132724Z" creationid="Judy" creationdate="20151028T132724Z">
         <seg>第 4 步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STEP 4 (ALLOWANCE CHANGES)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150726Z" creationid="Judy" creationdate="20151029T150726Z">
+        <seg>第 4 步  (津貼變更)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44690,6 +44714,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130134Z">
         <seg>全新 AXYZ 智慧主控台帶來了前所未有的易用功能選單、即時機台狀態顯示以及更多的省時、實用和高產能功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new Total Base Pay is now displayed in the Total Base Pay field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150453Z" creationid="Judy" creationdate="20151029T150453Z">
+        <seg>新的總基本薪資此時會顯示於 Total Base Pay 欄位中。</seg>
       </tuv>
     </tu>
     <tu>
