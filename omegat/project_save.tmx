@@ -9853,6 +9853,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Compensation worklet on your home screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T231730Z" creationid="Judy" creationdate="20151029T231730Z">
+        <seg>點擊首頁畫面中的 Compensation (薪資) worklet。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Connectors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090827Z">
@@ -10089,6 +10097,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T105423Z">
         <seg>點擊 OK（確定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click One-Time Payment under the Request column.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T231850Z" creationid="Judy" creationdate="20151029T231850Z">
+        <seg>點擊 Request (申請請求) 欄位中的 One-Time Payment (一次性付款)。</seg>
       </tuv>
     </tu>
     <tu>
