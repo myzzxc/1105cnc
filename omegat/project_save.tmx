@@ -18887,6 +18887,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOW TO REQUEST A ONE TIME PAYMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T231417Z" creationid="Judy" creationdate="20151029T231417Z">
+        <seg>如何請求一次性付款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW TO SET YOUR PREFERRED LANGUAGE, CURRENCY AND LOCALE IN WORKDAY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132327Z" creationid="Judy" creationdate="20151028T132327Z">
@@ -25185,6 +25193,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050419Z">
         <seg>特別用於無原始圖檔時，轉換現有模板或裝置為自動切割檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is advised to use this functionality with discretion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T231613Z" creationid="Judy" creationdate="20151029T231613Z">
+        <seg>建議謹慎使用此功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52386,6 +52402,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051920Z">
         <seg>WordPerfect Office 支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workday gives you the flexibility to request a One Time payment for your team member.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T231531Z" creationid="Judy" creationdate="20151029T231531Z">
+        <seg>Workday 使您能靈活地為團隊成員請要求一次性的付款，</seg>
       </tuv>
     </tu>
     <tu>
