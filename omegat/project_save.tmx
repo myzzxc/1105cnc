@@ -10069,6 +10069,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Submit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T235304Z" creationid="Judy" creationdate="20151028T235304Z">
+        <seg>點擊 Submit (送出)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Supporting Documents to expand this section and click the      icon to open the field to attach files and add comments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T233610Z" creationid="Judy" creationdate="20151028T233603Z">
@@ -18619,6 +18627,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141949Z">
         <seg>如何取得 DIGIFORT 分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOW TO RAISE AND EDIT A JOB REQUISITION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T131617Z" creationid="Judy" creationdate="20151029T131617Z">
+        <seg>如何提出並編輯職位需求</seg>
       </tuv>
     </tu>
     <tu>
