@@ -6469,6 +6469,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approval is now pending with HRBP, Budget Owner and/or Reward COE.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T233446Z" creationid="Judy" creationdate="20151029T233446Z">
+        <seg>此時將由 HRBP (預算經理或績效獎勵顧問) 進行審核</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Approved September 2014 Compliance date January 15, 2015</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T123704Z">
