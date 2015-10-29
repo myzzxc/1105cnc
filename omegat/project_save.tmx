@@ -30851,6 +30851,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you have a position in Workday, you can raise a job requisition request.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132228Z" creationid="Judy" creationdate="20151029T132228Z">
+        <seg>當 Workday 中有了職位便能提出職位需求申請。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you have updated the information, click Submit for the changes to be updated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134236Z" creationid="Judy" creationdate="20151028T134236Z">
@@ -35785,6 +35793,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T092314Z">
         <seg>安裝碟形彈簧墊片之完整說明請參閱裝配圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the ‘How to create a position in Workday’ guide for details on how to create a position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132056Z" creationid="Judy" creationdate="20151029T132056Z">
+        <seg>建立職位的詳細方法請參考「如何於 Workday 中建立職位 (How to create a position in Workday)」。</seg>
       </tuv>
     </tu>
     <tu>
