@@ -33838,6 +33838,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please refer to Salary Management policy for further details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T233910Z" creationid="Judy" creationdate="20151029T233910Z">
+        <seg>更多詳細資訊請參閱薪資管理政策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please refer to the Ad Hoc Increases policy for further details.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T151500Z" creationid="Judy" creationdate="20151029T151500Z">
@@ -42544,6 +42552,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Employee Visibility Date is the date from which the change will be visible to the employee in Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T233639Z" creationid="Judy" creationdate="20151029T233633Z">
+        <seg>員工可查看日期是員工能在 Workday 中看到所做之變更的日期，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Enterprise edition is the package that comprises all the available resources for the Digifort System, providing total management over an unlimited number of cameras and alarm devices, making it ideal for any company looking for full control over their security project, ensuring high performance, reliability and scalability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T015403Z" creationid="Judy" creationdate="20151011T015403Z">
@@ -47531,6 +47547,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123553Z">
         <seg>這是一個相當難以解決的問題，而人員追蹤器已經能解決大部分的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is after it is approved in Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T233843Z" creationid="Judy" creationdate="20151029T233636Z">
+        <seg>此為於 Workday 中核准後之日期。</seg>
       </tuv>
     </tu>
     <tu>
