@@ -9965,6 +9965,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Next and the Attachments screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134822Z" creationid="Judy" creationdate="20151029T134822Z">
+        <seg>點擊 Next (下一步) 以顯示 Attachments (附件) 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Next and the Job screen is displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134250Z" creationid="Judy" creationdate="20151029T134250Z">
@@ -10273,6 +10281,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134200Z" creationid="Judy" creationdate="20151029T134200Z">
         <seg>點擊   圖示以填寫欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the      icon to edit the fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134748Z" creationid="Judy" creationdate="20151029T134748Z">
+        <seg>點擊   圖示以編輯欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14524,6 +14540,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071222Z">
         <seg>編輯文字和物件的屬性（字體、顏色、線條粗細、顯示和列印選項）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit them only if required, as they are auto populated from the Position you have selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134724Z" creationid="Judy" creationdate="20151029T134724Z">
+        <seg>只有在必要情況下編輯上述資訊，因為以上資訊是根據所選擇的職位自動填入的。</seg>
       </tuv>
     </tu>
     <tu>
