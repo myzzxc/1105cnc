@@ -9965,6 +9965,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Next and the Job screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134250Z" creationid="Judy" creationdate="20151029T134250Z">
+        <seg>點擊 Next  (下一步) 以顯示 Job (職位) 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Next in the Installation Report dialog</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152414Z">
@@ -51914,6 +51922,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T143757Z" creationid="Judy" creationdate="20151012T143757Z">
         <seg>此隱私模式功能中，管理員可以設定當操作人員啟動監控用戶端上的隱私模式時，將失去相機存取權限的使用者的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Within the Job tab review the Job Posting Title, Job Profile, Worker Sub-Type, Time Type, and Primary Location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134529Z" creationid="Judy" creationdate="20151029T134348Z">
+        <seg>於 Job 分頁中檢查 Job Posting Title (職稱)、Job Profile (職位檔案)、Worker Sub-Type (員工子類別)、Time Type (班別)、和 Primary Location (主要工作地點)，</seg>
       </tuv>
     </tu>
     <tu>
