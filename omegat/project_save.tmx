@@ -9893,6 +9893,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Done to confirm the changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150052Z" creationid="Judy" creationdate="20151029T150052Z">
+        <seg>點擊 Done (完成) 以確認變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Done to confirm the selection and the process is complete.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145157Z" creationid="Judy" creationdate="20151028T145157Z">
@@ -42164,6 +42172,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022403Z">
         <seg>本產品的進階版本設計用於部署和在分散式環境中使用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Amount Change and Percent Change fields will auto-populate to show the difference from the previous amount.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150042Z" creationid="Judy" creationdate="20151029T150042Z">
+        <seg>系統會自動填寫 Amount Change (金額變化) 和 Percent Change (百分比變化) 欄位以顯示與之前金額的差異。</seg>
       </tuv>
     </tu>
     <tu>
