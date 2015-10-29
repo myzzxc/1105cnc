@@ -20840,6 +20840,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you selected Contingent Worker as the Worker Type in Step 3, you will see the Cost Information tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135314Z" creationid="Judy" creationdate="20151029T135314Z">
+        <seg>若於第 3 步的員工種類中選擇了派遣員工，將會看到 Cost Information 分頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you turn off shared watermarks, all users will get their watermark sets via a local, absolute path.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T024815Z">
