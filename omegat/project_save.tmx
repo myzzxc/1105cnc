@@ -9989,6 +9989,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click OK to complete the action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T133202Z" creationid="Judy" creationdate="20151029T133202Z">
+        <seg>點擊 OK (確定) 以完成操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click OK to display the summary screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145111Z" creationid="Judy" creationdate="20151028T145111Z">
@@ -38115,6 +38123,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141640Z">
         <seg>從開始功能表中選擇 Windows 更新，下載並安裝所有建議的更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Worker Type (Employee or Contingent).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T133139Z" creationid="Judy" creationdate="20151029T133109Z">
+        <seg>選擇 Worker Type (Employee o Contingent)，(員工類別，正式員工或派遣人員)。</seg>
       </tuv>
     </tu>
     <tu>
