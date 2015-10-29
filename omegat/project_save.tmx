@@ -10013,6 +10013,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click OK and the detailed Edit Job Requisition screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T140715Z" creationid="Judy" creationdate="20151029T140715Z">
+        <seg>點擊 OK (確定) 以顯示詳細 Edit Job Requisition 畫面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click OK at the bottom left of the screen to confirm the changes made.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133111Z" creationid="Judy" creationdate="20151028T133111Z">
@@ -30679,6 +30687,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T133418Z" creationid="Judy" creationdate="20151029T132619Z">
         <seg>Create Job Requisition 畫面中，預設會顯示您的 Supervisory Organization (監管組織)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Edit Job Requisition screen select the Job Requisition to edit by clicking the      icon in the Job Requisition search field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T140642Z" creationid="Judy" creationdate="20151029T140642Z">
+        <seg>於 Edit Job Requisition 畫面中點擊 Job Requisition 搜尋欄位中的   圖示以選擇 Job Requisition 進行編輯。</seg>
       </tuv>
     </tu>
     <tu>
