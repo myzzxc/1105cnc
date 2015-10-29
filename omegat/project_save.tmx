@@ -40216,6 +40216,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supervisory Organizations group employees into a management hierarchy and provide the structure to hire and organise employees in Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T133736Z" creationid="Judy" creationdate="20151029T133736Z">
+        <seg>監管組織將員工依管理階級分組，並在 Workday 中提供雇用和組織員工的結構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suportts PTZ by "Click and Centralize"</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T070134Z" creationid="Judy" creationdate="20151010T070134Z">
