@@ -9989,6 +9989,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Next and the Summary screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135556Z" creationid="Judy" creationdate="20151029T135556Z">
+        <seg>點擊 Next 以顯示 Summary (總結) 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Next in the Installation Report dialog</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152414Z">
@@ -10113,6 +10121,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151728Z" creationid="Judy" creationdate="20151028T151728Z">
         <seg>點擊 Submit (送出) 已完成操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Submit to complete the request.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135759Z" creationid="Judy" creationdate="20151029T135759Z">
+        <seg>點擊 Submit (送出) 以完成申請。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14540,6 +14556,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T063053Z">
         <seg>在和平與穩定的氣氛下保護生態系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit any field if required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135734Z" creationid="Judy" creationdate="20151029T135734Z">
+        <seg>如果需要，請編輯欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21799,6 +21823,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T091213Z">
         <seg>我將在今天的會議中介紹 Nuance Power PDF 給大家，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this tab, enter the information required including Supplier, Currency, Pay Rate, Frequency, and Maximum Amount.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135532Z" creationid="Judy" creationdate="20151029T135532Z">
+        <seg>在此分頁中輸入 Supplier 供(應商)、Currency (貨幣)、Pay Rate (薪資)、Frequency (頻率) 和 Maximum Amount (最大數量) 等必需資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36582,6 +36614,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review all the details on the Summary screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135710Z" creationid="Judy" creationdate="20151029T135710Z">
+        <seg>檢查 Summary 畫面上所有的資訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Review and Approval</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085410Z">
@@ -37286,6 +37326,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135126Z" creationid="Judy" creationdate="20151029T135126Z">
         <seg>第 7 步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STEP 8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135559Z" creationid="Judy" creationdate="20151029T135559Z">
+        <seg>第 8 步</seg>
       </tuv>
     </tu>
     <tu>
