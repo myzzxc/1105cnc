@@ -3569,6 +3569,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A more detailed Create Job Requisition screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T133326Z" creationid="Judy" creationdate="20151029T133326Z">
+        <seg>將顯示更詳細的 Create Job Requisition 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A more holistic focus on ecosystems for water and development that maintains a beneficial mix between built and natural infrastructure can ensure that benefits are maximized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T134404Z">
@@ -30549,8 +30557,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>On the Create Job Requisition screen, your Supervisory Organization will be displayed by default.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132619Z" creationid="Judy" creationdate="20151029T132619Z">
-        <seg>Create Job Requisition 畫面中，預設會顯示您的 Supervisory Organization (上級組織)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T133418Z" creationid="Judy" creationdate="20151029T132619Z">
+        <seg>Create Job Requisition 畫面中，預設會顯示您的 Supervisory Organization (監管組織)。</seg>
       </tuv>
     </tu>
     <tu>
