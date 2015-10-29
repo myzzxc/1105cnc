@@ -10261,6 +10261,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the      icon to complete the fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134200Z" creationid="Judy" creationdate="20151029T134200Z">
+        <seg>點擊   圖示以填寫欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the      icon to use pop out menus when changing your Place of Birth, Marital Status, Race/Ethnicity, Religion, Citizenship Status and/or Nationality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145508Z" creationid="Judy" creationdate="20151028T145508Z">
@@ -21479,6 +21487,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233820Z" creationid="Judy" creationdate="20151027T233524Z">
         <seg>於 Optional Worklets 欄中，點擊 圖示以顯示搜尋欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Recruiting Information tab, complete all relevant fields including the mandatory fields Reason, Recruiting Start Date, and Target Hire Date.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134126Z" creationid="Judy" creationdate="20151029T134126Z">
+        <seg>於 Recruiting Information (招聘資訊) 分頁中填寫所有相關欄位，包括了 Reason (原因)、Recruiting Start Date (招聘開始日期) 和 Target Hire Date (預計雇用日期) 等必填欄位。</seg>
       </tuv>
     </tu>
     <tu>
