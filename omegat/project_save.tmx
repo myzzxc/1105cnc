@@ -10229,6 +10229,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Submit to confirm the details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T235256Z" creationid="Judy" creationdate="20151029T235256Z">
+        <seg>點擊 OK (確定) 以確認以上詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Submit to confirm the submission of One Time Payment for approval.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T233242Z" creationid="Judy" creationdate="20151029T233242Z">
@@ -21791,6 +21799,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T105300Z">
         <seg>於 the Group Policy 視窗中，右件點擊 Computer Configuration/Software Settings/Software Installation（電腦設置/軟體設定/軟體安裝）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Hiring Restrictions tab, provide the relevant details, including the mandatory fields Availability Date, Earliest Hire Date, Job Family, Job Profile, Job Description, and Location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T235237Z" creationid="Judy" creationdate="20151029T235237Z">
+        <seg>於 Hiring Restrictions 分頁中提供相關資料，包括 Availability Date (生效日期)、Earliest Hire Date (最快招聘日期)、Job Family (職位分類)、Job Profile (職位檔案)、Job Description (職位說明) 和 Location (地點) 等必填欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33926,6 +33942,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please refer to the Position Management, Jobs and Grading policies for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T235440Z" creationid="Judy" creationdate="20151029T235440Z">
+        <seg>更多詳細資訊請參閱職位管理、職位和職等政策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please specify the interest rate from At sight to Usance 180 and vice versa</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155533Z">
@@ -44954,6 +44978,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051623Z">
         <seg>下一個群組中的選項可設定各種一般參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next step is to Assign Organisation as described further.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T235355Z" creationid="Judy" creationdate="20151029T235355Z">
+        <seg>下一步為指派組織。</seg>
       </tuv>
     </tu>
     <tu>
