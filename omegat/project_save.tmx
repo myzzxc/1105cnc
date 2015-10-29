@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A Detailed Job Description is mandatory).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135008Z" creationid="Judy" creationdate="20151029T135008Z">
+        <seg>(必須有詳細的職位說明)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A) 1/3 SHIPPED ON BOARD ORIGINAL BILL OF LADING STATED FREIGHT INCLUDING “THC AT PORT OF DISCHARGE PREPAID".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T234846Z">
@@ -20512,6 +20520,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the requisition is for a Contingent Worker the Cost Information screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135123Z" creationid="Judy" creationdate="20151029T135123Z">
+        <seg>若申請 Contingent Worker (派遣員工) 時，將會顯示 Cost Information (費用資訊) 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the software can't reset the board, you can always start the bootloader pressing the reset button on the board.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T143240Z">
@@ -37258,6 +37274,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STEP 7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135126Z" creationid="Judy" creationdate="20151029T135126Z">
+        <seg>第 7 步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SUBJECTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130751Z">
@@ -51946,6 +51970,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T143757Z" creationid="Judy" creationdate="20151012T143757Z">
         <seg>此隱私模式功能中，管理員可以設定當操作人員啟動監控用戶端上的隱私模式時，將失去相機存取權限的使用者的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Within the Attachments tab, click the Add button to attach any relevant documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134912Z" creationid="Judy" creationdate="20151029T134912Z">
+        <seg>於 Attachments 分頁中，點擊 Add (加入) 按鈕以附加相關文件檔案。</seg>
       </tuv>
     </tu>
     <tu>
