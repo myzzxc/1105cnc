@@ -10045,6 +10045,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click OK and the Payment Details screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232358Z" creationid="Judy" creationdate="20151029T232358Z">
+        <seg>點擊 OK (確定) 以顯示 Payment Details (付款詳細資訊) 畫面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click OK and the detailed Edit Job Requisition screen is displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T140715Z" creationid="Judy" creationdate="20151029T140715Z">
