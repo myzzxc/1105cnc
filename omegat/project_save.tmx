@@ -15229,6 +15229,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter Request One-Time Payment in the search box on your home screen to reach the One-Time Payment screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232122Z" creationid="Judy" creationdate="20151029T232003Z">
+        <seg>在首頁畫面的搜尋方塊中輸入 Request One-Time Payment (申請一次性付款) 以顯示 One-Time Payment 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a description for the connection and select the appropriate network protocol.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134015Z">
@@ -18905,8 +18913,8 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>HOW TO REQUEST A ONE TIME PAYMENT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T231417Z" creationid="Judy" creationdate="20151029T231417Z">
-        <seg>如何請求一次性付款</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232021Z" creationid="Judy" creationdate="20151029T231417Z">
+        <seg>如何申請一次性付款</seg>
       </tuv>
     </tu>
     <tu>
@@ -30867,6 +30875,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Request One Time Payment screen, enter Effective Date and Employee name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232205Z" creationid="Judy" creationdate="20151029T232205Z">
+        <seg>於 Request One Time Payment  畫面中，輸入 Effective Date (生效日) 和 Employee name (員工姓名)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the following page is a FAX-BACK questionnaire that will further help us to serve you better.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075535Z">
@@ -38531,6 +38547,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051557Z">
         <seg>選擇 all/none （全選/取消選擇），並勾選需鎖定修改之項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select appropriate One Time Payment Plan from the options available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232312Z" creationid="Judy" creationdate="20151029T232312Z">
+        <seg>從選項中選擇適當的 One Time Payment Plan (一次性付款方案)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52424,8 +52448,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Workday gives you the flexibility to request a One Time payment for your team member.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T231531Z" creationid="Judy" creationdate="20151029T231531Z">
-        <seg>Workday 使您能靈活地為團隊成員請要求一次性的付款，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232032Z" creationid="Judy" creationdate="20151029T231531Z">
+        <seg>Workday 使您能靈活地為團隊成員申請一次性的付款，</seg>
       </tuv>
     </tu>
     <tu>
