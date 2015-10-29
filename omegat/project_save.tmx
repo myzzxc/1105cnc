@@ -10053,6 +10053,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click OK to confirm these details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145334Z" creationid="Judy" creationdate="20151029T145334Z">
+        <seg>點擊 OK (確定) 以確認以上詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click OK to display the summary screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145111Z" creationid="Judy" creationdate="20151028T145111Z">
@@ -18793,8 +18801,8 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>HOW TO ADMINISTER AN AD-HOC SALARY CHANGE OR ALLOWANCE CHANGE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145132Z" creationid="Judy" creationdate="20151029T145132Z">
-        <seg>如何管理臨時薪資變更或津貼變更</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145208Z" creationid="Judy" creationdate="20151029T145132Z">
+        <seg>如何管理特定薪資變更或津貼變更</seg>
       </tuv>
     </tu>
     <tu>
@@ -30743,6 +30751,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133423Z">
         <seg>Mega上的硬體SS針腳53不能用於選擇W5500或SD卡，此針腳必須作為輸出否則SPI介面無法運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Request Compensation Change screen, enter the Effective Date, Reason and Employee name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145242Z" creationid="Judy" creationdate="20151029T145201Z">
+        <seg>於 Request Compensation Change 畫面中，輸入 Effective Date (生效日)、Reason (原因) 和 Employee name (員工姓名)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43837,6 +43853,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The detailed Request Compensation Change screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145448Z" creationid="Judy" creationdate="20151029T145448Z">
+        <seg>顯示詳細 Request Compensation Change 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The disc springs allow for thermal growth differences between the shell and IMPERVITE® tubing while maintaining proper gasket compression.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T090624Z">
@@ -52225,6 +52249,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
         <seg>Worklet: An icon on the home page, which provides easy access to tasks and information that are used regularly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T152407Z" creationid="Judy" creationdate="20151028T152407Z">
+        <seg>Worklet：首頁上的一個圖示，能輕易地存取您常用的任務和資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Worklet: An icon on the home screen, which provides easy access to tasks and information that are used regularly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145500Z" creationid="Judy" creationdate="20151029T145500Z">
         <seg>Worklet：首頁上的一個圖示，能輕易地存取您常用的任務和資訊。</seg>
       </tuv>
     </tu>
