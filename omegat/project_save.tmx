@@ -10093,6 +10093,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click OK to confirm and a more detailed Create Position screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234146Z" creationid="Judy" creationdate="20151029T234146Z">
+        <seg>點擊 OK (確定) 以顯示詳細的 Create Position 畫面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click OK to confirm these details.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145334Z" creationid="Judy" creationdate="20151029T145334Z">
@@ -18899,6 +18907,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150639Z" creationid="Judy" creationdate="20151029T145132Z">
         <seg>如何管理特設薪資變更或津貼變更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOW TO CREATE A POSITION IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234006Z" creationid="Judy" creationdate="20151029T234006Z">
+        <seg>如何於 Workday 中建立職位</seg>
       </tuv>
     </tu>
     <tu>
@@ -30879,6 +30895,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T133418Z" creationid="Judy" creationdate="20151029T132619Z">
         <seg>Create Job Requisition 畫面中，預設會顯示您的 Supervisory Organization (監管組織)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Create Position screen, your Supervisory Organization is displayed by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234053Z" creationid="Judy" creationdate="20151029T234053Z">
+        <seg>Create Position (建立職位) 畫面中，預設會顯示您的 Supervisory Organization (監管組織)。</seg>
       </tuv>
     </tu>
     <tu>
