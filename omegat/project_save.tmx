@@ -18407,6 +18407,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to the Search box at the top of your home screen and type Create Job Requisition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132334Z" creationid="Judy" creationdate="20151029T132334Z">
+        <seg>於首頁畫面上方的搜尋方塊中輸入 Create Job Requisition (建立職位需求)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to the Transform tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T020409Z">
@@ -30523,6 +30531,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Create Job Requisition screen, your Supervisory Organization will be displayed by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132619Z" creationid="Judy" creationdate="20151029T132619Z">
+        <seg>Create Job Requisition 畫面中，預設會顯示您的 Supervisory Organization (上級組織)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Mega, the hardware SS pin, 53, is not used to select either the W5500 or the SD card, but it must be kept as an output or the SPI interface won't work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133423Z">
@@ -38143,6 +38159,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the Create Job Requisition task from the results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132418Z" creationid="Judy" creationdate="20151029T132418Z">
+        <seg>從搜尋結果中選擇 Create Job Requisition 任務，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the Nuance_Cloud_Connector.msi file via the network, from the folder System32 or System64.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000427Z">
@@ -41996,6 +42020,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090858Z">
         <seg>Connectors （連接點）群組中可以加入雲端伺服器和 DMS 整合至自訂安裝程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Create Job Requisition screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132434Z" creationid="Judy" creationdate="20151029T132434Z">
+        <seg>將顯示 Create Job Requisition 畫面。</seg>
       </tuv>
     </tu>
     <tu>
