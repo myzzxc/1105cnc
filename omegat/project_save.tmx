@@ -10213,6 +10213,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Submit to confirm the submission of One Time Payment for approval.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T233242Z" creationid="Judy" creationdate="20151029T233242Z">
+        <seg>點擊 Submit (送出) 呈交一次性付款申請進行審核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Submit to send the request for approvals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T233925Z" creationid="Judy" creationdate="20151028T233925Z">
@@ -30879,6 +30887,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133423Z">
         <seg>Mega上的硬體SS針腳53不能用於選擇W5500或SD卡，此針腳必須作為輸出否則SPI介面無法運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Payment Details screen, enter relevant details in the fields including Employee Visibility Date, Reason, Amount, Currency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T233201Z" creationid="Judy" creationdate="20151029T233201Z">
+        <seg>於 Payment Details 畫面中，於欄位中輸入 Employee Visibility Date (員工可查看日)、Reason (原因)、Amount (金額)、 Currency (貨幣) 等相關資料。</seg>
       </tuv>
     </tu>
     <tu>
