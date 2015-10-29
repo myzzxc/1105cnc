@@ -18791,6 +18791,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOW TO ADMINISTER AN AD-HOC SALARY CHANGE OR ALLOWANCE CHANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145132Z" creationid="Judy" creationdate="20151029T145132Z">
+        <seg>如何管理臨時薪資變更或津貼變更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW TO INITIATE A LEAVE OF ABSENCE REQUEST IN WORKDAY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T232613Z" creationid="Judy" creationdate="20151028T232613Z">
@@ -47673,6 +47681,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen includes the fields related to the compensation change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144925Z" creationid="Judy" creationdate="20151029T144925Z">
+        <seg>此畫面中包含了薪資變更相關的欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This section describes how to sequence a Power PDF package and what additional installations are needed on the client computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141149Z">
@@ -52670,6 +52686,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233027Z" creationid="Judy" creationdate="20151027T233027Z">
         <seg>您還可以設置您想要首頁上顯示的 Worklets：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also enter Request Compensation Change in the Search box on the home screen and the Request Compensation Change screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144853Z" creationid="Judy" creationdate="20151029T144853Z">
+        <seg>也可以在首頁畫面的搜尋方塊中輸入 Request Compensation Change 以顯示 Request Compensation Change 畫面。</seg>
       </tuv>
     </tu>
     <tu>
