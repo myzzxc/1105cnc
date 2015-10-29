@@ -10125,6 +10125,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Submit on the Summary tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T141045Z" creationid="Judy" creationdate="20151029T141045Z">
+        <seg>於 Summary 分頁中點擊 Submit (送出)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Submit to complete the action.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151728Z" creationid="Judy" creationdate="20151028T151728Z">
@@ -17162,6 +17170,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082103Z">
         <seg>專注於生產，AXYZ 所設計製造之機台組態及刀具配件可提供最合乎客戶需求的雕刻機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow STEPS 4,5,6,7,8 (on the previous page) to edit the Recruiting Information, Job, Attachments, Cost Information (if applicable) and Summary Tabs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T141012Z" creationid="Judy" creationdate="20151029T141012Z">
+        <seg>依照前一頁的步驟 4、5、6、7、8 以編輯 Recruiting Information (招聘資訊)、Job (職位)、Attachments (附件)、Cost Information (成本資訊，如果適用) 和 Summary (總結) 分頁。</seg>
       </tuv>
     </tu>
     <tu>
