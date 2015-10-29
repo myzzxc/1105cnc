@@ -44726,6 +44726,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The job family and job profile are mandatory fields and can be picked from the job catalogue which is pre-loaded in Workday for your organisation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T235621Z" creationid="Judy" creationdate="20151029T235621Z">
+        <seg>職位分類和職位檔案為必填欄位，可以從 Workday 中為您組織預載的職位目錄中選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The kit also allows for custom configurations for SharePoint and other connectors, and Read Only Mode to enforce compliance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T122600Z">
