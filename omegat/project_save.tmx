@@ -11221,6 +11221,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complete the relevant fields including Position Request Reason, Job Posting Title, and Number of Positions in the upper section of the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234614Z" creationid="Judy" creationdate="20151029T234614Z">
+        <seg>填寫畫面上半部分的 Position Request Reason (職位申請原因)、Job Posting Title (職稱) 和 Number of Positions (職位數量) 等欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complex layouts with columns, tables and graphics are faithfully reproduced in Microsoft® Word, Excel®, PowerPoint® and Corel® WordPerfect® documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T035450Z">
@@ -15241,6 +15249,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043023Z">
         <seg>無論是短期或長期禁食，確保良好的禁食過程將有助於減少此階段的細菌污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter Create Position in the search box at the top left of your home page to begin the Create Position process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234842Z" creationid="Judy" creationdate="20151029T234842Z">
+        <seg>於首頁畫面左上方的搜尋方塊中輸入 Create Position (建立職位) 以開始職位建立流程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27137,6 +27153,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Log in to Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234729Z" creationid="Judy" creationdate="20151029T234729Z">
+        <seg>登入 Workday，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log off then log on again to complete the installation and to enable proper functioning of various components.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114416Z">
@@ -38099,6 +38123,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T122727Z" creationid="Judy" creationdate="20151012T122727Z">
         <seg>擷取任何連接至網路且運行 Windows 的電腦上螢幕、鍵盤和滑鼠並錄製其螢幕畫面於與閉路電視相同之儲存媒體中，以便未來搜尋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll down to the Hiring Restrictions tab and proceed to Step 3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234713Z" creationid="Judy" creationdate="20151029T234713Z">
+        <seg>向下移動到 Hiring Restrictions 分頁並進行第 3 步。</seg>
       </tuv>
     </tu>
     <tu>
