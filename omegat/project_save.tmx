@@ -10133,6 +10133,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click OK and a detailed Terminate Employee screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224645Z" creationid="Judy" creationdate="20151030T224645Z">
+        <seg>點擊 OK (確定) 以顯示詳細的解雇員工畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click OK and the Payment Details screen is displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232358Z" creationid="Judy" creationdate="20151029T232358Z">
@@ -39143,6 +39151,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the Employee Name on the Terminate Employee screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224616Z" creationid="Judy" creationdate="20151030T224506Z">
+        <seg>於解雇員工畫面中選擇 Employee Name (員工姓名)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the Nuance_Cloud_Connector.msi file via the network, from the folder System32 or System64.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000427Z">
@@ -43974,8 +43990,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The Terminate Employee screen is displayed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224400Z" creationid="Judy" creationdate="20151030T224400Z">
-        <seg>將顯示 Terminate Employee (解僱員工) 畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224513Z" creationid="Judy" creationdate="20151030T224400Z">
+        <seg>將顯示 Terminate Employee (解雇員工) 畫面。</seg>
       </tuv>
     </tu>
     <tu>
