@@ -31299,6 +31299,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the next page, Supervisory Organization and Pre-Hire are shown by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123716Z" creationid="Judy" creationdate="20151030T123716Z">
+        <seg>下一頁中預設顯示 Supervisory Organization (監管機構)和 Pre-Hiring (招聘前置作業) 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the next page, you will see the End Contingent Worker Contract screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122717Z" creationid="Judy" creationdate="20151030T122717Z">
@@ -45350,6 +45358,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The next page is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123814Z" creationid="Judy" creationdate="20151030T123814Z">
+        <seg>將顯示下一頁畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The next step is Request Default Compensation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T001629Z" creationid="Judy" creationdate="20151030T001629Z">
@@ -50726,6 +50742,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122901Z" creationid="Judy" creationdate="20151030T122901Z">
         <seg>檢查所有詳細資訊並點擊 Submit (送出)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify and Click OK to confirm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123755Z" creationid="Judy" creationdate="20151030T123755Z">
+        <seg>檢查並點擊 OK (確定) 以確認。</seg>
       </tuv>
     </tu>
     <tu>
