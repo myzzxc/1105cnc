@@ -31363,6 +31363,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Terminate Employee screen, click the      icon in the box to search for employees by Team, Manager or Supervisory Organization, then select the Employee Name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224904Z" creationid="Judy" creationdate="20151030T224904Z">
+        <seg>於解雇員工畫面中，點擊方塊中的   圖示以透過團隊、主管或監管組織搜尋員工，接著選擇員工姓名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the detailed Terminate Employee screen, populate the Termination Date and Termination Reason fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225025Z" creationid="Judy" creationdate="20151030T225025Z">
+        <seg>於詳細解雇員工畫面中，填寫 Termination Date (解雇日期) 和 Termination Reason (解雇原因) 等欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the following page is a FAX-BACK questionnaire that will further help us to serve you better.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T075535Z">
