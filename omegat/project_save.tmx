@@ -20856,6 +20856,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the employee is changing the marital status, disability status or gender, Workday will notify the employee to change his/her benefits automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122203Z" creationid="Judy" creationdate="20151030T122203Z">
+        <seg>如果員工更改婚姻狀況、殘疾狀態或性別，Workday 將通知員工自動更改其福利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the heat exchanger has passed the hydrostatic test and will not be installed immediately, drain the test water completely to prevent freeze damage and store the heat exchanger in a covered area protect the components from moisture.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052836Z">
@@ -52922,6 +52930,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T231404Z" creationid="Judy" creationdate="20151027T231404Z">
         <seg>Workday 為網頁應用程式，可透過網路輕鬆存取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workday will notify Global mobility partner, if the personal information or data is changed for employees who are on international assignments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122114Z" creationid="Judy" creationdate="20151030T122114Z">
+        <seg>若外派員工之個人資訊或資料變更時，Workday 會通知全球行動夥伴。</seg>
       </tuv>
     </tu>
     <tu>
