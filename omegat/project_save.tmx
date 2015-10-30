@@ -16793,6 +16793,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOR PROPOSED PEOPLE MANAGER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T233348Z" creationid="Judy" creationdate="20151030T233348Z">
+        <seg>人事主管申請專用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOR SUPPORT SERVICE CENTRE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121018Z" creationid="Judy" creationdate="20151030T121018Z">
@@ -19315,6 +19323,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T232021Z" creationid="Judy" creationdate="20151029T231417Z">
         <seg>如何申請一次性付款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOW TO REQUEST TRANSFER FOR JOB CHANGE IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T233326Z" creationid="Judy" creationdate="20151030T233326Z">
+        <seg>如何於 WORKDAY 中申請調職</seg>
       </tuv>
     </tu>
     <tu>
