@@ -10605,6 +10605,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the My Team worklet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T231650Z" creationid="Judy" creationdate="20151030T231650Z">
+        <seg>點擊 My Team (我的團隊) worklet。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the Personal Information Worklet on the home screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133732Z" creationid="Judy" creationdate="20151028T133614Z">
@@ -19219,6 +19227,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224253Z" creationid="Judy" creationdate="20151030T224037Z">
         <seg>如何於 WORKDAY 中進行非自願性解雇流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOW TO INITIATE RESIGNATION PROCESS IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T231521Z" creationid="Judy" creationdate="20151030T231521Z">
+        <seg>如何於 WORKDAY 中進行辭職流程</seg>
       </tuv>
     </tu>
     <tu>
@@ -43420,6 +43436,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T144744Z" creationid="Judy" creationdate="20151028T144744Z">
         <seg>Payment Type (付款方式) 欄位預設為 Direct Deposit (直接存入)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The People Manager initiates the resignation process in Workday if an Employee’s resignation is accepted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T231635Z" creationid="Judy" creationdate="20151030T231635Z">
+        <seg>若已同意員工的辭呈，人事主管於 Workday 中進行離職程序。</seg>
       </tuv>
     </tu>
     <tu>
