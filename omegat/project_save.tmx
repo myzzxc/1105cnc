@@ -10303,8 +10303,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Click Submit and then Done to confirm your action.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225712Z" creationid="Judy" creationdate="20151030T225612Z">
-        <seg>點擊 Submit (送出) 以完成操作。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225811Z" creationid="Judy" creationdate="20151030T225612Z">
+        <seg>點擊 Submit (送出) 並點擊 Done (完成) 以確認操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46082,6 +46082,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The request is now pending with the HRBP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225852Z" creationid="Judy" creationdate="20151030T225819Z">
+        <seg>申請將會送到 HRBP 進行審核，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The request will be automatically forwarded to the Reward CoE.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T151348Z" creationid="Judy" creationdate="20151029T151348Z">
@@ -48603,8 +48611,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This request will be forwarded to the HRBP for an approval.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T151149Z" creationid="Judy" creationdate="20151029T151149Z">
-        <seg>變更請求羹將會送到 HRBP 進行審核，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225830Z" creationid="Judy" creationdate="20151029T151149Z">
+        <seg>變更請求將會送到 HRBP 進行審核，</seg>
       </tuv>
     </tu>
     <tu>
