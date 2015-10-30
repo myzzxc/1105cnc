@@ -22083,6 +22083,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Upper section, complete the relevant fields including the Hire Date.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T124203Z" creationid="Judy" creationdate="20151030T124114Z">
+        <seg>於上半部分中填寫雇用日期等相關欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the above example, the selected installation language is French (1036.mst).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034052Z">
@@ -46062,6 +46070,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T133144Z" creationid="Judy" creationdate="20151011T133144Z">
         <seg>管理員能於排程中指定每段時間範圍內每台攝影機的影像錄製方法 (無錄影、依動作偵測、依事件、依動作和事件)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The screen displays four sections: an Upper section, the End Contract Details section, the Job Details section, and the Additional Information section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T124059Z" creationid="Judy" creationdate="20151030T124059Z">
+        <seg>螢幕顯示四個部分：上半部份、終止合約資訊部份、職位詳細資訊部份和附加資訊部分。</seg>
       </tuv>
     </tu>
     <tu>
