@@ -48455,6 +48455,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a lateral move/promotion request, which is initiated by the proposed People Manager.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234643Z" creationid="Judy" creationdate="20151030T234643Z">
+        <seg>此為同職等調職或升遷申請，由人事主管提出申請。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a really hard problem to solve and the people tracker does a very good job of solving it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T123553Z">
