@@ -4631,6 +4631,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access your Inbox to Request Default Compensation, To enter your Inbox, Click the       icon (or your profile picture) on your home screen and click Inbox.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T235923Z" creationid="Judy" creationdate="20151029T235923Z">
+        <seg>進入收件匣中的 Request Default Compensation (申請預設薪資)，於首頁畫面中點擊   圖示 (或您的檔案照片) 並點擊 Inbox 以進入收件匣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access your documents stored in cloud based services such as Evernote and Dropbox</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T144308Z">
@@ -22103,6 +22111,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T135035Z" creationid="Judy" creationdate="20151013T135035Z">
         <seg>視訊播放中可針對螢幕上不同區域進行 (數位) 縮放，每次縮放將打開一個畫面，其中具有獨立於主畫面之控制，可用於列印或儲存 JPG 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In your Inbox, in the Actions tab, click the Request Default Compensation subject line to enter the relevant mail.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T000125Z" creationid="Judy" creationdate="20151030T000125Z">
+        <seg>於收件匣的 Actions (操作) 分頁中點擊 Request Default Compensation (申請預設薪資) 的標題以讀取相關郵件，</seg>
       </tuv>
     </tu>
     <tu>
