@@ -5193,6 +5193,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After reviewing the details, click Next.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T233839Z" creationid="Judy" creationdate="20151030T233839Z">
+        <seg>檢查詳細資訊點擊 Next (下一步)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After ten years, he decided to move on to the production of finished metal spectacle frames and, after attending various courses in design, he created the collection that bears his own name, thus highlighting his creativeness.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T024833Z">
@@ -10317,6 +10325,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Submit and then click Done to confirm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T233848Z" creationid="Judy" creationdate="20151030T233848Z">
+        <seg>點擊 Submit (送出) 並點擊 Done (完成) 以確認。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Submit on the Summary tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T141045Z" creationid="Judy" creationdate="20151029T141045Z">
@@ -11409,6 +11425,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234614Z" creationid="Judy" creationdate="20151029T234614Z">
         <seg>填寫畫面上半部分的 Position Request Reason (職位申請原因)、Job Posting Title (職稱) 和 Number of Positions (職位數量) 等欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete the remaining fields and click Start.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T233759Z" creationid="Judy" creationdate="20151030T233759Z">
+        <seg>填寫其餘的欄位並點擊 Start (開始)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15537,6 +15561,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134015Z">
         <seg>輸入連線敘述並選擇適當的網路通訊協定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter text in Start Details and click the       icon in the Why are you making this change?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T233817Z" creationid="Judy" creationdate="20151030T233703Z">
+        <seg>於 Start Details (開始詳細資訊) 輸入文字並點擊 Why are you making this change? (為何進行此項變更？) </seg>
       </tuv>
     </tu>
     <tu>
@@ -54876,6 +54908,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030803Z">
         <seg>每</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>field to choose the reason for the job change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T233726Z" creationid="Judy" creationdate="20151030T233726Z">
+        <seg>欄位中的    圖示以選擇調職原因。</seg>
       </tuv>
     </tu>
     <tu>
