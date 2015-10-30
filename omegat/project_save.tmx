@@ -22045,8 +22045,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In the End Contract Details section, complete the relevant fields including the Contract End Date and Reason.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T124357Z" creationid="Judy" creationdate="20151030T124357Z">
-        <seg>於結束合約資訊部分填寫合約終止日期和原因等相關欄位。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T124843Z" creationid="Judy" creationdate="20151030T124357Z">
+        <seg>於結束合約資訊部分填寫 Contract End Dat (合約終止日期) 和 Reason (原因) 等相關欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22063,6 +22063,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T235237Z" creationid="Judy" creationdate="20151029T235237Z">
         <seg>於 Hiring Restrictions 分頁中提供相關資料，包括 Availability Date (生效日期)、Earliest Hire Date (最快招聘日期)、Job Family (職位分類)、Job Profile (職位檔案)、Job Description (職位說明) 和 Location (地點) 等必填欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Job Details section, complete the relevant fields including the Position, Employee Type, Job Profile, Time Type, and Location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T124757Z" creationid="Judy" creationdate="20151030T124757Z">
+        <seg>於職位詳細資訊部分填寫 Position (職位)、Employee Type (員工種類)、Job Profile (職位檔案)、Time Type (班別) 和 Location (地點)等相關欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22093,8 +22101,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In the Upper section, complete the relevant fields including the Hire Date.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T124203Z" creationid="Judy" creationdate="20151030T124114Z">
-        <seg>於上半部分中填寫雇用日期等相關欄位。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T124815Z" creationid="Judy" creationdate="20151030T124114Z">
+        <seg>於上半部分中填寫 Hire Date (雇用日期) 等相關欄位。</seg>
       </tuv>
     </tu>
     <tu>
