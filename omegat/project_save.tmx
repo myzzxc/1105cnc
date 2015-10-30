@@ -14912,6 +14912,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit these only if required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232249Z" creationid="Judy" creationdate="20151030T232249Z">
+        <seg>若有需要可進行編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit your PDF files like in a word processor using the Advanced Edit mode</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T023418Z">
@@ -17111,6 +17119,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121408Z" creationid="Judy" creationdate="20151030T121408Z">
         <seg>欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fields including Last Date of Work, Pay Through Date, and Notify By Date are auto populated with the Termination Date.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232244Z" creationid="Judy" creationdate="20151030T232244Z">
+        <seg>最後工作日、薪資支付日期和通知日期等欄位會自動填入解雇日期，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31443,6 +31459,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the detailed Terminate Employee screen, complete the Termination Date and Termination Reason fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232051Z" creationid="Judy" creationdate="20151030T232051Z">
+        <seg>於詳細解雇員工畫面中，填寫 Termination Date (解雇日期) 和 Termination Reason (解雇原因) 等欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the detailed Terminate Employee screen, populate the Termination Date and Termination Reason fields.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225025Z" creationid="Judy" creationdate="20151030T225025Z">
@@ -39145,8 +39169,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Select Relevant Involuntary Reason from the list of options available to complete the Termination Reason field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225342Z" creationid="Judy" creationdate="20151030T225304Z">
-        <seg>於選項清單中選擇 Relevant Involuntary Reason (相關解雇原因) 並填寫解雇原因欄位。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232155Z" creationid="Judy" creationdate="20151030T225304Z">
+        <seg>於選項清單中選擇 Relevant Involuntary Reason (相關非自願性離職原因) 並填寫解雇原因欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39323,6 +39347,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233600Z" creationid="Judy" creationdate="20151027T233600Z">
         <seg>從選項中選擇相關的 Worklet。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the relevant voluntary reason from the list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232237Z" creationid="Judy" creationdate="20151030T232237Z">
+        <seg>於選項清單中選擇相關的自願性離職原因。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47247,6 +47279,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020718Z">
         <seg>只有在取得 HUTCHINSON 書面同意下，可運用其它替代方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then select the Employee’s name as shown in the screenshot below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232027Z" creationid="Judy" creationdate="20151030T232027Z">
+        <seg>然後選擇員工的姓名，如下圖的螢幕擷取畫面中所示：</seg>
       </tuv>
     </tu>
     <tu>
