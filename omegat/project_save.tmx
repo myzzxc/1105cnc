@@ -46274,6 +46274,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reasons for this type of request can include a change of manager, change of department, change of location, graduation scheme, local to local transfer, return from secondment, or promotion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234931Z" creationid="Judy" creationdate="20151030T234931Z">
+        <seg>此類型的申請原由可以包括更換主管、更換部門、更換地點、畢業方案、異地調職、結束借調、或是升遷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The recommendations on the Air Supply chart are for one unit so if your machine has two Spindles, drills or misters you will need to double the figures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T085312Z">
