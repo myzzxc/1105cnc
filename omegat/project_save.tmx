@@ -10077,6 +10077,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click My Team worklet on your home screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224129Z" creationid="Judy" creationdate="20151030T224129Z">
+        <seg>點擊首頁畫面中的 My Team (我的團隊) worklet。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click New, and then click Package.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T105332Z">
@@ -19151,6 +19159,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOW TO INITIATE INVOLUNTARY TERMINATION PROCESS IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224037Z" creationid="Judy" creationdate="20151030T224037Z">
+        <seg>如何於 WORKDAY 中進行非自願性解僱流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW TO INITIATE THE PROCESS TO CONVERT A CONTINGENT WORKER TO AN EMPLOYEE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123151Z" creationid="Judy" creationdate="20151030T123151Z">
@@ -27501,6 +27517,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114541Z">
         <seg>登入至 ’Server Farm’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Login to Workday using your username and password.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224107Z" creationid="Judy" creationdate="20151030T224057Z">
+        <seg>使用您的帳號和密碼登入 Workday，</seg>
       </tuv>
     </tu>
     <tu>
@@ -53933,6 +53957,14 @@ Edit your video afterwards just like the pros do.</seg>
         <seg>Your home page is displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T132522Z" creationid="Judy" creationdate="20151028T132522Z">
+        <seg>將顯示您的首頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your home screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224100Z" creationid="Judy" creationdate="20151030T224100Z">
         <seg>將顯示您的首頁。</seg>
       </tuv>
     </tu>
