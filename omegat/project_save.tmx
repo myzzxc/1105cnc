@@ -11317,6 +11317,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complete the relevant fields including Contract End Date and Reason.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122826Z" creationid="Judy" creationdate="20151030T122826Z">
+        <seg>填寫 Contract End Date (合約終止日期) 和 Reason (原因) 等相關欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complete the relevant fields including Position Request Reason, Job Posting Title, and Number of Positions in the upper section of the screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234614Z" creationid="Judy" creationdate="20151029T234614Z">
@@ -19907,6 +19915,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T041451Z">
         <seg>修補程式應另行安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hover over Job Change and then click End Contingent Worker Contract.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122624Z" creationid="Judy" creationdate="20151030T122624Z">
+        <seg>移動滑鼠至 Job Change (職位變更) 並點擊 End Contingent Worker Contract (終止派遣員工合約)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31255,6 +31271,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142556Z">
         <seg>選擇左側的變更設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the next page, you will see the End Contingent Worker Contract screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122717Z" creationid="Judy" creationdate="20151030T122717Z">
+        <seg>於下一頁會顯示 End Contingent Worker Contract 畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50662,6 +50686,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141149Z">
         <seg>驗證 PDF 文件之存取性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify all the details and click Submit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122901Z" creationid="Judy" creationdate="20151030T122901Z">
+        <seg>檢查所有詳細資訊並點擊 Submit (送出)。</seg>
       </tuv>
     </tu>
     <tu>
