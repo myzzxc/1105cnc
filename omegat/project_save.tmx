@@ -10309,6 +10309,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Submit and then Done.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232556Z" creationid="Judy" creationdate="20151030T232556Z">
+        <seg>點擊 Submit (送出) 並點擊 Done (完成)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Submit on the Summary tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T141045Z" creationid="Judy" creationdate="20151029T141045Z">
@@ -10577,6 +10585,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145508Z" creationid="Judy" creationdate="20151028T145508Z">
         <seg>當變更您的 Place of Birth (出生地)、Marital Status (婚姻狀況)、 Race/Ethnicity (種族)、Religion (宗教)、Citizenship Status (公民身份) 以及 Nationality (國籍) 時點擊 圖示以使用彈出式功能表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the      icon within the Attachments section to attach the Resignation Letter and any additional documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232502Z" creationid="Judy" creationdate="20151030T232502Z">
+        <seg>於附件中點擊   圖示以附加辭呈和任何相關文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22159,6 +22175,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152251Z">
         <seg>於 Destination folder （目標資料夾）步驟中，確認目標資料夾與 App-V sequencer 中所定義相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Document Category field, choose Termination.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232546Z" creationid="Judy" creationdate="20151030T232546Z">
+        <seg>於文件類別欄位中，選擇 Termination (解雇)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43596,6 +43620,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Regrettable checkbox should be left blank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232419Z" creationid="Judy" creationdate="20151030T232419Z">
+        <seg>Regrettable 核取方塊應留空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The S2DSUBDIR property must match the value for ShareScan ‘home directory’ mode.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T093220Z">
@@ -46164,8 +46196,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The request is now pending with the HRBP.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225852Z" creationid="Judy" creationdate="20151030T225819Z">
-        <seg>申請將會送到 HRBP 進行審核，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232614Z" creationid="Judy" creationdate="20151030T225819Z">
+        <seg>申請將會送到 HRBP 進行審核。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46174,6 +46206,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T151348Z" creationid="Judy" creationdate="20151029T151348Z">
         <seg>請求會自動傳送給 Reward CoE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The request will now be pending with the HRBP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232608Z" creationid="Judy" creationdate="20151030T232608Z">
+        <seg>申請將會送到 HRBP 進行審核。</seg>
       </tuv>
     </tu>
     <tu>
