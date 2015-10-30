@@ -10181,6 +10181,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click OK to confirm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123434Z" creationid="Judy" creationdate="20151030T123434Z">
+        <seg>點擊 OK (確定) 以確認。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click OK to display the summary screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T145111Z" creationid="Judy" creationdate="20151028T145111Z">
@@ -11297,6 +11305,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140812Z" creationid="Judy" creationdate="20151008T140812Z">
         <seg>警報和事件之完整系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete the Worker field with the Contingent Worker to be converted to an employee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123426Z" creationid="Judy" creationdate="20151030T123426Z">
+        <seg>填寫將轉換為正式員工的派遣員工之 Worker (員工) 欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38519,6 +38535,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search for Convert to Employee in the Search field on your home screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123246Z" creationid="Judy" creationdate="20151030T123246Z">
+        <seg>於首頁畫面的搜尋方塊中搜尋 Convert to Employee (轉換為正式員工)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search functionality helps you explore Workday effectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235427Z" creationid="Judy" creationdate="20151027T235309Z">
@@ -53742,6 +53766,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133316Z" creationid="Judy" creationdate="20151028T133316Z">
         <seg>將自動導向 Workday 首頁畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will be redirected to the next page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123504Z" creationid="Judy" creationdate="20151030T123504Z">
+        <seg>畫面將會導向下一個頁面。</seg>
       </tuv>
     </tu>
     <tu>
