@@ -10397,6 +10397,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on their name in the search results to go to their profile page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122449Z" creationid="Judy" creationdate="20151030T122449Z">
+        <seg>於搜尋結果中點擊其姓名以進入他們的個人資料頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on your name in the top right corner of the page and click Inbox.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T234553Z" creationid="Judy" creationdate="20151028T234553Z">
@@ -10425,6 +10433,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235717Z" creationid="Judy" creationdate="20151027T235717Z">
         <seg>點擊頁面右上方的 圖示頁以存取您的帳戶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the        icon next to their name to see a list of options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122528Z" creationid="Judy" creationdate="20151030T122528Z">
+        <seg>點擊其姓名旁的   圖示以查看選項清單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16641,6 +16657,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOR PEOPLE MANAGER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122254Z" creationid="Judy" creationdate="20151030T122254Z">
+        <seg>人事主管專用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOR PEOPLE MANAGERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T131713Z" creationid="Judy" creationdate="20151029T131713Z">
@@ -19083,6 +19107,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234006Z" creationid="Judy" creationdate="20151029T234006Z">
         <seg>如何於 Workday 中建立職位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOW TO END CONTINGENT WORKER CONTRACT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122250Z" creationid="Judy" creationdate="20151030T122250Z">
+        <seg>如何終止特遣員工合約</seg>
       </tuv>
     </tu>
     <tu>
@@ -50029,6 +50061,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T082841Z">
         <seg>於“home directory（主目錄）”模式中與 ShareScan 同時使用S2DSERVER 屬性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Search field at the top left of the home page to search for the individual Contingent Worker.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122408Z" creationid="Judy" creationdate="20151030T122408Z">
+        <seg>使用首頁畫面左上方的搜尋方塊搜尋個別 Contingent Worker (派遣員工)。</seg>
       </tuv>
     </tu>
     <tu>
