@@ -10301,6 +10301,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Submit and then Done to confirm your action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225712Z" creationid="Judy" creationdate="20151030T225612Z">
+        <seg>點擊 Submit (送出) 以完成操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Submit on the Summary tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T141045Z" creationid="Judy" creationdate="20151029T141045Z">
@@ -10311,8 +10319,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Click Submit to complete the action.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151728Z" creationid="Judy" creationdate="20151028T151728Z">
-        <seg>點擊 Submit (送出) 已完成操作。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225621Z" creationid="Judy" creationdate="20151028T151728Z">
+        <seg>點擊 Submit (送出) 以完成操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10513,6 +10521,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233548Z" creationid="Judy" creationdate="20151027T233548Z">
         <seg>點擊 圖示可以查看可用的 worklets 清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the      icon in Attachments to attach relevant documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225606Z" creationid="Judy" creationdate="20151030T225606Z">
+        <seg>於附件中點擊   圖示以附加相關文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14864,6 +14880,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit only if required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225521Z" creationid="Judy" creationdate="20151030T225521Z">
+        <seg>若有需要可進行編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit text and object attributes (font, color, line weight, display and print options)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071222Z">
@@ -17071,6 +17095,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121408Z" creationid="Judy" creationdate="20151030T121408Z">
         <seg>欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fields including Last Date of Work, Pay Through Date, and Notify By Date are auto-populated as the Termination Date.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225453Z" creationid="Judy" creationdate="20151030T225453Z">
+        <seg>最後工作日、薪資支付日期和通知日期等欄位會自動填入解雇日期，</seg>
       </tuv>
     </tu>
     <tu>
