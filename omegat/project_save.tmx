@@ -16827,8 +16827,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FOR PROPOSED PEOPLE MANAGER</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T233348Z" creationid="Judy" creationdate="20151030T233348Z">
-        <seg>人事主管申請專用</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234115Z" creationid="Judy" creationdate="20151030T233348Z">
+        <seg>向人事主管申請</seg>
       </tuv>
     </tu>
     <tu>
@@ -38250,6 +38250,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STEP 1 - Proposed People Manager</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234154Z" creationid="Judy" creationdate="20151030T234154Z">
+        <seg>第 1 步 —— 向人事主管提出申請</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STEP 2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T231409Z" creationid="Judy" creationdate="20151027T231409Z">
@@ -38811,6 +38819,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123246Z" creationid="Judy" creationdate="20151030T123246Z">
         <seg>於首頁畫面的搜尋方塊中搜尋 Convert to Employee (轉換為正式員工)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search for the Employee using the Search field on the top left of the home screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234231Z" creationid="Judy" creationdate="20151030T234231Z">
+        <seg>於首頁畫面左上方的搜尋方塊中搜尋員Convert to Employee (轉換為正式員工)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46278,6 +46294,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T151348Z" creationid="Judy" creationdate="20151029T151348Z">
         <seg>請求會自動傳送給 Reward CoE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The request will go to the Current People Manager for approval in their Inbox.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234051Z" creationid="Judy" creationdate="20151030T234051Z">
+        <seg>申請會寄送至目前人事主管的收件匣中以進行審核，</seg>
       </tuv>
     </tu>
     <tu>
