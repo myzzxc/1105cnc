@@ -43376,6 +43376,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Last Date of Work is the last date of the employee’s employment with ITG.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232913Z" creationid="Judy" creationdate="20151030T232913Z">
+        <seg>最後工作日期為員工在 ITG 工作的最後日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Leonardo ETH appears as a generic keyboard and mouse, and can be programmed to control these input devices using the Keyboard and Mouse classes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130743Z">
@@ -43448,6 +43456,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Notify By Date is the date by which employee will be notified of the termination.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232829Z" creationid="Judy" creationdate="20151030T232829Z">
+        <seg>通知日期是通知員工的日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Oscillating Tangential knife is designed to provide high accuracy cutting of a wide range of semi rigid materials.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T135532Z">
@@ -43508,6 +43524,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132451Z" creationid="Judy" creationdate="20151013T132451Z">
         <seg>PTZ 系統能控制焦點、光圈、自動對焦和自動光圈，也能針對這些項目進行 PTZ 絕對和相對攝影機控制控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Pay Through Date is the date until which the employee will be paid before termination.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232801Z" creationid="Judy" creationdate="20151030T232801Z">
+        <seg>薪資支付日為員工在離職前支付薪資的日期。</seg>
       </tuv>
     </tu>
     <tu>
