@@ -20832,6 +20832,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If required, make changes in Additional Information section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T124935Z" creationid="Judy" creationdate="20151030T124935Z">
+        <seg>如有需要請更改附加資訊部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If retorquing is necessary, open valve to relieve pressure, then retorqued bolts using the star pattern sequence shown in Figure 4-15.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070045Z">
@@ -50766,6 +50774,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141149Z">
         <seg>驗證 PDF 文件之存取性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify all details and click Submit to confirm your actions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T125014Z" creationid="Judy" creationdate="20151030T125014Z">
+        <seg>檢查所有詳細資訊並點擊 Submit (送出) 以確認操作。</seg>
       </tuv>
     </tu>
     <tu>
