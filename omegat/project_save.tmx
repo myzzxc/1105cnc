@@ -39071,6 +39071,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Relevant Involuntary Reason from the list of options available to complete the Termination Reason field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225342Z" creationid="Judy" creationdate="20151030T225304Z">
+        <seg>於選項清單中選擇 Relevant Involuntary Reason (相關解雇原因) 並填寫解雇原因欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Services.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142157Z">
