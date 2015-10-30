@@ -20992,6 +20992,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are unsure what this should be, please consult your HRBP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T000752Z" creationid="Judy" creationdate="20151030T000752Z">
+        <seg>若無法確定如何填寫，請向 HRBP 咨詢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are using both peripherals in your program, this should be taken care of by the corresponding libraries.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134441Z">
@@ -21831,6 +21839,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T134126Z" creationid="Judy" creationdate="20151029T134126Z">
         <seg>於 Recruiting Information (招聘資訊) 分頁中填寫所有相關欄位，包括了 Reason (原因)、Recruiting Start Date (招聘開始日期) 和 Target Hire Date (預計雇用日期) 等必填欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Salary field, click the      icon on the right and enter the Salary Amount, Currency, and Frequency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T000715Z" creationid="Judy" creationdate="20151030T000715Z">
+        <seg>點擊 Salary (薪資) 欄位右方的   圖示以輸入 Salary Amount (薪資金額)、Currency (貨幣) 和 Frequency (付款頻率)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25954,6 +25970,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T015158Z">
         <seg>支援最多同時八組通訊端連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will display the details on the right of the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T000509Z" creationid="Judy" creationdate="20151030T000509Z">
+        <seg>將於畫面右方顯示詳細資訊。</seg>
       </tuv>
     </tu>
     <tu>
