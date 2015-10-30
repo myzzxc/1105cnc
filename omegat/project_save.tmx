@@ -10493,6 +10493,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the         icon next to the Employee name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234358Z" creationid="Judy" creationdate="20151030T234358Z">
+        <seg>點擊員工姓名旁的   圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the        icon at the top right of the page to access your account.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235717Z" creationid="Judy" creationdate="20151027T235717Z">
@@ -10625,6 +10633,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144505Z" creationid="Judy" creationdate="20151029T144505Z">
         <seg>點擊首頁畫面中的 Compensation (薪資) worklet。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the Employee’s name to open their profile screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234341Z" creationid="Judy" creationdate="20151030T234341Z">
+        <seg>點擊員工的姓名以開啓他們的檔案畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16827,8 +16843,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FOR PROPOSED PEOPLE MANAGER</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234115Z" creationid="Judy" creationdate="20151030T233348Z">
-        <seg>向人事主管申請</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234520Z" creationid="Judy" creationdate="20151030T233348Z">
+        <seg>人事主管申請專用</seg>
       </tuv>
     </tu>
     <tu>
@@ -20115,6 +20131,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T041451Z">
         <seg>修補程式應另行安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hover on Job Change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234428Z" creationid="Judy" creationdate="20151030T234428Z">
+        <seg>將滑鼠移至 Job Change (職位變更)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38252,8 +38276,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>STEP 1 - Proposed People Manager</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234154Z" creationid="Judy" creationdate="20151030T234154Z">
-        <seg>第 1 步 —— 向人事主管提出申請</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234527Z" creationid="Judy" creationdate="20151030T234154Z">
+        <seg>第 1 步 —— 人事主管提出申請</seg>
       </tuv>
     </tu>
     <tu>
@@ -38825,8 +38849,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Search for the Employee using the Search field on the top left of the home screen.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234231Z" creationid="Judy" creationdate="20151030T234231Z">
-        <seg>於首頁畫面左上方的搜尋方塊中搜尋員Convert to Employee (轉換為正式員工)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234257Z" creationid="Judy" creationdate="20151030T234231Z">
+        <seg>使用首頁畫面左上方的搜尋方塊中搜尋 Employee (員工)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39259,6 +39283,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232155Z" creationid="Judy" creationdate="20151030T225304Z">
         <seg>於選項清單中選擇 Relevant Involuntary Reason (相關非自願性離職原因) 並填寫解雇原因欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Request transfer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234458Z" creationid="Judy" creationdate="20151030T234458Z">
+        <seg>選擇 Request transfer (調職申請)。</seg>
       </tuv>
     </tu>
     <tu>
