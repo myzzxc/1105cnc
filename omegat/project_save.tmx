@@ -15501,6 +15501,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter Terminate Employee in the search box on your home screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T231800Z" creationid="Judy" creationdate="20151030T231738Z">
+        <seg>於首頁畫面的搜尋方塊中輸入 Terminate Employee (解雇員工)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a description for the connection and select the appropriate network protocol.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134015Z">
@@ -31415,6 +31423,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224904Z" creationid="Judy" creationdate="20151030T224904Z">
         <seg>於解雇員工畫面中，點擊方塊中的   圖示以透過團隊、主管或監管組織搜尋員工，接著選擇員工姓名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Terminate Employee screen, click the      icon in the box to search for employees by Team, Manager or Supervisory Organization.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T231939Z" creationid="Judy" creationdate="20151030T231939Z">
+        <seg>於解雇員工畫面中，點擊方塊中的   圖示以透過團隊、主管或監管組織搜尋員工，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Terminate Employee screen, select the Employee’s Name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T231853Z" creationid="Judy" creationdate="20151030T231749Z">
+        <seg>於解雇員工畫面中選擇員工的姓名。</seg>
       </tuv>
     </tu>
     <tu>
