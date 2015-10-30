@@ -10357,6 +10357,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Terminate in the Actions column.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224319Z" creationid="Judy" creationdate="20151030T224243Z">
+        <seg>於 Actions 欄位中點擊 Terminate (解雇)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Time Off worklet on the home screen</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T232744Z" creationid="Judy" creationdate="20151028T232738Z">
@@ -15445,6 +15453,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter Terminate Employee in the search box on your home screen and the Terminate Employee screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224438Z" creationid="Judy" creationdate="20151030T224438Z">
+        <seg>於首頁畫面的搜尋方塊中輸入 Terminate Employee 以顯示解僱員工畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a description for the connection and select the appropriate network protocol.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134015Z">
@@ -19161,8 +19177,8 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>HOW TO INITIATE INVOLUNTARY TERMINATION PROCESS IN WORKDAY</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224037Z" creationid="Judy" creationdate="20151030T224037Z">
-        <seg>如何於 WORKDAY 中進行非自願性解僱流程</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224253Z" creationid="Judy" creationdate="20151030T224037Z">
+        <seg>如何於 WORKDAY 中進行非自願性解雇流程</seg>
       </tuv>
     </tu>
     <tu>
@@ -43956,6 +43972,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Terminate Employee screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224400Z" creationid="Judy" creationdate="20151030T224400Z">
+        <seg>將顯示 Terminate Employee (解僱員工) 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The VCA tracker then makes this a foreground, or object, pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104252Z">
@@ -49531,6 +49555,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144613Z" creationid="Judy" creationdate="20151029T144613Z">
         <seg>將會顯示 Request (請求) 和 View (查看) 兩個欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two columns are displayed: Actions and View.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224155Z" creationid="Judy" creationdate="20151030T224155Z">
+        <seg>將會顯示兩個欄位： Actions (操作) 和 View (查看) 。</seg>
       </tuv>
     </tu>
     <tu>
