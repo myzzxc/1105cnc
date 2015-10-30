@@ -15285,6 +15285,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter Company and Cost Center and click Submit to complete the action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T001612Z" creationid="Judy" creationdate="20151030T001612Z">
+        <seg>輸入 Company (公司) 和 Cost Center (成本中心) 並點擊 Submit (送出) 以完成此操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter Create Position in the search box at the top left of your home page to begin the Create Position process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234842Z" creationid="Judy" creationdate="20151029T234842Z">
@@ -22159,6 +22167,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T135035Z" creationid="Judy" creationdate="20151013T135035Z">
         <seg>視訊播放中可針對螢幕上不同區域進行 (數位) 縮放，每次縮放將打開一個畫面，其中具有獨立於主畫面之控制，可用於列印或儲存 JPG 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In your Inbox, in the Actions tab, click the Assign Organizations subject line to enter the relevant mail.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T001510Z" creationid="Judy" creationdate="20151030T001510Z">
+        <seg>於收件匣的 Actions (操作) 分頁中點擊 Assign Organizations (指派組織) 的標題以讀取相關郵件，</seg>
       </tuv>
     </tu>
     <tu>
@@ -45070,6 +45086,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The next step is Request Default Compensation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T001629Z" creationid="Judy" creationdate="20151030T001629Z">
+        <seg>下一步為請求預設薪資。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The next step is to Assign Organisation as described further.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T235355Z" creationid="Judy" creationdate="20151029T235355Z">
@@ -48593,6 +48617,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022608Z">
         <seg>為了強化公司間程式設定的共用，可以將已安裝和設置完成的 Power PDF  設定加入部署套裝程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enter your Inbox, Click the       icon (or your profile picture) on your home screen and click Inbox.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T001434Z" creationid="Judy" creationdate="20151030T001434Z">
+        <seg>於首頁畫面中點擊   圖示 (或您的檔案照片) 並點擊 Inbox 以進入收件匣。</seg>
       </tuv>
     </tu>
     <tu>
