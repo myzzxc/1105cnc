@@ -10613,6 +10613,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the      icon in the Employees on Leave field to select the Employee due to return from leave.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T082100Z" creationid="Judy" creationdate="20151031T082100Z">
+        <seg>點擊 Employees on Leave (休假員工) 欄位中的    圖示以選擇休假結束之員工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the      icon in the Leave Type field to select the type of leave from the options available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T233304Z" creationid="Judy" creationdate="20151028T233304Z">
