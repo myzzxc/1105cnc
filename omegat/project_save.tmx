@@ -43753,6 +43753,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Last Date of Work is the employee’s last date of employment with ITG.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T085109Z" creationid="Judy" creationdate="20151031T085109Z">
+        <seg>最後工作日期為員工在 ITG 工作的最後日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Last Date of Work is the last date of the employee’s employment with ITG.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232913Z" creationid="Judy" creationdate="20151030T232913Z">
@@ -43835,16 +43843,16 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The Notify By Date is the date by which employee will be notified of the termination.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232829Z" creationid="Judy" creationdate="20151030T232829Z">
-        <seg>通知日期是通知員工的日期。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T085046Z" creationid="Judy" creationdate="20151030T232829Z">
+        <seg>通知日期是通知員工將被解雇的日期。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The Notify By Date is the date which the employee will be notified of the termination by.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T085025Z" creationid="Judy" creationdate="20151031T085025Z">
-        <seg>通知日期是通知員工的日期。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T085049Z" creationid="Judy" creationdate="20151031T085025Z">
+        <seg>通知日期是通知員工將被解雇的日期。</seg>
       </tuv>
     </tu>
     <tu>
