@@ -22699,6 +22699,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In your Inbox, a new action titled Lateral Move: &lt;Employee Name&gt; is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T081104Z" creationid="Judy" creationdate="20151031T081104Z">
+        <seg>於收件匣中將顯示新的操作 Lateral Move: &lt;Employee Name&gt; (同職等調職：&lt;員工姓名&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In your Inbox, in the Actions tab, click the Assign Organizations subject line to enter the relevant mail.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T001510Z" creationid="Judy" creationdate="20151030T001510Z">
@@ -39531,6 +39539,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132825Z" creationid="Judy" creationdate="20151029T132825Z">
         <seg>選擇本次職位需求申請所需之職位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the Proposed Position for the Employee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T081122Z" creationid="Judy" creationdate="20151031T081122Z">
+        <seg>選擇員工的 Proposed Position (申請職位)。</seg>
       </tuv>
     </tu>
     <tu>
