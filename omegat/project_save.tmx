@@ -10669,6 +10669,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the      icon in the Termination Reason field to see two options: Voluntary and Involuntary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T084822Z" creationid="Judy" creationdate="20151031T084822Z">
+        <seg>點擊 Termination Reason (解雇原因) 欄位中的    圖示將顯示兩個選項：Voluntary (自願性) 和 Involuntary (非自願性)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the      icon in the attachments section to attach relevant documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T084635Z" creationid="Judy" creationdate="20151031T084635Z">
@@ -39471,6 +39479,15 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select No Show/No Pay within the Involuntary option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T084858Z" creationid="Judy" creationdate="20151031T084858Z">
+        <seg>選擇自願性選項中的 No Show/No Pay (未到職/未發薪)。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Overview tab to view the sub tabs in this tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230728Z" creationid="Judy" creationdate="20151028T230701Z">
@@ -43824,6 +43841,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Notify By Date is the date which the employee will be notified of the termination by.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T085025Z" creationid="Judy" creationdate="20151031T085025Z">
+        <seg>通知日期是通知員工的日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Oscillating Tangential knife is designed to provide high accuracy cutting of a wide range of semi rigid materials.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T135532Z">
@@ -43892,6 +43917,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232801Z" creationid="Judy" creationdate="20151030T232801Z">
         <seg>薪資支付日為員工在離職前支付薪資的日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Pay Through Date is the date up until which the employee will be paid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T085005Z" creationid="Judy" creationdate="20151031T084941Z">
+        <seg>薪資支付日為支付員工薪資的日期。</seg>
       </tuv>
     </tu>
     <tu>
