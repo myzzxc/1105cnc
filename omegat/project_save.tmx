@@ -19407,6 +19407,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOW TO INITIATE A RETURN FROM LEAVE PROCESS IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T082858Z" creationid="Judy" creationdate="20151031T082858Z">
+        <seg>如何於 WORKDAY 中進行結束休假返回崗位流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW TO INITIATE INVOLUNTARY TERMINATION PROCESS IN WORKDAY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224253Z" creationid="Judy" creationdate="20151030T224037Z">
@@ -50733,6 +50741,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023043Z">
         <seg>Use settings from the locally installed product（使用本機安裝產品之設定），或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the       icons to input the First Day Back at Work and Actual Last Day of Leave as discussed with the Employee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T082819Z" creationid="Judy" creationdate="20151031T082819Z">
+        <seg>使用   圖示以輸入與員工討論之 First Day Back at Work (返回工作日其) 和 Actual Last Day of Leave (假期實際結束日期)。</seg>
       </tuv>
     </tu>
     <tu>
