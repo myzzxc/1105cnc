@@ -7970,10 +7970,26 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Based on the chosen position, Job Profile, Location, Company Name &amp; Cost Center is auto populated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080452Z" creationid="Judy" creationdate="20151031T080452Z">
+        <seg>根據選擇的職位，將自動填入 Job Profile (職位檔案)、Location (地點)、Company Name &amp; Cost Center ((公司名稱和成本中心)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on the nature of the contract and the product, a special project milestone may be implemented.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T024552Z">
         <seg>根據合約和產品的性質，可能實行特殊的專案里程碑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on the position chosen, Base Pay is auto populated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080715Z" creationid="Judy" creationdate="20151031T080715Z">
+        <seg>基本薪資會根據選擇的職位自動填入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11425,6 +11441,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123426Z" creationid="Judy" creationdate="20151030T123426Z">
         <seg>填寫將轉換為正式員工的派遣員工之 Worker (員工) 欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete the compensation details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080623Z" creationid="Judy" creationdate="20151031T080623Z">
+        <seg>填寫薪資詳細資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39235,6 +39259,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T162421Z">
         <seg>選擇 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\AppV\Client\RunVirtual 機碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Job Classification based on the position chosen for the Employee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080607Z" creationid="Judy" creationdate="20151031T080607Z">
+        <seg>根據員工選擇的職位選擇 Job Classification (職位分類)。</seg>
       </tuv>
     </tu>
     <tu>
