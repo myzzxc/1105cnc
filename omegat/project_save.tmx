@@ -10477,6 +10477,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Terminate in the Actions column and the Terminate Employee screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T084145Z" creationid="Judy" creationdate="20151031T084145Z">
+        <seg>於 Actions (操作) 欄位中點擊 Terminate (解雇) 後會顯示解雇員工畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Terminate in the Actions column.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224319Z" creationid="Judy" creationdate="20151030T224243Z">
@@ -10737,6 +10745,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132730Z" creationid="Judy" creationdate="20151029T132730Z">
         <seg>點選 For Existing Position (現有職位) 選項並點擊   圖示以顯示職位清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the My Team worklet on your home screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T083929Z" creationid="Judy" creationdate="20151031T083929Z">
+        <seg>點擊首頁畫面中的 My Team (我的團隊) worklet。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15663,8 +15679,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Enter Terminate Employee in the search box on your home screen and the Terminate Employee screen is displayed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224438Z" creationid="Judy" creationdate="20151030T224438Z">
-        <seg>於首頁畫面的搜尋方塊中輸入 Terminate Employee 以顯示解僱員工畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T084239Z" creationid="Judy" creationdate="20151030T224438Z">
+        <seg>於首頁畫面的搜尋方塊中輸入 Terminate Employee 以顯示解雇員工畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31731,10 +31747,26 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Terminate Employee screen, enter the Employee Name of the no-show employee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T084229Z" creationid="Judy" creationdate="20151031T084229Z">
+        <seg>於解雇員工畫面中輸入未到職員工的姓名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Terminate Employee screen, select the Employee’s Name.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T231853Z" creationid="Judy" creationdate="20151030T231749Z">
         <seg>於解雇員工畫面中選擇員工的姓名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Terminate Employee screen, you can also click the      icon in the box to search for the Employee by Team, Manager or Supervisory Organization.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T084319Z" creationid="Judy" creationdate="20151031T084319Z">
+        <seg>於解雇員工畫面中，也能點擊方塊中的   圖示以透過團隊、主管或監管組織搜尋員工，</seg>
       </tuv>
     </tu>
     <tu>
