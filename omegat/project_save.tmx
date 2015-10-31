@@ -5963,6 +5963,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, enter Request Return from Leave of Absence into the Search box at the top of your home screen, and click on the task that is displayed as a result.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T083406Z" creationid="Judy" creationdate="20151031T083351Z">
+        <seg>或於首頁畫面上方的搜尋方塊中輸入 Request Return from Leave of Absence (申請結束休假返回崗位)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, on your Workday home screen, click on your name in the top right corner of the page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151150Z" creationid="Judy" creationdate="20151028T151150Z">
@@ -10437,6 +10445,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Supporting Documents to expand that space and click the     icon to open a field to add comments and attach files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T083537Z" creationid="Judy" creationdate="20151031T083537Z">
+        <seg>點擊 Supporting Documents (證明文件) 以展開空間並點擊    圖示以打開一個加入意見和附加檔案的欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Supporting Documents to expand this section and click the      icon to open the field to attach files and add comments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T233610Z" creationid="Judy" creationdate="20151028T233603Z">
@@ -10727,8 +10743,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Click the Team Time Off worklet on your home screen, then click Return from Leave to initiate the process.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T083238Z" creationid="Judy" creationdate="20151031T083238Z">
-        <seg>點擊首頁畫面上的 Team Time Off (團隊休假) worklet，接著點擊 Return from Leave (返回崗位) 以進行流程。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T083357Z" creationid="Judy" creationdate="20151031T083238Z">
+        <seg>點擊首頁畫面上的 Team Time Off (團隊休假) worklet，接著點擊 Return from Leave (結束休假返回崗位) 以進行流程。</seg>
       </tuv>
     </tu>
     <tu>
