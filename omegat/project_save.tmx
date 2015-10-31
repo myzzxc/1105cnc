@@ -4928,6 +4928,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add any attachment to provide supporting documentation and click Approve to view the summary of the action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080813Z" creationid="Judy" creationdate="20151031T080813Z">
+        <seg>加入任何附件以提供證明文件，並點擊 Approve (批准) 以檢視操作總結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add comments to documents</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085747Z">
@@ -10041,6 +10049,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134254Z" creationid="Judy" creationdate="20151028T134254Z">
         <seg>點擊 Done (完成) 以確認。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Done.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080830Z" creationid="Judy" creationdate="20151031T080830Z">
+        <seg>點擊 Done (完成)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16849,6 +16865,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOR  PROPOSED PEOPLE MANAGER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T081006Z" creationid="Judy" creationdate="20151031T081006Z">
+        <seg>人事主管申請專用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOR EMPLOYEES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T231754Z" creationid="Judy" creationdate="20151027T231754Z">
@@ -19355,6 +19379,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T235223Z" creationid="Judy" creationdate="20151030T235223Z">
         <seg>如何於 WORKDAY 中進行職位變更：升遷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOW TO INITIATE A JOB CHANGE: LATERAL MOVE IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T081002Z" creationid="Judy" creationdate="20151031T081002Z">
+        <seg>如何於 WORKDAY 中進行職位變更：同職等調職</seg>
       </tuv>
     </tu>
     <tu>
@@ -38346,6 +38378,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STEP 1 – Proposed People Manager</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T081010Z" creationid="Judy" creationdate="20151031T081010Z">
+        <seg>第 1 步 —— 人事主管提出申請</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STEP 2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T231409Z" creationid="Judy" creationdate="20151027T231409Z">
@@ -46255,6 +46295,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The progress bar shows you where you are in the Job Change process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080942Z" creationid="Judy" creationdate="20151031T080942Z">
+        <seg>進度列會顯示職位變更流程的進度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The prototype products must be packaged separately and identified with a specific label.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T141347Z">
@@ -46430,6 +46478,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232608Z" creationid="Judy" creationdate="20151030T232608Z">
         <seg>申請將會送到 HRBP 進行審核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The request will then go to the Budget Owner for approval in his/her Inbox.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080907Z" creationid="Judy" creationdate="20151031T080907Z">
+        <seg>申請會寄送至預算經理的收件匣中以進行審核，</seg>
       </tuv>
     </tu>
     <tu>
