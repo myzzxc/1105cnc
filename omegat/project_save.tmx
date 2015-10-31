@@ -9941,6 +9941,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Attach to upload the supporting documents required to return the Employee from leave.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T083651Z" creationid="Judy" creationdate="20151031T083651Z">
+        <seg>點擊 Attach (附加) 以上傳員工結束休假返回崗位所需證明文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Buy Now and enter the quantity between 5 and 25 in the cart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124342Z">
@@ -10425,6 +10433,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T233242Z" creationid="Judy" creationdate="20151029T233242Z">
         <seg>點擊 Submit (送出) 呈交一次性付款申請進行審核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Submit to process the request.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T083709Z" creationid="Judy" creationdate="20151031T083709Z">
+        <seg>點擊 Submit (送出) 以進行申請流程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19447,6 +19463,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOW TO INITIATE NO-SHOW PROCESS IN WORKDAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T083807Z" creationid="Judy" creationdate="20151031T083738Z">
+        <seg>如何於 WORKDAY 中進行未到職流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW TO INITIATE RESIGNATION PROCESS IN WORKDAY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T231521Z" creationid="Judy" creationdate="20151030T231521Z">
@@ -27861,6 +27885,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114541Z">
         <seg>登入至 ’Server Farm’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Login to Workday using your username and password and your home screen is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T083921Z" creationid="Judy" creationdate="20151031T083921Z">
+        <seg>使用您的帳號和密碼登入 Workday 後會顯示首頁畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52854,6 +52886,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093459Z">
         <seg>再加上 Adobe 授權和審核所帶來的困擾，令很多使用者感到困擾（且被 Adobe 綁定）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have confirmed that the Employee will not be joining ITG, initiate the no-show process in Workday.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T083852Z" creationid="Judy" creationdate="20151031T083852Z">
+        <seg>當您確認員工將不會加入 ITG 時，於 Workday 中進行未到職流程。</seg>
       </tuv>
     </tu>
     <tu>
