@@ -10669,6 +10669,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the      icon in the attachments section to attach relevant documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T084635Z" creationid="Judy" creationdate="20151031T084635Z">
+        <seg>於附件中點擊   圖示以附加相關文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the      icon next to Document Category and select Leave of Absence.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T235206Z" creationid="Judy" creationdate="20151028T235206Z">
@@ -31779,6 +31787,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the detailed Terminate Employee screen, enter the Employee’s first day (the day of the no-show) in the Termination Date field and enter No Show/No Pay in Termination Reason field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T084621Z" creationid="Judy" creationdate="20151031T084621Z">
+        <seg>於詳細解雇員工畫面中，於 Termination Date (解雇日期) 欄位中輸入員工的到職日 (未到職當天的日期) 並和 Termination Reason (解雇原因) 欄位中輸入 No Show/No Pay (未到職/未發薪)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the detailed Terminate Employee screen, populate the Termination Date and Termination Reason fields.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225025Z" creationid="Judy" creationdate="20151030T225025Z">
@@ -46605,6 +46621,14 @@ For further details, see the Detailed User Guide.</seg>
         <seg>The request will now be pending with the HRBP.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232608Z" creationid="Judy" creationdate="20151030T232608Z">
+        <seg>申請將會送到 HRBP 進行審核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The request will now go to the HRBP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T084643Z" creationid="Judy" creationdate="20151031T084643Z">
         <seg>申請將會送到 HRBP 進行審核。</seg>
       </tuv>
     </tu>
