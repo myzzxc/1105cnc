@@ -46569,6 +46569,16 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rear drive being operatively coupled to the power source and operatively coupled to a first ground engaging member positioned rearward of the operator area through a first drive shaft to transfer power received from the power source to the first ground engaging member and to a second ground engaging member positioned rearward of the operator area through a second drive shaft to transfer power received from the power source to the second ground engaging member.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T125757Z" creationid="Judy" creationdate="20151031T125757Z">
+        <seg>後驅動單元連接動力源與位於駕駛區後方第一接觸地面元件，
+並透過第一傳動軸傳送動力源之動力至駕駛區後方的第一接觸地面元件和透過第二傳動軸傳送動力源之動力至駕駛區後方的第二接觸地面元件。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rear drive being operatively coupled to the power source and operatively coupled to at least a first ground engaging member positioned rearward of the operator area through a drive shaft to transfer power received from the power source to the first ground engaging member.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T125923Z" creationid="Judy" creationdate="20151025T092432Z">
