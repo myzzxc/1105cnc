@@ -5193,6 +5193,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After reviewing the details click Done to confirm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080054Z" creationid="Judy" creationdate="20151031T080054Z">
+        <seg>檢查詳細資訊後點擊 Done (完成) 以確認。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After reviewing the details, click Next.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T233839Z" creationid="Judy" creationdate="20151030T233839Z">
@@ -21901,6 +21909,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T120451Z" creationid="Judy" creationdate="20151030T120451Z">
         <seg>於 Actions (操作) 中，選擇相對應的郵件以進行批准流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Inbox, a new action Job Change: Employee Name is displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080218Z" creationid="Judy" creationdate="20151031T080218Z">
+        <seg>於收件匣中將顯示新的操作 Job Change: Employee Name (職位變更：員工姓名)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39275,6 +39291,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T105117Z">
         <seg>選擇 Properties（屬性）、點擊 Group Policy （群組設定）分頁，接著點擊 New（新建）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Proposed Position for the Employee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080309Z" creationid="Judy" creationdate="20151031T080309Z">
+        <seg>選擇員工的 Proposed Position (申請職位)。</seg>
       </tuv>
     </tu>
     <tu>
