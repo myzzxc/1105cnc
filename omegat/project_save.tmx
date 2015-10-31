@@ -21152,6 +21152,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Employee is grade A-D, the job change request will also route to Functional Director (Opex member), HR Functional Director (aligned to Opex Member) and the Group Reward Director.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T081716Z" creationid="Judy" creationdate="20151031T081716Z">
+        <seg>如果員工的職等為 A-D，職位變更申請也會送至職能總監 (Functional Director, Opex 成員)、 人力資源職能總監 (HR Functional ，與 Opex 成員同等) 集團獎勵總監 (Group Reward Director)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Terminate child processes dialog appears click Yes to close the background processes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153220Z">
