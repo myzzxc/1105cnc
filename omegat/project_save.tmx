@@ -46441,8 +46441,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The power source having a power source housing and a power source output</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T030050Z" creationid="Judy" creationdate="20151101T030050Z">
-        <seg>動力源包含動力源外殼和動力源輸出驅動元件。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T030359Z" creationid="Judy" creationdate="20151101T030050Z">
+        <seg>動力源具有動力源外殼和動力源輸出驅動元件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47491,6 +47491,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T131846Z">
         <seg>追蹤器可以計算出背景和前景物體像素，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transmission having a transmission housing and a transmission input drive member and a transmission output drive member.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T030532Z" creationid="Judy" creationdate="20151101T030351Z">
+        <seg>變速箱具有變速箱外殼和變速箱輸入驅動元件以及變速箱輸出驅動元件。</seg>
       </tuv>
     </tu>
     <tu>
