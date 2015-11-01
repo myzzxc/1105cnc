@@ -3778,6 +3778,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A top view projection of the first suspension axis intersecting a longitudinal centerline of the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T073611Z" creationid="Judy" creationdate="20151101T073611Z">
+        <seg>第一懸吊軸於上視圖中與車輛縱向中心線相交。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A user may belong to more than one group, receiving all permissions related to all the groups in which he or she belongs to.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T135709Z" creationid="Judy" creationdate="20151014T135709Z">
