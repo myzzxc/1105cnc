@@ -22249,6 +22249,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a variation thereof, the vehicle further comprises a filter housing positioned behind the cover and a filter removably positioned within the filter housing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T082319Z" creationid="Judy" creationdate="20151101T082319Z">
+        <seg>其中一個變形為，車輛也包含位於外蓋後方之濾芯外殼和濾芯外殼中的可拆式濾芯，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a variation thereof, the vehicle further comprises a front drive operatively coupled to the power source and operatively coupled to a third ground engaging member positioned forward of the operator area and a fourth ground</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T020213Z" creationid="Judy" creationdate="20151101T020109Z">
@@ -44918,6 +44926,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ambient air passing through the filter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T082332Z" creationid="Judy" creationdate="20151101T082332Z">
+        <seg>空氣通過濾芯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The analysis module allows the configuration of the measures of the scenario is facilitated by a 3D grid for easy handling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071240Z">
@@ -45610,6 +45626,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T125526Z" creationid="Judy" creationdate="20151012T125526Z">
         <seg>篩選器適用於清單中的所有物件，尋找物件的名稱和說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The filter may be located between an exterior surface of the exterior body panel of the cargo carrying portion and a wall of a cargo carrying region of the cargo carrying portion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T082438Z" creationid="Judy" creationdate="20151101T082438Z">
+        <seg>濾芯位於載貨物部分本體鈑金外表面和載貨物部分之貨物裝載區外牆之間。</seg>
       </tuv>
     </tu>
     <tu>
