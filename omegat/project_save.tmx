@@ -22339,6 +22339,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In one example, the location at which the sway bar is coupled to the frame is rearward of the first location and the second location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T002146Z" creationid="Judy" creationdate="20151101T002146Z">
+        <seg>舉一個例子，在防傾杆耦合到幀的位置是向後的第一位置和第二個位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In one example, the rear face of the vehicle is a flat surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T133714Z" creationid="Judy" creationdate="20151025T133714Z">
@@ -47664,8 +47672,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The vehicle further comprising a sway bar coupling the first rear suspension to the second rear suspension, the sway bar being coupled to the frame at a location forward of the power source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T001807Z" creationid="Judy" creationdate="20151101T001807Z">
-        <seg>車輛更包含連接第一後懸吊系統與第二後懸吊系統的擺動桿，擺動桿於動力源前方位置連接至框架。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T002249Z" creationid="Judy" creationdate="20151101T001807Z">
+        <seg>車輛更包含連接第一後懸吊系統與第二後懸吊系統的擺動桿，防擺桿於動力源前方位置連接至框架。</seg>
       </tuv>
     </tu>
     <tu>
