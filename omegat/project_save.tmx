@@ -22386,6 +22386,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In another example, the first air inlet and the second air inlet are positioned above the plurality of ground engaging members.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T135846Z" creationid="Judy" creationdate="20151101T135846Z">
+        <seg>另一個範例中，第一進氣口和第二進氣口皆位於多組接觸地面元件上方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In another example, the first air intake system includes a resonator box located between an exterior surface of the exterior body panel of the cargo carrying portion and a wall of a cargo carrying region of the cargo carrying portion.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T081144Z" creationid="Judy" creationdate="20151101T081144Z">
@@ -22453,8 +22461,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In another variation thereof the vehicle further comprises a roll cage.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T135715Z" creationid="Judy" creationdate="20151101T135632Z">
-        <seg>其中另一種變形為，車輛更包含一組防滾架。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T135738Z" creationid="Judy" creationdate="20151101T135632Z">
+        <seg>其中另一種變形為，車輛更包含一組防滾架，</seg>
       </tuv>
     </tu>
     <tu>
@@ -45851,6 +45859,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154036Z">
         <seg>接著會再進行一次火焰畫面的運算以降低錯誤偵測的機會。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first air inlet and the second air inlet are both rearward of the roll cage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T135748Z" creationid="Judy" creationdate="20151101T135735Z">
+        <seg>第一進氣口和第二進氣口皆位於防滾架後方。</seg>
       </tuv>
     </tu>
     <tu>
