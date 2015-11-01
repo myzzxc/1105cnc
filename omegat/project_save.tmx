@@ -47521,8 +47521,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The unit being supported by the frame through at least a first connection, a second connection, and a third connection.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T031621Z" creationid="Judy" creationdate="20151101T031621Z">
-        <seg>正在由通過至少第一次連接，第二個連接和第三連接框架支援單位。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T031803Z" creationid="Judy" creationdate="20151101T031621Z">
+        <seg>此單元至少由框架以第一連接、第二連接和第三連接支撐。</seg>
       </tuv>
     </tu>
     <tu>
