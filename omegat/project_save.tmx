@@ -46449,8 +46449,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The power source output drive member and the transmission input drive member being completely outside of the spacer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T031203Z" creationid="Judy" creationdate="20151101T031203Z">
-        <seg>動力源輸出驅動元件和變速箱輸入驅動元件完全位於墊片之外。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T031536Z" creationid="Judy" creationdate="20151101T031203Z">
+        <seg>動力源輸出驅動元件和變速箱輸入驅動元件完全位於間隔件之外。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47519,10 +47519,18 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The unit being supported by the frame through at least a first connection, a second connection, and a third connection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T031621Z" creationid="Judy" creationdate="20151101T031621Z">
+        <seg>正在由通過至少第一次連接，第二個連接和第三連接框架支援單位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The unit including a power source supported by the frame through less than three connections, a transmission supported by the frame through less than three connections, and a spacer coupled to the power source housing and coupled to the transmission housing to position the transmission relative to the power source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T030145Z" creationid="Judy" creationdate="20151101T025956Z">
-        <seg>單元中包括由框架以少於三個連接支撐之動力源，由框架以少於三個連接支撐之變速箱，於變速箱和動力源之間連接動力源外殼和變速箱外殼的墊片。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T031507Z" creationid="Judy" creationdate="20151101T025956Z">
+        <seg>單元中包括由框架以少於三個連接支撐之動力源，由框架以少於三個連接支撐之變速箱，於變速箱和動力源之間連接動力源外殼和變速箱外殼的間隔件。</seg>
       </tuv>
     </tu>
     <tu>
