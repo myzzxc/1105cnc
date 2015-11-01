@@ -44960,8 +44960,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The airbox including a base portion, a cover portion, and a filter positioned in an interior of the airbox.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T090311Z" creationid="Judy" creationdate="20151101T090311Z">
-        <seg>風箱包括底座部分、外蓋部分和置於風箱內部之濾芯。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T090454Z" creationid="Judy" creationdate="20151101T090311Z">
+        <seg>風箱包括底座部分、外蓋部分和置於風箱內部之濾芯，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44978,6 +44978,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155539Z">
         <seg>演算法設定較為保守，因此可能會產生假警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ambient air passing through the filter, the airbox being located below a floor of the cargo carrying portion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T090452Z" creationid="Judy" creationdate="20151101T090452Z">
+        <seg>空氣通過濾芯，而風箱位於載貨部分之平板下方。</seg>
       </tuv>
     </tu>
     <tu>
