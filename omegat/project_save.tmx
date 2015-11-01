@@ -47503,6 +47503,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The transmission input drive member being operatively coupled to the power source output drive member and the transmission output drive member being operatively coupled to at least one of the plurality of the plurality of ground engaging members to propel the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T030901Z" creationid="Judy" creationdate="20151101T030901Z">
+        <seg>變速箱輸入驅動元件連接至動力源輸出驅動元件，而變速箱輸出驅動元件連接至多組接觸地面元件中至少一組接觸地面元件以推動車輛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The unit including a power source supported by the frame through less than three connections, a transmission supported by the frame through less than three connections, and a spacer coupled to the power source housing and coupled to the transmission housing to position the transmission relative to the power source.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T030145Z" creationid="Judy" creationdate="20151101T025956Z">
