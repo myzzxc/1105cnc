@@ -22516,6 +22516,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In one example, the air inlet is provided in an exterior body panel of the cargo carrying portion of the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T133342Z" creationid="Judy" creationdate="20151101T133342Z">
+        <seg>於一個範例中，空氣進氣口位於車輛載貨部分主體外鈑金之內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In one example, the cargo carrying portion is a cargo bed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T075943Z" creationid="Judy" creationdate="20151101T075834Z">
@@ -22668,10 +22676,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In still another example, the step of communicating the first amount of ambient air to the CVT unit of the vehicle includes the step of: passing the ambient air through a first filter located between an exterior of the cargo carrying portion and a wall of a cargo bed of the cargo carrying portion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T133417Z" creationid="Judy" creationdate="20151101T133417Z">
+        <seg>另一個範例中，輸送第一總量空氣至車輛無段變速單元包含以下步驟：第一總量空氣通過位於載貨物部分外部和載貨物部分之載貨平板外牆之間的第一濾芯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In still another example, the step of communicating the first amount of ambient air to the power source of the vehicle includes the step of passing the ambient air through a resonator box located between an exterior of the cargo carrying portion and a wall of a cargo bed of the cargo carrying portion.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T085735Z" creationid="Judy" creationdate="20151101T085735Z">
         <seg>另一個範例中，輸送第一總量空氣至車輛動力源的步驟包含將第一總量空氣通過位於載貨物部分外部和載貨物部分之載貨平板外牆之間的諧振箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In still another exemplary embodiment of the present disclosure, a method of providing air to a CVT unit of a vehicle is provided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T133227Z" creationid="Judy" creationdate="20151101T133227Z">
+        <seg>本揭露資訊中另一個示範實施例中將提供輸送空氣至車輛無段變速單元的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23096,6 +23120,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T082615Z" creationid="Judy" creationdate="20151101T081359Z">
         <seg>另一個例子，車輛更包括連接至本體外鈑金的外蓋以覆蓋本體外鈑金進氣口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In yet another exemplary embodiment of the present disclosure, a vehicle is provided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T133429Z" creationid="Judy" creationdate="20151101T133429Z">
+        <seg>本揭露資訊中提供車輛的另一個示範實施例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46388,6 +46420,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T072307Z" creationid="Judy" creationdate="20151101T072307Z">
         <seg>此方法包括以間隔件連接動力源至變速箱的步驟，動力源之動力源輸出驅動元件和變速箱輸入驅動元件完全位於間隔件外部；並以至少三個連接支撐動力源、變速箱和間隔件於框架上，以少於三個連接支撐動力源和少於三個連接支撐變速箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method comprising the steps of: providing an air inlet of an air intake system in a cargo carrying portion of the vehicle, the air inlet being rearward of an operator area of the vehicle; receiving a first amount of ambient air through the air inlet; and communicating the first amount of ambient air to an interior of the CVT unit of the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T133301Z" creationid="Judy" creationdate="20151101T133301Z">
+        <seg>此方法包括以下步驟：於車輛載貨部分中的空氣進氣系統中提供一進氣口，進氣口位於車輛駕駛區後方；藉由進氣口接收第一總量的空氣；並將第一總量的空氣輸送至車輛的無段變速單元。</seg>
       </tuv>
     </tu>
     <tu>
