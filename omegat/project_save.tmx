@@ -22057,6 +22057,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T085039Z" creationid="Judy" creationdate="20151101T085039Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 2014, UN-Water recommended a dedicated Sustainable Development Goal for water comprised of five target areas: (i) WASH; (ii) water resources; (iii) water governance; (iv) water quality and wastewater management; and (v) water-related disasters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T085150Z">
@@ -46251,6 +46259,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T072307Z" creationid="Judy" creationdate="20151101T072307Z">
         <seg>此方法包括以間隔件連接動力源至變速箱的步驟，動力源之動力源輸出驅動元件和變速箱輸入驅動元件完全位於間隔件外部；並以至少三個連接支撐動力源、變速箱和間隔件於框架上，以少於三個連接支撐動力源和少於三個連接支撐變速箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method comprising the steps of: providing an air inlet of an air intake system in a cargo carrying portion of the vehicle, the air inlet being rearward of an operator area of the vehicle; receiving a first amount of ambient air through the air inlet; and communicating the first amount of ambient air to the power source of the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T085030Z" creationid="Judy" creationdate="20151101T085030Z">
+        <seg>此方法包括以下步驟：於車輛載貨部分中的空氣進氣系統中提供一進氣口，進氣口位於車輛駕駛區後方；藉由進氣口接收第一總量的空氣；並將第一總量的空氣輸送至車輛的動力源。</seg>
       </tuv>
     </tu>
     <tu>
