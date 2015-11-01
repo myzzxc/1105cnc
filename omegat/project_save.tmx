@@ -45712,7 +45712,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The floor including a removable cover which permits access to a portion of the first air intake system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T080240Z" creationid="Judy" creationdate="20151101T080230Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T080430Z" creationid="Judy" creationdate="20151101T080230Z">
         <seg>平板包括可拆式外蓋，拆卸後可進入部分第一空氣進氣系統，</seg>
       </tuv>
     </tu>
@@ -46547,6 +46547,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072359Z">
         <seg>標準氣動開關包含自動區域切換系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The portion of the first air intake system may be an airbox including a filter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T080607Z" creationid="Judy" creationdate="20151101T080406Z">
+        <seg>第一空氣進氣系統的部分可能為包括濾芯之風箱。</seg>
       </tuv>
     </tu>
     <tu>
