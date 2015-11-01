@@ -47215,6 +47215,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The second air intake system transporting the ambient air received through the second air inlet to the first side of the vertical centerline plane of the vehicle as the ambient air travels towards the CVT unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T084302Z" creationid="Judy" creationdate="20151101T084302Z">
+        <seg>當空氣流向無段變速單元時，第二空氣進氣系統輸送來自第二個進氣口之空氣至車輛垂直中心線平面的第一側。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second rear suspension system including a second radius arm coupled to the second ground engaging member and coupled to the frame at a second location forward of the second ground engaging member, a second control arm coupled to the second ground engaging member and to the frame; and a second dampening member coupled to the second radius arm and to the frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T021033Z" creationid="Judy" creationdate="20151101T001145Z">
