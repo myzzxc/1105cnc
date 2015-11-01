@@ -47583,6 +47583,30 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The top view projection of the centerline of the dampening member may be angled up to about 10 degrees from a normal to the top view projection of the first suspension axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T074607Z" creationid="Judy" creationdate="20151101T074607Z">
+        <seg>阻尼元件於上投影圖中的中心線與第一懸吊軸上投影圖中的中心線之夾角可偏離直角約 10 度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The top view projection of the centerline of the dampening member may be angled up to about 20 degrees from a normal to the top view projection of the first suspension axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T074553Z" creationid="Judy" creationdate="20151101T074553Z">
+        <seg>阻尼元件於上投影圖中的中心線與第一懸吊軸上投影圖中的中心線之夾角可偏離直角約 20 度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The top view projection of the centerline of the dampening member may be angled up to about 30 degrees from a normal to the top view projection of the first suspension axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T074508Z" creationid="Judy" creationdate="20151101T074508Z">
+        <seg>阻尼元件於上投影圖中的中心線與第一懸吊軸上投影圖中的中心線之夾角可偏離直角約 30 度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The top view projection of the centerline of the dampening member may be generally nor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T074059Z" creationid="Judy" creationdate="20151101T074035Z">
