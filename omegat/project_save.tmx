@@ -22997,8 +22997,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In yet another example, the vehicle further comprises a cover coupled to the exterior body panel to cover the inlet in the exterior body panel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T081359Z" creationid="Judy" creationdate="20151101T081359Z">
-        <seg>另一個例子，車輛更包括連接至本體外鈑金的外蓋以覆蓋本體外鈑金入口。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T082615Z" creationid="Judy" creationdate="20151101T081359Z">
+        <seg>另一個例子，車輛更包括連接至本體外鈑金的外蓋以覆蓋本體外鈑金進氣口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46003,6 +46003,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T012946Z">
         <seg>此文件所載之資訊、建議和意見僅供審議、 研究和確認，其部分或全部內容不作為保固用途或具法律效用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The inlet in the exterior body panel of the cargo carrying portion may be positioned on a first side of a vertical center- line plane of the vehicle and the first air intake system transports the ambient air to a second side of the vertical centerline plane as the ambient air travels through a fluid conduit of the first air intake system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T082608Z" creationid="Judy" creationdate="20151101T082531Z">
+        <seg>本體外鈑金中的進氣口第一接觸地面元件位於車輛垂直中心線縱向平面第一側而第二接觸地面元件位於車輛垂直中心線縱向平面第二側。</seg>
       </tuv>
     </tu>
     <tu>
