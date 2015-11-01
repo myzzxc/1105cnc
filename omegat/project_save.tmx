@@ -3780,8 +3780,8 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>A top view projection of the first suspension axis intersecting a longitudinal centerline of the vehicle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T073611Z" creationid="Judy" creationdate="20151101T073611Z">
-        <seg>第一懸吊軸於上視圖中與車輛縱向中心線相交。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T073843Z" creationid="Judy" creationdate="20151101T073611Z">
+        <seg>第一懸吊軸於上投影圖中與車輛縱向中心線相交。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22189,6 +22189,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T133310Z">
         <seg>在不久的將來，能於永續的世界中實現的願景是：對水和相關的資源進行管理以達到人類福祉和在強健的經濟中維持生態系統的完整性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a variation thereof, a top view projection of a centerline of the dampening member is angled relative to the top view projection of the first suspension axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T074045Z" creationid="Judy" creationdate="20151101T073835Z">
+        <seg>其中一個變形為，阻尼元件於上投影圖中的中心線與第一懸吊軸上投影圖中的中心線夾一角度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47575,6 +47583,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The top view projection of the centerline of the dampening member may be generally nor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T074059Z" creationid="Judy" creationdate="20151101T074035Z">
+        <seg>其中一個變形為，阻尼元件於上投影圖中的中心線與</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tracker can work out what is background and what are foreground object pixels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T131846Z">
@@ -55993,6 +56009,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133207Z">
         <seg>登記證明產品符合規範，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mal to the top view projection of the first suspension axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T074117Z" creationid="Judy" creationdate="20151101T074117Z">
+        <seg>第一懸吊軸上投影圖中的中心線通常為直角。</seg>
       </tuv>
     </tu>
     <tu>
