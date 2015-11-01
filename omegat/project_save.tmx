@@ -22387,6 +22387,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In one example, the sway bar is coupled to the first movable arm and the second movable arm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T015821Z" creationid="Judy" creationdate="20151101T015821Z">
+        <seg>一個範例中，防擺桿連接第一和第二可動式懸臂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to achieve universal access, there is a need for accelerated progress in disadvantaged groups and to ensure non-discrimination in WASH service provision.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T154047Z">
@@ -47720,6 +47728,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The vehicle further comprising a second rear suspension system movably coupling the second ground engaging member to the frame, the second rear suspension system including a second movable arm; and a sway bar coupling the first rear suspension to the second rear suspension, the sway bar being coupled to the frame at a location forward of the power source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T015707Z" creationid="Judy" creationdate="20151101T015625Z">
+        <seg>車輛更包含連接第二接觸地面元件和框架的第二後懸吊系統，第二後懸吊系統包含第二可動式懸臂；以及連接第一後懸吊系統與第二後懸吊系統的防擺桿，防擺桿於動力源前方位置連接至框架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The vehicle further comprising a second rear suspension system movably coupling the second ground engaging member to the frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T001115Z" creationid="Judy" creationdate="20151101T001115Z">
@@ -47730,8 +47746,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The vehicle further comprising a sway bar coupling the first rear suspension to the second rear suspension, the sway bar being coupled to the frame at a location forward of the power source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T002249Z" creationid="Judy" creationdate="20151101T001807Z">
-        <seg>車輛更包含連接第一後懸吊系統與第二後懸吊系統的擺動桿，防擺桿於動力源前方位置連接至框架。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T015634Z" creationid="Judy" creationdate="20151101T001807Z">
+        <seg>車輛更包含連接第一後懸吊系統與第二後懸吊系統的防擺桿，防擺桿於動力源前方位置連接至框架。</seg>
       </tuv>
     </tu>
     <tu>
