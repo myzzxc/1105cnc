@@ -47199,6 +47199,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The second air inlet being completely positioned to the second side of the vertical centerline plane of the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T083632Z" creationid="Judy" creationdate="20151101T083632Z">
+        <seg>第二進氣口被完全位於車輛垂直中心線平面的第二側。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second air intake system including a second air inlet through which ambient air enters the second air intake system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T083551Z" creationid="Judy" creationdate="20151101T083551Z">
+        <seg>第二空氣進氣系統中包含讓空氣進入第二空氣進氣系統之第二空氣進氣口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second rear suspension system including a second radius arm coupled to the second ground engaging member and coupled to the frame at a second location forward of the second ground engaging member, a second control arm coupled to the second ground engaging member and to the frame; and a second dampening member coupled to the second radius arm and to the frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T021033Z" creationid="Judy" creationdate="20151101T001145Z">
