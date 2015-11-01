@@ -45510,6 +45510,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first rear suspension system including a first movable arm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T015239Z" creationid="Judy" creationdate="20151101T015239Z">
+        <seg>第一後懸吊系統包括可動式第一懸臂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first rear suspension system including a first radius arm coupled to the first ground engaging member and coupled to the frame at a first location forward of the first ground engaging member, a first control arm coupled to the first ground engaging member and to the frame; and a first dampening member coupled to the first radius arm and to the frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T001305Z" creationid="Judy" creationdate="20151101T001020Z">
@@ -46621,6 +46629,16 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235645Z">
         <seg>於每年年初設定之量化目標必須包含此改進計畫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rear drive being operatively coupled to the power source and operatively coupled to a first ground engaging member positioned rearward of the operator area through a first drive shaft to transfer power received from the power source to the first ground engaging member and to a second ground engaging member positioned rearward of the operator area through a second drive shaft to transfer power received from the power source to the second ground engaging member, the first ground engaging member being positioned on a first side of a vertical centerline longitudinal plane of the vehicle and the second ground engaging member being positioned on a second side of the vertical centerline longitudinal plane of the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T015136Z" creationid="Judy" creationdate="20151101T015136Z">
+        <seg>後驅動單元連接動力源與位於駕駛區後方第一接觸地面元件，
+並透過第一傳動軸傳送動力源之動力至駕駛區後方的第一接觸地面元件和透過第二傳動軸傳送動力源之動力至駕駛區後方的第二接觸地面元件。第一接觸地面元件位於車輛垂直中心線縱向平面第一側而第二接觸地面元件位於車輛垂直中心線縱向平面第二側。
+</seg>
       </tuv>
     </tu>
     <tu>
