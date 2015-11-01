@@ -46439,6 +46439,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The power source having a power source housing and a power source output</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T030050Z" creationid="Judy" creationdate="20151101T030050Z">
+        <seg>動力源包含動力源外殼和動力源輸出驅動元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The powerful features healthcare organizations need with an interface users already know.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T134127Z">
@@ -47483,6 +47491,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T131846Z">
         <seg>追蹤器可以計算出背景和前景物體像素，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The unit including a power source supported by the frame through less than three connections, a transmission supported by the frame through less than three connections, and a spacer coupled to the power source housing and coupled to the transmission housing to position the transmission relative to the power source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T030145Z" creationid="Judy" creationdate="20151101T025956Z">
+        <seg>單元中包括由框架以少於三個連接支撐之動力源，由框架以少於三個連接支撐之變速箱，於變速箱和動力源之間連接動力源外殼和變速箱外殼的墊片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55505,6 +55521,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153832Z">
         <seg>別忘了填寫 IN/EX 欄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>drive member.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T030053Z" creationid="Judy" creationdate="20151101T030053Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
