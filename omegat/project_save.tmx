@@ -45470,6 +45470,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first rear suspension system including a first radius arm coupled to the first ground engaging member and coupled to the frame at a first location forward of the first ground engaging member, a first control arm coupled to the first ground engaging member and to the frame; and a first dampening member coupled to the first radius arm and to the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T001305Z" creationid="Judy" creationdate="20151101T001020Z">
+        <seg>第一後懸吊系統包含一組連接到框架上、第一接觸地面元件前方的第一位置並與第一接觸地面元件相連的第一懸臂；並以第一阻尼元件連接第一懸臂與框架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fitting is a ¼” (6.35mm) quick disconnect fitting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084441Z">
@@ -46853,6 +46861,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The second rear suspension system including a second radius arm coupled to the second ground engaging member and coupled to the frame at a second location forward of the second ground engaging member, a second control arm coupled to the second ground engaging member and to the frame; and a second dampening member coupled to the second radius arm and to the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T001236Z" creationid="Judy" creationdate="20151101T001145Z">
+        <seg>第二後懸吊系統包含一組連接到框架上、第二接觸地面元件前方的第二位置並與第二接觸地面元件相連的第二懸臂；並以第二阻尼元件連接第二懸臂與框架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The security plan shall be regularly updated and take into account the specific risks of each project.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T190822Z">
@@ -47634,6 +47650,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T235327Z" creationid="Judy" creationdate="20151031T235327Z">
         <seg>車輛更包含一組連接第一接觸地面元件與框架的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vehicle further comprising a second rear suspension system movably coupling the second ground engaging member to the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T001115Z" creationid="Judy" creationdate="20151101T001115Z">
+        <seg>車輛更包含一組連接第二接觸地面元件與框架的可動式第二後懸吊系統，</seg>
       </tuv>
     </tu>
     <tu>
