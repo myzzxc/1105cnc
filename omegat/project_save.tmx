@@ -14678,6 +14678,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E Marketing 市場行銷</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T124713Z" creationid="Judy" creationdate="20151103T124713Z">
+        <seg>E 市場行銷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E – Environmental</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144904Z">
@@ -23292,6 +23300,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Include samples from brochures, adverts, published PR and web sites.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T124902Z" creationid="Judy" creationdate="20151103T124902Z">
+        <seg>包括從宣傳冊、 廣告、 出版的公關和 web 網站的樣本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Included modules in the analysis package:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T053149Z">
@@ -28244,8 +28260,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>List all energy efficiency and eco-friendly measures implemented in this project covering the following headings:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T124132Z" creationid="Judy" creationdate="20151103T124132Z">
-        <seg>列出所有此專案中使用的節能和環保措施：:</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T124649Z" creationid="Judy" creationdate="20151103T124132Z">
+        <seg>列出所有此專案中使用的節能和環保措施，請涵蓋以下範圍（採光、氣候控制、水源、回收、環保）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36805,8 +36821,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Provide details of the location of the development and surrounding points of interest which enhance the project using one or more of the following:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T121553Z" creationid="Judy" creationdate="20151103T121553Z">
-        <seg>請提供能提高此專案價值的發展地理位置和周邊設施的詳細資訊，利用以下一種或多種媒介：（照片、地圖、設計圖、電腦生成影像）</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T124849Z" creationid="Judy" creationdate="20151103T121553Z">
+        <seg>請提供能提高此專案價值的開發地理位置和周邊設施的詳細資訊，利用以下一種或多種媒介：（照片、地圖、設計圖、電腦生成影像）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42342,6 +42358,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T234627Z">
         <seg>來自客戶端的供應中斷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supply examples of your marketing for the development.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T124922Z" creationid="Judy" creationdate="20151103T124802Z">
+        <seg>情提供開發案的市場行銷的範例，</seg>
       </tuv>
     </tu>
     <tu>
