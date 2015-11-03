@@ -45265,8 +45265,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The above mentioned and other features of the invention, and the manner of attaining them, will become more apparent and the invention itself will be better understood by reference to the following description of embodiments of the invention taken in conjunction with the accompanying drawings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T144800Z" creationid="Judy" creationdate="20151103T144800Z">
-        <seg>本發明之上述和其它功能以及實現方式可參照</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T144956Z" creationid="Judy" creationdate="20151103T144800Z">
+        <seg>本發明之上述和其它功能以及實現方式可參照以下發明實施例的詳細說明與附圖以清楚了解此發明，</seg>
       </tuv>
     </tu>
     <tu>
@@ -49070,6 +49070,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121904Z">
         <seg>熱像儀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These above mentioned and other features of the invention may be used in any combination or permutation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T145110Z" creationid="Judy" creationdate="20151103T144929Z">
+        <seg>本發明之上述和其它功能可能組合或交替使用。</seg>
       </tuv>
     </tu>
     <tu>
