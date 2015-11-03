@@ -16539,8 +16539,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FIG. 1 is a front, perspective view of an exemplary side- by-side vehicle;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T145318Z" creationid="Judy" creationdate="20151103T145318Z">
-        <seg>圖 1 為方向盤式全地形車範例的前視圖；</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T145650Z" creationid="Judy" creationdate="20151103T145318Z">
+        <seg>圖 1 為方向盤式全地形車範例的前透視圖；</seg>
       </tuv>
     </tu>
     <tu>
@@ -16691,8 +16691,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FIG. 2 is a rear, perspective view of an exemplary side-by- side vehicle;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T145329Z" creationid="Judy" creationdate="20151103T145329Z">
-        <seg>圖 1 為方向盤式全地形車範例的後視圖；</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T145654Z" creationid="Judy" creationdate="20151103T145329Z">
+        <seg>圖 1 為方向盤式全地形車範例的後透視圖；</seg>
       </tuv>
     </tu>
     <tu>
@@ -16993,10 +16993,26 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIG. 7 illustrates a front view of the exemplary side-by- side vehicle of FIG. 1; and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T145538Z" creationid="Judy" creationdate="20151103T145538Z">
+        <seg>圖 7 為圖 1 之方向盤式全地形車範例的前視圖；和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIG. 7 shows a left side view of the vehicle similar to that of FIG. 3 showing the chassis removed;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T232823Z" creationid="Judy" creationdate="20151021T232823Z">
         <seg>圖 7 為與圖 3 類似但不包含外殼之車輛左側視圖；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIG. 8 illustrates a back view of the exemplary side-by-side vehicle of FIG. 1;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T145728Z" creationid="Judy" creationdate="20151103T145728Z">
+        <seg>圖 8 為圖 1 之方向盤式全地形車範例的後視圖；</seg>
       </tuv>
     </tu>
     <tu>
@@ -17013,6 +17029,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085154Z" creationid="Judy" creationdate="20151025T085154Z">
         <seg>圖 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIG. 9 illustrates a representative view of a drive train of the exemplary side-by-side vehicle of FIG. 1;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T145733Z" creationid="Judy" creationdate="20151103T145733Z">
+        <seg>圖 5 為圖 1 之方向盤式全地形車範例的上視圖；</seg>
       </tuv>
     </tu>
     <tu>
