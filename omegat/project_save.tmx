@@ -36747,6 +36747,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide details of the location of the development and surrounding points of interest which enhance the project using one or more of the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T121553Z" creationid="Judy" creationdate="20151103T121553Z">
+        <seg>請提供能提高此專案價值的發展地理位置和周邊設施的詳細資訊，利用以下一種或多種媒介：（照片、地圖、設計圖、電腦生成影像）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provided Accessories</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T052209Z">
