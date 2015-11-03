@@ -28242,6 +28242,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List all energy efficiency and eco-friendly measures implemented in this project covering the following headings:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T124132Z" creationid="Judy" creationdate="20151103T124132Z">
+        <seg>列出所有此專案中使用的節能和環保措施：:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List all features which improve the safety, security, accessibility and wellbeing of the occupants.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T123824Z" creationid="Judy" creationdate="20151103T123824Z">
