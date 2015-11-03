@@ -13801,6 +13801,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Describe and provide evidence of the use of innovative technology</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T123953Z" creationid="Judy" creationdate="20151103T123857Z">
+        <seg>說明使用的創新技術和方法，並提出證明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050259Z">
@@ -28230,6 +28238,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063819Z">
         <seg>更多的資訊連結：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List all features which improve the safety, security, accessibility and wellbeing of the occupants.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T123824Z" creationid="Judy" creationdate="20151103T123824Z">
+        <seg>列出所有能增進安全性、保全、無障礙設施和住戶福祉的特點。</seg>
       </tuv>
     </tu>
     <tu>
