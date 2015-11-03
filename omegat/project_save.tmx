@@ -3457,6 +3457,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A first air inlet being positioned proximate the drive member and a second air inlet being positioned proximate the driven member.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T143834Z" creationid="Judy" creationdate="20151103T143834Z">
+        <seg>第一進氣口位置接近驅動元件而第二進氣口位置接近被驅動元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A first clasp 680 is provided at the rearwardmost end of the net 620 (FIG. 24) and as shown best in FIG. 25, includes an aperture 682 and a slot at 684.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T050536Z" creationid="Judy" creationdate="20151024T045638Z">
@@ -8534,6 +8542,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T131243Z" creationid="Judy" creationdate="20151101T131243Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both the first air inlet and the second air inlet being in fluid communication with the air intake system to receive ambient air from the air intake system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T143850Z" creationid="Judy" creationdate="20151103T143850Z">
+        <seg>第一進氣口和第二進氣口皆與空氣進氣系統連接以接收來自空氣進氣系統之空氣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22608,6 +22624,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T121040Z">
         <seg>在大多數國家，是富人和窮人以及有辦法和不能開拓新商機的人們之間有極大的差距，且多數情況中他們之間的差距仍在增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one example, the CVT unit includes a diverter which receives the ambient air from the air intake system and directs a first portion of the ambient air to the first air inlet and a second portion of the ambient air to the second air inlet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T143908Z" creationid="Judy" creationdate="20151103T143908Z">
+        <seg>一個範例中，無段變速單元包括換向的接待環境空氣從空氣進氣系統並引導到第一個進風口空氣的第一部分和第二部分到第二次進風口空氣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44138,10 +44162,27 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The CVT housing including a plurality of air inlets to the interior of the CVT housing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T143820Z" creationid="Judy" creationdate="20151103T143820Z">
+        <seg>無段變速外箱包含多個通入無段變速外箱內部之進氣口，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The CVT unit being operatively coupled between the power source and the at least one of the plurality of ground engaging members.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T134859Z" creationid="Judy" creationdate="20151101T134859Z">
         <seg>無段變速單元連接動力源和多組接觸地面元件中至少一組接觸地面元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The CVT unit comprising a drive member operatively coupled to the power source; a driven member operatively coupled to the at least one ground engaging member; a drive belt operatively coupling the driven member to the drive member; and a CVT housing having an interior containing the drive member, the driven member, and the drive belt.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T143925Z" creationid="Judy" creationdate="20151103T143802Z">
+        <seg>無段變速單元包含連接至動力源之驅動元件；驅動元件連接至少一組接觸地面元件；以傳動皮帶連接被驅動元件與驅動元件；以及內部裝有驅動元件、被驅動元件以及驅動皮帶之無段變速外箱。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -57157,6 +57198,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T132643Z">
         <seg>確保準時交貨至 HUTCHINSON 之特殊運輸費用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the frame; a power source supported by the frame and operatively coupled to at least one of the plurality of ground engaging members to propel the vehicle; an air intake system operatively coupled to the CVT unit to communicate ambient air to an interior of the CVT unit; and a CVT unit supported by the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T143724Z" creationid="Judy" creationdate="20151103T143724Z">
+        <seg>一組以框架支撐之動力源並連接到至少一組接觸地面元件以推動車輛；一組進氣系統連接至無段變速單元以輸送空氣至無段變速單元內部；以及一組以框架支撐之無段變速單元。</seg>
       </tuv>
     </tu>
     <tu>
