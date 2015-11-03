@@ -22321,6 +22321,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a variation thereof, the CVT housing includes a base portion and a cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T144311Z" creationid="Judy" creationdate="20151103T144306Z">
+        <seg>其中一種變形為，無段變速外殼包含底座部分和外蓋，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a variation thereof, the CVT housing includes an air outlet through which air exits the interior of the CVT housing, the air outlet being in fluid communication with a fluid conduit which directs the air at a portion of the power source.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T131822Z" creationid="Judy" creationdate="20151101T131822Z">
@@ -45784,6 +45792,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cover being removably coupled to the base portion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T144410Z" creationid="Judy" creationdate="20151103T144309Z">
+        <seg>外蓋安裝於底座上且可拆卸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cover permitting the ambient air to pass by the cover.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T081905Z" creationid="Judy" creationdate="20151101T081905Z">
@@ -45900,6 +45916,22 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T135431Z" creationid="Judy" creationdate="20151011T135431Z">
         <seg>磁碟管理系統還提供磁碟容量分配系統，其中具有限制使用磁碟容量之選項，所有的攝影幾共用此容量分配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The diverter being associated with the base portion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T144443Z" creationid="Judy" creationdate="20151103T144443Z">
+        <seg>分流器與底座部分相連在一起，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The diverter may be part of the base portion of the CVT housing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T144520Z" creationid="Judy" creationdate="20151103T144520Z">
+        <seg>分流器可能是無段變速外殼底座的一部分。</seg>
       </tuv>
     </tu>
     <tu>
