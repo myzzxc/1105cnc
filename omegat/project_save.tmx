@@ -21752,6 +21752,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have a marketing plan include details of this.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T125517Z" creationid="Judy" creationdate="20151103T125517Z">
+        <seg>如果有行銷計畫也請提供詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have an early version of the shield, and it does not turn on automatically, you can solder a jumper to the CTRL/D7 pad on the reverse side of the board, and it will turn on when an attached Arduino receives power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142539Z">
@@ -23302,8 +23310,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Include samples from brochures, adverts, published PR and web sites.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T125323Z" creationid="Judy" creationdate="20151103T124902Z">
-        <seg>請包括宣傳手冊、廣告、新聞稿和網站的樣本。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T125520Z" creationid="Judy" creationdate="20151103T124902Z">
+        <seg>請包括宣傳手冊、廣告、新聞稿和網站的樣本，</seg>
       </tuv>
     </tu>
     <tu>
