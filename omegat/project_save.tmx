@@ -35239,6 +35239,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please state if there were any planning restrictions imposed upon the construction and briefly state any solutions used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T122221Z" creationid="Judy" creationdate="20151103T122213Z">
+        <seg>請說明是否有任何建築規劃的限制並簡要說明解決方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please take a few minutes to complete and return this form by email no later than 1 week  prior to installation .</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093137Z">
@@ -40913,6 +40921,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show how this project relates to its surroundings and neighbourhood.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T122319Z" creationid="Judy" creationdate="20151103T122319Z">
+        <seg>展示此專案與周圍環境和鄰里的關係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show only Install Welcome, License Agreement and Ready To Install dialogs on Setup Wizard</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051222Z">
@@ -41125,8 +41141,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Site layout: demonstrate the placement of units with a full site layout</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T122015Z" creationid="Judy" creationdate="20151103T122015Z">
-        <seg>設計圖：以完整設計圖說明建築單位配置，請涵蓋單位的數量和坪數詳細資訊。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T122039Z" creationid="Judy" creationdate="20151103T122015Z">
+        <seg>設計圖：以完整設計圖說明建築單位配置，請涵蓋單位的數量和尺寸詳細資訊。</seg>
       </tuv>
     </tu>
     <tu>
