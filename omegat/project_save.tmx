@@ -1636,6 +1636,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.Detail any notable points of architectural interest which may be considered to be innovative, practical and/or useful which add to the style and uniqueness of the architecture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T122857Z" creationid="Judy" creationdate="20151103T122857Z">
+        <seg>1. 詳細說明能增加建築的風格和獨特性的創新、實務或實用性的特點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10 and 11.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T114839Z" creationid="Judy" creationdate="20151023T114839Z">
@@ -8893,8 +8901,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>C Appearance &amp; finish</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T122535Z" creationid="Judy" creationdate="20151103T122535Z">
-        <seg>C 外觀和外牆</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T123033Z" creationid="Judy" creationdate="20151103T122535Z">
+        <seg>C 外觀和裝潢</seg>
       </tuv>
     </tu>
     <tu>
@@ -40101,6 +40109,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T151949Z">
         <seg>選擇語言，依所需選擇勾選 Nuance Cloud Connector 和 Nuance text to speech extension module 方塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select one unit to detail the interior design, layout, finishes and any options available for customers to select – indicate if additional payment is required for certain finishes and fitments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T123025Z" creationid="Judy" creationdate="20151103T123025Z">
+        <seg>選擇一個單位詳細介紹其室內設計、佈局、裝潢和任何裝飾和為客戶選擇 — — 表明額外付款是否需要為某些裝飾和裝修的任何可用的選項。</seg>
       </tuv>
     </tu>
     <tu>
