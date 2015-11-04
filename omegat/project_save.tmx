@@ -13391,6 +13391,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DETAILED DESCRIPTION OF THE DRAWINGS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151104T130624Z" creationid="Judy" creationdate="20151104T130600Z">
+        <seg>圖示詳細說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DETAILED DESIGN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033621Z">
@@ -46394,8 +46402,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The embodiments disclosed below are not intended to be exhaustive or to limit the invention to the precise forms disclosed in the following detailed description.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T114017Z" creationid="Judy" creationdate="20151022T114012Z">
-        <seg>以下揭露之實施例並詳非盡無遺或限制本發明於以下詳細說明之確切形式，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151104T130654Z" creationid="Judy" creationdate="20151022T114012Z">
+        <seg>以下揭露之實施例並非詳盡無遺或限制本發明於以下詳細說明之確切形式，</seg>
       </tuv>
     </tu>
     <tu>
@@ -52203,6 +52211,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T235903Z">
         <seg>除非另有說明，在專案開發、更新或更換供應商階段之設備，為 HUTCHINSON 客戶之財產，若 HUTCHINSON 自身向供應商下訂單時，產權便屬於 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless stated otherwise the drawings are proportional.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151104T130555Z" creationid="Judy" creationdate="20151104T130555Z">
+        <seg>除非另有說明，附圖皆為等比例縮放。</seg>
       </tuv>
     </tu>
     <tu>
