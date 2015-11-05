@@ -5379,8 +5379,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Airborne concentrations of dip tank chemicals are controlled to ensure worker exposures are below the associated permissible exposure limit (PEL).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T233004Z" creationid="Judy" creationdate="20151105T233004Z">
-        <seg>液體曹化學物質懸浮濃度受到控制，以確保勞工所暴露之懸浮濃度低於允許相關暴露值上限 (PEL)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234017Z" creationid="Judy" creationdate="20151105T233004Z">
+        <seg>浸漬槽化學物質懸浮濃度受到控制，以確保勞工所暴露之懸浮濃度低於允許相關暴露值上限 (PEL)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6245,8 +6245,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>An emergency shower and eyewash station is located near dipping and coating operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T233923Z" creationid="Judy" creationdate="20151105T233923Z">
-        <seg>緊急淋浴和洗眼器之位置鄰近浸漬及鍍膜操作。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234047Z" creationid="Judy" creationdate="20151105T233923Z">
+        <seg>緊急淋浴和洗眼器之位置鄰近浸漬及鍍膜操作地點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16548,6 +16548,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072904Z">
         <seg>同時匯出攝影機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure hazards of dip tank chemicals have been identified and measured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234123Z" creationid="Judy" creationdate="20151105T234123Z">
+        <seg>已經確定暴露於浸漬槽化學物質之危害並已量測暴露值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40003,6 +40011,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safety Data Sheets (SDS) are up-to-date, accurate, freely accessible and available in local language for review workers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234231Z" creationid="Judy" creationdate="20151105T234231Z">
+        <seg>安全資料表 (SDS) 為最新、正確、隨時可得且使用勞工當地語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sales</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100021Z">
@@ -55704,8 +55720,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Workers handling pieces wet with dip tank liquids are wearing chemical resistant gloves and aprons.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T233453Z" creationid="Judy" creationdate="20151105T232937Z">
-        <seg>勞工於液體槽處理工件時穿戴抗化學腐蝕手套和圍裙。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234007Z" creationid="Judy" creationdate="20151105T232937Z">
+        <seg>勞工於浸漬槽處理工件時穿戴抗化學腐蝕手套和圍裙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55728,8 +55744,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Workers potentially exposed to splashed dip tank liquid are wearing a face shield and safety goggles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T232821Z" creationid="Judy" creationdate="20151105T232821Z">
-        <seg>勞工暴露於可能噴濺之液體槽時配戴面罩和安全護目鏡。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234002Z" creationid="Judy" creationdate="20151105T232821Z">
+        <seg>勞工暴露於可能噴濺之浸漬槽時配戴面罩和安全護目鏡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55744,8 +55760,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Workers working in areas where the floor is wet with dip tank liquids are wearing chemical resistant and slip free boots.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T233534Z" creationid="Judy" creationdate="20151105T233445Z">
-        <seg>勞工之工作區域地板潮濕帶有液體槽之液體時穿戴抗化學腐蝕以及防滑工作靴。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234023Z" creationid="Judy" creationdate="20151105T233445Z">
+        <seg>勞工之工作區域地板潮濕帶有浸漬槽之液體時穿戴抗化學腐蝕以及防滑工作靴。</seg>
       </tuv>
     </tu>
     <tu>
