@@ -18254,6 +18254,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First-aid supplies are provided for treating cuts, burns, exposure to corrosive chemicals such as acids, and epoxy resins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T135628Z" creationid="Judy" creationdate="20151105T135628Z">
+        <seg>提供急救箱以處理割傷、燙傷、接觸腐蝕性化學物質如強酸和環氧樹脂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FirstItems: These are the first products of a new supply performed using serial means and/or means representing the serial conditions intended for qualification trials for their acceptance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T002101Z">
