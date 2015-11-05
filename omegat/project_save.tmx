@@ -55744,8 +55744,16 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Workers handling pieces wet with dip tank liquids are wearing chemical resistant gloves and aprons.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234007Z" creationid="Judy" creationdate="20151105T232937Z">
-        <seg>勞工於浸漬槽處理工件時穿戴抗化學腐蝕手套和圍裙。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235340Z" creationid="Judy" creationdate="20151105T232937Z">
+        <seg>勞工處理帶有浸漬槽液體之工件時穿戴抗化學腐蝕手套和圍裙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workers handling pieces wet with quench tank liquids are wearing chemical resistant gloves and aprons.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235310Z" creationid="Judy" creationdate="20151105T235310Z">
+        <seg>勞工處理帶有淬火槽液體之工件時穿戴抗化學腐蝕手套和圍裙。</seg>
       </tuv>
     </tu>
     <tu>
