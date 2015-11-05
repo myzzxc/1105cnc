@@ -11886,6 +11886,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compressed gas tanks are properly labeled, stored upright and secured to a fixed surface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T144226Z" creationid="Judy" creationdate="20151105T144226Z">
+        <seg>壓縮氣瓶皆有適當的標識、直立儲存且固定於不會移動之表面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compromise 1: Adobe</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T065608Z">
@@ -54557,6 +54565,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T052919Z">
         <seg>移動熱交換器時，所有的吊掛點應位於外殼部分，以避免損壞 IMPERVITE® 之零件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When not in use, the gas valves are closed and the protective cap is securely fitted on the tank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T144354Z" creationid="Judy" creationdate="20151105T144354Z">
+        <seg>未使用時關閉氣閥且將防護帽確實裝於氣瓶上。</seg>
       </tuv>
     </tu>
     <tu>
