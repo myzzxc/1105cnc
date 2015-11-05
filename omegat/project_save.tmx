@@ -53841,6 +53841,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warning signs are installed indicating presence of hot surfaces.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235853Z" creationid="Judy" creationdate="20151105T235853Z">
+        <seg>高溫表面設有警告標誌指示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Was hydrostatic test performed?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014743Z">
@@ -55742,6 +55750,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Workers handling hot frames or racking systems are wearing heat-resistant gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235703Z" creationid="Judy" creationdate="20151105T235703Z">
+        <seg>勞工處理高溫框架或貨架系統時穿戴耐熱手套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Workers handling pieces wet with dip tank liquids are wearing chemical resistant gloves and aprons.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235340Z" creationid="Judy" creationdate="20151105T232937Z">
@@ -55802,6 +55818,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234023Z" creationid="Judy" creationdate="20151105T233445Z">
         <seg>勞工之工作區域地板潮濕帶有浸漬槽之液體時穿戴抗化學腐蝕以及防滑工作靴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workers working in areas where the floor is wet with quench tank liquids are wearing chemical resistant and slip free boots.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235726Z" creationid="Judy" creationdate="20151105T235726Z">
+        <seg>勞工之工作區域地板潮濕帶有淬火槽之液體時穿戴抗化學腐蝕以及防滑工作靴。</seg>
       </tuv>
     </tu>
     <tu>
