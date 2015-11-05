@@ -5497,10 +5497,26 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All electrical connections, cords, and cables are enclosed or insulated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134857Z" creationid="Judy" creationdate="20151105T134857Z">
+        <seg>所有電氣連接、電線和電纜皆有包覆或絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All events generated in the video analysis modules can be searched via records with the opportunity to seek your footage on NVR system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071934Z">
         <seg>當需要找尋使用者存放在 NVR 系統中的影像時，都能透過搜尋紀錄的功能來尋找影像分析模組所產生的所有事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All machines have a working emergency stop device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134802Z" creationid="Judy" creationdate="20151105T134802Z">
+        <seg>所有機器都設有運作正常的緊急停止裝置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5589,6 +5605,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083212Z">
         <seg>所有其它商標為其個別擁有者之財產。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All points of machine danger have guards in place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134732Z" creationid="Judy" creationdate="20151105T134732Z">
+        <seg>機器所有的危險處皆有防護。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37522,6 +37546,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T132026Z" creationid="Judy" creationdate="20151105T131953Z">
         <seg>快速檢查項目——勞工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Check Item – Work Area</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134545Z" creationid="Judy" creationdate="20151105T134545Z">
+        <seg>快速檢查項目——工作區域</seg>
       </tuv>
     </tu>
     <tu>
