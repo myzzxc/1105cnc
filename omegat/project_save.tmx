@@ -5513,6 +5513,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All electrical installations are properly connected to eliminate risk of electric shock.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143856Z" creationid="Judy" creationdate="20151105T143856Z">
+        <seg>所有電氣設備皆正確連接以消除觸電危險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All events generated in the video analysis modules can be searched via records with the opportunity to seek your footage on NVR system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T071934Z">
@@ -5734,6 +5742,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T144034Z">
         <seg>所有雙主軸組態標準配備皆包含額外壓力腳和 T 形支架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All ventilation and control equipment is inspected regularly and adequately maintained to ensure it is working properly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T144059Z" creationid="Judy" creationdate="20151105T144059Z">
+        <seg>所有通風和控制設備皆定期且正確保養，以確保設備可以正常運作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16504,6 +16520,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure hazards of welding fumes and metals have been identified and measured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143952Z" creationid="Judy" creationdate="20151105T143952Z">
+        <seg>已經確定暴露於銲接煙霧和金屬之危害並已量測暴露值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extend the Office App-V Package</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145339Z">
@@ -19931,6 +19955,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124443Z">
         <seg>接地針腳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grounding cables are securely fastened.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143817Z" creationid="Judy" creationdate="20151105T143817Z">
+        <seg>接地線已確實固定。</seg>
       </tuv>
     </tu>
     <tu>
