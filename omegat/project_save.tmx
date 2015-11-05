@@ -54555,8 +54555,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Where airborne dust occurs ABOVE the associated permissible exposure limit (PEL), workers are wearing new dust masks (Particulate Respirators) at the beginning of the shift and the dust masks fit tight to the face.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T133302Z" creationid="Judy" creationdate="20151105T133302Z">
-        <seg>空氣中粉塵發生關聯允許接觸限值 (PEL) 以上的工人都穿著新防塵口罩 (微粒口罩) 在轉變的開始和防塵口罩緊在臉上。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T133721Z" creationid="Judy" creationdate="20151105T133302Z">
+        <seg>當空氣中粉塵超過上述暴露值上限 (PEL) 時，勞工於工作開始時配戴全新防塵口罩 (微粒過濾面罩) 且防塵口罩緊貼於臉部。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54589,6 +54589,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T233716Z">
         <seg>沒有適合內部候選人的職缺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where workers are potentially exposed to metal working fluids ABOVE the associated permissible exposure limit (PEL), workers are wearing a Chemical Cartridge/Gas Mask Respirator that fits tight to the face and uses a new cartridge filter at the beginning of the shift.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T133747Z" creationid="Judy" creationdate="20151105T133747Z">
+        <seg>當空氣中粉塵超過上述暴露值上限 (PEL) 時，勞工於工作開始時配戴全新防塵口罩 (微粒過濾面罩) 且防塵口罩緊貼於臉部。</seg>
       </tuv>
     </tu>
     <tu>
