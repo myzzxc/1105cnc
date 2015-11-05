@@ -5521,6 +5521,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All machines are securely anchored.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T141736Z" creationid="Judy" creationdate="20151105T141736Z">
+        <seg>所有機器都已固定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All machines have a working emergency stop device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134802Z" creationid="Judy" creationdate="20151105T134802Z">
@@ -16476,6 +16484,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072904Z">
         <seg>同時匯出攝影機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure hazards of metal working fluids (MWF) have been identified and measured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T141718Z" creationid="Judy" creationdate="20151105T141559Z">
+        <seg>已經確定暴露於金屬加工液 (MWF) 之危害並已測量暴露值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31558,6 +31574,14 @@ without the documented approval of the appropriate Quality Control personnel.
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T050014Z">
         <seg>用於 Dragon Notes 之抗噪耳機麥克風（未包含）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Noisy areas have been identified and noise levels measured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T141657Z" creationid="Judy" creationdate="20151105T141657Z">
+        <seg>已經確定高噪音的區域並已測量噪音量。</seg>
       </tuv>
     </tu>
     <tu>
