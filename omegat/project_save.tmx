@@ -5377,6 +5377,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Airborne concentrations of dust and MWF are controlled to ensure worker exposures are below the associated permissible exposure limit (PEL).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T133339Z" creationid="Judy" creationdate="20151105T133255Z">
+        <seg>粉塵和金屬加工液 (MWF) 懸浮濃度受到控制，以確保勞工接觸之懸浮濃度低於允許之相關暴露值上限 (PEL)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm Systems;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T132757Z">
@@ -54541,6 +54549,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152330Z">
         <seg>當進行縮放時，可能會造成失焦，因而使物體的匹配變得困難。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where airborne dust occurs ABOVE the associated permissible exposure limit (PEL), workers are wearing new dust masks (Particulate Respirators) at the beginning of the shift and the dust masks fit tight to the face.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T133302Z" creationid="Judy" creationdate="20151105T133302Z">
+        <seg>空氣中粉塵發生關聯允許接觸限值 (PEL) 以上的工人都穿著新防塵口罩 (微粒口罩) 在轉變的開始和防塵口罩緊在臉上。</seg>
       </tuv>
     </tu>
     <tu>
