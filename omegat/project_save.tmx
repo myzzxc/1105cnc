@@ -29218,6 +29218,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>METALWORKNG QUICKLIST: Welding &amp; Brazing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T142016Z" creationid="Judy" creationdate="20151105T142016Z">
+        <seg>金屬加工檢查清單：銲接和硬銲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MFD Process Flow: Incorporates all Internal and External Voices with Modular Function Deployment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120833Z">
