@@ -21680,6 +21680,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If noise levels require, workers are provided hearing protection and are wearing it properly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134535Z" creationid="Judy" creationdate="20151105T134452Z">
+        <seg>若噪音量過大，勞工應配有耳罩並正確穿戴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If pressure continues to drop slowly, check test fixtures and test gaskets for leaks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065052Z">
@@ -55432,8 +55440,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Workers potentially exposed to contact with metal working fluids are wearing chemical resistant gloves.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134056Z" creationid="Judy" creationdate="20151105T134056Z">
-        <seg>工人可能暴露于金屬加工液與聯繫都戴著防化學品手套。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134258Z" creationid="Judy" creationdate="20151105T134056Z">
+        <seg>勞工可能接觸金屬加工液時配戴抗化學腐蝕手套。</seg>
       </tuv>
     </tu>
     <tu>
