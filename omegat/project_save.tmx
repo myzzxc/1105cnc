@@ -5377,6 +5377,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Airborne concentrations of dip tank chemicals are controlled to ensure worker exposures are below the associated permissible exposure limit (PEL).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T233004Z" creationid="Judy" creationdate="20151105T233004Z">
+        <seg>液體曹化學物質懸浮濃度受到控制，以確保勞工所暴露之懸浮濃度低於允許相關暴露值上限 (PEL)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Airborne concentrations of dust and MWF are controlled to ensure worker exposures are below the associated permissible exposure limit (PEL).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143358Z" creationid="Judy" creationdate="20151105T133255Z">
@@ -55670,6 +55678,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Workers handling pieces wet with dip tank liquids are wearing chemical resistant gloves and aprons.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T232937Z" creationid="Judy" creationdate="20151105T232937Z">
+        <seg>勞工於液體槽處理工件時配戴抗化學腐蝕手套和圍裙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Workers potentially exposed to contact with metal working fluids are wearing chemical resistant gloves.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134258Z" creationid="Judy" creationdate="20151105T134056Z">
@@ -55682,6 +55698,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T132439Z" creationid="Judy" creationdate="20151105T132005Z">
         <seg>勞工暴露於金屬、研磨碎片或其他金屬碎片可能飛濺的環境中應配戴具有側面防護之安全眼鏡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workers potentially exposed to splashed dip tank liquid are wearing a face shield and safety goggles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T232821Z" creationid="Judy" creationdate="20151105T232821Z">
+        <seg>勞工暴露於可能噴濺之液體槽時配戴面罩和安全護目鏡。</seg>
       </tuv>
     </tu>
     <tu>
