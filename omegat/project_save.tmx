@@ -55582,6 +55582,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Workers use protective face shields or goggles fitted with filtering lenses to eliminate UV flash exposure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T142759Z" creationid="Judy" creationdate="20151105T142759Z">
+        <seg>勞工人使用裝有過濾鏡片之防護面罩或護目鏡來消除紫外線閃光的暴露量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Workflows</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055310Z">
