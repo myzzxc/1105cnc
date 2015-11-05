@@ -6243,6 +6243,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An emergency shower and eyewash station is located near dipping and coating operations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T233923Z" creationid="Judy" creationdate="20151105T233923Z">
+        <seg>緊急淋浴和洗眼器之位置鄰近浸漬及鍍膜操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An engineer may specify an interface with the help of the function it performs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144648Z">
@@ -28247,6 +28255,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154809Z">
         <seg>總價服務，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Labels are in the language of the employees, readable and in good condition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T233720Z" creationid="Judy" creationdate="20151105T233720Z">
+        <seg>標籤語言為員工使用之語言且清晰可讀。</seg>
       </tuv>
     </tu>
     <tu>
