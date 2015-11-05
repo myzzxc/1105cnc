@@ -5379,8 +5379,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Airborne concentrations of dust and MWF are controlled to ensure worker exposures are below the associated permissible exposure limit (PEL).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T133339Z" creationid="Judy" creationdate="20151105T133255Z">
-        <seg>粉塵和金屬加工液 (MWF) 懸浮濃度受到控制，以確保勞工接觸之懸浮濃度低於允許之相關暴露值上限 (PEL)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134141Z" creationid="Judy" creationdate="20151105T133255Z">
+        <seg>粉塵和金屬加工液 (MWF) 懸浮濃度受到控制，以確保勞工暴露之懸浮濃度低於允許之相關暴露值上限 (PEL)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54595,8 +54595,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Where workers are potentially exposed to metal working fluids ABOVE the associated permissible exposure limit (PEL), workers are wearing a Chemical Cartridge/Gas Mask Respirator that fits tight to the face and uses a new cartridge filter at the beginning of the shift.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T133747Z" creationid="Judy" creationdate="20151105T133747Z">
-        <seg>當空氣中粉塵超過上述暴露值上限 (PEL) 時，勞工於工作開始時配戴全新防塵口罩 (微粒過濾面罩) 且防塵口罩緊貼於臉部。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134115Z" creationid="Judy" creationdate="20151105T133747Z">
+        <seg>當勞工可能暴露於超過上述暴露值上限 (PEL) 之金屬加工液時，勞工於工作開始時配戴緊貼於臉部之防毒面罩並使用全新濾毒罐。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55426,6 +55426,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122114Z">
         <seg>若外派員工之個人資訊或資料變更時，Workday 會通知全球行動夥伴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workers potentially exposed to contact with metal working fluids are wearing chemical resistant gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134056Z" creationid="Judy" creationdate="20151105T134056Z">
+        <seg>工人可能暴露于金屬加工液與聯繫都戴著防化學品手套。</seg>
       </tuv>
     </tu>
     <tu>
