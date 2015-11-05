@@ -5387,8 +5387,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Airborne concentrations of welding fumes and metals are controlled to ensure worker exposures are below the associated Occupational Exposure Limit (OEL).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143351Z" creationid="Judy" creationdate="20151105T143250Z">
-        <seg>銲接煙霧懸浮濃度受到控制，以確保勞工所暴露之懸浮濃度低於職業相關暴露值上限 (PEL)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143429Z" creationid="Judy" creationdate="20151105T143250Z">
+        <seg>銲接煙霧懸浮濃度受到控制，以確保勞工所暴露之懸浮濃度低於職業相關暴露值上限 (OEL)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19350,6 +19350,14 @@ Record, watch and share high quality video in native Full HD resolution.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025831Z">
         <seg>全頻評估 (EPC)：於特定期間內，評估供應商的產能達到學習階段所定義之工業績效目標（品質、 能力等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fume extraction units and/or local ventilation is provided and is capable of sufficiently removing fumes and gases from the welders breathing zone.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143554Z" creationid="Judy" creationdate="20151105T143554Z">
+        <seg>提供排煙裝置或局部通風且能充分去除焊工呼吸區域的煙霧和氣體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49386,6 +49394,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The work area is “fire-safe” and kept clear and free of flammable materials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143657Z" creationid="Judy" creationdate="20151105T143657Z">
+        <seg>工作區為「消防安全」並保持清潔且無堆放易燃材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The world's slum population, which is expected to reach nearly 900 million by 2020, is also more vulnerable to the impacts of extreme weather events.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T154901Z">
@@ -54165,6 +54181,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143104Z" creationid="Judy" creationdate="20151105T143104Z">
         <seg>使用銲接簾以防止火花濺射到臨近的工作站並消減鄰近勞工的紫外線閃光暴露量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welding units are properly installed &amp; grounded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143727Z" creationid="Judy" creationdate="20151105T143727Z">
+        <seg>銲接設備正確安裝且接地。</seg>
       </tuv>
     </tu>
     <tu>
