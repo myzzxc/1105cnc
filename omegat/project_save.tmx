@@ -20071,6 +20071,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HEAT TREATING QUICKLIST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234634Z" creationid="Judy" creationdate="20151105T234634Z">
+        <seg>熱處理檢查清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HELICAL RACK  [up to 3.7m long ( eg.4012)]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141701Z">
@@ -55760,8 +55768,16 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Workers potentially exposed to splashed dip tank liquid are wearing a face shield and safety goggles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234002Z" creationid="Judy" creationdate="20151105T232821Z">
-        <seg>勞工暴露於可能噴濺之浸漬槽時配戴面罩和安全護目鏡。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235156Z" creationid="Judy" creationdate="20151105T232821Z">
+        <seg>勞工暴露於浸漬槽可能噴濺之液體時配戴面罩和安全護目鏡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workers potentially exposed to splashed quench tank liquid are wearing a face shield and safety goggles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235147Z" creationid="Judy" creationdate="20151105T235053Z">
+        <seg>勞工暴露於淬火槽可能噴濺之液體時配戴面罩和安全護目鏡。</seg>
       </tuv>
     </tu>
     <tu>
