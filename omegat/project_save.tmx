@@ -12799,6 +12799,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cranes and hoists have a main electrical disconnect switch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234623Z" creationid="Judy" creationdate="20151105T234623Z">
+        <seg>起重機和吊車具有一個切斷主電氣之開關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150909T160747Z">
@@ -38202,6 +38210,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T131845Z">
         <seg>錄影：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Records indicate all new, reinstalled, altered, repaired, and modified cranes/hoists have been load tested prior to initial use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234545Z" creationid="Judy" creationdate="20151105T234545Z">
+        <seg>具有所有全新、重新安裝、更換、維修以及改裝的起重機/吊車於首次使用前已進行負載測試之記錄。</seg>
       </tuv>
     </tu>
     <tu>
