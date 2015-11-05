@@ -5505,6 +5505,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All chemicals containers have labels that indicate the chemical name and hazards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T233612Z" creationid="Judy" creationdate="20151105T233612Z">
+        <seg>所有化學物質容器都具有標籤，標明化學名稱和危害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All critical data is captured in PALMA™, linking your company’s strategy to our methods in a single program.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080747Z">
@@ -55680,8 +55688,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Workers handling pieces wet with dip tank liquids are wearing chemical resistant gloves and aprons.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T232937Z" creationid="Judy" creationdate="20151105T232937Z">
-        <seg>勞工於液體槽處理工件時配戴抗化學腐蝕手套和圍裙。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T233453Z" creationid="Judy" creationdate="20151105T232937Z">
+        <seg>勞工於液體槽處理工件時穿戴抗化學腐蝕手套和圍裙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55714,6 +55722,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T142759Z" creationid="Judy" creationdate="20151105T142759Z">
         <seg>勞工人使用裝有過濾鏡片之防護面罩或護目鏡來消除紫外線閃光的暴露量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workers working in areas where the floor is wet with dip tank liquids are wearing chemical resistant and slip free boots.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T233534Z" creationid="Judy" creationdate="20151105T233445Z">
+        <seg>勞工之工作區域地板潮濕帶有液體槽之液體時穿戴抗化學腐蝕以及防滑工作靴。</seg>
       </tuv>
     </tu>
     <tu>
