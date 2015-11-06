@@ -2924,6 +2924,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>55340.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T132524Z" creationid="Judy" creationdate="20151106T132524Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5GB or Higher</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T093339Z">
@@ -6971,6 +6979,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T111701Z">
         <seg>如說明，框架 80 是由主框架元件 90 和前框架元件 82 組成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As mentioned herein one or more of ground engaging members 102 are operatively coupled to a power source 130 (see FIG. 9) to power the movement of vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T132808Z" creationid="Judy" creationdate="20151106T132808Z">
+        <seg>此處所述之一組或多組接觸地面元件 102 與動力源 130 連接 (見圖 9) 以驅動車輛 100。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23374,8 +23390,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In one embodiment, one or more of the wheels may be replaced with tracks, such as the Prospector II Tracks available from Polaris Industries, Inc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T132504Z" creationid="Judy" creationdate="20151106T132408Z">
-        <seg>其中一個實施例中，一組或多組車輪可能由履帶替換，如位於明尼蘇達州 2100 Highway 55 in Medina 之北極星業股份有限公司所供應之 Prospector II Tracks</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T132629Z" creationid="Judy" creationdate="20151106T132408Z">
+        <seg>其中一個實施例中，一組或多組車輪可能由履帶替換，如位於 55340 明尼蘇達州 Medina, 2100 Highway 55 之北極星業股份有限公司所供應之 Prospector II Tracks</seg>
       </tuv>
     </tu>
     <tu>
