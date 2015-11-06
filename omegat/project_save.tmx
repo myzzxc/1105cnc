@@ -23430,16 +23430,16 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In one embodiment, both front suspensions 114 andrear suspensions 116 provide about 14 inches of suspension travel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T134705Z" creationid="Judy" creationdate="20151106T134628Z">
-        <seg>其中一個實施例中，前懸吊 114 和後懸吊 116 之最大懸吊行程約為 14 英吋。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T134750Z" creationid="Judy" creationdate="20151106T134628Z">
+        <seg>其中一個實施例中，前懸吊 114 和後懸吊 116 之懸吊行程約為 14 英吋。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In one embodiment, both front suspensions 114 andrear suspensions 116 provide up to about 14 inches of suspension travel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T134634Z" creationid="Judy" creationdate="20151106T134634Z">
-        <seg>其中一個實施例中，前懸吊 114 和後懸吊 116 之懸吊行程為大約 14 英吋。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T134808Z" creationid="Judy" creationdate="20151106T134634Z">
+        <seg>其中一個實施例中，前懸吊 114 和後懸吊 116 之懸吊最大行程為大約 14 英吋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36912,6 +36912,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power source 130 receives fuel from a fuel source 132 and ambient air from an air intake system 134.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T135106Z" creationid="Judy" creationdate="20151106T135106Z">
+        <seg>動力源 130 接受來自燃料源 132 之燃料和來自空氣進氣系統 134 之空氣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082850Z">
@@ -38722,6 +38730,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T133908Z" creationid="Judy" creationdate="20151106T133908Z">
         <seg>參照圖 6，前軸 108 之車輪 104 透過前獨立懸吊 114 安裝於車輛 100 的框架 112 上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Referring to FIG. 9, an internal combustion power source 130 is represented.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T135108Z" creationid="Judy" creationdate="20151106T135012Z">
+        <seg>參照圖 9 以內燃機動力源 130 為代表。</seg>
       </tuv>
     </tu>
     <tu>
