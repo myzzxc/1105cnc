@@ -16568,6 +16568,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exemplary power sources include internal combustion engines and electric motors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T132910Z" creationid="Judy" creationdate="20151106T132910Z">
+        <seg>動力源範例包含內燃機和電動馬達，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Existing assessments of water resources are often inadequate for addressing modern water demands.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T131115Z">
@@ -23832,6 +23840,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T234746Z">
         <seg>圖 7 實施例說明中，此距離為 D9。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the illustrated embodiment, the power source 130 is an internal combustion engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T133016Z" creationid="Judy" creationdate="20151106T133016Z">
+        <seg>實施例圖示中，動力源 130 為一組內燃機。</seg>
       </tuv>
     </tu>
     <tu>
