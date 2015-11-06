@@ -3762,6 +3762,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A second output shaft 152 of shiftable transmission 144 is coupled to a front drive unit 154.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T140302Z" creationid="Judy" creationdate="20151106T140302Z">
+        <seg>變速箱 144 之第二輸出傳動軸 152 連接至前驅動單元 154，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A second set of wheels, one on each side of vehicle 100, generally correspond to a rear axle 110.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T133307Z" creationid="Judy" creationdate="20151106T133307Z">
@@ -19500,6 +19508,22 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082934Z">
         <seg>前方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front drive unit 154 is coupled to corresponding wheels 104 through half shafts 156.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T140318Z" creationid="Judy" creationdate="20151106T140318Z">
+        <seg>後輪驅動單元 154 透過半軸 156 連接至對應之車輪 104 ，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front drive unit 154 may be a differential.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T140338Z" creationid="Judy" creationdate="20151106T140338Z">
+        <seg>後輪驅動單元 154 可為差速器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38402,6 +38426,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T140042Z" creationid="Judy" creationdate="20151106T140042Z">
         <seg>後輪驅動單元 148 透過半軸 150 連接至對應之車輪 104 ，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rear drive unit 148 may be a differential.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T140225Z" creationid="Judy" creationdate="20151106T140225Z">
+        <seg>後輪驅動單元 148 可為差速器。</seg>
       </tuv>
     </tu>
     <tu>
