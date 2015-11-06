@@ -3746,6 +3746,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A second set of wheels, one on each side of vehicle 100, generally correspond to a rear axle 110.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T133307Z" creationid="Judy" creationdate="20151106T133307Z">
+        <seg>第二組車輪分別位於車輛 100 兩側，一般對應於後軸 110。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A security certification like OHSAS 18001 is appreciated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T115527Z">
@@ -38642,6 +38650,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T131628Z" creationid="Judy" creationdate="20151106T131624Z">
         <seg>參照圖 1 所示之車輛 100 的實施例，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Referring to the illustrated embodiment in FIG. 1, a first set of wheels, one on each side of vehicle 100, generally correspond to a front axle 108.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T133244Z" creationid="Judy" creationdate="20151106T133244Z">
+        <seg>參照圖 1 實施例，第一組車輪分別位於車輛 100 兩側，一般對應於前軸 108。</seg>
       </tuv>
     </tu>
     <tu>
