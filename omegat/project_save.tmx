@@ -5401,6 +5401,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Airborne concentrations of epoxy resin components are controlled to ensure worker exposures are below the associated permissible exposure limit (PEL).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T120726Z" creationid="Judy" creationdate="20151106T120726Z">
+        <seg>環氧樹脂懸浮濃度受到控制，以確保勞工所暴露之懸浮濃度低於允許相關暴露值上限 (PEL)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Airborne concentrations of welding fumes and metals are controlled to ensure worker exposures are below the associated Occupational Exposure Limit (OEL).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143429Z" creationid="Judy" creationdate="20151105T143250Z">
@@ -55858,6 +55866,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235147Z" creationid="Judy" creationdate="20151105T235053Z">
         <seg>勞工暴露於淬火槽可能噴濺之液體時配戴面罩和安全護目鏡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workers potentially exposed to uncured resins are wearing safety goggles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T120909Z" creationid="Judy" creationdate="20151106T120909Z">
+        <seg>勞工可能暴露於未乾燥硬化之樹脂時配戴安全護目鏡。</seg>
       </tuv>
     </tu>
     <tu>
