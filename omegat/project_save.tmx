@@ -5377,6 +5377,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Airborne concentrations of carbon dust are controlled to ensure worker exposures are below the associated permissible exposure limit (PEL).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T120518Z" creationid="Judy" creationdate="20151106T120518Z">
+        <seg>碳塵懸浮濃度受到控制，以確保勞工所暴露之懸浮濃度低於允許相關暴露值上限 (PEL)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Airborne concentrations of dip tank chemicals are controlled to ensure worker exposures are below the associated permissible exposure limit (PEL).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234017Z" creationid="Judy" creationdate="20151105T233004Z">
@@ -54908,6 +54916,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
         <seg>Where airborne dust occurs ABOVE the associated permissible exposure limit (PEL), workers are wearing new dust masks (Particulate Respirators) at the beginning of the shift and the dust masks fit tight to the face.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T133721Z" creationid="Judy" creationdate="20151105T133302Z">
+        <seg>當空氣中粉塵超過上述暴露值上限 (PEL) 時，勞工於工作開始時配戴全新防塵口罩 (微粒過濾面罩) 且防塵口罩緊貼於臉部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where airborne dust occurs ABOVE the associated permissible exposure limit (PEL), workers are wearing new dust masks (particulate respirators) at the beginning of the shift and the dust masks fit tight to the face.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T120546Z" creationid="Judy" creationdate="20151106T120546Z">
         <seg>當空氣中粉塵超過上述暴露值上限 (PEL) 時，勞工於工作開始時配戴全新防塵口罩 (微粒過濾面罩) 且防塵口罩緊貼於臉部。</seg>
       </tuv>
     </tu>
