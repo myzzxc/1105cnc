@@ -5529,6 +5529,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All containers are sealed when not in use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121214Z" creationid="Judy" creationdate="20151106T121214Z">
+        <seg>所有容器未使用時皆密封。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All critical data is captured in PALMA™, linking your company’s strategy to our methods in a single program.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T080747Z">
@@ -6263,6 +6271,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234047Z" creationid="Judy" creationdate="20151105T233923Z">
         <seg>緊急淋浴和洗眼器之位置鄰近浸漬及鍍膜操作地點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An emergency shower and eyewash station located near cutting and epoxy application operations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121304Z" creationid="Judy" creationdate="20151106T121304Z">
+        <seg>緊急淋浴和洗眼器之位置鄰近切削及使用環氧樹脂之地點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55882,6 +55898,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T142759Z" creationid="Judy" creationdate="20151105T142759Z">
         <seg>勞工人使用裝有過濾鏡片之防護面罩或護目鏡來消除紫外線閃光的暴露量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workers with potential skin exposure to uncured resins are wearing chemical resistant gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121144Z" creationid="Judy" creationdate="20151106T121144Z">
+        <seg>勞工皮膚可能接觸未乾燥硬化之樹脂時配戴抗化學腐蝕手套。</seg>
       </tuv>
     </tu>
     <tu>
