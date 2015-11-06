@@ -15520,6 +15520,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical equipment is fully insulated at connection points and there are no exposed wires or cables.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121641Z" creationid="Judy" creationdate="20151106T121641Z">
+        <seg>電氣設備連接點已完全絕緣且無外露的電線或電纜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electronic form creation and conversion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071119Z">
@@ -16628,6 +16636,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234123Z" creationid="Judy" creationdate="20151105T234123Z">
         <seg>已經確定暴露於浸漬槽化學物質之危害並已量測暴露值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure hazards of epoxy resin chemicals have been identified and measured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121559Z" creationid="Judy" creationdate="20151106T121559Z">
+        <seg>已經確定暴露於環氧樹脂化學物質之危害並已量測暴露值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43518,6 +43534,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T115958Z">
         <seg>氣候調適策略首重地面水和地下水的結合管理，並改善和擴大儲水能力以建立缺水期的緩衝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surfaces are clean and free of carbon fiber dust, off-cuts, or other debris.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121531Z" creationid="Judy" creationdate="20151106T121531Z">
+        <seg>表面乾淨且無碳纖維粉塵、切削物或其它雜物碎屑。</seg>
       </tuv>
     </tu>
     <tu>
