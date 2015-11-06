@@ -6163,6 +6163,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although each of front axle 108 and rear axle 110 are shown having a single ground engaging members 102 on each side, multiple ground engaging members 102 may be included on each side of the respective front axle 108 and rear axle 110.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T133644Z" creationid="Judy" creationdate="20151106T133644Z">
+        <seg>雖然圖中前軸 108 和後軸 110 各側只有一組接觸地面元件 102，前軸 108 和後軸 110 各側可能有多組接觸地面元件 102。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although most computers provide their own internal protection, the fuse provides an extra layer of protection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144700Z">
@@ -6979,6 +6987,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T062513Z">
         <seg>組裝完成後，可以將緊固件穿過孔 646 (圖 27) 和樞軸元件 612 以固定側邊護網 600 至中段立柱 646 上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As configured in FIG. 1, vehicle 100 is a four wheel, two axle vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T133722Z" creationid="Judy" creationdate="20151106T133722Z">
+        <seg>圖 1 的配置中，車輛 100 為四輪、兩軸車輛。</seg>
       </tuv>
     </tu>
     <tu>
