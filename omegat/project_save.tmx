@@ -13391,6 +13391,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cutting presses have two button controls (or equivalent).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T122244Z" creationid="Judy" creationdate="20151106T122244Z">
+        <seg>油壓裁斷機具有雙按鈕控制 (或同等控制方式)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cyclic tension, confined, single reinforcing bar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183743Z">
