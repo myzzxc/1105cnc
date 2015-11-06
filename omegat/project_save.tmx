@@ -10077,6 +10077,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clean up oil spills and leaks immediately using a nonflammable absorbent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T000208Z" creationid="Judy" creationdate="20151106T000208Z">
+        <seg>外溢和洩漏之淬火油立即以不可燃吸附材料清理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear guidelines for promotional pay increases</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T234716Z">
@@ -53837,6 +53845,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145543Z">
         <seg>等待安裝程式展開完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning signs are installed indicating hot fluid splash zones in quenching operations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235946Z" creationid="Judy" creationdate="20151105T235946Z">
+        <seg>淬火處理之高溫液體飛濺區設有警告標誌指示。</seg>
       </tuv>
     </tu>
     <tu>
