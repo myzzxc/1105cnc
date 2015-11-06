@@ -5579,8 +5579,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>All machines are securely anchored.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T141736Z" creationid="Judy" creationdate="20151105T141736Z">
-        <seg>所有機器都已固定。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121753Z" creationid="Judy" creationdate="20151105T141736Z">
+        <seg>所有機器皆已固定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9127,6 +9127,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T000448Z" creationid="Judy" creationdate="20151106T000448Z">
         <seg>碳纖維切割和層壓檢查清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CARBON FIBER FORMING QUICKLIST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121720Z" creationid="Judy" creationdate="20151106T121720Z">
+        <seg>碳纖維成形檢查清單</seg>
       </tuv>
     </tu>
     <tu>
@@ -55858,6 +55866,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235703Z" creationid="Judy" creationdate="20151105T235703Z">
         <seg>勞工處理高溫框架或貨架系統時穿戴耐熱手套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workers handling hot molds are wearing heat-resistant gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121742Z" creationid="Judy" creationdate="20151106T121742Z">
+        <seg>勞工處理高溫模具時穿戴耐熱手套。</seg>
       </tuv>
     </tu>
     <tu>
