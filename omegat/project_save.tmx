@@ -38840,8 +38840,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Regarding rear drive unit 148, in one embodiment rear drive unit 148 is a locked differential wherein power is provided to both of the wheels of axle 110 through output shafts 150.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T140907Z" creationid="Judy" creationdate="20151106T140907Z">
-        <seg>對於後輪驅動單元 148 於一個實施例中，當動力透過輸出軸 150 傳輸輪軸 110 的至兩個車輪時，後輪驅動單元 148 為差速鎖定。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T141147Z" creationid="Judy" creationdate="20151106T140907Z">
+        <seg>對於後輪驅動單元 148 於一個實施例中，當動力透過輸出軸 150 傳輸至輪軸 110 的兩個車輪時，後輪驅動單元 148 為鎖定差速器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55109,6 +55109,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091023Z">
         <seg>當運作時，墊片可能會使流體略為冷卻，此時可能需要調整彈簧墊片的高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When rear drive unit 148 is in a locked configuration power is provided to both wheels of axle 110 through output shafts 150.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T141211Z" creationid="Judy" creationdate="20151106T141137Z">
+        <seg>當後輪驅動單元 148 為鎖定設置時，動力透過輸出軸 150 傳輸至輪軸 110 的兩個車輪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When rear drive unit 148 is in an unlocked configuration, power is provided to one of the wheels of axle 110, such as the wheel having the less resistance relative to the ground, through output shafts 150.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T141340Z" creationid="Judy" creationdate="20151106T141340Z">
+        <seg>當後輪驅動單元 148 為解鎖設置時，動力透過輸出軸 150 傳輸至輪軸 110 的其中一個具有較低相對地面阻力之車輪。</seg>
       </tuv>
     </tu>
     <tu>
