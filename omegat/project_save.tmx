@@ -1644,6 +1644,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10 and 11, air intake system 160 is shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T134043Z" creationid="Judy" creationdate="20151107T134043Z">
+        <seg>10 和 11 所示之空氣進氣系統 160 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10 and 11.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T114839Z">
@@ -5513,6 +5521,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air intake system 160 includes an air inlet housing 320 having an air inlet 322.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T134155Z" creationid="Judy" creationdate="20151107T134155Z">
+        <seg>空氣進氣系統 134 包含具有進氣口 322 之進氣口外殼 320。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Airborne concentrations of carbon dust are controlled to ensure worker exposures are below the associated permissible exposure limit (PEL).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T120518Z" creationid="Judy" creationdate="20151106T120518Z">
@@ -6351,6 +6367,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T022113Z" creationid="Judy" creationdate="20151107T022011Z">
         <seg>空氣經由進氣口 172 進入進氣口外殼 172 內部 174，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ambient air is introduced into an interior 324 of air inlet housing 320 through air inlet 322.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T134224Z" creationid="Judy" creationdate="20151107T134224Z">
+        <seg>空氣經由進氣口 322 進入進氣口外殼 320 內部 324，</seg>
       </tuv>
     </tu>
     <tu>
