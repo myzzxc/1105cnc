@@ -23956,6 +23956,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In operation, ambient air passes through openings in cover 244 and into filter housing 240.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T120247Z" creationid="Judy" creationdate="20151107T120247Z">
+        <seg>操作時空氣通過外蓋 244 之開口流入濾芯外殼 240，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to achieve universal access, there is a need for accelerated progress in disadvantaged groups and to ensure non-discrimination in WASH service provision.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T154047Z">
@@ -34016,6 +34024,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035916Z" creationid="Judy" creationdate="20151107T035916Z">
         <seg>當空氣流經濾芯 188 後由風箱 180 後側套靴 192 中的出氣口 190 排出 (請見圖 14)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the air passes through filter 188 it flows into the air intake of power source 130.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T120557Z" creationid="Judy" creationdate="20151107T120557Z">
+        <seg>當空氣經過濾芯 188 後流入動力源 130 之進氣口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47030,6 +47046,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The air passes through filter 242 and into the interior of air inlet housing 170 through air inlet 172.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T120353Z" creationid="Judy" creationdate="20151107T120353Z">
+        <seg>空氣通過濾芯 242 並通過進氣口 172 流入進氣外殼 170 內部，</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>?</note>
       <tuv lang="EN-US">
         <seg>The air requirements will vary depending if you have a HSD Quick Release Spindle, Pneumatic drill, Electric Drill or Dual mister.</seg>
@@ -47052,6 +47076,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T022236Z" creationid="Judy" creationdate="20151107T022236Z">
         <seg>空氣流經進氣口外殼 170 之諧振箱部分 176。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The air travels through the interior of air inlet housing 170 and through fluid conduit 178 into interior 184 of airbox 180.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T120504Z" creationid="Judy" creationdate="20151107T120504Z">
+        <seg>空氣流經進氣外殼 170 內部並通過流體管道 178 流入風箱 180 內部 184，</seg>
       </tuv>
     </tu>
     <tu>
