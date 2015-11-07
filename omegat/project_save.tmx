@@ -8898,6 +8898,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brake pedal 220 is operatively coupled to brake units associated with one or more of wheels 104 to slow the speed of vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T104617Z" creationid="Judy" creationdate="20151107T104617Z">
+        <seg>煞車踏板 220 與一組或多組車輪 104 之制動單元相連以減慢車輛 100 速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring this line LOW to reset the microcontroller.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124936Z">
@@ -34240,6 +34248,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102028Z" creationid="Judy" creationdate="20151107T101934Z">
         <seg>駕駛區 212 包含座位 211 和多組操作控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operator area 212 is protected with a roll cage 222.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T104641Z" creationid="Judy" creationdate="20151107T104641Z">
+        <seg>駕駛區 212 以防滾架 222 保護。</seg>
       </tuv>
     </tu>
     <tu>
