@@ -16720,6 +16720,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exemplary operator controls include a steering wheel 214, a gear selector 216, an accelerator pedal 218 (see FIG. 2), and a brake pedal 220 (see FIG. 2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102800Z" creationid="Judy" creationdate="20151107T102800Z">
+        <seg>駕駛控制範例中包括方向盤 214、排擋桿 216、油門踏板 218 (請見圖 2) 和煞車踏板 220 (請見圖 2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exemplary power sources include internal combustion engines and electric motors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T132910Z" creationid="Judy" creationdate="20151106T132910Z">
@@ -23660,6 +23668,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In one embodiment, seating 211 includes multiple rows of seats,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102346Z" creationid="Judy" creationdate="20151107T102346Z">
+        <seg>在一個實施例中，座位 211 包含多排座位，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, seating 211 is a bench seat.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102408Z" creationid="Judy" creationdate="20151107T102319Z">
+        <seg>在一個實施例中，座位 211 為凳型座椅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In one example, the CVT unit includes a diverter which receives the ambient air from the air intake system and directs a first portion of the ambient air to the first air inlet and a second portion of the ambient air to the second air inlet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T144230Z">
@@ -24142,8 +24166,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In the illustrated embodiment, seating 211 includes a pair of bucket seats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102244Z" creationid="Judy" creationdate="20151107T102022Z">
-        <seg>實施例圖中所示之座位 211 包含一對桶形座椅。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102411Z" creationid="Judy" creationdate="20151107T102022Z">
+        <seg>實施例圖中所示之座位 211 包含一對桶型座椅。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58116,6 +58140,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053011Z">
         <seg>eDOCS 外掛程式註冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>either bucket seats or bench seats or a combination thereof.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102456Z" creationid="Judy" creationdate="20151107T102404Z">
+        <seg>座位可為桶型座椅或凳形座椅或兩種座椅組合。</seg>
       </tuv>
     </tu>
     <tu>
