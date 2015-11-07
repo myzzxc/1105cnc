@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3613,6 +3613,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T084157Z">
         <seg>拉丁美洲和加勒比海地區所面臨的主要問題是建立官方機構以管理水資源的能力，以及將水資源的管理和利用永續性地整合至減貧和社會經濟發展之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A majority of muffler 120 is positioned rearward of frame 112.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T040940Z" creationid="Judy" creationdate="20151107T040940Z">
+        <seg>消音器 120 大部分位於框架 112 後方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8266,6 +8274,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base portion 194 and front cover portion 196 cooperate to hold filter 188 in place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T041615Z" creationid="Judy" creationdate="20151107T041615Z">
+        <seg>基座部分 194 和前蓋部分 196 結合以固定濾芯 188。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on local policy, personal information change may need Local HR verification.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134941Z">
@@ -8774,6 +8790,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T043852Z">
         <seg>以自動化的工作流程提高生產力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boots 192 are coupled to the air intakes of power source 130.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035955Z" creationid="Judy" creationdate="20151107T035955Z">
+        <seg>套靴 192 與動力源 130 之進氣口相連接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18726,6 +18750,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fluid conduit 178 is coupled to a cylindrical portion 182 (see FIG. 12) of airbox 180.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035403Z" creationid="Judy" creationdate="20151107T035403Z">
+        <seg>流體管道 178 連接至風箱 180 之圓筒部分 182 (請見圖 12) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focusing on productivity, AXYZ has engineered machine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081630Z">
@@ -19568,6 +19600,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Front cover portion 196 is rotatable in direction 201 and direction 202 about axis 204 to close and open airbox 180, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T042059Z" creationid="Judy" creationdate="20151107T042059Z">
+        <seg>前蓋部分196 能沿軸 204 朝方向 201 和方向 202 旋轉以分別關閉和打開風箱 180。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Front drive unit 154 is coupled to corresponding wheels 104 through half shafts 156.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T140318Z" creationid="Judy" creationdate="20151106T140318Z">
@@ -19719,6 +19759,14 @@ Record, watch and share high quality video in native Full HD resolution.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T020343Z">
         <seg>Fundamental Purchasing Principles （基本採購原則）
 HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Further, muffler 120 is positioned forward of a rear extent of the tires 106 of rear axle 110 and forward of a rear extent of vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T041334Z" creationid="Judy" creationdate="20151107T041334Z">
+        <seg>再者，消音器 120 位於後輪軸 110 之輪胎 106 後部前側且位於車輛 100 後部前側。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24068,6 +24116,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the illustrated embodiment, couplers 206 are swing nuts and portions 208 are recesses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T043652Z" creationid="Judy" creationdate="20151107T043652Z">
+        <seg>實施例圖中，固定螺絲 206 為擺動螺母而 208 部分為凹陷點，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the illustrated embodiment, resonator portion 176 is a portion of air inlet housing 170.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T022407Z" creationid="Judy" creationdate="20151107T022343Z">
@@ -24088,6 +24144,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131249Z">
         <seg>任何事件發生時，系統能夠透過電子郵件發送來自任何攝影機的任何圖像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the open state filter 188 may be removed from interior 184 of airbox 180 while front cover portion 196 remains coupled to base portion 194.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T044303Z" creationid="Judy" creationdate="20151107T044303Z">
+        <seg>於風箱開啟的狀態下，可由風箱 180 之內部 184 取出濾芯 188，而前蓋部分 196 仍連接於基座部分 194 之上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31645,6 +31709,22 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Muffler 120 is positioned transverse to a vertical center- line plane 122 of vehicle 100 as shown in FIG. 6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T040905Z" creationid="Judy" creationdate="20151107T040905Z">
+        <seg>消音器 120 位於車輛 100 之垂直中心線平面 122 之橫斷面，如圖 6 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Muffler 120 is supported by frame 112 and positioned rearward of rear axle 110.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T040652Z" creationid="Judy" creationdate="20151107T040652Z">
+        <seg>消音器 120 以框架 112 支撐，位於後輪軸 110 後方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi Purpose Tangential Knife</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T152858Z">
@@ -33688,6 +33768,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T135905Z">
         <seg>只需幾個簡單步驟，便可以輕鬆地轉換為銷售人員可以用於產品配置的配置器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the air passes through filter 188 it exits through air outlets 190 provided in boots 192 (see FIG. 14) on the rear of airbox 180.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035916Z" creationid="Judy" creationdate="20151107T035916Z">
+        <seg>當空氣流經濾芯 188 後由風箱 180 後側套靴 192 中的出氣口 190 排出 (請見圖 14)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -37136,6 +37224,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power source 130 uses the air in the combustion of fuel provided by fuel source 132.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T040132Z" creationid="Judy" creationdate="20151107T040132Z">
+        <seg>動力源 130 使用空氣與燃料源 132 提供之燃料進行燃燒，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082850Z">
@@ -38958,6 +39054,38 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Referring to FIG. 12, a lower portion of base portion 194 and a lower portion of front cover portion 196 include hinge members 198 and hinge members 200, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T041859Z" creationid="Judy" creationdate="20151107T041859Z">
+        <seg>參照圖 12，基座部分 194 下方和前蓋部分 196 下方分別包含鉸鏈元件 198 和鉸鏈元件 200。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Referring to FIG. 13, a filter 188 is positioned in interior 184 of airbox 180.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035540Z" creationid="Judy" creationdate="20151107T035540Z">
+        <seg>參照圖 13，濾芯 188 位於風箱 180 之內部 184，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Referring to FIG. 13, base portion 194 includes three couplers 206 which engage portions 208 of front cover portion 196 to retain front cover portion 196 and keep airbox 180 in a closed state.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T042616Z" creationid="Judy" creationdate="20151107T042616Z">
+        <seg>參照圖 13，基座部分 194 包含三組固定螺絲 206 能於前蓋部分 196 之 208 部分將前蓋部分 196 固定以維持風箱 180 於關閉狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Referring to FIG. 3, exhaust system 136 includes a muffler 120 coupled to power source 130 through a fluid conduit 124 (see FIG. 2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T040534Z" creationid="Judy" creationdate="20151107T040534Z">
+        <seg>參照圖 3，排氣系統 136 包含經由流體管道 124 連接至動力源 130 之消音器 120 (請見圖 2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Referring to FIG. 32, rear independent suspensions 116 in the illustrated embodiment include radius arms 526 and control arms 530, 532.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T134409Z" creationid="Judy" creationdate="20151106T134409Z">
@@ -39463,6 +39591,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resonator portion 176 acts to dampen noise emanating from power source 130 to provide a quieter vehicle 100 during operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035108Z" creationid="Judy" creationdate="20151107T035108Z">
+        <seg>諧振箱部分 176 吸收動力源 130 發出之噪音，使車輛 100 運作較為安靜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resources &amp;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035725Z">
@@ -39603,6 +39739,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T234823Z">
         <seg>病假後返回工作崗位面談</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returning to FIG. 13, airbox 180 includes a base portion 194 and a front cover portion 196.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T041500Z" creationid="Judy" creationdate="20151107T041500Z">
+        <seg>回到圖 13，風箱 180 包含基座部分 194 和前蓋部分 196。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46542,6 +46686,22 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The air enters an interior 184 of airbox 180.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035458Z" creationid="Judy" creationdate="20151107T035458Z">
+        <seg>空氣進入風箱 180 之內部 184，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The air exits resonator portion 176 and passes through a fluid conduit 178 to an airbox 180 of vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035302Z" creationid="Judy" creationdate="20151107T035302Z">
+        <seg>空氣自諧振箱部分 176 排出並流經流體管道 178 至車輛 100 之風箱 180，</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>?</note>
       <tuv lang="EN-US">
         <seg>The air requirements will vary depending if you have a HSD Quick Release Spindle, Pneumatic drill, Electric Drill or Dual mister.</seg>
@@ -47276,6 +47436,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143115Z">
         <seg>此範例為專業版，但也適用標準版和企業版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The exhaust produced in the combustion process is expelled from power source 130 through exhaust system 136.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T040217Z" creationid="Judy" creationdate="20151107T040217Z">
+        <seg>燃燒產生之廢氣透過排氣系統 136 自動力源 130 排出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48997,6 +49165,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135120Z">
         <seg>伺服器可能會要求重新啓動系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shafts of the swing nuts are received in the recesses of portions 208 and the swing nuts are tightened to secure front cover portion 196 relative to base portion 194.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T043835Z" creationid="Judy" creationdate="20151107T043835Z">
+        <seg>擺動螺母之軸置入 208 部分之凹陷點並將螺母旋緊以將前蓋部分 196 固定於基座部分 194 上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55165,6 +55341,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130926Z">
         <seg>連接到網路時，需要提供一個 IP 位址和 MAC 位址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When couplers 206 are loosened front cover portion 196 may be rotated in direction 202 about axis 204 relative to base portion 194 placing airbox 180 in an open state.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T044103Z" creationid="Judy" creationdate="20151107T044103Z">
+        <seg>當固定螺絲 206 鬆開後，前蓋部分 196 可沿軸 204 朝相對基座部分 194 之方向 202 旋轉以打開風箱 180。</seg>
       </tuv>
     </tu>
     <tu>
