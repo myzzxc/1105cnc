@@ -3922,6 +3922,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A top of channel 382 is covered by a cover 384 which is removably coupled to holder 370 and shield 380.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T142741Z" creationid="Judy" creationdate="20151107T142741Z">
+        <seg>通道 382 頂部以與固定器 370 和護板 380 相連的外蓋 384 覆蓋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A top view projection of the first suspension axis intersecting a longitudinal centerline of the vehicle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T073843Z">
@@ -14911,6 +14919,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T130858Z">
         <seg>在利益相關者之間分配成本和收益對於財務可行性來說相當重要。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diverter portion 364 receives the ambient air from fluid duct 328 and communicates it to interior 340 of CVT housing 342.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T143024Z" creationid="Judy" creationdate="20151107T143024Z">
+        <seg>分流器部分 364 接收來自流體管道 328 的空氣，並將其輸送到無段變速外殼 342 的內部 340。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51062,6 +51078,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T134139Z" creationid="Judy" creationdate="20151106T134139Z">
         <seg>後軸 110 之車輪 104 透過後獨立懸吊 116 安裝於車輛 100 的框架 112 上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wires are captured in channel 382 between shield 380 and cover 384.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T142855Z" creationid="Judy" creationdate="20151107T142855Z">
+        <seg>電線被限制於護板 380 和外蓋 384 之間的通道 382 中。</seg>
       </tuv>
     </tu>
     <tu>
