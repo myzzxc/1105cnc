@@ -5489,6 +5489,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air inlet 172 of air inlet housing 170 is in fluid communication with an interior of filter housing 240.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T120126Z" creationid="Judy" creationdate="20151107T120126Z">
+        <seg>進氣外殼 170 之進氣口 172 之流體與濾芯外殼 240 內部連通。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air inlet housing 170 is positioned in the</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T115743Z" creationid="Judy" creationdate="20151107T115743Z">
