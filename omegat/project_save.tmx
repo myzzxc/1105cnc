@@ -7273,8 +7273,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>As shown in FIG. 18, when removable cover 270 is removed a service tray 271 is accessible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T122932Z" creationid="Judy" creationdate="20151107T122932Z">
-        <seg>如圖 18 所示，當可拆式外蓋 270 拆除後可進入維修託盤 271，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T123115Z" creationid="Judy" creationdate="20151107T122932Z">
+        <seg>如圖 18 所示，當可拆式外蓋 270 拆除後可看見維修託盤 271，</seg>
       </tuv>
     </tu>
     <tu>
@@ -42449,6 +42449,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Service tray 271 is molded as part of body 238.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T123205Z" creationid="Judy" creationdate="20151107T123108Z">
+        <seg>維修托盤 271 為主體 238 一體成型的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Service-condition tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121608Z">
@@ -52929,6 +52937,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091740Z">
         <seg>工具配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools may be placed in the service tray 271 during servicing of power source 130.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T123207Z" creationid="Judy" creationdate="20151107T123203Z">
+        <seg>進行動力源 130 維修時可以將工具放置於維修託盤 271 上，</seg>
       </tuv>
     </tu>
     <tu>
