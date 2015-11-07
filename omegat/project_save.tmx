@@ -6515,6 +6515,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An operator may also change the sparkplugs of power source 130 through space 272.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T124047Z" creationid="Judy" creationdate="20151107T124047Z">
+        <seg>運營商可能也會改變電源 130 通過空間 272 的宣導。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An optimized Modular Product Architecture was created using Modular Function Deployment® (MFD®), and this architecture was populated with the Module Variants and rules needed to configure the full range of products.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033026Z">
@@ -7379,6 +7387,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T152436Z">
         <seg>因此自動追蹤必須使用高品質的 PTZ 攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As such, in one embodiment, to remove filter 188 an operator would remove removable cover 270 to access airbox 180 and then loosen couplers 206 to permit front coverportion 196 to rotate in direction 202.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T124109Z" creationid="Judy" creationdate="20151107T124032Z">
+        <seg>如此一來，在一個實施例中，維修人員要拆除濾芯 188 時，能拆除可拆式外蓋 270 以進入風箱 180，接著放鬆固定螺絲 206 以將前蓋部分 196 朝方向 202 旋轉。</seg>
       </tuv>
     </tu>
     <tu>
