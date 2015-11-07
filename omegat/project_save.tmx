@@ -23828,6 +23828,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In one embodiment, a dip stick is provided to check the oil level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T130735Z" creationid="Judy" creationdate="20151107T130735Z">
+        <seg>在一個實施例中，設有機油量尺以檢查機油量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In one embodiment, air inlet housing 170 includes multiple air inlets.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T021957Z" creationid="Judy" creationdate="20151107T021957Z">
@@ -23928,6 +23936,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102408Z" creationid="Judy" creationdate="20151107T102319Z">
         <seg>在一個實施例中，座位 211 為凳型座椅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, the oil level may be checked by visual inspection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T130801Z" creationid="Judy" creationdate="20151107T130801Z">
+        <seg>在一個實施例中，機油量以目視檢查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33652,6 +33668,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oil reservoir 300 provides oil to a pump of power source 130.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T130857Z" creationid="Judy" creationdate="20151107T130857Z">
+        <seg>機油箱 300 供應機油至動力源 130，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On Site Existing Spec</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080057Z">
@@ -39736,8 +39760,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Removable cover 290 serves as a service door for checking the oil level within oil reservoir 300.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T130546Z" creationid="Judy" creationdate="20151107T130546Z">
-        <seg>可拆式外蓋 290 作為檢查機油量serves as a service door for checking the oil level within oil reservoir 300.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T130656Z" creationid="Judy" creationdate="20151107T130546Z">
+        <seg>可拆式外蓋 290 為檢查機油箱 300 中機油量的維修門。</seg>
       </tuv>
     </tu>
     <tu>
