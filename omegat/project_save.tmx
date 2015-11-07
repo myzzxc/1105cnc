@@ -18491,6 +18491,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filter 242 is held in place in the recess of filter housing 240 with a cover 244.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T112435Z" creationid="Judy" creationdate="20151107T112435Z">
+        <seg>濾芯 242 置於帶有外蓋 244之濾芯外殼 240 的凹槽中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filter by Object:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062945Z">
@@ -23752,6 +23760,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T134808Z" creationid="Judy" creationdate="20151106T134634Z">
         <seg>其中一個實施例中，前懸吊 114 和後懸吊 116 之懸吊最大行程為大約 14 英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, filter 242 is a foam filter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T112520Z" creationid="Judy" creationdate="20151107T112520Z">
+        <seg>在一個實施例中，濾芯 242 為海棉濾芯。</seg>
       </tuv>
     </tu>
     <tu>
