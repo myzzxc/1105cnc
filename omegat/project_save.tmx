@@ -19963,6 +19963,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further, when cover 270 is removed access to a space 272 is provided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T123635Z" creationid="Judy" creationdate="20151107T123635Z">
+        <seg>另外，當拆除外蓋 270 時能進入空間 272。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Furthermore it provides additional features compared to its Standard version:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022435Z">
@@ -23792,6 +23800,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T021957Z" creationid="Judy" creationdate="20151107T021957Z">
         <seg>在一個實施例中，進氣口外殼 170 包含多組進氣口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, airbox 180 is positioned in space 272.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T123719Z" creationid="Judy" creationdate="20151107T123719Z">
+        <seg>在一個實施例中，風箱 180 位於空間 272 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50045,6 +50061,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T033755Z">
         <seg>工具中預設特定的安裝選項以設置用戶端安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tools in service tray 271 are retained therein when cover 270 is positioned over service tray 271 due to cover 270 generally closing off a top opening in service tray 271.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T123520Z" creationid="Judy" creationdate="20151107T123520Z">
+        <seg>當外蓋 270 蓋於維修托盤 271 上時，能防止置於維修托盤 271 中的工具掉出，因為外蓋 270 能完全封住維修托盤 271 上方的開口。</seg>
       </tuv>
     </tu>
     <tu>
