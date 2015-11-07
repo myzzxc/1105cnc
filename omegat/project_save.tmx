@@ -24140,6 +24140,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the illustrated embodiment, seating 211 includes a pair of bucket seats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102244Z" creationid="Judy" creationdate="20151107T102022Z">
+        <seg>實施例圖中所示之座位 211 包含一對桶形座椅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the illustrated embodiment, the power source 130 is an internal combustion engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T133016Z" creationid="Judy" creationdate="20151106T133016Z">
@@ -34182,8 +34190,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Operator area 212 includes seating 211 and a plurality of operator controls.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T101934Z" creationid="Judy" creationdate="20151107T101934Z">
-        <seg>駕駛區 212 包含座椅 211 和多組操作控制。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102028Z" creationid="Judy" creationdate="20151107T101934Z">
+        <seg>駕駛區 212 包含座位 211 和多組操作控制。</seg>
       </tuv>
     </tu>
     <tu>
