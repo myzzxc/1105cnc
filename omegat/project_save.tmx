@@ -4060,8 +4060,8 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>ADC is an all wheel drive system that provides on-demand torque transfer to the front wheels when one of the wheels 104 of rear axle 110 lose traction and that provides engine braking torque to the wheels 104 of front axle 108.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T014556Z" creationid="Judy" creationdate="20151107T014129Z">
-        <seg>主動式緩降控制為全車輪驅動系統，能於後軸 110 的其中一個車輪失去牽引力時提供動力至前輪以及將引擎煞車力提供至前軸 108 之車輪 104。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015046Z" creationid="Judy" creationdate="20151107T014129Z">
+        <seg>主動式緩降控制為全車輪驅動系統，能於後輪軸 110 的其中一個車輪失去牽引力時提供動力至前輪以及將引擎煞車力提供至前輪軸 108 之車輪 104。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8804,8 +8804,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Both the on-demand torque transfer and the engine braking feature of front drive unit 154 may be active or inactive.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T014614Z" creationid="Judy" creationdate="20151107T014614Z">
-        <seg>按需力矩傳遞和發動機制動功能的前驅動單元 154 可能是活動或非活動。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T014840Z" creationid="Judy" creationdate="20151107T014614Z">
+        <seg>前驅動單元 154 的動力傳輸和引擎煞車功能皆可依所需啟用或停用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23928,6 +23928,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T194950Z">
         <seg>HUTCHINSON 制訂了明確的建立或更改供應的要求，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of the on-demand torque transfer, when active, power is provided to both of the wheels of front axle 108 and, when inactive, power is provided to one of the wheels of front axle 108.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015024Z" creationid="Judy" creationdate="20151107T015024Z">
+        <seg>當設定啟動進行動力傳輸時，動力將傳輸至前輪軸 108 對於前輪驅動單元 154 於一個實施例中，前輪驅動單元 154 的第一設置為動力傳輸至的兩個車輪，而第二設置為動力傳輸至輪軸 108 的其中一個具有較低相對地面阻力之車輪。。</seg>
       </tuv>
     </tu>
     <tu>
