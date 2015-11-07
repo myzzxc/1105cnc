@@ -1887,8 +1887,8 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>15, 2010, titled ELECTRIC VEHICLE, U.S.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015618Z" creationid="Judy" creationdate="20151107T015618Z">
-        <seg>, titled ELECTRIC VEHICLE, U.S.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015736Z" creationid="Judy" creationdate="20151107T015618Z">
+        <seg>標題 ELECTRIC VEHICLE、美國</seg>
       </tuv>
     </tu>
     <tu>
@@ -2824,6 +2824,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T084930Z">
         <seg>2012 年 12 月 5 日，31 頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5,036,939, and U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015853Z" creationid="Judy" creationdate="20151107T015853Z">
+        <seg>以及美國</seg>
       </tuv>
     </tu>
     <tu>
@@ -32010,6 +32018,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015838Z" creationid="Judy" creationdate="20151107T015838Z">
+        <seg>編號 5,036,939 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No. 12/246,948 filed Oct.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T014637Z">
@@ -35738,6 +35754,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044622Z">
         <seg>使用 FileOpen 權限管理進行 128 位元或 256 位元 AES 密碼加密、權限控制和文件開啟保護以保護檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pat.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015740Z" creationid="Judy" creationdate="20151107T015740Z">
+        <seg>專利</seg>
       </tuv>
     </tu>
     <tu>
