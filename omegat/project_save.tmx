@@ -4639,6 +4639,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accelerator pedal 218 is operatively coupled to power source 130 to control the speed of vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T103536Z" creationid="Judy" creationdate="20151107T103536Z">
+        <seg>油門踏板 218 與動力源 130 相連以控制車輛 100 之速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accelerometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133930Z">
