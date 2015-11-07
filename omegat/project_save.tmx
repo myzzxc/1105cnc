@@ -9331,6 +9331,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By placing oil reservoir above the pump of power source 130, oil</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T131312Z" creationid="Judy" creationdate="20151107T131241Z">
+        <seg>將機油箱置於動力源 130 的機油泵上方，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C - Command &amp; Control:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094822Z">
@@ -24432,6 +24440,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T043652Z" creationid="Judy" creationdate="20151107T043652Z">
         <seg>實施例圖中，固定螺絲 206 為擺動螺母而 208 部分為凹陷點，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the illustrated embodiment, power source 130 is a dry sump engine which receives oil from oil reservoir 300.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T131129Z" creationid="Judy" creationdate="20151107T131129Z">
+        <seg>實施例圖示中，動力源 130 為由機油箱 300 供應機油之乾機匣引擎。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58908,6 +58924,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130105Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is continued to be provided to the pump of power source 130 when vehicle is on an incline.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T131403Z" creationid="Judy" creationdate="20151107T131308Z">
+        <seg>當車輛在斜坡上時機油將持續供應至動力源 130 的機油泵。</seg>
       </tuv>
     </tu>
     <tu>
