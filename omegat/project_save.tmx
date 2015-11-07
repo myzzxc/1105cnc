@@ -4058,6 +4058,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADC is an all wheel drive system that provides on-demand torque transfer to the front wheels when one of the wheels 104 of rear axle 110 lose traction and that provides engine braking torque to the wheels 104 of front axle 108.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T014556Z" creationid="Judy" creationdate="20151107T014129Z">
+        <seg>主動式緩降控制為全車輪驅動系統，能於後軸 110 的其中一個車輪失去牽引力時提供動力至前輪以及將引擎煞車力提供至前軸 108 之車輪 104。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADDITIONAL SUPPORT SERVICE CENTRE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133000Z">
@@ -8790,6 +8798,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T143850Z">
         <seg>第一進氣口和第二進氣口皆與空氣進氣系統連接以接收來自空氣進氣系統之空氣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both the on-demand torque transfer and the engine braking feature of front drive unit 154 may be active or inactive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T014614Z" creationid="Judy" creationdate="20151107T014614Z">
+        <seg>按需力矩傳遞和發動機制動功能的前驅動單元 154 可能是活動或非活動。</seg>
       </tuv>
     </tu>
     <tu>
