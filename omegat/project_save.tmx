@@ -13199,6 +13199,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cover 244B is coupled to body panel 236B and removable from body panel 236B in the same manner as cover 244A is relative to body panel 23 6A.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T135036Z" creationid="Judy" creationdate="20151107T135036Z">
+        <seg>外蓋 244B 連接至車身鈑金 236B 且可使用與外蓋 244A 自車身鈑金 236A 上拆除的相同方式由車身鈑金 236B 上拆除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cover 290 is held in place relative to cargo bed 234 with tabs 294 and tabs 296 which interact with portions of cargo bed 234 to retain removable cover 290.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T130319Z" creationid="Judy" creationdate="20151107T130319Z">
@@ -48156,6 +48164,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030815Z">
         <seg>檔案必須符合 PPAP 或 VDA 6.3 之要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The filter 242 is received in a filter housing of body panel 23 6B which is generally a mirror image of filter housing 240.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T134820Z" creationid="Judy" creationdate="20151107T134820Z">
+        <seg>濾芯 242 位於車身鈑金 236B 之濾芯外殼，整體上位於濾芯外殼 240 的鏡像位置。</seg>
       </tuv>
     </tu>
     <tu>
