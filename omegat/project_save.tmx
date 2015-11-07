@@ -9724,6 +9724,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cargo carrying portion 210 is positioned rearward of an operator area 212.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T101622Z" creationid="Judy" creationdate="20151107T101537Z">
+        <seg>載貨部分 210 位於駕駛區 212 後方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Carpet, Felt and other Single-ply Cloth or Fabric, Vinyl and more...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T134321Z">
@@ -39745,8 +39753,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Returning to FIG. 1, vehicle 100 includes a cargo carrying portion 210.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T100757Z" creationid="Judy" creationdate="20151107T100733Z">
-        <seg>回到圖 1，車輛 100 包括載貨部分 210。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T101539Z" creationid="Judy" creationdate="20151107T100733Z">
+        <seg>回到圖 1，車輛 100 包括載貨部分 210，</seg>
       </tuv>
     </tu>
     <tu>
