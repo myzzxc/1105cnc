@@ -6517,8 +6517,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>An operator may also change the sparkplugs of power source 130 through space 272.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T124047Z" creationid="Judy" creationdate="20151107T124047Z">
-        <seg>運營商可能也會改變電源 130 通過空間 272 的宣導。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T124202Z" creationid="Judy" creationdate="20151107T124047Z">
+        <seg>維修人員也可以透過空間 272 更換動力源 130 的火星塞。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39658,6 +39658,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133352Z">
         <seg>記得登出 Workday 然後再重新登入以使更改生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removable cover 270 includes a plurality of tabs 274 along a first side of removable cover 270.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T124354Z" creationid="Judy" creationdate="20151107T124354Z">
+        <seg>可拆式外蓋 270 的第一側緣包含多個耳片 274，</seg>
       </tuv>
     </tu>
     <tu>
