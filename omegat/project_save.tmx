@@ -41708,6 +41708,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotationaxis 650 passes through the connection of radius arms 526 and frame 112 and the connection point of control arms 530.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T125037Z" creationid="Judy" creationdate="20151108T125037Z">
+        <seg>旋轉軸 650 通過懸臂  526 和框架 112 之連接點以及控制臂 530 的連接點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Round-robin tests for regional concrete variation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T123151Z">
@@ -48693,8 +48701,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The angling of dampening member 560 both forward and inward causes the top of dampening member 560 to tilt towards a rotation axis 650 (see FIG. 28 for passenger side suspension).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T124833Z" creationid="Judy" creationdate="20151108T124833Z">
-        <seg>將阻尼元件 560 前傾和內傾導致供阻尼元件560 頂部向軸 650 旋轉傾斜 ()&lt;</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T124922Z" creationid="Judy" creationdate="20151108T124833Z">
+        <seg>將阻尼元件 560 前傾和內傾導致供阻尼元件560 頂部向旋轉軸 650 傾斜 (見圖 28 乘客側懸吊)，</seg>
       </tuv>
     </tu>
     <tu>
