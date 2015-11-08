@@ -8394,6 +8394,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Axis 652 makes an angle 654 with a normal 656 of axis 650.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T125556Z" creationid="Judy" creationdate="20151108T125556Z">
+        <seg>軸 652 與軸 650 垂直線 656 夾角為 654。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B Introduction / Location</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T120740Z">
@@ -24545,6 +24553,54 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T130008Z" creationid="Judy" creationdate="20151107T130008Z">
         <seg>在一個實施例中，配件範例包括用於儲存低溫產品之冰箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, angle 654 has a value in the range of about 10 degrees and about 30 degrees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T125737Z" creationid="Judy" creationdate="20151108T125737Z">
+        <seg>在一個實施例中，角 654 的範圍為大約 10 度 至大約 30 度之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, angle 654 has a value of about 0 degrees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T125745Z" creationid="Judy" creationdate="20151108T125745Z">
+        <seg>在一個實施例中，角 654 的值約為 0 度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, angle 654 has a value of about 30 degrees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T125611Z" creationid="Judy" creationdate="20151108T125611Z">
+        <seg>在一個實施例中，角 654 的值約為 30 度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, angle 654 has a value of up to about 10 degrees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T125646Z" creationid="Judy" creationdate="20151108T125646Z">
+        <seg>在一個實施例中，角 654 的最大值約為 10 度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, angle 654 has a value of up to about 20 degrees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T125637Z" creationid="Judy" creationdate="20151108T125637Z">
+        <seg>在一個實施例中，角 654 的最大值約為 20 度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, angle 654 has a value of up to about 30 degrees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T125629Z" creationid="Judy" creationdate="20151108T125629Z">
+        <seg>在一個實施例中，角 654 的最大值約為 30 度。</seg>
       </tuv>
     </tu>
     <tu>
