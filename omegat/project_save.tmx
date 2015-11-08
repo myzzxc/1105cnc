@@ -9683,6 +9683,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By configuring rear independent suspensions 116 such that control arms 530 and control arms 532 may be coupled to the end of frame 112, an overall length of frame 112 may be reduced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T115148Z" creationid="Judy" creationdate="20151108T115148Z">
+        <seg>調整後獨立懸吊 116 可將控制臂 530 和控制臂 532 連接至框架 112 端點，而框架 112 整體長度可以縮短。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the analog inputs measure from ground to 5 volts, though it is possible to change the upper end of their range using the AREF pin and the analogReference() function.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124743Z">
