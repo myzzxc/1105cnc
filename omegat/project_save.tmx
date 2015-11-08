@@ -12438,6 +12438,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conduit 392 enters interior 340 of CVT housing 342 through opening 398 in interior wall 395 of base portion 344.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T015353Z" creationid="Judy" creationdate="20151108T015353Z">
+        <seg>管道 392 經由底座部分 344 內部牆面 395 之開口 398 進入無段變速外殼 342。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configurability</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031800Z">
@@ -34704,6 +34712,15 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T015243Z" creationid="Judy" creationdate="20151108T015243Z">
         <seg>開口 396 之位置鄰近無段變速單元 140 之驅動元件 400，
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening 398 is positioned proximate to a driven member 402 of CVT unit 140.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T015633Z" creationid="Judy" creationdate="20151108T015633Z">
+        <seg>開口 398 之位置鄰近無段變速單元 140 之被驅動元件 402，
 </seg>
       </tuv>
     </tu>
