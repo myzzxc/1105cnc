@@ -32862,6 +32862,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neither of output shaft 138 of power source 130 nor input shaft 142 of CVT unit 140 pass through spacer 484.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050608Z" creationid="Judy" creationdate="20151108T050603Z">
+        <seg>動力源 130 之輸出傳動軸 138 和無段變速單元 140 之輸入傳動軸皆不通過間隔件484</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Net: blinks when the modem is communicating with the radio network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141148Z">
@@ -44241,6 +44249,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034718Z" creationid="Judy" creationdate="20151108T034718Z">
         <seg>間隔件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spacer 484 connects housing 460 andhousing 462 together independent of the connection between output shaft 138 of power source 130 and input shaft 142 of shiftable transmission 144.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050502Z" creationid="Judy" creationdate="20151108T050502Z">
+        <seg>間隔件 484 將外殼 460 和外殼 462 連接在一起，但不接觸動力源 130 之輸出軸 138 和變速箱 144 之輸入軸，</seg>
       </tuv>
     </tu>
     <tu>
