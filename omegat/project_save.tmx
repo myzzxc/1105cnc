@@ -15935,6 +15935,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each of housing 460 and housing 462 includes at least one connection, but less than three connections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050936Z" creationid="Judy" creationdate="20151108T050936Z">
+        <seg>外殼 460 和外殼 462 皆至少包含一個連接點，但少於三個連接點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each of the 14 digital pins on the Leonardo ETH board can be used as input or output, using the pinMode(), digitalWrite(), and digitalRead() functions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125437Z">
@@ -24368,6 +24376,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T014106Z" creationid="Judy" creationdate="20151107T014106Z">
         <seg>一個實施例中，前驅動單元 154 包含主動式緩降控制 (active descent control, ADC)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, one or both of housing 460 and housing 462 includes at least three connections to frame 112.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T051053Z" creationid="Judy" creationdate="20151108T051053Z">
+        <seg>在一個實施例中，外殼 460 和外殼 462 其中之一或兩者包含至少三個連接至框架  112 的接點。</seg>
       </tuv>
     </tu>
     <tu>
