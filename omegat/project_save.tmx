@@ -15139,6 +15139,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distance 522 represents the longitudinal extent of rear independent suspensions 116.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T065738Z" creationid="Judy" creationdate="20151108T065738Z">
+        <seg>距離 522 代表後獨立懸吊 116 的縱向範圍，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distributable PDF creation parameters</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022747Z">
@@ -30410,6 +30418,22 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line 524 passes through the pivot axis of radius arms 526 of rear independent suspensions 116.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T065850Z" creationid="Judy" creationdate="20151108T065850Z">
+        <seg>線 524 通過後獨立懸吊 116 之懸臂 526 的樞軸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line 528 passes through the center of control arms 530 and 532.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T065913Z" creationid="Judy" creationdate="20151108T065913Z">
+        <seg>線 528 通過控制臂 530 和 532 中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linear acceleration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125741Z">
@@ -40394,8 +40418,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Referring to FIG. 28, distance 520 represents the longitudinal extent of the mounting connections for power source 130, shiftable transmission 144, and rear drive unit 148.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T065613Z" creationid="Judy" creationdate="20151108T065613Z">
-        <seg>參照圖 28，距離 520 代表動力源 130、變速箱 144 和後驅動單元 148 之連接安裝的縱向範圍。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T065651Z" creationid="Judy" creationdate="20151108T065613Z">
+        <seg>參照圖 28，距離 520 代表動力源 130、變速箱 144 和後驅動單元 148 之連接安裝的縱向範圍，</seg>
       </tuv>
     </tu>
     <tu>
@@ -48894,6 +48918,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090746Z">
         <seg>客戶應盡可能選擇鄰近機台的位置擺設真空泵或鼓風機，並可於技術人員安裝機台前先行架設管路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dashed lines pass through the center of the respective coupling members 464.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T065648Z" creationid="Judy" creationdate="20151108T065648Z">
+        <seg>虛線通過各連接元件 464 中心。</seg>
       </tuv>
     </tu>
     <tu>
