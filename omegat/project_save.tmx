@@ -9098,6 +9098,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both the first portion and the second portion are introduced in a manner to generally direct the air 410 in a counterclockwise movement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022025Z" creationid="Judy" creationdate="20151108T022025Z">
+        <seg>第一部分和第二部分之空氣 410 整體上接以逆時針方向流動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both the on-demand torque transfer and the engine braking feature of front drive unit 154 may be active or inactive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015312Z" creationid="Judy" creationdate="20151107T014614Z">
@@ -15335,6 +15343,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T142234Z">
         <seg>現場監控時，可針對螢幕上不同區域進行 (數位) 縮放，每次縮放將打開一個畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During operation of vehicle 100, the amount of air directed at each of drive member 400 and driven member 402 may change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022239Z" creationid="Judy" creationdate="20151108T022239Z">
+        <seg>車輛 100 運作期間，導向驅動元件 400 和被驅動元件 402 之空氣量可能會改變。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52170,6 +52186,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120414Z">
         <seg>圖形下方也許可以加入一個下標？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This counterclockwise movement is consistent with the counterclockwise rotation of drive member 400 and driven member 402 during operation of CVT unit 140.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022149Z" creationid="Judy" creationdate="20151108T022149Z">
+        <seg>此逆時針流動與無段變速單元 140 運作時驅動元件 400 和被驅動元件 402 的逆時中運動相符。</seg>
       </tuv>
     </tu>
     <tu>
