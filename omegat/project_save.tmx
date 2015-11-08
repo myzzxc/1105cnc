@@ -5473,6 +5473,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air 410 is directed by drive member 400 and the shape of base portion 344 along a front portion 414 of CVT housing 342 and a bottom portion 416 of CVT housing 342.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T020411Z" creationid="Judy" creationdate="20151108T020411Z">
+        <seg>空氣 410 由驅動元件 400 和底座部分 344 之形狀所引導，沿無段變速外殼 342 的前部 414 和無段變速外殼 342 的底部 416 流動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air Conditioning Units</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T115613Z">
@@ -47577,6 +47585,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The air 410 removes heat from drive member 400 and drive belt 404.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T020440Z" creationid="Judy" creationdate="20151108T020437Z">
+        <seg>空氣 410 帶走驅動元件 400 和驅動皮帶 404 的熱量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The air enters an interior 184 of airbox 180.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035458Z" creationid="Judy" creationdate="20151107T035458Z">
@@ -51144,6 +51160,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084239Z">
         <seg>偵測到車輛的運動時會觸發虛擬感測器，接著系統會在車輛通過攝影機的指定區域時識別車牌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The warmed air passes driven member 402 and exits interior 340 of CVT housing 342 through outlet duct 418.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T020553Z" creationid="Judy" creationdate="20151108T020553Z">
+        <seg>加溫之空氣通過被驅動元件 402 並經由排氣管道 418 流出無段變速外殼 342 之內部 340。</seg>
       </tuv>
     </tu>
     <tu>
