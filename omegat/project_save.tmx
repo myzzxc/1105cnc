@@ -15171,6 +15171,22 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Driven member 402 is coupled to shaft 142 of shiftable transmission 144.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T015717Z" creationid="Judy" creationdate="20151108T015713Z">
+        <seg>被驅動元件 402 連接至變速箱 144 之傳動軸 142，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Driven member 402 is operatively coupled to drive member 400 through a drive belt 404.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T015806Z" creationid="Judy" creationdate="20151108T015806Z">
+        <seg>被驅動元件 402 透過驅動皮帶 404 連接至驅動元件 400。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drops names of clients</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144239Z">
@@ -39816,6 +39832,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Referring to FIG. 24B, the flow path of air 410 from conduit 390 is illustrated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T015901Z" creationid="Judy" creationdate="20151108T015901Z">
+        <seg>參照圖 24B 之管道 390 中空氣 410 的流動路徑，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Referring to FIG. 25, side protection members 262 each include a first end 264 coupled to an upstanding member 265 of frame 112.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T105304Z" creationid="Judy" creationdate="20151107T105304Z">
@@ -47561,6 +47585,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The air enters interior 340 through opening 396.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T015931Z" creationid="Judy" creationdate="20151108T015931Z">
+        <seg>空氣經由開口 396 進入內部 340，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The air exits resonator portion 176 and passes through a fluid conduit 178 to an airbox 180 of vehicle 100.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035302Z" creationid="Judy" creationdate="20151107T035302Z">
@@ -50079,6 +50111,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T043835Z" creationid="Judy" creationdate="20151107T043835Z">
         <seg>擺動螺母之軸置入 208 部分之凹陷點並將螺母旋緊以將前蓋部分 196 固定於基座部分 194 上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shape of conduit 390 generally directs air 410 in direction 412.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T015949Z" creationid="Judy" creationdate="20151108T015949Z">
+        <seg>管道 390 5 一般指示空氣 410 412 的方向。</seg>
       </tuv>
     </tu>
     <tu>
