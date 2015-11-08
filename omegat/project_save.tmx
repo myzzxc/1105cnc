@@ -19368,8 +19368,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Flowever, as shown in FIG. 40, the upper connection between housing 462 and first portion 483 of spacer 484 does not include a threaded nut 494.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T045733Z" creationid="Judy" creationdate="20151108T045733Z">
-        <seg>然而，如圖 40 所示，外殼 462 和間隔件 484 的第一部分 483 之間的上端連接不包含螺母 494。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T045841Z" creationid="Judy" creationdate="20151108T045733Z">
+        <seg>然而，如圖 40 所示，外殼 462 和間隔件 484 的第一部分 483 之間的上端連接不包含螺母 494，</seg>
       </tuv>
     </tu>
     <tu>
@@ -39604,6 +39604,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141914Z">
         <seg>Leonardo ETH 的設計能由其連接之電腦所運行的軟體進行重置，上傳前無需手動按下重置按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rather, bolt 492C is directly threaded into a bore 501 of housing 462.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T045856Z" creationid="Judy" creationdate="20151108T045839Z">
+        <seg>而是以螺栓 492C 直接鎖入外殼 462 之螺紋孔 501，</seg>
       </tuv>
     </tu>
     <tu>
