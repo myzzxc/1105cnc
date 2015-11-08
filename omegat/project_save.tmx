@@ -7431,6 +7431,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shown in FIG. 3, the flow of air 446 enters through a front grill in vehicle 100, passes through radiator 444 taking on heat, and then flows downward through one or both of regions 440 and 442 and underneath vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T032853Z" creationid="Judy" creationdate="20151108T032853Z">
+        <seg>如圖 3 所示，氣流 446 經由車輛 100 的前護柵進入，經過散熱器 444 散熱，然後通過區域 440 和 442 的其中一區或兩區後往車輛 100 底下流動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shown in FIG. 41, oil reservoir 300 is positioned rearward of a front edge of power source 130 and forward of a trailing edge of power source 130 and generally above power source 130.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T131639Z" creationid="Judy" creationdate="20151107T131639Z">
@@ -48830,6 +48838,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T080430Z">
         <seg>平板包括可拆式外蓋，拆卸後可進入部分第一空氣進氣系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The flow of air 446 is directed away from operator area 212.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T032927Z" creationid="Judy" creationdate="20151108T032927Z">
+        <seg>氣流 446 於駕駛區 212 排出。</seg>
       </tuv>
     </tu>
     <tu>
