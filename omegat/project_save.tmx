@@ -37633,6 +37633,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plug 503 prevents fluid from being communicated from an interior of housing 462.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050219Z" creationid="Judy" creationdate="20151108T050219Z">
+        <seg>塞頭 503 能防止流體從外殼 462 內部流出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plug the second Ethernet cable into another LAN port on the router, and then plug the other end of the second Ethernet cable into the router systems port on the machine electrical box.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T074702Z">
@@ -48374,6 +48382,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142616Z">
         <seg>也可以藉由按下 Leonardo 上的重置按鈕啟動開機載入程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bore 501 of housing 462 is plugged at its end with a plug 503.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050146Z" creationid="Judy" creationdate="20151108T050146Z">
+        <seg>外殼 462 的螺紋孔 501 末端以塞頭 503 塞住，</seg>
       </tuv>
     </tu>
     <tu>
