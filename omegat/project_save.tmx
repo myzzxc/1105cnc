@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(l5f portion, 2nd portion)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034736Z" creationid="Judy" creationdate="20151108T034736Z">
+        <seg>(第一部分、第二部分)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(lb + 50 mm).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T184150Z">
@@ -7483,6 +7491,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T122459Z">
         <seg>如圖 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As shown in Table I, various spacers 484 may be used to form various combinations of power source 130 and shiftable transmission 144.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034703Z" creationid="Judy" creationdate="20151108T034647Z">
+        <seg>如表一中所示，各種間隔件 484 可用於組裝各種不同的動力源 130 和變速箱 144 組合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38170,6 +38186,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power Source Housing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034743Z" creationid="Judy" creationdate="20151108T034743Z">
+        <seg>動力源外殼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power generation has increasingly adopted water efficient techniques (e.g. dry cooling), the proportion of less water intensive renewable energy (e.g. wind, solar PV and geothermal) has increased dramatically, and the development of sustainable hydropower installations in sub-Saharan Africa and South-East Asia has helped provide electricity to hundreds of millions of people who were previously unserved.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T072331Z">
@@ -44093,6 +44117,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spacer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034718Z" creationid="Judy" creationdate="20151108T034718Z">
+        <seg>間隔件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spacer 484 includes a first portion 483 which is sized and arranged to couple to attachment features of housing 462 and a second portion 485 which is sized and arranged to couple to attachment features of common housing 460.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034007Z" creationid="Judy" creationdate="20151108T034007Z">
@@ -45565,6 +45597,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132640Z">
         <seg>T 形槽夾具組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TABLE I</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034659Z" creationid="Judy" creationdate="20151108T034659Z">
+        <seg>表一</seg>
       </tuv>
     </tu>
     <tu>
@@ -54048,6 +54088,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transmission Housing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034749Z" creationid="Judy" creationdate="20151108T034749Z">
+        <seg>變速箱外殼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transportation Equipment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114545Z">
@@ -59252,6 +59300,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050029Z">
         <seg>請依據各國規範選用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and shiftable transmission 144 may be assembled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034540Z" creationid="Judy" creationdate="20151108T034540Z">
+        <seg>便能組裝各種組合的動力源130 和變速箱 144。</seg>
       </tuv>
     </tu>
     <tu>
