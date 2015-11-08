@@ -7527,6 +7527,22 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As such, drive member 400 draws more air than driven member 402.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022448Z" creationid="Judy" creationdate="20151108T022448Z">
+        <seg>因此驅動元件 400 較被驅動元件 402 吸入更多空氣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As such, driven member 402 draws more air than drive member 400.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022612Z" creationid="Judy" creationdate="20151108T022612Z">
+        <seg>因此被驅動元件 402 較驅動元件 400 吸入更多空氣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As such, in one embodiment, to remove filter 188 an operator would remove removable cover 270 to access airbox 180 and then loosen couplers 206 to permit front coverportion 196 to rotate in direction 202.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T124109Z" creationid="Judy" creationdate="20151107T124032Z">
@@ -7719,10 +7735,26 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At higher speeds, drive member 400 is still spinning at</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022529Z" creationid="Judy" creationdate="20151108T022529Z">
+        <seg>高轉速下，驅動元件 400 仍以引擎轉速旋轉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At least seven preset screen standards for surveillance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T123356Z">
         <seg>監控具有至少七個預設的螢幕標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At low speeds, drive member 400 is spinning at engine rpm and driven member 402 is spinning at less than engine rpm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022415Z" creationid="Judy" creationdate="20151108T022415Z">
+        <seg>低轉速下，驅動元件 400 以引擎轉速旋轉而被驅動元件 402 轉速低於引擎轉速。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24960,6 +24992,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T065740Z">
         <seg>參考此實施例中圖 28，側邊護網 900 位於鎖定位置並完全包覆乘客入口/出口 874，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this embodiment, drive member 400 and driven member 402 include fins and generally act as fans.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022328Z" creationid="Judy" creationdate="20151108T022328Z">
+        <seg>此實施例中，驅動元件 400 和被驅動元件 402 包含鰭片且通常作為風扇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59278,6 +59318,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T020242Z">
         <seg>第三接觸地面元件位於車輛垂直中心線縱向平面第一側而第四接觸地面元件位於車輛垂直中心線縱向平面第二側。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>engine rpm, but driven member 402 is now spinning at higher than engine rpm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022554Z" creationid="Judy" creationdate="20151108T022554Z">
+        <seg>但被驅動元件 402 此時轉速高於引擎轉速。</seg>
       </tuv>
     </tu>
     <tu>
