@@ -7311,6 +7311,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As explained herein unit 482 is supported relative to frame 112 through three connections, one relative to housing 460 and two relative to housing 462.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050849Z" creationid="Judy" creationdate="20151108T050849Z">
+        <seg>如此處所述，單元 482 藉由三個連接點支撐於框架 112 上，一個位於外殼 460 上而兩個位於外殼 462 上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As explained herein, spacer 484 is coupled to each of housing 460 and housing 462 through a plurality of fasteners.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T033417Z" creationid="Judy" creationdate="20151108T033417Z">
@@ -32864,8 +32872,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Neither of output shaft 138 of power source 130 nor input shaft 142 of CVT unit 140 pass through spacer 484.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050608Z" creationid="Judy" creationdate="20151108T050603Z">
-        <seg>動力源 130 之輸出傳動軸 138 和無段變速單元 140 之輸入傳動軸皆不通過間隔件484</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050619Z" creationid="Judy" creationdate="20151108T050603Z">
+        <seg>動力源 130 之輸出傳動軸 138 和無段變速單元 140 之輸入傳動軸皆不通過間隔件484。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44257,6 +44265,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050502Z" creationid="Judy" creationdate="20151108T050502Z">
         <seg>間隔件 484 將外殼 460 和外殼 462 連接在一起，但不接觸動力源 130 之輸出軸 138 和變速箱 144 之輸入軸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spacer 484 connects housing 460 andhousing 462 together to form unit 482.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050657Z" creationid="Judy" creationdate="20151108T050657Z">
+        <seg>間隔件 484 將外殼 460 和外殼 462 連接在一起形成單元 482，</seg>
       </tuv>
     </tu>
     <tu>
