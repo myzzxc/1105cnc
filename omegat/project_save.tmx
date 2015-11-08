@@ -12814,6 +12814,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connecting portion 470 couples first base portion 466 to second base portion 468.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T063909Z" creationid="Judy" creationdate="20151108T063909Z">
+        <seg>連接部分 470 將第一底座部分 466 連接至到第二底座部分 468，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting the Ethernet cables correctly is very important to establish communication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T092527Z">
@@ -40340,6 +40348,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T112106Z" creationid="Judy" creationdate="20151107T112010Z">
         <seg>參照圖 27，載貨部分底座 252 透過多個連接點連接到框架 112 之後框架部分 254，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Referring to FIG. 29, in the case of front connection points 452, first base portion 466 of coupling members 464 is coupled to frame 112 and second base portion 468 is coupled to the ends of support member 454.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T063754Z" creationid="Judy" creationdate="20151108T063754Z">
+        <seg>參照圖 29，第一連接點 452 中，連接元件 464 之第一底座部分 466 連接至框架 112，而第二底座部分 468 連接至支撐元件 454 之尾端。</seg>
       </tuv>
     </tu>
     <tu>
