@@ -502,6 +502,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Setup 3)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141802Z" creationid="Judy" creationdate="20151109T141802Z">
+        <seg>(設定 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Setup 4)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141806Z" creationid="Judy" creationdate="20151109T141806Z">
+        <seg>(設定 4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Some reports may also reference older code families such as the BOCA National Codes, the Standard Codes, and the Uniform Codes.) Section 104.11 of the International Building Code* reads as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T131116Z">
@@ -25397,6 +25413,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the illustrated embodiment of FIG. 3, distance 584 is 81.5 inches and distance 582 is about 43% of distance 584 when vehicle 100 is unloaded (Setup 1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141542Z" creationid="Judy" creationdate="20151109T141542Z">
+        <seg>實施例說明圖 3 中，車輛 100 空車時距離 584 為 81.5 英寸而距離 582 約為距離 584 的 43% (設定 1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the illustrated embodiment of FIG. 7, this distance is shown as D9.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T234746Z">
@@ -46402,6 +46426,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TABLE II</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141756Z" creationid="Judy" creationdate="20151109T141756Z">
+        <seg>表二</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TABLE OF CONTENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014451Z">
@@ -49199,6 +49231,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T083140Z">
         <seg>水資源和永續發展的共同存在的挑戰隨不同地區而有所不同。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The change in the</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141604Z" creationid="Judy" creationdate="20151109T141604Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -56405,6 +56445,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vehicle with</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141835Z" creationid="Judy" creationdate="20151109T141835Z">
+        <seg>車輛載重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Verification of installation at decreased installation temperatures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150440Z">
@@ -61210,6 +61258,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T181620Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ratio of distance 582 to distance 584 for various vehicle setups are provided in Table II for the illustrated embodiment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141753Z" creationid="Judy" creationdate="20151109T141753Z">
+        <seg>實施例說明中各種車輛設定之距離 582 相對距離 584 之比例變化列於表二中。</seg>
       </tuv>
     </tu>
     <tu>
