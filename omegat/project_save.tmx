@@ -7599,6 +7599,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shown in FIG. 8, control arm 530 is longer than control arm 532.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T133402Z" creationid="Judy" creationdate="20151109T133402Z">
+        <seg>如圖 8 所示，控制臂 530 相對控制臂 532 較長，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shown in FIGS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T122459Z">
@@ -24825,6 +24833,38 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034333Z" creationid="Judy" creationdate="20151108T034333Z">
         <seg>在一個實施例中，外殼 462' 和外殼 462 的之差異是因為更換動力源 130 的緣故。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, the motion ratio for suspension 116 is in the range of about 0.5 to about 0.7.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T133304Z" creationid="Judy" creationdate="20151109T133304Z">
+        <seg>在一個實施例中，懸吊 116 之移動比為約 0.5 至 0.7 左右的範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, the motion ratio for suspension 116 is in the range of about 0.5 to about 0.8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T133319Z" creationid="Judy" creationdate="20151109T133319Z">
+        <seg>在一個實施例中，懸吊 116 之移動比為約 0.5 至 0.8 左右的範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, the motion ratio for suspension 116 is in the range of about 0.52 to about 0.59.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T133329Z" creationid="Judy" creationdate="20151109T133329Z">
+        <seg>在一個實施例中，懸吊 116 之移動比為約 0.52 至 0.59 左右的範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, the motion ratio for suspension 116 is in the range of about 0.6 to about 0.8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T133313Z" creationid="Judy" creationdate="20151109T133313Z">
+        <seg>在一個實施例中，懸吊 116 之移動比為約 0.8 至 0.8 左右的範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50802,6 +50842,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080942Z">
         <seg>進度列會顯示職位變更流程的進度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The progressive nature of suspension 116 results in vehicle 100 being softer at normal ride heights and stiffer when suspension 116 is compressed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T133228Z" creationid="Judy" creationdate="20151109T133228Z">
+        <seg>懸吊 116 的前進特性使車輛 100 於正常乘坐高度時更為柔軟，而當懸吊 116 被壓縮時較硬。</seg>
       </tuv>
     </tu>
     <tu>
