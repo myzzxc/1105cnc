@@ -50244,6 +50244,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The motion ratio is defined as the derivative of the dampening member travel to the wheel travel (change in dampening member travel over change in wheel travel).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132314Z" creationid="Judy" creationdate="20151109T132314Z">
+        <seg>移動比定義為抑制的成員前往輪旅行 (變化抑制成員旅行輪旅行的變化) 的導數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The motion sensor for recording allows the selection of unlimited areas, sensitive or insensitive, to movement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132401Z">
@@ -50558,8 +50566,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The position of dampening member 560 relative to axis 650 results in rear suspension 116 having a progressive motion ratio, in the illustrated embodiment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132101Z" creationid="Judy" creationdate="20151109T132101Z">
-        <seg>阻尼元件 560 相對軸 650 之位置內傾使懸吊 116 能有更大的車輪行程移動比。
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132321Z" creationid="Judy" creationdate="20151109T132101Z">
+        <seg>實施例圖中阻尼元件 560 相對軸 650 之位置使使懸吊 116 能有更大的移動比，
 </seg>
       </tuv>
     </tu>
@@ -53122,8 +53130,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This arrangement of radius arms 526 accommodates a longer dampening member 560 and a more progressive suspension 116.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T120108Z" creationid="Judy" creationdate="20151108T120108Z">
-        <seg>此懸臂  526 設計能安裝較長的阻尼元件 560 和更進步的懸吊 116。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132218Z" creationid="Judy" creationdate="20151108T120108Z">
+        <seg>此懸臂  526 設計能安裝較長的阻尼元件 560 和更大移動行程的懸吊 116。</seg>
       </tuv>
     </tu>
     <tu>
