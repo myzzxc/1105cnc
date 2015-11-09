@@ -502,6 +502,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Setup 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141953Z" creationid="Judy" creationdate="20151109T141953Z">
+        <seg>(設定 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Setup 2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141929Z" creationid="Judy" creationdate="20151109T141929Z">
+        <seg>(設定 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Setup 3)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141802Z" creationid="Judy" creationdate="20151109T141802Z">
@@ -2303,6 +2319,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>200 pound</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141937Z" creationid="Judy" creationdate="20151109T141937Z">
+        <seg>200 磅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2008 (3 pages).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T140620Z">
@@ -3197,6 +3221,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T124142Z">
         <seg>7-12，將更詳細地說明框架 12。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>740 pounds)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142141Z" creationid="Judy" creationdate="20151109T142141Z">
+        <seg>740 磅)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15656,6 +15688,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T015806Z" creationid="Judy" creationdate="20151108T015806Z">
         <seg>被驅動元件 402 透過驅動皮帶 404 連接至驅動元件 400。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Driver</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142131Z" creationid="Judy" creationdate="20151109T142131Z">
+        <seg>駕駛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Driver and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142003Z" creationid="Judy" creationdate="20151109T142003Z">
+        <seg>駕駛和</seg>
       </tuv>
     </tu>
     <tu>
@@ -37489,6 +37537,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Passenger</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142138Z" creationid="Judy" creationdate="20151109T142138Z">
+        <seg>乘客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Password-protect files with secure 128-bit or 256-bit AES encryption, permission controls, and open documents protected with FileOpen rights management.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044622Z">
@@ -56373,6 +56429,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vehicle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142042Z" creationid="Judy" creationdate="20151109T142042Z">
+        <seg>車輛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vehicle 10 also includes a roll cage 70 comprised of a front section 72, a center section 74, and a rear section 76, where the front 72, center 74 and rear 76 sections are comprised of a plurality of frame tubes attached to each other and to frame 12 as more fully described herein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T124115Z">
@@ -56447,8 +56511,16 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Vehicle with</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141835Z" creationid="Judy" creationdate="20151109T141835Z">
-        <seg>車輛載重</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141854Z" creationid="Judy" creationdate="20151109T141835Z">
+        <seg>車輛承載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vehicle with Driver, Passen-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141927Z" creationid="Judy" creationdate="20151109T141927Z">
+        <seg>車輛承載駕駛、乘客</seg>
       </tuv>
     </tu>
     <tu>
@@ -60202,6 +60274,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>added weight</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142054Z" creationid="Judy" creationdate="20151109T142054Z">
+        <seg>增加重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>all the regulatory and security requirements related to the production and use of the supply in question are included;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020047Z">
@@ -60238,6 +60318,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T035109Z">
         <seg>（如果使用）加號 ('/ qb +' 或 ' / qn +')，安裝完成後將顯示一個訊息方塊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and cargo (total</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142027Z" creationid="Judy" creationdate="20151109T142027Z">
+        <seg>和貨物 (總</seg>
       </tuv>
     </tu>
     <tu>
@@ -60631,6 +60719,14 @@ Sound zooms along with the picture for a perfect match.</seg>
         <seg>for torque-controlled adhesive anchors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192813Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ger,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141942Z" creationid="Judy" creationdate="20151109T141942Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -61554,6 +61650,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T142309Z">
         <seg>如圖 9 中所示之連接至防滾架中段 74 的橫向框架元件 124 如此處進一步說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unloaded</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142112Z" creationid="Judy" creationdate="20151109T142112Z">
+        <seg>空車</seg>
       </tuv>
     </tu>
     <tu>
