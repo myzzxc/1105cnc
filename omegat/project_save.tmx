@@ -35583,6 +35583,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opening 554 receives air generally while vehicle 100 is traveling in a forward direction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T134147Z" creationid="Judy" creationdate="20151109T134147Z">
+        <seg>一般於車輛 100 向前行駛時，空氣會吹入開口 554 ，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opening the heat exchanger while under pressure could result in explosive movement of the clamp plates or intern al parts, causing bodily harm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T122750Z">
@@ -48722,10 +48730,26 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The air generally impinges on surface 556 and is directed towards opening 554.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T134341Z" creationid="Judy" creationdate="20151109T134316Z">
+        <seg>空氣整體上吹打於表面 556 並被導向開口 554，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The air passes through filter 242 and into the interior of air inlet housing 170 through air inlet 172.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T120353Z" creationid="Judy" creationdate="20151107T120353Z">
         <seg>空氣通過濾芯 242 並通過進氣口 172 流入進氣外殼 170 內部，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The air passes through opening 554 and flows around dampening member 560 to remove heat from dampening member 560.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T134427Z" creationid="Judy" creationdate="20151109T134339Z">
+        <seg>空氣經過開口 554 並流經阻尼元件 560 以帶走阻尼元件 560 之熱量，</seg>
       </tuv>
     </tu>
     <tu>
