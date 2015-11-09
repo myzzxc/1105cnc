@@ -41025,6 +41025,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Referring to FIG. 35, radius arm 526B is shown unassembled from vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T143509Z" creationid="Judy" creationdate="20151109T143509Z">
+        <seg>參照圖 35，懸臂 526B 未組裝於車輛 100 上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Referring to FIG. 37, housing 460 is coupled to housing 462 through a spacer 484.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T033418Z" creationid="Judy" creationdate="20151108T033328Z">
@@ -58141,6 +58149,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When vehicle 100 is at a normal ride height control arms 530 and control arms 532 are generally parallel to the ground.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T143313Z" creationid="Judy" creationdate="20151109T143223Z">
+        <seg>當車輛 100 處於正常駕駛高度時，控制臂 530 和控制臂 532 整體上與地面平行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When working with this library, SS is on Pin 4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134436Z">
@@ -58710,6 +58726,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134914Z">
         <seg>藉由簡單強大的氣動快速釋放裝置，主軸可以手動操作或結合 ATC 自動換刀轉盤進行自動換刀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With control arms 530 and control arms 532 generally parallel to the ground, the vehicle 100 is more resistant to vehicle roll.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T143349Z" creationid="Judy" creationdate="20151109T143310Z">
+        <seg>由於控制臂 530 和控制臂 532 整體上與地面平行，車輛 100 更能防止傾側。</seg>
       </tuv>
     </tu>
     <tu>
