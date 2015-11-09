@@ -2665,6 +2665,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>31 and 33, radius arm 526A and radius arm526B are coupled together througha sway bar 570.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T134624Z" creationid="Judy" creationdate="20151109T134624Z">
+        <seg>31 和 33，懸臂 526A 和懸臂  526B 透過防擺桿 570 相連接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>31-33 show a diagrammatic progressive view of the side net post and pivotal link.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T110517Z">
@@ -14548,6 +14556,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064737Z">
         <seg>DVD-ROM 光碟機（僅於使用光碟安裝時需要）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dampening member 560 is generally positioned proximate to opening 554.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T134505Z" creationid="Judy" creationdate="20151109T134505Z">
+        <seg>阻尼元件 560 一般位於開口 554 附近。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46169,6 +46185,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T054732Z">
         <seg>藉由獨特內部旋渦式設計能高效率地吸取切屑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sway bar 570 is further rotatably coupled to radius arm 526A and radius arm 526B through link 572A and link 572B, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T134810Z" creationid="Judy" creationdate="20151109T134810Z">
+        <seg>防擺桿 570 更分別透過連結 572A 和連結 572B 連接懸臂  526A 和懸臂 526B。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sway bar 570 is rotatably coupled to frame 112.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T134708Z" creationid="Judy" creationdate="20151109T134708Z">
+        <seg>防擺桿 570 連接至框架 112 並可旋轉。</seg>
       </tuv>
     </tu>
     <tu>
