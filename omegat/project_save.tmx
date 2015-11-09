@@ -3843,8 +3843,8 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       <tuv lang="EN-US">
         <seg>A progressive motion ratio exhibits a higher change in dampening member travel at a higher change in wheel travel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132645Z" creationid="Judy" creationdate="20151109T132645Z">
-        <seg>更大的移動比代表更大的阻尼元件行程變化遏抑成員旅行在更高的變動在輪旅行更高的變動。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132845Z" creationid="Judy" creationdate="20151109T132645Z">
+        <seg>更大的移動比代表於較大的車輪移動行程時有更大的阻尼元件移動行程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6671,6 +6671,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T020747Z" creationid="Judy" creationdate="20151108T020747Z">
         <seg>具有鰭片之無段變速元件範例於美國專利申請</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An exemplary plot of the motion ratio for the illustrated embodiment, is provided in FIG. 43.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T133020Z" creationid="Judy" creationdate="20151109T132914Z">
+        <seg>實施例之移動比範例圖請見圖 43。</seg>
       </tuv>
     </tu>
     <tu>
