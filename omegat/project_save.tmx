@@ -19593,8 +19593,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>First plate member 596B includes an opening 602B which receives a fastener as does opening 603B of link 572B to movably couple radius arm 526B to sway bar 570 through link 572B.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T145020Z" creationid="Judy" creationdate="20151109T145020Z">
-        <seg>第一平板元件 596B 包含開口 602B 一樣打開可移動偶半徑臂 526B 防傾杆 570 通過連結 572B 連結 572B 603B 接收緊固件。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T145343Z" creationid="Judy" creationdate="20151109T145020Z">
+        <seg>第一平板元件 596B 包含一個安裝緊固件之開口 602B ，與連結 572B 上的開口 603B 連接並透過連結 572B 安裝懸臂 526B 至防擺桿 572B。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20691,8 +20691,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Front portion 590B includes an opening 600B which receives a fastener as does opening 601B of frame 112 to couple radius arm 526B to frame 112.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T144723Z" creationid="Judy" creationdate="20151109T144723Z">
-        <seg>前部 590B 包括一個安裝緊固件之開口 600B，與框架 112 上安裝懸臂 526B 至框架 112 的開口 601B  作用相同。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T145128Z" creationid="Judy" creationdate="20151109T144723Z">
+        <seg>前部 590B 包括一個安裝緊固件之開口 600B，與框架 112 上的開口 601B 連接安裝懸臂 526B 至框架 112。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24697,6 +24697,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T121040Z">
         <seg>在大多數國家，是富人和窮人以及有辦法和不能開拓新商機的人們之間有極大的差距，且多數情況中他們之間的差距仍在增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, a bearing is carried by link 572B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T145411Z" creationid="Judy" creationdate="20151109T145411Z">
+        <seg>在一個實施例中，連結 572B 具有軸承。</seg>
       </tuv>
     </tu>
     <tu>
