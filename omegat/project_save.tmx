@@ -24661,6 +24661,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In one embodiment, a ground clearance of an unloaded vehicle 100 is at least about 10 inches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T143041Z" creationid="Judy" creationdate="20151109T143041Z">
+        <seg>在一個實施例中，車輛 100 空車之離地間隙至少約 10 英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In one embodiment, a seal is provided between base portion 344 and cover 346.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T135938Z" creationid="Judy" creationdate="20151107T135938Z">
@@ -24703,8 +24711,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In one embodiment, angle 654 has a value in the range of about 10 degrees and about 30 degrees.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T125737Z" creationid="Judy" creationdate="20151108T125737Z">
-        <seg>在一個實施例中，角 654 的範圍為大約 10 度 至大約 30 度之間。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T143059Z" creationid="Judy" creationdate="20151108T125737Z">
+        <seg>在一個實施例中，角 654 的範圍為大約 10 度至大約 30 度之間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24951,8 +24959,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In one embodiment, the center of gravity 580 is generally aligned with a storage location of operator area 212 which reduces an amount of movement of the cargo within the storage compartment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142839Z" creationid="Judy" creationdate="20151109T142730Z">
-        <seg>在一個實施例中，重心 580 一般與駕駛區 212 之置物區對齊，以減少貨物於儲存空間內的移動。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142845Z" creationid="Judy" creationdate="20151109T142730Z">
+        <seg>在一個實施例中，重心 580 一般與駕駛區 212 之置物區對齊，以減少貨物於儲存空間內的移動，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24969,6 +24977,22 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034333Z" creationid="Judy" creationdate="20151108T034333Z">
         <seg>在一個實施例中，外殼 462' 和外殼 462 的之差異是因為更換動力源 130 的緣故。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, the ground clearance of an unloaded vehicle 100 is about 13.5 inches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T143111Z" creationid="Judy" creationdate="20151109T143111Z">
+        <seg>在一個實施例中，車輛 100 空車之離地間隙至少約 13.5 英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, the ground clearance of an unloaded vehicle 100 is about 14 inches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T143118Z" creationid="Judy" creationdate="20151109T143118Z">
+        <seg>在一個實施例中，車輛 100 空車之離地間隙至少約 14 英吋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52626,6 +52650,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T134139Z" creationid="Judy" creationdate="20151106T134139Z">
         <seg>後軸 110 之車輪 104 透過後獨立懸吊 116 安裝於車輛 100 的框架 112 上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The width of suspensions 116 permits an increased ground clearance without increasing the height of the center of gravity 580.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142959Z" creationid="Judy" creationdate="20151109T142959Z">
+        <seg>懸吊 116 之寬度允許增加離地間隙而不增加重心 580 的高度。</seg>
       </tuv>
     </tu>
     <tu>
