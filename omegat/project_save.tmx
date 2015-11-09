@@ -10461,6 +10461,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Center of gravity 580 is generally centered close to or on vertical centerline plane 122 of vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141324Z" creationid="Judy" creationdate="20151109T141324Z">
+        <seg>重心 580 一般接近車輛 100 之垂直中線平面 122 中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Center roll cage section 74 is comprised of uprights 246, transverse section 248 and longitudinally extending sections 250.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T124932Z">
