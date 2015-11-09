@@ -3841,6 +3841,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A progressive motion ratio exhibits a higher change in dampening member travel at a higher change in wheel travel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132645Z" creationid="Judy" creationdate="20151109T132645Z">
+        <seg>更大的移動比代表更大的阻尼元件行程變化遏抑成員旅行在更高的變動在輪旅行更高的變動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A properly configured shield can read the IOREF pin voltage and select the appropriate power source or enable voltage translators on the outputs for working with the 5V or 3.3V.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124835Z">
@@ -50246,8 +50254,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The motion ratio is defined as the derivative of the dampening member travel to the wheel travel (change in dampening member travel over change in wheel travel).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132314Z" creationid="Judy" creationdate="20151109T132314Z">
-        <seg>移動比定義為抑制的成員前往輪旅行 (變化抑制成員旅行輪旅行的變化) 的導數。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132746Z" creationid="Judy" creationdate="20151109T132314Z">
+        <seg>移動比定義為阻尼元件往車輪方向的移動行程的導數 (阻尼元件移動行程除以車輪移動行程)。</seg>
       </tuv>
     </tu>
     <tu>
