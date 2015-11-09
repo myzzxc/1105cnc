@@ -53948,6 +53948,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This results in a camber angle change as the wheel moves upward.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T133658Z" creationid="Judy" creationdate="20151109T133658Z">
+        <seg>當車輪向上移動時，此設計將使外傾角改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This robust knife design features Exacto style blades available in many sizes and strengths.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T142542Z">
