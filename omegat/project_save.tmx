@@ -9796,6 +9796,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By placing sway bar 570 in front of power source 130, sway bar 570 is closer to the pivot axis of radius arm 526A and radius arm 526B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T135610Z" creationid="Judy" creationdate="20151109T135610Z">
+        <seg>將防擺桿 570 放置於動力源 130 前方，防擺桿 570 將更接懸臂 526A 和懸臂  526B 之樞軸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By simply changing the spacer 484, various combinations of power source 130</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034520Z" creationid="Judy" creationdate="20151108T034520Z">
@@ -46215,8 +46223,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Sway bar 570 operates to tie rear suspension 116A to rear suspension 116B while still permitting the relative movement of radius arm 526A relative to radius arm 526B due to flexing of the arms of sway bar 570.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T135338Z" creationid="Judy" creationdate="20151109T135338Z">
-        <seg>防擺桿 570 用於連接後懸吊 116A 至後懸吊 116b，同時由於防擺桿 570 桿臂的伸縮仍允許懸臂 526B 和懸臂 526A 的相對運動。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T135652Z" creationid="Judy" creationdate="20151109T135338Z">
+        <seg>防擺桿 570 用於連接後懸吊 116A 至後懸吊 116b，同時由於防擺桿 570 桿臂的彎曲仍允許懸臂 526B 和懸臂 526A 的相對運動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54016,6 +54024,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T155457Z">
         <seg>此認可過程應經過審核或其它評估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This reduces the amount of flexion that sway bar 570 experiences during the operation of vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T135753Z" creationid="Judy" creationdate="20151109T135629Z">
+        <seg>此設計能於車輛 100 的行駛期間減少防擺桿 570 的彎曲量。</seg>
       </tuv>
     </tu>
     <tu>
