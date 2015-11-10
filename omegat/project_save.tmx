@@ -7807,6 +7807,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As such, vehicle 100 is able, to travel up fairly steep grades and to maneuver over large obstacles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T130327Z" creationid="Judy" creationdate="20151110T130327Z">
+        <seg>因此，車輛 100 能夠駕駛於陡坡且能越過大型障礙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As temperatures rise, bacterial growth occurs more quickly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031242Z">
@@ -24797,6 +24805,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In one embodiment, a lateral width of vehicle 100 from the outside of a first tire 106 to the outside of a second tire 106 on the opposite side of vehicle 100 is about 64 inches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T130531Z" creationid="Judy" creationdate="20151110T130531Z">
+        <seg>在一個實施例中，車輛 100 由第一輪胎 106 的外側至車輛 100 的第二個輪胎 106 另一側的橫向寬度大約為 64 英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In one embodiment, a seal is provided between base portion 344 and cover 346.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T135938Z" creationid="Judy" creationdate="20151107T135938Z">
@@ -41283,8 +41299,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Referring to FIG. 5, tires 106 defines an outer envelope of vehicle 100.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T130125Z" creationid="Judy" creationdate="20151110T130125Z">
-        <seg>參照圖 5，輪胎 106 為車輛 100 的最外端邊界，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T130225Z" creationid="Judy" creationdate="20151110T130125Z">
+        <seg>參照圖 5，輪胎 106 為車輛 100 的最外端邊界。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54779,6 +54795,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034756Z">
         <seg>參與時機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tires 106 of front axle 108 are generally the first part of vehicle 100 to contact an obstacle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T130222Z" creationid="Judy" creationdate="20151110T130222Z">
+        <seg>前輪軸 108 之輪胎 106 一般為車輛 100 最先接觸障礙物的部分，</seg>
       </tuv>
     </tu>
     <tu>
