@@ -20860,6 +20860,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further, by having tires 106 define the outer envelope of vehicle 100 the additional weight of an operator, a passenger, and cargo in cargo bed 234 does not generally affect the ride of vehicle 100 because the additional weight is within the front axle 108 and rear axle 110 of vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T131130Z" creationid="Judy" creationdate="20151110T131130Z">
+        <seg>此外，由於輪胎 106 為車輛 100 的最外側，駕駛、乘客、載貨平板 234 上的貨物的額外重量一般不會影響車輛 100 的行駛，因為額外的重量位於車輛 100 的前輪軸 108 和後輪軸 110 之內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further, in the illustrated embodiment the power source 130, shiftable transmission 144, and CVT unit 140 are positioned completely behind seating 211.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T070550Z" creationid="Judy" creationdate="20151108T070550Z">
