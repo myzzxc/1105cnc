@@ -4122,6 +4122,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A vehicle, comprising:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T140937Z" creationid="Judy" creationdate="20151110T140937Z">
+        <seg>一車輛，其中包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A vision for 2050</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T060824Z">
@@ -20908,6 +20916,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further, the amount of braking force is reduced due to the increased mechanical advantage of coupling the parking brake 670 to the shaft 680 of shiftable transmission 144 as compared to a drive shaft 152 (see FIG. 9) of vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T133750Z" creationid="Judy" creationdate="20151110T133750Z">
+        <seg>此外，，將手煞車 670 連接至變速箱 144 的傳動軸 680 與連接到車輛 100 的驅動軸 152 相比 (見圖 9)，因為增加機械優點而使制動力下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further, the half shafts 150 extending from rear drive unit 148 are laterally extending.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T071017Z" creationid="Judy" creationdate="20151108T071017Z">
@@ -25065,6 +25081,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T043444Z" creationid="Judy" creationdate="20151108T043444Z">
         <seg>在一個實施例中，間隔件 484 之第二部分 485 能使用其他適當的緊固件或固定元件連接至外殼 460。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, parking brake 670 may also be used for dynamic braking in addition to being a parking brake.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T133914Z" creationid="Judy" creationdate="20151110T133914Z">
+        <seg>在一個實施例中，手煞車 670 除了作為停車煞車外也能用於動態制動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58693,6 +58717,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While this invention has been described as having an exemplary design, the present invention may be further modified</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T133929Z" creationid="Judy" creationdate="20151110T133929Z">
+        <seg>雖然此發明已具有示範設計說明，現有發明仍可於本揭露內容之精神和範圍內進一步修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While this invention has been described as having an exemplary design, the present invention may be further modified within the spirit and scope of this disclosure.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T132644Z">
@@ -60650,6 +60682,22 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a frame;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T140945Z" creationid="Judy" creationdate="20151110T140945Z">
+        <seg>一組框架；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a plurality of ground engaging members supporting the frame;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T140958Z" creationid="Judy" creationdate="20151110T140958Z">
+        <seg>由框架支撐之多組接觸地面元件；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a plurality of wheels operably coupled to the frame;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T025026Z">
@@ -60718,6 +60766,22 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T132919Z">
         <seg>使用之原料的分析證書；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>an internal combustion power source supported by the frame and operatively coupled to at least one of the plurality of ground engaging members to propel the vehicle;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T141145Z" creationid="Judy" creationdate="20151110T141145Z">
+        <seg>一組由框架支撐之內燃式動力源並連接至多組接觸地面元件中至少一組接觸地面元件以推動車輛；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>an operator area supported by the frame, the operator area including seating and operator controls;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T142426Z" creationid="Judy" creationdate="20151110T142426Z">
+        <seg>以框架支撐之駕駛區，駕駛區包含座位和操作控制；</seg>
       </tuv>
     </tu>
     <tu>
@@ -62107,6 +62171,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125723Z">
         <seg>無論風雨或下雪
 都能留下美好回憶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>within the spirit and scope of this disclosure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T133933Z" creationid="Judy" creationdate="20151110T133933Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
