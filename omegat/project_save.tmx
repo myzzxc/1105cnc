@@ -52894,6 +52894,30 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The vehicle of claim 1, wherein the cargo carrying portion is a cargo bed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T142944Z" creationid="Judy" creationdate="20151110T142944Z">
+        <seg>專利範圍 1 中的車輛之載貨部分為一張載貨平板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vehicle of claim 2, wherein the cargo carrying portion includes a floor and a plurality of walls, the floor including a removable cover which permits access to a portion of the first air intake system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T143130Z" creationid="Judy" creationdate="20151110T143112Z">
+        <seg>專利範圍 2 中的車輛之載貨部分包含一塊平板和多面外牆，平板包括可拆式外蓋，拆卸後可進入第一空氣進氣系統部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vehicle of claim 3, wherein the portion of the first air intake system is an airbox including a filter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T143113Z" creationid="Judy" creationdate="20151110T143113Z">
+        <seg>第一空氣進氣系統的部分可能為包括濾芯之風箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The vehicle, comprising a frame; a plurality of ground engaging members supporting the frame; a power source supported by the frame and operatively coupled to at least one of the plurality of ground engaging members to propel the vehicle; an operator area supported by the frame, the operator area including seating and operator controls; a rear drive unit supported by the frame and positioned rearward of the operator area; and a first rear suspension system movably coupling the first ground engaging member to the frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T135003Z">
@@ -60654,6 +60678,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T024924Z">
         <seg>一組由框架支撐之傳動系統；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a first air intake system operatively coupled to the internal combustion power source to communicate ambient air to the internal combustion power source, the first air intake system receiving ambient air through a first air inlet in an exterior body panel of the caigo carrying portion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T142809Z" creationid="Judy" creationdate="20151110T142809Z">
+        <seg>連接至內燃式動力源之第一空氣進氣系統以輸送空氣至內燃式動力源，第一空氣進氣系統經由載貨部分主體外部鈑金內的第一進氣口接收空氣。</seg>
       </tuv>
     </tu>
     <tu>
