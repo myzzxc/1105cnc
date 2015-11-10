@@ -19623,6 +19623,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First plate member 596B is uncoupled from link 572B and dampening member 560B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T125735Z" creationid="Judy" creationdate="20151110T125735Z">
+        <seg>第一平板元件 596B 由連結 572B 和阻尼元件 560B 上拆除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, an evaluation by the project team of interface connections will be one of the most important factors for selecting a module concept.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144514Z">
@@ -20725,6 +20733,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T144337Z" creationid="Judy" creationdate="20151109T144337Z">
         <seg>前部 590B 為懸臂 526B 的一部份，固定至框架 112 之線 524 上並可旋轉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front portion 590B is uncoupled from frame 112.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T125701Z" creationid="Judy" creationdate="20151110T125651Z">
+        <seg>前部 590B 由框架上 112 拆除，</seg>
       </tuv>
     </tu>
     <tu>
@@ -55005,6 +55021,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152430Z">
         <seg>為了達到我們卓越的目標並滿足客戶的需求，整個供應鏈必須共同參與，且我們期望供應商能主動參與此流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove radius arm 526B from vehicle 100, the fasteners coupling rear portion 534B to bearing carrier 536B are removed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T125653Z" creationid="Judy" creationdate="20151110T125619Z">
+        <seg>若要將懸臂 526B 從車輛 100 上拆除，需將後部 534B 固定至軸承載具 536B 之緊固件拆除，</seg>
       </tuv>
     </tu>
     <tu>
