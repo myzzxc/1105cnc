@@ -52912,8 +52912,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The vehicle of claim 1, further comprising a fuel source operatively coupled to the internal combustion power source, such that the internal combustion power source uses the ambient air received through the first air inlet in the combustion of fuel provided by the fuel source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T132412Z" creationid="Judy" creationdate="20151111T132412Z">
-        <seg>專利範圍 21 中的車輛更包括連接至內燃式動力源之燃料源，內燃式動力源利用來自第進氣口之空氣與燃料源提供之燃料燃燒。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T133331Z" creationid="Judy" creationdate="20151111T132412Z">
+        <seg>專利範圍 21 中的車輛更包括連接至內燃式動力源之燃料源，內燃式動力源利用來自第一進氣口之空氣與燃料源提供之燃料燃燒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53042,6 +53042,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T131802Z" creationid="Judy" creationdate="20151111T131802Z">
         <seg>專利範圍 21 中的車輛更包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vehicle of claim 25, wherein the power source comprises an internal combustion engine, the vehicle further comprising a fuel source operatively coupled to the internal combustion engine, such that the internal combustion engine uses the ambient air received through the first air inlet in the combustion of fuel provided by the fuel source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T133321Z" creationid="Judy" creationdate="20151111T133321Z">
+        <seg>專利範圍 25 中的車輛之動力源包含一組內燃式引擎，車輛更包含連接至內燃式引擎之燃料源，如此一來內燃式引擎能利用來自第一進氣口之空氣與燃料源提供之燃料燃燒。</seg>
       </tuv>
     </tu>
     <tu>
