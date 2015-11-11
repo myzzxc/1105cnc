@@ -60714,6 +60714,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a CVT housing having an interior containing the drive member, the driven member, and the drive belt, the CVT housing including a plurality of CVT air inlets to the interior of the CVT housing, a first CVT air inlet being positioned proximate the drive member and a second CVT air inlet being positioned proximate the driven member, both the first CVT air inlet and the second CVT air inlet being in fluid communication with the second air intake system to receive ambient air from the second air intake system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T125407Z" creationid="Judy" creationdate="20151111T125407Z">
+        <seg>一組無段變速外箱包含驅動元件、被驅動元件多個通入無段變速外箱內部之進氣口，第一進氣口位置接近驅動元件而第二進氣口位置接近被驅動元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a CVT unit supported by the frame and operatively coupled between the internal combustion power source and the at least one of the plurality of ground engaging members; and</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T143856Z" creationid="Judy" creationdate="20151110T143856Z">
@@ -60738,6 +60746,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a drive belt operatively coupling the driven member to the drive member; and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T125326Z" creationid="Judy" creationdate="20151111T125326Z">
+        <seg>一組驅動皮帶連接被驅動元件至驅動元件；以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a drive member operatively coupled to the internal combustion power source;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T125132Z" creationid="Judy" creationdate="20151111T125132Z">
@@ -60750,6 +60766,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T024924Z">
         <seg>一組由框架支撐之傳動系統；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a driven member operatively coupled to at least one of the plurality of ground engaging members;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T125253Z" creationid="Judy" creationdate="20151111T125253Z">
+        <seg>一組被驅動元件連接至多組接觸地面元件中至少一組接觸地面元件。</seg>
       </tuv>
     </tu>
     <tu>
