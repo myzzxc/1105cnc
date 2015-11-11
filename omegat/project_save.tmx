@@ -52968,8 +52968,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The vehicle of claim 11, wherein the CVT unit includes a diverter which receives the ambient air from the second air intake system and directs a first portion of the ambient air to the first CVT air inlet and a second portion of the ambient air to the second CVT air inlet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T125817Z" creationid="Judy" creationdate="20151111T125817Z">
-        <seg>專利範圍 11 中的車輛之無段變速單元包括一組分流器用以接收來自第二空氣進氣系統之空氣，並將第一部分空氣導向第一進氣口而第二部分空氣導向第二進氣口。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T134044Z" creationid="Judy" creationdate="20151111T125817Z">
+        <seg>專利範圍 11 中的車輛之無段變速單元包括一組分流器用以接收來自第二空氣進氣系統之空氣，並將第一部分空氣導向第一無段變速進氣口而第二部分空氣導向第二無段變速進氣口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53106,6 +53106,22 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T133804Z" creationid="Judy" creationdate="20151111T133804Z">
         <seg>專利範圍 30 中的車輛之第一進氣口和第二進氣口皆位於駕駛區後方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vehicle of claim 32, wherein the CVT housing includes an air outlet through which air exits the interior of the CVT housing, the air outlet being in fluid communication with a fluid conduit which directs the air at a portion of the power source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T134131Z" creationid="Judy" creationdate="20151111T134131Z">
+        <seg>專利範圍 32 中的車輛之無段變速外殼包含使空氣由無段變速外殼內部排出之出氣口，出氣口與流體管道連接以將空氣導向動力源的部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vehicle of claim 32, wherein the CVT unit includes a diverter which receives the ambient air from the second air intake system and directs a first portion of the ambient air to the first CVT air inlet and a second portion of the ambient air to the second CVT air inlet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T134027Z" creationid="Judy" creationdate="20151111T134027Z">
+        <seg>專利範圍 32 中的車輛之無段變速單元包括一組分流器用以接收來自第二空氣進氣系統之空氣，並將第一部分空氣導向第一無段變速進氣口而第二部分空氣導向第二無段變速進氣口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60954,6 +60970,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a driven member operatively coupled to at least one of the</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T133927Z" creationid="Judy" creationdate="20151111T133830Z">
+        <seg>一組被驅動元件連接至多組接觸地面元件中至少一組接觸地面元件；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a driven member operatively coupled to at least one of the plurality of ground engaging members;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T125253Z" creationid="Judy" creationdate="20151111T125253Z">
@@ -62138,6 +62162,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T135021Z">
         <seg>多組支撐框架之接觸地面元件；以框架支撐之動力源並連接到至少一組接觸地面元件以推動車輛；以框架支撐之駕駛區，駕駛區包含座位和操控元件；以框架支稱並置於駕駛區後方的後驅動單元，後驅動單元連接動力源與駕駛區後方之第一接觸地面元件，
 並透過傳動軸傳送動力源之動力至第一接觸地面元件；以及連接第一接觸地面元件和框架的可動式第一後懸吊系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>plurality of ground engaging members;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T133932Z" creationid="Judy" creationdate="20151111T133932Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
