@@ -53071,6 +53071,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The vehicle further comprising a first rear suspension system moveably coupling the first ground engaging member to the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T131027Z" creationid="Judy" creationdate="20151112T131027Z">
+        <seg>車輛更包含一組連接第一接觸地面元件與框架的可動式第一後懸吊系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The vehicle further comprising a second rear suspension system movably coupling the second ground engaging member to the frame, the second rear suspension system including a second movable arm; and a sway bar coupling the first rear suspension to the second rear suspension, the sway bar being coupled to the frame at a location forward of the power source.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T015707Z">
@@ -53082,6 +53090,14 @@ For further details, see the Detailed User Guide.</seg>
         <seg>The vehicle further comprising a second rear suspension system movably coupling the second ground engaging member to the frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T001115Z">
+        <seg>車輛更包含一組連接第二接觸地面元件與框架的可動式第二後懸吊系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vehicle further comprising a second rear suspension system moveably coupling the second ground engaging member to the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T131112Z" creationid="Judy" creationdate="20151112T131112Z">
         <seg>車輛更包含一組連接第二接觸地面元件與框架的可動式第二後懸吊系統，</seg>
       </tuv>
     </tu>
