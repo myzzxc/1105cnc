@@ -8023,6 +8023,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As such, vehicle 100 is able to travel up fairly steep grades and to maneuver over large obstacles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T145458Z" creationid="Judy" creationdate="20151112T145458Z">
+        <seg>因此，車輛 100 能夠駕駛於陡坡且能越過大型障礙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As such, vehicle 100 is able, to travel up fairly steep grades and to maneuver over large obstacles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T130327Z" creationid="Judy" creationdate="20151110T130327Z">
@@ -34499,6 +34507,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No. 11/218,163, titled CONTROLLER AREA NETWORK BASED SELF-CONFIGURING VEHICLE MANAGEMENT SYSTEM AND METHOD, the disclosures of which are expressly incorporated by reference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T145636Z" creationid="Judy" creationdate="20151112T145636Z">
+        <seg> 11/218,163、標題「CONTROLLER AREA NETWORK BASED SELF-CONFIGURING VEHICLE MANAGEMENT SYSTEM AND METHOD」中揭露，此處所敘述之揭露將引用參考資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No. 11/494,891, titled SIDE-BY-SIDE ATV, docket PLR-06-1688.01P, the disclosure of which is expressly incorporated by reference herein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T064341Z" creationid="Judy" creationdate="20151108T064341Z">
@@ -34535,6 +34551,14 @@ without the documented approval of the appropriate Quality Control personnel.
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T014637Z">
         <seg>No. 12/246,948 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No. 12/816,004, titled ELECTRIC VEHICLE, and U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T145619Z" creationid="Judy" creationdate="20151112T145552Z">
+        <seg>12/816,004、標題「ELECTRIC VEHICLE」，以及美國專利</seg>
       </tuv>
     </tu>
     <tu>
@@ -56937,6 +56961,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181414Z">
         <seg>US/M§‖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>US20100090797, titled VEHICLE SECURITY SYSTEM, U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T145527Z" creationid="Judy" creationdate="20151112T145527Z">
+        <seg>US20100090797、標題「VEHICLE SECURITY SYSTEM」，美國專利申請</seg>
       </tuv>
     </tu>
     <tu>
