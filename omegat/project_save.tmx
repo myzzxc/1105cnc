@@ -1951,8 +1951,8 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>14-19, published at least as early as Jan.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T084207Z">
-        <seg>14-19, 發行於</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T123403Z">
+        <seg>14-19頁，發行於</seg>
       </tuv>
     </tu>
     <tu>
@@ -2361,16 +2361,16 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>2008, available at http://www.lredline.com/news_events/PDF/cart_wheelin_article.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T084244Z">
-        <seg>2008 年 1 月，網址 http://www.lredline.com/news_events/PDF/cart_wheelin_article。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T123424Z">
+        <seg>2008 年 1 月，網址 http://www.lredline.com/news_events/PDF/cart_wheelin_article</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2009, pp.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T084455Z">
-        <seg>2009 年 3/4 月 發行，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T123456Z">
+        <seg>2009 年 2/3 月 發行，</seg>
       </tuv>
     </tu>
     <tu>
@@ -35881,6 +35881,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133242Z">
         <seg>當看到確認頁面時，檢查頁面上顯示的詳細資訊顯示並點擊 Done (完成)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One Seat at a Time., Cartwheelin’ Magazine, pp.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T123339Z" creationid="Judy" creationdate="20151112T123339Z">
+        <seg>One Seat at a Time., Cartwheelin’ 雜誌，</seg>
       </tuv>
     </tu>
     <tu>
