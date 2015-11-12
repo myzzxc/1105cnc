@@ -518,10 +518,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Setup 1) Vehicle unloaded</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143853Z" creationid="Judy" creationdate="20151112T143853Z">
+        <seg>(設定 1) 空車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Setup 2)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141929Z" creationid="Judy" creationdate="20151109T141929Z">
         <seg>(設定 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Setup 2) Vehicle with 200 pound Driver</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143946Z" creationid="Judy" creationdate="20151112T143946Z">
+        <seg>(設定 2) 車輛承載 200 磅重之駕駛</seg>
       </tuv>
     </tu>
     <tu>
@@ -7823,6 +7839,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shown in FIG. 31, line 524 is positioned below the seating region of operator area 212.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143647Z" creationid="Judy" creationdate="20151112T143647Z">
+        <seg>如圖 31 所示，線 524 位於駕駛區 212 之座位區域下方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shown in FIG. 38, housing 460 includes attachment features 488 and 490.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T043000Z" creationid="Judy" creationdate="20151108T042758Z">
@@ -10024,6 +10048,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T125403Z" creationid="Judy" creationdate="20151110T125403Z">
         <seg>後部 534B 包含開口端 606B，因而能將懸臂  526B 從車輛 100 上拆除而毋需將傳動軸 150B 由車輪 104 或後輪驅動單元 148 上拆下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By having sway bar 570 coupled to frame 112 at a location forward of power source 130 and the remainder of rear independent suspensions 116 not overlapping power source 130,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143757Z" creationid="Judy" creationdate="20151112T143757Z">
+        <seg>將防擺桿 570 連接於框架 112 上之動力源 130 前方位置並使後獨立懸吊 116 不與動力源 130 重疊，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22768,6 +22800,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Housing 462 of power source 130 is coupled to brackets 456 of support member 454.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143554Z" creationid="Judy" creationdate="20151112T143554Z">
+        <seg>動力源 130 之外殼 462 連接到支撐元件 454 的支架 456。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hover on Job Change.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T234428Z">
@@ -34419,6 +34459,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No. 11/494,891, titled SIDE-BY-SIDE ATV, the disclosure of which is expressly incorporated by reference herein.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143617Z" creationid="Judy" creationdate="20151112T143617Z">
+        <seg> 11/494,891、標題「SIDE-BY-SIDE ATV」之中，此處所敘述之揭露將引用參考資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No. 12/069, 521, filed Feb.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T021712Z" creationid="Judy" creationdate="20151108T021712Z">
@@ -42860,6 +42908,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotation axis 650 passes through the connection of radius arms 526 and frame 112 and the connection point of control arms 530.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143717Z" creationid="Judy" creationdate="20151112T143717Z">
+        <seg>旋轉軸 650 通過懸臂 526 和框架 112 之連接點以及控制臂 530 的連接點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotation vector</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125732Z">
@@ -50191,6 +50247,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141604Z" creationid="Judy" creationdate="20151109T141604Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The change in the ratio of distance 582 to distance 584 for various vehicle setups are provided in Table II for the illustrated embodiment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143840Z" creationid="Judy" creationdate="20151112T143840Z">
+        <seg>實施例說明中各種車輛設定之距離 582 相對距離 584 之比例變化列於表二中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62926,6 +62990,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T130910Z" creationid="Judy" creationdate="20151112T130910Z">
         <seg>以及透過第二傳動軸傳送動力源動力至位於駕駛區後方的第二接觸地面元件。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>power source 130 may be placed lower on vehicle 100 resulting in a center of gravity 580 (see FIG. 3) of an unloaded vehicle 100 to be lower.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143820Z" creationid="Judy" creationdate="20151112T143820Z">
+        <seg>動力源 130 能置於車輛 100 較低的位置以使車輛 100 的空車重心 580 (見圖 3) 更低。</seg>
       </tuv>
     </tu>
     <tu>
