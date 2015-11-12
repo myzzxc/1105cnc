@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Setup 3) Vehicle with 200 pound Driver and 200 pound Passenger</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T144009Z" creationid="Judy" creationdate="20151112T144009Z">
+        <seg>(設定 3) 車輛承載 200 磅重之駕駛和 200 磅重之乘客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Setup 4)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141806Z" creationid="Judy" creationdate="20151109T141806Z">
@@ -3192,6 +3200,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T132524Z" creationid="Judy" creationdate="20151106T132524Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>572B to moveably couple radius arm 526B to sway bar 570 through link 572B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T145216Z" creationid="Judy" creationdate="20151112T145216Z">
+        <seg>與連結 572B 上的開口 603B 連接並透過連結 572B 安裝懸臂 526B 至防擺桿 572B。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10849,6 +10865,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140258Z">
         <seg>將 en-us 改為所需語言碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change in CG</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T144131Z" creationid="Judy" creationdate="20151112T144131Z">
+        <seg>CG 變化</seg>
       </tuv>
     </tu>
     <tu>
@@ -19243,6 +19267,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fasteners are used to couple rear portion 534B to bearing carrier 53 6B such that rear portion 534B is generally not moveable relative to bearing carrier 53 6B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T145314Z" creationid="Judy" creationdate="20151112T145314Z">
+        <seg>使用緊固將後部 534B 固定至軸承載具 536B ，如此一來後部 534B 整體上不相對軸承載具 536B 移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fasteners are used to couple rear portion 534B to bearing carrier 536B such that rear portion 534B is generally not movable relative to bearing carrier 536B.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T145953Z" creationid="Judy" creationdate="20151109T145953Z">
@@ -19903,6 +19935,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First plate member 596B includes an opening 602B which receives a fastener as does opening 603B of link</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T145201Z" creationid="Judy" creationdate="20151112T145201Z">
+        <seg>第一平板元件 596B 包含一個安裝緊固件之開口 602B ，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First plate member 596B includes an opening 602B which receives a fastener as does opening 603B of link 572B to movably couple radius arm 526B to sway bar 570 through link 572B.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T145343Z" creationid="Judy" creationdate="20151109T145020Z">
@@ -19914,6 +19954,14 @@ Count on steady, less jittery images with effective compensation for camera shak
         <seg>First plate member 596B includes an opening 604B which receives a fastener as does opening 605B of dampening member 560B to movably couple radius arm 526B to dampening member 560B.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T145536Z" creationid="Judy" creationdate="20151109T145536Z">
+        <seg>第一平板元件 596B 包含一個安裝緊固件之開口 604B ，與阻尼元件 560B 上的開口 605B 連接安裝懸臂 526B 至阻尼元件 560B。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First plate member 596B includes an opening 604B which receives a fastener as does opening 605B of dampening member 560B to moveably couple radius arm 526B to dampening member 560B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T145237Z" creationid="Judy" creationdate="20151112T145237Z">
         <seg>第一平板元件 596B 包含一個安裝緊固件之開口 604B ，與阻尼元件 560B 上的開口 605B 連接安裝懸臂 526B 至阻尼元件 560B。</seg>
       </tuv>
     </tu>
@@ -57923,6 +57971,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141927Z" creationid="Judy" creationdate="20151109T141927Z">
         <seg>車輛承載駕駛、乘客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vehicle with Driver, Passenger, and cargo (total added weight 740 pounds)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T144125Z" creationid="Judy" creationdate="20151112T144125Z">
+        <seg>車輛承載駕駛、乘客以及貨物 (總增加重量為 740 磅)</seg>
       </tuv>
     </tu>
     <tu>
