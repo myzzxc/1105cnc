@@ -7759,6 +7759,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shown in FIG. 19, latch mechanism 278 interacts with a latch pin 282 which is coupled to floor 224 to couple removable cover 270 to floor 224 in a closed position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T142450Z" creationid="Judy" creationdate="20151112T142450Z">
+        <seg>如圖 19 所示，閂鎖機構 278 與固定於底板 224 之閂鎖銷 282 配合以將可拆式外蓋 270 固定於底板 224 關閉位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shown in FIG. 19, latch mechanism 278 interacts with a latch pin 282 which is coupled to floor 224 to couple removable cover 270 to floor 224.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T125503Z" creationid="Judy" creationdate="20151107T125503Z">
@@ -39591,6 +39599,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135626Z">
         <seg>電源需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power source 130 and CVT unit 140 are also accessible through space 272.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T142235Z" creationid="Judy" creationdate="20151112T142235Z">
+        <seg>動力源 130 和無段變速單元 140 也能透過空間 272 進行維修。</seg>
       </tuv>
     </tu>
     <tu>
