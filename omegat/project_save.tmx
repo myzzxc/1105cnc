@@ -1820,6 +1820,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>108 and, when inactive, power is provided to one of the wheels of front axle 108.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T140856Z" creationid="Judy" creationdate="20151112T140856Z">
+        <seg>當設定停用時，動力將傳輸至前輪軸 108 的其中一個車輪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1080/50p progressive recording is also available for high-end models.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T054958Z">
@@ -6607,6 +6615,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T132006Z">
         <seg>雖然 IMPERVITE® 本身能耐熱衝擊，請勿於熱交換器未裝載液體時或處於低溫時將高溫液體或蒸氣注入，或於熱交換器高溫時注入冷液體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although each of front axle 108 and rear axle 110 are shown having a single ground engaging members 102 on each side,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T140814Z" creationid="Judy" creationdate="20151112T140814Z">
+        <seg>雖然圖中前軸 108 和後軸 110 各側只有一組接觸地面元件 102，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18122,6 +18138,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIG. 10A is a representative view of the location of the air inlet of the air handling system of a power source of FIG. 10 and the location of the air inlet of the air handling system of a CVT unitofFIG. 10 relative to the power source and the CVT unit;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T140711Z" creationid="Judy" creationdate="20151112T140620Z">
+        <seg>圖 10A 為圖 10 中之動力源的空氣處理系統的進氣口代表圖和圖 10 中之無段變速單元的空氣處理系統的進氣口位置與動力源和無段變速單元的關係代表圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIG. 11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T142557Z">
@@ -18502,6 +18526,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085351Z">
         <seg>圖 28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIG. 28 illustrates a top view of the coupling of a unit including the power source, the shiftable transmission, and the rear drive to the frame of the vehicle of FIG. 1,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T140729Z" creationid="Judy" creationdate="20151112T140729Z">
+        <seg>圖 28 為圖 1 之車輛動力源、變速箱和後驅動單元與車輛框架組裝上視圖；</seg>
       </tuv>
     </tu>
     <tu>
@@ -25905,6 +25937,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015418Z" creationid="Judy" creationdate="20151107T015418Z">
         <seg>當設定啟動進行引擎煞車時，引擎煞車將傳輸至前輪軸 108 的兩個車輪；當設定停用時，引擎煞車將不傳輸至前輪軸 108 的車輪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of the on-demand torque transfer, when active, power is provided to both of the wheels of front axle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T140852Z" creationid="Judy" creationdate="20151112T140852Z">
+        <seg>當設定啟動進行動力傳輸時，動力將傳輸至前輪軸 108 的兩個車輪；</seg>
       </tuv>
     </tu>
     <tu>
@@ -62403,6 +62443,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034407Z">
         <seg>msiexec.exe 將安裝產品預設語言（英文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>multiple ground engaging members 102 may be included on each side of the respective front axle 108 and rear axle 110.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T140819Z" creationid="Judy" creationdate="20151112T140819Z">
+        <seg>前軸 108 和後軸 110 各側可能有多組接觸地面元件 102。</seg>
       </tuv>
     </tu>
     <tu>
