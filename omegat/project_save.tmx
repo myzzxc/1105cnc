@@ -62798,6 +62798,15 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>manipulating the movable cover to provide an access opening in the floor while not moving a remainder of the floor the movable cover permitting access to the CVT; and accessing the filter in the airbox through the access opening in the floor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151113T135311Z" creationid="Judy" creationdate="20151113T135054Z">
+        <seg>操縱可動式外蓋能提供一開口進行無段變速維修而無須移動可動式外蓋以外之底板；以及
+透過底板之開口更換風箱內之濾芯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>material and or energy that passes through a reference Interface</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094709Z">
@@ -63220,8 +63229,8 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="EN-US">
         <seg>providing a movable cover within the caigo carrying portion, the cargo carrying portion being rearward of an operator space of the side-by-side vehicle and the movable cover being a portion of a floor of the cargo carrying portion, the cargo carrying portion positioned above a rear axle of the side-by-side vehicle, the movable cover providing access through the floor; providing an airbox for the air intake system of the vehicle, the airbox being located rearward of the operator space of the side-by-side vehicle and directly below the cargo carrying portion; housing a filter within the airbox;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151113T134847Z" creationid="Judy" creationdate="20151113T134847Z">
-        <seg>載貨部分設有可拆式外蓋，載貨部分位於方向盤式全地形車駕駛空間後方而可拆式外蓋為載貨部分底板的一部份，載貨部分位於方向盤式全地形車後輪軸上方，藉由可拆式外蓋可通過底板進行維修；
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151113T135120Z" creationid="Judy" creationdate="20151113T134847Z">
+        <seg>載貨部分設有可動式外蓋，載貨部分位於方向盤式全地形車駕駛空間後方而可動式外蓋為載貨部分底板的一部份，載貨部分位於方向盤式全地形車後輪軸上方，藉由可動式外蓋可通過底板進行維修；
 車輛空氣進氣系統設有一風箱，風箱位於方向盤式全地形車駕駛空間後方且位於載貨部分正下方；
 濾芯安裝於風箱內部；</seg>
       </tuv>
