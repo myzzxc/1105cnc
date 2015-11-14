@@ -43664,8 +43664,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>SUMMARY</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125600Z">
-        <seg>總結</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T023103Z">
+        <seg>簡介</seg>
       </tuv>
     </tu>
     <tu>
@@ -44325,8 +44325,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>See application file for complete search history.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T124806Z">
-        <seg>完整檢索歷史記錄請參閱應用檔案。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T023033Z">
+        <seg>完整檢索歷史記錄請參閱申請檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52161,6 +52161,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150919T081920Z">
         <seg>本發明為具有護網包覆座位區之方向盤式全地形車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The present invention relates to side-by-side all terrain vehicles having at least two rows of seating areas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T023153Z" creationid="Judy" creationdate="20151114T023153Z">
+        <seg>本發明為具有至少兩排座位區之方向盤式全地形車。</seg>
       </tuv>
     </tu>
     <tu>
