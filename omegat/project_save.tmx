@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(74) Attorney, Agent, or Firm — Faegre Baker Daniels LLP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T022847Z" creationid="Judy" creationdate="20151114T022847Z">
+        <seg>(74) 專利代理人 — Faegre Baker Daniels 律師事務所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(74) Attorney, Agent, or Firm — Faegre Baker Daniels LLP (57)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T125322Z">
@@ -3021,6 +3029,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141813Z">
         <seg>4014 -4026）]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>403/300, 310, 311, 341, 344, 41, 286, 287, 403/293, 309, 312; 296/29, 205 See application file for complete search history.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T022751Z" creationid="Judy" creationdate="20151114T022751Z">
+        <seg>403/300, 310, 311, 341, 344, 41, 286, 287, 403/293, 309, 312; 296/29, 205 完整檢索歷史記錄請參閱申請檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7245,6 +7261,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appl.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T022710Z" creationid="Judy" creationdate="20151114T022710Z">
+        <seg>申請</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appl.No.: 12/796,495</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T124106Z">
@@ -8211,6 +8235,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125633Z">
         <seg>轉讓/承包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assistant Examiner — Timothy Wilhelm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T022834Z" creationid="Judy" creationdate="20151114T022834Z">
+        <seg>副專利審查委員 — Timothy Wilhelm</seg>
       </tuv>
     </tu>
     <tu>
@@ -11233,6 +11265,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T082745Z">
         <seg>專利分類號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Claims, 15 Drawing Sheets</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T022858Z" creationid="Judy" creationdate="20151114T022858Z">
+        <seg>專利範圍，15 張圖表</seg>
       </tuv>
     </tu>
     <tu>
@@ -19568,6 +19608,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121408Z">
         <seg>欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field of Classification Search</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T022728Z" creationid="Judy" creationdate="20151114T022728Z">
+        <seg>分類檢索範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -34643,6 +34691,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No.:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T022715Z" creationid="Judy" creationdate="20151114T022715Z">
+        <seg>編號：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Noise-cancelling headset microphone for Dragon Notes (not included)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T050014Z">
@@ -40136,6 +40192,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T124758Z" creationid="Judy" creationdate="20151112T121834Z">
         <seg>主審查委員 — Hau Phan 副審查委員 — Bryan Evans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Primary Examiner — Ruth Ilan</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T022824Z" creationid="Judy" creationdate="20151114T022824Z">
+        <seg>主專利審查委員 — Ruth Ilan</seg>
       </tuv>
     </tu>
     <tu>
