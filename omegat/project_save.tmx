@@ -3907,8 +3907,8 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       <tuv lang="EN-US">
         <seg>A frame tube coupler couples the frame tube sections, where the frame tube coupler comprises coupler sections associated with each coupler end, and the coupler sections having complementary interengagement elements.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T135137Z" creationid="Judy" creationdate="20151114T135137Z">
-        <seg>框架管連接器連接框架管各區段，其中框架管連接器包含連接器各端相連的連接器段，以及具有對齊各連接器段的對齊組件之連接器段。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T135258Z" creationid="Judy" creationdate="20151114T135137Z">
+        <seg>框架管連接器連接框架管各區段，其中框架管連接器包含連接器各端相連的連接器段，以及具有互鎖元件的連接器段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18382,6 +18382,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094837Z">
         <seg>F - 場 和 E - 環境：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F asteners retain the interengaging elements together, where the fasteners are in tension to force the complementary interengaging elements into engagement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T135532Z" creationid="Judy" creationdate="20151114T135532Z">
+        <seg>緊固件將互鎖元件固定在一起，緊固件鎖緊便能將互鎖元件固定。</seg>
       </tuv>
     </tu>
     <tu>
