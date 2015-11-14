@@ -29831,6 +29831,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has also become common for riders to customize their vehicles and adding a second row of seats, for example by replacing a utility bed at the rear of the vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T125622Z" creationid="Judy" creationdate="20151114T125622Z">
+        <seg>駕駛針對其車輛進行客製化並增加第二排座位也越來越普遍，例如更換車輛後方的實用平台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has an IP Filter resource, releasing server access only to authorized IPs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T024134Z">
