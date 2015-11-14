@@ -18388,8 +18388,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>F asteners retain the interengaging elements together, where the fasteners are in tension to force the complementary interengaging elements into engagement.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T135532Z" creationid="Judy" creationdate="20151114T135532Z">
-        <seg>緊固件將互鎖元件固定在一起，緊固件鎖緊便能將互鎖元件固定。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T135649Z" creationid="Judy" creationdate="20151114T135532Z">
+        <seg>緊固件將互鎖元件固定在一起，緊固件受到張力以將互鎖元件固定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18610,10 +18610,26 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIG. 15 shows an enlarged view of the seat belt retractor; and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T135827Z" creationid="Judy" creationdate="20151114T135827Z">
+        <seg>圖 15 為安全帶捲收器的放大圖；以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIG. 16</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085250Z">
         <seg>圖 16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIG. 16 shows a perspective view of the seat poised for receipt in one of the seating areas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T135849Z" creationid="Judy" creationdate="20151114T135845Z">
+        <seg>圖 16 為座位準備固定至其中一個座位區之視圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26785,6 +26801,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022328Z" creationid="Judy" creationdate="20151108T022328Z">
         <seg>此實施例中，驅動元件 400 和被驅動元件 402 包含鰭片且通常作為風扇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this manner, any shear force is substantially taken up by the complementary interengaging elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T135753Z" creationid="Judy" creationdate="20151114T135623Z">
+        <seg>此種設計能使互鎖元件大致上吸收所有剪力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50118,6 +50142,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T231649Z">
         <seg>本發明之上述和其它功能以及實現方式可參照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The above mentioned and other features of this invention, and the manner of attaining them, will become more apparent and the invention itself will be better understood by reference to the following description of embodiments of the invention taken in conjunction with the accompanying drawings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T135809Z" creationid="Judy" creationdate="20151114T135809Z">
+        <seg>本發明之上述和其它功能以及實現方式可參照以下發明實施例的詳細說明與附圖以清楚了解此發明，</seg>
       </tuv>
     </tu>
     <tu>
