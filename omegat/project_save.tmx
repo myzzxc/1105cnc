@@ -4196,8 +4196,8 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>A second seating area is comprised of side-by-side seat positions at a second longitudinal position, where the second longitudinal position positions the hip pivot axis (H-point) of a passenger in the second seating area, either above or longitudinally forward of, a centerline of the rear axle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T131059Z" creationid="Judy" creationdate="20151114T131059Z">
-        <seg>第二座位區位由位於第二縱向位置的並排座椅組成A second seating area is comprised of side-by-side seat positions at a second longitudinal position, where the second longitudinal position positions the hip pivot axis (H-point) of a passenger in the second seating area, either above or longitudinally forward of, a centerline of the rear axle.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T131638Z" creationid="Judy" creationdate="20151114T131059Z">
+        <seg>第二座位區位由位於第二縱向位置的並排座椅組成，其中第二縱向位置將乘客的股樞軸 (H 點) 置於第二座位區中高於後軸中線或位於後軸中線前方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5292,6 +5292,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T130530Z" creationid="Judy" creationdate="20151114T130530Z">
         <seg>根據現有揭露資料中的實施例，多功能越野車包含整體上縱向延伸的框架、固定於框架上的驅動系統以及多組連接於框架之車輪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>According to a further illustrative embodiment of the present disclosure, a utility vehicle is shown which comprises a frame extending in a generally longitudinal direction, a drive train supported by the frame, the drive train comprising an engine and a plurality of wheels operably coupled to the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T131748Z" creationid="Judy" creationdate="20151114T131748Z">
+        <seg>根據現有揭露資料中的實施例，多功能越野車包含整體上縱向延伸的框架、固定於框架上的驅動系統，驅動系統包含引擎和多組連接於框架之車輪。</seg>
       </tuv>
     </tu>
     <tu>
