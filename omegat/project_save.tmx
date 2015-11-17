@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6799,6 +6799,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065027Z">
         <seg>真空泵與除塵風機之馬達啟動台也同時安裝於底座上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, accessory mounts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T145933Z" creationid="Judy" creationdate="20151114T145933Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -23036,6 +23044,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T142301Z">
         <seg>高品質多功能加工系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High Rigidity Structure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T124107Z" creationid="Judy" creationdate="20151117T124107Z">
+        <seg>高剛性結構</seg>
       </tuv>
     </tu>
     <tu>
@@ -48836,6 +48852,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ATC mount it designed to properly support the ATC's weight by putting tho force directly into the column for superior stability, rigidity and m»iimized vibration to the cutting zone,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T124245Z" creationid="Judy" creationdate="20151117T124245Z">
+        <seg>ATC 基座的設計能mount it designed to properly support the ATC's weight by putting tho force directly into the column for superior stability, rigidity and m»iimized vibration to the cutting zone,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ATmega32U4 also supports I2C (TWI) and SPI communication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T130331Z">
@@ -62873,6 +62897,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181240Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>could be provided (having a similar construction and footprint to that of seat base 350) and snapped in place in one or both seat positions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T145930Z" creationid="Judy" creationdate="20151114T145930Z">
+        <seg>此外，可使用安裝配件 (具有與座位基座 350 類似的結構和基底) 並固定於一個或兩個座椅位置處。</seg>
       </tuv>
     </tu>
     <tu>
