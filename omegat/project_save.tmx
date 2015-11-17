@@ -1949,6 +1949,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>12) trucks per guideway.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T125409Z" creationid="Judy" creationdate="20151117T125409Z">
+        <seg>(2) 組支架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1220mm x 1524mm Process Area</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143419Z">
@@ -48780,6 +48788,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 2-axis features (3) trucks per guide-way and the Y-axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T125358Z" creationid="Judy" creationdate="20151117T125358Z">
+        <seg>Z 軸滑軌具有 (3) 組支架而 Y 軸滑軌具有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 32U4 also allows for serial (CDC) communication over USB and appears as a virtual COM port to software on the computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125553Z">
@@ -48854,8 +48870,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The ATC mount it designed to properly support the ATC's weight by putting tho force directly into the column for superior stability, rigidity and m»iimized vibration to the cutting zone,</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T124245Z" creationid="Judy" creationdate="20151117T124245Z">
-        <seg>ATC 基座的設計能mount it designed to properly support the ATC's weight by putting tho force directly into the column for superior stability, rigidity and m»iimized vibration to the cutting zone,</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T124652Z" creationid="Judy" creationdate="20151117T124245Z">
+        <seg>ATC 基座的設計能確實地支撐 ATC 的重量，將受力點置於支柱上以提供優越的穩定性和剛性，並能將切削區的震動降到最低。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56434,6 +56450,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135206Z">
         <seg>上述步驟將會移除所有的整合項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tho X-axis features (2) 35mm bai-guides with |2) trucks per guideway.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T125505Z" creationid="Judy" creationdate="20151117T125505Z">
+        <seg> X 軸具有 (2) 組 35mm 滾珠滑軌，滑軌具有 (2) 組支架。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64642,6 +64666,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082613Z">
         <seg>• 適用於任何 CAM 軟體之程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• the Z &amp; Y-axis utilizes 45mm ball guides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T125016Z" creationid="Judy" creationdate="20151117T125016Z">
+        <seg>・Z 和 Y 軸採用 45mm 滾珠滑軌，</seg>
       </tuv>
     </tu>
     <tu>
