@@ -238,6 +238,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(21) Appl.No.: 12/849,516</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T140720Z" creationid="Judy" creationdate="20151118T140720Z">
+        <seg>(21) 申請編號：12/849,516</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(22) Filed:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T140740Z" creationid="Judy" creationdate="20151118T140740Z">
+        <seg>(22) 申請日期：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(3) record sickness</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123007Z">
@@ -1698,6 +1714,14 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1,2013, 7 pgs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141106Z" creationid="Judy" creationdate="20151118T141057Z">
+        <seg>2013 年 3 月 1 日，7 頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1,2013, 9 pgs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T124655Z" creationid="Judy" creationdate="20151112T124655Z">
@@ -2129,6 +2153,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T124049Z">
         <seg> 365 天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>154(b) by 498 days.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T140659Z" creationid="Judy" creationdate="20151118T140659Z">
+        <seg> 498 天。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3128,6 +3160,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065645Z">
         <seg>同時也有 5 HP 系統供小型機台應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5, 2012, 30 pgs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141310Z" creationid="Judy" creationdate="20151118T141306Z">
+        <seg>2012 年 12 月 5 日，30 頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15462,6 +15502,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120209Z">
         <seg>交付精確度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Demand and Article 34 Amendment in PCT/US2011/046395, Dec.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141302Z" creationid="Judy" creationdate="20151118T141302Z">
+        <seg>PCT/US2011/046395 命令專利法 34 條修正，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27864,8 +27912,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>International Preliminary Report on Patentability in PCT/US2011/ 046395, May 28, 2013, 31 pgs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T084904Z">
-        <seg>International Preliminary Report on Patentability in PCT/US2011/ 046395，2013 年 5 月 28 日，31 頁。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141242Z">
+        <seg>PCT/US2011/ 046395 之專利性國際初步報告 ，2013 年 5 月 28 日，31 頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27874,6 +27922,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T115005Z">
         <seg>國際性冰箱產線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>International Search Report of the International Searching Authority</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141026Z" creationid="Judy" creationdate="20151118T141005Z">
+        <seg>國際檢索機構之 </seg>
       </tuv>
     </tu>
     <tu>
@@ -40516,6 +40572,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Primary Examiner — Drew Brown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T140816Z" creationid="Judy" creationdate="20151118T140816Z">
+        <seg>專利審查委員 — Drew Brown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Primary Examiner — Hau Phan Assistant Examiner — Bryan Evans</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T124758Z" creationid="Judy" creationdate="20151112T121834Z">
@@ -43440,6 +43504,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151113T142404Z" creationid="Judy" creationdate="20151113T142404Z">
         <seg>明尼蘇達州 Roseau (美國)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roseau, MN (US); Aaron D. Deckard, Wheatland, IN (US); Louis J. Brady, Wyoming, MN (US)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T140648Z" creationid="Judy" creationdate="20151118T140648Z">
+        <seg>明尼蘇達州 Roseau (美國)；Aaron D. Deckard，印第安納州 Wheatland (美國)；Louis J. Brady，明尼蘇達州 Wyoming (美國)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57420,6 +57492,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Troy Merrifield, Redline’s Rockin’ Riot, UTV Off-Road Magazine, published in vol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T140917Z" creationid="Judy" creationdate="20151118T140905Z">
+        <seg>Troy Merrifield, Redline’s Rockin’ Riot, UTV Off-Road Magazine，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trucks and buses</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082848Z">
@@ -61642,8 +61722,8 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>Written Opinion of the International Searching Authority in PCT/ US2011/046395, Mar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T084812Z">
-        <seg>Written Opinion of the International Searching Authority in PCT/ US2011/046395，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141049Z">
+        <seg>國際檢索機構之 PCT/ US2011/046395 書面意見，</seg>
       </tuv>
     </tu>
     <tu>
@@ -63480,8 +63560,8 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="EN-US">
         <seg>in PCT/US2011/046395, Apr.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T084744Z">
-        <seg>in PCT/US2011/046395，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141033Z">
+        <seg>PCT/US2011/046395  國際檢索報告，</seg>
       </tuv>
     </tu>
     <tu>
