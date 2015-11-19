@@ -720,8 +720,8 @@
       <tuv lang="EN-US">
         <seg>(io) Patent No.:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121256Z">
-        <seg>(io) 專利號：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151119T141450Z">
+        <seg>(10) 專利號：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7585,6 +7585,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130204Z">
         <seg>僅適用特定機型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Applicant: Polaris Industries Inc., Medina, MN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151119T141510Z" creationid="Judy" creationdate="20151119T141510Z">
+        <seg>申請人：北極星工業公司 Polaris Industries Inc., 明尼蘇達州 Medina (美國)</seg>
       </tuv>
     </tu>
     <tu>
