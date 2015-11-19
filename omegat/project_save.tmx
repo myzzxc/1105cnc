@@ -63205,9 +63205,8 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="EN-US">
         <seg>a rear drive unit supported by the frame and positioned rearward of the operator area, the rear drive unit being operatively coupled to the power source and operatively coupled to a first ground engaging member positioned rearward of the operator area through a first half shaft to transfer power received from the power source to the first ground engaging member and to a second ground engaging member positioned rearward of the operator area through a second half shaft to transfer power received from the power source to the second ground engaging member, the first ground engaging member</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151119T125813Z" creationid="Judy" creationdate="20151119T125813Z">
-        <seg>後驅動單元連接動力源與位於駕駛區後方第一接觸地面元件，
-並透過第一傳動軸傳送動力源之動力至駕駛區後方的第一接觸地面元件和透過第二傳動軸傳送動力源之動力至駕駛區後方的第二接觸地面元件。
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151119T130704Z" creationid="Judy" creationdate="20151119T125813Z">
+        <seg>以框架支撐之後驅動單元並位於駕駛區後方，後驅動單元以第一半傳動軸連接動力源與位於駕駛區後方第一接觸地面元件，並透過第一半傳動軸傳送動力源之動力至駕駛區後方的第一接觸地面元件和透過第二半傳動軸傳送動力源之動力至駕駛區後方的第二接觸地面元件，
 </seg>
       </tuv>
     </tu>
@@ -63481,6 +63480,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081521Z">
         <seg>，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>being positioned on a first side of a vertical centerline longitudinal plane of the vehicle and the second ground engaging member being positioned on a second side of the vertical centerline longitudinal plane of the vehicle;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151119T130724Z" creationid="Judy" creationdate="20151119T130724Z">
+        <seg>第一接觸地面元件位於車輛垂直中心線縱向平面第一側而第二接觸地面元件位於車輛垂直中心線縱向平面第二側；</seg>
       </tuv>
     </tu>
     <tu>
