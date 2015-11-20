@@ -5929,6 +5929,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust Packs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135658Z" creationid="Judy" creationdate="20151120T135658Z">
+        <seg>調整包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust compression levels for smaller files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040717Z">
@@ -6293,6 +6301,22 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143429Z" creationid="Judy" creationdate="20151105T143250Z">
         <seg>銲接煙霧懸浮濃度受到控制，以確保勞工所暴露之懸浮濃度低於職業相關暴露值上限 (OEL)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm Masks [1]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135400Z" creationid="Judy" creationdate="20151120T135400Z">
+        <seg>報警遮罩 [1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm Masks [2]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135403Z" creationid="Judy" creationdate="20151120T135403Z">
+        <seg>報警遮罩 [2]</seg>
       </tuv>
     </tu>
     <tu>
@@ -11209,6 +11233,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T043110Z">
         <seg>現金流量和投資報酬率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135254Z" creationid="Judy" creationdate="20151120T135254Z">
+        <seg>儲存格</seg>
       </tuv>
     </tu>
     <tu>
@@ -39217,6 +39249,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Partials (Optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135600Z" creationid="Judy" creationdate="20151120T135600Z">
+        <seg>分段 (可選)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Particular care also needs to be paid at chilling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045149Z">
@@ -46096,6 +46136,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134936Z" creationid="Judy" creationdate="20151120T134936Z">
         <seg>伺服 / 範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servo/Range (Optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135413Z" creationid="Judy" creationdate="20151120T135413Z">
+        <seg>伺服 / 範圍 (可選)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57592,6 +57640,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Times (Optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135619Z" creationid="Judy" creationdate="20151120T135619Z">
+        <seg>時間 (可選)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Timing of involvement</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034756Z">
@@ -58038,6 +58094,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T132944Z">
         <seg>Pure 與 easyTek™ 形成了完美的組合，能提供精確的控制並與周遭環境中的各種音源連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tolerances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135338Z" creationid="Judy" creationdate="20151120T135338Z">
+        <seg>容許值</seg>
       </tuv>
     </tu>
     <tu>
