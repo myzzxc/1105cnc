@@ -7523,6 +7523,30 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142523Z" creationid="Judy" creationdate="20151120T142523Z">
+        <seg>附件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex 1 – Units’ control</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142544Z" creationid="Judy" creationdate="20151120T142544Z">
+        <seg>附件 1 —— 單元的控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex 2 - Servo Moving reject</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142616Z" creationid="Judy" creationdate="20151120T142616Z">
+        <seg>附件 2 —— 退回伺服運動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another priority is to ensure the full realization of the human right to water and sanitation in the context of the post-2015 development agenda.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T084234Z">
@@ -7657,6 +7681,30 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142203Z" creationid="Judy" creationdate="20151120T142203Z">
         <seg>附錄 C —— 建議備用材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix D - Instructions to change a band and  a tensioning roller</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142432Z" creationid="Judy" creationdate="20151120T142432Z">
+        <seg>附錄 D —— 更換輸送帶和調緊皮帶輪指示說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix E - Electrical Drawings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142500Z" creationid="Judy" creationdate="20151120T142500Z">
+        <seg>附錄 E —— 配電圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix F - Pneumatic drawing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142518Z" creationid="Judy" creationdate="20151120T142518Z">
+        <seg>附錄 F  —— 氣動管路圖</seg>
       </tuv>
     </tu>
     <tu>
