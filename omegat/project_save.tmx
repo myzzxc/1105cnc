@@ -14568,6 +14568,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Counters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141728Z" creationid="Judy" creationdate="20151120T141728Z">
+        <seg>計數器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Counting Line</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T134640Z">
@@ -15010,8 +15018,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Customer</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120954Z">
-        <seg>客戶聲音</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141738Z">
+        <seg>客戶</seg>
       </tuv>
     </tu>
     <tu>
@@ -15020,6 +15028,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022420Z">
         <seg>客戶端 / 伺服器架構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer Batch Control (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141814Z" creationid="Judy" creationdate="20151120T141814Z">
+        <seg>客戶批次控制 (可選)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141743Z" creationid="Judy" creationdate="20151120T141743Z">
+        <seg>客戶資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -15044,6 +15068,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140949Z" creationid="Judy" creationdate="20151120T140949Z">
         <seg>客戶生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer Summary (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141804Z" creationid="Judy" creationdate="20151120T141804Z">
+        <seg>客戶總結 (可選)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23652,6 +23684,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025100Z">
         <seg>他利用施華洛世奇水晶的光澤和色彩創造出真正的珠寶作品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Histogram</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141722Z" creationid="Judy" creationdate="20151120T141722Z">
+        <seg>折線圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -42313,6 +42353,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141824Z" creationid="Judy" creationdate="20151120T141824Z">
+        <seg>範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rapid indexing of PDFs and images  on the desktop</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024345Z">
@@ -46404,6 +46452,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Servo (Pid)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141822Z" creationid="Judy" creationdate="20151120T141822Z">
+        <seg>伺服 (Pid)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Servo / Range</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134936Z" creationid="Judy" creationdate="20151120T134936Z">
@@ -49560,6 +49616,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T132656Z" creationid="Judy" creationdate="20151120T132656Z">
         <seg>專門用語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141903Z" creationid="Judy" creationdate="20151120T141903Z">
+        <seg>測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -57936,6 +58000,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Times</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141818Z" creationid="Judy" creationdate="20151120T141818Z">
+        <seg>時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Times (Optional)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135619Z" creationid="Judy" creationdate="20151120T135619Z">
@@ -61114,6 +61186,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081819Z">
         <seg>重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Stability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141858Z" creationid="Judy" creationdate="20151120T141858Z">
+        <seg>重量穩定性</seg>
       </tuv>
     </tu>
     <tu>
