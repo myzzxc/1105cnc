@@ -6313,6 +6313,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarms (Optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135014Z" creationid="Judy" creationdate="20151120T135014Z">
+        <seg>警報 (可選)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Albrighton Business Park, Newport Road, Albrighton, Wolverhampton, England WV7 3ET Tel: +44 190 237 6382 Fax: +44 190 237 5662 Email: enquiries@axyz.com Web: www.axyz.com</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T084127Z">
@@ -22064,6 +22072,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135002Z" creationid="Judy" creationdate="20151120T135002Z">
+        <seg>整體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General Industrial Equipment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114455Z">
@@ -32463,6 +32479,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T123824Z">
         <seg>列出所有能增進安全性、保全、無障礙設施和住戶福祉的特點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Listing/Erase Calculations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134911Z" creationid="Judy" creationdate="20151120T134911Z">
+        <seg>列出/刪除計算</seg>
       </tuv>
     </tu>
     <tu>
@@ -43033,6 +43057,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134932Z" creationid="Judy" creationdate="20151120T134932Z">
+        <seg>退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Related U.S.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T121405Z" creationid="Judy" creationdate="20151112T121405Z">
@@ -46056,6 +46088,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121608Z">
         <seg>工作條件測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servo / Range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134936Z" creationid="Judy" creationdate="20151120T134936Z">
+        <seg>伺服 / 範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -57556,6 +57596,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034756Z">
         <seg>參與時機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135016Z" creationid="Judy" creationdate="20151120T135016Z">
+        <seg>計時</seg>
       </tuv>
     </tu>
     <tu>
