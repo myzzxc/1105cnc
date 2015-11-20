@@ -38368,6 +38368,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PCI Inputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140243Z" creationid="Judy" creationdate="20151120T140243Z">
+        <seg>PCI 輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PCI Outputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140235Z" creationid="Judy" creationdate="20151120T140235Z">
+        <seg>PCI 輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PCT/US2011/046395, Mar.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141341Z">
@@ -43638,6 +43654,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081601Z">
         <seg>零售</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retaining Section</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140228Z" creationid="Judy" creationdate="20151120T140228Z">
+        <seg>定位區段</seg>
       </tuv>
     </tu>
     <tu>
