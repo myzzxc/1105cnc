@@ -33251,6 +33251,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Machine Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141323Z" creationid="Judy" creationdate="20151120T141323Z">
+        <seg>機器資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main Disconnect Fuse</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092942Z">
@@ -41626,6 +41634,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T044922Z">
         <seg>產品的領導地位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Production Screens</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141331Z" creationid="Judy" creationdate="20151120T141331Z">
+        <seg>生產畫面</seg>
       </tuv>
     </tu>
     <tu>
