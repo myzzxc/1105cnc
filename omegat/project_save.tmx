@@ -21968,6 +21968,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General Information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T132636Z" creationid="Judy" creationdate="20151120T132636Z">
+        <seg>整體資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General description of the surveillance and recording software:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T021422Z">
@@ -37255,6 +37263,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operating Principles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T132709Z" creationid="Judy" creationdate="20151120T132709Z">
+        <seg>操作原則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operating System</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080104Z">
@@ -48960,6 +48976,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T120527Z">
         <seg>碼頭牽引機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T132656Z" creationid="Judy" creationdate="20151120T132656Z">
+        <seg>專門用語</seg>
       </tuv>
     </tu>
     <tu>
