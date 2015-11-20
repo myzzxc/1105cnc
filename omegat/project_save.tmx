@@ -11293,6 +11293,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134634Z" creationid="Judy" creationdate="20151120T134634Z">
+        <seg>更改格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Password</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134444Z" creationid="Judy" creationdate="20151120T134444Z">
@@ -14304,6 +14312,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134820Z" creationid="Judy" creationdate="20151120T134820Z">
+        <seg>複製格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy and paste the PackageId and VersionId of both Power PDF and Office packages</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T161750Z">
@@ -17241,6 +17257,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134818Z" creationid="Judy" creationdate="20151120T134818Z">
+        <seg>編輯格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit any field if required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135734Z">
@@ -18010,6 +18034,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T121201Z">
         <seg>平等、非歧視、參與和責認制已成為水源治理的關鍵原則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Erase Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134828Z" creationid="Judy" creationdate="20151120T134828Z">
+        <seg>刪除格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -21405,6 +21437,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122246Z">
         <seg>FormTyper™ 自動轉換不可輸入的表單成為可輸入之 PDF 表單，使用者能填入、儲存並傳送電子郵件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formats Programming</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134805Z" creationid="Judy" creationdate="20151120T134805Z">
+        <seg>格式程式化</seg>
       </tuv>
     </tu>
     <tu>
@@ -35039,6 +35079,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134815Z" creationid="Judy" creationdate="20151120T134815Z">
+        <seg>開啟新格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Product Development</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122235Z">
@@ -47275,6 +47323,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T133711Z">
         <seg>開啓 Citrix MetaFrame Program Neighborhood。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Session</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134629Z" creationid="Judy" creationdate="20151120T134622Z">
+        <seg>開始對話</seg>
       </tuv>
     </tu>
     <tu>
