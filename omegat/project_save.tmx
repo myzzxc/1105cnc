@@ -13783,6 +13783,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure IP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140538Z" creationid="Judy" creationdate="20151120T140538Z">
+        <seg>設定 IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configure the appearance and location of the application shortcut and click ’Next’.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115614Z">
@@ -14996,6 +15004,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040239Z">
         <seg>客戶的緊密關係：量身打造完全符合客戶需求的產品以建立長期的忠誠性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer Production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140949Z" creationid="Judy" creationdate="20151120T140949Z">
+        <seg>客戶生產</seg>
       </tuv>
     </tu>
     <tu>
@@ -18134,6 +18150,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ethernet Communications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140530Z" creationid="Judy" creationdate="20151120T140530Z">
+        <seg>乙太網路通訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ethernet Controller: W5500 with internal 32K buffer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013750Z">
@@ -20144,6 +20168,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T082716Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feedback / Range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140512Z" creationid="Judy" creationdate="20151120T140512Z">
+        <seg>回饋 / 範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -32547,6 +32579,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Listings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140624Z" creationid="Judy" creationdate="20151120T140624Z">
+        <seg>列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Live Monitoring</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142713Z">
@@ -43145,6 +43185,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject / Peripheral</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140503Z" creationid="Judy" creationdate="20151120T140503Z">
+        <seg>退回 / 週邊裝置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Related U.S.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T121405Z" creationid="Judy" creationdate="20151112T121405Z">
@@ -46076,6 +46124,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Serial Communications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140519Z" creationid="Judy" creationdate="20151120T140519Z">
+        <seg>串列通訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Serial Delivery Requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153007Z">
@@ -46392,6 +46448,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035230Z">
         <seg>由工程師導向訂單轉換為配置導向訂單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shifts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140840Z" creationid="Judy" creationdate="20151120T140840Z">
+        <seg>輪班</seg>
       </tuv>
     </tu>
     <tu>
@@ -49408,6 +49472,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193741Z">
         <seg>由ITEA和製造商進行測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140846Z" creationid="Judy" creationdate="20151120T140846Z">
+        <seg>測試</seg>
       </tuv>
     </tu>
     <tu>
