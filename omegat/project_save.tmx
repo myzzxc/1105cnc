@@ -11293,6 +11293,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change Password</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134444Z" creationid="Judy" creationdate="20151120T134444Z">
+        <seg>變更密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change User</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134437Z" creationid="Judy" creationdate="20151120T134437Z">
+        <seg>變更使用者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change content to the following:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140141Z">
