@@ -16766,6 +16766,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dynamic Analysis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135824Z" creationid="Judy" creationdate="20151120T135824Z">
+        <seg>動態分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dynamic Zoom does not work when AIS is set to</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125007Z">
@@ -22496,6 +22504,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Graphic Mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135837Z" creationid="Judy" creationdate="20151120T135837Z">
+        <seg>圖形模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gravity vector</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125827Z">
@@ -28201,6 +28217,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T152839Z">
         <seg>水資源和永續發展的相互關聯遠遠超出了它的社會、經濟與環境層面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135843Z" creationid="Judy" creationdate="20151120T135843Z">
+        <seg>內部資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -47423,6 +47447,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Static Analysis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135819Z" creationid="Judy" creationdate="20151120T135819Z">
+        <seg>靜止分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Statistical equivalence is required for each anchor element material type.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T193129Z">
@@ -59790,6 +59822,30 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Verify</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135828Z" creationid="Judy" creationdate="20151120T135828Z">
+        <seg>驗證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify Inputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135830Z" creationid="Judy" creationdate="20151120T135830Z">
+        <seg>驗證輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify Outputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135832Z" creationid="Judy" creationdate="20151120T135832Z">
+        <seg>驗證輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Verify accessibility of PDF documents</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150608T141149Z">
@@ -60770,6 +60826,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143643Z">
         <seg>網站： http://www.modularmanagement.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Conveyor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140022Z" creationid="Judy" creationdate="20151120T140022Z">
+        <seg>秤重式輸送機</seg>
       </tuv>
     </tu>
     <tu>
