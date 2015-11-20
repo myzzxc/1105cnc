@@ -5688,6 +5688,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141958Z" creationid="Judy" creationdate="20151120T141958Z">
+        <seg>主動式格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Mark up and Highlighting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085234Z">
@@ -7625,6 +7633,38 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T124934Z">
         <seg>Workday 中的所有事務處理，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix A – Quick guide to operate the checkweigher</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142047Z" creationid="Judy" creationdate="20151120T142028Z">
+        <seg>附錄 A —— 檢重機快速指南操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix B – Seeking solutions to possible problems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142109Z" creationid="Judy" creationdate="20151120T142036Z">
+        <seg>附錄 B —— 可能出現之問題解決方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix C- Recommended Spare Materials</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142203Z" creationid="Judy" creationdate="20151120T142203Z">
+        <seg>附錄 C —— 建議備用材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendixes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142001Z" creationid="Judy" creationdate="20151120T142001Z">
+        <seg>附錄</seg>
       </tuv>
     </tu>
     <tu>
