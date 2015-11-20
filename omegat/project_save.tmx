@@ -6249,6 +6249,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air supplyconnection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133739Z" creationid="Judy" creationdate="20151120T133739Z">
+        <seg>空氣供應連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Airborne concentrations of carbon dust are controlled to ensure worker exposures are below the associated permissible exposure limit (PEL).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T120518Z" creationid="Judy" creationdate="20151106T120518Z">
@@ -13847,6 +13855,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection to supplies</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133722Z" creationid="Judy" creationdate="20151120T133632Z">
+        <seg>連接電源和空氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection with Arduino Uno on pins 2, 3 (Software Serial) and 7 (reset).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T133000Z">
@@ -14228,6 +14244,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T021118Z">
         <seg>轉換掃描彩色 (圖像) PDF 檔案為壓縮 MRC-PDF 檔案（平均壓縮 8 倍）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conveyor switching-on</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133756Z" creationid="Judy" creationdate="20151120T133756Z">
+        <seg>輸送機開啟</seg>
       </tuv>
     </tu>
     <tu>
@@ -21986,8 +22010,8 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>General Information</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T132636Z" creationid="Judy" creationdate="20151120T132636Z">
-        <seg>整體資訊</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133807Z" creationid="Judy" creationdate="20151120T132636Z">
+        <seg>一般資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -32157,6 +32181,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lifting and moving</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133604Z" creationid="Judy" creationdate="20151120T133604Z">
+        <seg>吊掛和搬運</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124856Z">
@@ -40479,6 +40511,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034743Z" creationid="Judy" creationdate="20151108T034743Z">
         <seg>動力源外殼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power Supply</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133639Z" creationid="Judy" creationdate="20151120T133639Z">
+        <seg>電源</seg>
       </tuv>
     </tu>
     <tu>
