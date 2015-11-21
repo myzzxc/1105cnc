@@ -35907,6 +35907,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not Suitable Default Tolerance (TU2, T-2): The lack in quantity not allowed in any case in a pack with a default value of net weight product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T070647Z" creationid="Judy" creationdate="20151121T070647Z">
+        <seg>不容許預設公差 (Not Suitable Default Tolerance, TU2, T-2)：產品與預設淨重值之間的差異值於容許值之外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043645Z">
@@ -58644,8 +58652,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Tolerated Default Tolerance (TU1, T-1): The lack in quantity of product that is permitted in a pack with a default value of net weight.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T070520Z" creationid="Judy" creationdate="20151121T070504Z">
-        <seg>預設容許公差 (Tolerated Default Tolerance, TU1, T-1)：產品與預設淨重值之間的容許差異值。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T070605Z" creationid="Judy" creationdate="20151121T070504Z">
+        <seg>容許預設公差 (Tolerated Default Tolerance, TU1, T-1)：產品與預設淨重值之間的差異值於容許直之內。</seg>
       </tuv>
     </tu>
     <tu>
