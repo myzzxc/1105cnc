@@ -9273,6 +9273,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average weight: Value expressed in mass units meaning the average value of individual values ​​from a sample.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T064147Z" creationid="Judy" creationdate="20151121T064147Z">
+        <seg>56Average weight: Value expressed in mass units meaning the average value of individual values ​​from a sample.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoid use in conditions where sand and/</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125159Z">
@@ -39721,6 +39729,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Path: Expressed in units of mass, it indicates the distance between the maximum value and the minimum value for a given sample.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T064033Z" creationid="Judy" creationdate="20151121T064033Z">
+        <seg>路徑 (Path)：以質量單位表示，代表給定的樣本最大值與的最小值之間的距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Patient Hoists</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T120027Z">
@@ -59096,6 +59112,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140501Z">
         <seg>輸入以下指令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical (or standard) deviation: Value expressed in mass units that characterizes the dispersion of individual values ​​in a normal or Gaussian sample.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T064428Z" creationid="Judy" creationdate="20151121T064145Z">
+        <seg>標準差 (Standard deviation)：以質量單位表示之數值，代表個別數值之正常或高斯樣本分佈。</seg>
       </tuv>
     </tu>
     <tu>
