@@ -59276,6 +59276,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Uncertainty: A parameter expressed in mass units, associated with the result of a measurement that characterizes the dispersion of values that could reasonably be attributed to controlled packs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T065817Z" creationid="Judy" creationdate="20151121T065817Z">
+        <seg>不確定性 (Uncertainty)：以質量單位表示之參數，代表量測之結果因為監控之包裝所造成之數值分散性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Uncover hidden costs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T045955Z">
