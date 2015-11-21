@@ -41798,6 +41798,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Production time: Time spent on the line with detection of packs passing through.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T061816Z" creationid="Judy" creationdate="20151121T061755Z">
+        <seg>生產時間 (Production time)：產線上偵測到包裝通過的時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Products</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034703Z">
@@ -47955,6 +47963,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142441Z">
         <seg>停止服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop time: Time spent on the line without detection of packs passing through.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T061847Z" creationid="Judy" creationdate="20151121T061812Z">
+        <seg>停止時間 (Stop time)：產線無包裝通過的時間。</seg>
       </tuv>
     </tu>
     <tu>
