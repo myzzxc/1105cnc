@@ -58763,6 +58763,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Traceability: Ability to trace the history, application or location of a thing which is under consideration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T071446Z" creationid="Judy" creationdate="20151121T071431Z">
+        <seg>追溯性 (Traceability)：追蹤物件的歷史、應用或地點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Track Record</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031017Z">
