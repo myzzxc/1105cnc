@@ -11084,6 +11084,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cadence: Frequency which packs under real production pass with.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063839Z" creationid="Judy" creationdate="20151121T063839Z">
+        <seg>節奏 (Cadence)：實際生產時包裝通過的頻率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Caigo carrying portion 210 is positioned rearward of an operator area 212.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T141026Z" creationid="Judy" creationdate="20151112T141026Z">
@@ -15970,6 +15978,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the environment conditions (photocells, values ​​provided by the sensor, etc) it decides to separate or not the item being controlled in line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063615Z" creationid="Judy" creationdate="20151121T063518Z">
+        <seg>根據環境條件 (光電、感應器提供之數值等) 決定監控之物品由產線上分離與否。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploy MS Office App-V package</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024626Z">
@@ -17621,6 +17637,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121641Z" creationid="Judy" creationdate="20151106T121641Z">
         <seg>電氣設備連接點已完全絕緣且無外露的電線或電纜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electronic equipment: It is for processing the electrical signal provided by the weight sensor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063521Z" creationid="Judy" creationdate="20151121T063428Z">
+        <seg>電子設備 (Electronic equipment)：處理重量感應器之電氣訊號之設備，</seg>
       </tuv>
     </tu>
     <tu>
@@ -58269,6 +58293,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133427Z">
         <seg>要取消選擇SD卡則將針腳4設定為輸出並寫入高電位；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do this, the computer must have programmed a series of set points at both weight and timings terms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063726Z" creationid="Judy" creationdate="20151121T063726Z">
+        <seg>為了達成此目標，電腦必須設定一系列重量和時間的設定點。</seg>
       </tuv>
     </tu>
     <tu>
