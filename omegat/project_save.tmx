@@ -58642,6 +58642,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tolerated Default Tolerance (TU1, T-1): The lack in quantity of product that is permitted in a pack with a default value of net weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T070520Z" creationid="Judy" creationdate="20151121T070504Z">
+        <seg>預設容許公差 (Tolerated Default Tolerance, TU1, T-1)：產品與預設淨重值之間的容許差異值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tom Varriale, Director of Channel Development</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131238Z">
