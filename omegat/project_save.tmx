@@ -9275,8 +9275,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Average weight: Value expressed in mass units meaning the average value of individual values ​​from a sample.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T064518Z" creationid="Judy" creationdate="20151121T064147Z">
-        <seg>平均重量 (Average weight)：以質量單位表示之數值，代表表示在品質單位意味著從樣品的單個值的平均值的值。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T064924Z" creationid="Judy" creationdate="20151121T064147Z">
+        <seg>平均重量 (Average weight)：以質量單位表示之數值，代表樣本中個別數值之平均值。</seg>
       </tuv>
     </tu>
     <tu>
