@@ -21713,6 +21713,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Format: Set of data associated with a product and identified with a number completely defining inspection criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063251Z" creationid="Judy" creationdate="20151121T063251Z">
+        <seg>格式 (Format)：完全以編號定義檢驗標準的產品相關資料集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formats Programming</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134805Z" creationid="Judy" creationdate="20151120T134805Z">
@@ -62991,6 +62999,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055310Z">
         <seg>工作流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working format: Format which the checkweigher is working with.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063323Z" creationid="Judy" creationdate="20151121T063323Z">
+        <seg>工作格式 (Working format)：檢重機使用的格式。</seg>
       </tuv>
     </tu>
     <tu>
