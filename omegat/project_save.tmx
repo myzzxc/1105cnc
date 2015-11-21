@@ -61286,6 +61286,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weight Shutter:Force transducer which after having taken into account the effects of acceleration of gravity and air buoyancy at the place of use, measures a mass converting the measured magnitude (mass) into another measured magnitude (output = electrical signal).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T061554Z" creationid="Judy" creationdate="20151121T061554Z">
+        <seg>秤重門 (Weight Shutter)：考慮使用地點之重力加速度和空氣浮力之力傳感器，將量測值 (質量)轉換為其它量測訊號 (輸出 = 電力訊號)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weight Stability</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141858Z" creationid="Judy" creationdate="20151120T141858Z">
