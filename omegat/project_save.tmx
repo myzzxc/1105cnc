@@ -32795,6 +32795,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line: A number that allows the VARPE Data Hub system to identify the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T101531Z" creationid="Judy" creationdate="20151122T101439Z">
+        <seg>產線 (Line)： VARPE 資料中心 (Data Hub) 系統識別檢重機之標號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linear acceleration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T125741Z">
@@ -58791,6 +58799,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031017Z">
         <seg>追蹤記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Track: A number that identifies each of weight sections in a checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T101653Z" creationid="Judy" creationdate="20151122T101516Z">
+        <seg>軌道 (Track)：標識檢重機各秤重區段之編號。</seg>
       </tuv>
     </tu>
     <tu>
