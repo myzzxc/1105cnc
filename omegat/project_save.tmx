@@ -64057,6 +64057,14 @@ whether it�s raining or snowing</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zero Track: A device automatically maintaining the zero within its limits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T101854Z" creationid="Judy" creationdate="20151122T101854Z">
+        <seg>歸零軌 (Zero Track)：自動在其範圍內維持於零點的設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zero is black and 255 is white.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103340Z">
