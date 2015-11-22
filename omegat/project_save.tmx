@@ -58754,6 +58754,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total Zero: A device that adjusts the zero indication to zero value without the intervention of an operator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T102135Z" creationid="Judy" creationdate="20151122T102135Z">
+        <seg>總歸零 (Total Zero)：不受操作員干預調整歸零指示至零值之設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total man-hours</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035414Z">
