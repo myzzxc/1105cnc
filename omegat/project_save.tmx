@@ -9770,6 +9770,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch: Set of packs with equal nominal quantities, model and manufacture, filled in the same place and that are being monitored.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T131055Z" creationid="Judy" creationdate="20151122T131055Z">
+        <seg>批次 (Batch)：一組具有相同名目數量、型號和製造商的包裝，儲存於相同地點且受監控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bates Numbering</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071005Z">
@@ -35443,6 +35451,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141247Z" creationid="Judy" creationdate="20151120T141247Z">
         <seg>網路資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Net: Amount of product that is deemed to contain a pack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T131241Z" creationid="Judy" creationdate="20151122T131241Z">
+        <seg>淨量 (Net)：一組包裝中包含之產品數量。</seg>
       </tuv>
     </tu>
     <tu>
