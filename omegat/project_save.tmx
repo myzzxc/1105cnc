@@ -22816,6 +22816,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gross: Quantity expressed in mass units including product and container.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T132055Z" creationid="Judy" creationdate="20151122T132055Z">
+        <seg>毛重 (Gross)：以質量單位表示包含產品和容器之重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ground pins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124443Z">
@@ -35457,8 +35465,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Net: Amount of product that is deemed to contain a pack.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T131241Z" creationid="Judy" creationdate="20151122T131241Z">
-        <seg>淨量 (Net)：一組包裝中包含之產品數量。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T131941Z" creationid="Judy" creationdate="20151122T131241Z">
+        <seg>淨重 (Net)：一組包裝中包含之產品重量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49542,6 +49550,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z">
         <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tare: Quantity expressed in mass units for the container only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T131633Z" creationid="Judy" creationdate="20151122T131633Z">
+        <seg>容器重 (Tare)：以質量單位表示之容器重量。</seg>
       </tuv>
     </tu>
     <tu>
