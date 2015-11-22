@@ -58650,6 +58650,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tolerance for excess (TO2; T+2): Amount excess of product not permitted in any case in a pack with a predetermined value of net weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T100608Z" creationid="Judy" creationdate="20151122T100608Z">
+        <seg>超出容許值 (Tolerance for excess, TO2; T+2)：產品包裝量超出於任何情況下皆不允許的接近淨重之預先定義值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tolerances</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135338Z" creationid="Judy" creationdate="20151120T135338Z">
