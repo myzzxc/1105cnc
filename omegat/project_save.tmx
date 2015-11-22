@@ -33954,6 +33954,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max: Maximum weight capacity regardless of the tare value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T132520Z" creationid="Judy" creationdate="20151122T132520Z">
+        <seg>最大值 (Max)：不包含容器重量之最大重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximizing the water efficiency of power plant cooling systems and increasing the capacity of wind, solar PV and geothermal energy will be a key determinant in achieving a sustainable water future.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T160334Z">
@@ -61466,6 +61474,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081819Z">
         <seg>重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Scale (d): Value in mass units for expressing the difference between two consecutive indications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T132258Z" creationid="Judy" creationdate="20151122T132258Z">
+        <seg>重量差 (Weight Scale, d)：以質量單位表示之兩連續量測之差異。</seg>
       </tuv>
     </tu>
     <tu>
