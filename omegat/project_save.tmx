@@ -47847,6 +47847,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stability criterion: Maximum difference between two readings to inhibit the zero device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T132925Z" creationid="Judy" creationdate="20151122T132925Z">
+        <seg>穩定性標準 (Stability criterion)：兩組讀數之最大差異以抑制歸零裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stamps</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085045Z">
@@ -58935,6 +58943,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114545Z">
         <seg>運輸設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trend: Set point to correct the filling of the current production at each moment a servo signal is provided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T133215Z" creationid="Judy" creationdate="20151122T133215Z">
+        <seg>趨勢 (Trend)：伺服信號的設定點，用以校正當前生產每個時間點之填裝。</seg>
       </tuv>
     </tu>
     <tu>
