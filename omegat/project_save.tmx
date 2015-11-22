@@ -34314,6 +34314,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Min: Value of load below which the weighing results may be subject to an excessive relative error.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T132707Z" creationid="Judy" creationdate="20151122T132707Z">
+        <seg>最小值 (Min)：因為過大的相對誤差而造成負載值低於秤重結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimal 1 cfm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091431Z">
