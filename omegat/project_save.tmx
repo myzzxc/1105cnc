@@ -5544,6 +5544,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>According to this value the controller will take the right decision in each case.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152932Z" creationid="Judy" creationdate="20151124T152857Z">
+        <seg>控制器將根據此數值作出相應的處置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>According to yet a further illustrative embodiment of the present disclosure, a utility vehicle is shown which comprises a frame extending in a generally longitudinal direction having at least one elongate frame tube assembly comprised of plural sections, a drive train supported by the frame and a frame tube coupler coupling the frame tube sections at a longitudinal position within 25% of the length of the frame at either end.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T134411Z">
@@ -51482,6 +51490,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The VARPE 2000 has two conveyor systems: one for entrance, which is responsible for picking up the product to be controlled in the customer’s line and another for weight, which calculates the weight value of the product to be controlled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152901Z" creationid="Judy" creationdate="20151124T152831Z">
+        <seg>VARPE 2000 具有兩組輸送系統：一為入口，負責接收客戶生產線中的產品，另一個用於計算管控之產品重量值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The VARPE 2000 is compatible with data mining VARPE systems (Data Hub).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152442Z" creationid="Judy" creationdate="20151124T152442Z">
@@ -52143,6 +52159,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134403Z">
         <seg>由垂直於車輛中心線縱向平面和車輛後方的視角觀看時，控制臂會被框架遮蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The conveyor system is a mechanical element responsible for moving the product through the weight controlling system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152636Z" creationid="Judy" creationdate="20151124T152636Z">
+        <seg>輸送系統是負責運送產品通過秤重控制系統的機械元件，</seg>
       </tuv>
     </tu>
     <tu>
