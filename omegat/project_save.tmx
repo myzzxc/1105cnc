@@ -30855,6 +30855,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has advanced features such as servo control, automatic listings, timing control, alarms, printer, automatic speed variation and control of production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152524Z" creationid="Judy" creationdate="20151124T152524Z">
+        <seg>它擁有先進的伺服控制、自動列表、定時控制、警報、印表機、自動變速和生產管控等功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has advanced settings for joystick</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T065541Z">
@@ -38259,6 +38267,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083549Z">
         <seg>Oswobodzenia 1 40-403 Katowice, Poland 電話： +48 32 259 75 50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other characteristic functions of the VARPE 2000 (V2000) are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152208Z" creationid="Judy" creationdate="20151124T152208Z">
+        <seg>VARPE 2000 (V2000) 的其它功能特性為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -51466,6 +51482,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The VARPE 2000 is compatible with data mining VARPE systems (Data Hub).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152442Z" creationid="Judy" creationdate="20151124T152442Z">
+        <seg>VARPE 2000 與資料採集 VARPE 系統 (資料中心) 相容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The VCA tracker then makes this a foreground, or object, pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104252Z">
@@ -52023,6 +52047,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143840Z">
         <seg>實施例說明中各種車輛設定之距離 582 相對距離 584 之比例變化列於表二中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The checkweigher VARPE 2000 can work with multitrack: a single controller is capable of controlling multiple tracks at the same time (a total of 6 input / output / weight and reject tracks).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152343Z" creationid="Judy" creationdate="20151124T152343Z">
+        <seg>VARPE 2000 檢重機能多軌同時運作：單一控制器能夠同時控制多個軌道 (總共 6 組輸入 / 輸出 / 重量和退回軌道)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53168,6 +53200,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T151647Z" creationid="Judy" creationdate="20151124T151647Z">
         <seg>VARPE 2000 檢重機的主要功能為生產線統計和生產管控，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main parts of the controller are:  the conveyor system, the weight sensor and the electronic equipment:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152602Z" creationid="Judy" creationdate="20151124T152602Z">
+        <seg>控制器的主要零件為：輸送系統、秤重感應器和電子設備：</seg>
       </tuv>
     </tu>
     <tu>
