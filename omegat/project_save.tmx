@@ -26949,6 +26949,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In paragraph 1.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152950Z" creationid="Judy" creationdate="20151124T152950Z">
+        <seg>第 1.3 節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In particular, for these special characteristics, the Supplier implements a statistical process control (SPC) and follows its capability levels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T131145Z">
