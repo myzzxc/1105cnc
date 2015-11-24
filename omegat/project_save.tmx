@@ -52475,6 +52475,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The electronic equipment is responsible for separating or not an item  under control in line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153557Z" creationid="Judy" creationdate="20151124T153549Z">
+        <seg>電子設備負責決定是否剔除產線上管控之物品，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The embodiments disclosed below are not intended to be exhaustive or to limit the invention to the precise forms disclosed in the following detailed description.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151104T130654Z">
@@ -56371,6 +56379,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103011Z">
         <seg>達成此目的的方法是模擬每個像素以「辨識」背景，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The weight sensor is the main element which is based the controller on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153434Z" creationid="Judy" creationdate="20151124T153434Z">
+        <seg>秤重感應器為控制器上的主要元件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66714,6 +66730,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054708Z">
         <seg>“選擇 Adobe (或 IBM) 讓人永遠不會失去工作”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Optional elements”, the other elements the controller can have – as an output conveyor system, reject, metal detectors, etc. – are explained.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153450Z" creationid="Judy" creationdate="20151124T153331Z">
+        <seg>「選配項目」中，將說明控制器的其它元件如輸出輸送系統、退回、金屬感應器等。</seg>
       </tuv>
     </tu>
     <tu>
