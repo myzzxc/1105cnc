@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_10" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37897,8 +37897,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Operating Principles</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T132709Z">
-        <seg>操作原則</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T151759Z">
+        <seg>操作原理</seg>
       </tuv>
     </tu>
     <tu>
@@ -53144,6 +53144,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T023500Z">
         <seg>MARTINI OCCHIALI 的主要目標是為客戶提供精心製造製、高品質、優雅而穩重、100% 義大利製造的眼鏡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main function of the checkweigher VARPE 2000 is based on a line statistical and productive control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T151647Z" creationid="Judy" creationdate="20151124T151647Z">
+        <seg>VARPE 2000 檢重機的主要功能為生產線統計和生產管控，</seg>
       </tuv>
     </tu>
     <tu>
