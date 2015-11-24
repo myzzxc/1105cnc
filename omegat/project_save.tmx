@@ -29447,6 +29447,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also allows performing statistical calculations for returns, deviations and average weights.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152123Z" creationid="Judy" creationdate="20151124T152123Z">
+        <seg>它也能進行統計以計算退回數、變異值和平均重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also has 2.5 KB of SRAM and 1 KB of EEPROM (which can be read and written with the EEPROM library).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125213Z">
@@ -52015,6 +52023,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143840Z">
         <seg>實施例說明中各種車輛設定之距離 582 相對距離 584 之比例變化列於表二中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The checkweigher checks all the products passing through a line and if any of them do not meet the weight specifications programmed, it sets it aside.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T151936Z" creationid="Judy" creationdate="20151124T151936Z">
+        <seg>檢重機檢查所有通過生產線的產品，其中若有任何不符合重量規格之產品將會被剔除。</seg>
       </tuv>
     </tu>
     <tu>
