@@ -3937,10 +3937,26 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A detector of contaminants (Metals/XR detector).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153950Z" creationid="Judy" creationdate="20151124T153950Z">
+        <seg>污染物探測器 (金屬/X光檢測器)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A driven member of the CVT unit 140 is operatively coupled to the drive member of the CVT unit 140 through a drive belt.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T135433Z">
         <seg>無段變速單元 140 之被驅動元件透過驅動皮帶連接至驅動元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A feeder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153914Z" creationid="Judy" creationdate="20151124T153914Z">
+        <seg>進料機</seg>
       </tuv>
     </tu>
     <tu>
@@ -4325,6 +4341,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T154512Z">
         <seg>一輛紅色的汽車快速通過畫面不會被歸類為火災，因為其整體的運動和火災特徵並不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A rejecting device</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153901Z" creationid="Judy" creationdate="20151124T153901Z">
+        <seg>退回設備</seg>
       </tuv>
     </tu>
     <tu>
@@ -24092,6 +24116,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T084924Z">
         <seg>然而，千禧年發展目標的經驗顯示，2015 後發展議程需要一個主題覆蓋更廣、更細緻、更具有針對性，且超越水資源供應和衛生服務內容的水資源框架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the machine can also incorporate the following optional elements:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153853Z" creationid="Judy" creationdate="20151124T153853Z">
+        <seg>然而，此機台也能外加以下選配元件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -51875,6 +51907,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The basic elements of the checkweigher VARPE 2000 are the entrance conveyor, the weight conveyor and a signal for the reject.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153811Z" creationid="Judy" creationdate="20151124T153811Z">
+        <seg>VARPE 2000 檢重機的基本元件為入口輸送機、秤重輸送機和退回訊號，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The bearing carrier including an opening through which a drive shaft is operatively coupled to the first ground engaging member.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134212Z">
@@ -58638,6 +58678,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150830Z">
         <seg>點擊 Salary (薪資) 欄位右方的   圖示以進行特設薪資變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make it possible, the controller should have programmed a series of set points at both weight and timings terms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153633Z" creationid="Judy" creationdate="20151124T153633Z">
+        <seg>為了達成此目旳，控制器必須設定一系列重量和時間的設定點。</seg>
       </tuv>
     </tu>
     <tu>
