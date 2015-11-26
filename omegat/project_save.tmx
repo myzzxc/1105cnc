@@ -3003,8 +3003,8 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>350 pack/minute)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141200Z" creationid="Judy" creationdate="20151126T141200Z">
-        <seg>350 包/分)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142353Z" creationid="Judy" creationdate="20151126T141200Z">
+        <seg>350 包/分鐘)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20484,6 +20484,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feeders:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142448Z" creationid="Judy" creationdate="20151126T142448Z">
+        <seg>進料機：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Few product changes and low variance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123402Z">
@@ -21303,6 +21311,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For cadences until 200 pack/minute</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142349Z" creationid="Judy" creationdate="20151126T142349Z">
+        <seg>輸送速度低於 200 包/分鐘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For cutting non-ferrous metals including aluminium, brass and copper, the Unist mister operates with more precision and reliability than any other dispensing system available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053401Z">
@@ -21717,6 +21733,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154555Z">
         <seg>汽車工業用產品，國際標準 ISO/TS 16949</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For products taller than 200 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142443Z" creationid="Judy" creationdate="20151126T142443Z">
+        <seg>高度大於 200mm 之產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -62442,6 +62466,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141921Z" creationid="Judy" creationdate="20151126T141802Z">
         <seg>當單擺輸送帶位於退回位置且未檢測到正確的產品前不會回到正常位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the swinging band keeps in reject position and does not come back to the normal position until a right product is detected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142423Z" creationid="Judy" creationdate="20151126T142423Z">
+        <seg>當雙擺輸送帶位於退回位置且未檢測到正確的產品前不會回到正常位置</seg>
       </tuv>
     </tu>
     <tu>
