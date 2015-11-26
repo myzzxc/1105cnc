@@ -21603,8 +21603,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For packs in cadence</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T135938Z" creationid="Judy" creationdate="20151126T130200Z">
-        <seg>包裝輸送</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140307Z" creationid="Judy" creationdate="20151126T130200Z">
+        <seg>包裝依序輸送</seg>
       </tuv>
     </tu>
     <tu>
@@ -62078,6 +62078,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When is not to be used:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140218Z" creationid="Judy" creationdate="20151126T140218Z">
+        <seg>停用時機：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When is to be used:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T130133Z" creationid="Judy" creationdate="20151126T130133Z">
@@ -62138,6 +62146,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120722Z">
         <seg>當一個物體移動至其他物體後方時，攝影機只能偵測到有前景物體，而全部的像素都組合在一起，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When packs come sealed or overlapped</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140244Z" creationid="Judy" creationdate="20151126T140244Z">
+        <seg>包裝相連或重疊</seg>
       </tuv>
     </tu>
     <tu>
