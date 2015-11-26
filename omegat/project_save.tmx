@@ -16748,6 +16748,30 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double Band</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144730Z" creationid="Judy" creationdate="20151126T144730Z">
+        <seg>雙輸送帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double Entrance Band + Double Sidebands</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T145034Z" creationid="Judy" creationdate="20151126T145034Z">
+        <seg>雙入口輸送帶 + 雙側帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double Entrance Band + Sidebands</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T145011Z" creationid="Judy" creationdate="20151126T145011Z">
+        <seg>雙入口輸送帶 + 側帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double Swinging</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142252Z" creationid="Judy" creationdate="20151126T142252Z">
@@ -18302,10 +18326,26 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Entrance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144724Z" creationid="Judy" creationdate="20151126T144724Z">
+        <seg>入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Entrance Band</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144535Z" creationid="Judy" creationdate="20151126T144535Z">
         <seg>入口輸送帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entrance Band + Sidebands</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144833Z" creationid="Judy" creationdate="20151126T144833Z">
+        <seg>入口輸送帶 + 側帶</seg>
       </tuv>
     </tu>
     <tu>
@@ -21625,6 +21665,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For high speeds</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T145144Z" creationid="Judy" creationdate="20151126T145144Z">
+        <seg>高速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instable or very wet products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144842Z" creationid="Judy" creationdate="20151126T144842Z">
+        <seg>不穩定或非常潮濕的產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052107Z">
@@ -21673,10 +21729,34 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For middle and high speeds (up to 200-250 m/min)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144926Z" creationid="Judy" creationdate="20151126T144926Z">
+        <seg>中速和高速 (最快 200-250 公尺/分鐘)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For middle/high cadences (max.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141146Z" creationid="Judy" creationdate="20151126T141146Z">
         <seg>中/高速序列輸送 (最大速度 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For moist or very wet prodcuts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144801Z" creationid="Judy" creationdate="20151126T144801Z">
+        <seg>潮濕或非常潮濕之產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For moist or very wet products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144721Z" creationid="Judy" creationdate="20151126T144721Z">
+        <seg>潮濕或非常潮濕之產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -21753,6 +21833,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For products out of cadence</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T145123Z" creationid="Judy" creationdate="20151126T144757Z">
+        <seg>不規律序列輸送之產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For products taller than 200 mm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142443Z" creationid="Judy" creationdate="20151126T142443Z">
@@ -21769,10 +21857,26 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For rigid and semi-rigid products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144933Z" creationid="Judy" creationdate="20151126T144933Z">
+        <seg>剛性和半剛性之產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For service side nozzles, non-asbestos sheet type gasket is recommended.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T084008Z">
         <seg>供應端開口，建議使用非吸收式板型墊片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For sliding products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144800Z" creationid="Judy" creationdate="20151126T144800Z">
+        <seg>會滑動之產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -21921,6 +22025,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forlow and middlespeeds</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T145022Z" creationid="Judy" creationdate="20151126T145022Z">
+        <seg>低速和中速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form Tools all, except Highlighting and reset form</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054547Z">
@@ -21981,6 +22093,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150843Z">
         <seg>制定：透過模塊化瞭解商業績效和潛力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forproductsout of cadence</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T145140Z" creationid="Judy" creationdate="20151126T145055Z">
+        <seg>不規律序列輸送之產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -62630,6 +62750,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenn is to be used:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T145040Z" creationid="Judy" creationdate="20151126T145040Z">
+        <seg>使用時機：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where airborne dust occurs ABOVE the associated permissible exposure limit (PEL), workers are wearing new dust masks (Particulate Respirators) at the beginning of the shift and the dust masks fit tight to the face.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T133721Z">
@@ -63487,6 +63615,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T143757Z">
         <seg>此隱私模式功能中，管理員可以設定當操作人員啟動監控用戶端上的隱私模式時，將失去相機存取權限的使用者的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With very flexible products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144949Z" creationid="Judy" creationdate="20151126T144949Z">
+        <seg>非常有彈性之產品</seg>
       </tuv>
     </tu>
     <tu>
