@@ -3001,6 +3001,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>350 pack/minute)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141200Z" creationid="Judy" creationdate="20151126T141200Z">
+        <seg>350 包/分)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>37-40, the connection of housing 460 and housing 462 is shown.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T033225Z">
@@ -21609,6 +21617,30 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For light enveloppes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141410Z" creationid="Judy" creationdate="20151126T141410Z">
+        <seg>輕量包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For low cadences</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141546Z" creationid="Judy" creationdate="20151126T141546Z">
+        <seg>低速序列輸送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For middle/high cadences (max.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141146Z" creationid="Judy" creationdate="20151126T141146Z">
+        <seg>中/高速序列輸送 (最大速度 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more detailed information about this, please read the System Requirements section of the product Release Notes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024910Z">
@@ -21645,6 +21677,22 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140307Z" creationid="Judy" creationdate="20151126T130200Z">
         <seg>包裝依序輸送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For packs like enveloppes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141253Z" creationid="Judy" creationdate="20151126T141253Z">
+        <seg>信封狀包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For packs with length over 150 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141437Z" creationid="Judy" creationdate="20151126T141437Z">
+        <seg>包裝長度超出 150 mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -47333,6 +47381,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simple Swinging</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141623Z" creationid="Judy" creationdate="20151126T141528Z">
+        <seg>單擺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple pneumatic toggle switches open and close the vacuum hold down zones.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072303Z">
@@ -48560,6 +48616,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T021808Z">
         <seg>高精確性的 OmniPage® OCR（文字辨識）引擎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Superior or upright Blower</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141353Z" creationid="Judy" creationdate="20151126T141353Z">
+        <seg>上風或直立風機</seg>
       </tuv>
     </tu>
     <tu>
