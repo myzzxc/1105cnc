@@ -62382,6 +62382,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the diameter of the customer’s band roller overpasses 50 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142008Z" creationid="Judy" creationdate="20151126T141909Z">
+        <seg>當客戶之輸送帶輥直徑超過 50 mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the pin is HIGH value, the LED is on, when the pin is LOW, it's off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122422Z">
@@ -62410,6 +62418,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T082440Z">
         <seg>當存取掃描收件匣時，&lt;user&gt; 將會自動被登入 Windows 的使用者名稱代替並指向其收件匣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the swinging band keeps in reject position and does not come back to the normal position until a right product is detected</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141921Z" creationid="Judy" creationdate="20151126T141802Z">
+        <seg>當單擺輸送帶位於退回位置且未檢測到正確的產品前不會回到正常位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -63095,6 +63111,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T130123Z">
         <seg>擁有超過  20 年的經驗且已安裝數千台 CNC 雕刻機，AXYZ 有自信製造及銷售強大、耐用且使用簡便的 CNC 雕刻機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With no rejectable by contact or very fragile products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141858Z" creationid="Judy" creationdate="20151126T141858Z">
+        <seg>不能以接觸方式退回或非常易碎的產品</seg>
       </tuv>
     </tu>
     <tu>
