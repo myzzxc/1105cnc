@@ -16740,6 +16740,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DoublePusher</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140636Z" creationid="Judy" creationdate="20151126T140636Z">
+        <seg>雙推料機 (DoublePusher)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download Office deployment tool from Microsoft: http://www.microsoft.com/en-us/download/details.aspx?id=36778</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135702Z">
@@ -21223,6 +21231,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a stable control of rejected packs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140557Z" creationid="Judy" creationdate="20151126T140557Z">
+        <seg>進行退回包裝穩定管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For added convenience, thermowells can be installed on the inlet and outlet sides to permit rapid visual checks of exchanger operation at all times.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085351Z">
@@ -21525,6 +21541,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T123433Z">
         <seg>五組（含）以上的授權將會收到一組單一金鑰用以簡便進行部署。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For frágil products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140442Z" creationid="Judy" creationdate="20151126T140442Z">
+        <seg>易碎產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -42264,8 +42288,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Pusher</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T130124Z" creationid="Judy" creationdate="20151126T130124Z">
-        <seg>推料機</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140654Z" creationid="Judy" creationdate="20151126T130124Z">
+        <seg>推料機 (Pusher)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58621,6 +58645,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T075725Z">
         <seg>請仔細檢視“安裝前”之說明指示以便能迅速完成機台安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To fullfil a large speeds series (low, middle, high)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140433Z" creationid="Judy" creationdate="20151126T140433Z">
+        <seg>滿足大量速度序列 (低、中、高)</seg>
       </tuv>
     </tu>
     <tu>
