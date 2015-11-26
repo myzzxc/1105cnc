@@ -21601,6 +21601,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For packs in cadence</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T135938Z" creationid="Judy" creationdate="20151126T130200Z">
+        <seg>包裝輸送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For products for the aeronautics industry, international standard ISO EN 9100</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T154546Z">
@@ -42254,6 +42262,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pusher</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T130124Z" creationid="Judy" creationdate="20151126T130124Z">
+        <seg>推料機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Q &amp; A Thank you</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T134022Z">
@@ -43669,6 +43685,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140503Z">
         <seg>退回 / 週邊裝置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rejects:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T130114Z" creationid="Judy" creationdate="20151126T130114Z">
+        <seg>退回機：</seg>
       </tuv>
     </tu>
     <tu>
@@ -62050,6 +62074,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114331Z">
         <seg>安裝完成後，按一下 Finish （完成）按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When is to be used:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T130133Z" creationid="Judy" creationdate="20151126T130133Z">
+        <seg>使用時機：</seg>
       </tuv>
     </tu>
     <tu>
