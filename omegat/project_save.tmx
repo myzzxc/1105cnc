@@ -18041,6 +18041,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editing Parameters Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T143147Z" creationid="Judy" creationdate="20151128T143147Z">
+        <seg>編輯形式參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eduardo Cervantes Lopez is an international consultant based in Colombia.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T031850Z">
@@ -21216,6 +21224,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141948Z" creationid="Judy" creationdate="20151128T141948Z">
         <seg>圖 3.8 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.9.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T143129Z" creationid="Judy" creationdate="20151128T143129Z">
+        <seg>圖 3.9 </seg>
       </tuv>
     </tu>
     <tu>
@@ -25877,6 +25893,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030830Z" creationid="Judy" creationdate="20151128T030721Z">
         <seg>若有效期內於人證環境條件中運作發生異常，建議與 VARPE 之技術支援部門聯繫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If parameter validation involves out of production or disarrange format, the checkweigher will display a previous warning message allowing cancel the action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T143126Z" creationid="Judy" creationdate="20151128T143126Z">
+        <seg>若確認參數需要停止生產或重新讀取形式，檢重機將顯示前述允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
