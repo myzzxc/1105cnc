@@ -7733,6 +7733,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any screen can have on the bottom a set of buttons linking directly to other certain screens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120206Z" creationid="Judy" creationdate="20151128T120206Z">
+        <seg>任何畫面底部都能有一組直接連結其它畫面之按鈕，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any transaction within Workday.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T124934Z">
