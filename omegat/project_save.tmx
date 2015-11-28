@@ -254,6 +254,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(3) Phases of 220V AC + Earth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051008Z" creationid="Judy" creationdate="20151128T051008Z">
+        <seg>(3) 相 220V AC + 地線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(3) Phases of 380V  AC + Neutral + Earth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051038Z" creationid="Judy" creationdate="20151128T051038Z">
+        <seg>(3) 相 380V AC + 中性線  + 地線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(3) record sickness</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123007Z">
@@ -4526,6 +4542,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120636Z">
         <seg>監管組織是由同一位主管所管理的員工所組成，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A tab in red indicates that we are out of production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092514Z" creationid="Judy" creationdate="20151128T092412Z">
+        <seg>若欄位為紅色，代表生產停止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8887,6 +8911,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the moment that the zero limit time is met, the LED will light red; at that time, the LED of Total Zero will also be shown in red.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090712Z" creationid="Judy" creationdate="20151128T090712Z">
+        <seg>達到歸零時間限制時，LED 燈將顯示紅色；歸零 LED 燈也會同時顯示紅色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the national level, governments rely on an integrated water resources management (IWRM) approach.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T082944Z">
@@ -9962,10 +9994,26 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before putting the checkweigher on the ground you must place the discs and then level it through the pins situated on the support points of the base.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045739Z" creationid="Judy" creationdate="20151128T045739Z">
+        <seg>放下檢重機之前，必須放置底盤並透過基座支點上的支腳以調整水平。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before removing the stationary end head, all spring tension on the floating end must he released.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070155Z">
         <seg>卸下固定端頭之前, 必須釋放浮動端所有彈簧墊片之張力，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before starting the checkweigher, ensure that the mains voltage matches that provided for the connection of the electric circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050107Z" creationid="Judy" creationdate="20151128T050107Z">
+        <seg>啟動檢重機前，確保主電壓與電路連接匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10820,6 +10868,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By this tab also we can know if we are viewing the net, gross or difference, and besides the weight unit which we are working with, and the use of normative.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092728Z" creationid="Judy" creationdate="20151128T092728Z">
+        <seg>此欄位也能檢視淨重、毛重或重量差，欄位旁為使用之重量單位以及使用之規則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By this tab you can access to the different tracks if any.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092910Z" creationid="Judy" creationdate="20151128T092823Z">
+        <seg>此欄位能存取不同軌道，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C - Command &amp; Control:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T094822Z">
@@ -11633,6 +11697,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134341Z">
         <seg>依所需更改預設的加密等級和對話可靠性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing Voltage:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051134Z" creationid="Judy" creationdate="20151128T051134Z">
+        <seg>變更電壓：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13002,6 +13074,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135015Z">
         <seg>點選“Remove（移除）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking on this tab you can automatically change the track.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092854Z" creationid="Judy" creationdate="20151128T092854Z">
+        <seg>點擊此欄位能自動變換軌道。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15472,6 +15552,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DANGER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050004Z" creationid="Judy" creationdate="20151128T050004Z">
+        <seg>危險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DARIO MARTINI, born in 1955, took his diploma at the Istituto Giorgio Cini on the island of San Giorgio Maggiore, in Venice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T024508Z">
@@ -15852,6 +15940,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142145Z">
         <seg>日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date and hour are displayed with optional shift and day of shift.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T091522Z" creationid="Judy" creationdate="20151128T091522Z">
+        <seg>顯示日期和時間，包含操作班表和班表日期。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17773,6 +17869,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091649Z">
         <seg>電動鑽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electric voltage:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050258Z" creationid="Judy" creationdate="20151128T050258Z">
+        <seg>電壓：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20604,6 +20708,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feature of sources and electronic equipment fuse: Type Simon 1 A.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045940Z" creationid="Judy" creationdate="20151128T045846Z">
+        <seg>電源和電氣設備保險絲：Type Simon 1 A。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Features</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T032838Z">
@@ -20616,6 +20728,22 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131329Z">
         <seg>功能和優點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Features of electric circuit fuse:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045958Z" creationid="Judy" creationdate="20151128T045958Z">
+        <seg>電路保險絲特性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Features of general fuses:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045911Z" creationid="Judy" creationdate="20151128T045911Z">
+        <seg>一般保險絲特性：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20720,6 +20848,46 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033259Z" creationid="Judy" creationdate="20151128T033259Z">
         <seg>圖 1.1 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 2.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085504Z" creationid="Judy" creationdate="20151128T085504Z">
+        <seg>圖 2.1. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 2.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085626Z" creationid="Judy" creationdate="20151128T085626Z">
+        <seg>圖 2.2. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 2.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090022Z" creationid="Judy" creationdate="20151128T090022Z">
+        <seg>圖 2.3. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 2.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093316Z" creationid="Judy" creationdate="20151128T093316Z">
+        <seg>圖 2.4. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 2.5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093609Z" creationid="Judy" creationdate="20151128T093609Z">
+        <seg>圖 2.5. </seg>
       </tuv>
     </tu>
     <tu>
@@ -21793,6 +21961,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For handling the reject device, the machine needs a compressed air inlet at a pressure of 6kg / cm2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T084620Z" creationid="Judy" creationdate="20151128T084620Z">
+        <seg>機器需要壓縮空氣入口之壓力為 6kg / cm2以供退回裝置運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For high speeds</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T145144Z" creationid="Judy" creationdate="20151126T145144Z">
@@ -21973,6 +22149,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142443Z" creationid="Judy" creationdate="20151126T142443Z">
         <seg>高度大於 200mm 之產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For proper connection to power and when necessary for a right voltage change, we recommend the following instructions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050244Z" creationid="Judy" creationdate="20151128T050226Z">
+        <seg>為了於變更電壓時正確連接電源，建議依照以下指示操作：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22193,6 +22377,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Format, net, tare, are basic data for each product; user, batch and turn will be common to all tracks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093258Z" creationid="Judy" creationdate="20151128T093021Z">
+        <seg>格式、淨重、皮重為各產品之基本資訊；所有軌道之使用者、批號以及轉向將會相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Format: Set of data associated with a product and identified with a number completely defining inspection criteria.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063251Z">
@@ -22405,6 +22597,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082206Z">
         <seg>藉由這些基礎，PALMA™ 能協助您的公司在在產品整個生命週期中管理您的產品種類和產品平台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From this screen you can access any screen to program or display information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085758Z" creationid="Judy" creationdate="20151128T085758Z">
+        <seg>此畫面中能進入任何程式設定或顯示資訊畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22876,6 +23076,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133807Z">
         <seg>一般資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085638Z" creationid="Judy" creationdate="20151128T085638Z">
+        <seg>一般選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -24042,8 +24250,16 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Header</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133842Z">
-        <seg>標題</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093731Z">
+        <seg>顯示面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Header Indications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093828Z" creationid="Judy" creationdate="20151128T092922Z">
+        <seg>顯示面板指示</seg>
       </tuv>
     </tu>
     <tu>
@@ -25153,6 +25369,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an error occurs at the time of zero will be in red color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090235Z" creationid="Judy" creationdate="20151128T090154Z">
+        <seg>若歸零時發生錯誤將顯示紅色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any components are missing or damaged or if leaks still occur after the shellside hydrostatic test, notify the carrier immediately and file an appropriate claim.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133437Z">
@@ -25473,6 +25697,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the range of the thermal installed is not enough, the thermal must be changed for another one of the suitable range.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T052153Z" creationid="Judy" creationdate="20151128T052153Z">
+        <seg>若安裝之散熱不足，必須更換為合適之散熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the requisition is for a Contingent Worker the Cost Information screen is displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135123Z">
@@ -25493,6 +25725,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T134244Z">
         <seg>若蒸氣持續開啓，停滯之輸送流體將會沸騰而使局部壓力快速上升，因而使 IMPERVITE® 元件破裂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the tab is in yellow (as shown right now) it means that we are in production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092443Z" creationid="Judy" creationdate="20151128T092221Z">
+        <seg>若欄位為黃色 (如圖所示)，代表生產正在進行中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25785,6 +26025,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have neutral it shall be connected to the lead called N at the bottom of it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050738Z" creationid="Judy" creationdate="20151128T050738Z">
+        <seg>若具有中性線則必須連接至其底部之 N 接頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have ordered a blower instead of a dry vane pump, the blower will be mounted in place of the pump.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091428Z">
@@ -25805,6 +26053,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124859Z">
         <seg>如果必須使用其他應用程式中的 PDF 文件檔，不要浪費寶貴的時間重新創建 —— 只需進行轉檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you need to manipulate the pneumatic circuit, the machine has a manual device for locking the general air inlet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T084928Z" creationid="Judy" creationdate="20151128T084928Z">
+        <seg>若需操作氣動管路，機台具有手動裝置能鎖定總空氣入口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26174,6 +26430,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144941Z">
         <seg>於 2014 年，集團採購部門購買了 IValua Buyer 作業工具，使供應商能進行連接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 380V lines the neutral must be connected to the lead N. If there is a bridge between the leads N and W it must be removed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051401Z" creationid="Judy" creationdate="20151128T051401Z">
+        <seg>380V 之中性線必須連接至 N 接點，若 N 和 W 接點之間具有橋接則需拆除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26696,6 +26960,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T173735Z">
         <seg>當無法滿足一項或多項管理法規之要求時，即使是暫時性的情況，供應商必須儘快通知 HUTCHNSON 採購和品管部門經理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case that a session is open, rather than the date, it appears "Log out (x)", where x means the access level you are on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T091852Z" creationid="Judy" creationdate="20151128T091852Z">
+        <seg>當機台為開放時段的情況下，將顯示「Log out (x) (登出)」，x 代表您此時的權限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28141,6 +28413,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this tab you can view the individual weight of each selected track.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092440Z" creationid="Judy" creationdate="20151128T092022Z">
+        <seg>此欄位中能檢視各選擇軌道之個別重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this tab, enter the information required including Supplier, Currency, Pay Rate, Frequency, and Maximum Amount.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135532Z">
@@ -28417,6 +28697,22 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T090344Z">
         <seg>對純影像 PDF 檔案製作索引需要較強大的效能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indication out of production machine, adjust work format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093639Z" creationid="Judy" creationdate="20151128T093639Z">
+        <seg>機台生產停止指示，調整工作格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indication out of production machine, make static adjustment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093400Z" creationid="Judy" creationdate="20151128T093400Z">
+        <seg>機台生產停止指示，進行靜態調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -31671,6 +31967,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not recommended to do it manually by holding the corners of the machine as it could damage the weight sensor or the transmission and disarrange the conveyors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045258Z" creationid="Judy" creationdate="20151128T045258Z">
+        <seg>不建議手動搬運機台四角，因為可能損壞秤重感應器或移動和使輸送帶錯位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not unusual for the initial pressure to drop off due to the water soaking into the gaskets and/or trapped air being absorbed into the water.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140300Z">
@@ -31819,6 +32123,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141217Z">
         <seg>也可用於切割金屬看板上之軟面及真空成形塑膠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It must also be taken into account its width.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045357Z" creationid="Judy" creationdate="20151128T045357Z">
+        <seg>也必須考慮寬度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34019,6 +34331,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Machine optimum precision performances  are achieved 60 minutes after the voltage is on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085342Z" creationid="Judy" creationdate="20151128T085342Z">
+        <seg>機台於通電 60 分鐘後能達到最佳的準確度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main Disconnect Fuse</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092942Z">
@@ -34414,6 +34734,22 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T145723Z">
         <seg>勾選 I have installed the primary parent program 方塊並點擊 Next。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark Simon 4A.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050000Z" creationid="Judy" creationdate="20151128T050000Z">
+        <seg>Mark Simon 4A。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark Simon 6A.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045921Z" creationid="Judy" creationdate="20151128T045921Z">
+        <seg>Mark Simon 6A。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42526,6 +42862,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Program Header of V2000</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093822Z" creationid="Judy" creationdate="20151128T090034Z">
+        <seg>V2000 程式顯示面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Programming</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133444Z">
@@ -42762,6 +43106,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140654Z" creationid="Judy" creationdate="20151126T130124Z">
         <seg>推料機 (Pusher)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put a filter if it is needed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T084427Z" creationid="Judy" creationdate="20151128T084427Z">
+        <seg>若有需要則安裝過濾器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44586,6 +44938,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Residual: The moment the platform overcomes the limit of waste, the LED will light gray; meanwhile, the LED remains green.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090915Z" creationid="Judy" creationdate="20151128T090915Z">
+        <seg>殘值：平台超過廢棄物上限時，LED 燈將顯示灰色；平時 LED 燈則維持綠色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resistance to alkalinity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121850Z">
@@ -46383,6 +46743,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T042153Z">
         <seg>請參見第 3.2.1 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See section “Static Analysis” for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093602Z" creationid="Judy" creationdate="20151128T093602Z">
+        <seg>更多資訊請見「靜態分析」章節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48415,6 +48783,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speed: When the checkweigher detects the passage of a pack, the LED will light gray; when the cadence passing time is finished, the LED remains green.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T091140Z" creationid="Judy" creationdate="20151128T091140Z">
+        <seg>速度：當檢重機偵測到包裝通過時，LED 燈將顯示灰色，當序列輸送時間結束時，LED 燈維持綠色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spell Checker</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071358Z">
@@ -48595,6 +48971,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134629Z">
         <seg>開始對話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start process of the V2000</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085514Z" creationid="Judy" creationdate="20151128T085514Z">
+        <seg>V2000 啟動程序</seg>
       </tuv>
     </tu>
     <tu>
@@ -50748,6 +51132,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The AC engines connected to an electronic speed driver must always be connected to 220V in delta.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T052346Z" creationid="Judy" creationdate="20151128T052346Z">
+        <seg>連接至電子轉速驅動器之交流馬達必須使用 220V 三角連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The AC engines must be connected in delta or star as appropriate to the mains voltage: 220 or 380 V. The thermals of each engine must be adjusted as appropriate to the nominal consumption, depending on the connection way, in delta or in star.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T052057Z" creationid="Judy" creationdate="20151128T052021Z">
+        <seg>交流馬達必須依主電壓：220 或 380 V 進行三角或星形連接，各馬達之散熱必須依額定功率調整，取決於三角或星形連接方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ACM swarf collection system isa high pressure swarf collector that is configured forthe efficient collection of aluminium, aluminium composite, wood and plastic swarf.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071838Z">
@@ -51194,6 +51594,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133633Z">
         <seg>第二代乙太網路擴充模組目前不相容於Arduino Zero Pro電路板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Figure 2.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093409Z" creationid="Judy" creationdate="20151128T093409Z">
+        <seg>圖 2.4. </seg>
       </tuv>
     </tu>
     <tu>
@@ -52298,6 +52706,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The air inlet is provided in the electro-valve itself through a fitting for nylon tube diameter 6 x 8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T084819Z" creationid="Judy" creationdate="20151128T084819Z">
+        <seg>空氣入口通過電磁閥，其具有直徑 6 x 8 之尼龍管固定口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The air passes through filter 242 and into the interior of air inlet housing 170 through air inlet 172.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T120353Z">
@@ -52319,6 +52735,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090531Z">
         <seg>空氣需求會因機台配有 HSD 快拆主軸、氣動鑽、電動鑽或雙噴頭而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The air supply cannot contain water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T084430Z" creationid="Judy" creationdate="20151128T084347Z">
+        <seg>空氣供應不得含水，</seg>
       </tuv>
     </tu>
     <tu>
@@ -53123,6 +53547,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The electric circuit is provided to feed the machine through mains of:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050953Z" creationid="Judy" creationdate="20151128T050953Z">
+        <seg>供應機台電路之電源主要為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The electrician must install an earthing rod within 2m of the router table and connect it to the machine grounding post.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090301Z">
@@ -53580,6 +54012,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ground wire must be connected to the protective grounding screw marked with PE and the symbol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050841Z" creationid="Judy" creationdate="20151128T050841Z">
+        <seg>接地線必須連接至標有 PE 和圖示之保護接地螺絲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The heat exchanger should be mounted on a foundation or support structure adequate to prevent movement, vibrations, or settling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T073549Z">
@@ -53900,6 +54340,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The machine voltage plug will have ground fault protection by a differential switch (RCD) with a sensitivity of 200 mA or more and with a run time of 0.1 seconds or more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050505Z" creationid="Judy" creationdate="20151128T050505Z">
+        <seg>電壓插頭具有接地漏電保護，使用敏感度 200 mA 以上或觸發時間 0.1 以上之差動開關 (RCD) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The main aim of MARTINI OCCHIALI is to offer customers refined, high-quality spectacles, with a touch of elegance and sobriety, all 100% made in Italy.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T023500Z">
@@ -54060,6 +54508,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The misuse of the equipment disclaims responsability of VARPE CONTROL DE PESO S.A.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051128Z" creationid="Judy" creationdate="20151128T051128Z">
+        <seg>VARPE CONTROL DE PESO S.A. 公司不為錯誤使用設備負責。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The model may look something like this:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104853Z">
@@ -54152,6 +54608,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T032417Z" creationid="Judy" creationdate="20151128T032417Z">
         <seg>電源指示燈：其為白色，當通電時亮起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The neutral of the 220V lines shall not be connected to the lead N. The N and W leads shall be united together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051253Z" creationid="Judy" creationdate="20151128T051253Z">
+        <seg>220V 之中性線不應連接至 N 接點，N 和 W 接點需連接在一起。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54396,6 +54860,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The phases must be mounted to leads called RST by the bottom thereof.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050745Z" creationid="Judy" creationdate="20151128T050617Z">
+        <seg>相位必須以 RST 方式連接，如其底部所述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The photos of the products featured on this catalogue may not be of actual products that are available in your country.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T095203Z">
@@ -54577,6 +55049,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T041431Z">
         <seg>橡膠手指的壓力需仔細調整，以確保壓力不會太大，壓力過大可能會導致泄殖腔內的物質流出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The primaries of the transformers must be connected as appropriate to the mains voltage, which can be 220 or 380 V.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051605Z" creationid="Judy" creationdate="20151128T051605Z">
+        <seg>變壓器輸入端必須連接至合適之主電壓，可能為 220 或 380 V。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58283,6 +58763,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This header allows knowing at any moment the working status of the checkweigher:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093819Z" creationid="Judy" creationdate="20151128T085941Z">
+        <seg>此顯示面板能顯示檢重機此時之運行狀態：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This illustration shows how your settings are reflected in your published installation package</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051102Z">
@@ -59434,6 +59922,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To lift or move the checkweigher to the provided place it will needed to use a forklift or a crane.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045108Z" creationid="Judy" creationdate="20151128T045108Z">
+        <seg>吊掛和搬運檢重機至指定為需要使用叉動車或吊車，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To localize sound sources, maintain spatial orientation, and understand speech better, our brain utilizes information from both ears.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T132631Z">
@@ -59550,6 +60046,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T132705Z">
         <seg>起動熱交換器時，先以低溫煤介運行一次，然後再使用高溫媒介運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start the machine conveyors, handle the Run Button also located on the side of the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085201Z" creationid="Judy" creationdate="20151128T085201Z">
+        <seg>若要啟動機台，按下位於檢重機側邊之運行按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59819,6 +60323,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Track</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092036Z" creationid="Judy" creationdate="20151128T090010Z">
+        <seg>軌道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Track Record</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031017Z">
@@ -59839,6 +60351,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091938Z">
         <seg>追蹤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tracks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092731Z" creationid="Judy" creationdate="20151128T092731Z">
+        <seg>軌道</seg>
       </tuv>
     </tu>
     <tu>
@@ -61566,6 +62086,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vibration: At the time the stability criterion on the platform fails, the LED is shown in gray; meanwhile, the LED remains green.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T091249Z" creationid="Judy" creationdate="20151128T091249Z">
+        <seg>震動：平台無法達到穩定性標準時，LED 燈顯示灰色；平時 LED 燈則維持綠色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vibrations: No vibration is allowed, since a minimal hint of it should influence the weight measurement causing errors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024441Z" creationid="Judy" creationdate="20151128T024441Z">
@@ -62462,6 +62990,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weight</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090013Z" creationid="Judy" creationdate="20151128T090013Z">
+        <seg>重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weight Conveyor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140022Z">
@@ -62966,6 +63502,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When pressing the main switch on the side of the machine, Red Pilot will light in white color indicating that electric circuit voltage is on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085116Z" creationid="Judy" creationdate="20151128T085116Z">
+        <seg>當按下機台側邊之主開關時，紅色指示燈將轉為白色，代表電路已通電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When purchasing volume licensing, you will receive a link to download the product along with a single license key for the amount of seats you purchase</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T124124Z">
@@ -63006,6 +63550,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When starting the checkweigher, this message is shown LOADING PLEASE WAIT during the program loading process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085458Z" creationid="Judy" creationdate="20151128T085458Z">
+        <seg>啟動檢重機時，讀取程式期間將顯示 LOADING PLEASE WAIT (讀取中，請稍後) 訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the demands of business demand PDF, demand Nuance Power PDF.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015045Z">
@@ -63026,6 +63578,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142008Z" creationid="Judy" creationdate="20151126T141909Z">
         <seg>當客戶之輸送帶輥直徑超過 50 mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the loading process is ended, the General Menu screen (Figure 2.2.) is shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085622Z" creationid="Judy" creationdate="20151128T085622Z">
+        <seg>當讀取完成後，將顯示一般選項 (General Menu) 畫面 (圖 2.2.)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63294,6 +63854,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While a zero track does not occur, the LED will remain gray.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092122Z" creationid="Judy" creationdate="20151128T090728Z">
+        <seg>未進行軌道歸零時，LED 燈維持灰色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While access to household water supplies is critical for a family’s health and social dignity, access to water for productive uses such as agriculture and family-run　businesses is vital to realize livelihood opportunities, generate income and contribute to economic productivity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T134752Z">
@@ -63370,6 +63938,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T073012Z">
         <seg>雖然從成本和品質的角度看來具有吸引力，但此舉往往會導致市場行銷和客戶之間的衝突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While zero does not occur, the LED will remain gray.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090317Z" creationid="Judy" creationdate="20151128T090317Z">
+        <seg>未歸零時，LED 燈維持灰色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64103,6 +64679,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T231105Z">
         <seg>於 Overview 分頁中，將遊標移至螢幕右方並點擊 Compensation (薪資)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Within the program, in all screens a header like in the following figure (Figure 2.3) appears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093814Z" creationid="Judy" creationdate="20151128T085839Z">
+        <seg>於程式所有畫面中將顯示如下圖所示 (圖 2.3) 之顯示面板，</seg>
       </tuv>
     </tu>
     <tu>
@@ -64991,6 +65575,30 @@ Edit your video afterwards just like the pros do.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must ensure that the gadget used for lifting or moving is capable of supporting the weight of the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045343Z" creationid="Judy" creationdate="20151128T045343Z">
+        <seg>必須確認弔掛或搬運之器具能支撐檢重機之重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must hold the checkweigher by the base, never by the conveyors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045558Z" creationid="Judy" creationdate="20151128T045558Z">
+        <seg>必須吊掛檢重機基座，不得吊掛輸送帶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must manipulate the checkweigher so that it does not tilt when lifting or does not hit any obstacle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045526Z" creationid="Judy" creationdate="20151128T045526Z">
+        <seg>弔掛過程中必須維持檢重機水平不傾斜或不撞擊到任何障礙物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need a dedicated server to run analytics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T140614Z">
@@ -65217,10 +65825,26 @@ whether it�s raining or snowing</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zero Total: At the time the checkweigher meets an automatic zero, the LED will light green.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101105Z" creationid="Judy" creationdate="20151128T090150Z">
+        <seg>Zero Total (歸零)：當檢重機自動歸零時，LED 燈為綠色，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zero Track: A device automatically maintaining the zero within its limits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T101854Z">
         <seg>歸零軌 (Zero Track)：自動在其範圍內維持於零點的設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zero Track: When a track is done, when a division is moved, the LED will light green.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092116Z" creationid="Judy" creationdate="20151128T090531Z">
+        <seg>軌道歸零：當軌道工作完成、區段移動後，LED 燈將顯示綠色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67129,6 +67753,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T145115Z">
         <seg>地震模擬測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>shows that the V2000 machine is out of production, as a result of not being adjusted statically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093531Z" creationid="Judy" creationdate="20151128T093531Z">
+        <seg>為 V2000 機台未經過靜態調整而導致停止生產之畫面，</seg>
       </tuv>
     </tu>
     <tu>
