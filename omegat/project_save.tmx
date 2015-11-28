@@ -8191,6 +8191,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As for the environment conditions the following cautions are to be considered:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024112Z" creationid="Judy" creationdate="20151128T024112Z">
+        <seg>以下為應注意之使用環境條件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As illustrated in FIG. 31, dampening member 560 is angled forward by having the connection point of dampening member 560 to frame 112 being forward of the connection point of dampening member 560 to radius arms 526.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T124102Z">
@@ -17745,6 +17753,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electromagnetic radiations: Field strength = 10 V/m</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024455Z" creationid="Judy" creationdate="20151128T024455Z">
+        <seg>電磁輻射：電場強度 = 10 V/m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electronic equipment: It is for processing the electrical signal provided by the weight sensor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063521Z">
@@ -21191,6 +21207,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fluctuations in voltage:  10% of nominal voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024520Z" creationid="Judy" creationdate="20151128T024512Z">
+        <seg>電壓波動：額定電壓之 10%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fluid conduit 178 is coupled to a cylindrical portion 182 (see FIG. 12) of airbox 180.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035403Z">
@@ -22189,6 +22213,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024300Z">
         <seg>法文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frequency = 80vMHz - 2GHz</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024507Z" creationid="Judy" creationdate="20151128T024507Z">
+        <seg>頻率 = 80vMHz - 2 GHz</seg>
       </tuv>
     </tu>
     <tu>
@@ -24461,6 +24493,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150820T134650Z">
         <seg>藉由降低與水相關災害的脆弱性並提高其恢復力的措施，人類社區與自然水循環和其支援的生態系統能和諧發展。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Humidity: According to IEC 68-1 (standard atmospheric conditions for test and measurements) the moisture value can range between 25 and 75% for a temperature range between 15 and 35 ºC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024340Z" creationid="Judy" creationdate="20151128T024340Z">
+        <seg>濕度：依據 IEC 68-1 (測試和測量標準大氣條件)，溫度範圍為 15 至 35 º C 之容許濕度範圍為 25% 至 75% 之間 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52467,6 +52507,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The checkweigher is an equipment for indoor use only</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024134Z" creationid="Judy" creationdate="20151128T024134Z">
+        <seg>檢重機僅供室內使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The chip also acts as a full speed USB 2.0 device, using standard USB COM drivers. On Windows, a .inf file is required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T125704Z">
@@ -54052,6 +54100,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The permitted temperature can range between 5 °C and  35 °C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024154Z" creationid="Judy" creationdate="20151128T024154Z">
+        <seg>工作溫度範圍為 5 ° C 至 35 ° C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The person responsible for authorizing loading needs to check this and, additionally, ensure that the container complies with sanitary and atmosphere requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051627Z">
@@ -55247,8 +55303,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The technical specifications of the checkweigher are defined on the machine in what is called the Features Plate.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T023645Z" creationid="Judy" creationdate="20151128T023645Z">
-        <seg>檢重機5 技術規格的檢重秤上機器定義在什麼叫做功能板。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T023955Z" creationid="Judy" creationdate="20151128T023645Z">
+        <seg>檢重機之技術規格列於機台的功能標示牌上，</seg>
       </tuv>
     </tu>
     <tu>
@@ -58277,6 +58333,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This plate is placed on one side of the checkweigher coffer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024027Z" creationid="Judy" creationdate="20151128T024027Z">
+        <seg>此標示牌位於檢重機機箱一側。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This product has been in production for almost 20 years and had gone through several specification changes as we learn more about the materials and implement new testing equipment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T144214Z">
@@ -61130,6 +61194,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050130Z">
         <seg>而很少注意到建立和維護用於生成產品的零件價格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vibrations: No vibration is allowed, since a minimal hint of it should influence the weight measurement causing errors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024441Z" creationid="Judy" creationdate="20151128T024441Z">
+        <seg>震動：不得有震動，因為些許震動便會影響重量量測並造成誤差。</seg>
       </tuv>
     </tu>
     <tu>
