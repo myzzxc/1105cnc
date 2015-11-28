@@ -21076,6 +21076,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132121Z" creationid="Judy" creationdate="20151128T132121Z">
+        <seg>圖 3.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Open/Save from/to Cloud</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020843Z">
@@ -48670,6 +48678,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So previously the new user should have been registered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132229Z" creationid="Judy" creationdate="20151128T132229Z">
+        <seg>所以新使用者應該先完成註冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So to go to any screen from the main menu you should select the path.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101811Z" creationid="Judy" creationdate="20151128T101811Z">
@@ -59997,6 +60013,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through the option "Change User", you can change the active user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132009Z" creationid="Judy" creationdate="20151128T132003Z">
+        <seg>於「Change User (變更使用者)」選項中能變更使用者，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this key it is possible to perform a non-automatic zero adjustment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121030Z" creationid="Judy" creationdate="20151128T120811Z">
@@ -60317,6 +60341,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063726Z">
         <seg>為了達成此目標，電腦必須設定一系列重量和時間的設定點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do this, you need to identify the new user and his password on the next screen:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132112Z" creationid="Judy" creationdate="20151128T132112Z">
+        <seg>若要進行此操作，必須在下一個畫面中輸入新使用者帳號和密碼：</seg>
       </tuv>
     </tu>
     <tu>
@@ -66187,6 +66219,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045558Z" creationid="Judy" creationdate="20151128T045558Z">
         <seg>必須吊掛檢重機基座，不得吊掛輸送帶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must log in with a user name and password and these must be correct.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132145Z" creationid="Judy" creationdate="20151128T132145Z">
+        <seg>必須登錄使用者名稱和密碼，且資訊必須正確。</seg>
       </tuv>
     </tu>
     <tu>
