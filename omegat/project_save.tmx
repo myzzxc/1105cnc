@@ -4580,8 +4580,8 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>A user can log in selecting the option "Start Session" existing in the dropdown "User Choices", but while trying to enter any part of the program will pop up the window opening session as required.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133205Z" creationid="Judy" creationdate="20151128T133152Z">
-        <seg>使用者可以登錄選擇下拉選單中的「Start Session (開啟工作)」，但進入程式的任何部分將會依要求彈出開啟工作快顯視窗，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133356Z" creationid="Judy" creationdate="20151128T133152Z">
+        <seg>使用者可以登錄選擇下拉選單中的「Start Session (開啟工作會話)」，但進入程式的任何部分將會依要求彈出開啟工作會話快顯視窗，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25052,6 +25052,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153853Z" creationid="Judy" creationdate="20151124T153853Z">
         <seg>然而，此機台也能外加以下選配元件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the user can directly log out by clicking on the "Log out" button that appears at the top of the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133454Z" creationid="Judy" creationdate="20151128T133454Z">
+        <seg>然而，使用者可以直接點擊顯示於畫面頂端之「Log Out (登出)」按鈕登出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49401,8 +49409,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Start Session</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132622Z">
-        <seg>開啟工作</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133358Z">
+        <seg>開啟工作會話</seg>
       </tuv>
     </tu>
     <tu>
@@ -60369,6 +60377,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the session it will be necessary to put in the username and password.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133511Z" creationid="Judy" creationdate="20151128T133511Z">
+        <seg>若要更改工作會話必須輸入使用者名稱和密碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change your personal information, click the relevant field.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133957Z">
@@ -66059,6 +66075,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121327Z">
         <seg>可以選擇 Approve (批准) 或 Send Back (退回) 請求並附上相關意見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can access from the first dropdown "General Menu", clicking the "Change Format" button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133701Z" creationid="Judy" creationdate="20151128T133701Z">
+        <seg>可以由第一組下拉選單之「General Menu (一般功能表)」中，點擊「Change Format (更改格式)」按鈕進入。</seg>
       </tuv>
     </tu>
     <tu>
