@@ -28405,6 +28405,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case the user has a Data Hub system, creating a new format will be performed the same way as explained in the previous paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142619Z" creationid="Judy" creationdate="20151128T142327Z">
+        <seg>當使用者系統使用資料中心 (Data Hub) 系統的情況下，建立新的形式將如前述方式進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the digital world pixels are always a number between 0 and 255.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103312Z">
@@ -39499,6 +39507,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T045159Z">
         <seg>（可選）勾選 Suppress display of Serial Number （不顯示序號）方塊使安裝流程中隱藏此視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optionally the checkweigher has an option called Request Form, which is activated if a new format number is put into, and its data can be downloaded from the database of the server.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142615Z" creationid="Judy" creationdate="20151128T142615Z">
+        <seg>檢重機具有請求表單 (Request Form) 之選項，若加入新的形式時將啟用此選項，此時可以從伺服器的資料庫中下載資料。</seg>
       </tuv>
     </tu>
     <tu>
