@@ -52459,6 +52459,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The calibration process used</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T025913Z" creationid="Judy" creationdate="20151128T025913Z">
+        <seg>使用之校正程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The camera is now seeing an object that has a white upper half and nothing came in with a white upper half!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124857Z">
@@ -53852,6 +53860,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The metrological traceability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030015Z" creationid="Judy" creationdate="20151128T030015Z">
+        <seg>量測可追朔性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The micro to nano SIM adapter is included in the box.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135611Z">
@@ -54579,6 +54595,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T235645Z">
         <seg>於每年年初設定之量化目標必須包含此改進計畫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The readings obtained during the calibration process</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030050Z" creationid="Judy" creationdate="20151128T030050Z">
+        <seg>校正程序中獲取之讀數</seg>
       </tuv>
     </tu>
     <tu>
