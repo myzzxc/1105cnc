@@ -17849,6 +17849,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elements broken or damaged by misuse or lack of maintenance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T034938Z" creationid="Judy" creationdate="20151128T034938Z">
+        <seg>因錯誤使用或缺乏維修導致元件受損。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elements of malfunction: The warranty covers the replacement of machine elements that cause malfunctions or do not meet the sale conditions terms due to design defects, including our technicians’ intervention.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T034316Z" creationid="Judy" creationdate="20151128T034316Z">
@@ -29098,6 +29106,22 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T141318Z">
         <seg>2 年以上的生產中斷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interventions for adjustments, tuning, staff instructions or user inability, except for the first machine setting up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T034901Z" creationid="Judy" creationdate="20151128T034901Z">
+        <seg>除了第一次安裝機台外之調整、微調、員工教學或使用者錯誤操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interventions for repair or replacement of the materials listed in the previous section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T035031Z" creationid="Judy" creationdate="20151128T035031Z">
+        <seg>進行維修或更換前一節中所列出之材料。</seg>
       </tuv>
     </tu>
     <tu>
