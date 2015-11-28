@@ -5712,6 +5712,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ActivatedOption</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121738Z" creationid="Judy" creationdate="20151128T121738Z">
+        <seg>啟用選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activates alarm outputs in case of event</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140557Z">
@@ -15986,6 +15994,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deactivated Option</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121745Z" creationid="Judy" creationdate="20151128T121745Z">
+        <seg>停用選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dealer Expo Top UTV Products—Rhinos, Rangers and RZRs were everything at th .</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T141018Z">
@@ -16226,6 +16242,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the screen you will be on, different kinds of keyboards may appear to make an edit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121850Z" creationid="Judy" creationdate="20151128T121850Z">
+        <seg>根據您的畫面，會顯示不同的鍵盤以進行編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploy MS Office App-V package</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024626Z">
@@ -16431,6 +16455,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T142255Z">
         <seg>詳細研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device Ethernet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121805Z" creationid="Judy" creationdate="20151128T121805Z">
+        <seg>乙太網路裝置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device USB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121752Z" creationid="Judy" creationdate="20151128T121752Z">
+        <seg>USB 裝置</seg>
       </tuv>
     </tu>
     <tu>
@@ -59093,8 +59133,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This key allows making a weight test</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121129Z" creationid="Judy" creationdate="20151128T121129Z">
-        <seg>此案件用於進行秤重測試</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121621Z" creationid="Judy" creationdate="20151128T121129Z">
+        <seg>此按鍵用於進行秤重測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -59107,10 +59147,18 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This key allows turn off the machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121720Z" creationid="Judy" creationdate="20151128T121720Z">
+        <seg>此按鍵用於關閉機台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This key allows updating the data of weight stability in production</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121602Z" creationid="Judy" creationdate="20151128T121602Z">
-        <seg>此案件用於進入生產範圍之最後循換檢視畫面</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121706Z" creationid="Judy" creationdate="20151128T121602Z">
+        <seg>此按鍵用於更新生產之重量穩定性資料</seg>
       </tuv>
     </tu>
     <tu>
