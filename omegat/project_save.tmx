@@ -6209,6 +6209,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After selecting the working format the screen for editing format will appear (Figure 3.10.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142816Z" creationid="Judy" creationdate="20151128T142745Z">
+        <seg>選擇工作形式後將顯示編輯形式的畫面 (圖 3.10)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After ten years, he decided to move on to the production of finished metal spectacle frames and, after attending various courses in design, he created the collection that bears his own name, thus highlighting his creativeness.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T024833Z">
@@ -26513,6 +26521,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to change any parameter you just have to select the parameter to be changed within the list and make a single keystroke.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142957Z" creationid="Judy" creationdate="20151128T142957Z">
+        <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to use shared product settings, before you start import</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023214Z">
@@ -39513,8 +39529,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Optionally the checkweigher has an option called Request Form, which is activated if a new format number is put into, and its data can be downloaded from the database of the server.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142615Z" creationid="Judy" creationdate="20151128T142615Z">
-        <seg>檢重機具有請求表單 (Request Form) 之選項，若加入新的形式時將啟用此選項，此時可以從伺服器的資料庫中下載資料。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142657Z" creationid="Judy" creationdate="20151128T142615Z">
+        <seg>但檢重機中具有請求表單 (Request Form) 之選項，於加入新的形式時將出現此選項，此時可以從伺服器的資料庫中下載資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53190,6 +53206,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T135809Z">
         <seg>本發明之上述和其它功能以及實現方式可參照以下發明實施例的詳細說明與附圖以清楚了解此發明，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The access to the screen does not involve out of production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142818Z" creationid="Judy" creationdate="20151128T142814Z">
+        <seg>進入該畫面不會停止生產。</seg>
       </tuv>
     </tu>
     <tu>
