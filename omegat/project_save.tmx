@@ -8199,6 +8199,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As for the level of airborne noise emitted Checkweighers V2000 have the following features:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024805Z" creationid="Judy" creationdate="20151128T024805Z">
+        <seg>V2000 檢重機發出之噪音量具有以下特性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As illustrated in FIG. 31, dampening member 560 is angled forward by having the connection point of dampening member 560 to frame 112 being forward of the connection point of dampening member 560 to radius arms 526.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T124102Z">
@@ -18602,6 +18610,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140531Z">
         <seg>支援事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eventual Overvoltage: Overvoltage category II</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024602Z" creationid="Judy" creationdate="20151128T024602Z">
+        <seg>最終過電壓：第二類過電壓</seg>
       </tuv>
     </tu>
     <tu>
@@ -41006,6 +41022,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024230Z">
         <seg>波蘭文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pollution degree 2 according to IEC 664</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024630Z" creationid="Judy" creationdate="20151128T024630Z">
+        <seg>依據 IEC 664 之污染等級 2 </seg>
       </tuv>
     </tu>
     <tu>
