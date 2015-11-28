@@ -21140,6 +21140,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T134159Z" creationid="Judy" creationdate="20151128T134159Z">
+        <seg>圖 3.4. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Open/Save from/to Cloud</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020843Z">
@@ -54415,6 +54423,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021157Z">
         <seg>以下為增加修補程式和外掛程式的步驟，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The format can be selected from the list using the keys  and   or entering the number using the keyboard: in this case marking in the "Format" box the format chosen to work with.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T134152Z" creationid="Judy" creationdate="20151128T134152Z">
+        <seg>可以由清單中使用   和   鍵或使用鍵盤輸入號碼選擇格式：此時標記欲選擇使用的格式「Format」方塊。</seg>
       </tuv>
     </tu>
     <tu>
