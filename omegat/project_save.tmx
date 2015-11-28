@@ -48511,6 +48511,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start pushbutton: It is green.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T032635Z" creationid="Judy" creationdate="20151128T032632Z">
+        <seg>啟動按鈕：其為綠色，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Static Analysis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135819Z">
@@ -48611,6 +48619,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142120Z">
         <seg>停止 Windows Search</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop button: It is red.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T032801Z" creationid="Judy" creationdate="20151128T032801Z">
+        <seg>停止按鈕：其為紅色，</seg>
       </tuv>
     </tu>
     <tu>
@@ -53476,6 +53492,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The heat pilot: It is red and when lit indicates that jumped a thermal protection relay belonging to any AC engine of those the checkweigher has incorporated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T032615Z" creationid="Judy" creationdate="20151128T032615Z">
+        <seg>過熱指示燈：其為紅色，當檢重機中任何交流電源之過熱保護繼電器觸發時亮起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The heavy duty drag knife is designed for knife cutting applications that involve heavy gauge flexible materials.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T033828Z">
@@ -57861,6 +57885,22 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132218Z">
         <seg>此懸臂  526 設計能安裝較長的阻尼元件 560 和更大移動行程的懸吊 116。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This button is used to activate the checkweigher start relay and its light indicates that the conveyors are operating.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T032747Z" creationid="Judy" creationdate="20151128T032747Z">
+        <seg>此按鈕用來啟動檢重機之啟動繼電器，輸送機運行中其指示燈亮起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This button is used to activate the stop relay and its light indicates that the conveyors are stopped.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T032841Z" creationid="Judy" creationdate="20151128T032841Z">
+        <seg>此按鈕用來啟動停止繼電器，輸送機停止時其指示燈亮起。</seg>
       </tuv>
     </tu>
     <tu>
