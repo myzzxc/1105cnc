@@ -55245,6 +55245,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The technical specifications of the checkweigher are defined on the machine in what is called the Features Plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T023645Z" creationid="Judy" creationdate="20151128T023645Z">
+        <seg>檢重機5 技術規格的檢重秤上機器定義在什麼叫做功能板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test and control facilities (internal and external) must be appropriate and ISO/CEI 17025 accredited.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T024416Z">
