@@ -7059,6 +7059,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alphanumeric Keyboard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122011Z" creationid="Judy" creationdate="20151128T122011Z">
+        <seg>字母數字鍵盤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also as transverse tube 124 is bolted to stand-offs 254 (FIG. 9), removal of tube 124 allows the molded covering 360 to be easily removed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T015552Z">
@@ -54836,6 +54844,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The numeric keyboard for editing certain parameters shows on the right side the maximum and minimum values that can acquire the value being edited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122130Z" creationid="Judy" creationdate="20151128T122130Z">
+        <seg>編輯某些參數之數字鍵盤顯示於右側，正在編輯能達到的最大值和最小值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The official license must be installed on the official machine because won’t possible to reactivated it on another machine later, so please test the machine before installing the official license.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T141917Z">
@@ -58115,6 +58131,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T233328Z">
         <seg>由 HUTCHINSON 或其客戶端要求於供應商外包廠商之廠房進行之審核可由 HUTCHINSON （或 HUTCHISON 指定之第三方機構）執行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These can be alphanumeric, Figure 2.8, numeric, Figure 2.9, and to confirm a proposed action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122001Z" creationid="Judy" creationdate="20151128T122001Z">
+        <seg>可能為字母數字 (圖 2.8)、 數字 (圖 2.9) 鍵盤，用於確認建議操作。</seg>
       </tuv>
     </tu>
     <tu>
