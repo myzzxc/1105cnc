@@ -25681,6 +25681,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If "Length" or "Cadence" data were modified, the checkweigher will understand that format has been disarranged (then the checkweigher will display the message "This Format will remain disadjusted").</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T151507Z" creationid="Judy" creationdate="20151128T151507Z">
+        <seg>若修改「Length (長度)」或「Cadence (輸送間隔)」資料時，檢重機能偵測形式已被打亂 (然後檢重機將顯示「This Format will remain disadjusted (此形式將維持不變)」訊息)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If ACM extraction is also specified a THIRD three phase power supply is also required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090229Z">
@@ -48978,6 +48986,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030419Z" creationid="Judy" creationdate="20151128T030419Z">
         <seg>因此一年之後 VARPE 不為控制器故障負責。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, before putting this new product in production it will be necessary to carry out a dynamic adjustment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T151544Z" creationid="Judy" creationdate="20151128T151544Z">
+        <seg>因此必須在新產品投入生產前進行動態調整。</seg>
       </tuv>
     </tu>
     <tu>
