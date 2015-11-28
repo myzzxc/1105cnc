@@ -16048,6 +16048,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data Programming</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140352Z" creationid="Judy" creationdate="20151128T140247Z">
+        <seg>資料程式化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data may be duplicated or outdated as it’s passed around from person to person.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023125Z">
@@ -17200,6 +17208,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142003Z">
         <seg>駕駛和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dropdown Formats Data Programming</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140515Z" creationid="Judy" creationdate="20151128T140515Z">
+        <seg>格式資料程式化下拉選單</seg>
       </tuv>
     </tu>
     <tu>
@@ -21148,6 +21164,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140238Z" creationid="Judy" creationdate="20151128T140238Z">
+        <seg>圖 3.5 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140455Z" creationid="Judy" creationdate="20151128T140455Z">
+        <seg>圖 3.6 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Open/Save from/to Cloud</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020843Z">
@@ -22875,8 +22907,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>From the General Menu you select the "Programming" button, then the dropdown of the Figure 3.6.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140102Z" creationid="Judy" creationdate="20151128T140102Z">
-        <seg>從一般功能表中選擇「Programming (編寫程式)」按鈕後將顯示圖 3.6 之下拉選單。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140318Z" creationid="Judy" creationdate="20151128T140102Z">
+        <seg>從一般功能表中選擇「Programming (程式化)」按鈕後將顯示圖 3.6 之下拉選單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36927,6 +36959,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next you select the “Formats”option, and a new dropdown menu appears, Figure 3.7.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140452Z" creationid="Judy" creationdate="20151128T140444Z">
+        <seg>下一步選擇「Format」選項，將會出現一組新的下拉選單如圖 3.6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nitro Pro 9 is an easy to use solution, at the right price, from a vendor offering great customer service and support</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063000Z">
@@ -43296,8 +43336,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Programming</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133444Z">
-        <seg>編寫程式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140310Z">
+        <seg>程式化</seg>
       </tuv>
     </tu>
     <tu>
@@ -66207,6 +66247,14 @@ Edit your video afterwards just like the pros do.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can enter in the dropdown menu "Programming" to program the different sections shown on the associated image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140344Z" creationid="Judy" creationdate="20151128T140233Z">
+        <seg>可以進入下拉選單中的「Programming」以進行圖像上顯示之不同區段的程式化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can even add bookmarks and transfer hyperlinks when creating PDF documents from Microsoft Word, Excel and PowerPoint.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145920Z">
@@ -66403,6 +66451,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233938Z">
         <seg>現在您已完成自訂首頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You select the "New Format" option from a dropdown menu (Figure 3.7.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140612Z" creationid="Judy" creationdate="20151128T140542Z">
+        <seg>於下拉選單中選擇「New Format (開啟新格式)」選項 (圖 3.7)，</seg>
       </tuv>
     </tu>
     <tu>
