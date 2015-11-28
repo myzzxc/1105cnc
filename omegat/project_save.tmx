@@ -29285,6 +29285,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initial Tare: The mass of the container.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152153Z" creationid="Judy" creationdate="20151128T152153Z">
+        <seg>初始容器重 (Initial Tare)：容器重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>InitialSamples(EI): These are the first parts of a new supply performed using serial means and/or means representing the serial conditions intended for qualification trials for their acceptance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T002709Z">
@@ -36919,6 +36927,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Net: is the mass of a product regardless of the container.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152122Z" creationid="Judy" creationdate="20151128T152030Z">
+        <seg>淨重 (Net)：產品不包含容器之重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Netting 620 also includes vertical strap portions 740 and horizontal strap portions 742 which define openings 746 of the netting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T051531Z">
@@ -43392,8 +43408,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product: Format name.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152010Z" creationid="Judy" creationdate="20151128T152010Z">
-        <seg>產品：形式名稱。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152037Z" creationid="Judy" creationdate="20151128T152010Z">
+        <seg>產品 (Product)：形式名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51294,6 +51310,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z">
         <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tare Test Limit: Is the tare % that can be modified with the Tare Test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152256Z" creationid="Judy" creationdate="20151128T152221Z">
+        <seg>容器重測試限制 (Tare Test Limit)：容器重測試可修改之容器重 %。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62030,8 +62054,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Units: The unit to be used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152022Z" creationid="Judy" creationdate="20151128T152022Z">
-        <seg>單位：使用之單位。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152048Z" creationid="Judy" creationdate="20151128T152022Z">
+        <seg>單位 (Units)：使用之單位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64058,6 +64082,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141858Z">
         <seg>重量穩定性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Test Limit: The grams maximum modifiable by a Weight Test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152400Z" creationid="Judy" creationdate="20151128T152400Z">
+        <seg>重量測試限制 (Weight Test Limit)：重量測試可修改之最大重量 (克)。</seg>
       </tuv>
     </tu>
     <tu>
