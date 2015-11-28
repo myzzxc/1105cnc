@@ -14352,6 +14352,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control Panel, Hand Control</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033320Z" creationid="Judy" creationdate="20151128T033320Z">
+        <seg>控制面板，手動控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control Systems;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T132801Z">
@@ -60985,6 +60993,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033644Z">
         <seg>價值 $</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VARPE provides a 12 months warranty from the date the equipment was delivered or made available by written notice to the customer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033535Z" creationid="Judy" creationdate="20151128T033535Z">
+        <seg>VARPE 提供自從設備交付日或提供予客戶之書面聲明日期起 12 個月的保固。</seg>
       </tuv>
     </tu>
     <tu>
