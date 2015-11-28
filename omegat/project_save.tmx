@@ -11877,6 +11877,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checkthebelt tensión.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130913Z" creationid="Judy" creationdate="20151128T130913Z">
+        <seg>檢查皮帶張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chilling</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045144Z">
@@ -18981,6 +18989,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151922Z">
         <seg>每增加一名新的家屬，將會有一項 To Do (待辦事項) 操作以變更您的福利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everyday</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130849Z" creationid="Judy" creationdate="20151128T130849Z">
+        <seg>每天</seg>
       </tuv>
     </tu>
     <tu>
@@ -27136,6 +27152,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T091852Z" creationid="Judy" creationdate="20151128T091852Z">
         <seg>當機台為開放時段的情況下，將顯示「Log out (x) (登出)」，x 代表您此時的權限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case the band must be changed, follow the instructions of Appendix</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130845Z" creationid="Judy" creationdate="20151128T130845Z">
+        <seg>當需要更換輸送帶時，請按照附錄之說明進行</seg>
       </tuv>
     </tu>
     <tu>
@@ -60835,6 +60859,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transmission</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130902Z" creationid="Judy" creationdate="20151128T130902Z">
+        <seg>傳輸系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transmission Housing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034749Z">
@@ -61617,6 +61649,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073624Z">
         <seg>使用共用浮水印，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use air pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130708Z" creationid="Judy" creationdate="20151128T130708Z">
+        <seg>使用空壓清潔</seg>
       </tuv>
     </tu>
     <tu>
@@ -62450,6 +62490,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160955Z">
         <seg>確認 Microsoft Office 2013 出現在開始功能表中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify the bands are not disbanded or torn</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130751Z" creationid="Judy" creationdate="20151128T130751Z">
+        <seg>檢查輸送帶無斷裂或磨損</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify there is no product between belt and rollers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130819Z" creationid="Judy" creationdate="20151128T130819Z">
+        <seg>檢查輸送帶和輥之間無異物。</seg>
       </tuv>
     </tu>
     <tu>
