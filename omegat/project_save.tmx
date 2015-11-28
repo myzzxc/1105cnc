@@ -18977,6 +18977,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every 15 days</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130939Z" creationid="Judy" creationdate="20151128T130939Z">
+        <seg>每隔 15 天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every day, millions of people and thousands of businesses experience Nuance through intelligent systems that can listen, understand, learn and adapt to your life and your work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051034Z">
@@ -20615,6 +20623,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130622Z">
         <seg>使用指引說明 (How To Guides) 自行熟悉操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fan Filter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131124Z" creationid="Judy" creationdate="20151128T131124Z">
+        <seg>風扇過濾器</seg>
       </tuv>
     </tu>
     <tu>
@@ -22441,6 +22457,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the proper running of the fan, it is recommended removing the filter and cleanning it with compressed air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131207Z" creationid="Judy" creationdate="20151128T131207Z">
+        <seg>為了維持風扇正常運行，建議拆除過濾器並以壓縮空氣清潔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the purposes of this assessment, statistical equivalence shall be demonstrated by a two-sided Student's t-Test at a probability of 95% with a confidence level of 90 percent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T194850Z">
@@ -22469,6 +22493,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140848Z">
         <seg>對於產品的資格重審，無論最初的流程所做的變改性質為何，供應商應於所有新產品交付前，提供一個根據變更流程所生產之初始樣品檔案：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the right photocell working it is recommended to clean the visor with water or alcohol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131058Z" creationid="Judy" creationdate="20151128T131058Z">
+        <seg>為了維持光電感應器正常運作，建議以水或酒精清潔表面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38621,6 +38653,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once a week</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131104Z" creationid="Judy" creationdate="20151128T131104Z">
+        <seg>每週一次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once a week.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122959Z" creationid="Judy" creationdate="20151128T122959Z">
@@ -41237,6 +41277,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121651Z">
         <seg>變更照片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photocell</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130956Z" creationid="Judy" creationdate="20151128T130956Z">
+        <seg>光電感應器</seg>
       </tuv>
     </tu>
     <tu>
@@ -62498,6 +62546,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130751Z" creationid="Judy" creationdate="20151128T130751Z">
         <seg>檢查輸送帶無斷裂或磨損</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify the belt teeth are not worn.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130935Z" creationid="Judy" creationdate="20151128T130935Z">
+        <seg>檢查皮帶齒條是否磨損</seg>
       </tuv>
     </tu>
     <tu>
