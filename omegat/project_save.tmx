@@ -59059,10 +59059,42 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This key allows access to view the last current cycle of range in production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121246Z" creationid="Judy" creationdate="20151128T121236Z">
+        <seg>此案件用於進入檢視生產範圍之歷史</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This key allows access to view the range history in range production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121255Z" creationid="Judy" creationdate="20151128T121225Z">
+        <seg>此案件用於進入生產範圍之歷史檢視畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This key allows making a weight test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121129Z" creationid="Judy" creationdate="20151128T121129Z">
+        <seg>此案件用於進行秤重測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This key allows modify in production parameters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121102Z" creationid="Judy" creationdate="20151128T121015Z">
+        <seg>此按鍵用於修改生產參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This key allows you to exit a screen at any time</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120750Z" creationid="Judy" creationdate="20151128T120750Z">
-        <seg>此按鍵能隨時跳出畫面</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121046Z" creationid="Judy" creationdate="20151128T120750Z">
+        <seg>按下此按鍵能隨時跳出畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -59671,16 +59703,24 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Through this key it is possible to perform a non-automatic zero adjustment</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120811Z" creationid="Judy" creationdate="20151128T120811Z">
-        <seg>此按鍵可執行非自動歸零</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121030Z" creationid="Judy" creationdate="20151128T120811Z">
+        <seg>此按鍵用於執行非自動歸零</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this key you can access the process of listing-erasing calculations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121019Z" creationid="Judy" creationdate="20151128T121004Z">
+        <seg>此按鍵用於進入列表-刪除計算流程</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Through this key you can come back to precedent menu</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120916Z" creationid="Judy" creationdate="20151128T120916Z">
-        <seg>此按鍵能回到初始功能表</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121025Z" creationid="Judy" creationdate="20151128T120916Z">
+        <seg>此按鍵用於回到初始功能表</seg>
       </tuv>
     </tu>
     <tu>
