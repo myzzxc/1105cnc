@@ -60085,6 +60085,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen will be unique for each particular work format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T150618Z" creationid="Judy" creationdate="20151128T150615Z">
+        <seg>此畫面根據每個特定工作形式而不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This section describes how to sequence a Power PDF package and what additional installations are needed on the client computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141149Z">
