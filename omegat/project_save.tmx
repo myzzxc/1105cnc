@@ -7251,6 +7251,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Among the different screens of the program you will find also the following control panels:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101547Z" creationid="Judy" creationdate="20151128T101547Z">
+        <seg>不同的程式畫面中也會發現以下控制面板：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amps Required</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050529Z">
@@ -22229,6 +22237,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133429Z">
         <seg>若要取消選擇W5500，設定數位針腳10為高電位輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the machine to work in production a dynamic adjustment is needed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101458Z" creationid="Judy" creationdate="20151128T101458Z">
+        <seg>必須進行動態調整使機台恢復生產運轉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44940,8 +44956,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Residual: The moment the platform overcomes the limit of waste, the LED will light gray; meanwhile, the LED remains green.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090915Z" creationid="Judy" creationdate="20151128T090915Z">
-        <seg>殘值：平台超過廢棄物上限時，LED 燈將顯示灰色；平時 LED 燈則維持綠色。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101127Z" creationid="Judy" creationdate="20151128T090915Z">
+        <seg>Residual (殘值)：平台超過廢棄物上限時，LED 燈將顯示灰色；平時 LED 燈則維持綠色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46461,8 +46477,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Screens</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133845Z">
-        <seg>螢幕</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101627Z">
+        <seg>畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -46743,6 +46759,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T042153Z">
         <seg>請參見第 3.2.1 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See section “Dynamic Analysis” for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101508Z" creationid="Judy" creationdate="20151128T101508Z">
+        <seg>更多資訊請見「動態分析」章節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51606,6 +51630,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Figure 2.5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101231Z" creationid="Judy" creationdate="20151128T101231Z">
+        <seg>圖 2.5. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Fundamental Principles of Purchasing are also available on the HUTCHINSON purchasing portal:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T121357Z">
@@ -55569,6 +55601,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T124059Z">
         <seg>螢幕顯示四個部分：上半部份、終止合約資訊部份、職位詳細資訊部份和附加資訊部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The screens system can be viewed as a set of dropdown menus from the main menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101730Z" creationid="Judy" creationdate="20151128T101730Z">
+        <seg>畫面系統於主選單中能檢視一系列下拉選單功能表，</seg>
       </tuv>
     </tu>
     <tu>
@@ -62088,8 +62128,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Vibration: At the time the stability criterion on the platform fails, the LED is shown in gray; meanwhile, the LED remains green.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T091249Z" creationid="Judy" creationdate="20151128T091249Z">
-        <seg>震動：平台無法達到穩定性標準時，LED 燈顯示灰色；平時 LED 燈則維持綠色。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101138Z" creationid="Judy" creationdate="20151128T091249Z">
+        <seg>Vibration (震動)：平台無法達到穩定性標準時，LED 燈顯示灰色；平時 LED 燈則維持綠色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65843,8 +65883,8 @@ whether it�s raining or snowing</seg>
       <tuv lang="EN-US">
         <seg>Zero Track: When a track is done, when a division is moved, the LED will light green.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092116Z" creationid="Judy" creationdate="20151128T090531Z">
-        <seg>軌道歸零：當軌道工作完成、區段移動後，LED 燈將顯示綠色。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101116Z" creationid="Judy" creationdate="20151128T090531Z">
+        <seg>Zero Track (軌道歸零)：當軌道工作完成、區段移動後，LED 燈將顯示綠色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66906,6 +66946,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053836Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>header means that the machine is out of production as a result of being maladjusted dynamically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101336Z" creationid="Judy" creationdate="20151128T101336Z">
+        <seg>之欄位代表機台動態調整錯誤而導致停止生產之畫面。</seg>
       </tuv>
     </tu>
     <tu>
