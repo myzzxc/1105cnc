@@ -5794,8 +5794,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Active Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141958Z">
-        <seg>主動式格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141610Z">
+        <seg>使用中形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -8991,6 +8991,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the moment the user creates a new format, the checkweigher automatically makes a copy of the active format over the new one, after that you can edit the data for this new format (see Figure 3.9.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141538Z" creationid="Judy" creationdate="20151128T141538Z">
+        <seg>使用者建立一組新的形式時，檢重機將自動複製啟用中的形式以生成新形式，接著可以編輯此新形式的資料 (見圖 3.9)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the moment the user wants to end his work, it is needed to close the session.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133347Z" creationid="Judy" creationdate="20151128T133202Z">
@@ -11735,8 +11743,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Change Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134634Z">
-        <seg>更改格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140723Z">
+        <seg>更改形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -14802,8 +14810,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Copy Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134820Z">
-        <seg>複製格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140732Z">
+        <seg>複製形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -15292,6 +15300,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T150934Z">
         <seg>建立含標籤之 PDF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a New Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141120Z" creationid="Judy" creationdate="20151128T141120Z">
+        <seg>建立新形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -17214,8 +17230,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Dropdown Formats Data Programming</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140515Z" creationid="Judy" creationdate="20151128T140515Z">
-        <seg>格式資料程式化下拉選單</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140816Z" creationid="Judy" creationdate="20151128T140515Z">
+        <seg>形式資料程式化下拉選單</seg>
       </tuv>
     </tu>
     <tu>
@@ -17939,8 +17955,8 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Edit Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134818Z">
-        <seg>編輯格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140730Z">
+        <seg>編輯形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -18832,8 +18848,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Erase Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134828Z">
-        <seg>刪除格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140734Z">
+        <seg>刪除形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -21180,6 +21196,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.7.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141102Z" creationid="Judy" creationdate="20151128T141102Z">
+        <seg>圖 3.7 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Open/Save from/to Cloud</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020843Z">
@@ -22699,24 +22723,24 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Format, net, tare, are basic data for each product; user, batch and turn will be common to all tracks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093258Z" creationid="Judy" creationdate="20151128T093021Z">
-        <seg>格式、淨重、皮重為各產品之基本資訊；所有軌道之使用者、批號以及轉向將會相同。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140748Z" creationid="Judy" creationdate="20151128T093021Z">
+        <seg>形式、淨重、皮重為各產品之基本資訊；所有軌道之使用者、批號以及轉向將會相同。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Format: Set of data associated with a product and identified with a number completely defining inspection criteria.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063251Z">
-        <seg>格式 (Format)：完全以編號定義檢驗標準的產品相關資料集。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140744Z">
+        <seg>形式 (Format)：完全以編號定義檢驗標準的產品相關資料集。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Formats Programming</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134805Z">
-        <seg>格式程式化</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140725Z">
+        <seg>形式程式化</seg>
       </tuv>
     </tu>
     <tu>
@@ -25781,6 +25805,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T144825Z">
         <seg>若 USB 連接埠的電流超過 500 mA 時，保險絲將會自動切斷連接直到短路或超載情況排除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If more than 8 programmed formats would appear, then through a bar with arrows and   you will be able to scroll searching the different formats line by line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141100Z" creationid="Judy" creationdate="20151128T141100Z">
+        <seg>若具有超過 8 種程式化形式，則透過工具列中的箭頭和   以滾動逐行搜尋不同形式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29063,8 +29095,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Indication out of production machine, adjust work format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093639Z" creationid="Judy" creationdate="20151128T093639Z">
-        <seg>機台生產停止指示，調整工作格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140752Z" creationid="Judy" creationdate="20151128T093639Z">
+        <seg>機台生產停止指示，調整工作形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -36833,8 +36865,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>New Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134815Z">
-        <seg>開啟新格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140727Z">
+        <seg>開啟新形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -38521,6 +38553,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225025Z">
         <seg>於詳細解雇員工畫面中，填寫 Termination Date (解雇日期) 和 Termination Reason (解雇原因) 等欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the display may appear up to 8 formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140928Z" creationid="Judy" creationdate="20151128T140908Z">
+        <seg>螢幕上最多能顯示 8 種形式，</seg>
       </tuv>
     </tu>
     <tu>
@@ -51550,8 +51590,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The "Change Format" screen is used to select the work format (product) which you want to change to.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133912Z" creationid="Judy" creationdate="20151128T133836Z">
-        <seg>在「Change Format」畫面用於選擇欲變更之工作格式 (產品)，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140808Z" creationid="Judy" creationdate="20151128T133836Z">
+        <seg>在「Change Format」畫面用於選擇欲變更之工作形式 (產品)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -54477,8 +54517,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The format can be selected from the list using the keys  and   or entering the number using the keyboard: in this case marking in the "Format" box the format chosen to work with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T134152Z" creationid="Judy" creationdate="20151128T134152Z">
-        <seg>可以由清單中使用   和   鍵或使用鍵盤輸入號碼選擇格式：此時標記欲選擇使用的格式「Format」方塊。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140812Z" creationid="Judy" creationdate="20151128T134152Z">
+        <seg>可以由清單中使用   和   鍵或使用鍵盤輸入號碼選擇格式：此時標記欲選擇使用的形式「Format」方塊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59941,6 +59981,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen is used to create new work formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140831Z" creationid="Judy" creationdate="20151128T140708Z">
+        <seg>此畫面用於創建新的工作形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This section describes how to sequence a Power PDF package and what additional installations are needed on the client computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141149Z">
@@ -60461,6 +60509,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133957Z">
         <seg>若要更改您的個人資訊，請點擊相關的欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To come back to the main screen without creating a new format you must press the "Cancel" button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141725Z" creationid="Judy" creationdate="20151128T141725Z">
+        <seg>若要回到主畫面而不創建新的形式，需按下「Cancel」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65661,8 +65717,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Working format: Format which the checkweigher is working with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063323Z">
-        <seg>工作格式 (Working format)：檢重機使用的格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140746Z">
+        <seg>工作形式 (Working format)：檢重機使用的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66153,16 +66209,16 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You can access also from the "Program" and "Format" buttons.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133750Z" creationid="Judy" creationdate="20151128T133750Z">
-        <seg>也能藉由「Program (程式)」和「Format (格式)」按鈕進入。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140802Z" creationid="Judy" creationdate="20151128T133750Z">
+        <seg>也能藉由「Program (程式)」和「Format (形式)」按鈕進入。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You can access from the first dropdown "General Menu", clicking the "Change Format" button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133701Z" creationid="Judy" creationdate="20151128T133701Z">
-        <seg>可以由第一組下拉選單之「General Menu (一般功能表)」中，點擊「Change Format (更改格式)」按鈕進入。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140757Z" creationid="Judy" creationdate="20151128T133701Z">
+        <seg>可以由第一組下拉選單之「General Menu (一般功能表)」中，點擊「Change Format (更改形式)」按鈕進入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66457,8 +66513,8 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You select the "New Format" option from a dropdown menu (Figure 3.7.).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140612Z" creationid="Judy" creationdate="20151128T140542Z">
-        <seg>於下拉選單中選擇「New Format (開啟新格式)」選項 (圖 3.7)，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140820Z" creationid="Judy" creationdate="20151128T140542Z">
+        <seg>於下拉選單中選擇「New Format (開啟新形式)」選項 (圖 3.7)，</seg>
       </tuv>
     </tu>
     <tu>
