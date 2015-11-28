@@ -11252,6 +11252,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calibration certificates are valid only for one year.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030322Z" creationid="Judy" creationdate="20151128T030316Z">
+        <seg>校正認證有效期限為一年，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera Sequencing System in which the system automatically replaces a group of cameras on the screen by another group, as well as it allows changing, manually, the sequencing via the forward and back buttons.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T124839Z">
@@ -18586,6 +18594,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T130440Z">
         <seg>由ICC (ICC-ES) 所發行之評估報告係根據相關國際規範訂定之效能特性所製作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even during the period of validity VARPE will not be responsible if working machine conditions are different from those reflected in the certificate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030604Z" creationid="Judy" creationdate="20151128T030604Z">
+        <seg>即使於有效期內，若機台於不同於認證之環境條件下操作， VARPE 也不為機台故障負責。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31627,6 +31643,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090025Z">
         <seg>建議使用微型斷路器或馬達額定保險絲以保護設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is recommended to calibrate the equipment each year to ensure that it is still under the criteria of desired precision.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030654Z" creationid="Judy" creationdate="20151128T030654Z">
+        <seg>建議每年進行校正以確保其維持於所需精度標準之內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47830,6 +47854,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So, VARPE will not be responsible for the malfunction of the controller after this time is over.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030419Z" creationid="Judy" creationdate="20151128T030419Z">
+        <seg>因此一年之後 VARPE 不為控制器故障負責。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So, one of the benefits is that we can change some of the business processes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131807Z">
@@ -54817,6 +54849,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T052613Z">
         <seg>其連續噴出之微潤滑油霧提供更好的切削表面和更長的刀具壽命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result of the path, error, average weight, standard deviation and uncertainty among others (the definition of these parameters can be found in section 1.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030231Z" creationid="Judy" creationdate="20151128T030231Z">
+        <seg>路徑、誤差、平均重量、標準差和不確定性等結果 (這些參數的定義收錄第 1.1 節 </seg>
       </tuv>
     </tu>
     <tu>
@@ -67442,6 +67482,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T120015Z">
         <seg>「降低開發達 60%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Terminology”).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030254Z" creationid="Judy" creationdate="20151128T030245Z">
+        <seg>「專門用語」之中)</seg>
       </tuv>
     </tu>
     <tu>
