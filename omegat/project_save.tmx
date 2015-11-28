@@ -29110,6 +29110,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interventions of ordinary maintenance or for changing parts of complex substitution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T034619Z" creationid="Judy" creationdate="20151128T034537Z">
+        <seg>普通維修或更換複雜的替代零件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduce HIPAA security concerns</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T134000Z">
@@ -57089,8 +57097,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The warranty will not cover the following cases:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T034342Z" creationid="Judy" creationdate="20151128T034342Z">
-        <seg>以下情況不包括於保固範圍內：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T034644Z" creationid="Judy" creationdate="20151128T034342Z">
+        <seg>以下情況不包括於保固中：</seg>
       </tuv>
     </tu>
     <tu>
