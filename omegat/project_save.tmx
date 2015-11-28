@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Nevertheless the routine depends on the type of product)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T123032Z" creationid="Judy" creationdate="20151128T123032Z">
+        <seg>(但清潔頻率仍取決於產品的類型)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(New Beetle, New Beetle convertible)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T032806Z">
@@ -4618,6 +4626,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A warning message appears in the middle of the keyboard advising the user the machine will get out of production if the order is validated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122644Z" creationid="Judy" creationdate="20151128T122644Z">
+        <seg>鍵盤中間顯示一條警告訊息，告知若接受之後機器將停止生產。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A wide range of products is available,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045929Z">
@@ -6125,6 +6141,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T060753Z">
         <seg>對文件、文件中的文字、註解和書籤進行進階搜尋和製作索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advises</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122833Z" creationid="Judy" creationdate="20151128T122716Z">
+        <seg>建議</seg>
       </tuv>
     </tu>
     <tu>
@@ -9682,6 +9706,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bands</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122750Z" creationid="Judy" creationdate="20151128T122750Z">
+        <seg>輸送帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bangalore, India 560 010 Phone: +91 80 2314 6628</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083618Z">
@@ -11575,8 +11607,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Cell</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135254Z">
-        <seg>儲存格</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T123117Z">
+        <seg>箱格</seg>
       </tuv>
     </tu>
     <tu>
@@ -18037,6 +18069,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T131927Z">
         <seg>高雅且精巧的外型：尺寸微小，從耳朵後方幾乎看不到它的存在，Pure™ 能提供了一個絕佳的雙耳聽力體驗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Element</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122714Z" creationid="Judy" creationdate="20151128T122714Z">
+        <seg>元件</seg>
       </tuv>
     </tu>
     <tu>
@@ -32199,6 +32239,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended using air pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122951Z" creationid="Judy" creationdate="20151128T122951Z">
+        <seg>建議使用空壓清潔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is supplemented by a supply chain manual SlogM HUT DQ G32.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152430Z">
@@ -33016,6 +33064,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T025522Z">
         <seg>關鍵定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyboard Accept/Cancel an action</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122656Z" creationid="Judy" creationdate="20151128T122656Z">
+        <seg>接受/取消動作之鍵盤</seg>
       </tuv>
     </tu>
     <tu>
@@ -36567,6 +36623,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never use aggressive products as caustic soda.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122935Z" creationid="Judy" creationdate="20151128T122830Z">
+        <seg>請勿使用腐蝕性的產品如苛性鈉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T025801Z">
@@ -38529,6 +38593,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T140955Z">
         <seg>ON：模組板已通電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once a week.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122959Z" creationid="Judy" creationdate="20151128T122959Z">
+        <seg>每週一次</seg>
       </tuv>
     </tu>
     <tu>
@@ -42642,6 +42714,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083251Z">
         <seg>問題：PDF 文件為商業文件協作的標準格式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122806Z" creationid="Judy" creationdate="20151128T122743Z">
+        <seg>操作頻率</seg>
       </tuv>
     </tu>
     <tu>
@@ -62650,6 +62730,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120931Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voltage and air supply Off</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122817Z" creationid="Judy" creationdate="20151128T122817Z">
+        <seg>電壓和空氣供應關閉</seg>
       </tuv>
     </tu>
     <tu>
