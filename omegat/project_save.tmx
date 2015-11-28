@@ -59363,6 +59363,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This key allows the user to protect the screen for a few seconds during its cleaning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131840Z" creationid="Judy" creationdate="20151128T131840Z">
+        <seg>此按鍵允許使用者於清理畫面期間鎖定畫面數秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This key allows turn off the machine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121720Z" creationid="Judy" creationdate="20151128T121720Z">
@@ -60017,6 +60025,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121609Z" creationid="Judy" creationdate="20151128T121527Z">
         <seg>此按鍵用於取得靜態平衡之系統偏移量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen, you can change the username and his password, among others.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131630Z" creationid="Judy" creationdate="20151128T131630Z">
+        <seg>藉由此畫面能變更使用者名稱和密碼以及其他選項。</seg>
       </tuv>
     </tu>
     <tu>
