@@ -10764,6 +10764,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By means of the calibration certificate is provided information about:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T025753Z" creationid="Judy" creationdate="20151128T025753Z">
+        <seg>校正認證中提供下列資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By placing oil reservoir above the pump of power source 130, oil</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T131312Z">
@@ -18370,6 +18378,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144833Z" creationid="Judy" creationdate="20151126T144833Z">
         <seg>入口輸送帶 + 側帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Environmental conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T025832Z" creationid="Judy" creationdate="20151128T025832Z">
+        <seg>環境條件</seg>
       </tuv>
     </tu>
     <tu>
@@ -52523,6 +52539,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The checkweigher VARPE v2000 has been designed and manufactured under the requirements of quality management system ISO 9001 and therefore meets the requirements of the Machinery Directive, electrical safety and electromagnetic compatibility.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T025129Z" creationid="Judy" creationdate="20151128T025129Z">
+        <seg>檢重機 VARPE v2000 之設計和製造均符合 ISO 9001 品質管制系統，因此符合機械規範、電氣安全和電磁相容性要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The checkweigher checks all the products passing through a line and if any of them do not meet the weight specifications programmed, it sets it aside.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T151936Z" creationid="Judy" creationdate="20151124T151936Z">
@@ -52615,6 +52639,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134403Z">
         <seg>由垂直於車輛中心線縱向平面和車輛後方的視角觀看時，控制臂會被框架遮蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The conveyor features</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T025829Z" creationid="Judy" creationdate="20151128T025808Z">
+        <seg>輸送機功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -53007,6 +53039,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T060119Z">
         <seg>事實上有足夠的水可滿足世界日益增長的需求，但需要大幅改變水的使用、管理及共用方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The features of the electronic system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T025828Z" creationid="Judy" creationdate="20151128T025759Z">
+        <seg>電子系統功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -54757,6 +54797,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result of this commitment is reflected in the certificate of conformity, which shows the compliance of directives and harmonized regulations the checkweigher does, and is reflected also in the calibration certificate, which from documented procedures set forth and use of traceable standards demonstrates the standard regulation and security of the controller.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T025705Z" creationid="Judy" creationdate="20151128T025705Z">
+        <seg>檢重機經認證合格符合法令和標準規章，也具有依據主管機關之標準規範和安全性訂定之程序和可追朔之標準的校正認證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T134116Z">
@@ -55045,6 +55093,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sound pressure level of a pondered emission A in the workplace is less than 70 dB.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T025012Z" creationid="Judy" creationdate="20151128T025012Z">
+        <seg>運行時發出之低頻噪音 A 音量低於 70 分貝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The special process subcontractors must be subject to the formal acceptance of HUTCHINSON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T200042Z">
@@ -55057,6 +55113,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131325Z">
         <seg>所有 AXYZ 系列機台標準支架高度為 150mm。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The standard pack features</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T025825Z" creationid="Judy" creationdate="20151128T025825Z">
+        <seg>標準包裝功能</seg>
       </tuv>
     </tu>
     <tu>
