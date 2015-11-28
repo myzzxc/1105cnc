@@ -16210,6 +16210,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the screen where these buttons are, these sets or panels may differ.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120304Z" creationid="Judy" creationdate="20151128T120304Z">
+        <seg>根據畫面上的按鈕位置，下拉選單和面板可能會有所不同，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploy MS Office App-V package</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024626Z">
@@ -59921,6 +59929,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To erase a not wished type</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120356Z" creationid="Judy" creationdate="20151128T120356Z">
+        <seg>清除輸入之文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To expedite the user the location of the screens, it is shown below a flowchart of the various menus.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T102023Z" creationid="Judy" creationdate="20151128T102023Z">
@@ -65579,6 +65595,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T075331Z">
         <seg>可使用下列語法將此功能與使用者巨集一同推送：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can see below the different options:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120327Z" creationid="Judy" creationdate="20151128T120327Z">
+        <seg>請參照以下不同選項：</seg>
       </tuv>
     </tu>
     <tu>
