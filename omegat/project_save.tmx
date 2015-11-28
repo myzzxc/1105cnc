@@ -10739,6 +10739,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buttons "ACCEPT" to validate and “CANCEL” to annul the entered value appear at the bottom.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122317Z" creationid="Judy" creationdate="20151128T122317Z">
+        <seg>底部之「ACCEPT (接受)」按鈕能確定編輯，而「CANCEL (取消)」按鈕用以消除輸入之數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By 2050, agriculture will need to produce 60% more food globally, and 100% more in developing countries.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T155058Z">
@@ -37660,6 +37668,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Numeric Keyboard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122324Z" creationid="Judy" creationdate="20151128T122324Z">
+        <seg>數字鍵盤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nut 718 may then be</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T052405Z">
@@ -38241,6 +38257,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T225025Z">
         <seg>於詳細解雇員工畫面中，填寫 Termination Date (解雇日期) 和 Termination Reason (解雇原因) 等欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the following Figure 2.10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122450Z" creationid="Judy" creationdate="20151128T122352Z">
+        <seg>以下圖 2.10 為</seg>
       </tuv>
     </tu>
     <tu>
@@ -68313,6 +68337,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T130736Z">
         <seg>第二空氣進氣系統之第二次進氣口完全位於無段變速單元之第二側。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the third type of keyboards existing in the V2000, corresponding to the acceptance or cancellation of a certain action, is shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122530Z" creationid="Judy" creationdate="20151128T122439Z">
+        <seg> V2000 中第三種類型的鍵盤，對應某項動作之接受或取消。</seg>
       </tuv>
     </tu>
     <tu>
