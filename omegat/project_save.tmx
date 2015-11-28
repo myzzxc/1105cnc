@@ -17785,6 +17785,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical and Electronic Materials: The warranty would be covered under the same conditions in which these materials manufacturers guarantee their products.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033923Z" creationid="Judy" creationdate="20151128T033921Z">
+        <seg>電氣和電子材料：保固範圍涵蓋與材料製造商提供之相同條件的產品保證，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrical equipment is fully insulated at connection points and there are no exposed wires or cables.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T121641Z">
@@ -34522,6 +34530,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical Materials: Replacement or repair of defective mechanical parts or manufacturing defects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033744Z" creationid="Judy" creationdate="20151128T033744Z">
+        <seg>機械材料：更換或維修具有缺陷之機械零件或製造缺陷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Media Drive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080146Z">
@@ -50202,6 +50218,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Technical Support interventions made under warranty do not interrupt or prolong its length under any circumstances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033645Z" creationid="Judy" creationdate="20151128T033645Z">
+        <seg>無論任何情況下，保固期內進行之技術支援不會中斷或延長其保固期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical documentation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033941Z">
@@ -57027,6 +57051,22 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T020553Z">
         <seg>加溫之空氣通過被驅動元件 402 並經由排氣管道 418 流出無段變速外殼 342 之內部 340。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The warranty covers the replacement or repair of defective materials after demonstrating their proper use and maintenance by the customer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T034042Z" creationid="Judy" creationdate="20151128T034042Z">
+        <seg>保固包含更換或維修具有缺陷的材料，客戶需證明其使用和維護正確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The warranty will cover:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033655Z" creationid="Judy" creationdate="20151128T033655Z">
+        <seg>保固範圍包括：</seg>
       </tuv>
     </tu>
     <tu>
