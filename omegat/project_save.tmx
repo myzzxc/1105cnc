@@ -22873,6 +22873,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the General Menu you select the "Programming" button, then the dropdown of the Figure 3.6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140102Z" creationid="Judy" creationdate="20151128T140102Z">
+        <seg>從一般功能表中選擇「Programming (編寫程式)」按鈕後將顯示圖 3.6 之下拉選單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the created folder open PowerPDF_UserConfig.xml with Notepad</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154315Z">
@@ -67304,6 +67312,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T145241Z">
         <seg>當凸點 206 和凹點 208 對齊時，孔 216 能與相對應之孔 204 對齊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>appears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140106Z" creationid="Judy" creationdate="20151128T140106Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
