@@ -8351,6 +8351,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As noted above, at the time of creating the new format, the checkweigher automatically makes a copy of the active format data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T151011Z" creationid="Judy" creationdate="20151128T151011Z">
+        <seg>如上所述，在創建新的形式時，檢重機將自動複製使用中形式資料，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As part of the sustainable purchasing development process, an environmental impact assessment for products (life cycle) must be performed and made available to HUTCHINSON by the Supplier.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T122612Z">
@@ -25977,6 +25985,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Net Weight of a format that some time has been in production is changed, the checkweigher will display the message "Production Data will be Erased", in which case it is up to the user to accept or reject such action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T150933Z" creationid="Judy" creationdate="20151128T150933Z">
+        <seg>若更改了生產中的形式之淨重 (Net Weight)，檢重機將顯示「Production Data will be Erased (將刪除生產資料)」訊息，於此情況下供使用者接受或取消操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Terminate child processes dialog appears click Yes to close the background processes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153220Z">
@@ -26237,6 +26253,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T111813Z">
         <seg>如果畫面中一輛停著的車：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If these data are accepted, at the time of leaving this screen, the checkweigher automatically sets the new format up, as long as the active format is adjusted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T151159Z" creationid="Judy" creationdate="20151128T151159Z">
+        <seg>若接受這些資料，在離開此畫面時，當調整使用中的形式後檢重機將自動建立新的形式。</seg>
       </tuv>
     </tu>
     <tu>
