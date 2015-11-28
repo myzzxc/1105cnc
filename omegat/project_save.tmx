@@ -51492,6 +51492,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "Change Format" screen is used to select the work format (product) which you want to change to.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133912Z" creationid="Judy" creationdate="20151128T133836Z">
+        <seg>在「Change Format」畫面用於選擇欲變更之工作格式 (產品)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 10HP Becker dryvane vacuum pump is perfectly suited forvacuum  hold down on allAXYZ Series Routers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065154Z">
@@ -66075,6 +66083,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121327Z">
         <seg>可以選擇 Approve (批准) 或 Send Back (退回) 請求並附上相關意見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can access also from the "Program" and "Format" buttons.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133750Z" creationid="Judy" creationdate="20151128T133750Z">
+        <seg>也能藉由「Program (程式)」和「Format (格式)」按鈕進入。</seg>
       </tuv>
     </tu>
     <tu>
