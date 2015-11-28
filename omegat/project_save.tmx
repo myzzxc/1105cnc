@@ -16218,6 +16218,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the screen you are each time, you can view the following keys:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120717Z" creationid="Judy" creationdate="20151128T120717Z">
+        <seg>取決於您的畫面，可以看到以下按鍵：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploy MS Office App-V package</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024626Z">
@@ -22125,6 +22133,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051057Z">
         <seg>請上 nuance.com 網站以獲得更多詳細的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For moving to right or left and making zoom</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120637Z" creationid="Judy" creationdate="20151128T120637Z">
+        <seg>向右或向左移動和縮放</seg>
       </tuv>
     </tu>
     <tu>
@@ -42364,6 +42380,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressing on this key you can access the display screens of production data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120841Z" creationid="Judy" creationdate="20151128T120841Z">
+        <seg>按下此按鍵能進入生產資料顯示畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure Foot - Universal 5Y</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070308Z">
@@ -59035,6 +59059,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This key allows you to exit a screen at any time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120750Z" creationid="Judy" creationdate="20151128T120750Z">
+        <seg>此按鍵能隨時跳出畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This longer period occurs when chilling is used to shorten the time that carcasses are kept in cold storage to achieve appropriate rigor mortis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045217Z">
@@ -59637,6 +59669,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this key it is possible to perform a non-automatic zero adjustment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120811Z" creationid="Judy" creationdate="20151128T120811Z">
+        <seg>此按鍵可執行非自動歸零</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this key you can come back to precedent menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120916Z" creationid="Judy" creationdate="20151128T120916Z">
+        <seg>此按鍵能回到初始功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumbnail preview of PDF document pages for conversion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T022751Z">
@@ -59833,10 +59881,26 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To cancel an action</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120608Z" creationid="Judy" creationdate="20151128T120608Z">
+        <seg>取消操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change an existing allowance change, click the       icon on the right of the Allowance field.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150821Z">
         <seg>點擊 Allowance (津貼) 欄位右方的   圖示以進行津貼變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the parameter and assign a selected option for a parameter with various possible options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120602Z" creationid="Judy" creationdate="20151128T120602Z">
+        <seg>更改參數並分配參數至各種可能選項中選定之選項</seg>
       </tuv>
     </tu>
     <tu>
