@@ -6818,6 +6818,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All users can log in to work freely in those options which you have access to.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132729Z" creationid="Judy" creationdate="20151128T132729Z">
+        <seg>所有使用者都可以自由登錄以進入具有權限之選項進行操作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All ventilation and control equipment is inspected regularly and adequately maintained to ensure it is working properly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T144059Z">
@@ -10848,6 +10856,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124743Z">
         <seg>預設情況下類比輸入測量接地電位至 5 伏特，但可以藉由 AREF 針腳和 analogReference() 函數改變其電壓範圍的上端值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, there is no session open as a protective measure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132837Z" creationid="Judy" creationdate="20151128T132837Z">
+        <seg>預設情況下，沒有任何的開啟工作為鎖定狀態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21096,6 +21112,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132428Z" creationid="Judy" creationdate="20151128T132418Z">
         <seg>圖 3.2. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132842Z" creationid="Judy" creationdate="20151128T132842Z">
+        <seg>圖 3.3 </seg>
       </tuv>
     </tu>
     <tu>
@@ -49353,8 +49377,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Start Session</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134629Z">
-        <seg>開始對話</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132622Z">
+        <seg>開啟工作</seg>
       </tuv>
     </tu>
     <tu>
