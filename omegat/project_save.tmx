@@ -4578,6 +4578,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A user can log in selecting the option "Start Session" existing in the dropdown "User Choices", but while trying to enter any part of the program will pop up the window opening session as required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133205Z" creationid="Judy" creationdate="20151128T133152Z">
+        <seg>使用者可以登錄選擇下拉選單中的「Start Session (開啟工作)」，但進入程式的任何部分將會依要求彈出開啟工作快顯視窗，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A user may belong to more than one group, receiving all permissions related to all the groups in which he or she belongs to.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T135709Z">
@@ -8979,6 +8987,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090712Z" creationid="Judy" creationdate="20151128T090712Z">
         <seg>達到歸零時間限制時，LED 燈將顯示紅色；歸零 LED 燈也會同時顯示紅色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the moment the user wants to end his work, it is needed to close the session.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133347Z" creationid="Judy" creationdate="20151128T133202Z">
+        <seg>此時使用者若要結束工作，必須關閉工作會話。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25869,6 +25885,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112513Z">
         <seg>如果這輛車離開了，便會在辨識的背景中留下一個空洞：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the checkweigher screen remains two minutes not being touched by anyone, the session gets closed automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T133344Z" creationid="Judy" creationdate="20151128T133344Z">
+        <seg>若檢重機畫面超過兩分鐘無人操作，工作會話會自動關閉。</seg>
       </tuv>
     </tu>
     <tu>
