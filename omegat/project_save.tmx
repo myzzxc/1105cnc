@@ -59061,16 +59061,32 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This key allows access to view the last current cycle of range in production</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121246Z" creationid="Judy" creationdate="20151128T121236Z">
-        <seg>此案件用於進入檢視生產範圍之歷史</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121616Z" creationid="Judy" creationdate="20151128T121236Z">
+        <seg>此按鍵用於進入生產範圍之最後循換檢視畫面</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>This key allows access to view the range history in range production</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121255Z" creationid="Judy" creationdate="20151128T121225Z">
-        <seg>此案件用於進入生產範圍之歷史檢視畫面</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121619Z" creationid="Judy" creationdate="20151128T121225Z">
+        <seg>此按鍵用於進入生產範圍之歷史檢視畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This key allows direct access to the screen of dynamic adjustments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121407Z" creationid="Judy" creationdate="20151128T121407Z">
+        <seg>按下此按鍵能直接進入動態調整畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This key allows making a static adjustment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121613Z" creationid="Judy" creationdate="20151128T121342Z">
+        <seg>此按鍵用於進行靜態調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -59087,6 +59103,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121102Z" creationid="Judy" creationdate="20151128T121015Z">
         <seg>此按鍵用於修改生產參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This key allows updating the data of weight stability in production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121602Z" creationid="Judy" creationdate="20151128T121602Z">
+        <seg>此案件用於進入生產範圍之最後循換檢視畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -59721,6 +59745,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121025Z" creationid="Judy" creationdate="20151128T120916Z">
         <seg>此按鍵用於回到初始功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this key you get the system shifting as a static balance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121609Z" creationid="Judy" creationdate="20151128T121527Z">
+        <seg>此按鍵用於取得靜態平衡之系統偏移量</seg>
       </tuv>
     </tu>
     <tu>
@@ -64839,6 +64871,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060529Z">
         <seg>此篩選器也已升級到 6.6 版，當設定點上的物件被取走時，便會觸發警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this key you can save the modified data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121555Z" creationid="Judy" creationdate="20151128T121555Z">
+        <seg>此按鍵用於儲存更改之資料</seg>
       </tuv>
     </tu>
     <tu>
