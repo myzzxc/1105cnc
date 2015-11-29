@@ -9031,6 +9031,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At that moment the following screen will be shown:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142438Z" creationid="Judy" creationdate="20151129T142438Z">
+        <seg>此時將顯示以下畫面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of a period determined by each HUTCHINSON entity, the Supplier is informed that the product enters the “validation for series production” stage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121451Z">
@@ -21328,6 +21336,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134800Z" creationid="Judy" creationdate="20151129T134800Z">
         <seg>圖 3.15 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.16.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142441Z" creationid="Judy" creationdate="20151129T142441Z">
+        <seg>圖 3.16 </seg>
       </tuv>
     </tu>
     <tu>
@@ -61217,6 +61233,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the screen you select the "Formats" option from the dropdown menu and click on "Reject" button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142253Z" creationid="Judy" creationdate="20151129T142253Z">
+        <seg>要進入畫面請由下拉式選單中選擇「Format (格式)」選項並點擊「Reject (退回)」按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the screen you select the "General" option from the first drop-down menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133823Z" creationid="Judy" creationdate="20151129T133758Z">
@@ -61654,6 +61678,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024821Z">
         <seg>若要儲存 DOCX、XLSX 和 PPTX 檔案（用於 Microsoft Office Word、Excel、PowerPoint），必須安裝 Microsoft .NET 4.0 Framework。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To set the format reject parameters you must previously select a format and click on "Accept" key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142432Z" creationid="Judy" creationdate="20151129T142432Z">
+        <seg>若要設定格式退回參數，須先選擇一個格式並點擊「Accept」按鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67075,6 +67107,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021959Z">
         <seg>可以增加/修改/刪除和重新排列套裝檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also access from the first dropdown menu “Programming" and "Formats".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142340Z" creationid="Judy" creationdate="20151129T142340Z">
+        <seg>也可以由第一組下拉選單之「Programming (程式化)」和「Format (格式)」進入。</seg>
       </tuv>
     </tu>
     <tu>
