@@ -26401,6 +26401,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this parameter validation involves going out of production or disarranging the format, the controller will show a previous warning message allowing cancel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125829Z" creationid="Judy" creationdate="20151129T125829Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，控制器將顯示前述允許取消操作之警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this test is not performed, the evaluation report shall note that the value of f c to be used in the determination of development and splice lengths in accordance with ACI318 shall not exceed 2500 psi (17.2 MPa).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192457Z">
@@ -26693,6 +26701,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044758Z">
         <seg>若需要預先定義此 mst 檔案的名稱 (admin_customSettings.mst) 加上整個安裝程式檔案集，點擊下 Home 功能區中的 Publish Package （發佈套裝程式）按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to change any parameter just select the parameter to be changed within the list and make a single keystroke.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125737Z" creationid="Judy" creationdate="20151129T125737Z">
+        <seg>若想更改任何參數，只需在清單中選擇欲更改的參數並點擊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66907,6 +66923,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120327Z" creationid="Judy" creationdate="20151128T120327Z">
         <seg>請參照以下不同選項：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can see below the meaning of the screen parameters:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125854Z" creationid="Judy" creationdate="20151129T125854Z">
+        <seg>以下為畫面參數之定義：</seg>
       </tuv>
     </tu>
     <tu>
