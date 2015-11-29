@@ -33087,6 +33087,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is programmed in % compared to Reject T-2 and the number of packs that should satisfy the condition is programmed in “Margin followed packages” parameter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T154054Z" creationid="Judy" creationdate="20151129T154054Z">
+        <seg>其設定為相對退回 T-2 之 %，而包裝數須滿足「Margin followed packages (連續包裝邊際)」參數之設定條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is programmed in % compared to T + 2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153113Z" creationid="Judy" creationdate="20151129T153113Z">
