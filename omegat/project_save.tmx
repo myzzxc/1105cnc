@@ -6233,6 +6233,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After that you must select the file type, indicate whether you want to delete the calculations and / or to list some data, and click the option YES.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125504Z" creationid="Judy" creationdate="20151129T125504Z">
+        <seg>接著必須選擇檔案類型，指示是否要刪除計算或列出部分資料，並點擊 YES (是) 選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the processor resets, the bootloader starts, remaining active for about 8 seconds.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142513Z">
@@ -39249,6 +39257,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T132228Z">
         <seg>當 Workday 中有了職位便能提出職位需求申請。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you have selected one of the above fields with the option YES, the button “Execute” appears at the bottom of the screen: you must click on to trigger the action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125645Z" creationid="Judy" creationdate="20151129T125645Z">
+        <seg>一旦選擇了上述欄位並點擊 YES 選項，畫面底部將出現「Execute (執行)」按鈕：必須點擊按鈕以開始操作。</seg>
       </tuv>
     </tu>
     <tu>
