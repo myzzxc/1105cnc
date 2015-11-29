@@ -16194,6 +16194,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date: Setting of the actual date.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134155Z" creationid="Judy" creationdate="20151129T134155Z">
+        <seg>Date (日期)：實際日期設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deactivated Option</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121745Z" creationid="Judy" creationdate="20151128T121745Z">
@@ -22059,6 +22067,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T111545Z">
         <seg>Windows XP 中，依上述步驟進行 vcredist.msi。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a better understanding of this screen, the different parameters are explained below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134118Z" creationid="Judy" creationdate="20151129T134118Z">
+        <seg>為了庚方便了解此畫面操作，以下為其不同參數之定義：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48852,6 +48868,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shift (t-dd): Displaying the work shift.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134303Z" creationid="Judy" creationdate="20151129T134303Z">
+        <seg>Shift 班表 (時-日)：顯示工作班表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shifting from Engineer to Order to Configure to Order</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035230Z">
@@ -60877,6 +60901,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen you can change the date, time, shift, batch number, the presentation language and the company name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134029Z" creationid="Judy" creationdate="20151129T134029Z">
+        <seg>藉由此畫面能變更日期、時間、班表、批次、顯示語言以及公司名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen you can program the parameters of a general nature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133917Z" creationid="Judy" creationdate="20151129T133601Z">
@@ -60937,6 +60969,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T074041Z">
         <seg>鎖緊鑽孔支架並於插槽支架處使用雙螺母，使螺栓和插槽孔之間留有間隙，使支架於外殼熱膨冷縮時能滑動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time (hh: mm): Setting of the actual time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134228Z" creationid="Judy" creationdate="20151129T134228Z">
+        <seg>Time 時間 (時:分)：實際時間設定。</seg>
       </tuv>
     </tu>
     <tu>
