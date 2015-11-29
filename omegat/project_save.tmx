@@ -21492,6 +21492,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.22.Programming parameters Feedback/Range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152415Z" creationid="Judy" creationdate="20151129T152415Z">
+        <seg>圖 3.22 回饋/範圍參數設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132842Z" creationid="Judy" creationdate="20151128T132842Z">
@@ -22247,6 +22255,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a better understanding of this screen, the different parameters  used in the PID type feedback are explained below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152509Z" creationid="Judy" creationdate="20151129T152509Z">
+        <seg>為了更方便了解此畫面操作，以下為 PID 型回饋使用之不同參數的定義：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a better understanding of this screen, the different parameters are explained below:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144830Z" creationid="Judy" creationdate="20151129T134118Z">
@@ -22829,6 +22845,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142443Z" creationid="Judy" creationdate="20151126T142443Z">
         <seg>高度大於 200mm 之產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For programming the servo control previously one work format must be selected; after you just click on “Accept” key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152357Z" creationid="Judy" creationdate="20151129T152357Z">
+        <seg>若要設定伺服控制參數，須先選擇一個格式並點擊「Accept」按鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67513,8 +67537,8 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You can also access form the first dropdown menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152244Z" creationid="Judy" creationdate="20151129T152244Z">
-        <seg>您還可以訪問表單的第一個下拉清單功能表。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152308Z" creationid="Judy" creationdate="20151129T152244Z">
+        <seg>也能由第一下拉選單中進入。</seg>
       </tuv>
     </tu>
     <tu>
