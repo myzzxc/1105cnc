@@ -14239,6 +14239,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concepts: The concepts column indicates in abbreviated way what reject is activated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142812Z" creationid="Judy" creationdate="20151129T142812Z">
+        <seg>Concepts (概觀)：概觀欄位為以縮寫表示之已啟用的退回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Condition of skid and shipping covers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T141832Z">
@@ -43898,6 +43906,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140310Z">
         <seg>程式化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Programming Reject</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142532Z" creationid="Judy" creationdate="20151129T142532Z">
+        <seg>程式化退回</seg>
       </tuv>
     </tu>
     <tu>
