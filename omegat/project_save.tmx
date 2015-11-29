@@ -21284,6 +21284,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133318Z" creationid="Judy" creationdate="20151129T133318Z">
+        <seg>圖 3.13 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133844Z" creationid="Judy" creationdate="20151129T133844Z">
+        <seg>圖 3.14 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132428Z" creationid="Judy" creationdate="20151128T132418Z">
@@ -23578,8 +23594,8 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135002Z">
-        <seg>整體</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133912Z">
+        <seg>一般</seg>
       </tuv>
     </tu>
     <tu>
@@ -26441,6 +26457,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing cancel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133839Z" creationid="Judy" creationdate="20151129T133839Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將顯示前述允許取消操作之警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the controller will show a previous warning message allowing cancel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125829Z" creationid="Judy" creationdate="20151129T125829Z">
@@ -26749,6 +26773,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125737Z" creationid="Judy" creationdate="20151129T125737Z">
         <seg>若想更改任何參數，只需在清單中選擇欲更改的參數並點擊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to change any parameter just you have to select the parameter and make a simple click on it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133825Z" creationid="Judy" creationdate="20151129T133821Z">
+        <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數，</seg>
       </tuv>
     </tu>
     <tu>
@@ -39245,6 +39277,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once it appears in the "Format" box the fitting format for that work, you just have to click on the key “Accept”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133316Z" creationid="Judy" creationdate="20151129T133316Z">
+        <seg>當「Format (格式)」方塊中出現了適當的工作格式時，只需點擊「Accept (接受)」鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the air passes through filter 188 it exits through air outlets 190 provided in boots 192 (see FIG. 14) on the rear of airbox 180.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035916Z">
@@ -47363,6 +47403,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Programming General Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133942Z" creationid="Judy" creationdate="20151129T133855Z">
+        <seg>一般性資料程式設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen images and print samples on this catalogue are simulated unless otherwise specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051351Z">
@@ -47615,6 +47663,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131444Z" creationid="Judy" creationdate="20151128T131444Z">
         <seg>請見圖 3.1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Programming  Reject.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133353Z" creationid="Judy" creationdate="20151129T133353Z">
+        <seg>請見程式化   退回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Programming  Servo/Range.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133406Z" creationid="Judy" creationdate="20151129T133406Z">
+        <seg>請見程式化      伺服 / 範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60813,6 +60877,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen you can program the parameters of a general nature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133917Z" creationid="Judy" creationdate="20151129T133601Z">
+        <seg>透過此畫面可以設定一般性的程式化參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen, you can change the username and his password, among others.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131630Z" creationid="Judy" creationdate="20151128T131630Z">
@@ -61021,6 +61093,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125019Z" creationid="Judy" creationdate="20151129T125019Z">
         <seg>要進入畫面請由下拉式選單中選擇「Erase Format (刪除格式)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the screen you select the "General" option from the first drop-down menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133823Z" creationid="Judy" creationdate="20151129T133758Z">
+        <seg>要進入畫面請由第一下拉式選單中選擇「General (一般)」選項，</seg>
       </tuv>
     </tu>
     <tu>
