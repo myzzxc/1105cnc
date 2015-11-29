@@ -6449,6 +6449,22 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm Average weight +: It indicates the positive limit for jumping the average weight alarm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T123731Z" creationid="Judy" creationdate="20151129T123643Z">
+        <seg>平均重量警報 +：超過平均重量警報的正限制值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm Average weight - : It indicates the negative limit for jumping the average weight alarm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T123748Z" creationid="Judy" creationdate="20151129T123748Z">
+        <seg>平均重量警報 -：超過平均重量警報的負限制值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm Masks [1]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135400Z">
@@ -22581,6 +22597,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T172808Z">
         <seg>依照9.1進行之測試，測試只能以標稱直徑1/2英吋之描固進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For that it is necessary to enable the Partials Function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T123900Z" creationid="Judy" creationdate="20151129T123900Z">
+        <seg>此功能必須啟用部分功能 (Partials Function)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41245,6 +41269,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150412Z">
         <seg>Atlas Copco 公司的一部分且為世界上首要的壓實和鋪路施工設備製造商之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partial Batch Units: It indicates the number of units causing a Partial Production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T123833Z" creationid="Judy" creationdate="20151129T123826Z">
+        <seg>部分批次單位：導致部分生產的單位數量，</seg>
       </tuv>
     </tu>
     <tu>
