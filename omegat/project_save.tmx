@@ -31079,6 +31079,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It corresponds to the (peripheral) hardware device that will be used to dump the lists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132209Z" creationid="Judy" creationdate="20151129T132209Z">
+        <seg>它對應至 (週邊設備) 的硬體設備將會顯示於清單中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It delivers a constant vacuum and is therefore suitable for use inavariety of applications on allAXYZ Series Routers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T070237Z">
@@ -40187,6 +40195,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T120728Z">
         <seg>請簡述此專案的設計標準、專案目標並提出所有需要克服的挑戰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output Listing: A not editable parameter (the possible options are USB, printer, Not).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132038Z" creationid="Judy" creationdate="20151129T132038Z">
+        <seg>輸出清單 (Output Listing)：不可編輯之參數 (可能的選項包括 USB、印表機、NOT)，</seg>
       </tuv>
     </tu>
     <tu>
