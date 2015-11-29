@@ -21380,6 +21380,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.17.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144346Z" creationid="Judy" creationdate="20151129T144344Z">
+        <seg>圖 3.17 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132428Z" creationid="Judy" creationdate="20151128T132418Z">
@@ -35922,6 +35930,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Menu Programming Alarms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144409Z" creationid="Judy" creationdate="20151129T144409Z">
+        <seg>警報程式設定功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merge PDF image files with PDF text files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040348Z">
@@ -39505,6 +39521,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025526Z">
         <seg>當完成所需參數的準備後，便可以將套裝程式發佈給終端使用者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you are there, a second drop-down menu is shown with different options: "Timings", "Tolerances", "Alarm Mask (1)", "Alarm Mask (2)".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144254Z" creationid="Judy" creationdate="20151129T144254Z">
+        <seg>選擇後，將顯示第二下拉式選單，其中具有以下不同選項：「Timings (定時)」、「Tolerances (容許值)」、「Alarm Mask (警報遮罩) (1)」、「Alarm Mask (警報遮罩) (2)」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59652,6 +59676,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T123138Z">
         <seg>他們是帝國煙草 (Imperial Tobacco) 整體組織結構的基石。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are enabled if the checkweigher has configured alarm outputs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144338Z" creationid="Judy" creationdate="20151129T144338Z">
+        <seg>當檢重機已設定警報輸出時這些選項將會啟用。</seg>
       </tuv>
     </tu>
     <tu>
