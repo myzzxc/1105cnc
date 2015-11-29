@@ -32615,6 +32615,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is specific for Tare-Weight type machines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T104049Z" creationid="Judy" creationdate="20151129T104049Z">
+        <seg>用於計算箱重類型機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is supplemented by a supply chain manual SlogM HUT DQ G32.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152430Z">
@@ -45227,8 +45235,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Reject No Tare: Reject for tare lack in the pack.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102904Z" creationid="Judy" creationdate="20151129T102904Z">
-        <seg> Reject No Tare: Reject for tare lack in the pack.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T104016Z" creationid="Judy" creationdate="20151129T102904Z">
+        <seg>未計算箱重退回：包裝未計算箱重而退回，</seg>
       </tuv>
     </tu>
     <tu>
