@@ -29918,6 +29918,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interval: If you are working under EEC regulations, it is the minimum number of correct packs to be produced before accepting another pack between values ​​(T-1) and (T-2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T030917Z" creationid="Judy" creationdate="20151129T030917Z">
+        <seg>間隔：若使用 EEC (歐盟) 規範，該參數為接受其它介於 (T-1) 和 (T-2) 值之間的包裝前所生產的最小包裝數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interventions for adjustments, tuning, staff instructions or user inability, except for the first machine setting up.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T034901Z" creationid="Judy" creationdate="20151128T034901Z">
