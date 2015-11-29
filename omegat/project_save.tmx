@@ -11382,8 +11382,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Cadence: Frequency which packs under real production pass with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063839Z">
-        <seg>節奏 (Cadence)：實際生產時包裝通過的頻率。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102956Z">
+        <seg>序列輸送 (Cadence)：實際生產時包裝通過的頻率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26305,10 +26305,18 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this parameter is not programmed properly at the checkweigher cadence errors will appear.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102855Z" creationid="Judy" creationdate="20151129T102855Z">
+        <seg>若此參數程式化未正確設定檢重機會出現錯誤訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this parameter is not programmed properly at the checkweigher length errors may appear.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102058Z" creationid="Judy" creationdate="20151129T102058Z">
-        <seg>若此參數程式化未正確設定檢重機會出現錯誤訊息。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102903Z" creationid="Judy" creationdate="20151129T102058Z">
+        <seg>若此參數程式化未正確設定檢重機會出現長度錯誤訊息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45217,6 +45225,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject No Tare: Reject for tare lack in the pack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102904Z" creationid="Judy" creationdate="20151129T102904Z">
+        <seg> Reject No Tare: Reject for tare lack in the pack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rejects:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T130114Z" creationid="Judy" creationdate="20151126T130114Z">
@@ -49507,6 +49523,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023405Z">
         <seg>加速執行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speed ​​Weight:  It indicates the speed in packs per minute which this format is going to work with.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102825Z" creationid="Judy" creationdate="20151129T102825Z">
+        <seg>速度重量：該形式運作之包裝每分鐘速度。</seg>
       </tuv>
     </tu>
     <tu>
