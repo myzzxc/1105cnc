@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(An output can have assigned more than one type of reject).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143023Z" creationid="Judy" creationdate="20151129T143023Z">
+        <seg>(輸出可指定多種類型的退回)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(B) 1 FOLD OF ORIGINAL PACKING LIST
 (C) 1 FOLD OF ORIGINAL COMMERCIAL INVOICE
 (D) 1 FOLD OF CERTIFICATE OF ORIGIN
@@ -40387,6 +40395,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120506Z">
         <seg>輸出：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output: The output column indicates the physical output of the outputs plate that must carry out this reject.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142958Z" creationid="Judy" creationdate="20151129T142958Z">
+        <seg>Output (輸出)：輸出欄為退回盤此退回動作中必須進行的物理輸出。</seg>
       </tuv>
     </tu>
     <tu>
