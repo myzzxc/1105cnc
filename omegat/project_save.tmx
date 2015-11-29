@@ -21292,6 +21292,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure  3.21.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152041Z" creationid="Judy" creationdate="20151129T152041Z">
+        <seg>圖 3.21 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1-1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T023630Z">
@@ -27892,6 +27900,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case the checkweigher has servo system, the program has a configuration screen, which will allow the user to program or change the servo-correction system data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152214Z" creationid="Judy" creationdate="20151129T152214Z">
+        <seg>當檢重機設有伺服系統的情況下，程式將具有能讓使用者設定伺服連接系統資料的設定畫面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In certain cases of non-compliance, the Supplier may propose a "deferral request" for HUTCHINSON before shipping, which, if HUTCHINSON approves, allows it to continue to deliver at least for a given period/quantity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144957Z">
@@ -29345,6 +29361,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T175022Z">
         <seg>於此議題上，HUTCHINSON 要求供應商負責產品之安全性和產品適用之法規。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this screen masks are applied to different concepts for Alarm 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T151941Z" creationid="Judy" creationdate="20151129T151941Z">
+        <seg>在此畫面中遮罩套用至警報 2 的不同項目中，</seg>
       </tuv>
     </tu>
     <tu>
@@ -36046,6 +36070,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T151801Z" creationid="Judy" creationdate="20151129T151801Z">
         <seg>報警遮罩 1 選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu Alarm Mask 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152046Z" creationid="Judy" creationdate="20151129T152046Z">
+        <seg>報警遮罩 2 選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -49006,8 +49038,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Servo/Range (Optional)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135413Z">
-        <seg>伺服 / 範圍 (可選)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152054Z">
+        <seg>伺服 / 範圍 (選配)</seg>
       </tuv>
     </tu>
     <tu>
@@ -54715,6 +54747,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The concept may have a timed alarm (TMP) or a fixed one (FIX).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152017Z" creationid="Judy" creationdate="20151129T152017Z">
+        <seg>項目包含計時警報 (TMP) 或固定警報 (FIX)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The consequences of a default</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T151711Z">
@@ -57697,6 +57737,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134436Z">
         <seg>第三位置可能位於駕駛區的座椅下方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The timed 2 alarm time is scheduled in “Timings” parameter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152038Z" creationid="Judy" creationdate="20151129T152038Z">
+        <seg>警報時間 2 於「Timings (定時)」參數中設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61597,6 +61645,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T145105Z" creationid="Judy" creationdate="20151129T145105Z">
         <seg>要進入畫面請由第一下拉式選單中選擇「Alarm (警報)」選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this screen, "Feedback/Range" option is selected from the first dropdown menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152238Z" creationid="Judy" creationdate="20151129T152238Z">
+        <seg>要進入畫面請由第一下拉式選單中選擇「Feedback/Range (回饋 / 範圍)」選項，</seg>
       </tuv>
     </tu>
     <tu>
@@ -67451,6 +67507,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021959Z">
         <seg>可以增加/修改/刪除和重新排列套裝檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also access form the first dropdown menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152244Z" creationid="Judy" creationdate="20151129T152244Z">
+        <seg>您還可以訪問表單的第一個下拉清單功能表。</seg>
       </tuv>
     </tu>
     <tu>
