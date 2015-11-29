@@ -5375,6 +5375,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acc (ms): The Acc column (ms) indicates how long the reject device will be activated, expressed in milliseconds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143310Z" creationid="Judy" creationdate="20151129T143310Z">
+        <seg>Acc (ms)：Acc (ms) 欄為退回裝置啟動之時間，以毫秒表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accelerate your new product development process</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T070907Z">
@@ -14275,6 +14283,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T015353Z">
         <seg>管道 392 經由底座部分 344 內部牆面 395 之開口 398 進入無段變速外殼 342。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conf (ms): The Conf column (ms) indicates the confirmation window time which is assigned to that output.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143420Z" creationid="Judy" creationdate="20151129T143420Z">
+        <seg>Conf (ms)：Conf (ms) 欄為分配至輸出的確認視窗時間，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23357,6 +23373,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033552Z">
         <seg>冰點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ft (mm): The column Ft (mm) indicates the distance between the photocell for packs detecting and the matching reject device, in millimeters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143215Z" creationid="Judy" creationdate="20151129T143215Z">
+        <seg>Ft (mm)：(mm) 欄為包裝真側之光電感應器和和對應退回裝置之間的距離，以毫米表示。</seg>
       </tuv>
     </tu>
     <tu>
