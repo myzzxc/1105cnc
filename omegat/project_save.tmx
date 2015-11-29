@@ -11382,8 +11382,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Cadence: Frequency which packs under real production pass with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102956Z">
-        <seg>序列輸送 (Cadence)：實際生產時包裝通過的頻率。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T103144Z">
+        <seg>輸送間隔 (Cadence)：實際生產時包裝通過的頻率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22017,8 +22017,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For cadences until 200 pack/minute</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142349Z" creationid="Judy" creationdate="20151126T142349Z">
-        <seg>輸送速度低於 200 包/分鐘</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T103120Z" creationid="Judy" creationdate="20151126T142349Z">
+        <seg>輸送間隔低於 200 包/分鐘</seg>
       </tuv>
     </tu>
     <tu>
@@ -22387,8 +22387,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For low cadences</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141546Z" creationid="Judy" creationdate="20151126T141546Z">
-        <seg>低速序列輸送</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T103126Z" creationid="Judy" creationdate="20151126T141546Z">
+        <seg>低速輸送間隔</seg>
       </tuv>
     </tu>
     <tu>
@@ -22403,8 +22403,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For middle/high cadences (max.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T141146Z" creationid="Judy" creationdate="20151126T141146Z">
-        <seg>中/高速序列輸送 (最大速度 </seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T103130Z" creationid="Judy" creationdate="20151126T141146Z">
+        <seg>中/高速輸送間隔 (最大速度 </seg>
       </tuv>
     </tu>
     <tu>
@@ -22507,8 +22507,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For products out of cadence</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T145123Z" creationid="Judy" creationdate="20151126T144757Z">
-        <seg>不規律序列輸送之產品</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T103109Z" creationid="Judy" creationdate="20151126T144757Z">
+        <seg>不規律輸送間隔之產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -22811,8 +22811,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Forproductsout of cadence</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T145140Z" creationid="Judy" creationdate="20151126T145055Z">
-        <seg>不規律序列輸送之產品</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T103103Z" creationid="Judy" creationdate="20151126T145055Z">
+        <seg>不規律輸送間隔之產品</seg>
       </tuv>
     </tu>
     <tu>
@@ -26307,8 +26307,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If this parameter is not programmed properly at the checkweigher cadence errors will appear.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102855Z" creationid="Judy" creationdate="20151129T102855Z">
-        <seg>若此參數程式化未正確設定檢重機會出現錯誤訊息。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T103150Z" creationid="Judy" creationdate="20151129T102855Z">
+        <seg>若此參數程式化未正確設定檢重機會出現輸送間隔錯誤訊息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49537,8 +49537,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Speed: When the checkweigher detects the passage of a pack, the LED will light gray; when the cadence passing time is finished, the LED remains green.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T091140Z" creationid="Judy" creationdate="20151128T091140Z">
-        <seg>速度：當檢重機偵測到包裝通過時，LED 燈將顯示灰色，當序列輸送時間結束時，LED 燈維持綠色。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T103057Z" creationid="Judy" creationdate="20151128T091140Z">
+        <seg>速度：當檢重機偵測到包裝通過時，LED 燈將顯示灰色，當輸送間隔時間結束時，LED 燈維持綠色。</seg>
       </tuv>
     </tu>
     <tu>
