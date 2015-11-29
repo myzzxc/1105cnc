@@ -9031,6 +9031,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the moment the following screen will be shown:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125344Z" creationid="Judy" creationdate="20151129T125344Z">
+        <seg>此時將顯示以下畫面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the moment the user creates a new format, the checkweigher automatically makes a copy of the active format over the new one, after that you can edit the data for this new format (see Figure 3.9.).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124613Z" creationid="Judy" creationdate="20151128T141538Z">
@@ -18910,6 +18918,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Erasing Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125156Z" creationid="Judy" creationdate="20151129T125156Z">
+        <seg>刪除格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ergonomic floor mats are provided for workers with standing jobs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T135150Z">
@@ -21216,6 +21232,22 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124854Z" creationid="Judy" creationdate="20151129T124854Z">
         <seg>圖 3.10 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.11.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125153Z" creationid="Judy" creationdate="20151129T125153Z">
+        <seg>圖 3.11 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.12.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125346Z" creationid="Judy" creationdate="20151129T125346Z">
+        <seg>圖 3.12 </seg>
       </tuv>
     </tu>
     <tu>
@@ -26613,6 +26645,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135314Z">
         <seg>若於第 3 步的員工種類中選擇了派遣員工，將會看到 Cost Information 分頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you try to delete the active form, the system will show the message "Work Format can not be erased".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125150Z" creationid="Judy" creationdate="20151129T125150Z">
+        <seg>若嘗試刪除使用中表單，系統將顯示「Work Format can not be erased (無法刪除工作格式)」訊息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47219,6 +47259,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Listing/Erase Calculations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125354Z" creationid="Judy" creationdate="20151129T125354Z">
+        <seg>列出/刪除計算畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen images and print samples on this catalogue are simulated unless otherwise specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051351Z">
@@ -60857,6 +60905,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the screen you select the "Listing/Erase Calculations" option from the dropdown menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125238Z" creationid="Judy" creationdate="20151129T125238Z">
+        <seg>要進入畫面請由下拉式選單中選擇「Listing/Erase Calculations (列出/刪除計算)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access this Installation Guide, click Help in the Home tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T030126Z">
@@ -60973,6 +61029,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120142Z">
         <seg>為了確保不斷提供正確的產品，模塊化計劃期間和結束之後，模塊化管理提供了產品架構生命週期管理軟體 (PALMA®)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete a format, you must select one from the list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125045Z" creationid="Judy" creationdate="20151129T125045Z">
+        <seg>若要刪除格式，必須自清單中選擇一個格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61150,6 +61214,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045108Z" creationid="Judy" creationdate="20151128T045108Z">
         <seg>吊掛和搬運檢重機至指定為需要使用叉動車或吊車，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To list or delete calculations it will be necessary to select a format and click on the “Accept” key of the keyboard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125325Z" creationid="Judy" creationdate="20151129T125325Z">
+        <seg>若要列出或刪除計算則必須選擇一個格式，然後點擊鍵盤上的「Accept」按鍵。</seg>
       </tuv>
     </tu>
     <tu>
