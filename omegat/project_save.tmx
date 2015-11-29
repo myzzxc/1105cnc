@@ -6273,6 +6273,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After that, "Tolerances" option is selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T145130Z" creationid="Judy" creationdate="20151129T145130Z">
+        <seg>接著選擇「Tolerances (容許值)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the processor resets, the bootloader starts, remaining active for about 8 seconds.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142513Z">
@@ -22169,8 +22177,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For a better understanding of this screen, the different parameters are explained below:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134118Z" creationid="Judy" creationdate="20151129T134118Z">
-        <seg>為了庚方便了解此畫面操作，以下為其不同參數之定義：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144830Z" creationid="Judy" creationdate="20151129T134118Z">
+        <seg>為了更方便了解此畫面操作，以下為其不同參數之定義：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35956,8 +35964,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Menu Programming Alarm Timings</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144745Z" creationid="Judy" creationdate="20151129T144745Z">
-        <seg>警報程式設定功能表</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144814Z" creationid="Judy" creationdate="20151129T144745Z">
+        <seg>警報定時程式設定功能表</seg>
       </tuv>
     </tu>
     <tu>
@@ -61253,6 +61261,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time alarm action tmp1 (ms): Parameter to set the time in milliseconds for timed 1 alarm to jump.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T145050Z" creationid="Judy" creationdate="20151129T145050Z">
+        <seg>Time alarm action (警報定時動作) tmp1 (ms)：設置警報啟動時間 1 之參數，單位為毫秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time alarm action tmp2 (ms): Parameter to set the time in milliseconds for timed 2 alarm to jump.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T145059Z" creationid="Judy" creationdate="20151129T145059Z">
+        <seg>Time alarm action (警報定時動作) tmp2 (ms)：設置警報啟動時間 2 之參數，單位為毫秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time off and Leave of Absence</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T121618Z">
@@ -61460,6 +61484,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
         <seg>To access this screen, "Alarm" option is selected from the first dropdown menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144705Z" creationid="Judy" creationdate="20151129T144705Z">
+        <seg>要進入畫面請由第一下拉式選單中選擇「Alarm (警報)」選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this screen, "Alarms" option is selected from the first dropdown menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T145105Z" creationid="Judy" creationdate="20151129T145105Z">
         <seg>要進入畫面請由第一下拉式選單中選擇「Alarm (警報)」選項，</seg>
       </tuv>
     </tu>
