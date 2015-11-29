@@ -50866,6 +50866,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T-2: Tolerance for product default not permitted under any circumstances in a pack with a predetermined net weight value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T024348Z" creationid="Judy" creationdate="20151129T024348Z">
+        <seg>T - 2：產品與預設淨重值之間的差異值超出容許值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T-3: Tolerance for product default not permitted under any circumstances in a pack with a predetermined net weight value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T024354Z" creationid="Judy" creationdate="20151129T024354Z">
+        <seg>T - 3：產品與預設淨重值之間的差異值超出容許值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T-SLOT CLAMPING KIT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132640Z">
