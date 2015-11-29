@@ -50818,6 +50818,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T + 1: Product excess to consider a pack at a first predetermined level close to the net weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T024226Z" creationid="Judy" creationdate="20151129T024055Z">
+        <seg>T + 1：產品超出預設淨重值於第一預設容許值之內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T + 2: Tolerance for product excess not permitted under any circumstances in a pack with a default value of net weight.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T023337Z" creationid="Judy" creationdate="20151129T023337Z">
@@ -50846,6 +50854,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144759Z">
         <seg>T - 傳送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T-1: Product default to consider a pack at a first predetermined level close to the net weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T024324Z" creationid="Judy" creationdate="20151129T024324Z">
+        <seg>T - 1：產品接近預設淨重值於第一預設容許值之內。</seg>
       </tuv>
     </tu>
     <tu>
