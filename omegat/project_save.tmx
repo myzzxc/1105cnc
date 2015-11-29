@@ -45233,6 +45233,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject Middle Weight: Reject when the average weight value is less than Net.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T104402Z" creationid="Judy" creationdate="20151129T104402Z">
+        <seg>退回中間重量：當平均重量低於淨重時退回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject No Tare: Reject for tare lack in the pack.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T104016Z" creationid="Judy" creationdate="20151129T102904Z">
