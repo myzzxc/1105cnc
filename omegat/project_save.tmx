@@ -28549,6 +28549,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In some cases, data modification may require a stoppage of production, which will be indicated by a warning message on the screen of the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143855Z" creationid="Judy" creationdate="20151129T143855Z">
+        <seg>在某些情況下，資料修改可能需要停止生產，此時檢重機螢幕上將出現一條警告訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In still a further exemplary embodiment of the present disclosure, a vehicle is provided.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T072317Z">
@@ -59159,6 +59167,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are 4 possible alarm outputs, 2 fixed (Fix1-FIX2) and 2 timed (tmp1-TMP2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144000Z" creationid="Judy" creationdate="20151129T144000Z">
+        <seg>共有 4 種可用的警報輸出，2 種固定式 (Fix1 FIX2) 和 2 種定時式 (tmp1-TMP2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are a couple of other pins on the board:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T124801Z">
@@ -61293,6 +61309,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125800Z">
         <seg>總體而言：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the screen the "Alarm" option is selected from the first drop-down menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144022Z" creationid="Judy" creationdate="20151129T144022Z">
+        <seg>要進入畫面請由第一下拉式選單中選擇「Alarm (警報)」選項，</seg>
       </tuv>
     </tu>
     <tu>
