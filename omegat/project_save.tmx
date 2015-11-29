@@ -29701,6 +29701,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indicates the correction top when negative corrections are made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153139Z" creationid="Judy" creationdate="20151129T153139Z">
+        <seg>代表進行負校正時的校正量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicates the correction top when positive corrections are made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153052Z" creationid="Judy" creationdate="20151129T153043Z">
+        <seg>代表進行正校正時的校正量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indication out of production machine, adjust work format.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124458Z" creationid="Judy" creationdate="20151128T093639Z">
@@ -33059,6 +33075,22 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131806Z">
         <seg>可於警報中和事件快顯視窗中立即播放事件影像，並顯示警報來源伺服器的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is programmed in % compared to T + 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153113Z" creationid="Judy" creationdate="20151129T153113Z">
+        <seg>其設定為相對 T + 2 的 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is programmed in % compared to T-2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153150Z" creationid="Judy" creationdate="20151129T153150Z">
+        <seg>其設定為相對 T - 2 的 %。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37414,6 +37446,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NEG Trend Limit: This parameter is only taken into account in case of working with Average Weight Control activated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153131Z" creationid="Judy" creationdate="20151129T153131Z">
+        <seg>NEG Trend Limit (負趨勢限制)：此參數僅適用於平均重量管控啟動運作時，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NEXT STEPS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130433Z">
@@ -41242,8 +41282,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>POS Trend Limit: This parameter is only taken into account in case of working with Average Weight Control activated.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152900Z" creationid="Judy" creationdate="20151129T152900Z">
-        <seg>POS Trend Limit (POS 趨勢限制)：此參數僅適用於平均重量管控啟動運作時，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153048Z" creationid="Judy" creationdate="20151129T152900Z">
+        <seg>POS Trend Limit (正趨勢限制)：此參數僅適用於平均重量管控啟動運作時，</seg>
       </tuv>
     </tu>
     <tu>
