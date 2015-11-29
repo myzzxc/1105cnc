@@ -32527,6 +32527,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is placed at the end of the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T123632Z" creationid="Judy" creationdate="20151129T123613Z">
+        <seg>其置於檢重機末端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible to change the logo from the reports to the users' own.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T144439Z">
@@ -61382,6 +61390,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121538Z">
         <seg>扭矩測試‡‡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Confirmation: Packs Reject Device to detect packs (not correct) that should have been rejected and at the time were not.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T123616Z" creationid="Judy" creationdate="20151129T123556Z">
+        <seg>總確認：包裝退回裝置偵測到包裝 (不正確)，應退回而未退回，</seg>
       </tuv>
     </tu>
     <tu>
