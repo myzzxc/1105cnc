@@ -33933,6 +33933,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Length: It indicates the pack length in millimeters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T101844Z" creationid="Judy" creationdate="20151129T101844Z">
+        <seg>長度：以毫米為單位的包裝長度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Less complexity reduces errors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T111058Z">
