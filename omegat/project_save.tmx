@@ -21412,6 +21412,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.19.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T145134Z" creationid="Judy" creationdate="20151129T145134Z">
+        <seg>圖 3.19 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132428Z" creationid="Judy" creationdate="20151128T132418Z">
@@ -35966,6 +35974,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144814Z" creationid="Judy" creationdate="20151129T144745Z">
         <seg>警報定時程式設定功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu Programming Alarm Tolerances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T145146Z" creationid="Judy" creationdate="20151129T145146Z">
+        <seg>警報容許值程式設定功能表</seg>
       </tuv>
     </tu>
     <tu>
@@ -64930,6 +64946,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090013Z" creationid="Judy" creationdate="20151128T090013Z">
         <seg>重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Alarm (+): Programming grams of net weight so that when a single sample is above this absolute value, positive weight alarm jumps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T145444Z" creationid="Judy" creationdate="20151129T145444Z">
+        <seg>Weight Alarm (+) (正重量警報)：設定淨重之克數，當一個樣品超過此數值，將啟動正重量警報，</seg>
       </tuv>
     </tu>
     <tu>
