@@ -45825,6 +45825,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember to activate the corresponding mask.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T150959Z" creationid="Judy" creationdate="20151129T150959Z">
+        <seg>請記得啟動對應之遮罩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember to log out from Workday and then log back in for the changes to be in effect.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133352Z">
@@ -64954,6 +64962,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T145444Z" creationid="Judy" creationdate="20151129T145444Z">
         <seg>Weight Alarm (+) (正重量警報)：設定淨重之克數，當一個樣品超過此數值，將啟動正重量警報，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Alarm (-): Programming the lower level in grams of net weight that triggers an alarm, when the weight individual sample is below this value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T151034Z" creationid="Judy" creationdate="20151129T151034Z">
+        <seg>Weight Alarm (-) (負重量警報)：: Programming the lower level in grams of net weight that triggers an alarm, when the weight individual sample is below this value.</seg>
       </tuv>
     </tu>
     <tu>
