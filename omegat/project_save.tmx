@@ -33829,6 +33829,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Last Files: Option to choose one of the latest 5 generated files, if we have selected latest in file type.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132955Z" creationid="Judy" creationdate="20151129T132955Z">
+        <seg>最後檔案 (Last Files)：由最近生成的五個檔案中選擇一個，若選擇了最近的檔案類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last update: January 30, 2015</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T001328Z">
@@ -54517,8 +54525,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The different options are: Last, Partial Production, Total Production and Times Control.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132457Z" creationid="Judy" creationdate="20151129T132457Z">
-        <seg>不同的選項為：Last (最後)、Partial Production (部分生產)、Total Production (總生產) 和 Times Control (限定時間)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133002Z" creationid="Judy" creationdate="20151129T132457Z">
+        <seg>不同的選項為：Last (最近)、Partial Production (部分生產)、Total Production (總生產) 和 Times Control (限定時間)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55039,6 +55047,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124529Z" creationid="Judy" creationdate="20151128T134152Z">
         <seg>可以由清單中使用   和   鍵或使用鍵盤輸入號碼選擇格式：此時標記欲選擇使用的格式「Format」方塊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The format can be selected using the keys  and.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133132Z" creationid="Judy" creationdate="20151129T133132Z">
+        <seg>可以使用   和    鍵選擇格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60993,6 +61009,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the screen you select the "Change Format" option from the dropdown menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133022Z" creationid="Judy" creationdate="20151129T133022Z">
+        <seg>要進入畫面請由下拉式選單中選擇「Change Format (更改格式)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the screen you select the "Erase Format" option from the dropdown menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125019Z" creationid="Judy" creationdate="20151129T125019Z">
@@ -66851,6 +66875,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021959Z">
         <seg>可以增加/修改/刪除和重新排列套裝檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also access from the first dropdown menu, “General Menu”, clicking on “Change Format”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133053Z" creationid="Judy" creationdate="20151129T133053Z">
+        <seg>也可以由第一組下拉選單之「General Menu (一般功能表)」中，點擊「Change Format (更改格式)」按鈕進入。</seg>
       </tuv>
     </tu>
     <tu>
