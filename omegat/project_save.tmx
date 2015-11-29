@@ -15344,6 +15344,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating Format from an Original Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124910Z" creationid="Judy" creationdate="20151129T124910Z">
+        <seg>由原始的格式建立格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a New Format</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124601Z" creationid="Judy" creationdate="20151128T141120Z">
@@ -21204,6 +21212,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124854Z" creationid="Judy" creationdate="20151129T124854Z">
+        <seg>圖 3.10 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132428Z" creationid="Judy" creationdate="20151128T132418Z">
@@ -25715,8 +25731,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If "Length" or "Cadence" data were modified, the checkweigher will understand that format has been disarranged (then the checkweigher will display the message "This Format will remain disadjusted").</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T151507Z" creationid="Judy" creationdate="20151128T151507Z">
-        <seg>若修改「Length (長度)」或「Cadence (輸送間隔)」資料時，檢重機能偵測形式已被打亂 (然後檢重機將顯示「This Format will remain disadjusted (此形式將維持不變)」訊息)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124723Z" creationid="Judy" creationdate="20151128T151507Z">
+        <seg>若修改「Length (長度)」或「Cadence (輸送間隔)」資料時，檢重機能偵測形式已被打亂 (然後檢重機將顯示「This Format will remain disadjusted (此格式將維持不變)」訊息)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26155,8 +26171,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If the new format is activated without having been previously set up, in the header this message is shown: " Out of production Machine - Adjust work format".</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T151840Z" creationid="Judy" creationdate="20151128T151840Z">
-        <seg>若未預先設定便啟用新的形式，顯示面板中將出現：「Out of production Machine - Adjust work format (機台停止生產 - 調整工作形式)」訊息。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124728Z" creationid="Judy" creationdate="20151128T151840Z">
+        <seg>若未預先設定便啟用新的形式，顯示面板中將出現：「Out of production Machine - Adjust work format (機台停止生產 - 調整工作格式)」訊息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28343,8 +28359,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In the "Original Format" box you select the format whose data you want to copy and in the "To Format" box you select the number of the new format to be created.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124404Z" creationid="Judy" creationdate="20151129T124222Z">
-        <seg>於「Original Format (原始形式)」方框中選擇欲複製的資料形式，於「To Format (格式化)」"框中選擇要創建的新格式的數量。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124850Z" creationid="Judy" creationdate="20151129T124222Z">
+        <seg>於「Original Format (原始格式)」方塊中選擇欲複製的資料格式，於「To Format (格式化)」方塊中選擇欲建立的新格式數量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43504,8 +43520,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product: Format name.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152037Z" creationid="Judy" creationdate="20151128T152010Z">
-        <seg>產品 (Product)：形式名稱。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124731Z" creationid="Judy" creationdate="20151128T152010Z">
+        <seg>產品 (Product)：格式名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49593,8 +49609,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Speed ​​Weight:  It indicates the speed in packs per minute which this format is going to work with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102825Z" creationid="Judy" creationdate="20151129T102825Z">
-        <seg>速度重量：該形式運作之包裝每分鐘速度。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124739Z" creationid="Judy" creationdate="20151129T102825Z">
+        <seg>速度重量：該格式運作之包裝每分鐘速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49737,8 +49753,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Standard-Regulations: It refers to the application of possible regulations (EEC-MSUR-INMETRO) to the format tolerance levels.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T030504Z" creationid="Judy" creationdate="20151129T030504Z">
-        <seg>標準規範：形式容許值適用之規範 (EEC-MSUR-INMETRO)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124735Z" creationid="Judy" creationdate="20151129T030504Z">
+        <seg>標準規範：格式容許值適用之規範 (EEC-MSUR-INMETRO)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51942,8 +51958,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The "Copy Format" option is selected from the dropdown menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124232Z" creationid="Judy" creationdate="20151129T124059Z">
-        <seg>「Copy Format (複製形式)」選項由下拉功能表中選擇，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124748Z" creationid="Judy" creationdate="20151129T124059Z">
+        <seg>「Copy Format (複製格式)」選項由下拉功能表中選擇，</seg>
       </tuv>
     </tu>
     <tu>
@@ -55558,8 +55574,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The new created format will keep the programmed data and the copied format settings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124159Z" creationid="Judy" creationdate="20151129T124159Z">
-        <seg>新建立的形式將保留程式化資料並複製形式設置，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124759Z" creationid="Judy" creationdate="20151129T124159Z">
+        <seg>新建立的格式將保留程式化資料並複製格式設置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -60647,8 +60663,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Through this screen, you can create a format based on an existing format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124127Z" creationid="Judy" creationdate="20151129T124127Z">
-        <seg>此畫面中可以基於現有的形式建立形式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124753Z" creationid="Judy" creationdate="20151129T124127Z">
+        <seg>此畫面中可以基於現有的格式建立格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60695,8 +60711,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Time Stamp: Informative parameter indicating when you have performed the last modification on the format (Date and time of last modification).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124008Z" creationid="Judy" creationdate="20151129T124008Z">
-        <seg>時間戳記：執行最後一次修改形式的資訊參數 (最後一次修改的日期和時間)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124744Z" creationid="Judy" creationdate="20151129T124008Z">
+        <seg>時間戳記：執行最後一次修改格式的資訊參數 (最後一次修改的日期和時間)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60829,6 +60845,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125800Z">
         <seg>總體而言：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the screen you select the "Erase Format" option from the dropdown menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125019Z" creationid="Judy" creationdate="20151129T125019Z">
+        <seg>要進入畫面請由下拉式選單中選擇「Erase Format (刪除格式)」選項。</seg>
       </tuv>
     </tu>
     <tu>
