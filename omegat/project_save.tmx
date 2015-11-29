@@ -5423,6 +5423,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accepted (%): If you are working under the EEC regulations, this parameter will show the maximum percentage of packs that can be accepted within the tolerances (T-1) and (T-2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T030714Z" creationid="Judy" creationdate="20151129T030714Z">
+        <seg>接受 (%)：若使用 EEC (歐盟) 規範，該參數為包裝能接受之最大公差 (T-1) 和 (T-2) 百分比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access Control;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T132726Z">
@@ -49611,6 +49619,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020027Z">
         <seg>標準版、進階版或兩套皆有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard-Regulations: It refers to the application of possible regulations (EEC-MSUR-INMETRO) to the format tolerance levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T030504Z" creationid="Judy" creationdate="20151129T030504Z">
+        <seg>標準規範：形式容許值適用之規範 (EEC-MSUR-INMETRO)。</seg>
       </tuv>
     </tu>
     <tu>
