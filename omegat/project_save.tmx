@@ -28341,6 +28341,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the "Original Format" box you select the format whose data you want to copy and in the "To Format" box you select the number of the new format to be created.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124222Z" creationid="Judy" creationdate="20151129T124222Z">
+        <seg>於「Original Format原始格式"框中選擇您想要複製的資料的格式，在"格式化"框中選擇要創建的新格式的數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Account Information section, complete fields including Account Type, Bank Name, Bank Sort Code, and Account Number.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T144931Z">
@@ -51932,6 +51940,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "Copy Format" option is selected from the dropdown menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124232Z" creationid="Judy" creationdate="20151129T124059Z">
+        <seg>「Copy Format (複製形式)」選項由下拉功能表中選擇，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 10HP Becker dryvane vacuum pump is perfectly suited forvacuum  hold down on allAXYZ Series Routers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065154Z">
@@ -55536,6 +55552,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150453Z">
         <seg>新的總基本薪資此時會顯示於 Total Base Pay 欄位中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new created format will keep the programmed data and the copied format settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124159Z" creationid="Judy" creationdate="20151129T124159Z">
+        <seg>新建立的形式將保留程式化資料並複製形式設置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -60621,6 +60645,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen, you can create a format based on an existing format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124127Z" creationid="Judy" creationdate="20151129T124127Z">
+        <seg>此畫面中可以基於現有的形式建立形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumbnail preview of PDF document pages for conversion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T022751Z">
@@ -60657,6 +60689,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T074041Z">
         <seg>鎖緊鑽孔支架並於插槽支架處使用雙螺母，使螺栓和插槽孔之間留有間隙，使支架於外殼熱膨冷縮時能滑動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time Stamp: Informative parameter indicating when you have performed the last modification on the format (Date and time of last modification).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124008Z" creationid="Judy" creationdate="20151129T124008Z">
+        <seg>時間戳記：執行最後一次修改形式的資訊參數 (最後一次修改的日期和時間)。</seg>
       </tuv>
     </tu>
     <tu>
