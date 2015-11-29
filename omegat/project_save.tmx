@@ -10034,6 +10034,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch: Setting the batch number in alphanumeric or numeric depending on the batch parameter configuration in section 3.3.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134528Z" creationid="Judy" creationdate="20151129T134442Z">
+        <seg>Batch (批次)：根據第 3.3.2 節 「一般 (General)」 中所設定之批次參數以字母和數字或數字設定批次編號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bates Numbering</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071005Z">
@@ -11711,8 +11719,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Cell</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T123117Z">
-        <seg>箱格</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134656Z">
+        <seg>儲存格</seg>
       </tuv>
     </tu>
     <tu>
@@ -13741,6 +13749,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T103604Z">
         <seg>實行技術於全公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Company: Setting the company name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134611Z" creationid="Judy" creationdate="20151129T134611Z">
+        <seg>Company (公司)：設定公司名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21308,6 +21324,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.15.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134800Z" creationid="Judy" creationdate="20151129T134800Z">
+        <seg>圖 3.15 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132428Z" creationid="Judy" creationdate="20151128T132418Z">
@@ -25561,6 +25585,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN MULTITRACK MACHINES: This screen will be common for all tracks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134630Z" creationid="Judy" creationdate="20151129T134630Z">
+        <seg>多軌機台中，所有軌道將共用此畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN SUPPLYING GOODS, THE SUPPLIER MUST COMPLY WITH ISO 14000 STANDARD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232946Z">
@@ -26476,6 +26508,14 @@ Hsin Chang 工業公司</seg>
         <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing cancel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133839Z" creationid="Judy" creationdate="20151129T133839Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將顯示前述允許取消操作之警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing to cancel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134758Z" creationid="Judy" creationdate="20151129T134758Z">
         <seg>若確認參數需要停止生產或重新讀取格式，檢重機將顯示前述允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
@@ -33849,6 +33889,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024336Z">
         <seg>特定語言轉換檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language: The language of graphic interface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134554Z" creationid="Judy" creationdate="20151129T134554Z">
+        <seg>Language (語言)：圖形介面的語言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41469,6 +41517,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T125127Z">
         <seg> 平移 / 傾斜 / 變焦 (PTZ) 控制：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters Programming Cell</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134818Z" creationid="Judy" creationdate="20151129T134818Z">
+        <seg>參數程式設定儲存格</seg>
       </tuv>
     </tu>
     <tu>
@@ -60909,10 +60965,26 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen you can modify the weight display parameter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134732Z" creationid="Judy" creationdate="20151129T134732Z">
+        <seg>透過此畫面可以修改重量顯示參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen you can program the parameters of a general nature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133917Z" creationid="Judy" creationdate="20151129T133601Z">
         <seg>透過此畫面可以設定一般性的程式化參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you will only be able to programm or modify the concept “Weight Display”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134949Z" creationid="Judy" creationdate="20151129T134949Z">
+        <seg>透過此畫面只能設定或修改「Weight Display (重量顯示」參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61117,6 +61189,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125800Z">
         <seg>總體而言：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the screen you select the "Cell" option from the first drop-down menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134751Z" creationid="Judy" creationdate="20151129T134751Z">
+        <seg>要進入畫面請由第一下拉式選單中選擇「Cell (儲存格)」選項，</seg>
       </tuv>
     </tu>
     <tu>
@@ -70034,6 +70114,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T131330Z">
         <seg>「每間企業都有一種經營模式；經營模式決定了日常業務如何進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“General”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134534Z" creationid="Judy" creationdate="20151129T134534Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
