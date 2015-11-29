@@ -26305,6 +26305,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this parameter is not programmed properly at the checkweigher length errors may appear.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102058Z" creationid="Judy" creationdate="20151129T102058Z">
+        <seg>若此參數程式化未正確設定檢重機會出現錯誤訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this test is not performed, the evaluation report shall note that the value of f c to be used in the determination of development and splice lengths in accordance with ACI318 shall not exceed 2500 psi (17.2 MPa).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192457Z">
