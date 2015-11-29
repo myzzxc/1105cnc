@@ -6193,6 +6193,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After clicking on this button, you get the list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132822Z" creationid="Judy" creationdate="20151129T132822Z">
+        <seg>點擊此按鈕後將會獲取清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After filling the vessel, allow approximately 5 minutes for trapped air to escape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055545Z">
@@ -16128,6 +16136,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data Listing: If the selected option is YES, the button “Execute” appears at the central bottom of the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132810Z" creationid="Judy" creationdate="20151129T132805Z">
+        <seg>資料列表 (Data Listing)：當選擇 YES (是) 的選項時，畫面底部中央將出現「Execute (執行)」按鈕，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data Programming</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140352Z" creationid="Judy" creationdate="20151128T140247Z">
@@ -18920,8 +18936,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Erase Data: When the selected option is YES, then after making a list the calculations are deleted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132532Z" creationid="Judy" creationdate="20151129T132532Z">
-        <seg>刪除資料 (Erase Data)：當選則 YES (是)的選項是肯定的時然後製作一個清單後計算被刪除。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132634Z" creationid="Judy" creationdate="20151129T132532Z">
+        <seg>刪除資料 (Erase Data)：當選擇 YES (是) 的選項時，則建立清單後會刪除該計算。</seg>
       </tuv>
     </tu>
     <tu>
