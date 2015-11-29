@@ -10642,6 +10642,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bottom Limit: Value making that if a pack occurs with an individual weight of a derivative group lower than a programmed limit, the system will make a correction to the servo motor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153733Z" creationid="Judy" creationdate="20151129T153733Z">
+        <seg>Bottom Limit (最低限度)：當個別包裝與整體差異低於此設定數值，系統將針對伺服馬達進行校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bottom-line</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T105710Z">
