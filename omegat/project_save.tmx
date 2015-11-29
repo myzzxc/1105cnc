@@ -6531,8 +6531,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Alarms (Optional)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135014Z">
-        <seg>警報 (可選)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143700Z">
+        <seg>警報 (選配)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25641,6 +25641,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN MULTITRACK MACHINES: This screen will be a sepecial one for each track.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143547Z" creationid="Judy" creationdate="20151129T143547Z">
+        <seg>多軌機台中，各軌道將有各自之畫面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN MULTITRACK MACHINES: This screen will be common for all tracks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134630Z" creationid="Judy" creationdate="20151129T134630Z">
@@ -27760,6 +27768,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130845Z" creationid="Judy" creationdate="20151128T130845Z">
         <seg>當需要更換輸送帶時，請按照附錄之說明進行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case the checkweigher has an alarm system, the program has the following screen which you can program the alarm activation time through.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143807Z" creationid="Judy" creationdate="20151129T143807Z">
+        <seg>當檢重機設有警報系統的情況下，程式將具有以下畫面可以設定警報啟動時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33396,6 +33412,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T015158Z">
         <seg>支援最多同時八組通訊端連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will be always enabled, if a reject confirmation input has been configured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143517Z" creationid="Judy" creationdate="20151129T143517Z">
+        <seg>若已設置退回確認輸入此選項永遠為啟用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57553,6 +57577,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T135451Z">
         <seg>阻尼元件於上投影圖中的中心線與第一懸吊軸上投影圖中的中心線之夾角整體上垂直。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The track change is automatically performed clicking on the screen header</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143647Z" creationid="Judy" creationdate="20151129T143647Z">
+        <seg>點擊畫面顯示面板將自動變更軌道。</seg>
       </tuv>
     </tu>
     <tu>
