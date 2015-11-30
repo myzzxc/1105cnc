@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(52) U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151130T112854Z" creationid="Judy" creationdate="20151130T112854Z">
+        <seg>(52) 美國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(54) SIDE-BY-SIDE VEHICLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121416Z">
@@ -2297,6 +2305,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121402Z">
         <seg>2015 年 7 月 18 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>180/68.1; 180/68.3; 180/69.24; 180/89.17 (58) Field of Classification Search</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151130T112731Z" creationid="Judy" creationdate="20151130T112731Z">
+        <seg>180/68.1; 180/68.3; 180/69.24; 180/89.17 (58) 分類檢索範圍</seg>
       </tuv>
     </tu>
     <tu>
