@@ -62017,6 +62017,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the screen, “Partials" option is selected from the first "Programming" dropdown menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T145052Z" creationid="Judy" creationdate="20151201T145052Z">
+        <seg>要進入該畫面請由第一「Programming (程式化)」下拉式選單中選擇「Partials (分段)」選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access this Installation Guide, click Help in the Home tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T030126Z">
