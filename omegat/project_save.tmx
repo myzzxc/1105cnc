@@ -57166,6 +57166,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The program allows editing up to twelve concepts (concept here understood as the stop reason).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160914Z" creationid="Judy" creationdate="20151201T160908Z">
+        <seg>該程式能編輯最多十二種參數 (此處的參數為停止原因)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The program will not be installed until the user chooses to add it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100230Z">
@@ -62221,6 +62229,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133957Z">
         <seg>若要更改您的個人資訊，請點擊相關的欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To come back to preceding screen it will be necessary to click on Esc key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160920Z" creationid="Judy" creationdate="20151201T160920Z">
+        <seg>若要回到前一畫面，請點擊 Esc 鍵。</seg>
       </tuv>
     </tu>
     <tu>
