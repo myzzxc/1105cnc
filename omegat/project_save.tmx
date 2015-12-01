@@ -50783,6 +50783,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stock Packs (B): This parameter is the number of packs physically included between the dosing-device and the weight control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122658Z" creationid="Judy" creationdate="20151201T122658Z">
+        <seg>Stock Packs (庫存包裝) (B)：此參數為實體包含於注料裝置和重量管控之間的包裝數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stock levels that are incompatible with the delivery performance requirements without exceptional means of transport.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161504Z">
@@ -66050,6 +66058,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142423Z" creationid="Judy" creationdate="20151126T142423Z">
         <seg>當雙擺輸送帶位於退回位置且未檢測到正確的產品前不會回到正常位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When there is a correction, the checkweigher lets this number of packs passing before making a new sample with the new regulation corresponding to the dosing-device A.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122633Z" creationid="Judy" creationdate="20151201T122633Z">
+        <seg>校正時，檢重機使用對應注料裝置 A 的新管制參數處理新的樣品前，先讓此數量的包裝通過。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When there is a correction, the controller lets this number of packs passing before taking a new sample with the new regulation corresponding to the dosing-device B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122716Z" creationid="Judy" creationdate="20151201T122716Z">
+        <seg>校正時，檢重機使用對應注料裝置 B 的新管制參數處理新的樣品前，先讓此數量的包裝通過。</seg>
       </tuv>
     </tu>
     <tu>
