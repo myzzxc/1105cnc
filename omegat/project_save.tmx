@@ -6609,6 +6609,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm Range: This parameter is the value in gr.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144549Z" creationid="Judy" creationdate="20151201T144549Z">
+        <seg>Alarm Range (警報範圍)：此參數為</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm Systems;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T132757Z">
@@ -60859,6 +60867,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is applied when there is a range detector in the dosing-device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144432Z" creationid="Judy" creationdate="20151201T144432Z">
+        <seg>此參數適用於給料裝置中具有範圍偵測器時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is because if it sees an object twice the width of what it expects it can increase the count by two!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T141544Z">
@@ -70721,6 +70737,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T130114Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>used as alarm value in production; applicable only when there is a range detector in the dosing-device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144714Z" creationid="Judy" creationdate="20151201T144608Z">
+        <seg>生產之警報數值；僅適用於給料裝置中具有範圍偵測器時。。</seg>
       </tuv>
     </tu>
     <tu>
