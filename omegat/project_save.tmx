@@ -4041,6 +4041,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A description of the functions of parameters shown in the screen is given below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T155515Z" creationid="Judy" creationdate="20151201T155515Z">
+        <seg>以下為畫面之功能參數說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A detector of contaminants (Metals/XR detector).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153950Z" creationid="Judy" creationdate="20151124T153950Z">
@@ -41789,6 +41797,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050849Z">
         <seg>包裝和儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packs Interval: Being the value other than zero, it indicates the minimum time that has to elapse between a pack and the following before the ChW starts recording automatically the downtime (unassigned).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160033Z" creationid="Judy" creationdate="20151201T160033Z">
+        <seg>Packs Interval (包裝間隔時間)：零以外的數值，其代表兩包裝之間相隔而檢重機不會自動開始記錄停機 (unassigned) 的最短時間。</seg>
       </tuv>
     </tu>
     <tu>
