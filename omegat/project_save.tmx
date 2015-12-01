@@ -40511,6 +40511,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally, you can enable or disable making the list if not a pack has been counted during the period (Vacuum Partial Listing), and you can also enable or disable reflecting the start time of the first pack passage during partial (First Pack Passage Start Time).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T145958Z" creationid="Judy" creationdate="20151201T145958Z">
+        <seg>若一段時間內未計算到任何包裝量，可選擇啟用或停用列表功能 (Vacuum Partial Listing, 空分段列表)，也可啟用或停用反映分段期間第一包裝通過的起始時間 (First Pack Passage Start Time, 第一包裝通道啟始時間) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235812Z">
