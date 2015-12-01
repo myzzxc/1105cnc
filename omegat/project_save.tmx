@@ -43178,6 +43178,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Positive Correction Factor: This parameter controls the duration of the signal provided to the dispenser for correcting a defect of product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T123220Z" creationid="Judy" creationdate="20151201T123220Z">
+        <seg>Positive Correction Factor (正校正係數)：此參數控制發送至注料機以校正產品缺陷的信號時間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Possibility to change.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123847Z">
