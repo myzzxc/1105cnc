@@ -22385,8 +22385,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For a volumetric dispenser, this datum must be a multiple of the number of cylinders of the dosing-device.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122037Z" creationid="Judy" creationdate="20151201T122037Z">
-        <seg>對於注料機，此數值必須乘以注料裝置的容器數量。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143549Z" creationid="Judy" creationdate="20151201T122037Z">
+        <seg>對於給料機，此數值必須乘以注料裝置的容器數量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37711,6 +37711,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Negative Correction Factor: This parameter controls the duration of the signal provided to the dispenser to correct an excess of product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143303Z" creationid="Judy" creationdate="20151201T143303Z">
+        <seg>Negative Correction Factor (負校正係數)：此參數控制發送至注料機的信號時間以校正產品過重，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neither of output shaft 138 of power source 130 nor input shaft 142 of CVT unit 140 pass through spacer 484.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050619Z">
@@ -41737,6 +41745,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Packs Range: This parameter indicates the number of packs to be counted to take a range sample.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143451Z" creationid="Judy" creationdate="20151201T143451Z">
+        <seg>Packs Range (包裝範圍)：此參數為取樣範圍計算之包裝數量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packs: Number of packs to average on a compaction cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122916Z" creationid="Judy" creationdate="20151201T122916Z">
@@ -43180,8 +43196,8 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Positive Correction Factor: This parameter controls the duration of the signal provided to the dispenser for correcting a defect of product.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T123220Z" creationid="Judy" creationdate="20151201T123220Z">
-        <seg>Positive Correction Factor (正校正係數)：此參數控制發送至注料機以校正產品缺陷的信號時間，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143331Z" creationid="Judy" creationdate="20151201T123220Z">
+        <seg>Positive Correction Factor (正校正係數)：此參數控制發送至注料機的信號時間以校正產品過輕，</seg>
       </tuv>
     </tu>
     <tu>
@@ -50801,16 +50817,16 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Stock Packs (A): This parameter is the number of packs physically included between the dosing-device and weight control.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122232Z" creationid="Judy" creationdate="20151201T122232Z">
-        <seg>Stock Packs (庫存包裝) (A)：此參數為實體包含於注料裝置和重量管控之間的包裝數，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143612Z" creationid="Judy" creationdate="20151201T122232Z">
+        <seg>Stock Packs (庫存包裝) (A)：此參數為實體包含於給料裝置和重量管控之間的包裝數，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Stock Packs (B): This parameter is the number of packs physically included between the dosing-device and the weight control.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122658Z" creationid="Judy" creationdate="20151201T122658Z">
-        <seg>Stock Packs (庫存包裝) (B)：此參數為實體包含於注料裝置和重量管控之間的包裝數，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143600Z" creationid="Judy" creationdate="20151201T122658Z">
+        <seg>Stock Packs (庫存包裝) (B)：此參數為實體包含於給料裝置和重量管控之間的包裝數，</seg>
       </tuv>
     </tu>
     <tu>
@@ -63969,6 +63985,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035345Z">
         <seg>使用此工具可以：選擇安裝 Power PDF 進階版之位置、預先定義序號並將其變更為唯讀、設定功能安裝狀態、設定自訂安裝對話視窗中的可見功能 、設置預設應用程式設定、部署自訂檔案、於安裝中加入修補程式和匯入預先定義的應用程式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usually it corresponds to the number of filling vessels of the dosing machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143520Z" creationid="Judy" creationdate="20151201T143520Z">
+        <seg>通常其對應灌裝的定量給料機的船隻數目。</seg>
       </tuv>
     </tu>
     <tu>
