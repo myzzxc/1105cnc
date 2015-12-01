@@ -25913,6 +25913,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN CASE OF HAVING DATA HUB: If the machine is linked to the net  and the parameter “Ask Concepts” is programmed YES, the Datahub will automatically provide the stop programmed concepts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T161237Z" creationid="Judy" creationdate="20151201T161237Z">
+        <seg>當使用資料中心時：若機台連接至網路且參數「Ask Concepts (請求參數)」設定為 YES (是) 時，資料中心將自動提供停止設定參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN MULTITRACK MACHINES: This screen will be a sepecial one for each track.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143547Z" creationid="Judy" creationdate="20151129T143547Z">
