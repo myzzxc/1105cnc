@@ -14393,8 +14393,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Concepts: The concepts column indicates in abbreviated way what reject is activated.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142812Z" creationid="Judy" creationdate="20151129T142812Z">
-        <seg>Concepts (概觀)：概觀欄位為以縮寫表示之已啟用的退回。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160631Z" creationid="Judy" creationdate="20151129T142812Z">
+        <seg>Concepts (參數)：參數欄位為以縮寫表示之已啟用的退回。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16626,6 +16626,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the programmed concept, the system will count the downtime after this concept.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160504Z" creationid="Judy" creationdate="20151201T160504Z">
+        <seg>根據其設定值，當超過此數值時系統將開始計算停機時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the screen where these buttons are, these sets or panels may differ.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120304Z" creationid="Judy" creationdate="20151128T120304Z">
@@ -18333,6 +18341,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124649Z" creationid="Judy" creationdate="20151128T143147Z">
         <seg>編輯格式參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edition of concepts: It allows the user to access editing the name of the various downtime concepts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160747Z" creationid="Judy" creationdate="20151201T160559Z">
+        <seg>Edition of concepts (編輯參數)：允許使用者編輯各種停機參數的名稱，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29527,8 +29543,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In this screen masks are applied to different concepts for Alarm 2.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T151941Z" creationid="Judy" creationdate="20151129T151941Z">
-        <seg>在此畫面中遮罩套用至警報 2 的不同項目中，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160636Z" creationid="Judy" creationdate="20151129T151941Z">
+        <seg>在此畫面中遮罩套用至警報 2 的不同參數中，</seg>
       </tuv>
     </tu>
     <tu>
@@ -50919,6 +50935,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stop Time Init: Is the stop time concept used when the machine start.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160647Z" creationid="Judy" creationdate="20151201T160336Z">
+        <seg>Stop Time Init (停止時間)：當機台啟動後的停止時間參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop Windows Defender</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141912Z">
@@ -55149,8 +55173,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The concept may have a timed alarm (TMP) or a fixed one (FIX).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152017Z" creationid="Judy" creationdate="20151129T152017Z">
-        <seg>項目包含計時警報 (TMP) 或固定警報 (FIX)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160640Z" creationid="Judy" creationdate="20151129T152017Z">
+        <seg>參數包含計時警報 (TMP) 或固定警報 (FIX)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63416,6 +63440,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153220Z">
         <seg>美元計價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unassigned Time Alarm: At the moment the unassigned downtime exceeds the programmed time here, an alarm can be activated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160149Z" creationid="Judy" creationdate="20151201T160149Z">
+        <seg>Unassigned Time Alarm (停機時間警報)：停機時間超過此數值將會啟動警報。</seg>
       </tuv>
     </tu>
     <tu>
