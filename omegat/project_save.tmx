@@ -61725,6 +61725,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen you can program making automatic lists after passing a certain number of (correct or manufactured) units,  certain minutes, an hour or indefinitely (the operator makes manually the list).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T145400Z" creationid="Judy" creationdate="20151201T145400Z">
+        <seg>此畫面中可以設定通過一定數量、分鐘、小時或無限制 (操作員手動列表) 的 (正確或製造) 單位後自動列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen you can program the parameters of a general nature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133917Z" creationid="Judy" creationdate="20151129T133601Z">
@@ -65794,6 +65802,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113943Z">
         <seg>新增功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whatever the choice is, every time a listing occurs, the checkweigher increases the number of the batch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T145503Z" creationid="Judy" creationdate="20151201T145503Z">
+        <seg>無論選擇為何，每次列表後檢重機會增加批號。</seg>
       </tuv>
     </tu>
     <tu>
