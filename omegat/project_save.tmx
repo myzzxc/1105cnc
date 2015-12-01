@@ -26649,6 +26649,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the servo is on, the range sample is only taken in averaging cycles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144008Z" creationid="Judy" creationdate="20151201T144008Z">
+        <seg>若伺服開啓，範圍之樣本僅於平均循環中取樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the software can't reset the board, you can always start the bootloader pressing the reset button on the board.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T143240Z">
@@ -34273,6 +34281,14 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T153310Z">
         <seg>供水、環境衛生和個人衛生（WASH）的缺乏不僅會使人類健康和福祉付出巨大代價，而且會造
 成巨大的財政損失，包括相當大的經濟活動損失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lag Range: The entire part of this parameter expresses the number of packs to offset; the decimal part, depending on the cadence, indicates the gap time when taking a range sample.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144353Z" creationid="Judy" creationdate="20151201T144353Z">
+        <seg>Lag Range (延遲範圍)：此參數的整數部分為偏移的包裝數量，其小數部分取決於序列輸送，代表取得範圍樣本的間隙時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58566,6 +58582,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The value of the range sample is displayed on one production screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143833Z" creationid="Judy" creationdate="20151201T143833Z">
+        <seg>包裝範圍之數值顯示於一個生產畫面上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The values in between are grey.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T103400Z">
@@ -63991,8 +64015,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Usually it corresponds to the number of filling vessels of the dosing machine.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143520Z" creationid="Judy" creationdate="20151201T143520Z">
-        <seg>通常其對應灌裝的定量給料機的船隻數目。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143733Z" creationid="Judy" creationdate="20151201T143520Z">
+        <seg>通常其對應給料機的填充容器數量。</seg>
       </tuv>
     </tu>
     <tu>
