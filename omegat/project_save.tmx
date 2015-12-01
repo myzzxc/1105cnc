@@ -22383,6 +22383,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a volumetric dispenser, this datum must be a multiple of the number of cylinders of the dosing-device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122037Z" creationid="Judy" creationdate="20151201T122037Z">
+        <seg>對於注料機，此數值必須乘以注料裝置的容器數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For added convenience, thermowells can be installed on the inlet and outlet sides to permit rapid visual checks of exchanger operation at all times.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085351Z">
@@ -50763,6 +50771,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070358Z">
         <seg>靜態影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stock Packs (A): This parameter is the number of packs physically included between the dosing-device and weight control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122232Z" creationid="Judy" creationdate="20151201T122232Z">
+        <seg>Stock Packs (庫存包裝) (A)：此參數為實體包含於注料裝置和重量管控之間的包裝數，</seg>
       </tuv>
     </tu>
     <tu>
