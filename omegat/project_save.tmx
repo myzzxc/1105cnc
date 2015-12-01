@@ -60635,6 +60635,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This factor will act on any average, either proportional or derivative, and we will have to find out its value at the installation time since it depends on the packaging machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143142Z" creationid="Judy" creationdate="20151201T143142Z">
+        <seg>此係數將會套用於任何比例平均或衍生平均數上，且於安裝時我們便會找出此數值，因為數值取決於該包裝機而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This feature is especially useful for limiting document modification during archiving or e-filing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T054115Z">
