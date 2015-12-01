@@ -16674,6 +16674,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Derivative Limit: If the average weight of any derivative group falls within the value determined by this limit, no feedback correction is made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T120731Z" creationid="Judy" creationdate="20151201T120731Z">
+        <seg>Derivative Limit (衍生限制)：若任何衍生群組之平均重量落於此限制值之內，不會進行回饋校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Describe and provide evidence of the use of innovative technology</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T123953Z">
@@ -34835,6 +34843,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Limit : When you have to make a feedback correction, this will be made if the programmed threshold is lower than the correction value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T121203Z" creationid="Judy" creationdate="20151201T121203Z">
+        <seg>Limit (正/負最小限制)：當需進行回饋校正時，若設定之閥值低於校正值時將使用此數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Limit file open and save locations to certain folders only</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T061516Z">
@@ -35904,8 +35920,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Margin followed packages: Number of continous packs used in Bottom limit.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T120422Z" creationid="Judy" creationdate="20151201T120422Z">
-        <seg>Margin followed packages (連續包裝邊際)：底限使用之連續包裝。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T120514Z" creationid="Judy" creationdate="20151201T120422Z">
+        <seg>Margin followed packages (連續包裝邊際)：最低限度使用之連續包裝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36086,6 +36102,22 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121838Z">
         <seg>材料試驗系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max Limit: When the weight of a pack exceeds the value of this parameter on the negative side, this is automatically excluded for the average of the feedback.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T120953Z" creationid="Judy" creationdate="20151201T120953Z">
+        <seg>Max Limit (最大負限制)：當包裝重量小於此參數值時，此重量將會排除在回饋的平均之外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max Limit: When the weight of a pack exceeds the value of this parameter on the positive side, this is automatically excluded for the average of the feedback.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T120937Z" creationid="Judy" creationdate="20151201T120937Z">
+        <seg>Max Limit (最大正限制)：當包裝重量大於此參數值時，此重量將會排除在回饋的平均之外。</seg>
       </tuv>
     </tu>
     <tu>
