@@ -40077,6 +40077,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only correction is generated when the calculated average is below the net weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T123020Z" creationid="Judy" creationdate="20151201T123020Z">
+        <seg>僅於當計算之平均值低於淨重量時進行校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only localised for legal or regulatory reasons</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T233125Z">
@@ -41725,6 +41733,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050849Z">
         <seg>包裝和儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packs: Number of packs to average on a compaction cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122916Z" creationid="Judy" creationdate="20151201T122916Z">
+        <seg>Packs (小型包裝)：計算一個小型循環平均所使用之包裝數量，</seg>
       </tuv>
     </tu>
     <tu>
@@ -61105,6 +61121,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052016Z">
         <seg>此面板中可指定處理 .pdf 檔、相關程式和應用程式（Power PDF 進階版、PDF Convert 和 Create Assistant）的一般設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This parameter is the number of consecutive packs forming the sample to calculate the average weight and send a correction signal to compensate the detected error.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122922Z" creationid="Judy" creationdate="20151201T122922Z">
+        <seg>此參數為以連續包裝之數量為樣本所計算的平均重量，同時發送校正信號以進行檢測之錯誤補償。</seg>
       </tuv>
     </tu>
     <tu>
