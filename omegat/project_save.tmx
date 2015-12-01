@@ -42163,8 +42163,8 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Partials (Optional)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135600Z">
-        <seg>分段 (可選)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144840Z">
+        <seg>分段 (選配)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61898,8 +61898,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Times (Optional)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135619Z">
-        <seg>時間 (可選)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144850Z">
+        <seg>計時器 (選配)</seg>
       </tuv>
     </tu>
     <tu>
@@ -62133,6 +62133,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124620Z" creationid="Judy" creationdate="20151128T141725Z">
         <seg>若要回到主畫面而不創建新的格式，需按下「Cancel」按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To come back to the preceding screen you have to click on Esc key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144830Z" creationid="Judy" creationdate="20151201T144830Z">
+        <seg>若要回到前一畫面，請點擊 Esc 鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70743,8 +70751,8 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="EN-US">
         <seg>used as alarm value in production; applicable only when there is a range detector in the dosing-device.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144714Z" creationid="Judy" creationdate="20151201T144608Z">
-        <seg>生產之警報數值；僅適用於給料裝置中具有範圍偵測器時。。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144753Z" creationid="Judy" creationdate="20151201T144608Z">
+        <seg>用於生產之警報 gr. 數值；僅適用於給料裝置中具有範圍偵測器時。</seg>
       </tuv>
     </tu>
     <tu>
