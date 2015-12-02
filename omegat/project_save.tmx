@@ -21764,6 +21764,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.27.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T175215Z" creationid="Judy" creationdate="20151202T175215Z">
+        <seg>圖 3.27 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132842Z" creationid="Judy" creationdate="20151128T132842Z">
@@ -51167,6 +51175,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Static Adjustment Process</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T175246Z" creationid="Judy" creationdate="20151202T175246Z">
+        <seg>靜態調整流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Static Analysis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173543Z">
@@ -68604,6 +68620,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T085404Z">
         <seg>可以選擇是否能顯示以上各個選項於終端用戶程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can come back to the precedent screen clicking on “Esc” key in case the static adjustment process has not been successfully performed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T175209Z" creationid="Judy" creationdate="20151202T175209Z">
+        <seg>若靜態調整不成功，可以點擊 Esc 鍵回到前一畫面。</seg>
       </tuv>
     </tu>
     <tu>
