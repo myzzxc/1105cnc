@@ -6361,6 +6361,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After that you have to put this standard weight on the weight conveyor and response the question “Empty Platform” clicking YES.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T175110Z" creationid="Judy" creationdate="20151202T174925Z">
+        <seg>接著將必須將標準重量置於秤重輸送機上並於問題「Empty Platform」中點擊 YES。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After that you must select the file type, indicate whether you want to delete the calculations and / or to list some data, and click the option YES.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125504Z" creationid="Judy" creationdate="20151129T125504Z">
@@ -51043,6 +51051,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080800Z">
         <seg>標準版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard Weight: You must indicate the weight value to be used in the static adjustment (the checkweigher will state by default a weight pattern equal to the full scale, but the adjustment can be performed with a lower weight, up to two thirds of that value, with the value you mark).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T174916Z" creationid="Judy" creationdate="20151202T174916Z">
+        <seg>Standard Weight (標準重量)：必輸輸入靜態調整使用之重量 (檢重機預設重量等於全重，但可使用較輕的重量進行調整，最低為輸入之數值的三分之二)。</seg>
       </tuv>
     </tu>
     <tu>
