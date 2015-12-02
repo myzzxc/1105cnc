@@ -10362,6 +10362,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before entering this screen, the machine advises it will go out of production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T174228Z" creationid="Judy" creationdate="20151202T174228Z">
+        <seg>進入此畫面前，機器台將會提醒關閉生產，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before putting the checkweigher on the ground you must place the discs and then level it through the pins situated on the support points of the base.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045739Z" creationid="Judy" creationdate="20151128T045739Z">
@@ -21732,6 +21740,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.26.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T174116Z" creationid="Judy" creationdate="20151202T174116Z">
+        <seg>圖 3.26 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132842Z" creationid="Judy" creationdate="20151128T132842Z">
@@ -27341,6 +27357,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142957Z" creationid="Judy" creationdate="20151128T142957Z">
         <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to do a non automatic adjustment of zero, you must press on the button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T174400Z" creationid="Judy" creationdate="20151202T174400Z">
+        <seg>若欲進行非自動歸零，必須點擊按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58374,6 +58398,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The system will ask validation for the following questions: “Empty Platform”, “Standard Weight” and “Loaded Platform”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T174110Z" creationid="Judy" creationdate="20151202T174110Z">
+        <seg>系統將會要求確認以下問題：「Empty Platform (空平台)」、「Standard Weight (標準重量)」以及「Loaded Platform (負載平台)」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system works in two ways: With Physical Sensor or with Virtual Sensor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T084040Z">
@@ -62146,6 +62178,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133917Z" creationid="Judy" creationdate="20151129T133601Z">
         <seg>透過此畫面可以設定一般性的程式化參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can view as a mere information the cell parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T174324Z" creationid="Judy" creationdate="20151202T174324Z">
+        <seg>藉由此畫面可以檢視儲存格參數資訊。</seg>
       </tuv>
     </tu>
     <tu>
