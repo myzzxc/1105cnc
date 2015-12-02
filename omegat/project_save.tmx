@@ -45129,6 +45129,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RELATED APPLICATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T162004Z" creationid="Judy" creationdate="20151202T161949Z">
+        <seg>相關應用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REPAIR GUARANTEE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T113544Z">
@@ -60525,6 +60533,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T125452Z">
         <seg>此設計使側邊護網 020 能於閂鎖 948 解開時旋開。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This application is a divisional application of U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T162120Z" creationid="Judy" creationdate="20151202T162120Z">
+        <seg>此應用為請求分割美國</seg>
       </tuv>
     </tu>
     <tu>
