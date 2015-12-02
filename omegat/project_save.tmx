@@ -18690,6 +18690,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Empty Platform: You must click on YES, after checking the platform is empty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T174455Z" creationid="Judy" creationdate="20151202T174455Z">
+        <seg>Empty Platform (空平台)：確認平台淨空後必須點擊 YES (是)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable 'Include signature's revocation status' in the application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072339Z">
@@ -38203,6 +38211,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153217Z">
         <seg>新一代 AXYZ A2MC 控制系統可更平順可靠地操作，且具簡便網路程式傳送功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next the checkweigher will ask the standard weight to be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T174533Z" creationid="Judy" creationdate="20151202T174533Z">
+        <seg>接著檢重機將會要求使用標準重量。</seg>
       </tuv>
     </tu>
     <tu>
