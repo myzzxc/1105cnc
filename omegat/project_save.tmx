@@ -21716,6 +21716,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.25.Menu Pack Adjustments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173427Z" creationid="Judy" creationdate="20151202T173427Z">
+        <seg>圖 3.25 調整包裝功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132842Z" creationid="Judy" creationdate="20151128T132842Z">
@@ -40149,6 +40157,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once this menu is open you can access one of the options, “Static Analysis”/”Dynamic Analysis”, shown in it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173408Z" creationid="Judy" creationdate="20151202T173408Z">
+        <seg>當此功能表開啟後便能選擇進入其中顯示之「Static Analysis (靜態分析)」/「Dynamic Analysis (動態分析)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once this menu is open you can access some of the options shown in it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131435Z" creationid="Judy" creationdate="20151128T131435Z">
@@ -51081,8 +51097,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Static Analysis</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135819Z">
-        <seg>靜止分析</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173543Z">
+        <seg>靜態分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -61526,6 +61542,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This operation must be carried out every time the format is statically or dynamically maladjusted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173536Z" creationid="Judy" creationdate="20151202T173536Z">
+        <seg>每次進行靜態或動態格式調整不良時必須進行此操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This option gives you the opportunity to create a transform file (.mst) based on the differences between the open package and the modifications set by yourself.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T020740Z">
@@ -62438,6 +62462,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152238Z" creationid="Judy" creationdate="20151129T152238Z">
         <seg>要進入畫面請由第一下拉式選單中選擇「Feedback/Range (回饋 / 範圍)」選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this screen, “Pack Adjustments" button is selected from the general menu and the adjusting dropdown menu appears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173243Z" creationid="Judy" creationdate="20151202T173243Z">
+        <seg>要進入畫面請由一般功能表選擇「Pack Adjustments (調整包裝)」按鈕以顯示下拉式功能表，</seg>
       </tuv>
     </tu>
     <tu>
