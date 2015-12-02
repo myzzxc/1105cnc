@@ -3308,6 +3308,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>44 and 45, in one embodiment, a park- 60 ing brake 670 of vehicle 100 is coupled to a shaft 680 of shiftable transmission 144 prior to rear drive 148.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T164044Z" creationid="Judy" creationdate="20151202T164044Z">
+        <seg>44 和 45，在一個實施例中，車輛 100 手剎車 670 於後驅動 148 前方連接至變速箱 144 的傳動軸 680 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>44 and 45, in one embodiment, a parking brake 670 of vehicle 100 is coupled to a shaft 680 of shiftable transmission 144 prior to rear drive 148.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T133001Z">
@@ -3472,6 +3480,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163252Z" creationid="Judy" creationdate="20151202T163252Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>55 patent application Ser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T164030Z" creationid="Judy" creationdate="20151202T164030Z">
+        <seg>序號</seg>
       </tuv>
     </tu>
     <tu>
@@ -17572,6 +17588,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Driver and 200 pound</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163843Z" creationid="Judy" creationdate="20151202T163843Z">
+        <seg>和 200 磅重之乘客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dropdown Formats Data Programming</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124540Z" creationid="Judy" creationdate="20151128T140515Z">
@@ -23812,6 +23836,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further, by having tires 106 define the outer envelope of vehicle 100 the additional weight of an operator, a passenger, and cargo in cargo bed 234 does not generally affect the ride of vehicle 100 because the additional weight is 40 within the front axle 108 and rear axle 110 of vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163957Z" creationid="Judy" creationdate="20151202T163957Z">
+        <seg>此外，由於輪胎 106 為車輛 100 的最外側，駕駛、乘客、載貨平板 234 上的貨物的額外重量一般不會影響車輛 100 的行駛，因為額外的重量位於車輛 100 的前輪軸 108 和後輪軸 110 之內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further, by having tires 106 define the outer envelope of vehicle 100 the additional weight of an operator, a passenger, and cargo in cargo bed 234 does not generally affect the ride of vehicle 100 because the additional weight is within the front axle 108 and rear axle 110 of vehicle 100.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T131130Z">
@@ -28213,6 +28245,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In one 50 embodiment, the network is a CAN network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T164015Z" creationid="Judy" creationdate="20151202T164015Z">
+        <seg>在一個實施例中，網路為 CAN 網路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In one embodiment, a bearing is carried by dampening member 560B.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T145550Z">
@@ -28253,10 +28293,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In one embodiment, a lateral width of vehicle 100 from the outside of a first tire 106 to the outside of 35 a second tire 106 on the opposite side of vehicle 100 is about 64 inches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163954Z" creationid="Judy" creationdate="20151202T163954Z">
+        <seg>在一個實施例中，車輛 100 由第一輪胎 106 的外側至車輛 100 的第二個輪胎 106 另一側的橫向寬度大約為 64 英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In one embodiment, a lateral width of vehicle 100 from the outside of a first tire 106 to the outside of a second tire 106 on the opposite side of vehicle 100 is about 64 inches.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T130531Z">
         <seg>在一個實施例中，車輛 100 由第一輪胎 106 的外側至車輛 100 的第二個輪胎 106 另一側的橫向寬度大約為 64 英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one embodiment, a rotor 672 of parking brake 670 is coupled to the shaft 680 of shiftable transmission 144 on a right side of shiftable transmission 144 and a caliper 674 of parking brake 65 6 70 coupled to housing 460 of shiftable transmission 144.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T164051Z" creationid="Judy" creationdate="20151202T164051Z">
+        <seg>在一個實施例中，手煞車 670 的轉子 672 於變速箱 144 的右側連接到變速箱 144 的傳動軸 680，而手煞車 670 的卡鉗 674 連接到變速箱 144 的外殼 460。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42409,6 +42465,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Passenger, and cargo (total</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163855Z" creationid="Judy" creationdate="20151202T163855Z">
+        <seg>車輛承載駕駛、乘客以及貨物 (總增加重量為 740 磅)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Password-protect files with secure 128-bit or 256-bit AES encryption, permission controls, and open documents protected with FileOpen rights management.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T044622Z">
@@ -46221,6 +46285,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T131813Z">
         <seg>參照圖 42，機油箱 300 整體上位於車輛 100 駕駛側。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Referring to FIG. 5, tires 106 defines an outer envelope of 30 vehicle 100.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163938Z" creationid="Judy" creationdate="20151202T163938Z">
+        <seg>參照圖 5，輪胎 106 為車輛 100 的最外端邊界。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62779,6 +62851,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To remove radius arm 526B from vehicle 100, the fasteners coupling rear portion 534B to bearing carrier 20 536B are removed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163917Z" creationid="Judy" creationdate="20151202T163917Z">
+        <seg>若要將懸臂 526B 從車輛 100 上拆除，需將後部 534B 固定至軸承載具 536B 之緊固件拆除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To remove radius arm 526B from vehicle 100, the fasteners coupling rear portion 534B to bearing carrier 536B are removed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T125653Z">
@@ -70184,6 +70264,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>less than 1%</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163900Z" creationid="Judy" creationdate="20151202T163900Z">
+        <seg>小於 1%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>lib</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183200Z">
@@ -70876,6 +70964,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093531Z" creationid="Judy" creationdate="20151128T093531Z">
         <seg>為 V2000 機台未經過靜態調整而導致停止生產之畫面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sible to remove radius arm 526B from vehicle 100 without uncoupling drive shaft 150B from either wheels 104 or rear drive unit 148.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163911Z" creationid="Judy" creationdate="20151202T163911Z">
+        <seg>因而能將懸臂  526B 從車輛 100 上拆除而毋需將傳動軸 150B 由車輪 104 或後輪驅動單元 148 上拆下。</seg>
       </tuv>
     </tu>
     <tu>
