@@ -9255,6 +9255,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the moment you select this option, a warning is shown that involves taking the machine out of production in case of clicking “Accept”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173730Z" creationid="Judy" creationdate="20151202T173730Z">
+        <seg>選擇此選項時將顯示機台將會停止生產的警告，此時點擊「Accept (接受)」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the national level, governments rely on an integrated water resources management (IWRM) approach.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T082944Z">
@@ -40173,6 +40181,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once this menu is open you select the option “Static Analysis”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173617Z" creationid="Judy" creationdate="20151202T173617Z">
+        <seg>當此功能表開啟後選擇「Static Analysis (靜態分析)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once we have all these object pixels, they are grouped together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104404Z">
@@ -62799,6 +62815,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T132631Z">
         <seg>我們的大腦可以利用來自兩耳的資訊定位聲源、保持空間定向能力且更清楚地理解言語，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make a static adjustment the bands must stop and on the next screen you must click on “Adjust” key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173842Z" creationid="Judy" creationdate="20151202T173842Z">
+        <seg>若要進行靜態調整必須停止輸送帶，接著在下一個畫面中點擊「Adjust (調整)」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
