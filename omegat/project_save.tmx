@@ -39813,6 +39813,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the column ADC are shown the values of the Analogical/Digital Converter referred to the full scale, the standard weight and the standard zero.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T141659Z" creationid="Judy" creationdate="20151203T141659Z">
+        <seg>ADC 欄位中顯示類比/數位轉換器之全重、標準重量和標準零值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the detailed Terminate Employee screen, complete the Termination Date and Termination Reason fields.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232051Z">
@@ -59067,6 +59075,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143833Z" creationid="Judy" creationdate="20151201T143833Z">
         <seg>包裝範圍之數值顯示於一個生產畫面上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value of “Full Scale (Max)”  will be showed on green color, otherwise the wrong value will be shown in red color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T141840Z" creationid="Judy" creationdate="20151203T141840Z">
+        <seg>「Full Scale (Max) (最大全重)」之數值將以綠色顯示，若數值錯誤則將以紅色顯示。</seg>
       </tuv>
     </tu>
     <tu>
