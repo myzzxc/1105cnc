@@ -40189,6 +40189,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once it is open, you select the option “Dynamic Analysis”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T153522Z" creationid="Judy" creationdate="20151203T153522Z">
+        <seg>下拉選單開啟後選擇「Dynamic Analysis (動態分析)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the air passes through filter 188 it exits through air outlets 190 provided in boots 192 (see FIG. 14) on the rear of airbox 180.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T035916Z">
@@ -62602,6 +62610,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access this screen, you select the button “Pack Adjustments” on the general menu, and thus the adjustment dropdown menu appears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T151347Z" creationid="Judy" creationdate="20151203T151347Z">
+        <seg>要進入畫面請由一般功能表選擇「Pack Adjustments (調整包裝)」按鈕以顯示調整之下拉式功能表，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access this screen, “Pack Adjustments" button is selected from the general menu and the adjusting dropdown menu appears.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173243Z" creationid="Judy" creationdate="20151202T173243Z">
@@ -62646,6 +62662,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T120608Z" creationid="Judy" creationdate="20151128T120608Z">
         <seg>取消操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To carry out a dynamic analysis, first you must select a format through the next screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T153609Z" creationid="Judy" creationdate="20151203T153609Z">
+        <seg>進行動態分析前必須先於下一個畫面中選擇一個格式，</seg>
       </tuv>
     </tu>
     <tu>
