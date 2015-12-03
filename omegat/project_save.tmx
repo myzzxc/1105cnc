@@ -21524,6 +21524,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 48</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154409Z" creationid="Judy" creationdate="20151203T154409Z">
+        <seg>圖 48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure  3.21.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152041Z" creationid="Judy" creationdate="20151129T152041Z">
@@ -21772,10 +21780,26 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.28.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T153717Z" creationid="Judy" creationdate="20151203T153717Z">
+        <seg>圖 3.28 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132842Z" creationid="Judy" creationdate="20151128T132842Z">
         <seg>圖 3.3 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.30.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154041Z" creationid="Judy" creationdate="20151203T154041Z">
+        <seg>圖 3.30 </seg>
       </tuv>
     </tu>
     <tu>
@@ -40229,6 +40253,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the format has been chosen, the machine shows the dynamic analysis and keeps waiting for the activation of the photocell to be able of analyzing the weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154014Z" creationid="Judy" creationdate="20151203T154014Z">
+        <seg>一旦選定格式後，機台顯示動態分析並等待光電感應器啟動以分析重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the trucks have been loaded, the data log must be started so that a record is kept of the environmental conditions throughout the journey.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051845Z">
@@ -49424,6 +49456,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T062045Z">
         <seg>選擇、重新排序、刪除或合併圖層，檢視和修改圖層屬性，以及控制列印圖層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selecting Dynamic Analysis Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T153721Z" creationid="Judy" creationdate="20151203T153721Z">
+        <seg>選擇動態分析格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -60232,6 +60272,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then two graphics are shown, the weight graphic marked in blue color, and the photocell signal graphic marked in red color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154546Z" creationid="Judy" creationdate="20151203T154546Z">
+        <seg>接著將顯示兩條曲線，重量曲線圖為藍色，而光電訊號曲線為紅色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There also remain major uncertainties about the amount of water required to meet the demand for food, energy and other human uses, and to sustain ecosystems.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T085557Z">
@@ -61942,6 +61990,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen allows the user to view the weighting behavior of a pack, when the photocell detects the passage of a pack with real dimensions and at a normal work speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154319Z" creationid="Judy" creationdate="20151203T154319Z">
+        <seg>此畫面能讓使用者於光電感應器偵測包裝實際尺寸和正常工作速度通過時檢視包裝的重量變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This screen includes the fields related to the compensation change.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144925Z">
@@ -63007,6 +63063,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T143522Z">
         <seg>到醫療記錄審查和協作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To perform a dynamic analysis the bands must be running.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154038Z" creationid="Judy" creationdate="20151203T154038Z">
+        <seg>執行動態分析時輸送帶必須運行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65431,6 +65495,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Visualization Weighting Behavior</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154057Z" creationid="Judy" creationdate="20151203T154057Z">
+        <seg>視覺化重量變化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Visualized on the Product Management Map</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122229Z">
@@ -66731,6 +66803,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T130125Z">
         <seg>當拆除可拆式外蓋 290 時能進入空間 292。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When selecting a format, a message appears warning you will take the machine out of production in case you click on “Accept”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T153713Z" creationid="Judy" creationdate="20151203T153713Z">
+        <seg>選擇格式時會顯示機台將會停止生產的警告，此時點擊「Accept (接受)」。</seg>
       </tuv>
     </tu>
     <tu>
