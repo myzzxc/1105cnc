@@ -26473,6 +26473,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If all the process has been successfully performed, you will automatically access the screen 3.28.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T141416Z" creationid="Judy" creationdate="20151203T141416Z">
+        <seg>若已成功執行所有流程，將自動進入 3.28 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an allowance is required, go to the Allowance field and click the      icon on the right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T000853Z">
@@ -51187,6 +51195,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173543Z">
         <seg>靜態分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static adjustment process.Going on in successive steps buttons “Standard Weight” and “Loaded Platform” are being enabled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T141228Z" creationid="Judy" creationdate="20151203T141222Z">
+        <seg>靜態調整流程，依序啟用按鈕「Standard Weight」和「Loaded Platform」，</seg>
       </tuv>
     </tu>
     <tu>
