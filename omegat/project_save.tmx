@@ -33615,6 +33615,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is the weight calculated area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T162354Z" creationid="Judy" creationdate="20151203T162354Z">
+        <seg>其為重量計算區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is the zero calculated area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T162436Z" creationid="Judy" creationdate="20151203T162436Z">
+        <seg>其為歸零計算區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is useless if it is programmed average weight control = YES (Section “Other Options- Internal Data –Feedback”).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T121424Z" creationid="Judy" creationdate="20151201T121424Z">
@@ -58030,6 +58046,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The screen shows 2 vertical broken lines in red color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T162338Z" creationid="Judy" creationdate="20151203T162338Z">
+        <seg>螢幕中顯示 2 條紅色垂直虛線，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The screens system can be viewed as a set of dropdown menus from the main menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101730Z" creationid="Judy" creationdate="20151128T101730Z">
@@ -63688,6 +63712,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T224155Z">
         <seg>將會顯示兩個欄位： Actions (操作) 和 View (查看) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two other vertical broken lines are also shown, these ones in black color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T162427Z" creationid="Judy" creationdate="20151203T162427Z">
+        <seg>也會顯示另外兩條黑色垂直虛線，</seg>
       </tuv>
     </tu>
     <tu>
