@@ -17822,6 +17822,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dynamic Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160611Z" creationid="Judy" creationdate="20151204T160611Z">
+        <seg>動態資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dynamic Zoom does not work when AIS is set to</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125007Z">
@@ -21792,6 +21800,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T153717Z" creationid="Judy" creationdate="20151203T153717Z">
         <seg>圖 3.28 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.29.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160545Z" creationid="Judy" creationdate="20151204T160545Z">
+        <seg>圖 3.29 </seg>
       </tuv>
     </tu>
     <tu>
@@ -27421,6 +27437,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142957Z" creationid="Judy" creationdate="20151128T142957Z">
         <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to change the dynamic data, carry out a weight adjustment or vibrations analysis, click on “Adjustments” key and it will be shown the screen below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160542Z" creationid="Judy" creationdate="20151204T160542Z">
+        <seg>若欲更改動態資料以進行秤重調整或振動分析，點擊「Adjustments (調整)」鍵將顯示以下的畫面：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48603,6 +48627,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Menu Dinamic Analysis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160607Z" creationid="Judy" creationdate="20151204T160607Z">
+        <seg>動態分析功能表畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Programming General Data</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133942Z" creationid="Judy" creationdate="20151129T133855Z">
@@ -61548,6 +61580,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This key allows access a stable simple of static weight</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160324Z" creationid="Judy" creationdate="20151204T160324Z">
+        <seg>此按鍵能進入穩定的單一靜態秤重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This key allows access to view the last current cycle of range in production</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121616Z" creationid="Judy" creationdate="20151128T121236Z">
@@ -61624,6 +61664,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121046Z" creationid="Judy" creationdate="20151128T120750Z">
         <seg>按下此按鍵能隨時跳出畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This key is a direct link to the screen for editing dynamic data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160403Z" creationid="Judy" creationdate="20151204T160403Z">
+        <seg>此按鍵能直接連結到編輯動態資料畫面</seg>
       </tuv>
     </tu>
     <tu>
