@@ -17830,6 +17830,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dynamic Standard: This parameter corresponds to the weight of the sample.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161930Z" creationid="Judy" creationdate="20151204T161930Z">
+        <seg>Dynamic Standard (動態標準)：此參數對應至樣品重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dynamic Zoom does not work when AIS is set to</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125007Z">
