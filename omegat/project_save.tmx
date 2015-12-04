@@ -26667,8 +26667,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If parameter validation involves out of production or disarrange format, the checkweigher will display a previous warning message allowing cancel the action.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124647Z" creationid="Judy" creationdate="20151128T143126Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將顯示前述允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161647Z" creationid="Judy" creationdate="20151128T143126Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27083,24 +27083,24 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing cancel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161546Z" creationid="Judy" creationdate="20151129T133839Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，控制器將先顯示允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161635Z" creationid="Judy" creationdate="20151129T133839Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing canceling.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T151831Z" creationid="Judy" creationdate="20151129T151831Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將顯示前述允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161620Z" creationid="Judy" creationdate="20151129T151831Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing to cancel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134758Z" creationid="Judy" creationdate="20151129T134758Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將顯示前述允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161626Z" creationid="Judy" creationdate="20151129T134758Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56928,6 +56928,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133641Z">
         <seg>Uno電路板的最大長度和寬度分別為2.7和2.1英吋，上述尺寸不包含凸出之USB連接口和電源接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The meaning of the parameters shown on this screen is explained below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161820Z" creationid="Judy" creationdate="20151204T161820Z">
+        <seg>以下為此畫面顯示之功能參數說明：</seg>
       </tuv>
     </tu>
     <tu>
