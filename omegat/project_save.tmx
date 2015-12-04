@@ -27083,8 +27083,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing cancel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133839Z" creationid="Judy" creationdate="20151129T133839Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將顯示前述允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161546Z" creationid="Judy" creationdate="20151129T133839Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，控制器將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27107,8 +27107,16 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the controller will show a previous warning message allowing cancel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125829Z" creationid="Judy" creationdate="20151129T125829Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，控制器將顯示前述允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161455Z" creationid="Judy" creationdate="20151129T125829Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，控制器將先顯示允許取消操作之警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this parameter validation involves going out of production or disarranging the format, the controller will show a previous warning message allowing to cancel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161444Z" creationid="Judy" creationdate="20151204T161444Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，控制器將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27413,6 +27421,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144739Z" creationid="Judy" creationdate="20151129T144739Z">
         <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to change any parameter just select the parameter to be changed in the list and make a single keystroke.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161357Z" creationid="Judy" creationdate="20151204T161357Z">
+        <seg>若想更改任何參數，只需在清單中點擊欲更改之參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40383,8 +40399,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Once you are on the Figure 3.30 screen, you click on the button “Adjustments”and the dynamic analysis menu appears (see Figure 3.31); then you select the button “Dynamic Data” and the following screen is shown.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161018Z" creationid="Judy" creationdate="20151204T161018Z">
-        <seg>當看到圖 3.30 之畫面時screen, you click on the button “Adjustments”and the dynamic analysis menu appears (see Figure 3.31); then you select the button “Dynamic Data” and the following screen is shown.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161315Z" creationid="Judy" creationdate="20151204T161018Z">
+        <seg>當看到圖 3.30 之畫面時，點擊「Adjustments (調整)」按鈕將顯示動態分析功能表 (請見圖 3.31)；接著選擇「Dynamic Data (動態資料)」按鈕以顯示以下畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48655,6 +48671,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133942Z" creationid="Judy" creationdate="20151129T133855Z">
         <seg>一般性資料程式設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Setting Dynamic Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161329Z" creationid="Judy" creationdate="20151204T161329Z">
+        <seg>動態資料設定畫面</seg>
       </tuv>
     </tu>
     <tu>
