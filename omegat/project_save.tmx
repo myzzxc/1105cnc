@@ -31183,6 +31183,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows also to make zooms on the graphic to see the weighting with a better definition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160207Z" creationid="Judy" creationdate="20151204T160207Z">
+        <seg>也能放大圖形以更清楚看見秤重結果，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows another map to be opened through a link, thus making it a map of levels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151223Z">
@@ -62814,6 +62822,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142041Z" creationid="Judy" creationdate="20151128T142041Z">
         <seg>要回到一般功能表畫面必須按下「Esc」按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To come back to the image normal just click on the magnifying glass symbol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160234Z" creationid="Judy" creationdate="20151204T160234Z">
+        <seg>若要回到正常圖像只需點擊放大鏡符號。</seg>
       </tuv>
     </tu>
     <tu>
