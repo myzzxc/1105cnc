@@ -62022,6 +62022,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen allows us to edit the initial and final values for weight and zero, on the weighting action shown in the graphic, as well as the standard weight of this weighting and the difference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T155345Z" creationid="Judy" creationdate="20151204T155345Z">
+        <seg>此畫面可以於圖表上顯示之秤重動作編輯秤重和歸零之初始和最終值，以及此秤重之標準重量和差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This screen includes the fields related to the compensation change.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144925Z">
