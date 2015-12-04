@@ -4620,8 +4620,8 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>A side net assembly for a utility vehicle, where the vehicle includes a frame extending in a generally longitudinal direction, a first seating area at a first longitudinal position relative to the frame and a frame canopy enclosing the first seating area, and defined by a plurality of frame uprights coupled to the frame defining an envelope around the first seating area, a side net assembly comprised of a pivotal bar and a net supported by the pivotal bar, the side net assembly being supported by at least one of the frame uprights and being latchable to at least one of the frame uprights, whereby the side net assembly can be in a latched position when a rider is in the vehicle and can be collapsed to allow ingress and egress of a rider.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T053739Z">
-        <seg>一組多功能越野車之側邊護網組件，其中車輛包含整體上縱向延伸的框架、位於框架最前端的第一座位區以及包覆第一座位區的框架蓬、由多根連接至框架隻框架立柱所圍成之第一座位區包覆、包含一根樞軸桿和由樞軸桿支撐之護網所組成之側邊護網組件，側邊護網組件由至少一根框架立柱支撐且可鎖定於至少一根框架立柱上，當乘客位於車內時側邊護網組件可置於鎖定位置，並可摺疊以便駕駛進出。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161042Z">
+        <seg>一組多功能越野車之側邊護網組件，其中車輛包含整體上縱向延伸的框架、位於框架最前端的第一座位區以及包覆第一座位區的框架蓬、由多根連接至框架之框架立柱所圍成之第一座位區包覆、包含一根樞軸桿和由樞軸桿支撐之護網所組成之側邊護網組件，側邊護網組件由至少一根框架立柱支撐且可鎖定於至少一根框架立柱上，當乘客位於車內時側邊護網組件可置於鎖定位置，並可摺疊以便駕駛進出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40357,6 +40357,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once this menu is open you select the “Dynamic Analysis” option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160940Z" creationid="Judy" creationdate="20151204T160940Z">
+        <seg>當此功能表開啟後選擇「Dynamic Analysis (動態分析)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once we have all these object pixels, they are grouped together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104404Z">
@@ -40369,6 +40377,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025526Z">
         <seg>當完成所需參數的準備後，便可以將套裝程式發佈給終端使用者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you are on the Figure 3.30 screen, you click on the button “Adjustments”and the dynamic analysis menu appears (see Figure 3.31); then you select the button “Dynamic Data” and the following screen is shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161018Z" creationid="Judy" creationdate="20151204T161018Z">
+        <seg>當看到圖 3.30 之畫面時screen, you click on the button “Adjustments”and the dynamic analysis menu appears (see Figure 3.31); then you select the button “Dynamic Data” and the following screen is shown.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62462,6 +62478,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thus the dropdown menu for adjustment appears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160919Z" creationid="Judy" creationdate="20151204T160919Z">
+        <seg>此時將顯示下拉式功能表，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus the next screen to change the password for a given user will be displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132414Z" creationid="Judy" creationdate="20151128T132414Z">
@@ -68772,6 +68796,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124502Z" creationid="Judy" creationdate="20151128T133701Z">
         <seg>可以由第一組下拉選單之「General Menu (一般功能表)」中，點擊「Change Format (更改格式)」按鈕進入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can access this screen from the general menu selecting the button “Pack Adjustments”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160854Z" creationid="Judy" creationdate="20151204T160748Z">
+        <seg>若要進入此畫面可由一般功能表點擊「Pack Adjustments (包裝調整)」按鈕，</seg>
       </tuv>
     </tu>
     <tu>
