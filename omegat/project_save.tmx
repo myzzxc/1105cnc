@@ -264,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>(3) Phases of 380V  AC + Neutral + Earth</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051038Z" creationid="Judy" creationdate="20151128T051038Z">
-        <seg>(3) 相 380V AC + 中性線  + 地線</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T155913Z" creationid="Judy" creationdate="20151128T051038Z">
+        <seg>(3) 相 380V AC + 零線  + 地線</seg>
       </tuv>
     </tu>
     <tu>
@@ -10606,6 +10606,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T130953Z">
         <seg>將結構性和非結構性洪水管理的方法相結合則特別符合成本效益。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Board 2.1 Board of electronic supplies</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T155834Z" creationid="Judy" creationdate="20151204T155834Z">
+        <seg>標示牌 2.1 電源供應標示牌</seg>
       </tuv>
     </tu>
     <tu>
@@ -26635,8 +26643,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If other than the usual operating way is observed during the validity period and under the certificate conditions, VARPE recommends you to contact our Technical Support.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T030830Z" creationid="Judy" creationdate="20151128T030721Z">
-        <seg>若有效期內於人證環境條件中運作發生異常，建議與 VARPE 之技術支援部門聯繫。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T155721Z" creationid="Judy" creationdate="20151128T030721Z">
+        <seg>若有效期內於認證環境條件之下運作發生異常，建議與 VARPE 之技術支援部門聯繫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27283,8 +27291,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If you have neutral it shall be connected to the lead called N at the bottom of it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050738Z" creationid="Judy" creationdate="20151128T050738Z">
-        <seg>若具有中性線則必須連接至其底部之 N 接頭。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T155908Z" creationid="Judy" creationdate="20151128T050738Z">
+        <seg>若具有零線則必須連接至其底部之 N 接頭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27740,8 +27748,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In 380V lines the neutral must be connected to the lead N. If there is a bridge between the leads N and W it must be removed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051401Z" creationid="Judy" creationdate="20151128T051401Z">
-        <seg>380V 之中性線必須連接至 N 接點，若 N 和 W 接點之間具有橋接則需拆除。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T155924Z" creationid="Judy" creationdate="20151128T051401Z">
+        <seg>380V 之零線必須連接至 N 接點，若 N 和 W 接點之間具有橋接則需拆除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57046,8 +57054,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The neutral of the 220V lines shall not be connected to the lead N. The N and W leads shall be united together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051253Z" creationid="Judy" creationdate="20151128T051253Z">
-        <seg>220V 之中性線不應連接至 N 接點，N 和 W 接點需連接在一起。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T155917Z" creationid="Judy" creationdate="20151128T051253Z">
+        <seg>220V 之零線不應連接至 N 接點，N 和 W 接點需連接在一起。</seg>
       </tuv>
     </tu>
     <tu>
