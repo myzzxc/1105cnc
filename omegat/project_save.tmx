@@ -1440,6 +1440,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Check that the compressed air pressure and volume are those required for installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060139Z" creationid="Judy" creationdate="20151205T060106Z">
+        <seg>- 檢查壓縮空氣壓力和容量符合安裝需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Check that the network is capable of supporting the machine's consumption.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060109Z" creationid="Judy" creationdate="20151205T060104Z">
+        <seg>- 檢查電網能夠供應機器之消耗功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Cross Cutting Section</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153818Z">
@@ -1452,6 +1468,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153542Z">
         <seg>- 交叉折疊單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Disconnect the machine's voltage switch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060247Z" creationid="Judy" creationdate="20151205T060155Z">
+        <seg>- 切斷機器之電源開關。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1476,6 +1500,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T140604Z">
         <seg>- 在職訓練:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Position the compressed air key to ensure disconnection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060310Z" creationid="Judy" creationdate="20151205T060227Z">
+        <seg>- 確保切斷壓縮空氣開關。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6405,6 +6437,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055545Z">
         <seg>注滿水後靜待約 5 分鐘使空氣排出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After positioning and cleaning the machine, it must be connected to the electrical and pneumatic networks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055755Z" creationid="Judy" creationdate="20151205T055755Z">
+        <seg>定位和清潔機台後，必須將其連接至電氣和氣動迴路，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17676,6 +17716,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disinfect and air dry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055626Z" creationid="Judy" creationdate="20151205T055626Z">
+        <seg>消毒並常溫乾燥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Displaying fields for location and contact information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T102200Z">
@@ -17824,6 +17872,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125134Z">
         <seg>請勿將攝影機進入溫泉或超過 40ºC 的水中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not use chemicals containing acid, bleach or abrasive products.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055544Z" creationid="Judy" creationdate="20151205T055544Z">
+        <seg>請勿使用含有酸、漂白劑或磨料之化學物質。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18436,6 +18492,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T140209Z">
         <seg>編輯職位需求申請</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ELECTRIC AND PNEUMATIC CONNECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055656Z" creationid="Judy" creationdate="20151205T055656Z">
+        <seg>電氣和氣動連接</seg>
       </tuv>
     </tu>
     <tu>
@@ -45622,6 +45686,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Procedure:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060027Z" creationid="Judy" creationdate="20151205T060027Z">
+        <seg>步驟：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Process</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122806Z" creationid="Judy" creationdate="20151128T122743Z">
@@ -48057,6 +48129,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove soap residue by rinsing thoroughly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055604Z" creationid="Judy" creationdate="20151205T055604Z">
+        <seg>徹底清洗殘留之肥皂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing one or more of the rear seats may be desired if extra storage space is required and the space is not required for a rider.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T020020Z">
@@ -48077,6 +48157,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091435Z">
         <seg>更換損壞或有缺陷之碟形彈簧墊片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace the protective covers after cleaning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055644Z" creationid="Judy" creationdate="20151205T055644Z">
+        <seg>清洗後更換保護蓋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50183,6 +50271,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T013937Z">
         <seg>確保交貨計畫：文件中訂定之所有規範，由供應商對任何供應或交付違約所進行之補救。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter "1.2 Main Characteristics," listing the machine requirements or consult the technical data plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060021Z" creationid="Judy" creationdate="20151205T060021Z">
+        <seg>請見章節「1.2 主要特性」所列之機台需求或依技術資料標識牌所示。</seg>
       </tuv>
     </tu>
     <tu>
