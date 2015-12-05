@@ -23207,6 +23207,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fix the positioner reel and place correctly the reel end detector.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070223Z" creationid="Judy" creationdate="20151205T070223Z">
+        <seg>安裝卷筒定位器並正確放置卷筒末端感測器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fixed, pre- tensioned (0.04mm) baflscrews minimize thermal growth, enhance rigidity, stability, and precision of the machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T131200Z">
@@ -37307,10 +37315,26 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the indicated measurement is roughly the same on both sides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070120Z" creationid="Judy" creationdate="20151205T070120Z">
+        <seg>確保兩側之間隙大致上相同，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure the product being treated is the planned format.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065304Z" creationid="Judy" creationdate="20151205T065256Z">
         <seg>確保加工之產品為設定之格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the reel cannot move sideways.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070243Z" creationid="Judy" creationdate="20151205T070243Z">
+        <seg>確保卷筒無法側向移動，</seg>
       </tuv>
     </tu>
     <tu>
@@ -57627,6 +57651,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The centre of the reel must be aligned with the centre of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070136Z" creationid="Judy" creationdate="20151205T070136Z">
+        <seg>卷筒中心必須與機器的中心對齊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The challenges at the interface of water and sustainable development vary from one region to another.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T083140Z">
@@ -60106,6 +60138,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183916Z">
         <seg>初始部份交貨記錄必須存檔至少 15 年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reel shaft has an (expansive) gripping system that is driven by pressurised air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070338Z" creationid="Judy" creationdate="20151205T070338Z">
+        <seg>卷筒軸具有由壓縮空氣驅動的 (可動式) 夾持系統，</seg>
       </tuv>
     </tu>
     <tu>
