@@ -18172,10 +18172,26 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not do anything if you are unsure of the consequences.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145733Z" creationid="Judy" creationdate="20151205T145733Z">
+        <seg>請勿進行任何無法確定結果之操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not exceed the design pressure shown on the assembly drawing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140042Z">
         <seg>請勿超過裝配總圖所列之設計壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not produce more than the recommended amount.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145631Z" creationid="Judy" creationdate="20151205T145631Z">
+        <seg>請勿生產超過建議之數量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18192,6 +18208,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055544Z" creationid="Judy" creationdate="20151205T055544Z">
         <seg>請勿使用含有酸、漂白劑或磨料之化學物質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not use mobile telephones inside the control room.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145605Z" creationid="Judy" creationdate="20151205T145605Z">
+        <seg>請勿於控制室中使用行動電話。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39975,6 +39999,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never clean the machine when it is in operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145436Z" creationid="Judy" creationdate="20151205T145436Z">
+        <seg>機台操作時請勿進行清潔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Never destroy the safety devices.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145410Z" creationid="Judy" creationdate="20151205T145357Z">
@@ -39995,6 +40027,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025405Z" creationid="Judy" creationdate="20151205T025405Z">
         <seg>不得將工具、零件或其它物體留置於機台中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never overfeed the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145537Z" creationid="Judy" creationdate="20151205T145537Z">
+        <seg>請勿供給過多原料至機台。</seg>
       </tuv>
     </tu>
     <tu>
