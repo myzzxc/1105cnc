@@ -23087,6 +23087,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fit the paper reels and unwind the paper passing it through the unwinder unit to the drag unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061957Z" creationid="Judy" creationdate="20151205T061957Z">
+        <seg>安裝紙卷軸並將紙拉出穿過開卷裝置至抽拉機組，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Five</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181627Z">
@@ -50555,6 +50563,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See chapter “1.6 Thermosealing foil installation”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062103Z" creationid="Judy" creationdate="20151205T062034Z">
+        <seg>請見章節「1.6 熱封箔片安裝」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See more in the figure: Language specific transform files.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034222Z">
@@ -58676,6 +58692,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The machine must previously be supplied with all the materials required to make the sachets:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061838Z" creationid="Judy" creationdate="20151205T061838Z">
+        <seg>必須預先提供製造包裝所需的所有材料於機器上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine options have been divided into 5 sections:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z">
@@ -62514,8 +62538,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Thermo-sealing foil installation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021322Z" creationid="Judy" creationdate="20151205T021137Z">
-        <seg>熱封片安裝</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062050Z" creationid="Judy" creationdate="20151205T021137Z">
+        <seg>熱封箔片安裝</seg>
       </tuv>
     </tu>
     <tu>
