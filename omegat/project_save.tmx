@@ -6689,6 +6689,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm and recovery list</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023339Z" creationid="Judy" creationdate="20151205T023339Z">
+        <seg>警報和回復清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm events directed only for specific Users or Group of Users.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T125917Z">
@@ -11424,6 +11432,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023042Z">
         <seg>光碟內容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CE Declaration of conformity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023427Z" creationid="Judy" creationdate="20151205T023427Z">
+        <seg>CE 符合性聲明</seg>
       </tuv>
     </tu>
     <tu>
@@ -21415,6 +21431,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071754Z">
         <seg>更快速的索引、搜尋和組合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Faulty sealing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023205Z" creationid="Judy" creationdate="20151205T023150Z">
+        <seg>錯誤封裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -36890,6 +36914,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical diagrams</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023352Z" creationid="Judy" creationdate="20151205T023352Z">
+        <seg>機械設計圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical maintenance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021631Z" creationid="Judy" creationdate="20151205T021552Z">
@@ -43826,6 +43858,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pneumatic diagrams</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023411Z" creationid="Judy" creationdate="20151205T023411Z">
+        <seg>氣動管路途</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pneumatic vacuum valves are an option that easily allows the opening and closing of vacuum zones on your CNC Router, without repeatedly turning the ball valves on and off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T072152Z">
@@ -44046,6 +44086,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123847Z">
         <seg>可能變更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possible problems, causes and solutions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023130Z" creationid="Judy" creationdate="20151205T023130Z">
+        <seg>可能出現的問題、原因和解決方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -51393,6 +51441,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
         <seg>Spare Parts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015634Z">
+        <seg>備品零件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spare parts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023342Z" creationid="Judy" creationdate="20151205T023342Z">
         <seg>備品零件</seg>
       </tuv>
     </tu>
@@ -64849,6 +64905,38 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021334Z" creationid="Judy" creationdate="20151205T021334Z">
         <seg>不當使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uneven foil unwinding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023307Z" creationid="Judy" creationdate="20151205T023307Z">
+        <seg>箔片開卷不均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uneven product dosing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023327Z" creationid="Judy" creationdate="20151205T023327Z">
+        <seg>產品給料不均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uneven stick length</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023229Z" creationid="Judy" creationdate="20151205T023229Z">
+        <seg>膠合長度不均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uneven stick width</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023222Z" creationid="Judy" creationdate="20151205T023222Z">
+        <seg>膠合寬度不均</seg>
       </tuv>
     </tu>
     <tu>
