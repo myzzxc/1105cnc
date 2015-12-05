@@ -24249,6 +24249,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the device to start the productive cycle for the first time or after any change in format, it must be ensured that the machine is suitably adjusted to the format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T080003Z" creationid="Judy" creationdate="20151205T080003Z">
+        <seg>開始生產週期首次或之後的任何更改格式的設備，必須保證這台機器適當地調整為格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the machine to work in production a dynamic adjustment is needed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101458Z" creationid="Judy" creationdate="20151128T101458Z">
@@ -50142,6 +50150,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STARTING PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075936Z" creationid="Judy" creationdate="20151205T075936Z">
+        <seg>開始生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STATIONARY END</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053019Z">
@@ -53595,6 +53611,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T032635Z" creationid="Judy" creationdate="20151128T032632Z">
         <seg>啟動按鈕：其為綠色，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting a Productive Cycle for the First Time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T080009Z" creationid="Judy" creationdate="20151205T075956Z">
+        <seg>首次開始生產循環</seg>
       </tuv>
     </tu>
     <tu>
@@ -69907,6 +69931,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085622Z" creationid="Judy" creationdate="20151128T085622Z">
         <seg>當讀取完成後，將顯示一般選項 (General Menu) 畫面 (圖 2.2.)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the machine is started, the horizontal sealer must take all of the foil strips and pull or drag them vertically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075931Z" creationid="Judy" creationdate="20151205T075931Z">
+        <seg>機器啟動時，水平封裝機必須能垂直推動或拉動所有的直條箔片。</seg>
       </tuv>
     </tu>
     <tu>
