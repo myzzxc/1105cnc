@@ -18204,6 +18204,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not try to change the machine's programme if you are not authorized</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145809Z" creationid="Judy" creationdate="20151205T145809Z">
+        <seg>若您未被授權，請勿試圖更改機台程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not use chemicals containing acid, bleach or abrasive products.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055544Z" creationid="Judy" creationdate="20151205T055544Z">
@@ -18216,6 +18224,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145605Z" creationid="Judy" creationdate="20151205T145605Z">
         <seg>請勿於控制室中使用行動電話。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not work in the control cabinet if you do not have the proper training or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T150046Z" creationid="Judy" creationdate="20151205T150042Z">
+        <seg>未經合格訓練或不具操作知識請勿操作控制箱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35944,6 +35960,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130420Z">
         <seg>刀具切削解決方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Knowledge for such work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T150051Z" creationid="Judy" creationdate="20151205T150051Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
