@@ -24315,8 +24315,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For the installation to start a normal productive cycle, press RESET and then press RUN.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083642Z" creationid="Judy" creationdate="20151205T083642Z">
-        <seg>安裝後啟動生產循環，按下重置按鈕後再按下運行按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083739Z" creationid="Judy" creationdate="20151205T083642Z">
+        <seg>啟動正常生產循環，按下重置按鈕後再按下運行按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30977,6 +30977,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T163534Z">
         <seg>於此情況下，將需要一個新的專業知識以進行分析，考慮到缺陷產品生產與退回週期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, the machine does not stop immediately, but will do so at a pre-set point of the sachet formation cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083942Z" creationid="Judy" creationdate="20151205T083942Z">
+        <seg>此時機台不會立即停止，將在完成預先設定之包裝成形循環點後停止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54047,6 +54055,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stopping the Productive Process</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083718Z" creationid="Judy" creationdate="20151205T083718Z">
+        <seg>停止生產流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Storage of such work documentation will follow procedures from the Quality Control department.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062840Z">
@@ -66271,6 +66287,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085201Z" creationid="Judy" creationdate="20151128T085201Z">
         <seg>若要啟動機台，按下位於檢重機側邊之運行按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To stop the installation, press STOP (synchronised stop) on the control panel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083815Z" creationid="Judy" creationdate="20151205T083815Z">
+        <seg>若要停止生產，請按下控制面板上的停止 (同步停止) 按鈕。</seg>
       </tuv>
     </tu>
     <tu>
