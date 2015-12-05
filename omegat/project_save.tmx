@@ -11933,6 +11933,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carefully read the manual before installing, adjusting or altering the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025028Z" creationid="Judy" creationdate="20151205T025028Z">
+        <seg>安裝、調整或修改機器前請仔細閱讀本手冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cargo carrying portion 210 is positioned rearward of an operator area 212.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T101944Z">
@@ -24244,6 +24252,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GENERAL SAFETY RECOMMENDATIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T024945Z" creationid="Judy" creationdate="20151205T024945Z">
+        <seg>一般安全建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GENERAL SCOPE OF SERVICE:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T135945Z">
@@ -24388,6 +24404,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T021422Z">
         <seg>監控和錄影軟體之一般說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T024941Z" creationid="Judy" creationdate="20151205T024941Z">
+        <seg>一般資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -57460,6 +57484,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The machine has built-in automatic safety measures in order to eliminate risks to operators.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025144Z" creationid="Judy" creationdate="20151205T025144Z">
+        <seg>機器中設有自動的安全措施以消除操作的風險，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine options have been divided into 5 sections:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z">
@@ -57496,6 +57528,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152602Z" creationid="Judy" creationdate="20151124T152602Z">
         <seg>控制器的主要零件為：輸送系統、秤重感應器和電子設備：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The manual contains important information and recommendations for correct adjustment and maintenance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025100Z" creationid="Judy" creationdate="20151205T025100Z">
+        <seg>手冊中包含了正確調整和維護的重要資訊和建議。</seg>
       </tuv>
     </tu>
     <tu>
