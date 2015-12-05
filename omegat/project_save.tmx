@@ -18428,6 +18428,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During trawl the lower seal, the dose is inserted and ends with the top seal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064715Z" creationid="Judy" creationdate="20151205T064606Z">
+        <seg>抽取下方密封時填料，接著進行上方密封，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During video export, the name of the company and operator's information may be automatically filled in by the system, recording them on the exported media.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T145833Z">
@@ -57287,6 +57295,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T194218Z">
         <seg>投標書中必須清楚指出影響產品成本的關鍵元素，或條列出產品不同元件之成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The blades between horizontal sealers make the horizontal cut.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064713Z" creationid="Judy" creationdate="20151205T064713Z">
+        <seg>水平密封機之間的刀片進行水平裁切。</seg>
       </tuv>
     </tu>
     <tu>
