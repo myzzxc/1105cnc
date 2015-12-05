@@ -12133,6 +12133,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change of filler</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021415Z" creationid="Judy" creationdate="20151205T021415Z">
+        <seg>更換填料機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change of status in the panel, usually to "New Business Hold"</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T162508Z">
@@ -35555,6 +35563,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lock operating mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021512Z" creationid="Judy" creationdate="20151205T021512Z">
+        <seg>鎖定操作模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log in as an Administrator.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114356Z">
@@ -43057,6 +43073,22 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Personal protective equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021456Z" creationid="Judy" creationdate="20151205T021431Z">
+        <seg>人身防護裝備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Personal safety functions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021506Z" creationid="Judy" creationdate="20151205T021439Z">
+        <seg>人身安全功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phillip A. Nowacki, White Bear Lake, MN (US); Brian R. Gillingham, Osceola, WI (US); Tracy S. Kofstad, Roseau, MN (US); Mark A. Smith, Pulaski, WI (US); Curtis R. Kjaer, Roseau, MN (US); Stephen L. Nelson, Osceola, WI (US); Keith A. Hollman, Osceola, WI (US); Jerome J. Rubatt, Stacy, MN (US); Adam J. Schlangen, Rush City, MN (US)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151119T141907Z">
@@ -49035,6 +49067,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Security and preventive maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021426Z" creationid="Judy" creationdate="20151205T021426Z">
+        <seg>安全和預防性維修</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SecurityPlan: Document specifying all the provisions to be implemented by the Supplier to remedy any supply or delivery default.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T013937Z">
@@ -51455,6 +51495,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021327Z" creationid="Judy" creationdate="20151205T021327Z">
+        <seg>開始生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Static Adjustment Process</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T175246Z" creationid="Judy" creationdate="20151202T175246Z">
@@ -51627,6 +51675,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062418Z">
         <seg>物體停止：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stopping production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021329Z" creationid="Judy" creationdate="20151205T021329Z">
+        <seg>停止生產</seg>
       </tuv>
     </tu>
     <tu>
@@ -60714,8 +60770,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Thermo-sealing foil installation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021137Z" creationid="Judy" creationdate="20151205T021137Z">
-        <seg>熱封膜安裝</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021322Z" creationid="Judy" creationdate="20151205T021137Z">
+        <seg>熱封片安裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -64409,6 +64465,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T110955Z">
         <seg>藉由模組化的協助以了解企業績效與潛能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undue use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021334Z" creationid="Judy" creationdate="20151205T021334Z">
+        <seg>不當使用</seg>
       </tuv>
     </tu>
     <tu>
