@@ -11724,6 +11724,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By pressing this button, NON SYNCHRONISED detection of the installation is performed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T143956Z" creationid="Judy" creationdate="20151205T143956Z">
+        <seg>按下此按鈕將執行非同步安裝檢測，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By simply changing the spacer 484, various combinations of power source 130</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034520Z">
@@ -50318,6 +50326,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>START after an EMERGENCY Stop</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144103Z" creationid="Judy" creationdate="20151205T144103Z">
+        <seg>緊急停止後啟動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>START-UP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T132512Z">
@@ -58731,6 +58747,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The electrical current turns of and the flow of the pneumatic circuit is immediately interrupted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144044Z" creationid="Judy" creationdate="20151205T144044Z">
+        <seg>電流和氣動迴路將立即被切斷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The electrician must install an earthing rod within 2m of the router table and connect it to the machine grounding post.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090301Z">
@@ -66287,6 +66311,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T125653Z">
         <seg>若要將懸臂 526B 從車輛 100 上拆除，需將後部 534B 固定至軸承載具 536B 之緊固件拆除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To reset the productive process, press the emergency button to release it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144147Z" creationid="Judy" creationdate="20151205T144147Z">
+        <seg>若要重置生產流程，釋放緊急按鈕。</seg>
       </tuv>
     </tu>
     <tu>
