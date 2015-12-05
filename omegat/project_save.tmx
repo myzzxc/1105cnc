@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'DOOR-OPEN' AUTOMATIC STOP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145118Z" creationid="Judy" creationdate="20151205T145118Z">
+        <seg>「機門開啟」自動停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>( * ) Notice:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T122626Z">
@@ -6573,6 +6581,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062439Z" creationid="Judy" creationdate="20151205T062439Z">
         <seg>改正警報情況後，再按一次重置按鈕以檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After correcting the cause of the alarm press the RESET button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145033Z" creationid="Judy" creationdate="20151205T145033Z">
+        <seg>去除警報的原因後按下重置按鈕，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18584,6 +18600,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144644Z" creationid="Judy" creationdate="20151205T144644Z">
         <seg>正常生產操作期間，可能觸發某些警報，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the production process a door may open.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145137Z" creationid="Judy" creationdate="20151205T145137Z">
+        <seg>生產過程中機門可能會打開，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31045,6 +31069,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case the production of the affected stick pack machine is interrupted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145223Z" creationid="Judy" creationdate="20151205T145223Z">
+        <seg>在這種情況下，受影響之直條包裝機生產將中斷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, a new expertise level will be required which takes into account the period between the production of the defective product and its return for analysis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T163534Z">
@@ -37627,6 +37659,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure no alarm signal appears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145057Z" creationid="Judy" creationdate="20151205T145057Z">
+        <seg>確保沒有出現警報訊號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure that the target folder is shared over the network and accessible for all users.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000322Z">
@@ -39931,6 +39971,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132434Z">
         <seg>網路部署選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never destroy the safety devices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145410Z" creationid="Judy" creationdate="20151205T145357Z">
+        <seg>請勿破壞安全裝置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59308,6 +59356,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The front machine access doors have a 'door-open' detector.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145300Z" creationid="Judy" creationdate="20151205T145300Z">
+        <seg>前機門具有一個「開門」感測器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fundamental aim for Africa is to achieve durable and vibrant participation in the global economy while developing its natural and human resources without repeating the negatives experienced on the development paths of some other regions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T084333Z">
@@ -66403,6 +66459,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To resume production after it was topped due to an open door, press RESET and then RUN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145346Z" creationid="Judy" creationdate="20151205T145346Z">
+        <seg>因機門開啟而停止後需回復生產，按下重置按鈕後再按下運行按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To resume work on an already existing transform file, click Load Transform...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021009Z">
@@ -67305,6 +67369,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T120332Z">
         <seg>了解 WORKDAY 重要用語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNDUE USE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145353Z" creationid="Judy" creationdate="20151205T145353Z">
+        <seg>不當使用</seg>
       </tuv>
     </tu>
     <tu>
