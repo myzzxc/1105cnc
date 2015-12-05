@@ -6785,6 +6785,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Rights Reserved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023442Z" creationid="Judy" creationdate="20151205T023442Z">
+        <seg>版權所有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Router Tables equipped with air tools come prefitted with a water filter/separator (Please see picture below).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T084633Z">
@@ -36263,6 +36271,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020055Z" creationid="Judy" creationdate="20151205T020055Z">
         <seg>機台序號：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Made in Catalonia</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023533Z" creationid="Judy" creationdate="20151205T023533Z">
+        <seg>西班牙加泰隆尼亞製造</seg>
       </tuv>
     </tu>
     <tu>
