@@ -11596,6 +11596,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONTENTS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020927Z" creationid="Judy" creationdate="20151205T020927Z">
+        <seg>目錄：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONTRACT TEXT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T134453Z">
@@ -12241,6 +12249,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070620Z">
         <seg>檢查管道由外管輸水至內管之管道口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checked by:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020918Z" creationid="Judy" creationdate="20151205T020918Z">
+        <seg>審查人員：</seg>
       </tuv>
     </tu>
     <tu>
@@ -38054,6 +38070,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NB: Due to the fact that our equipment is in a constant process of upgrading, some pictures in this manual might not be entirely correct; at the same time, ARANOW reserves the right to modify the content of this publication without prior notice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020856Z" creationid="Judy" creationdate="20151205T020856Z">
+        <seg>註：由於我們的設備不斷進行升級，本手冊中的某些圖片可能不完全正確；同時，ARANOW 有權進行修改本出版物的內容，恕不另行通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NEG Trend Limit: This parameter is only taken into account in case of working with Average Weight Control activated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153131Z" creationid="Judy" creationdate="20151129T153131Z">
@@ -40867,6 +40891,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100011Z">
         <seg>營運</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operations Manager</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020923Z" creationid="Judy" creationdate="20151205T020923Z">
+        <seg>業務經理</seg>
       </tuv>
     </tu>
     <tu>
@@ -56944,6 +56976,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152602Z" creationid="Judy" creationdate="20151124T152602Z">
         <seg>控制器的主要零件為：輸送系統、秤重感應器和電子設備：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The manual has been drawn up specifically according to CEE 89/392 and its successive modifications CEE 98/37 and 2006/42/CE.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020719Z" creationid="Judy" creationdate="20151205T020719Z">
+        <seg>本手冊專門根據 CEE 89/392 和其後續修正 CEE 98/37 和 2006年/42/CE  所制定。</seg>
       </tuv>
     </tu>
     <tu>
