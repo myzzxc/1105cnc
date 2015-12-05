@@ -28057,6 +28057,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the normal productive cycle has been stopped by pressing the Stop button (Synchronised Stop) and production is to be restarted, press RESET and then RUN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T143757Z" creationid="Judy" creationdate="20151205T143757Z">
+        <seg>若按下停止按鈕 (同步停止) 停止正常生產循環後需重新啟動生產，按下重置按鈕後再按下運行按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the parameter was set with the option NOT, then there is no possibility of making lists.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132544Z" creationid="Judy" creationdate="20151129T132303Z">
@@ -30633,6 +30641,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T085912Z">
         <seg>在 1990 年代初期，我是斯德哥爾摩皇家技術研究所和 IVF.* 研究團隊中的一員，我們研究模塊化背後的驅動力以及模塊化如何被成功地被 Sony、Honda 以及 Scania 用於產品設計、開發和行銷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the event of   IMMEDIATE DANGER   it is absolutely necessary to stop the productive process by pressing the EMERGENCY button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T143906Z" creationid="Judy" creationdate="20151205T143902Z">
+        <seg>發生立即性危險時絕對有必要按下緊急停止按鈕以停止生產流程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53815,6 +53831,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting after a Synchronised Stop</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T143634Z" creationid="Judy" creationdate="20151205T143634Z">
+        <seg>同步停止後啟動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting production</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021327Z" creationid="Judy" creationdate="20151205T021327Z">
@@ -56602,6 +56626,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T033721Z">
         <seg>自訂工具組檔案位於光碟 Tools 資料夾中 (.\Tools\CustomKit\CustomizationKit.exe)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The EMERGENCY STOP button must only be used when there is a risk, not to stop the machine normally.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T143547Z" creationid="Judy" creationdate="20151205T143547Z">
+        <seg>緊急停止按鈕功能只能於具有危險的狀況下使用，不用於正常的機台停止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68030,6 +68062,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the EMERGENCY STOP button as a means of stopping the machine normally can cause damage to electrical equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T143619Z" creationid="Judy" creationdate="20151205T143616Z">
+        <seg>使用緊急停止按鈕作為正常停機的方式可能導致電氣設備損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the hydrostatic pump increase the pressure back to the final test pressure.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014754Z">
@@ -74796,6 +74836,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034837Z">
         <seg>不顯示任何使用者介面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stopping the Productive Process in the event of EMERGENCY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T143811Z" creationid="Judy" creationdate="20151205T143811Z">
+        <seg>緊急停止生產流程</seg>
       </tuv>
     </tu>
     <tu>
