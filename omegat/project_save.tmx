@@ -14919,6 +14919,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm that the electric network installation which the machine will connect to is appropriate and able to support the power of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035953Z" creationid="Judy" creationdate="20151205T035953Z">
+        <seg>確認將供應至機器的電網合適且足以提供機器所需的功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirmation of the bond/slip force relationship in accordance with Section 10.4.9.2 is required if a torque-controlled adhesive anchor system is to be evaluated with Table 3.6.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T150327Z">
@@ -41575,6 +41583,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operations for the removal and transport of the stick pack machine must be performed by a qualified technician.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040035Z" creationid="Judy" creationdate="20151205T040035Z">
+        <seg>直條包裝機之拆除和運輸必須由合格的技術人員進行操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operator area 212 includes seating 211 and a plurality of operator controls.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102028Z">
@@ -66835,6 +66851,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160955Z">
         <seg>確認 Microsoft Office 2013 出現在開始功能表中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify that the area on which the machine will be placed upon is designed to support the weight of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035820Z" creationid="Judy" creationdate="20151205T035820Z">
+        <seg>確認機器放置的區域能承受機器的重量。</seg>
       </tuv>
     </tu>
     <tu>
