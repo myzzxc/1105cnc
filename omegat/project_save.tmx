@@ -16600,6 +16600,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cut an inclined slit in the paper, as seen in the figure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074107Z" creationid="Judy" creationdate="20151205T074107Z">
+        <seg>如圖所示斜切紙片，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut implementation time</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T133230Z">
@@ -18408,6 +18416,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022239Z">
         <seg>車輛 100 運作期間，導向驅動元件 400 和被驅動元件 402 之空氣量可能會改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During paper installation it is recommended to disconnect DOSING SYSTEM (product), HORIZONTAL SEALING (temperature) AND VERTICAL SEALING (temperature) from the selector’s screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T073942Z" creationid="Judy" creationdate="20151205T073942Z">
+        <seg>安裝紙片過程中，建議由開關畫面中切斷給料系統 (產品)、水平密封 (溫度) 和垂直密封 (溫度) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20810,6 +20826,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FACE INTERNAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T073824Z" creationid="Judy" creationdate="20151205T073824Z">
+        <seg>內面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FASTER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132852Z">
@@ -22368,6 +22392,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033259Z" creationid="Judy" creationdate="20151128T033259Z">
         <seg>圖 1.1 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074000Z" creationid="Judy" creationdate="20151205T074000Z">
+        <seg>圖 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -37419,6 +37451,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Makes installation easy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074126Z" creationid="Judy" creationdate="20151205T074126Z">
+        <seg>可較輕鬆安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Malfunction due to misuse by the customer is not covered by warranty.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125101Z">
@@ -43508,6 +43548,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022733Z">
         <seg>印刷切割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRINTING SIDE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T073836Z" creationid="Judy" creationdate="20151205T073836Z">
+        <seg>印刷面</seg>
       </tuv>
     </tu>
     <tu>
@@ -59592,6 +59640,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050629Z">
         <seg>包裝、切塊和去骨作業溫度通常控制在 8-10 °C 之間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The paper has to be positioned manually:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T073958Z" creationid="Judy" creationdate="20151205T073958Z">
+        <seg>紙片必須手動安裝：</seg>
       </tuv>
     </tu>
     <tu>
