@@ -34765,6 +34765,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Last printing date:  30/11/2015</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020358Z" creationid="Judy" creationdate="20151205T020358Z">
+        <seg>最後列印日期：30/11/2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last update: January 30, 2015</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T001328Z">
@@ -66323,6 +66331,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105838Z">
         <seg>我們已經針對 VCA 進行了大量的微調以防止這種情況發生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We hereby declare that the packaging machine has been designed and built in comply with the requirements of food industry and in particular cGMP / EHEDG (European Hygienic Engineering &amp; Design Group).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020523Z" creationid="Judy" creationdate="20151205T020523Z">
+        <seg>我們特此聲明包裝機之設計和製造符合食品工業之特定 cGMP / EHEDG (歐洲衛生工程與設計小組) 之要求。</seg>
       </tuv>
     </tu>
     <tu>
