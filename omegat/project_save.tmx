@@ -7659,6 +7659,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Along the working route there may be problems in placing the product, blocked or broken products, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144929Z" creationid="Judy" creationdate="20151205T144929Z">
+        <seg>工作路線上可能有產品放置、阻塞或破碎產品等問題，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alphanumeric Keyboard</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122011Z" creationid="Judy" creationdate="20151128T122011Z">
@@ -18568,6 +18576,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T035206Z">
         <seg>安裝應用程式過程，有特定的安裝選項可用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the normal operation of the installation, some alarm might be triggered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144644Z" creationid="Judy" creationdate="20151205T144644Z">
+        <seg>正常生產操作期間，可能觸發某些警報，</seg>
       </tuv>
     </tu>
     <tu>
@@ -50342,6 +50358,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>START AFTER AN AUTOMATIC ALARM STOP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145015Z" creationid="Judy" creationdate="20151205T145015Z">
+        <seg>自動警報停止後啟動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>START THE MACHINE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062201Z" creationid="Judy" creationdate="20151205T062201Z">
@@ -51271,6 +51295,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T013937Z">
         <seg>確保交貨計畫：文件中訂定之所有規範，由供應商對任何供應或交付違約所進行之補救。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144743Z" creationid="Judy" creationdate="20151205T144743Z">
+        <seg>請見</seg>
       </tuv>
     </tu>
     <tu>
@@ -53218,6 +53250,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T083910Z">
         <seg>解決方案：為企業用戶提供價格合理且符合其功能需求的 PDF 軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some are only to informing and others stop the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144739Z" creationid="Judy" creationdate="20151205T144739Z">
+        <seg>部分警報僅會發出警示資訊，而有些警報將會停止機台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60545,6 +60585,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121714Z">
         <seg>未符合規範之產品，應使用交貨狀態證明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The problem must be eliminated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144958Z" creationid="Judy" creationdate="20151205T144958Z">
+        <seg>必須解決這些問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70355,6 +70403,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T142008Z" creationid="Judy" creationdate="20151126T141909Z">
         <seg>當客戶之輸送帶輥直徑超過 50 mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the following alarm sign appears on the screen, the message window will display a help text in order to help locate the problem.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144846Z" creationid="Judy" creationdate="20151205T144846Z">
+        <seg>當畫面上出現右側的警示標誌時，訊息視窗將會顯示説明文字以協助找出問題。</seg>
       </tuv>
     </tu>
     <tu>
