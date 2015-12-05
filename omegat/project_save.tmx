@@ -10834,6 +10834,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before starting production, make sure the machine has been programmed in the right format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083557Z" creationid="Judy" creationdate="20151205T083557Z">
+        <seg>開始生產前，確保機器之程式已設定為正確的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before starting the checkweigher, ensure that the mains voltage matches that provided for the connection of the electric circuit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050107Z" creationid="Judy" creationdate="20151128T050107Z">
@@ -12761,6 +12769,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065603Z">
         <seg>檢查浮動端之填料密封洩露，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check that sticks make the long corresponding to the distance between spots.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083040Z" creationid="Judy" creationdate="20151205T083040Z">
+        <seg>檢查直條包裝長度對應至感測點之間的距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check that the spot is at the ends of the stick.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083058Z" creationid="Judy" creationdate="20151205T083058Z">
+        <seg>檢查感測點位於直條包裝的末端，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24289,6 +24313,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the installation to start a normal productive cycle, press RESET and then press RUN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083642Z" creationid="Judy" creationdate="20151205T083642Z">
+        <seg>安裝後啟動生產循環，按下重置按鈕後再按下運行按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the machine to work in production a dynamic adjustment is needed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101458Z" creationid="Judy" creationdate="20151128T101458Z">
@@ -27781,6 +27813,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134535Z">
         <seg>若噪音量過大，勞工應配有耳罩並正確穿戴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If not, readjust the position of the detector spot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083126Z" creationid="Judy" creationdate="20151205T083126Z">
+        <seg>若非如此，調整感測器的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37483,6 +37523,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make a few sticks with the dose to check.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083312Z" creationid="Judy" creationdate="20151205T083312Z">
+        <seg>加入填料試轉數個直條包裝以檢查是否正常。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure all of the protection devices are perfectly closed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065523Z" creationid="Judy" creationdate="20151205T065523Z">
@@ -45995,6 +46043,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power up the machine with the main switch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083423Z" creationid="Judy" creationdate="20151205T083423Z">
+        <seg>打開機台主開關電源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125033Z">
@@ -50406,6 +50462,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STOPPING PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083646Z" creationid="Judy" creationdate="20151205T083646Z">
+        <seg>停止生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SUBJECTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130751Z">
@@ -53727,6 +53791,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting a Normal Productive Cycle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083401Z" creationid="Judy" creationdate="20151205T083401Z">
+        <seg>開始正常生產循環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting a Productive Cycle for the First Time</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T080009Z" creationid="Judy" creationdate="20151205T075956Z">
@@ -53939,6 +54011,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142441Z">
         <seg>停止服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop the machine by pressing STOP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083001Z" creationid="Judy" creationdate="20151205T083001Z">
+        <seg>按下停止按鈕停止機器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59460,6 +59540,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The machine is now ready for normal operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083340Z" creationid="Judy" creationdate="20151205T083340Z">
+        <seg>此時機台已就緒進行正常操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine is started as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062238Z" creationid="Judy" creationdate="20151205T062238Z">
@@ -60882,6 +60970,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101730Z" creationid="Judy" creationdate="20151128T101730Z">
         <seg>畫面系統於主選單中能檢視一系列下拉選單功能表，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sealers must reach a minimum temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083522Z" creationid="Judy" creationdate="20151205T083522Z">
+        <seg>封裝機必須達到最低工作溫度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66652,6 +66748,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn DOSING ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083159Z" creationid="Judy" creationdate="20151205T083159Z">
+        <seg>開啓 DOSING (給料)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn ON the dosing order on the “WORK” touch screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083142Z" creationid="Judy" creationdate="20151205T083142Z">
+        <seg>於「Work (工作)」觸控式螢幕上開啓給料，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn ON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082807Z" creationid="Judy" creationdate="20151205T082807Z">
@@ -66696,6 +66808,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062316Z" creationid="Judy" creationdate="20151205T062316Z">
         <seg>打開主開關 (電源和氣動) 以供應電源至機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn on the sealers a few minutes before starting production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083506Z" creationid="Judy" creationdate="20151205T083506Z">
+        <seg>開始生產前先開啟封裝機數分鐘，</seg>
       </tuv>
     </tu>
     <tu>
@@ -71128,6 +71248,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T075635Z">
         <seg>多種刀具選擇可處理廣泛的剛性和半剛性材料，於同一機台上可處理泡綿板、瓦愣紙、塑膠、木材及鋁等材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the machine running, make sure that the photocell head light comes on for each stick.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082949Z" creationid="Judy" creationdate="20151205T082949Z">
+        <seg>確保機台運行時光電感應器於每一直條包裝通過時亮起前燈。</seg>
       </tuv>
     </tu>
     <tu>
