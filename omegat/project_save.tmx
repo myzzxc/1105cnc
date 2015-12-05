@@ -10018,6 +10018,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Balancing arm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021934Z" creationid="Judy" creationdate="20151205T021934Z">
+        <seg>平衡臂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bands</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122750Z" creationid="Judy" creationdate="20151128T122750Z">
@@ -34749,6 +34757,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Laminated brake</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022027Z" creationid="Judy" creationdate="20151205T022027Z">
+        <seg>疊片煞車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Language</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024106Z">
@@ -36582,6 +36598,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071148Z">
         <seg>標示 &amp; 註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marker</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022123Z" creationid="Judy" creationdate="20151205T022117Z">
+        <seg>打標機</seg>
       </tuv>
     </tu>
     <tu>
@@ -46273,6 +46297,38 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reel alignment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022057Z" creationid="Judy" creationdate="20151205T022057Z">
+        <seg>卷筒對齊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reel brake</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021911Z" creationid="Judy" creationdate="20151205T021911Z">
+        <seg>卷筒煞車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reel end detector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021930Z" creationid="Judy" creationdate="20151205T021930Z">
+        <seg>卷筒末端感測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reel expanding shaft</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021903Z" creationid="Judy" creationdate="20151205T021903Z">
+        <seg>卷筒展開軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ref: PM23J specification and material process</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T143527Z">
@@ -51371,6 +51427,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T111750Z">
         <seg>將框架分成兩個獨立模組化元件能使車輛 10 加工容易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spot photocell</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022043Z" creationid="Judy" creationdate="20151205T022043Z">
+        <seg>光電感應器</seg>
       </tuv>
     </tu>
     <tu>
