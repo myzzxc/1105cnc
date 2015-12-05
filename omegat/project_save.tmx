@@ -18577,6 +18577,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021634Z" creationid="Judy" creationdate="20151205T021558Z">
+        <seg>電氣維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electromagnetic radiations: Field strength = 10 V/m</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024455Z" creationid="Judy" creationdate="20151128T024455Z">
@@ -35707,6 +35715,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lubrication</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021548Z" creationid="Judy" creationdate="20151205T021548Z">
+        <seg>潤滑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080339Z">
@@ -36055,6 +36071,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141323Z">
         <seg>機器資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machine cleaning</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021646Z" creationid="Judy" creationdate="20151205T021646Z">
+        <seg>機台清潔</seg>
       </tuv>
     </tu>
     <tu>
@@ -36710,6 +36734,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033744Z" creationid="Judy" creationdate="20151128T033744Z">
         <seg>機械材料：更換或維修具有缺陷之機械零件或製造缺陷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechanical maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021631Z" creationid="Judy" creationdate="20151205T021552Z">
+        <seg>機械維護</seg>
       </tuv>
     </tu>
     <tu>
@@ -44540,6 +44572,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preventive maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021546Z" creationid="Judy" creationdate="20151205T021546Z">
+        <seg>預防性維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preview PDF email attachments in Micrososft Outlook 2007, 2010, and 2013</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T025459Z">
@@ -47282,6 +47322,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Residual risks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021539Z" creationid="Judy" creationdate="20151205T021539Z">
+        <seg>殘餘風險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Residual: The moment the platform overcomes the limit of waste, the LED will light gray; meanwhile, the LED remains green.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101127Z" creationid="Judy" creationdate="20151128T090915Z">
@@ -49069,8 +49117,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Security and preventive maintenance</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021426Z" creationid="Judy" creationdate="20151205T021426Z">
-        <seg>安全和預防性維修</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021626Z" creationid="Judy" creationdate="20151205T021426Z">
+        <seg>安全和預防性維護</seg>
       </tuv>
     </tu>
     <tu>
@@ -64665,6 +64713,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150604T115943Z">
         <seg>目前法律事務所和法務專業人士被迫妥協於現有的 PDF 軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unwinder unit maintenance and guide</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021746Z" creationid="Judy" creationdate="20151205T021746Z">
+        <seg>開卷機組檢護和指南</seg>
       </tuv>
     </tu>
     <tu>
