@@ -18092,6 +18092,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081019Z" creationid="Judy" creationdate="20151205T081019Z">
+        <seg>執行以下操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have sufficient compressed air available in your work shop?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081507Z">
@@ -24251,8 +24259,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For the device to start the productive cycle for the first time or after any change in format, it must be ensured that the machine is suitably adjusted to the format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T080003Z" creationid="Judy" creationdate="20151205T080003Z">
-        <seg>開始生產週期首次或之後的任何更改格式的設備，必須保證這台機器適當地調整為格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T080947Z" creationid="Judy" creationdate="20151205T080003Z">
+        <seg>設備首次開始生產或於任何格式更改之後，必須確保機台已依格式適當地進行調整，</seg>
       </tuv>
     </tu>
     <tu>
@@ -37439,6 +37447,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141328Z">
         <seg>準備乾淨的系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make a few empty sachets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081007Z" creationid="Judy" creationdate="20151205T080942Z">
+        <seg>進行幾次空轉。</seg>
       </tuv>
     </tu>
     <tu>
