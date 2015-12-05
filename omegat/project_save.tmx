@@ -6537,6 +6537,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air consumption</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031031Z" creationid="Judy" creationdate="20151205T031031Z">
+        <seg>空氣消耗量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air inlet 172 of air inlet housing 170 is in fluid communication with an interior of filter housing 240.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T120126Z">
@@ -33527,6 +33535,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has been submitted to production tests with the format chosen by the client.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031016Z" creationid="Judy" creationdate="20151205T031016Z">
+        <seg>並已依客戶指定選擇之格式呈交生產測試認證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has control over the OSD (On Screen Display) for analog cameras</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T065743Z">
@@ -35983,6 +35999,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153133Z">
         <seg>機械：2 套抽取式面紙機及袖珍包面紙機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MAIN CHARACTERISTICS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T030322Z" creationid="Judy" creationdate="20151205T030322Z">
+        <seg>主要特性</seg>
       </tuv>
     </tu>
     <tu>
@@ -53370,6 +53394,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TECHNICAL SPECIFICATIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031024Z" creationid="Judy" creationdate="20151205T031024Z">
+        <seg>技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TECHNOLOGY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153143Z">
@@ -56403,6 +56435,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The conception is simple, robust and versatile, all within excellent dimensions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T030726Z" creationid="Judy" creationdate="20151205T030623Z">
+        <seg>其概念為以最優異的尺寸達到簡單、耐用和多用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The consequences of a default</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T151711Z">
@@ -56623,6 +56663,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T233101Z">
         <seg>此設計也為後排乘客提供更好的乘坐體驗，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The design includes all details for easy use and minimal maintenance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T030625Z" creationid="Judy" creationdate="20151205T030617Z">
+        <seg>設計包含了所有簡便使用且最少維護的細部設計，</seg>
       </tuv>
     </tu>
     <tu>
@@ -58044,6 +58092,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The output has been tested before market launch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T030827Z" creationid="Judy" creationdate="20151205T030827Z">
+        <seg>機器上市前已經過輸出測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The packaging machine has been especially designed to pack powder product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T030418Z" creationid="Judy" creationdate="20151205T030418Z">
+        <seg>包裝機之設計專門用於包裝粉狀產品，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The packing, cut-up and deboning sections, which are temperature controlled, are usually kept at a temperature of 8-10 °C.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050629Z">
@@ -59162,6 +59226,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133238Z">
         <seg>蒸汽加熱式熱交換器起動時，應打開蒸汽疏水旁通閥，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The stick is made with thermo sealable materials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T030451Z" creationid="Judy" creationdate="20151205T030451Z">
+        <seg>使用熱封材料進行膠合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62938,6 +63010,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T092557Z">
         <seg>但事實絕非如此，因為 PDF 是一個真正的 ISO 標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This specifically excludes any liability for damages caused.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T030316Z" creationid="Judy" creationdate="20151205T030316Z">
+        <seg>也不負責提供任何損害賠償。</seg>
       </tuv>
     </tu>
     <tu>
