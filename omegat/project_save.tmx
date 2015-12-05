@@ -9543,6 +9543,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At it is dragged, it is folded into shape of a stick.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064143Z" creationid="Judy" creationdate="20151205T064143Z">
+        <seg>抽取紙張時，將紙張折疊成條狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At least seven preset screen standards for surveillance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T123356Z">
@@ -34703,6 +34711,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It performs several functions at once during one cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064419Z" creationid="Judy" creationdate="20151205T064307Z">
+        <seg>其能同時在一個循環中執行多種功能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It provides a graphical preview and current status of a running job and allows program feeds and speeds to be changed without pausing the program.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130318Z">
@@ -40582,8 +40598,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>OPERATING CYCLE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T063750Z" creationid="Judy" creationdate="20151205T063750Z">
-        <seg>操作運轉</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064315Z" creationid="Judy" creationdate="20151205T063750Z">
+        <seg>運轉循環</seg>
       </tuv>
     </tu>
     <tu>
@@ -58323,6 +58339,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following station is where the foil is dragged.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064257Z" creationid="Judy" creationdate="20151205T064257Z">
+        <seg>下一站為抽取箔片之處，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following steps let you add hotfixes and plug-ins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021157Z">
@@ -58390,8 +58414,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The general operating cycle of the sachet packing machine is as follows:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T063908Z" creationid="Judy" creationdate="20151205T063852Z">
-        <seg>小袋包裝機之一般操作運轉如下：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064320Z" creationid="Judy" creationdate="20151205T063852Z">
+        <seg>小袋包裝機之一般運轉循環如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -62188,6 +62212,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T143539Z">
         <seg>該車輛包含一框架；多組支撐框架之接觸地面元件；以框架支撐之動力源並連接到至少一組接觸地面元件以推動車輛；以框架支撐之駕駛區，駕駛區包含座位和操控元件；以框架支撐並置於駕駛區後方的後驅動單元；以及連接第一接觸地面元件和框架的可動式第一後懸吊系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vertical sealing is then performed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064217Z" creationid="Judy" creationdate="20151205T064217Z">
+        <seg>接著進行垂向方向密封。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69627,6 +69659,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T130628Z">
         <seg>一方面，很多國家面臨停滯不前的水資源改革；另一方面，其他一些國家則在落實水資源綜合管理（IWRM）方面，包括分權管理和創建流域組織等方面，取得了巨大進步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the paper is moving, the circular blades at the top cut the paper into the required number of tracks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064056Z" creationid="Judy" creationdate="20151205T064056Z">
+        <seg>當紙張移動時，上方的圓刀片將紙裁成軌道所需之數量。</seg>
       </tuv>
     </tu>
     <tu>
