@@ -33929,8 +33929,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It is prohibited to make any modifications to the Stickpack ARANOW machine without the prior written permission of Aranow Packaging Machinery.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025857Z" creationid="Judy" creationdate="20151205T025857Z">
-        <seg>禁止未事先經 Aranow 機械公司書面許可前，對 ARANOW 膠合包裝機進行任何修改。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033502Z" creationid="Judy" creationdate="20151205T025857Z">
+        <seg>禁止未事先經 Aranow 機械公司書面許可前，對 ARANOW 直條包裝機進行任何修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57744,6 +57744,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025144Z" creationid="Judy" creationdate="20151205T025144Z">
         <seg>機器中設有自動的安全措施以消除操作的風險，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The machine is designed to dose the powder product and to pack it in the stick.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033430Z" creationid="Judy" creationdate="20151205T033430Z">
+        <seg>機器設計用於填裝粉狀產品，並包裝於直條包裝內。</seg>
       </tuv>
     </tu>
     <tu>
