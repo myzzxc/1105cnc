@@ -6697,6 +6697,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm log</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023102Z" creationid="Judy" creationdate="20151205T023102Z">
+        <seg>警報日誌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm time is scheduled on “Timings”.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T151738Z" creationid="Judy" creationdate="20151129T151738Z">
@@ -11828,6 +11836,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cams</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023047Z" creationid="Judy" creationdate="20151205T023047Z">
+        <seg>凸輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can-Am Specifications for Commander 1000, copyright 2010, 1 page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T084603Z">
@@ -12181,6 +12197,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change password</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023057Z" creationid="Judy" creationdate="20151205T023057Z">
+        <seg>更改密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the defaults for encryption level and session reliability if you wish.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134341Z">
@@ -12305,6 +12329,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130913Z" creationid="Judy" creationdate="20151128T130913Z">
         <seg>檢查皮帶張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checkweigher</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022823Z" creationid="Judy" creationdate="20151205T022823Z">
+        <seg>檢重機</seg>
       </tuv>
     </tu>
     <tu>
@@ -14535,6 +14567,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concepts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022838Z" creationid="Judy" creationdate="20151205T022838Z">
+        <seg>參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concepts: The concepts column indicates in abbreviated way what reject is activated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160631Z" creationid="Judy" creationdate="20151129T142812Z">
@@ -15172,6 +15212,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T021118Z">
         <seg>轉換掃描彩色 (圖像) PDF 檔案為壓縮 MRC-PDF 檔案（平均壓縮 8 倍）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conveyor belt</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022814Z" creationid="Judy" creationdate="20151205T022814Z">
+        <seg>輸送皮帶</seg>
       </tuv>
     </tu>
     <tu>
@@ -19897,6 +19945,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exit belt</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023054Z" creationid="Judy" creationdate="20151205T023054Z">
+        <seg>出口皮帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expected results</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T025509Z">
@@ -22024,6 +22080,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134933Z">
         <seg>以廠內管路水壓注水至供應端，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filler</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022915Z" creationid="Judy" creationdate="20151205T022915Z">
+        <seg>填料機</seg>
       </tuv>
     </tu>
     <tu>
@@ -36906,6 +36970,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022851Z" creationid="Judy" creationdate="20151205T022851Z">
+        <seg>功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Menu Alarm Mask 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T151801Z" creationid="Judy" creationdate="20151129T151801Z">
@@ -45206,6 +45278,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Production control</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023022Z" creationid="Judy" creationdate="20151205T023022Z">
+        <seg>生產管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Production equipment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082810Z">
@@ -45282,6 +45362,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142532Z" creationid="Judy" creationdate="20151129T142532Z">
         <seg>程式化退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Programs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023109Z" creationid="Judy" creationdate="20151205T023109Z">
+        <seg>程式設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -49043,6 +49131,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sealers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023016Z" creationid="Judy" creationdate="20151205T023016Z">
+        <seg>封裝機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T234000Z">
@@ -49924,6 +50020,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022853Z" creationid="Judy" creationdate="20151205T022853Z">
+        <seg>選擇器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Self Service through HR Portal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T124803Z">
@@ -50268,6 +50372,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Servo-motor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023114Z" creationid="Judy" creationdate="20151205T023114Z">
+        <seg>伺服馬達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Servo/Range (Optional)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152054Z">
@@ -50316,6 +50428,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set up</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023042Z" creationid="Judy" creationdate="20151205T022959Z">
+        <seg>安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set window color and size and click the ‘Next’ button.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134551Z">
@@ -50328,6 +50448,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T095850Z">
         <seg>設定 Document Processing（文件處理）參數可篩選 Power PDF 應用程式的功能集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022954Z" creationid="Judy" creationdate="20151205T022954Z">
+        <seg>定型機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023032Z" creationid="Judy" creationdate="20151205T023032Z">
+        <seg>設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -63057,6 +63193,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Timer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023048Z" creationid="Judy" creationdate="20151205T023048Z">
+        <seg>計時器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Times</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141818Z">
@@ -63983,6 +64127,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035414Z">
         <seg>總人次工時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Touch Screen</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022830Z" creationid="Judy" creationdate="20151205T022830Z">
+        <seg>觸控式螢幕</seg>
       </tuv>
     </tu>
     <tu>
@@ -68784,6 +68936,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055310Z">
         <seg>工作流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022848Z" creationid="Judy" creationdate="20151205T022848Z">
+        <seg>工作</seg>
       </tuv>
     </tu>
     <tu>
