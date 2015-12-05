@@ -7547,6 +7547,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always keep the machine clean, lubricated and in a proper state of operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025439Z" creationid="Judy" creationdate="20151205T025439Z">
+        <seg>始終保持機器清潔、潤滑且處於正確運作狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always use the appropriate version of the .msi files or _setup.exe according to the operating system you are targeting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023929Z">
@@ -33847,6 +33855,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is prohibited to make any modifications to the Stickpack ARANOW machine without the prior written permission of Aranow Packaging Machinery.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025857Z" creationid="Judy" creationdate="20151205T025857Z">
+        <seg>禁止未事先經 Aranow 機械公司書面許可前，對 ARANOW 膠合包裝機進行任何修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended for the long term operation of the table that an air drier is used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T083730Z">
@@ -38579,6 +38595,22 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132434Z">
         <seg>網路部署選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never insert hands, cloths or other objects in running machines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025326Z" creationid="Judy" creationdate="20151205T025326Z">
+        <seg>機器運行中不得將手、衣服或其它物體插入機台中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never leave tools, parts or other objects in the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025405Z" creationid="Judy" creationdate="20151205T025405Z">
+        <seg>不得將工具、零件或其它物體留置於機台中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44800,6 +44832,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T120827Z">
         <seg>折床和熱交換器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press any control button to make sure that the machine has been turned off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025536Z" creationid="Judy" creationdate="20151205T025536Z">
+        <seg>按壓任何的控制按鈕，以確保機器已關閉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57492,6 +57532,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The machine must be maintained by qualified staff.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025600Z" creationid="Judy" creationdate="20151205T025600Z">
+        <seg>機器必須由認證合格人員進行維護，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine options have been divided into 5 sections:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z">
@@ -57544,6 +57592,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020719Z" creationid="Judy" creationdate="20151205T020719Z">
         <seg>本手冊專門根據 CEE 89/392 和其後續修正 CEE 98/37 和 2006年/42/CE  所制定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The manual must be consulted every time an operation is carried out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025631Z" creationid="Judy" creationdate="20151205T025631Z">
+        <seg>每次執行操作時必須參考使用手冊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58762,6 +58818,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T161531Z">
         <seg>彎刀為堅固耐用之多功能刀具，非常適用於切割厚度 1-2mm 以下之硬質材料如層板、合成樹脂、Sintra 板以及類似材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The safety devices must never be turned off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025206Z" creationid="Judy" creationdate="20151205T025206Z">
+        <seg>不得關閉安全裝置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64492,6 +64556,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn the machine off before any cleaning or maintenance operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025508Z" creationid="Judy" creationdate="20151205T025459Z">
+        <seg>任何清潔或維修操作之前請關閉機器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn this feature off if you want to deploy read-only PDF printer settings and Create Assistant profiles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T075110Z">
@@ -67059,6 +67131,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114037Z">
         <seg>我們發現到這個模型對於任何有不同的或不斷變化的客戶需求的組織會有很大價值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend that operators using the machine should have general knowledge of Safety and Accident Prevention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025245Z" creationid="Judy" creationdate="20151205T025245Z">
+        <seg>建議使用機器之操作員應具備安全和事故預防的一般知識。</seg>
       </tuv>
     </tu>
     <tu>
