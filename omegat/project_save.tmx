@@ -5114,6 +5114,22 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AIR INPUT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061045Z" creationid="Judy" creationdate="20151205T061045Z">
+        <seg>空氣輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AIR WITH EMERGENCY CUT OFF SUPPLY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061015Z" creationid="Judy" creationdate="20151205T061015Z">
+        <seg>帶有緊急切斷開關之空氣供應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALL PARTS/ITEMS DESCRIPTION AND NUMBER HAVE TO BE SUBMITTED IN EXCEL FORMAT PRIOR CONDUCTING OF OPERATION TEST ACCEPTANCE (HARDCOPY AND SOFTCOPY)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122441Z">
@@ -5233,6 +5249,22 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T024210Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ASPIRATION OUTPUT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061544Z" creationid="Judy" creationdate="20151205T061544Z">
+        <seg>抽吸輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ASPIRATION and inert gas CONNECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061526Z" creationid="Judy" creationdate="20151205T061526Z">
+        <seg>抽吸和惰性氣體連接</seg>
       </tuv>
     </tu>
     <tu>
@@ -15183,6 +15215,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connect the aspiration system and inert gas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061537Z" creationid="Judy" creationdate="20151205T061537Z">
+        <seg>連接抽吸系統和惰性氣體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connect your documents to the Cloud</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113542Z">
@@ -22628,6 +22668,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filter &amp; regulator</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061036Z" creationid="Judy" creationdate="20151205T061036Z">
+        <seg>濾芯和調節閥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filter 242 is held in place</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T141826Z">
@@ -22672,6 +22720,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125148Z">
         <seg>濾芯種類：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filters must be changed as planned or when there is a low flow without changing the pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061328Z" creationid="Judy" creationdate="20151205T061328Z">
+        <seg>濾芯必須定期或於未變壓力而流量降低時更換。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27029,6 +27085,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T145052Z">
         <seg>索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INERT GAS INPUT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061546Z" creationid="Judy" creationdate="20151205T061546Z">
+        <seg>惰性氣體輸入</seg>
       </tuv>
     </tu>
     <tu>
@@ -43120,6 +43184,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PREPARING TO START THE PRODUCTIVE CYCLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061723Z" creationid="Judy" creationdate="20151205T061657Z">
+        <seg>生產運轉開始準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PREREQUESITES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T123629Z">
@@ -43180,6 +43252,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023426Z">
         <seg>價格為加拿大多倫多工廠交貨價。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRINCIPLES OF OPERATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061614Z" creationid="Judy" creationdate="20151205T061614Z">
+        <seg>操作原則</seg>
       </tuv>
     </tu>
     <tu>
@@ -45584,6 +45664,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T060153Z">
         <seg>壓力腳配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressure switch</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061041Z" creationid="Judy" creationdate="20151205T061041Z">
+        <seg>壓力開關</seg>
       </tuv>
     </tu>
     <tu>
@@ -48037,6 +48125,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025927Z" creationid="Judy" creationdate="20151205T025927Z">
         <seg>必須按照手冊的具體規定進行定期保養和檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regularly purge deposit from filters to avoid the ingress of water into the pressurized air system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061238Z" creationid="Judy" creationdate="20151205T061238Z">
+        <seg>定期清除濾芯之殘留物以避免水氣進入加壓空氣系統。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62296,6 +62392,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There follows a brief description of the operation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061634Z" creationid="Judy" creationdate="20151205T061634Z">
+        <seg>以下為操作之簡單說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is a balance between extracted water and water returned to aquatic ecosystems and aquifers, ensuring their long-term sustainability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T064748Z">
@@ -65099,6 +65203,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To purge</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061121Z" creationid="Judy" creationdate="20151205T061118Z">
+        <seg>清潔排氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To re-launch the conveyors the start button must be activated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033028Z" creationid="Judy" creationdate="20151128T032907Z">
@@ -65632,6 +65744,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040646Z">
         <seg>若想達到二種目標，便會失去在第一種目標上的專注性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tubo Ø40 exterior</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061608Z" creationid="Judy" creationdate="20151205T061608Z">
+        <seg>管外徑 Ø40</seg>
       </tuv>
     </tu>
     <tu>
