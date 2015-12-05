@@ -23151,6 +23151,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fit the reel on the expanding reel holder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070034Z" creationid="Judy" creationdate="20151205T070034Z">
+        <seg>安裝卷筒至卷筒固定座上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Five</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181627Z">
@@ -47665,6 +47673,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065811Z" creationid="Judy" creationdate="20151205T065811Z">
+        <seg>卷筒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reel alignment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034819Z" creationid="Judy" creationdate="20151205T022057Z">
@@ -47725,6 +47741,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031704Z" creationid="Judy" creationdate="20151205T031704Z">
         <seg>卷筒內徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reel positioner</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065818Z" creationid="Judy" creationdate="20151205T065818Z">
+        <seg>卷筒定位器</seg>
       </tuv>
     </tu>
     <tu>
@@ -48429,6 +48453,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070347Z">
         <seg>以對角為一組分四次鬆開碟形彈簧墊片，以避免損壞螺栓與 IMPERVITE® 零件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release the pulling of reel shaft with the key on the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065914Z" creationid="Judy" creationdate="20151205T065914Z">
+        <seg>以右邊的開關釋放卷筒軸，</seg>
       </tuv>
     </tu>
     <tu>
@@ -51400,6 +51432,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153430Z">
         <seg>選擇供應商 / 投標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selector key</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065755Z" creationid="Judy" creationdate="20151205T065755Z">
+        <seg>選擇開關</seg>
       </tuv>
     </tu>
     <tu>
@@ -62604,6 +62644,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154546Z" creationid="Judy" creationdate="20151203T154546Z">
         <seg>接著將顯示兩條曲線，重量曲線圖為藍色，而光電訊號曲線為紅色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, the gear lifts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065942Z" creationid="Judy" creationdate="20151205T065942Z">
+        <seg>接著齒輪上升。</seg>
       </tuv>
     </tu>
     <tu>
