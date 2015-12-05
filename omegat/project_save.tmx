@@ -2053,6 +2053,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>119 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033804Z" creationid="Judy" creationdate="20151205T033804Z">
+        <seg>119 毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>12% less direct cost</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101011Z">
@@ -2327,8 +2335,8 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>180–220 sticks/min.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031247Z" creationid="Judy" creationdate="20151205T031247Z">
-        <seg>180–220 膠合/分</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033552Z" creationid="Judy" creationdate="20151205T031247Z">
+        <seg>180–220 直條包裝/分</seg>
       </tuv>
     </tu>
     <tu>
@@ -2860,6 +2868,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T121110Z">
         <seg>28A 和 30，將更詳細地說明樞軸桿 910 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>29 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033757Z" creationid="Judy" creationdate="20151205T033757Z">
+        <seg>29 毫米</seg>
       </tuv>
     </tu>
     <tu>
@@ -5801,6 +5817,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>According to tests, recommend changing the auger filler depending on the quantity to be dosed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034030Z" creationid="Judy" creationdate="20151205T034030Z">
+        <seg>根據測試結果，建議根據所需填料量更換螺旋填料機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>According to this value the controller will take the right decision in each case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T152932Z" creationid="Judy" creationdate="20151124T152857Z">
@@ -6237,6 +6261,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T044433Z">
         <seg>調節器 496 包含具有供螺栓 492 嵌合之開口的第一元件 497 以及螺紋外表面，並具有供螺栓 492 嵌合之開口的第二元件 498  和可與第一元件 497 的螺紋外表面嵌合的內螺紋表面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjustments should be made using the screen and other mechanical adjustments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034315Z" creationid="Judy" creationdate="20151205T034315Z">
+        <seg>必須使用螢幕和其它機械調整以進行調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23217,6 +23249,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For format changes please consult with the Aranow technical department.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034202Z" creationid="Judy" creationdate="20151205T034202Z">
+        <seg>請與 Aranow 技術部咨詢以進行格式變更，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For fragil products</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T140856Z" creationid="Judy" creationdate="20151126T140856Z">
@@ -35401,6 +35441,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081436Z">
         <seg>長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Length = B</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033801Z" creationid="Judy" creationdate="20151205T033801Z">
+        <seg>長度 = B</seg>
       </tuv>
     </tu>
     <tu>
@@ -48936,8 +48984,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>STICK FORMAT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031751Z" creationid="Judy" creationdate="20151205T031751Z">
-        <seg>膠合格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033555Z" creationid="Judy" creationdate="20151205T031751Z">
+        <seg>直條包裝格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -49687,6 +49735,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133406Z" creationid="Judy" creationdate="20151129T133406Z">
         <seg>請見程式化      伺服 / 範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Section 1.10 Change of format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034117Z" creationid="Judy" creationdate="20151205T034117Z">
+        <seg>請見章節 1.10 《變更格式》。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52225,32 +52281,32 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Stick forming</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022540Z" creationid="Judy" creationdate="20151205T022512Z">
-        <seg>膠合成形</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033608Z" creationid="Judy" creationdate="20151205T022512Z">
+        <seg>直條包裝成形</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Stick holder</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022709Z" creationid="Judy" creationdate="20151205T022709Z">
-        <seg>膠合固定器</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033610Z" creationid="Judy" creationdate="20151205T022709Z">
+        <seg>直條包裝固定器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Stick production speed</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031234Z" creationid="Judy" creationdate="20151205T031234Z">
-        <seg>膠合生產速度</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033543Z" creationid="Judy" creationdate="20151205T031234Z">
+        <seg>直條包裝生產速度</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Stick production unit maintenance and guide</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022522Z" creationid="Judy" creationdate="20151205T022331Z">
-        <seg>膠合生產機組維護和指南</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033605Z" creationid="Judy" creationdate="20151205T022331Z">
+        <seg>直條包裝生產機組維護和指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -57740,6 +57796,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The machine has all functions programmed to the size of the indicated format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033911Z" creationid="Judy" creationdate="20151205T033911Z">
+        <seg>機器所有功能之程式已設計為指定之格式尺寸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine has built-in automatic safety measures in order to eliminate risks to operators.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025144Z" creationid="Judy" creationdate="20151205T025144Z">
@@ -57760,6 +57824,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025600Z" creationid="Judy" creationdate="20151205T025600Z">
         <seg>機器必須由認證合格人員進行維護，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The machine must have several programmes pre-calculated depending on the habitual production formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034424Z" creationid="Judy" creationdate="20151205T034424Z">
+        <seg>機器必須根據常用生產格式預先計算多種程式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59310,6 +59382,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The size of the formats is:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033750Z" creationid="Judy" creationdate="20151205T033750Z">
+        <seg>其格式尺寸為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sizes will depend on the attachment you have ordered as follows:-</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091927Z">
@@ -59390,10 +59470,18 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The stick is closed by 3 seals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033723Z" creationid="Judy" creationdate="20151205T033723Z">
+        <seg>直條包裝以 3 次密封完成，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The stick is made with thermo sealable materials.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T030451Z" creationid="Judy" creationdate="20151205T030451Z">
-        <seg>使用熱封材料進行膠合。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033531Z" creationid="Judy" creationdate="20151205T030451Z">
+        <seg>使用熱封材料製造直條包裝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65319,16 +65407,16 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Uneven stick length</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023229Z" creationid="Judy" creationdate="20151205T023229Z">
-        <seg>膠合長度不均</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033615Z" creationid="Judy" creationdate="20151205T023229Z">
+        <seg>直條包裝長度不均</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Uneven stick width</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023222Z" creationid="Judy" creationdate="20151205T023222Z">
-        <seg>膠合寬度不均</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033612Z" creationid="Judy" creationdate="20151205T023222Z">
+        <seg>直條包裝寬度不均</seg>
       </tuv>
     </tu>
     <tu>
@@ -68575,6 +68663,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081438Z">
         <seg>寬度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width = A</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033754Z" creationid="Judy" creationdate="20151205T033754Z">
+        <seg>寬 = A</seg>
       </tuv>
     </tu>
     <tu>
