@@ -6849,6 +6849,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alignment detector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034638Z" creationid="Judy" creationdate="20151205T034638Z">
+        <seg>對位感應器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All AXYZ Series tables have thefollowing standard and available options:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153006Z">
@@ -8059,6 +8067,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Antistatic (hidden)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035350Z" creationid="Judy" creationdate="20151205T035350Z">
+        <seg>抗靜電 (隱藏)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Antistatic bar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022610Z" creationid="Judy" creationdate="20151205T022610Z">
@@ -9175,6 +9191,22 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aspiration exit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035318Z" creationid="Judy" creationdate="20151205T034618Z">
+        <seg>抽吸出口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aspiration of powder particles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035331Z" creationid="Judy" creationdate="20151205T035304Z">
+        <seg>粉粒抽吸口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assemble documents</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085601Z">
@@ -9531,6 +9563,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T082643Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auger filler tube</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035123Z" creationid="Judy" creationdate="20151205T035123Z">
+        <seg>螺旋填料管</seg>
       </tuv>
     </tu>
     <tu>
@@ -10158,6 +10198,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021934Z" creationid="Judy" creationdate="20151205T021934Z">
         <seg>平衡臂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Balloon of inert gas pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035101Z" creationid="Judy" creationdate="20151205T035101Z">
+        <seg>惰性氣體壓力球</seg>
       </tuv>
     </tu>
     <tu>
@@ -11696,6 +11744,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132856Z">
         <seg>規範標準/管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMPOSITION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034510Z" creationid="Judy" creationdate="20151205T034510Z">
+        <seg>構造</seg>
       </tuv>
     </tu>
     <tu>
@@ -16232,6 +16288,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cutting between sealing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035407Z" creationid="Judy" creationdate="20151205T035407Z">
+        <seg>封裝間切割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cutting presses have two button controls (or equivalent).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T122244Z">
@@ -16572,6 +16636,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T082833Z">
         <seg>文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOSING stations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034912Z" creationid="Judy" creationdate="20151205T034912Z">
+        <seg>填料站</seg>
       </tuv>
     </tu>
     <tu>
@@ -18765,6 +18837,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091649Z">
         <seg>電動鑽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electric cabinet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035037Z" creationid="Judy" creationdate="20151205T035037Z">
+        <seg>配電箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -22771,6 +22851,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T045841Z">
         <seg>然而，如圖 40 所示，外殼 462 和間隔件 484 的第一部分 483 之間的上端連接不包含螺母 494，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flowmeter inert gas</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035130Z" creationid="Judy" creationdate="20151205T035130Z">
+        <seg>惰性氣體流量計</seg>
       </tuv>
     </tu>
     <tu>
@@ -30557,6 +30645,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Individual doser servomotor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034932Z" creationid="Judy" creationdate="20151205T034932Z">
+        <seg>獨立填料伺服馬達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indudes scraping of column &amp; base joint for improved overall stiffness and rigidity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T135857Z">
@@ -35077,6 +35173,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Laminate brake line</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034723Z" creationid="Judy" creationdate="20151205T034723Z">
+        <seg>疊片煞車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laminated brake</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022027Z" creationid="Judy" creationdate="20151205T022027Z">
@@ -35545,6 +35649,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094937Z">
         <seg>於智慧型手機 / 平板上了解更多關於四防 Everio 的資訊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level detector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035020Z" creationid="Judy" creationdate="20151205T035020Z">
+        <seg>存量感測器</seg>
       </tuv>
     </tu>
     <tu>
@@ -36957,6 +37069,14 @@ z	Everio MediaBrowser 4 Software Provided
         <seg>Marker</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022123Z" creationid="Judy" creationdate="20151205T022117Z">
+        <seg>打標機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marker structure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034739Z" creationid="Judy" creationdate="20151205T034739Z">
         <seg>打標機</seg>
       </tuv>
     </tu>
@@ -38394,6 +38514,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T134357Z">
         <seg>運動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Motorized mixer system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035048Z" creationid="Judy" creationdate="20151205T035048Z">
+        <seg>電動混合系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -45036,6 +45164,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressurized air inlet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034748Z" creationid="Judy" creationdate="20151205T034748Z">
+        <seg>加壓空氣入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preventive maintenance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021546Z" creationid="Judy" creationdate="20151205T021546Z">
@@ -46779,8 +46915,16 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Reel alignment</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022057Z" creationid="Judy" creationdate="20151205T022057Z">
-        <seg>卷筒對齊</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034819Z" creationid="Judy" creationdate="20151205T022057Z">
+        <seg>卷筒對位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reel alignment motor (hidden)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034843Z" creationid="Judy" creationdate="20151205T034843Z">
+        <seg>卷筒對位馬達 (隱藏)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46789,6 +46933,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021911Z" creationid="Judy" creationdate="20151205T021911Z">
         <seg>卷筒煞車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reel brake (hidden)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034855Z" creationid="Judy" creationdate="20151205T034855Z">
+        <seg>卷筒煞車 (隱藏)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48986,6 +49138,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033555Z" creationid="Judy" creationdate="20151205T031751Z">
         <seg>直條包裝格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STICK PRODUCTION stations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035147Z" creationid="Judy" creationdate="20151205T035147Z">
+        <seg>直條包裝生產站</seg>
       </tuv>
     </tu>
     <tu>
@@ -52011,6 +52171,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T111750Z">
         <seg>將框架分成兩個獨立模組化元件能使車輛 10 加工容易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spot detector (hidden)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034703Z" creationid="Judy" creationdate="20151205T034703Z">
+        <seg>光電感應器 (隱藏)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64667,6 +64835,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Touch screen</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035151Z" creationid="Judy" creationdate="20151205T035151Z">
+        <seg>觸控式螢幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trace decisions back to strategy</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024005Z">
@@ -65193,6 +65369,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131706Z">
         <seg>UNIST 切削液噴嘴 / 潤滑噴嘴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNWINDING stations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034552Z" creationid="Judy" creationdate="20151205T034552Z">
+        <seg>開卷站</seg>
       </tuv>
     </tu>
     <tu>
