@@ -17918,16 +17918,16 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Display the MACHINE SETTINGS .</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074513Z" creationid="Judy" creationdate="20151205T074513Z">
-        <seg>顯示機台設定    ，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075325Z" creationid="Judy" creationdate="20151205T074513Z">
+        <seg>顯示 MACHINE SETTINGS (機台設定)，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Display the MACHINE SETTINGS.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075100Z" creationid="Judy" creationdate="20151205T075100Z">
-        <seg>顯示機台設定，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075255Z" creationid="Judy" creationdate="20151205T075100Z">
+        <seg>顯示 MACHINE SETTINGS (機台設定)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18344,6 +18344,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163843Z" creationid="Judy" creationdate="20151202T163843Z">
         <seg>和 200 磅重之乘客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drop the circular blade unit from the touch screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075158Z" creationid="Judy" creationdate="20151205T075158Z">
+        <seg>由觸控式螢幕上放下圓刀裝置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24659,16 +24667,16 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>From this screen switch ON the FILM BRAKE.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074551Z" creationid="Judy" creationdate="20151205T074551Z">
-        <seg>由此畫面中打開箔片剎車，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075321Z" creationid="Judy" creationdate="20151205T074551Z">
+        <seg>由此畫面中打開 FILM BRAKE (箔片剎車)，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>From this screen switch ON the ROTATING KNIVES.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075125Z" creationid="Judy" creationdate="20151205T075125Z">
-        <seg>由此畫面中可以開啓旋轉刀。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075240Z" creationid="Judy" creationdate="20151205T075125Z">
+        <seg>由此畫面中可以開啓 ROTATING KNIVES (旋轉刀)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37661,6 +37669,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manually slide the foil so that the blades cut the foil into strips.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075405Z" creationid="Judy" creationdate="20151205T075405Z">
+        <seg>手動滑動箔片使刀片將箔片切成條狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manufacturer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T045933Z">
@@ -46062,8 +46078,8 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Press FIX to slide the paper.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074704Z" creationid="Judy" creationdate="20151205T074639Z">
-        <seg>按下固定以滑入紙片，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075207Z" creationid="Judy" creationdate="20151205T074639Z">
+        <seg>按下 FIX (固定) 以滑入紙片，</seg>
       </tuv>
     </tu>
     <tu>
