@@ -12799,8 +12799,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Check the length (B) of the sticks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081848Z" creationid="Judy" creationdate="20151205T081848Z">
-        <seg>檢查直條包裝長度 (B)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081852Z" creationid="Judy" creationdate="20151205T081848Z">
+        <seg>檢查直條包裝長度 (B)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -39550,6 +39550,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be between 2 and 4 mm more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082125Z" creationid="Judy" creationdate="20151205T082104Z">
+        <seg>多出之長度必須介於 2 至 4 毫米之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My Account</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T000827Z">
@@ -41945,6 +41953,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154014Z" creationid="Judy" creationdate="20151203T154014Z">
         <seg>一旦選定格式後，機台顯示動態分析並等待光電感應器啟動以分析重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the machine has the stick length mentioned in the previous point, stop the machine with the STOP pushbutton.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082119Z" creationid="Judy" creationdate="20151205T082119Z">
+        <seg>當機台一旦這台機器有前面的點所述的棒長度，停了機與停止按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61114,6 +61130,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033531Z" creationid="Judy" creationdate="20151205T030451Z">
         <seg>使用熱封材料製造直條包裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The stick length must be more than the distance between the spots of paper when SPOT detector is disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082015Z" creationid="Judy" creationdate="20151205T082015Z">
+        <seg>當光電感應器關閉時直條包裝長度必須大於紙片感應點之間的距離，</seg>
       </tuv>
     </tu>
     <tu>
