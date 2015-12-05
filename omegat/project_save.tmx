@@ -34207,6 +34207,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible you need do the cleaning of machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055439Z" creationid="Judy" creationdate="20151205T055439Z">
+        <seg>機器可能需要進行清潔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible, in the alarm and events POP-UP itself, to playback a video of the event immediately, with the information of the server which generated such alarm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T131806Z">
@@ -41585,6 +41593,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T060051Z">
         <seg>開啟或儲存至 Box、Google 文件、Office 365、Evernote 和 Dropbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the covers to reach the cleaning areas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055502Z" creationid="Judy" creationdate="20151205T055502Z">
+        <seg>打開外蓋以進入清洗區域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66282,6 +66298,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023043Z">
         <seg>Use settings from the locally installed product（使用本機安裝產品之設定），或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use special cleaning products.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055509Z" creationid="Judy" creationdate="20151205T055509Z">
+        <seg>使用特殊清潔產品，</seg>
       </tuv>
     </tu>
     <tu>
