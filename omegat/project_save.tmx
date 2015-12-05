@@ -17900,6 +17900,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnect in the dosing order on the “WORK” touch screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081517Z" creationid="Judy" creationdate="20151205T081456Z">
+        <seg>於「Work (工作)」觸控式螢幕上切斷給料，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discover what’s new in HR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231014Z">
@@ -37515,6 +37523,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the machine is ready to start the productive cycle, as indicated in chapter “Preparing to start the productive cycle”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081347Z" creationid="Judy" creationdate="20151205T081347Z">
+        <seg>確保機台已如章節「生產運轉開始準備」所述準備好開始生產循環，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure the product being treated is the planned format.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065304Z" creationid="Judy" creationdate="20151205T065256Z">
@@ -37527,6 +37543,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070243Z" creationid="Judy" creationdate="20151205T070243Z">
         <seg>確保卷筒無法側向移動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the right adjustments have been made on the screen for the format to be made: Number of tracks, Stick length, Speed (cycles/min.), Program, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081224Z" creationid="Judy" creationdate="20151205T081224Z">
+        <seg>確保畫面上已正確調整為所需的格式：軌道數、直條包裝長度、速度 (循環/分)、程式設定等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66592,6 +66616,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T075110Z">
         <seg>若需要唯讀 PDF 印表機設定和建立協助設定檔時關閉此功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn “FILLER “OFF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081515Z" creationid="Judy" creationdate="20151205T081515Z">
+        <seg>關閉「填料機」。</seg>
       </tuv>
     </tu>
     <tu>
