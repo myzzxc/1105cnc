@@ -11980,6 +11980,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONSTANT AIR SUPPLY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060754Z" creationid="Judy" creationdate="20151205T060754Z">
+        <seg>恆定空氣供應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONSUMABLE SPARE PARTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154103Z">
@@ -15163,6 +15171,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113649Z">
         <seg>直接連接到 Dropbox®、Evernote®、Box、 Windows Live SkyDrive® 和 Google 雲端硬碟™ 等雲端儲存網站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connect the air inputs situated in the unwinder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060719Z" creationid="Judy" creationdate="20151205T060719Z">
+        <seg>連接位於開卷機中的空氣入口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48041,6 +48057,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regulator</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060734Z" creationid="Judy" creationdate="20151205T060734Z">
+        <seg>調節閥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134932Z">
@@ -49826,6 +49850,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T234231Z">
         <seg>安全資料表 (SDS) 為最新、正確、隨時可得且使用勞工當地語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety electrovalve</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060830Z" creationid="Judy" creationdate="20151205T060830Z">
+        <seg>安全電池閥</seg>
       </tuv>
     </tu>
     <tu>
@@ -51808,6 +51840,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143837Z">
         <seg>展示每個步驟中的活動和成就</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shut off valve</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060932Z" creationid="Judy" creationdate="20151205T060932Z">
+        <seg>開關閥</seg>
       </tuv>
     </tu>
     <tu>
