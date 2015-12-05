@@ -5052,6 +5052,15 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ARANOW Packaging Machinery</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020205Z" creationid="Judy" creationdate="20151205T020205Z">
+        <seg>ARANOW Packaging Machinery 
+技術部門撰寫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ARRIVAL DATE OF THE LAST SHIPMENT AT THE LATEST</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T024210Z">
@@ -6170,9 +6179,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Address:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050030Z">
-        <seg>Address:
-地址：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020213Z">
+        <seg>地址：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36011,6 +36019,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Machine serial nr:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020055Z" creationid="Judy" creationdate="20151205T020055Z">
+        <seg>機台序號：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main Disconnect Fuse</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092942Z">
@@ -36265,6 +36281,22 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014141Z">
         <seg>Manual 
 品質管控手冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual Code:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020043Z" creationid="Judy" creationdate="20151205T020043Z">
+        <seg>手冊代碼：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual drawn up by the Technical Department of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020150Z" creationid="Judy" creationdate="20151205T020150Z">
+        <seg>手冊由</seg>
       </tuv>
     </tu>
     <tu>
@@ -53154,6 +53186,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tel: +34  93 715 46 76 Fax: +34 93 715 46 77</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020238Z" creationid="Judy" creationdate="20151205T020238Z">
+        <seg>電話：+34  93 715 46 76 傳真：+34 93 715 46 77</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tel: +46 (0)8 456 35 00</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033201Z">
@@ -64185,6 +64225,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153220Z">
         <seg>美元計價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USER’S MANUAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020024Z" creationid="Judy" creationdate="20151205T020024Z">
+        <seg>使用者手冊</seg>
       </tuv>
     </tu>
     <tu>
