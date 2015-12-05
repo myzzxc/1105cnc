@@ -2325,6 +2325,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>180–220 sticks/min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031247Z" creationid="Judy" creationdate="20151205T031247Z">
+        <seg>180–220 膠合/分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>19 and 20, the pivotal bar 610 is bowed outwardly which provides increased interior room for the driver.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T064002Z">
@@ -2748,6 +2756,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T111700Z">
         <seg>26 和 27，貨物平台鈑 238 透過多個連接點連接到載貨部分底座 252。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>272 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031658Z" creationid="Judy" creationdate="20151205T031658Z">
+        <seg>272 毫米</seg>
       </tuv>
     </tu>
     <tu>
@@ -3332,6 +3348,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>45-55 cycles/min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031225Z" creationid="Judy" creationdate="20151205T031225Z">
+        <seg>45-55 轉/分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>47% reduction of part numbers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101855Z">
@@ -3368,6 +3392,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015853Z">
         <seg>以及美國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5,4 – 6,6 m./min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031309Z" creationid="Judy" creationdate="20151205T031309Z">
+        <seg>5,4 – 6,6 公尺/分</seg>
       </tuv>
     </tu>
     <tu>
@@ -6589,6 +6621,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T134155Z">
         <seg>空氣進氣系統 134 包含具有進氣口 322 之進氣口外殼 320。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Air pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031059Z" creationid="Judy" creationdate="20151205T031059Z">
+        <seg>空氣壓力</seg>
       </tuv>
     </tu>
     <tu>
@@ -16412,6 +16452,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033621Z">
         <seg>詳細設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DIMENSIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031531Z" creationid="Judy" creationdate="20151205T031531Z">
+        <seg>尺寸</seg>
       </tuv>
     </tu>
     <tu>
@@ -34844,6 +34892,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>L/min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031055Z" creationid="Judy" creationdate="20151205T031055Z">
+        <seg>公升/分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LASER DIGITIZER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131752Z">
@@ -35987,6 +36043,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MACHINE IDENTIFICATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031319Z" creationid="Judy" creationdate="20151205T031319Z">
+        <seg>機器標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE SYSTEM POWER REQUIREMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092357Z">
@@ -36934,6 +36998,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T120937Z" creationid="Judy" creationdate="20151201T120937Z">
         <seg>Max Limit (最大正限制)：當包裝重量大於此參數值時，此重量將會排除在回饋的平均之外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031107Z" creationid="Judy" creationdate="20151205T031107Z">
+        <seg>最大</seg>
       </tuv>
     </tu>
     <tu>
@@ -46049,6 +46121,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REEL SIZE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031644Z" creationid="Judy" creationdate="20151205T031644Z">
+        <seg>卷筒尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REFERENCE DOCUMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153305Z">
@@ -46433,6 +46513,22 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recommended cycle speed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031213Z" creationid="Judy" creationdate="20151205T031213Z">
+        <seg>建議運轉速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recommended film speed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031300Z" creationid="Judy" creationdate="20151205T031300Z">
+        <seg>建議箔片速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reconciling different water uses at the basin level and improving policy coherence nationally and across borders will be priorities for many years to come.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T083336Z">
@@ -46661,6 +46757,30 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021903Z" creationid="Judy" creationdate="20151205T021903Z">
         <seg>卷筒展開軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reel exterior diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031714Z" creationid="Judy" creationdate="20151205T031714Z">
+        <seg>卷筒外徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reel interior diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031704Z" creationid="Judy" creationdate="20151205T031704Z">
+        <seg>卷筒內徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reel width</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031652Z" creationid="Judy" creationdate="20151205T031652Z">
+        <seg>卷筒寬度</seg>
       </tuv>
     </tu>
     <tu>
@@ -48810,6 +48930,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135559Z">
         <seg>第 8 步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STICK FORMAT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031751Z" creationid="Judy" creationdate="20151205T031751Z">
+        <seg>膠合格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -52107,6 +52235,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022709Z" creationid="Judy" creationdate="20151205T022709Z">
         <seg>膠合固定器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stick production speed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031234Z" creationid="Judy" creationdate="20151205T031234Z">
+        <seg>膠合生產速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -56923,6 +57059,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The figure below is a rough diagram of the machine dimensions in millimetres.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031626Z" creationid="Judy" creationdate="20151205T031626Z">
+        <seg>下圖是為一張機器的設計圖，尺寸以毫米為單位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The file must be compliant with the PPAP or VDA 6.3 requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T030815Z">
@@ -58714,6 +58858,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183916Z">
         <seg>初始部份交貨記錄必須存檔至少 15 年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The registration number (serial nr) must be given every time a spare or anything else is required for the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031529Z" creationid="Judy" creationdate="20151205T031529Z">
+        <seg>每次訂購零件或其它機器需求時必須提供註冊編號 (序號)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70885,6 +71037,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>air noise emitted</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031122Z" creationid="Judy" creationdate="20151205T031122Z">
+        <seg>空氣噪音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>all the regulatory and security requirements related to the production and use of the supply in question are included;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020047Z">
@@ -72909,6 +73069,22 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030807Z">
         <seg>½ 小時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ø 70-76 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031710Z" creationid="Judy" creationdate="20151205T031710Z">
+        <seg>Ø 70-76 毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ø450 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031719Z" creationid="Judy" creationdate="20151205T031719Z">
+        <seg>Ø450 毫米</seg>
       </tuv>
     </tu>
     <tu>
