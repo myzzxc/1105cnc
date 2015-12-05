@@ -22652,6 +22652,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill the dosing group with the product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062151Z" creationid="Judy" creationdate="20151205T062151Z">
+        <seg>裝填產品至給料裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill the service side with water using plant line pressure.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134933Z">
@@ -40524,6 +40532,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OFF / ON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062222Z" creationid="Judy" creationdate="20151205T062222Z">
+        <seg>關 / 開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ON: indicates that the Board and Shield are powered</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141005Z">
@@ -45644,6 +45660,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press RESET on the control panel to reset the alarms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062353Z" creationid="Judy" creationdate="20151205T062353Z">
+        <seg>按下控制面板上重置按鈕以重置警報，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press any control button to make sure that the machine has been turned off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025536Z" creationid="Judy" creationdate="20151205T025536Z">
@@ -49594,6 +49618,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053922Z">
         <seg>開口環和固定法蘭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>START THE MACHINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062201Z" creationid="Judy" creationdate="20151205T062201Z">
+        <seg>啟動機台</seg>
       </tuv>
     </tu>
     <tu>
@@ -58676,6 +58708,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The machine is started as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062238Z" creationid="Judy" creationdate="20151205T062238Z">
+        <seg>機台啟動步驟如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine must be maintained by qualified staff.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025600Z" creationid="Judy" creationdate="20151205T025600Z">
@@ -65800,6 +65840,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142609Z">
         <seg>關閉更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn on the main switch (electricity and pneumatic) to power up the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062316Z" creationid="Judy" creationdate="20151205T062316Z">
+        <seg>打開主開關 (電源和氣動) 以供應電源至機台。</seg>
       </tuv>
     </tu>
     <tu>
