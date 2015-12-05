@@ -1818,6 +1818,14 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.100</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040523Z" creationid="Judy" creationdate="20151205T040523Z">
+        <seg>1,100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.5m Shockproof</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125801Z">
@@ -9503,6 +9511,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attach slings to the structure through the lower part of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040733Z" creationid="Judy" creationdate="20151205T040733Z">
+        <seg>將吊索固定至機器結構的下端部份，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attach the hydrostatic pump to the test fixture and bi4 ng the process to the correct final test pressure.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135745Z">
@@ -11876,6 +11892,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CRANE LIFTING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040616Z" creationid="Judy" creationdate="20151205T040616Z">
+        <seg>吊掛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CROSS-REFERENCE TO RELATED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T124854Z">
@@ -12527,8 +12551,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Check the weights of the parts to be lifted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040419Z" creationid="Judy" creationdate="20151205T040235Z">
-        <seg>檢查將要吊掛的各零件重量，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040509Z" creationid="Judy" creationdate="20151205T040235Z">
+        <seg>檢查將要吊掛的各部件重量，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26160,6 +26184,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hopper with structure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040545Z" creationid="Judy" creationdate="20151205T040545Z">
+        <seg>料斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horizontal cut between sealing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022641Z" creationid="Judy" creationdate="20151205T022641Z">
@@ -35068,6 +35100,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kg</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040526Z" creationid="Judy" creationdate="20151205T040526Z">
+        <seg>公斤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Knife Cutting Solutions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T130420Z">
@@ -36653,8 +36693,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Machinery Part</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040409Z" creationid="Judy" creationdate="20151205T040409Z">
-        <seg>機械零件</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040500Z" creationid="Judy" creationdate="20151205T040409Z">
+        <seg>機械部件</seg>
       </tuv>
     </tu>
     <tu>
@@ -52607,6 +52647,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stick pack machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040454Z" creationid="Judy" creationdate="20151205T040454Z">
+        <seg>直條包裝機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stick production speed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033543Z" creationid="Judy" creationdate="20151205T031234Z">
@@ -66897,8 +66945,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Verify that the tools and machinery to lift the parts have the sufficient capacities.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040413Z" creationid="Judy" creationdate="20151205T040318Z">
-        <seg>確認吊掛機台零件之工具和機械具有足夠的承重力。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040504Z" creationid="Judy" creationdate="20151205T040318Z">
+        <seg>確認吊掛機台部件之工具和機械具有足夠的承重力。</seg>
       </tuv>
     </tu>
     <tu>
