@@ -35775,8 +35775,8 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Laminate brake line</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034723Z" creationid="Judy" creationdate="20151205T034723Z">
-        <seg>疊片煞車</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T073433Z" creationid="Judy" creationdate="20151205T034723Z">
+        <seg>疊片煞車線</seg>
       </tuv>
     </tu>
     <tu>
@@ -73300,6 +73300,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181438Z">
         <seg>1a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>laminate installation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T073328Z" creationid="Judy" creationdate="20151205T073328Z">
+        <seg>層壓板安裝</seg>
       </tuv>
     </tu>
     <tu>
