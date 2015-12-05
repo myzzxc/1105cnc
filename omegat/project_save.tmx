@@ -23145,8 +23145,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Fit the paper reels.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065426Z" creationid="Judy" creationdate="20151205T065426Z">
-        <seg>安裝紙捲軸，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065453Z" creationid="Judy" creationdate="20151205T065426Z">
+        <seg>安裝紙卷軸，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25516,6 +25516,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T141612Z">
         <seg>工作方式指南 (模塊化嵌入於在公司流程中)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gun</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065748Z" creationid="Judy" creationdate="20151205T065748Z">
+        <seg>噴槍</seg>
       </tuv>
     </tu>
     <tu>
@@ -34463,6 +34471,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is important to read all of the details of the “unwinder unit maintenance and guide”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065733Z" creationid="Judy" creationdate="20151205T065733Z">
+        <seg>請詳獨「開卷機組維護和指南」中的所有資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is made in such a way that it can also be used when working with breadboards.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120739Z">
@@ -37231,6 +37247,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141328Z">
         <seg>準備乾淨的系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure all of the protection devices are perfectly closed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065523Z" creationid="Judy" creationdate="20151205T065523Z">
+        <seg>確保所有保護裝置完全關上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44033,6 +44057,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pass the paper through the unwinder to the drag unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065450Z" creationid="Judy" creationdate="20151205T065450Z">
+        <seg>將紙拉出穿過開卷裝置至抽拉機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pass through</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043442Z" creationid="Judy" creationdate="20151205T043431Z">
@@ -50731,6 +50763,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See chapter “1.6 Thermosealable foil installation”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065503Z" creationid="Judy" creationdate="20151205T065503Z">
+        <seg>請見章節「1.6 熱封箔片安裝」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See chapter “1.6 Thermosealing foil installation”.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062103Z" creationid="Judy" creationdate="20151205T062034Z">
@@ -54646,6 +54686,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T120219Z">
         <seg>此後兩年內，每完整一個月價格增加 0.25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THERMO-SEALING FOIL INSTALLATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065553Z" creationid="Judy" creationdate="20151205T065553Z">
+        <seg>熱封箔片安裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -60862,6 +60910,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The thermo sealing paper may be supplied by the operator controlling the machine production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065653Z" creationid="Judy" creationdate="20151205T065556Z">
+        <seg>熱封紙可由控制機台生產之操作員機供應，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The third location being forward of the fourth location and closer to the longitudinal centerline plane than the fourth location.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T072940Z">
@@ -66008,6 +66064,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142609Z">
         <seg>關閉更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn on the machine with the main switch (electrical and pneumatic).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065543Z" creationid="Judy" creationdate="20151205T065543Z">
+        <seg>打開機台主開關 (電源和氣動)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73772,6 +73836,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125224Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reel installation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065739Z" creationid="Judy" creationdate="20151205T065739Z">
+        <seg>卷筒安裝</seg>
       </tuv>
     </tu>
     <tu>
