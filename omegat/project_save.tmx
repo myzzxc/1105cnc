@@ -37954,6 +37954,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark the paper with the distance in the same direction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082643Z" creationid="Judy" creationdate="20151205T082547Z">
+        <seg>於紙片上以同一方向標示此距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark the ’Application’ radio button and click ’Next’.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115001Z">
@@ -39474,6 +39482,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T133408Z">
         <seg>移動工具面板重尋組織 ribbon 工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the detector spot to put on the new position marked on the paper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082721Z" creationid="Judy" creationdate="20151205T082603Z">
+        <seg>移動感測點至紙片上標示之新的位置上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66636,6 +66652,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082807Z" creationid="Judy" creationdate="20151205T082807Z">
+        <seg>打開。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn off the Spot detector photocell with the ”PHOTOCELL” button on the “SELECTORS” screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081717Z" creationid="Judy" creationdate="20151205T081650Z">
@@ -66648,6 +66672,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142609Z">
         <seg>關閉更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn on the Spot Control photocell with the “PHOTOCELL” key of the “SELECTORS” screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082801Z" creationid="Judy" creationdate="20151205T082801Z">
+        <seg>於「SELECTORS (開關)」畫面中按下「PHOTOCELL (光電感應器)」按鈕打開光電感應器，</seg>
       </tuv>
     </tu>
     <tu>
