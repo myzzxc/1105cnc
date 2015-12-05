@@ -54063,6 +54063,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stopping the machine must be done in the usual way by pressing the STOP button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T143443Z" creationid="Judy" creationdate="20151205T143439Z">
+        <seg>機台停止必須使用一般的方式按下停止按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Storage of such work documentation will follow procedures from the Quality Control department.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062840Z">
