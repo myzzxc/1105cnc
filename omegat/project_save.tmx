@@ -37669,10 +37669,26 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manually insert all of the strips around the forming tube in the stick forming position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075502Z" creationid="Judy" creationdate="20151205T075502Z">
+        <seg>手動插入所有長條箔片至成型管之直條包裝成形位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manually slide the foil so that the blades cut the foil into strips.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075405Z" creationid="Judy" creationdate="20151205T075405Z">
         <seg>手動滑動箔片使刀片將箔片切成條狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manually stretch all of the strips to leave them prepared for the horizontal sealer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075751Z" creationid="Judy" creationdate="20151205T075751Z">
+        <seg>手動拉出所有直條箔片進入水平封裝機就緒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46084,6 +46100,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press RESET and then RUN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075808Z" creationid="Judy" creationdate="20151205T075808Z">
+        <seg>按下重置按鈕後再按下運行按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press RESET on the control panel to reset the alarms.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062353Z" creationid="Judy" creationdate="20151205T062353Z">
@@ -51103,6 +51127,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075004Z" creationid="Judy" creationdate="20151205T075004Z">
         <seg>請見圖 4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See figure 5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075513Z" creationid="Judy" creationdate="20151205T075513Z">
+        <seg>請見圖 5。</seg>
       </tuv>
     </tu>
     <tu>
