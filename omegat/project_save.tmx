@@ -5285,6 +5285,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTOMATIC STOP IN THE EVENT OF ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144506Z" creationid="Judy" creationdate="20151205T144506Z">
+        <seg>觸發警報時自動停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOZONE MANAGEMENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143008Z">
@@ -6565,6 +6573,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062439Z" creationid="Judy" creationdate="20151205T062439Z">
         <seg>改正警報情況後，再按一次重置按鈕以檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After correcting the cause of the emergency press the RESET button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144344Z" creationid="Judy" creationdate="20151205T144344Z">
+        <seg>去除緊急停止的原因後按下重置按鈕，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10830,6 +10846,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070155Z">
         <seg>卸下固定端頭之前, 必須釋放浮動端所有彈簧墊片之張力，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before resetting, make sure along the whole of the working route that there are no faults in the product placement, product blockage or tearing, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144316Z" creationid="Judy" creationdate="20151205T144316Z">
+        <seg>重置前，請確保整個工作路線上無產品之定位異常、產品堵塞或撕裂等情況。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27685,6 +27709,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062545Z" creationid="Judy" creationdate="20151205T062545Z">
         <seg>若所有條件皆正確且已解除警報狀態，可以按下運行按鈕以啟動機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If all of the conditions are correct and the alarms are resolved, the machine can be started by pressing the RUN button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144442Z" creationid="Judy" creationdate="20151205T144442Z">
+        <seg>若所有條件皆正確且警報皆解除，可以按下運行按鈕啟動機台。</seg>
       </tuv>
     </tu>
     <tu>
