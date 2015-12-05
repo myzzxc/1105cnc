@@ -30373,10 +30373,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following station the sticks come out through the exit ramp, through an elevation belt to be deposited in the grouper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064849Z" creationid="Judy" creationdate="20151205T064849Z">
+        <seg>下一站直條包裝通過出口匝道，並由輸送帶運送至打包機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following table, the various types of rejects and feeders the machine can incorporate and the difference between each are defined.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T154236Z" creationid="Judy" creationdate="20151124T154236Z">
         <seg>下表中列出了機台可以外加的各種類型退回機和進料機以及其差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the grouping station the sticks are counted and grouped in set quantities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064937Z" creationid="Judy" creationdate="20151205T064937Z">
+        <seg>打包站中會計算直條包裝數量並依設定數量打包。</seg>
       </tuv>
     </tu>
     <tu>
