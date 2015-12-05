@@ -7939,6 +7939,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Antistatic bar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022610Z" creationid="Judy" creationdate="20151205T022610Z">
+        <seg>抗靜電桿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Advanced Analytical configuration allows that after the object classes registration, any alarm will be triggered only by a defined object type, as cars, people, etc...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T063336Z">
@@ -11833,6 +11841,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T084630Z">
         <seg>Can-Am Specifications for Commander 800R，2010 版權所有，1 頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canalized chute</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022752Z" creationid="Judy" creationdate="20151205T022752Z">
+        <seg>滑槽</seg>
       </tuv>
     </tu>
     <tu>
@@ -25752,6 +25768,22 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Horizontal cut between sealing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022641Z" creationid="Judy" creationdate="20151205T022641Z">
+        <seg>水平封裝間切割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal sealing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022600Z" creationid="Judy" creationdate="20151205T022600Z">
+        <seg>水平封裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hotfixes should be installed as an additional step.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T041451Z">
@@ -30897,6 +30929,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032119Z">
         <seg>內裝配件 	1800	600	67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interior of machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022805Z" creationid="Judy" creationdate="20151205T022805Z">
+        <seg>機台內部</seg>
       </tuv>
     </tu>
     <tu>
@@ -51735,10 +51775,26 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stick forming</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022540Z" creationid="Judy" creationdate="20151205T022512Z">
+        <seg>膠合成形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stick holder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022709Z" creationid="Judy" creationdate="20151205T022709Z">
+        <seg>膠合固定器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stick production unit maintenance and guide</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022351Z" creationid="Judy" creationdate="20151205T022331Z">
-        <seg>固定生產機組維護和指南</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022522Z" creationid="Judy" creationdate="20151205T022331Z">
+        <seg>膠合生產機組維護和指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -53414,6 +53470,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081511Z">
         <seg>目標市場：SOHO 族、專業人士、小型公司、大型企業、醫療合法律單位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tear notch</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022652Z" creationid="Judy" creationdate="20151205T022652Z">
+        <seg>撕裂口</seg>
       </tuv>
     </tu>
     <tu>
@@ -65835,6 +65899,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022426Z" creationid="Judy" creationdate="20151205T022426Z">
         <seg>垂直切割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical sealing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022552Z" creationid="Judy" creationdate="20151205T022552Z">
+        <seg>垂直封裝</seg>
       </tuv>
     </tu>
     <tu>
