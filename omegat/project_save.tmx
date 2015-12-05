@@ -37733,6 +37733,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manually adjust the position of the head of the Spot detector on the paper spot passing band.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082337Z" creationid="Judy" creationdate="20151205T082329Z">
+        <seg>手動調整光電感應頭位於紙張通過感應帶的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manually insert all of the strips around the forming tube in the stick forming position.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075502Z" creationid="Judy" creationdate="20151205T075502Z">
@@ -41959,8 +41967,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Once the machine has the stick length mentioned in the previous point, stop the machine with the STOP pushbutton.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082119Z" creationid="Judy" creationdate="20151205T082119Z">
-        <seg>當機台一旦這台機器有前面的點所述的棒長度，停了機與停止按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082209Z" creationid="Judy" creationdate="20151205T082119Z">
+        <seg>當機台製造之直條包裝長度符合以上所述，按下停止按鈕停止機台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55454,6 +55462,22 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122331Z">
         <seg>利用簡化的方式滿足 PDF/A 規範標準，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take measurement of end seal stick to spot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082439Z" creationid="Judy" creationdate="20151205T082439Z">
+        <seg>量測直條包裝封裝末端至感應點長度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the last stick manufactured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082356Z" creationid="Judy" creationdate="20151205T082356Z">
+        <seg>取最後製造之直條包裝，</seg>
       </tuv>
     </tu>
     <tu>
