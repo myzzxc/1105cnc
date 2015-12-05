@@ -1424,6 +1424,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Activate the machine's voltage switch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060358Z" creationid="Judy" creationdate="20151205T060358Z">
+        <seg>- 啟動機器之電壓開關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Automatic Sheet Counter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153850Z">
@@ -1452,6 +1460,38 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060109Z" creationid="Judy" creationdate="20151205T060104Z">
         <seg>- 檢查電網能夠供應機器之消耗功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Check that the rotation direction of the servomotors is correct.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060538Z" creationid="Judy" creationdate="20151205T060538Z">
+        <seg>- 檢查伺服馬達的旋轉方向正確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Check that there is no loss of air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060438Z" creationid="Judy" creationdate="20151205T060438Z">
+        <seg>- 檢查空氣無泄漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Check the oil levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060545Z" creationid="Judy" creationdate="20151205T060545Z">
+        <seg>- 檢查機油量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Connect to the electrical and pneumatic network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060350Z" creationid="Judy" creationdate="20151205T060350Z">
+        <seg>- 連接電氣和氣動迴路。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,10 +1544,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Open the compressed air key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060412Z" creationid="Judy" creationdate="20151205T060412Z">
+        <seg>- 開啟壓縮空氣之開關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Position the compressed air key to ensure disconnection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060310Z" creationid="Judy" creationdate="20151205T060227Z">
         <seg>- 確保切斷壓縮空氣開關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Press RESET.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060507Z" creationid="Judy" creationdate="20151205T060507Z">
+        <seg>- 按下重置按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Press RUN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060519Z" creationid="Judy" creationdate="20151205T060519Z">
+        <seg>- 按下運行按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Press the EMERGENCY STOP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060336Z" creationid="Judy" creationdate="20151205T060336Z">
+        <seg>- 按下緊急停止開關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Pull out the EMERGENCY STOP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060451Z" creationid="Judy" creationdate="20151205T060451Z">
+        <seg>- 拉出緊急停止開關。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11856,6 +11936,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034510Z" creationid="Judy" creationdate="20151205T034510Z">
         <seg>構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMPRESSED AIR CONNECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060616Z" creationid="Judy" creationdate="20151205T060616Z">
+        <seg>壓縮空氣連接</seg>
       </tuv>
     </tu>
     <tu>
@@ -50279,6 +50367,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060021Z" creationid="Judy" creationdate="20151205T060021Z">
         <seg>請見章節「1.2 主要特性」所列之機台需求或依技術資料標識牌所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter "2.6 Lubrication."</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060603Z" creationid="Judy" creationdate="20151205T060603Z">
+        <seg>請見章節「2.6 潤滑」。</seg>
       </tuv>
     </tu>
     <tu>
