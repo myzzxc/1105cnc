@@ -6545,6 +6545,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After correcting the alarm situations, press RESET once more to check.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062439Z" creationid="Judy" creationdate="20151205T062439Z">
+        <seg>改正警報情況後，再按一次重置按鈕以檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After filling the vessel, allow approximately 5 minutes for trapped air to escape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055545Z">
@@ -27377,6 +27385,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If all of the conditions are correct and the alarm conditions have been resolved, the machine can be started by pressing the RUN button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062545Z" creationid="Judy" creationdate="20151205T062545Z">
+        <seg>若所有條件皆正確且已解除警報狀態，可以按下運行按鈕以啟動機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If all the process has been successfully performed, you will automatically access the screen 3.28.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T141416Z" creationid="Judy" creationdate="20151203T141416Z">
@@ -27549,6 +27565,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150502T061600Z">
         <seg>若最初壓力因為墊片吸收而下降 5 至 10 psi，再加壓至測試壓力並至少等待 15 分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If production is to be restarted after a synchronised stop press RESET and then RUN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062857Z" creationid="Judy" creationdate="20151205T062857Z">
+        <seg>若同步停止後需重新啟動生產，按下重置按鈕後再按下運行按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37171,6 +37195,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the doors are closed; otherwise the safety system will prevent the machine from starting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062640Z" creationid="Judy" creationdate="20151205T062640Z">
+        <seg>確保機門緊閉；否則安全系統將會制止機台啟動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure to change the network settings for your network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141702Z">
@@ -40544,6 +40576,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141005Z">
         <seg>ON：電路板和模組板已通電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OPERATING CYCLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T063750Z" creationid="Judy" creationdate="20151205T063750Z">
+        <seg>操作運轉</seg>
       </tuv>
     </tu>
     <tu>
@@ -58348,6 +58388,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The general operating cycle of the sachet packing machine is as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T063908Z" creationid="Judy" creationdate="20151205T063852Z">
+        <seg>小袋包裝機之一般操作運轉如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The global water crisis is one of governance, much more than of resource availability, and this is where the bulk of the action is required in order to achieve a water secure world.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T060720Z">
@@ -69067,6 +69115,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083141Z">
         <seg>AXYZ 於機器視覺和攝影定位系統中有最先進的解決方案可供選用，提供卓越的性能和投資回報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When it starts, the machine drags the paper and places it correctly using a photocell.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064006Z" creationid="Judy" creationdate="20151205T064006Z">
+        <seg>啟動時機器抽取紙捲並利用光電感應器將其置於正確位置。</seg>
       </tuv>
     </tu>
     <tu>
