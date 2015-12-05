@@ -9415,6 +9415,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end, attach support legs by tightening the nuts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044837Z" creationid="Judy" creationdate="20151205T044837Z">
+        <seg>最後轉緊螺母固定支座。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the moment that the zero limit time is met, the LED will light red; at that time, the LED of Total Zero will also be shown in red.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090712Z" creationid="Judy" creationdate="20151128T090712Z">
@@ -9958,6 +9966,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094046Z">
         <seg>避免於沙子或灰塵環境中使用移動元件如液晶螢幕轉軸和變焦撥桿以防止沙塵堆積於內部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid vibrations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044757Z" creationid="Judy" creationdate="20151205T044757Z">
+        <seg>避免振動，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10598,6 +10614,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T174228Z" creationid="Judy" creationdate="20151202T174228Z">
         <seg>進入此畫面前，機器台將會提醒關閉生產，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before installing the machine, make sure there is enough free space to open the various doors and for the supply and product output.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044024Z" creationid="Judy" creationdate="20151205T044018Z">
+        <seg>安裝機器之前，請確保具有能打開各維修門以及供應產品輸出的足夠空間，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11700,6 +11724,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CLEANING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044946Z" creationid="Judy" creationdate="20151205T044946Z">
+        <seg>清潔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CLEANING/DEGREASING &amp; COATING QUICKLIST</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T144519Z">
@@ -12317,6 +12349,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Centre of gravity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043422Z" creationid="Judy" creationdate="20151205T043422Z">
+        <seg>重心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ceramic, Graphite, Heat Exchangers, Process Equipment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T134251Z">
@@ -12561,6 +12601,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070620Z">
         <seg>檢查管道由外管輸水至內管之管道口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check your uniform support on the ground.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044750Z" creationid="Judy" creationdate="20151205T044750Z">
+        <seg>請檢查地面支撐均勻分配，</seg>
       </tuv>
     </tu>
     <tu>
@@ -15107,6 +15155,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T052150Z">
         <seg>連接點開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consider the comfortable handling of the operator and easy access to maintenance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044128Z" creationid="Judy" creationdate="20151205T044022Z">
+        <seg>請考慮操作員之操作舒適性以及進行維護之便利性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21526,6 +21582,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T124919Z">
         <seg>國外專利文獻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FORKLIFT TRUCK LIFTING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043523Z" creationid="Judy" creationdate="20151205T043523Z">
+        <seg>叉動車搬運</seg>
       </tuv>
     </tu>
     <tu>
@@ -33951,6 +34015,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is advised that the fork of the truck is centrally positioned on the front part with the doors removed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043825Z" creationid="Judy" creationdate="20151205T043825Z">
+        <seg>建議拆除前門並將叉動車對準前方部件中心以進行搬運。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is advised to use this functionality with discretion.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T231613Z">
@@ -34019,6 +34091,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134424Z">
         <seg>此模組與Arduino Uno和Mega相容（使用乙太網路程式館）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is essential to place the machine level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044320Z" creationid="Judy" creationdate="20151205T044320Z">
+        <seg>必須水平放置機台，</seg>
       </tuv>
     </tu>
     <tu>
@@ -43545,6 +43625,22 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pass through</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043442Z" creationid="Judy" creationdate="20151205T043431Z">
+        <seg>穿過</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pass through the slings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043508Z" creationid="Judy" creationdate="20151205T043508Z">
+        <seg>穿過吊索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Passenger</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142138Z">
@@ -44558,6 +44654,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T121529Z">
         <seg>職位管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position the forks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043850Z" creationid="Judy" creationdate="20151205T043850Z">
+        <seg>叉動車搬運位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -48732,6 +48836,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Room temperature of 20-22ºC and relative humidity of 50-60% is advised.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044254Z" creationid="Judy" creationdate="20151205T044254Z">
+        <seg>建議室溫為 20-22ºC 且相對濕度為 50-60%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roseau, MN (US)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151113T142404Z">
@@ -49074,6 +49186,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145513Z">
         <seg>新加坡 / 印尼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SITING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043902Z" creationid="Judy" creationdate="20151205T043902Z">
+        <seg>支座</seg>
       </tuv>
     </tu>
     <tu>
@@ -56875,6 +56995,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The centre of gravity is always approximately 1.000 mm from the ground.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040844Z" creationid="Judy" creationdate="20151205T040825Z">
+        <seg>重心始終位於距地面約 1,000 毫米處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The challenges at the interface of water and sustainable development vary from one region to another.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T083140Z">
@@ -58208,6 +58336,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T134153Z">
         <seg>機台配件可分為五個部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The machine should be appropriately installed in an area where there is no direct exposure to sunlight and it is climatically conditioned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044227Z" creationid="Judy" creationdate="20151205T044227Z">
+        <seg>機器應適當地安裝於未直接暴露於陽光和嚴苛氣候條件的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64699,6 +64835,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To place in its area of installation, always use a normal forklift truck whenever this has the sufficient capacity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043628Z" creationid="Judy" creationdate="20151205T043628Z">
+        <seg>要將機台放置於其安裝區域，請使用具有足夠承重力之正常叉動車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To publish product to client machines, follow the steps below:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114436Z">
@@ -66029,6 +66173,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Upon completion of installation, clean the machine's interior and install all protection devices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044939Z" creationid="Judy" creationdate="20151205T044939Z">
+        <seg>安裝完成後，清潔機器內部並安裝所有的保護設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Upon moving the mouse over a camera on the synoptic map, it is possible to get a preview of the live images together with information from the cameras.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151505Z">
@@ -66186,6 +66338,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150501T020636Z">
         <seg>依據以下指示說明於接收時進行檢驗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the four regulator legs as a fixing reference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040803Z" creationid="Judy" creationdate="20151205T040803Z">
+        <seg>以四個調節支座作為固定點，</seg>
       </tuv>
     </tu>
     <tu>
@@ -67051,6 +67211,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101138Z" creationid="Judy" creationdate="20151128T091249Z">
         <seg>Vibration (震動)：平台無法達到穩定性標準時，LED 燈顯示灰色；平時 LED 燈則維持綠色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vibrations are detrimental to the performance of the machine and cause damage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044925Z" creationid="Judy" creationdate="20151205T044925Z">
+        <seg>振動不利於機器之效能且會造成損壞。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73284,6 +73452,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151111T130736Z">
         <seg>第二空氣進氣系統之第二次進氣口完全位於無段變速單元之第二側。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the slings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043451Z" creationid="Judy" creationdate="20151205T043451Z">
+        <seg>吊索</seg>
       </tuv>
     </tu>
     <tu>
