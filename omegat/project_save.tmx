@@ -19720,6 +19720,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each input box contains a description of the input itself.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101157Z" creationid="Judy" creationdate="20151206T101157Z">
+        <seg>每個輸入方框中包含輸入本身的說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each of</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163225Z" creationid="Judy" creationdate="20151202T163225Z">
@@ -23596,6 +23604,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.35.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101201Z" creationid="Judy" creationdate="20151206T101201Z">
+        <seg>圖 3.35 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T134159Z" creationid="Judy" creationdate="20151128T134159Z">
@@ -24691,8 +24707,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For example to verify that the entry of the photocell works correctly just you have to pass your hand through the weight conveyor photocell and the LED for entry 1 with "Photocell" label will light.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100844Z" creationid="Judy" creationdate="20151206T100830Z">
-        <seg>例如要驗證光電感應器之輸入條目正確工作，只是你必須通過你的手度過重量輸送機光電池和對於具有"光電池"標籤的條目 1 指示燈將亮起。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101141Z" creationid="Judy" creationdate="20151206T100830Z">
+        <seg>例如要驗證光電感應器之輸入條目正確工作，只需將手通過秤重輸送帶光電感應器和 LED 燈之間，標有「光電感應器」之輸入條目 1 的燈將亮起。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52879,6 +52895,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161329Z" creationid="Judy" creationdate="20151204T161329Z">
         <seg>動態資料設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Verify Inputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101206Z" creationid="Judy" creationdate="20151206T101206Z">
+        <seg>驗證輸入畫面</seg>
       </tuv>
     </tu>
     <tu>
