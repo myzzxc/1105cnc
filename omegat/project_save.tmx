@@ -35719,6 +35719,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is necessary work with precision values is ensures the correct sealing of sticks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065529Z" creationid="Judy" creationdate="20151206T065529Z">
+        <seg>直條包裝的正確封裝需要精確的工作溫度值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not recommended to do it manually by holding the corners of the machine as it could damage the weight sensor or the transmission and disarrange the conveyors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045258Z" creationid="Judy" creationdate="20151128T045258Z">
@@ -38063,6 +38071,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090430Z">
         <seg>機台之空氣供應需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MACHINE CLEANING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065531Z" creationid="Judy" creationdate="20151206T065531Z">
+        <seg>機台清潔</seg>
       </tuv>
     </tu>
     <tu>
@@ -49317,6 +49333,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031300Z" creationid="Judy" creationdate="20151205T031300Z">
         <seg>建議箔片速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recommended to change the PT100 sensors annually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065440Z" creationid="Judy" creationdate="20151206T065421Z">
+        <seg>建議每年更換 PT100 溫度感測器，</seg>
       </tuv>
     </tu>
     <tu>
