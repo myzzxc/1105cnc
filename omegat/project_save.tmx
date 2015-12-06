@@ -37555,6 +37555,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MANUFACTURE FULL SACHETS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040512Z" creationid="Judy" creationdate="20151206T040512Z">
+        <seg>製造完整直條包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MANUFACTURER NAME</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125831Z">
@@ -38039,6 +38047,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034413Z" creationid="Judy" creationdate="20151206T034413Z">
         <seg>製造空直條包裝，直到新卷筒的直條包裝成型測試已完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make full sticks until the formation test has been completed with the new reel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040630Z" creationid="Judy" creationdate="20151206T040630Z">
+        <seg>製造完整直條包裝，直到使用新卷筒的直條包裝成型測試已完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67664,6 +67680,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034217Z" creationid="Judy" creationdate="20151206T034217Z">
         <seg>若有必要，於「Work (工作)」畫面上按下 INERT GAS (惰性氣體) 按鈕將其關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn the filler button ON in the WORK screen, according to the format change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040603Z" creationid="Judy" creationdate="20151206T040603Z">
+        <seg>於「Work (工作)」畫面上根據格式變更開啟按下 FILLER (填料器) 按鈕將其開啟。</seg>
       </tuv>
     </tu>
     <tu>
