@@ -11378,6 +11378,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Block the switches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065627Z" creationid="Judy" creationdate="20151206T065627Z">
+        <seg>鎖定開關，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Board 2.1 Board of electronic supplies</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T155834Z" creationid="Judy" creationdate="20151204T155834Z">
@@ -18400,6 +18408,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142453Z">
         <seg>停用 Windows 自動更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable the blocking and the signalling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065849Z" creationid="Judy" creationdate="20151206T065849Z">
+        <seg>取消鎖定並通電。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28661,6 +28677,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T183537Z">
         <seg>如有必要，雙方可能會簽署一份保密協定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If necessary, mark as a warning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065644Z" creationid="Judy" creationdate="20151206T065644Z">
+        <seg>如有必要，設立警告標誌。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41483,6 +41507,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normal procedure:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065545Z" creationid="Judy" creationdate="20151206T065545Z">
+        <seg>正常流程：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Norms and attitudes have changed as a result of educational interventions, institutional changes, improved scientific and technical knowledge, sharing of lessons learned and best practices, and proactive policy and legislative developments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T063445Z">
@@ -50441,6 +50473,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove cleaning products residue.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065809Z" creationid="Judy" creationdate="20151206T065809Z">
+        <seg>去除殘留清潔劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove covers and visually inspect all components for damage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T131619Z">
@@ -50493,6 +50533,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053442Z" creationid="Judy" creationdate="20151206T053442Z">
         <seg>當元件磨損或損壞時更換元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace the protective covers after cleaning</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065819Z" creationid="Judy" creationdate="20151206T065819Z">
+        <seg>清洗後更換保護蓋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68644,6 +68692,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn off the machine at the main switch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065704Z" creationid="Judy" creationdate="20151206T065704Z">
+        <seg>關閉機台主電源開關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn off the machine electricity and pneumatic switches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065607Z" creationid="Judy" creationdate="20151206T065607Z">
+        <seg>切斷機台之電氣和氣動迴路開關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn off updates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142609Z">
@@ -69642,6 +69706,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055509Z" creationid="Judy" creationdate="20151205T055509Z">
         <seg>使用特殊清潔產品，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use special non-scratch brushes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065743Z" creationid="Judy" creationdate="20151206T065743Z">
+        <seg>使用特殊不刮傷表面之毛刷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71027,6 +71099,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031723Z" creationid="Judy" creationdate="20151206T031723Z">
         <seg>等待封裝機溫度下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait for the sealers to cool.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065711Z" creationid="Judy" creationdate="20151206T065711Z">
+        <seg>等待封裝機冷卻。</seg>
       </tuv>
     </tu>
     <tu>
