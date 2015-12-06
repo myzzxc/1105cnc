@@ -32285,6 +32285,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this screen you can perform a zoom view and come back to the origin with the magnifying glass symbol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T105456Z" creationid="Judy" creationdate="20151206T105406Z">
+        <seg>此畫面中可以進行縮放檢視和使用放大鏡符號回到原始尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this section, you can read about the results our clients have achieved through modularity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031453Z">
@@ -72179,6 +72187,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T050244Z">
         <seg>我們將這稱為複雜性的成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We select the output to be activated, and the sample time, ranging from 1 to 20 seconds, is selected, being a sample of 200 readings; then we click on “Capture” button; then a message will appear that asks us to pass the pack; after that when the pack is detected the matching data will be captured and shown on a temporary graphic mode.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T105400Z" creationid="Judy" creationdate="20151206T105400Z">
+        <seg>選擇要啟動的輸出並選擇 1 到 20 秒之間的取樣時間，一個樣本 200 個讀數；接著點擊「Capture (擷取)」按鈕；然後將顯示要求輸送包裝之訊息；當偵測到包裝通過之後，將會擷取匹配的資料並顯示於即時圖形模式中。</seg>
       </tuv>
     </tu>
     <tu>
