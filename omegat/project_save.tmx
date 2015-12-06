@@ -7377,6 +7377,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All periodic maintenance will be recorded, as well as all incidents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052146Z" creationid="Judy" creationdate="20151206T052146Z">
+        <seg>所有定期維護以及所有發生的事件皆需記錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All points of machine danger have guards in place.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T134732Z">
@@ -10173,6 +10181,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T053548Z">
         <seg>本地網路上錄影伺服器之自動位址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic lubrication</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052324Z" creationid="Judy" creationdate="20151206T052324Z">
+        <seg>自動潤滑</seg>
       </tuv>
     </tu>
     <tu>
@@ -13153,6 +13169,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081852Z" creationid="Judy" creationdate="20151205T081848Z">
         <seg>檢查直條包裝長度 (B)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the level and fill up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052447Z" creationid="Judy" creationdate="20151206T052447Z">
+        <seg>檢查機油量並適時填充。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31837,6 +31861,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incident log</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T051901Z" creationid="Judy" creationdate="20151206T051901Z">
+        <seg>事件日誌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Include samples from brochures, adverts, published PR and web sites.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T125520Z">
@@ -35615,6 +35647,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is useful this to be accessible to the staff dealing with the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052111Z" creationid="Judy" creationdate="20151206T051918Z">
+        <seg>機台操作人員應能隨時取得以上報告，以便了解機台狀況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is useless if it is programmed average weight control = YES (Section “Other Options- Internal Data –Feedback”).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T121424Z" creationid="Judy" creationdate="20151201T121424Z">
@@ -36624,6 +36664,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031610Z" creationid="Judy" creationdate="20151206T031610Z">
         <seg>鎖定機器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LUBRICATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052323Z" creationid="Judy" creationdate="20151206T052323Z">
+        <seg>潤滑</seg>
       </tuv>
     </tu>
     <tu>
@@ -44656,6 +44704,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PREVENTIVE MAINTENANCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T051722Z" creationid="Judy" creationdate="20151206T051722Z">
+        <seg>預防性維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRICE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153200Z">
@@ -51898,6 +51954,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Schedule of periodic maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T051905Z" creationid="Judy" creationdate="20151206T051838Z">
+        <seg>定期維護計劃表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Schematic &amp; Reference Design</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T130531Z">
@@ -52303,6 +52367,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034117Z" creationid="Judy" creationdate="20151205T034117Z">
         <seg>請見章節 1.10 《變更格式》。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Simalube’s manual (pdf in CD).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052603Z" creationid="Judy" creationdate="20151206T052603Z">
+        <seg>請見 Simalube 之使用手冊 (光碟中的 pdf 檔案)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60283,6 +60355,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following should be drawn up and kept in sight:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T051950Z" creationid="Judy" creationdate="20151206T051835Z">
+        <seg>以下為必須記錄和保存之報告：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following station is where the foil is dragged.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064257Z" creationid="Judy" creationdate="20151205T064257Z">
@@ -60684,6 +60764,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The light and pneumatic air switches are therefore provided with a blocking system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052320Z" creationid="Judy" creationdate="20151206T052320Z">
+        <seg>因此指示燈和氣動空氣開關設有阻斷系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The list of available connectors is displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T091117Z">
@@ -60728,6 +60816,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025144Z" creationid="Judy" creationdate="20151205T025144Z">
         <seg>機器中設有自動的安全措施以消除操作的風險，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The machine has to be sealed for maintenance and cleaning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052226Z" creationid="Judy" creationdate="20151206T052226Z">
+        <seg>機台須加以密封以進行維護修和清潔，</seg>
       </tuv>
     </tu>
     <tu>
@@ -61742,6 +61838,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The programmed duration time should be from 6 to 12 months.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052527Z" creationid="Judy" creationdate="20151206T052527Z">
+        <seg>持續使用時間應為 6 到 12 個月，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The progress bar shows you where you are in the Job Change process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080942Z">
@@ -62498,6 +62602,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082015Z" creationid="Judy" creationdate="20151205T082015Z">
         <seg>當光電感應器關閉時直條包裝長度必須大於紙片感應點之間的距離，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The stickpack machine has an automatic lubrication dispenser MONOPUNT 60 ml.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052401Z" creationid="Judy" creationdate="20151206T052401Z">
+        <seg>直條包裝機設有自動潤滑器 MONOPUNT 60 毫升，</seg>
       </tuv>
     </tu>
     <tu>
@@ -70883,6 +70995,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T084155Z">
         <seg>建議定期檢查此項設備以確保機台運作正常。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend use KLUBERFOOD 4 NH1-68 or a similar oil.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052423Z" creationid="Judy" creationdate="20151206T052423Z">
+        <seg>建議使用 KLUBERFOOD 4 NH1-68 或類似機油。</seg>
       </tuv>
     </tu>
     <tu>
