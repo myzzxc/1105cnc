@@ -9823,6 +9823,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At that moment, the system asks us to pass 3 times the standard pack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092146Z" creationid="Judy" creationdate="20151206T092146Z">
+        <seg>系統會要求操作人員輸送 3 次標準包裝，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of a period determined by each HUTCHINSON entity, the Supplier is informed that the product enters the “validation for series production” stage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121451Z">
@@ -23528,6 +23536,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154041Z" creationid="Judy" creationdate="20151203T154041Z">
         <seg>圖 3.30 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.31.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092041Z" creationid="Judy" creationdate="20151206T092041Z">
+        <seg>圖 3.31 </seg>
       </tuv>
     </tu>
     <tu>
@@ -37485,10 +37501,18 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn (S-E)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091934Z" creationid="Judy" creationdate="20151206T091934Z">
+        <seg>學習 (S-E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn S-E (MIN-MAX): This parameter indicates the start and end range of allowed weight readings for the automatic dynamic learning process.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090243Z" creationid="Judy" creationdate="20151206T090243Z">
-        <seg>Learn S-E (學習曲線 S-E 最小-最大)：此參數為自動動態學習處理允許之重量讀數的起始和結束範圍。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091918Z" creationid="Judy" creationdate="20151206T090243Z">
+        <seg>Learn S-E (學習 S-E 最小-最大)：此參數為自動動態學習處理允許之重量讀數的起始和結束範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52699,6 +52723,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Learning (S-E)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092052Z" creationid="Judy" creationdate="20151206T092052Z">
+        <seg>學習 (S-E) 畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Listing/Erase Calculations</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125354Z" creationid="Judy" creationdate="20151129T125354Z">
@@ -66838,6 +66870,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This option allows learning automatically the start and the end of the pack weight area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092037Z" creationid="Judy" creationdate="20151206T092037Z">
+        <seg>此選項可自動學習包裝秤重開始和結束的區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This option gives you the opportunity to create a transform file (.mst) based on the differences between the open package and the modifications set by yourself.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T020740Z">
@@ -71947,6 +71987,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T061554Z">
         <seg>秤重門 (Weight Shutter)：考慮使用地點之重力加速度和空氣浮力之力傳感器，將量測值 (質量)轉換為其它量測訊號 (輸出 = 電力訊號)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Speed ​​: This (non-programmable) parameter indicates in packs/min the maximum production which the format has been programmed with.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091859Z" creationid="Judy" creationdate="20151206T091859Z">
+        <seg>Weight  Speed (秤重速度)：此參數 (無法調整) 為最大生產速度，其格式已設定並以 (包裝/分) 表示。</seg>
       </tuv>
     </tu>
     <tu>
