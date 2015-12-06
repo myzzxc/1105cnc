@@ -20910,6 +20910,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Erase Audit (Monthly): Enables the ability to delete the audit monthly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160152Z" creationid="Judy" creationdate="20151206T160140Z">
+        <seg>Erase Audit (刪除審核記錄，每月)：選擇每月刪除審核記錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Erase CAD/LEN/OFL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141044Z">
@@ -36047,6 +36055,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is common for all formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160024Z" creationid="Judy" creationdate="20151206T160024Z">
+        <seg>適用所有格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is compatible with ONVIF V1.02 or higher and ONVIF Profile S.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025517Z">
@@ -45837,6 +45853,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050849Z">
         <seg>包裝和儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packs (TO2 == CC): Enables the possibility of using the tolerance TO2 level as a right pack rather than as a rejected one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160009Z" creationid="Judy" creationdate="20151206T160009Z">
+        <seg>Packs (包裝 TO2 == CC)：選擇使用 TO2 等級公差為正確包裝而非退回包裝，</seg>
       </tuv>
     </tu>
     <tu>
