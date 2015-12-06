@@ -36095,6 +36095,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It matches to the black lines on the graph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090513Z" creationid="Judy" creationdate="20151206T090513Z">
+        <seg>其為圖表上的黑線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It matches to the red lines on the graph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090410Z" creationid="Judy" creationdate="20151206T090340Z">
+        <seg>其為圖表上的紅線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may also be used for cutting vinyl on flex faced and vacuum formed pan signs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141217Z">
@@ -37441,6 +37457,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T131945Z">
         <seg>電池接線之針腳需插入電源連接器之Gnd和Vin頭座，電路板可使用6至20伏特之外部電源運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn S-E (MIN-MAX): This parameter indicates the start and end range of allowed weight readings for the automatic dynamic learning process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090243Z" creationid="Judy" creationdate="20151206T090243Z">
+        <seg>Learn S-E (學習曲線 S-E 最小-最大)：此參數為自動動態學習處理允許之重量讀數的起始和結束範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52390,6 +52414,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T123229Z">
         <seg>以大量授權優惠價取得相同的強大功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Samples Weight (S-E): This parameter corresponds to the weight sample start and end.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090342Z" creationid="Judy" creationdate="20151206T090337Z">
+        <seg>Samples Weight (樣品重量 S-E)：此參數對應至秤重樣品之起始和結束值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Samples Zero (S-E): This parameter corresponds to the start and end of the sample of zero.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090454Z" creationid="Judy" creationdate="20151206T090454Z">
+        <seg>Samples Zero (樣品歸零 S-E)：此參數對應至歸零樣品的起始和結束值，</seg>
       </tuv>
     </tu>
     <tu>
