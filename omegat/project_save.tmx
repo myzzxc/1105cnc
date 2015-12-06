@@ -25169,6 +25169,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052613Z" creationid="Judy" creationdate="20151206T052613Z">
+        <seg>頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frequency = 80vMHz - 2GHz</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024507Z" creationid="Judy" creationdate="20151128T024507Z">
@@ -42781,6 +42789,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once a month</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052704Z" creationid="Judy" creationdate="20151206T052704Z">
+        <seg>每月一次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once a week</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131104Z" creationid="Judy" creationdate="20151128T131104Z">
@@ -46310,6 +46326,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154003Z">
         <seg>袖珍包面紙機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Points to check</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052610Z" creationid="Judy" creationdate="20151206T052610Z">
+        <seg>檢查點</seg>
       </tuv>
     </tu>
     <tu>
@@ -69579,6 +69603,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091909Z">
         <seg>VCA 演算法教學
 目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VERIFY LEVEL INSIDE DISPENSER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052659Z" creationid="Judy" creationdate="20151206T052659Z">
+        <seg>檢查給料器內部油量</seg>
       </tuv>
     </tu>
     <tu>
