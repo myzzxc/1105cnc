@@ -1938,6 +1938,14 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.000 hours</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053513Z" creationid="Judy" creationdate="20151206T053513Z">
+        <seg>1,000 小時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.100</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040523Z" creationid="Judy" creationdate="20151205T040523Z">
@@ -2673,6 +2681,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085822Z">
         <seg>2-6 碟型彈簧墊片 2-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.000 hours</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053533Z" creationid="Judy" creationdate="20151206T053533Z">
+        <seg>2,000 小時</seg>
       </tuv>
     </tu>
     <tu>
@@ -10458,6 +10474,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BEARINGS OF VERTICAL SEALERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053349Z" creationid="Judy" creationdate="20151206T053349Z">
+        <seg>垂直封裝機之軸承</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BECKER 10HP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133704Z">
@@ -12985,6 +13009,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023057Z" creationid="Judy" creationdate="20151205T023057Z">
         <seg>更改密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change recommended</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053507Z" creationid="Judy" creationdate="20151206T053507Z">
+        <seg>建議更換</seg>
       </tuv>
     </tu>
     <tu>
@@ -20857,6 +20889,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every 160 hours</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053352Z" creationid="Judy" creationdate="20151206T053352Z">
+        <seg>每 160 小時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every day, millions of people and thousands of businesses experience Nuance through intelligent systems that can listen, understand, learn and adapt to your life and your work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051034Z">
@@ -22350,6 +22390,22 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033520Z" creationid="Judy" creationdate="20151206T033520Z">
         <seg>將產品裝入料斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FILTERS OF HOPPER AIR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053551Z" creationid="Judy" creationdate="20151206T053551Z">
+        <seg>料斗空氣濾清器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FILTERS OF PRESSURIZED AIR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053528Z" creationid="Judy" creationdate="20151206T053528Z">
+        <seg>加壓空氣濾清器</seg>
       </tuv>
     </tu>
     <tu>
@@ -25137,6 +25193,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frecuencia recomendada</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053322Z" creationid="Judy" creationdate="20151206T053322Z">
+        <seg>建議頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Free app available for Android and iOS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070947Z">
@@ -25181,6 +25245,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T024507Z" creationid="Judy" creationdate="20151128T024507Z">
         <seg>頻率 = 80vMHz - 2 GHz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frequency check</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053451Z" creationid="Judy" creationdate="20151206T053451Z">
+        <seg>檢查頻率</seg>
       </tuv>
     </tu>
     <tu>
@@ -26388,6 +26460,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043500Z" creationid="Judy" creationdate="20151206T043500Z">
         <seg>料斗平台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HORIZONTAL CUT KNIFES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053606Z" creationid="Judy" creationdate="20151206T053606Z">
+        <seg>水平切割刀</seg>
       </tuv>
     </tu>
     <tu>
@@ -32185,6 +32265,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T183010Z">
         <seg>注模驗證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inlet of oil</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053404Z" creationid="Judy" creationdate="20151206T053404Z">
+        <seg>機油注入口</seg>
       </tuv>
     </tu>
     <tu>
@@ -38631,8 +38719,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Manually lubricate the bearings of the vertical welder.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053211Z" creationid="Judy" creationdate="20151206T053211Z">
-        <seg>手動潤滑垂直焊機之軸承，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053338Z" creationid="Judy" creationdate="20151206T053211Z">
+        <seg>手動潤滑垂直封裝機之軸承，</seg>
       </tuv>
     </tu>
     <tu>
@@ -46354,6 +46442,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Points to manual greasing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053311Z" creationid="Judy" creationdate="20151206T053311Z">
+        <seg>手動潤滑點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PokaYoke(anti-errorsystem): Prevention method that aims to prohibit, by simple means, any error that could have a negative influence on a system (visual, audio, etc).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T014440Z">
@@ -50101,6 +50197,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T091435Z">
         <seg>更換損壞或有缺陷之碟形彈簧墊片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace the components as they wear or break.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053442Z" creationid="Judy" creationdate="20151206T053442Z">
+        <seg>當元件磨損或損壞時更換元件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69118,6 +69222,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Manual grease pump.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053242Z" creationid="Judy" creationdate="20151206T053242Z">
+        <seg>使用手動潤滑泵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Shared Watermarks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T073624Z">
@@ -71147,6 +71259,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143643Z">
         <seg>網站： http://www.modularmanagement.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weekly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053509Z" creationid="Judy" creationdate="20151206T053509Z">
+        <seg>每週</seg>
       </tuv>
     </tu>
     <tu>
@@ -75733,6 +75853,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T151738Z">
         <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mechanical maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053411Z" creationid="Judy" creationdate="20151206T053411Z">
+        <seg>機械維護</seg>
       </tuv>
     </tu>
     <tu>
