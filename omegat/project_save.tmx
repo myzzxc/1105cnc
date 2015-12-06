@@ -6569,6 +6569,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust Weight Limit: On this parameter will be indicated the maximum error that is allowed for dynamic adjustment in the calibration process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091154Z" creationid="Judy" creationdate="20151206T091154Z">
+        <seg>Adjust Weight Limit (調整重量限制)：此參數為動態調整校正處理中允許之最大誤差值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust compression levels for smaller files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040717Z">
@@ -36143,6 +36151,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It must be indicated in grams.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091057Z" creationid="Judy" creationdate="20151206T091057Z">
+        <seg>必須以克為單位表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It must report any change in schedule to HUTCHINSON as soon as it occurs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015143Z">
@@ -37481,6 +37497,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231118Z">
         <seg>學習如何使用這套系統協助您的工作更上層樓！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learning Limit (S-E): On this parameter will be indicated the maximum error that is permitted for automatic learning process of start / end readings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091050Z" creationid="Judy" creationdate="20151206T090848Z">
+        <seg>Learning Limit (學習限制 S-E)：此參數為起始 / 結束讀數之自動學習處理容許之最大誤差值，</seg>
       </tuv>
     </tu>
     <tu>
