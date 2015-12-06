@@ -51130,6 +51130,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retainer Speed: This parameter (non-programmable) indicates in packs/min the production of retaining band which the format has been programmed with.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091818Z" creationid="Judy" creationdate="20151206T091818Z">
+        <seg>Retainer Speed (固定器速度)：此參數 (無法調整) 為固定輸送帶之生產速度，其格式已設定並以 (包裝/分) 表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Retaining Section</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140228Z">
