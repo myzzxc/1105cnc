@@ -50954,6 +50954,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Residual Limit: This parameter is expressed in grams and indicates the maximum amount of accumulated debris on the weight conveyor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091345Z" creationid="Judy" creationdate="20151206T091345Z">
+        <seg>Residual Limit (殘值限制)：此參數為秤重輸送帶上堆積雜值的最大重量，以克為單位表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Residual risks</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021539Z" creationid="Judy" creationdate="20151205T021539Z">
@@ -67210,6 +67218,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035947Z">
         <seg>此轉換檔與 .msi 套裝程式檔儲存於相同資料夾內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This value is not programmable and is equal to +/- 2% of maximum full scale.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091501Z" creationid="Judy" creationdate="20151206T091501Z">
+        <seg>此數值設定不能調整，其值等於最大全重的 +/- 2%。</seg>
       </tuv>
     </tu>
     <tu>
