@@ -20937,6 +20937,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every 3 years if  necessary</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053948Z" creationid="Judy" creationdate="20151206T053948Z">
+        <seg>若有需要每 3 年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every 6 months</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053932Z" creationid="Judy" creationdate="20151206T053932Z">
+        <seg>每 6 個月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every day, millions of people and thousands of businesses experience Nuance through intelligent systems that can listen, understand, learn and adapt to your life and your work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051034Z">
@@ -25808,6 +25824,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053930Z" creationid="Judy" creationdate="20151206T053930Z">
         <seg>密封墊片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GEARS, BEARING AND OIL SEALS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054001Z" creationid="Judy" creationdate="20151206T054001Z">
+        <seg>齒輪、軸承、油封</seg>
       </tuv>
     </tu>
     <tu>
@@ -44888,6 +44912,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRESSURIZED AIR CONTROL UNIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054008Z" creationid="Judy" creationdate="20151206T054008Z">
+        <seg>加壓空氣控制單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PREVENTIVE MAINTENANCE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T051722Z" creationid="Judy" creationdate="20151206T051722Z">
@@ -49089,6 +49121,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recommend every 500 hours.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054034Z" creationid="Judy" creationdate="20151206T054028Z">
+        <seg>建議每 500 小時進行一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recommendations for the Use of Acquisition of Analytical Digifort</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T144653Z">
@@ -50011,8 +50051,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Regularly purge deposit from filters to avoid the ingress of water into the pressurized air system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061238Z" creationid="Judy" creationdate="20151205T061238Z">
-        <seg>定期清除濾芯之殘留物以避免水氣進入加壓空氣系統。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054029Z" creationid="Judy" creationdate="20151205T061238Z">
+        <seg>定期清除濾芯之殘留物以避免水氣進入加壓空氣系統，</seg>
       </tuv>
     </tu>
     <tu>
@@ -75444,6 +75484,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T102456Z">
         <seg>座位可為桶型座椅或凳形座椅或兩種座椅組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>electrical maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054213Z" creationid="Judy" creationdate="20151206T054213Z">
+        <seg>電氣維護</seg>
       </tuv>
     </tu>
     <tu>
