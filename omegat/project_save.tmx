@@ -19938,6 +19938,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emergency Stop Button</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042053Z" creationid="Judy" creationdate="20151206T042053Z">
+        <seg>緊急停止按鈕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emergency stop: It is red with yellow background and allows stopping the conveyors in an emergency case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033024Z" creationid="Judy" creationdate="20151128T033024Z">
@@ -36500,6 +36508,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOCK OPERATING MODE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042115Z" creationid="Judy" creationdate="20151206T042115Z">
+        <seg>鎖定操作模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOCKING MACHINE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031610Z" creationid="Judy" creationdate="20151206T031610Z">
@@ -43037,6 +43053,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open doors detectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041955Z" creationid="Judy" creationdate="20151206T041955Z">
+        <seg>機門開啟感測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open end 432 of fluid conduit 430 is located generally above the head portion of power source 130 to provide airflow past the head portion of power source 130.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T030731Z">
@@ -43243,6 +43267,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T104641Z">
         <seg>駕駛區 212 以防滾架 222 保護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optical signals from the beacon</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041941Z" creationid="Judy" creationdate="20151206T041941Z">
+        <seg>指示燈之光訊號</seg>
       </tuv>
     </tu>
     <tu>
@@ -50050,6 +50082,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset Button</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042110Z" creationid="Judy" creationdate="20151206T042102Z">
+        <seg>重置按鈕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset PCI</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141034Z">
@@ -54631,6 +54671,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start Button</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042058Z" creationid="Judy" creationdate="20151206T042058Z">
+        <seg>啟動按鈕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start Citrix MetaFrame Program Neighborhood.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T133711Z">
@@ -54867,6 +54915,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143630Z">
         <seg>Stockholm (瑞典，斯德哥爾摩)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Button</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042100Z" creationid="Judy" creationdate="20151206T042100Z">
+        <seg>停止按鈕</seg>
       </tuv>
     </tu>
     <tu>
@@ -68301,6 +68357,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UV Lamp automatic shutoff (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042051Z" creationid="Judy" creationdate="20151206T042051Z">
+        <seg>UV 燈自動關閉 (選配)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unassigned Time Alarm: At the moment the unassigned downtime exceeds the programmed time here, an alarm can be activated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160149Z" creationid="Judy" creationdate="20151201T160149Z">
@@ -73484,6 +73548,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045558Z" creationid="Judy" creationdate="20151128T045558Z">
         <seg>必須吊掛檢重機基座，不得吊掛輸送帶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must lock whenever deemed necessary for personal safety, especially when performing maintenance and cleaning operations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042235Z" creationid="Judy" creationdate="20151206T042235Z">
+        <seg>任何涉及人身安全之操作必須鎖定機台，尤其是進行維護和清洗操作時。</seg>
       </tuv>
     </tu>
     <tu>
