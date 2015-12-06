@@ -4802,6 +4802,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A screen appears with a list of options, where we have to select the "Weight Conveyor" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161830Z" creationid="Judy" creationdate="20151206T161830Z">
+        <seg>畫面將會出現選項清單，選擇其中的「Weight Conveyor (秤重式輸送機)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A screen appears with an options list, where we have to select the "General" option.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144840Z" creationid="Judy" creationdate="20151206T144743Z">
@@ -23716,6 +23724,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.38.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161838Z" creationid="Judy" creationdate="20151206T161838Z">
+        <seg>圖 3.38 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.39.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104827Z" creationid="Judy" creationdate="20151206T104827Z">
@@ -29541,6 +29557,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T102903Z" creationid="Judy" creationdate="20151129T102058Z">
         <seg>若此參數程式化未正確設定檢重機會出現長度錯誤訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this parameter validation involves go out of production or disarrange the format, the checkweigher will show a previous warning message allowing cancel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161836Z" creationid="Judy" creationdate="20151206T161836Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53163,6 +53187,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Configuration Weight Conveyor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161846Z" creationid="Judy" creationdate="20151206T161846Z">
+        <seg>秤重式輸送機設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen General- Configuration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144727Z" creationid="Judy" creationdate="20151206T144727Z">
@@ -67774,6 +67806,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen is used to configure the components that affect weight tranche: speed variation, engine number, band length, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161722Z" creationid="Judy" creationdate="20151206T161722Z">
+        <seg>此畫面用於設定影響秤重之因素：速度變化、馬達數量、輸送帶長度等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This screen is used to create new work formats.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124547Z" creationid="Judy" creationdate="20151128T140708Z">
@@ -68486,6 +68526,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131352Z" creationid="Judy" creationdate="20151128T131348Z">
         <seg>要從一般功能表進入此畫面必須點擊「User Choices (使用者選項)」按鈕以顯示下拉式功能表，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this screen the "Configure" option is selected from the main menu and then the "Internal Data" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161752Z" creationid="Judy" creationdate="20151206T161752Z">
+        <seg>若要進入畫面，由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
       </tuv>
     </tu>
     <tu>
