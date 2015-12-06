@@ -5162,6 +5162,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADJUST DOSE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040641Z" creationid="Judy" creationdate="20151206T040641Z">
+        <seg>調整填料量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AGENDA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231617Z">
@@ -6637,6 +6645,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144613Z">
         <seg>HUTCHINSON 發現任何交貨問題後，供應商應於其產品的包裝上清楚地載明貨物需要在運送前接受額外的管控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After checking the correct formation of stick, start production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040925Z" creationid="Judy" creationdate="20151206T040925Z">
+        <seg>檢查直條包裝成型正確之後，開始生產。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12036,6 +12052,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAUTION:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040943Z" creationid="Judy" creationdate="20151206T040943Z">
+        <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CD Layout</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T023042Z">
@@ -12128,6 +12152,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125904Z">
         <seg>僑邦機械有限公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CIRCULAR BLADES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041122Z" creationid="Judy" creationdate="20151206T041122Z">
+        <seg>圓形刀片</seg>
       </tuv>
     </tu>
     <tu>
@@ -12941,6 +12973,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change the number of turns in depending of the weight of the stick in the WORK screen (weight checked).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040839Z" creationid="Judy" creationdate="20151206T040839Z">
+        <seg>根據直條包裝重量於 WORK 畫面 (重量檢查) 中更改旋轉量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the reel in accordance with the format to be manufactured.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033129Z" creationid="Judy" creationdate="20151206T033129Z">
@@ -13089,6 +13129,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081808Z" creationid="Judy" creationdate="20151205T081808Z">
         <seg>按下畫面上重置按鈕後再按下運行按鈕以檢查裝置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the dose and setting if it is necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040703Z" creationid="Judy" creationdate="20151206T040703Z">
+        <seg>若有必要，請檢查的調料量和設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26208,6 +26256,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HEATING ELEMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041147Z" creationid="Judy" creationdate="20151206T041147Z">
+        <seg>加熱元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HELICAL RACK  [up to 3.7m long ( eg.4012)]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T141701Z">
@@ -26588,6 +26644,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T152811Z">
         <seg>必須於 HUTCHINSON 發出投訴後的 48 小時內處理並立即採取行動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handling, cleaning or maintenance situations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041101Z" creationid="Judy" creationdate="20151206T041101Z">
+        <seg>搬運、清潔或維修的情況下</seg>
       </tuv>
     </tu>
     <tu>
@@ -27444,6 +27508,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T153853Z" creationid="Judy" creationdate="20151124T153853Z">
         <seg>然而，此機台也能外加以下選配元件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the use of ear protection is recommended for long production cycles if the surrounding noise level is above 80 dB (A) due to causes outside of our equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041541Z" creationid="Judy" creationdate="20151206T041541Z">
+        <seg>然而，若由於我們的設備以外之因素長時間生產循環之環境噪音量大於 80 分貝 (A) 時，建議使用隔音保護裝備。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37659,6 +37731,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MECHANICAL PROTECTION GLOVES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041109Z" creationid="Judy" creationdate="20151206T041109Z">
+        <seg>機械防護手套</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>METAL FABRICATION AND PROCESS TOOLS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022548Z">
@@ -44200,6 +44280,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PERSONAL PROTECTIVE EQUIPMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040939Z" creationid="Judy" creationdate="20151206T040939Z">
+        <seg>人身防護裝備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PERSONAL SAFETY FUNCTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041546Z" creationid="Judy" creationdate="20151206T041546Z">
+        <seg>人身安全功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PET Bottle Blowing Systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T120625Z">
@@ -44492,6 +44588,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200513Z">
         <seg>混凝土構件中之黏結錨固系統驗收標準擬議修訂案(AC308)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PROTECTIVE GLOVES FOR HIGH TEMPERATURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041128Z" creationid="Judy" creationdate="20151206T041128Z">
+        <seg>高溫防護手套</seg>
       </tuv>
     </tu>
     <tu>
@@ -45365,6 +45469,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021456Z" creationid="Judy" creationdate="20151205T021431Z">
         <seg>人身防護裝備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Personal protective equipment (PPE)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041034Z" creationid="Judy" creationdate="20151206T041034Z">
+        <seg>人身防護裝備 (PPE)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50380,6 +50492,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Risk</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041103Z" creationid="Judy" creationdate="20151206T041103Z">
+        <seg>風險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Risks and various water-related security issues can also be reduced by technical and social approaches.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T131034Z">
@@ -50661,6 +50781,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SEALING JAWS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041214Z" creationid="Judy" creationdate="20151206T041214Z">
+        <seg>封裝夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SEARCH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235606Z">
@@ -50689,6 +50817,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T121719Z">
         <seg>第三節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECURITY AND PREVENTIVE MAINTENANCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040937Z" creationid="Judy" creationdate="20151206T040937Z">
+        <seg>安全和預防性維護</seg>
       </tuv>
     </tu>
     <tu>
@@ -51943,6 +52079,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032121Z" creationid="Judy" creationdate="20151206T032046Z">
         <seg>請見章節 4.6「</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See chapter 6.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040850Z" creationid="Judy" creationdate="20151206T040850Z">
+        <seg>請見章節 6.3「</seg>
       </tuv>
     </tu>
     <tu>
@@ -55974,6 +56118,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153143Z">
         <seg>技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEMPERATURE PROBES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041144Z" creationid="Judy" creationdate="20151206T041144Z">
+        <seg>溫度探針</seg>
       </tuv>
     </tu>
     <tu>
@@ -60464,6 +60616,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133641Z">
         <seg>Uno電路板的最大長度和寬度分別為2.7和2.1英吋，上述尺寸不包含凸出之USB連接口和電源接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum sound pressure level is equal to or less than 79 dB (A) under normal conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041251Z" creationid="Judy" creationdate="20151206T041251Z">
+        <seg>於正常情況下最大音量等於或小於 79 分貝 (A)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -70439,6 +70599,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wear mechanical and thermal protection gloves in the following situations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041022Z" creationid="Judy" creationdate="20151206T041022Z">
+        <seg>以下情況中請穿戴機械和隔熱手套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Web Server</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T080320Z">
@@ -72488,6 +72656,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134034Z">
         <seg>VARPE 2000 運作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040905Z" creationid="Judy" creationdate="20151206T040905Z">
+        <seg>工作]」。</seg>
       </tuv>
     </tu>
     <tu>
