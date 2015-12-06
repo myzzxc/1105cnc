@@ -19722,8 +19722,8 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Each input box contains a description of the input itself.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101157Z" creationid="Judy" creationdate="20151206T101157Z">
-        <seg>每個輸入方框中包含輸入本身的說明。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104722Z" creationid="Judy" creationdate="20151206T101157Z">
+        <seg>每個輸入方塊中包含輸入本身的說明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19756,6 +19756,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T125437Z">
         <seg>Leonardo ETH電路板上的14組數位針腳中，每一針腳都能利用pinMode()、digitalWrite()、和digitalRead()函數作為輸入或輸出，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each output box contains a brief description of the output type.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104718Z" creationid="Judy" creationdate="20151206T104718Z">
+        <seg>每個輸出方塊中包含輸出類型的簡短說明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43615,8 +43623,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Once this menu is open you can access on it any of the options “Verify Inputs", "Verify Outputs", "Graphic Mode”.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100421Z" creationid="Judy" creationdate="20151206T100421Z">
-        <seg>當此功能表開啟後便能選擇「Verify Inputs (驗證輸入)」、「Verify Outputs (驗證輸出)」、「Graphic Mode (圖表模式)」之選項。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104757Z" creationid="Judy" creationdate="20151206T100421Z">
+        <seg>當此功能表開啟後便能選擇「Verify Inputs (驗證輸入)」、「Verify Outputs (驗證輸出)」、「Graphic Mode (圖形模式)」之選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61908,6 +61916,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The matching digital output will close a contact.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104635Z" creationid="Judy" creationdate="20151206T104623Z">
+        <seg>再點擊一次匹配之數位輸出將會關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum length and width of the 9 Axes Motion Shield PCB are 2.7 and 2.1 inches respectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T132028Z">
@@ -68066,6 +68082,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the screen, first "Verify" is selected from the main menu and then "Graphic Mode" option is selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104816Z" creationid="Judy" creationdate="20151206T104816Z">
+        <seg>若要進入畫面，由主畫面選擇「Verify (驗證)」後選擇「Graphic Mode (圖形模式)」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the screen, “Partials" option is selected from the first "Programming" dropdown menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T145052Z" creationid="Judy" creationdate="20151201T145052Z">
@@ -73058,6 +73082,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
         <seg>When you enter this section a warning message appears which involves taking the machine out of production if you click on "Accept".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101541Z" creationid="Judy" creationdate="20151206T101541Z">
+        <seg>當進入此畫面時，若點擊「Accept (接受)」將顯示機台將會停止生產的警告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you enter this section a warning message appears which involves taking the machine out of production if you click on “Accept".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104641Z" creationid="Judy" creationdate="20151206T104641Z">
         <seg>當進入此畫面時，若點擊「Accept (接受)」將顯示機台將會停止生產的警告。</seg>
       </tuv>
     </tu>
