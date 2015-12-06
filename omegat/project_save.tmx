@@ -13109,6 +13109,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change FMT - Listing / Delete: Automatically Listing-Delete option referred to production data in a format change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161414Z" creationid="Judy" creationdate="20151206T161414Z">
+        <seg>Change FMT - Listing / Delete  (並更 FMT-列表 / 刪除)：格式變更中自動列表刪除生產資料的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Format</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124417Z">
@@ -75798,6 +75806,14 @@ whether it�s raining or snowing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083333Z">
         <seg>讓您發揮潛力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zero Automatic Start: It makes the zero start automatically or manually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161525Z" creationid="Judy" creationdate="20151206T161525Z">
+        <seg>Zero Automatic Start (啟動歸零自動)：能選擇啟動自動或手動歸零。</seg>
       </tuv>
     </tu>
     <tu>
