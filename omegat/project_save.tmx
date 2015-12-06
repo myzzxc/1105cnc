@@ -45881,6 +45881,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Packs Alarm Sec TO1-TO2 / TU1-TU2: Alarm for the case we have consecutive packs between the specified tolerances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161137Z" creationid="Judy" creationdate="20151206T161009Z">
+        <seg>Packs Alarm Sec (包裝警報) TO1-TO2 / TU1-TU2：包裝連續介於指定公差值之間的情況下產生的警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packs Interval: Being the value other than zero, it indicates the minimum time that has to elapse between a pack and the following before the ChW starts recording automatically the downtime (unassigned).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160033Z" creationid="Judy" creationdate="20151201T160033Z">
@@ -70377,6 +70385,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053320Z">
         <seg>Unist 切削液噴嘴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Units Sec TO1-TO2 / TU1-TU2: Number of units needed to trigger the Packs Sec.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161127Z" creationid="Judy" creationdate="20151206T161100Z">
+        <seg>Units Sec (單位) TO1-TO2 / TU1-TU2：觸發 Packs Sec (包裝警報) 所需之單位數量。</seg>
       </tuv>
     </tu>
     <tu>
