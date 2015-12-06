@@ -37547,6 +37547,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MANUFACTURE EMPTY STICKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034031Z" creationid="Judy" creationdate="20151206T034031Z">
+        <seg>製造空直條包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MANUFACTURER NAME</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125831Z">
@@ -38023,6 +38031,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083312Z" creationid="Judy" creationdate="20151205T083312Z">
         <seg>加入填料試轉數個直條包裝以檢查是否正常。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make empty sticks until the sticks formation test has been completed with the new reel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034413Z" creationid="Judy" creationdate="20151206T034413Z">
+        <seg>製造空直條包裝，直到新卷筒的直條包裝成型測試已完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46828,6 +46844,22 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press MENU.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033916Z" creationid="Judy" creationdate="20151206T033916Z">
+        <seg>按下 MENU (功能表)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press PROGRAMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033954Z" creationid="Judy" creationdate="20151206T033933Z">
+        <seg>按下 PROGRAMS (程式)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press RESET and then RUN.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075808Z" creationid="Judy" creationdate="20151205T075808Z">
@@ -46840,6 +46872,22 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062353Z" creationid="Judy" creationdate="20151205T062353Z">
         <seg>按下控制面板上重置按鈕以重置警報，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press RUN .</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034232Z" creationid="Judy" creationdate="20151206T034232Z">
+        <seg>按下 RUN (運行)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press STOP .</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034427Z" creationid="Judy" creationdate="20151206T034427Z">
+        <seg>按下 STOP (停止)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52464,6 +52512,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000640Z">
         <seg>於“Software settings\Software installation（軟體設定\軟體安裝）”中選擇套裝程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the program according to the format to be manufactured and press LOAD.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034018Z" creationid="Judy" creationdate="20151206T033952Z">
+        <seg>依製造格式選擇程式並按下 LOAD (讀取)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67596,6 +67652,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn the FILLER button OFF  in the WORK screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034142Z" creationid="Judy" creationdate="20151206T034138Z">
+        <seg>於「Work (工作)」畫面上按下 FILLER (填料器) 按鈕將其關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn the INERT GAS button OFF in the SELECTORS screen if it is necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034217Z" creationid="Judy" creationdate="20151206T034217Z">
+        <seg>若有必要，於「Work (工作)」畫面上按下 INERT GAS (惰性氣體) 按鈕將其關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn the machine off before any cleaning or maintenance operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025508Z" creationid="Judy" creationdate="20151205T025459Z">
@@ -69835,6 +69907,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T235803Z">
         <seg>其中：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait for the sealers reach the temperature (150º aprox.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034307Z" creationid="Judy" creationdate="20151206T034307Z">
+        <seg>等待封裝機達到工作溫度 (約 150º)。</seg>
       </tuv>
     </tu>
     <tu>
