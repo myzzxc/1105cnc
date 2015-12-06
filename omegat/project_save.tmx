@@ -23564,6 +23564,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.33.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095605Z" creationid="Judy" creationdate="20151206T095605Z">
+        <seg>圖 3.33 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T134159Z" creationid="Judy" creationdate="20151128T134159Z">
@@ -43533,6 +43541,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once this process is made, the system asks if you want to modify the previous vibrations limit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095602Z" creationid="Judy" creationdate="20151206T095602Z">
+        <seg>當操作完成後，系統將會詢問是否要修改舊的振動限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once we have all these object pixels, they are grouped together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104404Z">
@@ -52815,6 +52831,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051351Z">
         <seg>除非特別指明，此型錄之螢幕圖片和列印樣品皆為模擬示意圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen to perform vibrations analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095626Z" creationid="Judy" creationdate="20151206T095626Z">
+        <seg>進行振動分析畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65160,6 +65184,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The vibrations analysis section is used to know whether the system, at the selected format speed, has many vibrations as a result of the weight band length, which is the most common, or it is due to any mechanical component (misalignment of the machine, roller, etc).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095501Z" creationid="Judy" creationdate="20151206T095501Z">
+        <seg>振動分析部分用以了解系統於所選之格式速度中是否因為秤重輸送帶長度 (最常見) 或是任何機械元件 (機台、滾子未對位等) 而產生許多振動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The video may be sped up, during playback, to: 2x, 4x, 8x, 16x, 32x, 64x, 128x, 256x and 512x.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T143303Z">
@@ -68343,6 +68375,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154038Z" creationid="Judy" creationdate="20151203T154038Z">
         <seg>執行動態分析時輸送帶必須運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To perform this operation the bands should be on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095524Z" creationid="Judy" creationdate="20151206T095524Z">
+        <seg>若要進行此操作，輸送帶應開啟。</seg>
       </tuv>
     </tu>
     <tu>
