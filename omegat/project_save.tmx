@@ -6809,6 +6809,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After that this difference is added to the resulting weight to offset the natural effects of weighting a moving pack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092659Z" creationid="Judy" creationdate="20151206T092659Z">
+        <seg>秤重結果加上此差異值之後能抵消移動包裝造成的影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After that you have to put this standard weight on the weight conveyor and response the question “Empty Platform” clicking YES.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T175110Z" creationid="Judy" creationdate="20151202T174925Z">
@@ -61484,6 +61492,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The learning process involves passing the standard pack at least once when the display requests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092751Z" creationid="Judy" creationdate="20151206T092751Z">
+        <seg>學習流程包括當畫面顯示要求時輸送標準包裝至少一次，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The length of time spent in the prechiller and chiller the must comply with time established by each individual company.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045206Z">
@@ -66728,6 +66744,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160403Z" creationid="Judy" creationdate="20151204T160403Z">
         <seg>此按鍵能直接連結到編輯動態資料畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This learning process is used to learn what is the difference between the pack weights in static and dynamic ways.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092529Z" creationid="Judy" creationdate="20151206T092529Z">
+        <seg>此學習流程用於取得包裝以靜態和動態的方式秤重之間的差異值，</seg>
       </tuv>
     </tu>
     <tu>
