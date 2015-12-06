@@ -6267,8 +6267,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Activating one of the entries is reflected in the activation of matching LED in green color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100846Z" creationid="Judy" creationdate="20151206T100802Z">
-        <seg>啟動其中一個配對 LED 燈為綠色之啟用輸入條目。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104501Z" creationid="Judy" creationdate="20151206T100802Z">
+        <seg>啟動其中一個匹配 LED 燈為綠色之啟用輸入條目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68519,6 +68519,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T033944Z">
         <seg>為了操作模塊化產品架構，MTS 的進貨、出貨和生產價值流利用供應鏈研究模塊 (Module Supply Chain Study) 進行全新的預測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To manually verify an output activating, you need to click on the matching button and the LED will light.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104426Z" creationid="Judy" creationdate="20151206T104426Z">
+        <seg>若要手動驗證輸出啟動，需點擊匹配按鈕而指示燈將亮起。</seg>
       </tuv>
     </tu>
     <tu>
