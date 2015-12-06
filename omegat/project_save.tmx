@@ -23268,6 +23268,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 46</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145137Z" creationid="Judy" creationdate="20151206T145137Z">
+        <seg>圖 46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 48</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154409Z" creationid="Judy" creationdate="20151203T154409Z">
@@ -29813,6 +29821,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044758Z">
         <seg>若需要預先定義此 mst 檔案的名稱 (admin_customSettings.mst) 加上整個安裝程式檔案集，點擊下 Home 功能區中的 Publish Package （發佈套裝程式）按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to change any parameter just select the parameter and click on it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145131Z" creationid="Judy" creationdate="20151206T145131Z">
+        <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38879,6 +38895,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141323Z">
         <seg>機器資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machine Number: Configuration of the line number for the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145258Z" creationid="Judy" creationdate="20151206T145258Z">
+        <seg>Machine Number (機器編號)：檢重機之產線編號設置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62044,6 +62068,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The meaning of the parameters shown on thi screen is explained below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145159Z" creationid="Judy" creationdate="20151206T145159Z">
+        <seg>以下為此畫面顯示之功能參數說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The meaning of the parameters shown on this screen is explained below:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161820Z" creationid="Judy" creationdate="20151204T161820Z">
@@ -67842,6 +67874,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134732Z" creationid="Judy" creationdate="20151129T134732Z">
         <seg>透過此畫面可以修改重量顯示參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can program general operating parameters, such as the number of lines in the Data Hub, the type of regulations which you want to work with, the batch format (numeric or alphanumeric), the margin given in % to generate a length error and if we are working with Data Hub or not.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145123Z" creationid="Judy" creationdate="20151206T145123Z">
+        <seg>透過此畫面可以設定一般操作條件，如資料中心之產線數量、使用之規範類型、批次格式 (數字或數字加字母)、長度誤差容許值 %、以及是否使用資料中心。</seg>
       </tuv>
     </tu>
     <tu>
