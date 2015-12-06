@@ -6265,6 +6265,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activating one of the entries is reflected in the activation of matching LED in green color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100846Z" creationid="Judy" creationdate="20151206T100802Z">
+        <seg>啟動其中一個配對 LED 燈為綠色之啟用輸入條目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Directory Rights Management Service</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T025717Z">
@@ -24677,6 +24685,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T133423Z">
         <seg>例如與ArduinoUNO同時使用Arduino九軸運動擴充模組時，將中斷橋接至針腳D2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example to verify that the entry of the photocell works correctly just you have to pass your hand through the weight conveyor photocell and the LED for entry 1 with "Photocell" label will light.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100844Z" creationid="Judy" creationdate="20151206T100830Z">
+        <seg>例如要驗證光電感應器之輸入條目正確工作，只是你必須通過你的手度過重量輸送機光電池和對於具有"光電池"標籤的條目 1 指示燈將亮起。</seg>
       </tuv>
     </tu>
     <tu>
