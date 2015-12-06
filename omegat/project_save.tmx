@@ -18251,6 +18251,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Difference: This parameter corresponds to the difference between the value of static and dynamic weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090613Z" creationid="Judy" creationdate="20151206T090613Z">
+        <seg>Difference (差異值)：此參數為靜態和動態秤重值之間的差異值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digifort Analytic modules possess powerful video analysis that used together will allow the monitoring is more efficient and intelligent, helping operators to achieve a higher rate of accidents in the capture and detecting events.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T051637Z">
@@ -36097,16 +36105,16 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It matches to the black lines on the graph.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090513Z" creationid="Judy" creationdate="20151206T090513Z">
-        <seg>其為圖表上的黑線。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090648Z" creationid="Judy" creationdate="20151206T090513Z">
+        <seg>其對應至圖表上的黑線。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It matches to the red lines on the graph.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090410Z" creationid="Judy" creationdate="20151206T090340Z">
-        <seg>其為圖表上的紅線。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090652Z" creationid="Judy" creationdate="20151206T090340Z">
+        <seg>其對應至圖表上的紅線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52420,16 +52428,16 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Samples Weight (S-E): This parameter corresponds to the weight sample start and end.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090342Z" creationid="Judy" creationdate="20151206T090337Z">
-        <seg>Samples Weight (樣品重量 S-E)：此參數對應至秤重樣品之起始和結束值，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090628Z" creationid="Judy" creationdate="20151206T090337Z">
+        <seg>Samples Weight (樣品重量 S-E)：此參數為秤重樣品之起始和結束值，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Samples Zero (S-E): This parameter corresponds to the start and end of the sample of zero.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090454Z" creationid="Judy" creationdate="20151206T090454Z">
-        <seg>Samples Zero (樣品歸零 S-E)：此參數對應至歸零樣品的起始和結束值，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090619Z" creationid="Judy" creationdate="20151206T090454Z">
+        <seg>Samples Zero (樣品歸零 S-E)：此參數為歸零樣品的起始和結束值，</seg>
       </tuv>
     </tu>
     <tu>
@@ -70819,6 +70827,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101138Z" creationid="Judy" creationdate="20151128T091249Z">
         <seg>Vibration (震動)：平台無法達到穩定性標準時，LED 燈顯示灰色；平時 LED 燈則維持綠色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vibrations Limit: This parameter indicates in grams the maximum value that allows the automatic zero browsing device to work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090834Z" creationid="Judy" creationdate="20151206T090834Z">
+        <seg>Vibrations Limit (振動限制)：此參數為允許自動歸零流覽裝置工作的最大值，以克為單位。</seg>
       </tuv>
     </tu>
     <tu>
