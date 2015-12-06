@@ -16416,6 +16416,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conveyor Length” box length of the weight band in mm is indicated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T162359Z" creationid="Judy" creationdate="20151206T162359Z">
+        <seg>Conveyor Length (秤重式輸送機長度)」方塊中必須輸入秤重輸送帶長度，以毫米為單位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conveyor belt</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022814Z" creationid="Judy" creationdate="20151205T022814Z">
@@ -31773,6 +31781,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the "Configurable  Speed" box it should be indicated whether it has a speed shifter or not.If Yes, then you have to assign the address to command it.”Conveyor ID”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T162242Z" creationid="Judy" creationdate="20151206T162233Z">
+        <seg>於「Configurable  Speed (設定速度)」方塊中需輸入是否具有變速器，若有則需指派位址以發送指令。「Conveyor ID (輸送機 ID)」，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the "Original Format" box you select the format whose data you want to copy and in the "To Format" box you select the number of the new format to be created.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124850Z" creationid="Judy" creationdate="20151129T124222Z">
@@ -32321,6 +32337,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114527Z">
         <seg>在“Windows 開始功能表”ˋ中選擇 Citrix \ Management Consoles \ Presentation Server Console。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the “W.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T162258Z" creationid="Judy" creationdate="20151206T162258Z">
+        <seg>於「W.</seg>
       </tuv>
     </tu>
     <tu>
