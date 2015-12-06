@@ -23580,6 +23580,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.34.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100424Z" creationid="Judy" creationdate="20151206T100424Z">
+        <seg>圖 3.34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T134159Z" creationid="Judy" creationdate="20151128T134159Z">
@@ -39738,6 +39746,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Menu Verify</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100430Z" creationid="Judy" creationdate="20151206T100430Z">
+        <seg>驗證功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merge PDF image files with PDF text files</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040348Z">
@@ -43521,6 +43537,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140631Z">
         <seg>當裝置穩定後，紀錄壓力測試結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once this menu is open you can access on it any of the options “Verify Inputs", "Verify Outputs", "Graphic Mode”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100421Z" creationid="Judy" creationdate="20151206T100421Z">
+        <seg>當此功能表開啟後便能選擇「Verify Inputs (驗證輸入)」、「Verify Outputs (驗證輸出)」、「Graphic Mode (圖表模式)」之選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67870,6 +67894,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125800Z">
         <seg>總體而言：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the screen "Verify" is selected from the main menu, then you select "Verify Inputs".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100613Z" creationid="Judy" creationdate="20151206T100613Z">
+        <seg>若要進入畫面，由主畫面選擇「Verify (驗證)」後選擇「Verify Inputs (驗證輸入)」。</seg>
       </tuv>
     </tu>
     <tu>
