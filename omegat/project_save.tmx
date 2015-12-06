@@ -10033,8 +10033,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Audit Temperature: It is a configurable alarm to audit the temperature.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160620Z" creationid="Judy" creationdate="20151206T160620Z">
-        <seg>Audit Temperature (監控溫度): 它是一個可配置的報警，要審核的溫度。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160716Z" creationid="Judy" creationdate="20151206T160620Z">
+        <seg>Audit Temperature (監控溫度)：可設定監控溫度的警報。</seg>
       </tuv>
     </tu>
     <tu>
