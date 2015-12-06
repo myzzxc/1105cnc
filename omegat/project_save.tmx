@@ -2181,6 +2181,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>119 mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031522Z" creationid="Judy" creationdate="20151206T031522Z">
+        <seg>119 毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>119 mm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033804Z" creationid="Judy" creationdate="20151205T033804Z">
@@ -2585,6 +2593,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T131749Z">
         <seg>2組TinkerKit TWI：此類接口（白色4-針腳）會導向Arduino TWI介面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 gr</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031519Z" creationid="Judy" creationdate="20151206T031519Z">
+        <seg>2 克</seg>
       </tuv>
     </tu>
     <tu>
@@ -3000,6 +3016,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>29 mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031521Z" creationid="Judy" creationdate="20151206T031521Z">
+        <seg>29 毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>29 mm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033757Z" creationid="Judy" creationdate="20151205T033757Z">
@@ -3060,6 +3084,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T234401Z">
         <seg>3 天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 gr</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031526Z" creationid="Judy" creationdate="20151206T031526Z">
+        <seg>3 克</seg>
       </tuv>
     </tu>
     <tu>
@@ -3512,6 +3544,14 @@ Zoom to 40x magnification with full optical quality, then beyond to 60x without 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065645Z">
         <seg>同時也有 5 HP 系統供小型機台應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5 gr</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031531Z" creationid="Judy" creationdate="20151206T031531Z">
+        <seg>5 克</seg>
       </tuv>
     </tu>
     <tu>
@@ -5281,6 +5321,22 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121615Z">
         <seg>ATC - 自動換刀器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUGER FILLER  Ø11 PITCH 15</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031515Z" creationid="Judy" creationdate="20151206T031515Z">
+        <seg>螺旋填料機 Ø11 間距 15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUGER FILLER Ø14 PITCH 22</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031545Z" creationid="Judy" creationdate="20151206T031545Z">
+        <seg>螺旋填料機 Ø14 間距 22</seg>
       </tuv>
     </tu>
     <tu>
@@ -8643,6 +8699,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T043656Z">
         <seg>四月	五月	六月	七月	八月	九月	十月	十一月	十二月	一月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aprox 40º.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031730Z" creationid="Judy" creationdate="20151206T031730Z">
+        <seg>約 40º。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18004,6 +18068,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnect and lock the machine from the power and pressurized air supply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031658Z" creationid="Judy" creationdate="20151206T031658Z">
+        <seg>切斷並鎖定機台電源和加壓空氣供應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disconnect in the dosing order on the “WORK” touch screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081517Z" creationid="Judy" creationdate="20151205T081456Z">
@@ -24613,6 +24685,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122246Z">
         <seg>FormTyper™ 自動轉換不可輸入的表單成為可輸入之 PDF 表單，使用者能填入、儲存並傳送電子郵件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Format not established</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031604Z" creationid="Judy" creationdate="20151206T031604Z">
+        <seg>未建立格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -36100,6 +36180,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOCKING MACHINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031610Z" creationid="Judy" creationdate="20151206T031610Z">
+        <seg>鎖定機器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LUMPSUM SERVICES, INCL.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T154809Z">
@@ -39506,6 +39594,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T125806Z">
         <seg>更具體說明，本發明涉及具有多排座位之方向盤式全地形車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More than 10 gr</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031553Z" creationid="Judy" creationdate="20151206T031553Z">
+        <seg>大於 10 克</seg>
       </tuv>
     </tu>
     <tu>
@@ -45193,6 +45289,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a warning if it is necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031713Z" creationid="Judy" creationdate="20151206T031713Z">
+        <seg>若有必要，放置警告標誌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the product on the filling unit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065410Z" creationid="Judy" creationdate="20151205T065410Z">
@@ -46476,6 +46580,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press STOP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031618Z" creationid="Judy" creationdate="20151206T031618Z">
+        <seg>按下停止開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press any control button to make sure that the machine has been turned off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025536Z" creationid="Judy" creationdate="20151205T025536Z">
@@ -46994,6 +47106,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T100912Z">
         <seg>產品變形數量由 150 增加至 &gt;100 000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product weight</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031442Z" creationid="Judy" creationdate="20151206T031442Z">
+        <seg>產品重量</seg>
       </tuv>
     </tu>
     <tu>
@@ -54151,6 +54271,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stick length</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031450Z" creationid="Judy" creationdate="20151206T031450Z">
+        <seg>直條包裝長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stick pack machine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040454Z" creationid="Judy" creationdate="20151205T040454Z">
@@ -54171,6 +54299,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033605Z" creationid="Judy" creationdate="20151205T022331Z">
         <seg>直條包裝生產機組維護和指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stick width</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031446Z" creationid="Judy" creationdate="20151206T031446Z">
+        <seg>直條包裝重量</seg>
       </tuv>
     </tu>
     <tu>
@@ -60806,6 +60942,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The programed amounts to fill are the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031423Z" creationid="Judy" creationdate="20151206T031423Z">
+        <seg>以下為程式設定之填料量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The progress bar shows you where you are in the Job Change process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T080942Z">
@@ -67373,6 +67517,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type of filler</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031440Z" creationid="Judy" creationdate="20151206T031440Z">
+        <seg>填料機類型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type the following line into the Command Prompt:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140501Z">
@@ -69379,6 +69531,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T235803Z">
         <seg>其中：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait for the sealers temperature to drop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031723Z" creationid="Judy" creationdate="20151206T031723Z">
+        <seg>等待封裝機溫度下降。</seg>
       </tuv>
     </tu>
     <tu>
