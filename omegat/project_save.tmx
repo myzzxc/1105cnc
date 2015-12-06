@@ -13157,6 +13157,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check periodically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054449Z" creationid="Judy" creationdate="20151206T054444Z">
+        <seg>並定期檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check that sticks make the long corresponding to the distance between spots.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083040Z" creationid="Judy" creationdate="20151205T083040Z">
@@ -22618,6 +22626,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FRONT AND LATERALS DOORS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054550Z" creationid="Judy" creationdate="20151206T054550Z">
+        <seg>前機門和側機門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FRONT OF VEHICLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085220Z">
@@ -24961,6 +24977,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the habitual machine operation, never annul the photocells or detectors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054341Z" creationid="Judy" creationdate="20151206T054341Z">
+        <seg>正常機器運轉時，不得停用光電感測器或其它感測器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the installation to start a normal productive cycle, press RESET and then press RUN.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083739Z" creationid="Judy" creationdate="20151205T083642Z">
@@ -26508,6 +26532,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041147Z" creationid="Judy" creationdate="20151206T041147Z">
         <seg>加熱元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HEATING ELEMENTS AND TEMPERATURE PROBES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054558Z" creationid="Judy" creationdate="20151206T054558Z">
+        <seg>加熱元件和溫度探針</seg>
       </tuv>
     </tu>
     <tu>
@@ -28541,6 +28573,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150929Z">
         <seg>如果找到一個匹配的物體時，便能適當地移動 PTZ 攝影機使物體再次回到畫面中間，此時的移動方向上圖的紅色箭頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If malfunctioning is seen in any component, replace it immediately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054446Z" creationid="Judy" creationdate="20151206T054440Z">
+        <seg>若任何元件發生故障，請立即更換，</seg>
       </tuv>
     </tu>
     <tu>
@@ -37773,8 +37813,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Location</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115223Z">
-        <seg>路徑</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054455Z">
+        <seg>位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -40286,6 +40326,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031729Z">
         <seg>模塊：根據公司具體的策略緣由而產生的一個具有特定接口的構成單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monthly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054552Z" creationid="Judy" creationdate="20151206T054552Z">
+        <seg>每月</seg>
       </tuv>
     </tu>
     <tu>
@@ -45040,6 +45088,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PROTECTION DETECTORS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054514Z" creationid="Judy" creationdate="20151206T054514Z">
+        <seg>保護感測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PROTECTIVE GLOVES FOR HIGH TEMPERATURE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041128Z" creationid="Judy" creationdate="20151206T041128Z">
@@ -45845,6 +45901,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153024Z">
         <seg>定期重審資格要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Periodicity of check</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054506Z" creationid="Judy" creationdate="20151206T054506Z">
+        <seg>檢查週期</seg>
       </tuv>
     </tu>
     <tu>
@@ -65413,6 +65477,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144338Z" creationid="Judy" creationdate="20151129T144338Z">
         <seg>當檢重機已設定警報輸出時這些選項將會啟用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are important for the operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054414Z" creationid="Judy" creationdate="20151206T054414Z">
+        <seg>感測器對系統之運作相當重要。</seg>
       </tuv>
     </tu>
     <tu>
