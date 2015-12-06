@@ -17722,6 +17722,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Denotes risk of entrapment with rotating moving parts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042919Z" creationid="Judy" creationdate="20151206T042919Z">
+        <seg>可能被旋轉運動零件夾入之風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the HUTCHINSON site in question, the formalization of the product approval shall be specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T133635Z">
@@ -18296,6 +18304,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031910Z" creationid="Judy" creationdate="20151206T031910Z">
         <seg>拔除惰性氣體管路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disconnect the electrical and pneumatic switches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042253Z" creationid="Judy" creationdate="20151206T042253Z">
+        <seg>切斷電氣和氣動迴路開關。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26304,6 +26320,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HIGH TEMPERATURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043014Z" creationid="Judy" creationdate="20151206T043014Z">
+        <seg>高溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW ARE WE CURRENTLY?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T225052Z">
@@ -28145,6 +28169,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a fault is detected during an inspection which results in an operational problem, turn off and lock the machine immediately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042651Z" creationid="Judy" creationdate="20151206T042651Z">
+        <seg>若於檢查期間發現異常造成操作問題時，立即切斷電源並鎖定機台，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a group of pixels fall under both the colour range and flicker frequency over time we can flag those as fire blobs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153909Z">
@@ -29053,6 +29085,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033849Z">
         <seg>若省略 INSTALLDIR 參數時，產品將安裝於預設安裝資料夾中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you perform maintenance or cleaning operations in the area where sticks are formed, wait for a while until the clamps drop in temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042515Z" creationid="Judy" creationdate="20151206T042515Z">
+        <seg>若進行直條包裝成型區之維護或清潔操作時，請等待一段時間使夾頭溫度下降。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36316,6 +36356,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep the locks and signs until the operations are finished.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042612Z" creationid="Judy" creationdate="20151206T042612Z">
+        <seg>使用鎖頭和標誌直到完成操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keeping track of different data and decisions made is essential to keeping in line with your strategy and market objectives.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T140656Z">
@@ -37447,6 +37495,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021512Z" creationid="Judy" creationdate="20151205T021512Z">
         <seg>鎖定操作模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock switches with a padlock in the off position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042404Z" creationid="Judy" creationdate="20151206T042337Z">
+        <seg>使用鎖頭將開關鎖定於關閉位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48393,10 +48449,34 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RESIDUAL RISKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042721Z" creationid="Judy" creationdate="20151206T042721Z">
+        <seg>殘餘風險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REVIEW &amp; APPROVAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132902Z">
         <seg>校閱和批准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RISK OF CRUSHING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042944Z" creationid="Judy" creationdate="20151206T042944Z">
+        <seg>壓碎風險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RISK OF ENTRAPMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042829Z" creationid="Judy" creationdate="20151206T042829Z">
+        <seg>夾入風險</seg>
       </tuv>
     </tu>
     <tu>
@@ -50560,6 +50640,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041103Z" creationid="Judy" creationdate="20151206T041103Z">
         <seg>風險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Risk of crushing with linear motion elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043009Z" creationid="Judy" creationdate="20151206T043009Z">
+        <seg>可能受直線運動元件壓碎之風險。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67395,6 +67483,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To unlock, proceed in reverse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042717Z" creationid="Judy" creationdate="20151206T042717Z">
+        <seg>解鎖依上述步驟反向進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To validate warranty, please e-mail this form completed to joanbo@cgthermal.com within one week of equipment receipt/inspection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T142412Z">
@@ -68942,6 +69038,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use warning signs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042339Z" creationid="Judy" creationdate="20151206T042339Z">
+        <seg>使用警告標誌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Used for large format vinyl cutting, cutting paper mask on acrylic sheets for painting, and for cutting sand blast mask.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140845Z">
@@ -70263,6 +70367,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warning symbols:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042738Z" creationid="Judy" creationdate="20151206T042738Z">
+        <seg>警告符號：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warranty conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133113Z">
@@ -70691,6 +70803,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081832Z" creationid="Judy" creationdate="20151205T081832Z">
         <seg>將進行一些空包裝運轉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wear mechanical and thermal protection gloves if necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042537Z" creationid="Judy" creationdate="20151206T042537Z">
+        <seg>如有必要，穿戴機械和隔熱防護手套。</seg>
       </tuv>
     </tu>
     <tu>
