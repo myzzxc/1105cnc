@@ -63638,6 +63638,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The system takes a weight in vacuo sample (without passing a pack) and affords a vibrations limit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095952Z" creationid="Judy" creationdate="20151206T095952Z">
+        <seg>系統量測空樣品的重量 (未輸送包裝) 並提供振動限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system was designed to enable remote access, allowing remote access to live images and video playback through an integrated Web server or the system's client.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125129Z">
@@ -74900,6 +74908,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045526Z" creationid="Judy" creationdate="20151128T045526Z">
         <seg>弔掛過程中必須維持檢重機水平不傾斜或不撞擊到任何障礙物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must start the bands and validate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095657Z" creationid="Judy" creationdate="20151206T095657Z">
+        <seg>必須開啟輸送帶並驗證，</seg>
       </tuv>
     </tu>
     <tu>
