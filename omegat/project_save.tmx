@@ -12100,6 +12100,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHANGE program on touch screen</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033903Z" creationid="Judy" creationdate="20151206T033903Z">
+        <seg>於觸控式螢幕上更改程式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHANGING YOUR BANK ACCOUNT DETAILS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T144503Z">
@@ -13021,6 +13029,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check that the changes made are correct according to the sachet format to be manufactured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033647Z" creationid="Judy" creationdate="20151206T033647Z">
+        <seg>檢查所做之變更皆正確符合欲製造之直條包裝格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check that the spot is at the ends of the stick.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083058Z" creationid="Judy" creationdate="20151205T083058Z">
@@ -13053,6 +13069,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check the correct placement of the paper, on its entire length up until the dragging group.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033745Z" creationid="Judy" creationdate="20151206T033745Z">
+        <seg>檢查紙張安裝位置正確穿過裝置至抽拉機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the correct position of forming tubes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033843Z" creationid="Judy" creationdate="20151206T033843Z">
+        <seg>檢查成形管位置正確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the device by pressing the RESET key on the screen and then press RUN.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081808Z" creationid="Judy" creationdate="20151205T081808Z">
@@ -13065,6 +13097,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081852Z" creationid="Judy" creationdate="20151205T081848Z">
         <seg>檢查直條包裝長度 (B)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the position of the Spot and Alignment detector.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033830Z" creationid="Judy" creationdate="20151206T033830Z">
+        <seg>檢查光電感測器和對位感測器的位置。</seg>
       </tuv>
     </tu>
     <tu>
