@@ -23620,6 +23620,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.36.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101902Z" creationid="Judy" creationdate="20151206T101902Z">
+        <seg>圖 3.36 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T134159Z" creationid="Judy" creationdate="20151128T134159Z">
@@ -29565,6 +29573,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101454Z">
         <seg>若選擇要包含此選項於安裝程式檔中，選擇 installation language only（僅有安裝程式語言）、 all available languages （所有可用語言）或 selected languages （選擇語言）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you click on the button associated to one of the outputs, the LED of the button lights up and keeps green color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101746Z" creationid="Judy" creationdate="20151206T101746Z">
+        <seg>若點擊其中一個輸出相關的按鈕，按鈕的 LED 指示燈亮起並保持綠色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52931,6 +52947,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Verify Outputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101908Z" creationid="Judy" creationdate="20151206T101908Z">
+        <seg>驗證輸出畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen images and print samples on this catalogue are simulated unless otherwise specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051351Z">
@@ -67102,6 +67126,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This output remains active until the same button is touched again, you press on another output or exit the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101859Z" creationid="Judy" creationdate="20151206T101859Z">
+        <seg>輸出維持開啟直到再按一次相同按鈕，可按下其他輸出按鈕或退出畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This panel lets you specify basic customer information (such as User Name, etc).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T044956Z">
@@ -67966,6 +67998,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100613Z" creationid="Judy" creationdate="20151206T100613Z">
         <seg>若要進入畫面，由主畫面選擇「Verify (驗證)」後選擇「Verify Inputs (驗證輸入)」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the screen first "Verify" is selected from the main menu and after that "Verify Outputs" is selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101640Z" creationid="Judy" creationdate="20151206T101640Z">
+        <seg>若要進入畫面，由主畫面選擇「Verify (驗證)」後選擇「Verify Outputs (驗證輸出)」。</seg>
       </tuv>
     </tu>
     <tu>
