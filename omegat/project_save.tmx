@@ -5324,6 +5324,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ANTIESTATIC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054714Z" creationid="Judy" creationdate="20151206T054714Z">
+        <seg>防靜電</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>API Capabilities (Programming Interface)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145225Z">
@@ -8419,6 +8427,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annually</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054650Z" creationid="Judy" creationdate="20151206T054650Z">
+        <seg>每年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another priority is to ensure the full realization of the human right to water and sanitation in the context of the post-2015 development agenda.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T084234Z">
@@ -10466,6 +10482,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BAR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054702Z" creationid="Judy" creationdate="20151206T054702Z">
+        <seg>桿件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BARCODE READER WITH CABLE ( Panelbuilder only)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142956Z">
@@ -12336,6 +12360,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125701Z">
         <seg>商業檢查清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMPENSATOR DETECTORS (unwind.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054844Z" creationid="Judy" creationdate="20151206T054844Z">
+        <seg>補償器感測器 (開卷機)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26576,10 +26608,26 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOPPER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054648Z" creationid="Judy" creationdate="20151206T054648Z">
+        <seg>料斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOPPER PLATAFORM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043500Z" creationid="Judy" creationdate="20151206T043500Z">
         <seg>料斗平台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HORIZONTAL AND VERTICAL SEALING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054617Z" creationid="Judy" creationdate="20151206T054617Z">
+        <seg>水平和垂直封裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -36820,6 +36868,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LEVEL PROBE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054645Z" creationid="Judy" creationdate="20151206T054645Z">
+        <seg>產品存量探針</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LIFTING AND TRANSPORT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035710Z" creationid="Judy" creationdate="20151205T035710Z">
@@ -44784,6 +44840,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PHOTOCELLS and DETECTORS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054746Z" creationid="Judy" creationdate="20151206T054746Z">
+        <seg>光電感測器和其它感測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PLASMA CUTTING BED AND FUME RECEIVER - LARGE (1220mm x 1830mm)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132154Z">
@@ -48769,6 +48833,22 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REEL ALIGNMENT (unwind.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054909Z" creationid="Judy" creationdate="20151206T054909Z">
+        <seg>卷筒對位 (開卷機)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REEL END DETECTOR (unwind.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054830Z" creationid="Judy" creationdate="20151206T054816Z">
+        <seg>卷筒末端感測器 (開卷機)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REEL SIZE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031644Z" creationid="Judy" creationdate="20151205T031644Z">
@@ -51666,6 +51746,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053922Z">
         <seg>開口環和固定法蘭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPOT DETECTOR (unwind.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054858Z" creationid="Judy" creationdate="20151206T054858Z">
+        <seg>位置感測器 (開卷機)。</seg>
       </tuv>
     </tu>
     <tu>
