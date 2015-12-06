@@ -23244,6 +23244,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 49</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100046Z" creationid="Judy" creationdate="20151206T100046Z">
+        <seg>圖 49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure  3.21.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152041Z" creationid="Judy" creationdate="20151129T152041Z">
@@ -28789,6 +28797,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150929Z">
         <seg>如果找到一個匹配的物體時，便能適當地移動 PTZ 攝影機使物體再次回到畫面中間，此時的移動方向上圖的紅色箭頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If made with a passing pack, an error will occur.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100041Z" creationid="Judy" creationdate="20151206T100022Z">
+        <seg>若輸送包裝進行分析，將發生錯誤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68190,6 +68206,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022608Z">
         <seg>為了強化公司間程式設定的共用，可以將已安裝和設置完成的 Power PDF  設定加入部署套裝程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enter the verification section from the main menu the "Verify" button is selected and the validation dropdown menu appears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100253Z" creationid="Judy" creationdate="20151206T100253Z">
+        <seg>要從主功能表進入驗證畫面必須點擊「Verify (驗證)」按鈕以顯示驗證下拉式功能表，</seg>
       </tuv>
     </tu>
     <tu>
