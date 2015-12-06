@@ -29105,6 +29105,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the process has been performed successfully a screen display showing the weighting behavior with the obtained values will appear (see Figure 3.30.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092350Z" creationid="Judy" creationdate="20151206T092350Z">
+        <seg>若此流程成功後畫面將顯示與秤重結果和所得之數值 (請見圖 3.30)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the proposed salary change is outside of policy, an approval is needed from the Reward COE.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T151311Z">
@@ -71939,6 +71947,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090013Z" creationid="Judy" creationdate="20151128T090013Z">
         <seg>重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Adjustment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092356Z" creationid="Judy" creationdate="20151206T092356Z">
+        <seg>秤重調整</seg>
       </tuv>
     </tu>
     <tu>
