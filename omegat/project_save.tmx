@@ -12420,6 +12420,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CUTTING ELEMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043047Z" creationid="Judy" creationdate="20151206T043047Z">
+        <seg>切削元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CVT unit 140 receives ambient air through an air intake system 160 and expels air from an interior of CVT unit 140 through an exhaust system 162.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T135644Z">
@@ -19220,6 +19228,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055656Z" creationid="Judy" creationdate="20151205T055656Z">
         <seg>電氣和氣動連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ELECTRIC VOLTAGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043129Z" creationid="Judy" creationdate="20151206T043129Z">
+        <seg>電壓</seg>
       </tuv>
     </tu>
     <tu>
@@ -35343,6 +35359,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is indicated in all the electrical cabinets and conduits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043247Z" creationid="Judy" creationdate="20151206T043247Z">
+        <seg>所有配電箱和電氣管道皆有此標誌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is made in such a way that it can also be used when working with breadboards.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T120739Z">
@@ -37487,6 +37511,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115223Z">
         <seg>路徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043256Z" creationid="Judy" creationdate="20151206T043256Z">
+        <seg>位置：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50644,10 +50676,34 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Risk of burns from contact with hot elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043041Z" creationid="Judy" creationdate="20151206T043041Z">
+        <seg>接觸高溫元件導致燙傷之風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Risk of crushing with linear motion elements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043009Z" creationid="Judy" creationdate="20151206T043009Z">
         <seg>可能受直線運動元件壓碎之風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Risk of cutting due to sharp elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043126Z" creationid="Judy" creationdate="20151206T043126Z">
+        <seg>受鋒利元件切割之風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Risk of electric shock.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043158Z" creationid="Judy" creationdate="20151206T043138Z">
+        <seg>觸電風險，</seg>
       </tuv>
     </tu>
     <tu>
@@ -65170,6 +65226,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This area should be free of people whenever the doors are closed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043351Z" creationid="Judy" creationdate="20151206T043351Z">
+        <seg>當機門關閉時所有人員不得進入此區域，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This arrangement eliminates the need for any right angle drives between power source 130 and the wheels 104 of rear axle 110.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T071819Z">
@@ -68345,6 +68409,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T131706Z">
         <seg>UNIST 切削液噴嘴 / 潤滑噴嘴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNWINDER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043300Z" creationid="Judy" creationdate="20151206T043300Z">
+        <seg>開卷機</seg>
       </tuv>
     </tu>
     <tu>
