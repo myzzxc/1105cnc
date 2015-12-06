@@ -15737,8 +15737,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Configuration</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T105712Z">
-        <seg>設定</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144510Z">
+        <seg>設置</seg>
       </tuv>
     </tu>
     <tu>
@@ -23648,6 +23648,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T134159Z" creationid="Judy" creationdate="20151128T134159Z">
         <seg>圖 3.4. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.40.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144307Z" creationid="Judy" creationdate="20151206T144307Z">
+        <seg>圖 3.40 </seg>
       </tuv>
     </tu>
     <tu>
@@ -39822,6 +39830,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152046Z" creationid="Judy" creationdate="20151129T152046Z">
         <seg>報警遮罩 2 選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu Configure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144507Z" creationid="Judy" creationdate="20151206T144321Z">
+        <seg>設置功能表</seg>
       </tuv>
     </tu>
     <tu>
@@ -68146,6 +68162,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access this menu, you select “Setting” option from the main menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144302Z" creationid="Judy" creationdate="20151206T144302Z">
+        <seg>要進此功能表請由主選單中選擇「Setting (設定)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access this screen from the General Menu you click on "User Choices" button and the dropdown menu appears.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131352Z" creationid="Judy" creationdate="20151128T131348Z">
@@ -68174,6 +68198,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152238Z" creationid="Judy" creationdate="20151129T152238Z">
         <seg>要進入畫面請由第一下拉式選單中選擇「Feedback/Range (回饋 / 範圍)」選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this screen, first the "Configure" option is selected from the main menu and then you click on the "Internal Data" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144454Z" creationid="Judy" creationdate="20151206T144454Z">
+        <seg>若要進入畫面，首先由主畫面選擇「Configure (設置)」後選擇「Graphic Mode (圖形模式)」。</seg>
       </tuv>
     </tu>
     <tu>
