@@ -5332,6 +5332,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ANTIESTATIC BAR (front machine)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T055059Z" creationid="Judy" creationdate="20151206T055045Z">
+        <seg>防靜電桿 (機器前側)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>API Capabilities (Programming Interface)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145225Z">
@@ -12366,8 +12374,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>COMPENSATOR DETECTORS (unwind.)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054844Z" creationid="Judy" creationdate="20151206T054844Z">
-        <seg>補償器感測器 (開卷機)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T055031Z" creationid="Judy" creationdate="20151206T054844Z">
+        <seg>補償器感測器 (開卷機)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45192,6 +45200,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PULLING STROKE LIMIT DETECTOR (inside the machine)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054945Z" creationid="Judy" creationdate="20151206T054945Z">
+        <seg>抽拉行程極限感測器 (機器內部)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PUMP SILENCER (2.5" fits all blowers &amp; silencers)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142914Z">
@@ -51752,8 +51768,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>SPOT DETECTOR (unwind.)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054858Z" creationid="Judy" creationdate="20151206T054858Z">
-        <seg>位置感測器 (開卷機)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T055030Z" creationid="Judy" creationdate="20151206T054858Z">
+        <seg>位置感測器 (開卷機)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51970,6 +51986,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083646Z" creationid="Judy" creationdate="20151205T083646Z">
         <seg>停止生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STROKE LIMIT of UNWINDER ALIGNEMENT MOTOR (unwind.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T055048Z" creationid="Judy" creationdate="20151206T055029Z">
+        <seg>開卷機對位馬達之行程極限 (開卷機)</seg>
       </tuv>
     </tu>
     <tu>
