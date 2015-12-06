@@ -16007,6 +16007,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consecutive Rejected Packs: For setting the number of rejected consecutively packs in order to later assign a temporary alarm for this item.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T151108Z" creationid="Judy" creationdate="20151206T151108Z">
+        <seg>Consecutive Rejected Packs (連續退回包裝)：設定連續退回包裝的數量，以便後續設定此項目之暫時警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consider the comfortable handling of the operator and easy access to maintenance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044128Z" creationid="Judy" creationdate="20151205T044022Z">
@@ -35975,6 +35983,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a second fixed tare which at any given time can be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T151421Z" creationid="Judy" creationdate="20151206T151421Z">
+        <seg>其為第二固定皮重，可在任何指定的時間使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is advised that the fork of the truck is centrally positioned on the front part with the doors removed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043825Z" creationid="Judy" creationdate="20151205T043825Z">
@@ -46729,6 +46745,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Photocell Alarm: Enables the possibility of having an alarm photocell.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T155007Z" creationid="Judy" creationdate="20151206T155007Z">
+        <seg>Photocell Alarm (光電感應器警報)：選擇啟用光電感應器警報，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Photograph of the Redline Riot, 1 page, dated Jun.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T083944Z">
@@ -48394,6 +48418,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T160226Z">
         <seg>印表機驅動程式排除於定序程序外，必須於用戶端進行本機安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing Delay: Sending from Weight to Weight delay time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T150914Z" creationid="Judy" creationdate="20151206T150914Z">
+        <seg>Printing Delay (列表延遲)：兩重量訊號之間的發送延遲時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52032,6 +52064,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144804Z">
         <seg>S - 空間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SAI Alarm: Enables the possibility of having a SAI alarm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T154730Z" creationid="Judy" creationdate="20151206T154730Z">
+        <seg>SAI Alarm (SAI 警報)：選擇啟用 SAI 警報，</seg>
       </tuv>
     </tu>
     <tu>
@@ -57986,6 +58026,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tare Offer: Enables the possibility of using the tare offer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T151526Z" creationid="Judy" creationdate="20151206T151337Z">
+        <seg>Tare Offer (皮重功能)：選擇啟用皮重功能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tare Test Limit: Is the tare % that can be modified with the Tare Test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152256Z" creationid="Judy" creationdate="20151128T152221Z">
@@ -58152,6 +58200,14 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T142436Z">
         <seg>Tellico 4x4.com, Polaris Ranger Accessories and Ranger Parts for Crew 500,700, 800, XP, 網址 atwww.tellico4x4.com/index.php/ cPath/3523, 最後連結日期為 2011 年 3 月 29 日
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature Alarm: Enables the possibility of having a temperature alarm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T151505Z" creationid="Judy" creationdate="20151206T151505Z">
+        <seg>Temperature Alarm (溫度警報)：選擇啟用溫度警報，</seg>
       </tuv>
     </tu>
     <tu>
@@ -65928,6 +65984,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There must be a SAI alarm input programmed to alarm message be displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T154744Z" creationid="Judy" creationdate="20151206T154744Z">
+        <seg>SAI 警報輸入必須設定顯示之警報訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There must be a temperature alarm input programmed to alarm message be displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T151639Z" creationid="Judy" creationdate="20151206T151639Z">
+        <seg>溫度警報輸入必須設定顯示之警報訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There should be at least one liter of water per bird entering the scalder.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T034303Z">
@@ -69280,6 +69352,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092036Z" creationid="Judy" creationdate="20151128T090010Z">
         <seg>軌道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Track Description: For setting the checkweigher track descriptor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T151146Z" creationid="Judy" creationdate="20151206T151146Z">
+        <seg>Track Description (軌道說明)：設定檢重機軌道說明。 </seg>
       </tuv>
     </tu>
     <tu>
