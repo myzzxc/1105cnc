@@ -6177,6 +6177,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accountants Graphic Window: Configuration of the scale for the screen “Production Counters”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145807Z" creationid="Judy" creationdate="20151206T145807Z">
+        <seg>Accountants Graphic Window (計數圖形視窗)：設定「Production Counters (生產計數器)」畫面之比例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accuracy Options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034417Z">
@@ -10998,6 +11006,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T054224Z">
         <seg>以不同的指令同時批次處理多份文件（插入、截取和刪除頁面；套用浮水印和圖章；搜尋和加密；檢查文件；搬移註解； 和列印）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch: Indicating whether the format is numeric or alphanumeric.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145550Z" creationid="Judy" creationdate="20151206T145550Z">
+        <seg>Batch (批號)：指定數字或字母加數字格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25601,6 +25617,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Free Unassigned Time: If the field is set as YES, it allows configure this concept of stop time to work as the others stop time concepts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T150348Z" creationid="Judy" creationdate="20151206T150348Z">
+        <seg>Free Unassigned Time (閒置時間)：若此欄位設定為「是」，它允許配置這一概念的停止時間上班當別人停止時間概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Free app available for Android and iOS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T070947Z">
@@ -27844,6 +27868,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141722Z">
         <seg>折線圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Histogram Graphic Window: Configuration of scale for the screen “Production Histogram”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145653Z" creationid="Judy" creationdate="20151206T145653Z">
+        <seg>Histogram Graphic Window (長條圖視窗)：設定「Production Histogram (生產長條圖)」畫面之比例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36127,6 +36159,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is often used in rocker reject devices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T150303Z" creationid="Judy" creationdate="20151206T150303Z">
+        <seg>通常用於搖臂退回裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is placed at the end of the checkweigher.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T123632Z" creationid="Judy" creationdate="20151129T123613Z">
@@ -37128,6 +37168,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125621Z">
         <seg>無懼風雨持續錄影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep reject: The reject remains activated after handling its activation, if the selected option is YES.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T150359Z" creationid="Judy" creationdate="20151206T150102Z">
+        <seg>Keep reject (持續退回)：若選擇「YES (是)」，啟動後退回將維持啟用狀態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38895,6 +38943,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141323Z">
         <seg>機器資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machine Description: Sets the line descriptor of the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145356Z" creationid="Judy" creationdate="20151206T145356Z">
+        <seg>Machine Description (機器說明)：設定檢重機之產線描說明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49873,6 +49929,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recover Reject: For setting the distance between the photocell and the reject device in millimeters to come back to the rest position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T150243Z" creationid="Judy" creationdate="20151206T150238Z">
+        <seg>Recover (回復退回)：光電感應器和退回裝置回到靜止位置之間的距離設定，以毫米為單位，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recurrent non-compliance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161523Z">
@@ -55915,6 +55979,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124735Z" creationid="Judy" creationdate="20151129T030504Z">
         <seg>標準規範：格式容許值適用之規範 (EEC-MSUR-INMETRO)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard: You can select between EEC, MERCOSUR and INMETRO.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145453Z" creationid="Judy" creationdate="20151206T145453Z">
+        <seg>Standard (標準)：可以選擇 EEC、MERCOSUR 以及 INMETRO 等標準規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69023,6 +69095,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T100608Z">
         <seg>超出容許值 (Tolerance for excess, TO2; T+2)：產品包裝量超出於任何情況下皆不允許的接近淨重之預先定義值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tolerance:  Tolerance in % which is given to the pack length.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145850Z" creationid="Judy" creationdate="20151206T145850Z">
+        <seg>Tolerance (長度公差)：包裝長度之公差 %。</seg>
       </tuv>
     </tu>
     <tu>
