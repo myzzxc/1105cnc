@@ -23268,6 +23268,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 51</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101545Z" creationid="Judy" creationdate="20151206T101545Z">
+        <seg>圖 51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure  3.21.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152041Z" creationid="Judy" creationdate="20151129T152041Z">
@@ -29145,6 +29153,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the machine has the additional plate for inputs/outputs, on the screen entries ranging from "Input 7" to "Input 14" will appear.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101424Z" creationid="Judy" creationdate="20151206T101424Z">
+        <seg>若此機台具有額外的輸入/輸出盤，畫面上將會出現輸入條目「輸入 7」至「輸入 14」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the model is messed up, then the algorithm can’t decide what is a foreground pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104641Z">
@@ -29846,6 +29862,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T131935Z">
         <seg>如圖所示，接觸地面元件 102 為車輪 104 和其對應之輪胎 106。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image 50</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101549Z" creationid="Judy" creationdate="20151206T101549Z">
+        <seg>圖 50</seg>
       </tuv>
     </tu>
     <tu>
@@ -72979,6 +73003,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T093459Z">
         <seg>再加上 Adobe 授權和審核所帶來的困擾，令很多使用者感到困擾（且被 Adobe 綁定）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you enter this section a warning message appears which involves taking the machine out of production if you click on "Accept".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101541Z" creationid="Judy" creationdate="20151206T101541Z">
+        <seg>當進入此畫面時，若點擊「Accept (接受)」將顯示機台將會停止生產的警告。</seg>
       </tuv>
     </tu>
     <tu>
