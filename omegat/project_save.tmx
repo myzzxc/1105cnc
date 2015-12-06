@@ -18924,6 +18924,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During maintenance, keep the doors open or keep the EMERGENCY STOP button pressed in.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043431Z" creationid="Judy" creationdate="20151206T043431Z">
+        <seg>維護期間保持機門開啟或按下緊急停止按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During operation of vehicle 100, the amount of air directed at each of drive member 400 and driven member 402 may change.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T022239Z">
@@ -26344,6 +26352,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOPPER PLATAFORM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043500Z" creationid="Judy" creationdate="20151206T043500Z">
+        <seg>料斗平台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOW ARE WE CURRENTLY?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T225052Z">
@@ -27949,6 +27965,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061546Z" creationid="Judy" creationdate="20151205T061546Z">
         <seg>惰性氣體輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INSIDE THE MACHINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043449Z" creationid="Judy" creationdate="20151206T043449Z">
+        <seg>機器內部</seg>
       </tuv>
     </tu>
     <tu>
@@ -51450,6 +51474,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033555Z" creationid="Judy" creationdate="20151205T031751Z">
         <seg>直條包裝格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STICK FORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043444Z" creationid="Judy" creationdate="20151206T043444Z">
+        <seg>直條包裝成型</seg>
       </tuv>
     </tu>
     <tu>
