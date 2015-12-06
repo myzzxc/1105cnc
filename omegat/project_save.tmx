@@ -23636,6 +23636,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.39.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104827Z" creationid="Judy" creationdate="20151206T104827Z">
+        <seg>圖 3.39 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T134159Z" creationid="Judy" creationdate="20151128T134159Z">
@@ -52947,6 +52955,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Verify Graphic Mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104839Z" creationid="Judy" creationdate="20151206T104839Z">
+        <seg>圖形模式驗證畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Verify Inputs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101206Z" creationid="Judy" creationdate="20151206T101206Z">
@@ -67406,6 +67422,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen allows us to verify the synchronization of the different inputs and the temporarily selected reject output.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104940Z" creationid="Judy" creationdate="20151206T104940Z">
+        <seg>此畫面可同步驗證不同的輸入和暫時選定的退回輸出，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This screen includes the fields related to the compensation change.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144925Z">
@@ -73090,6 +73114,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
         <seg>When you enter this section a warning message appears which involves taking the machine out of production if you click on “Accept".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104641Z" creationid="Judy" creationdate="20151206T104641Z">
+        <seg>當進入此畫面時，若點擊「Accept (接受)」將顯示機台將會停止生產的警告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you enter this section a warning message appears which involves taking the machine out of production if you click on “Accept”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104824Z" creationid="Judy" creationdate="20151206T104824Z">
         <seg>當進入此畫面時，若點擊「Accept (接受)」將顯示機台將會停止生產的警告。</seg>
       </tuv>
     </tu>
