@@ -62716,6 +62716,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The photocell alarm occurs when something covers the pack detection photocell for more than 3 times the cadence of each passing pack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T155817Z" creationid="Judy" creationdate="20151206T155817Z">
+        <seg>當有物品覆蓋包裝檢測之光電感應器超過輸送包裝之輸送間隔 3 次以上時便會出現光電感應器警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The photos of the products featured on this catalogue may not be of actual products that are available in your country.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T095203Z">
