@@ -25489,6 +25489,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Format Tolerance: For setting the format tolerance in absolute or relative referred to net weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T150714Z" creationid="Judy" creationdate="20151206T150714Z">
+        <seg>Format Tolerance (格式公差)：設定格式之絕對或相對淨重之容許公差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Format not established</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031604Z" creationid="Judy" creationdate="20151206T031604Z">
@@ -25619,8 +25627,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Free Unassigned Time: If the field is set as YES, it allows configure this concept of stop time to work as the others stop time concepts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T150348Z" creationid="Judy" creationdate="20151206T150348Z">
-        <seg>Free Unassigned Time (閒置時間)：若此欄位設定為「是」，它允許配置這一概念的停止時間上班當別人停止時間概念。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T150550Z" creationid="Judy" creationdate="20151206T150348Z">
+        <seg>Free Unassigned Time (閒置時間)：若此欄位設定為「YES (是)」，可設定此停止時間參數作為其它停止時間參數。</seg>
       </tuv>
     </tu>
     <tu>
