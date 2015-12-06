@@ -10031,6 +10031,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Audit Temperature: It is a configurable alarm to audit the temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160620Z" creationid="Judy" creationdate="20151206T160620Z">
+        <seg>Audit Temperature (監控溫度): 它是一個可配置的報警，要審核的溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Audit or plan for progress at the supplier's cost</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T162219Z">
@@ -15060,6 +15068,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T034056Z">
         <seg>測試調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common Dynamic Data: Enables the use of some unique dynamic data for all formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160437Z" creationid="Judy" creationdate="20151206T160437Z">
+        <seg>Common Dynamic Data (共用動態資料)：啟用將某些獨有的動態資料用於所有格式，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20912,8 +20928,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Erase Audit (Monthly): Enables the ability to delete the audit monthly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160152Z" creationid="Judy" creationdate="20151206T160140Z">
-        <seg>Erase Audit (刪除審核記錄，每月)：選擇每月刪除審核記錄。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160635Z" creationid="Judy" creationdate="20151206T160140Z">
+        <seg>Erase Audit (刪除監控記錄，每月)：選擇每月刪除監控記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56720,6 +56736,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Summary (Monthly): Enables the ability to delete the monthly production summary (it requires having enabled this possibility).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160319Z" creationid="Judy" creationdate="20151206T160319Z">
+        <seg>Summary (刪除生產總結，每月)：選擇刪除每月生產總結 (必須啟用此選項)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Super LoLux</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124445Z">
@@ -75452,6 +75476,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141604Z">
         <seg>無須外加喇叭和麥克風。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have to adjust the longest format, so that all are within the ranges of it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160546Z" creationid="Judy" creationdate="20151206T160546Z">
+        <seg>必須調整為時間最長的格式，以便包含所有範圍。</seg>
       </tuv>
     </tu>
     <tu>
