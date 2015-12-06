@@ -2613,6 +2613,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 to 5 gr</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032315Z" creationid="Judy" creationdate="20151206T032315Z">
+        <seg>2 至 5 克</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2, 2013, 7 pgs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T084831Z">
@@ -5327,16 +5335,16 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>AUGER FILLER  Ø11 PITCH 15</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031515Z" creationid="Judy" creationdate="20151206T031515Z">
-        <seg>螺旋填料機 Ø11 間距 15</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032428Z" creationid="Judy" creationdate="20151206T031515Z">
+        <seg>螺旋填料器 Ø11 間距 15</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>AUGER FILLER Ø14 PITCH 22</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031545Z" creationid="Judy" creationdate="20151206T031545Z">
-        <seg>螺旋填料機 Ø14 間距 22</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032434Z" creationid="Judy" creationdate="20151206T031545Z">
+        <seg>螺旋填料器 Ø14 間距 22</seg>
       </tuv>
     </tu>
     <tu>
@@ -6043,8 +6051,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>According to tests, recommend changing the auger filler depending on the quantity to be dosed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034030Z" creationid="Judy" creationdate="20151205T034030Z">
-        <seg>根據測試結果，建議根據所需填料量更換螺旋填料機，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151205T034030Z">
+        <seg>根據測試結果，建議根據所需填料量更換螺旋填料器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -6597,6 +6605,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122833Z" creationid="Judy" creationdate="20151128T122716Z">
         <seg>建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031859Z" creationid="Judy" creationdate="20151206T031859Z">
+        <seg>拔除後</seg>
       </tuv>
     </tu>
     <tu>
@@ -9503,6 +9519,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assemble auger filler and auger tube in depending of format to do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151206T032031Z">
+        <seg>螺旋填料器和螺旋管組裝取決於製造格式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assemble documents</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085601Z">
@@ -9887,6 +9911,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auger filler and auger tube to know general mounting details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151206T032111Z">
+        <seg>螺旋填料器和螺旋管一般安裝詳細資訊」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auger filler tube</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035123Z" creationid="Judy" creationdate="20151205T035123Z">
@@ -9895,10 +9927,34 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auger filler Ø11 with o-ring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151206T032339Z">
+        <seg>螺旋填料器 Ø11 和密封環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auger filler Ø14 with o-ring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032511Z" creationid="Judy" creationdate="20151206T032413Z">
+        <seg>螺旋填料器 Ø14 和密封環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auger fillers and auger tubes</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022246Z" creationid="Judy" creationdate="20151205T022246Z">
-        <seg>螺旋填料機和螺旋管</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032459Z" creationid="Judy" creationdate="20151205T022246Z">
+        <seg>螺旋填料器和螺旋管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auger tube Ø14 with o-ring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032535Z" creationid="Judy" creationdate="20151206T032526Z">
+        <seg>螺旋管 Ø14 和密封環</seg>
       </tuv>
     </tu>
     <tu>
@@ -10862,6 +10918,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T065122Z">
         <seg>Becker 乾式葉片真空抽氣泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031906Z" creationid="Judy" creationdate="20151206T031906Z">
+        <seg>拔除前</seg>
       </tuv>
     </tu>
     <tu>
@@ -12006,8 +12070,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>CHANGE OF FILLER</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031350Z" creationid="Judy" creationdate="20151206T031350Z">
-        <seg>更換填料機</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032423Z" creationid="Judy" creationdate="20151206T031350Z">
+        <seg>更換填料器</seg>
       </tuv>
     </tu>
     <tu>
@@ -12469,6 +12533,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can’t connect inert gas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032238Z" creationid="Judy" creationdate="20151206T032238Z">
+        <seg>不能連接惰性氣體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capacity:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125113Z">
@@ -12799,8 +12871,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Change of filler</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021415Z" creationid="Judy" creationdate="20151205T021415Z">
-        <seg>更換填料機</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032459Z" creationid="Judy" creationdate="20151205T021415Z">
+        <seg>更換填料器</seg>
       </tuv>
     </tu>
     <tu>
@@ -18060,6 +18132,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnect The inert gas tubes IF IT IS NECESSARY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031949Z" creationid="Judy" creationdate="20151206T031821Z">
+        <seg>若有必要，拔除惰性氣體管路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disconnect USB</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141100Z">
@@ -18080,6 +18160,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081517Z" creationid="Judy" creationdate="20151205T081456Z">
         <seg>於「Work (工作)」觸控式螢幕上切斷給料，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disconnect inert gas tubes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031910Z" creationid="Judy" creationdate="20151206T031910Z">
+        <seg>拔除惰性氣體管路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disconnect the tubes of forming tubes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031849Z" creationid="Judy" creationdate="20151206T031849Z">
+        <seg>拔除成型管之管路</seg>
       </tuv>
     </tu>
     <tu>
@@ -23070,8 +23166,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Filler</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022915Z" creationid="Judy" creationdate="20151205T022915Z">
-        <seg>填料機</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032459Z" creationid="Judy" creationdate="20151205T022915Z">
+        <seg>填料器</seg>
       </tuv>
     </tu>
     <tu>
@@ -37515,6 +37611,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MOUNTED TO DOSE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032308Z" creationid="Judy" creationdate="20151206T032308Z">
+        <seg>安裝以進行填料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130025Z">
@@ -45299,8 +45403,8 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Place the product on the filling unit.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065410Z" creationid="Judy" creationdate="20151205T065410Z">
-        <seg>裝填產品於填料機組。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151205T065410Z">
+        <seg>裝填產品於填料器組。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51607,6 +51711,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134639Z">
         <seg>請參見以下的詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See chapter 4.6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032121Z" creationid="Judy" creationdate="20151206T032046Z">
+        <seg>請見章節 4.6「</seg>
       </tuv>
     </tu>
     <tu>
@@ -58351,6 +58463,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T001245Z">
         <seg>此時將由 HRBP 和預算經理 (Budget Owner) 進行審核</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The auger filler Ø14 doesn’t need the forming tube because the auger tube does the two functions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151206T032228Z">
+        <seg>螺旋填料器 Ø14 無需成形管，因為螺旋管便具有種功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67318,8 +67438,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Turn “FILLER “OFF.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081515Z" creationid="Judy" creationdate="20151205T081515Z">
-        <seg>關閉「填料機」。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151205T081515Z">
+        <seg>關閉「填料器」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67519,8 +67639,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Type of filler</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031440Z" creationid="Judy" creationdate="20151206T031440Z">
-        <seg>填料機類型</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032425Z" creationid="Judy" creationdate="20151206T031440Z">
+        <seg>填料器類型</seg>
       </tuv>
     </tu>
     <tu>
@@ -73905,6 +74025,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T145508Z">
         <seg>並固定於與手把 290 和立柱 246 相連之支架 302 上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>change auger filler, auger tube and forming tube IT IS NECESSARY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151206T031945Z">
+        <seg>若有必要，更換螺旋填料器、螺旋管和成形管</seg>
       </tuv>
     </tu>
     <tu>
