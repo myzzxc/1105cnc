@@ -28745,6 +28745,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If for some reason the learning had been wrong, the checkweigher will come back to the start cycle showing on the bottom of the display the error message.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T093002Z" creationid="Judy" creationdate="20151206T093002Z">
+        <seg>若基於某些緣故學習流程錯誤，檢重機將回到開始循環並於畫面下方顯示錯誤訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If found, tighten down pet specifications to stop leaks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T140521Z">
@@ -28965,6 +28973,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T133018Z">
         <seg>若未完成上述測試和文件記錄，之後發現的任何損壞將由客戶自行負責。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the analysis was successful it will appear at the bottom of the screen a button "Save" for saving the learned data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092843Z" creationid="Judy" creationdate="20151206T092843Z">
+        <seg>若分析成功後畫面下方會出現「Save (儲存)」按鈕以保存學習資料。</seg>
       </tuv>
     </tu>
     <tu>
