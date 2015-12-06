@@ -4802,6 +4802,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A screen appears with an options list, where we have to select the "General" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144840Z" creationid="Judy" creationdate="20151206T144743Z">
+        <seg>畫面將會出現選項清單，選擇其中的「General (一般)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A second clasp 690 is provided at the forwardmost end of the net 620 (FIG. 24) and as best shown in FIG. 26 includes an aperture 692, slot 694, apertures 696, and slots 698, 700.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T050552Z">
@@ -23636,6 +23644,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.37.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144713Z" creationid="Judy" creationdate="20151206T144713Z">
+        <seg>圖 3.37 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.39.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104827Z" creationid="Judy" creationdate="20151206T104827Z">
@@ -23656,6 +23672,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144307Z" creationid="Judy" creationdate="20151206T144307Z">
         <seg>圖 3.40 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.41.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144635Z" creationid="Judy" creationdate="20151206T144635Z">
+        <seg>圖 3.41 </seg>
       </tuv>
     </tu>
     <tu>
@@ -29795,8 +29819,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If you want to change any parameter just select the parameter and then click on it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144739Z" creationid="Judy" creationdate="20151129T144739Z">
-        <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144746Z" creationid="Judy" creationdate="20151129T144739Z">
+        <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52947,6 +52971,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen General- Configuration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144727Z" creationid="Judy" creationdate="20151206T144727Z">
+        <seg>一般 - 設置畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Learning (S-E)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092052Z" creationid="Judy" creationdate="20151206T092052Z">
@@ -52967,6 +52999,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160607Z" creationid="Judy" creationdate="20151204T160607Z">
         <seg>動態分析功能表畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Menu Internal Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144646Z" creationid="Judy" creationdate="20151206T144646Z">
+        <seg>內部資料功能表畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -67462,6 +67502,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen allows you to access setting the checkweigher in its various sections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144632Z" creationid="Judy" creationdate="20151206T144632Z">
+        <seg>此畫面中可進行檢重機各個部分的設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This screen includes the fields related to the compensation change.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144925Z">
@@ -68204,8 +68252,16 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To access this screen, first the "Configure" option is selected from the main menu and then you click on the "Internal Data" option.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144454Z" creationid="Judy" creationdate="20151206T144454Z">
-        <seg>若要進入畫面，首先由主畫面選擇「Configure (設置)」後選擇「Graphic Mode (圖形模式)」。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144551Z" creationid="Judy" creationdate="20151206T144454Z">
+        <seg>若要進入畫面，首先由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this screen, the “Configure" option is selected from the general menu, and then you select the “Internal Data” option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144709Z" creationid="Judy" creationdate="20151206T144709Z">
+        <seg>若要進入此畫面，由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
       </tuv>
     </tu>
     <tu>
