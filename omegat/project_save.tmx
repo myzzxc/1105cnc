@@ -23556,6 +23556,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.32.Screen Adjust Weight</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095122Z" creationid="Judy" creationdate="20151206T095122Z">
+        <seg>圖 3.32 秤重調整畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T134159Z" creationid="Judy" creationdate="20151128T134159Z">
@@ -35875,6 +35883,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065733Z" creationid="Judy" creationdate="20151205T065733Z">
         <seg>請詳獨「開卷機組維護和指南」中的所有資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is important to verify the dynamic adjustment parameters being in use (standard weight, weight limit S/E, weight limit, zero vibrations limit) are suitable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095054Z" creationid="Judy" creationdate="20151206T095054Z">
+        <seg>驗證使用之動態調整參數 (標準重量、重量限制 S/E、重量限制、零振動限制) 為適當的數值相當重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70963,6 +70979,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101138Z" creationid="Judy" creationdate="20151128T091249Z">
         <seg>Vibration (震動)：平台無法達到穩定性標準時，LED 燈顯示灰色；平時 LED 燈則維持綠色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vibrations Analysis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095125Z" creationid="Judy" creationdate="20151206T095125Z">
+        <seg>振動分析</seg>
       </tuv>
     </tu>
     <tu>
