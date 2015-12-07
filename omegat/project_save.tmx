@@ -10842,6 +10842,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121826Z" creationid="Judy" creationdate="20151207T121826Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bar embed ment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T181335Z">
@@ -15418,6 +15426,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T121836Z">
         <seg>薪資管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compensator</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121852Z" creationid="Judy" creationdate="20151207T121852Z">
+        <seg>桿式補償器</seg>
       </tuv>
     </tu>
     <tu>
@@ -37695,16 +37711,16 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Laminate brake line</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T073433Z" creationid="Judy" creationdate="20151205T034723Z">
-        <seg>疊片煞車線</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T122018Z" creationid="Judy" creationdate="20151205T034723Z">
+        <seg>箔片煞車線</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Laminated brake</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022027Z" creationid="Judy" creationdate="20151205T022027Z">
-        <seg>疊片煞車</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T122016Z" creationid="Judy" creationdate="20151205T022027Z">
+        <seg>箔片煞車</seg>
       </tuv>
     </tu>
     <tu>
@@ -61117,8 +61133,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The compensator bars moves vertically with a rocking system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120946Z" creationid="Judy" creationdate="20151207T120946Z">
-        <seg>補償桿隨擺動系統垂直移動，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121908Z" creationid="Judy" creationdate="20151207T120946Z">
+        <seg>補償器桿件隨擺動系統垂直移動，</seg>
       </tuv>
     </tu>
     <tu>
@@ -72913,8 +72929,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>We have 2 sensors that detect the ends of the compensator bar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121527Z" creationid="Judy" creationdate="20151207T121527Z">
-        <seg>機台設有 2 個感應器能檢測補償桿的端點。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121914Z" creationid="Judy" creationdate="20151207T121527Z">
+        <seg>機台設有 2 個感應器能檢測補償器桿的端點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77604,6 +77620,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T073650Z" creationid="Judy" creationdate="20151205T073328Z">
         <seg>箔片安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>laminateD brake</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T122000Z" creationid="Judy" creationdate="20151207T122000Z">
+        <seg>箔片煞車</seg>
       </tuv>
     </tu>
     <tu>
