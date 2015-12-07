@@ -7265,6 +7265,38 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aligner motor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125915Z" creationid="Judy" creationdate="20151207T125915Z">
+        <seg>對位馬達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aligner motor: The alignment motor corrects the misalignments by moving the unwinder bench.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125853Z" creationid="Judy" creationdate="20151207T125738Z">
+        <seg>對位馬達：對位馬達能移動開卷機底座以校正對位失準，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aligner sensor nr.1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125712Z" creationid="Judy" creationdate="20151207T125712Z">
+        <seg>對位感應器 1 號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aligner sensor nr.2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125715Z" creationid="Judy" creationdate="20151207T125715Z">
+        <seg>對位感應器 2 號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aligning a Supply Chain</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123046Z">
@@ -7276,6 +7308,22 @@ Keep going.</seg>
         <seg>Alignment detector</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034638Z" creationid="Judy" creationdate="20151205T034638Z">
+        <seg>對位感應器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alignment sensor: The alignment sensor controls the aligned movement of the foil.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125535Z" creationid="Judy" creationdate="20151207T125535Z">
+        <seg>對位感應器：對位感應器控制箔片對齊移動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alignment sensors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125647Z" creationid="Judy" creationdate="20151207T125647Z">
         <seg>對位感應器</seg>
       </tuv>
     </tu>
@@ -18564,6 +18612,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direction foil movement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125703Z" creationid="Judy" creationdate="20151207T125703Z">
+        <seg>箔片移動方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directional microphones:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133328Z">
@@ -24431,6 +24487,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fit the laminate between the guide plates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125337Z" creationid="Judy" creationdate="20151207T125331Z">
+        <seg>將箔片固定於導板之間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fit the paper reels and unwind the paper passing it through the unwinder unit to the drag unit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061957Z" creationid="Judy" creationdate="20151205T061957Z">
@@ -25213,6 +25277,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113932Z" creationid="Judy" creationdate="20151207T113932Z">
         <seg>維護相關資訊請見 SVECOM 手冊 (光碟中的 pdf 檔案)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For maintenance, see manual VAROTEC HOTFOILCODER (pdf file in CD).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125946Z" creationid="Judy" creationdate="20151207T125946Z">
+        <seg>維護相關資訊請見 VAROTEC HOTFOILCODER 手冊 (光碟中的 pdf 檔案)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29197,6 +29269,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083126Z" creationid="Judy" creationdate="20151205T083126Z">
         <seg>若非如此，調整感測器的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If one of the sensors detects that the foil has come out of its route, it sends the signal for operate the aligner motor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125639Z" creationid="Judy" creationdate="20151207T125639Z">
+        <seg>若其中一個感應器檢測到箔片已偏離路線，將會發送信號至對位馬達。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35151,6 +35231,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the ideal spot reading position to be adjusted for the sequence of cycles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125109Z" creationid="Judy" creationdate="20151207T125109Z">
+        <seg>因此能調整至循環序列最理想的感應讀取位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It enables the import of cameras, alarm devices, users, configurations of analytics, and LPR.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T151129Z">
@@ -36167,6 +36255,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a photocell that detects the foil marking on each stick to give information to the operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125334Z" creationid="Judy" creationdate="20151207T125300Z">
+        <seg>其中的光電感應器能偵測每個直條包裝箔片上的標誌以提供資料至操作系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a second fixed tare which at any given time can be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T151421Z" creationid="Judy" creationdate="20151206T151421Z">
@@ -36691,6 +36787,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015143Z">
         <seg>一旦時程有所變更，應立即向 HUTCHINSON 回報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It operated from the touch screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125910Z" creationid="Judy" creationdate="20151207T125910Z">
+        <seg>馬達由觸控式螢幕進行操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37713,6 +37817,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T041752Z">
         <seg>落後 KPIs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Laminate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125644Z" creationid="Judy" creationdate="20151207T125644Z">
+        <seg>箔片</seg>
       </tuv>
     </tu>
     <tu>
@@ -38883,6 +38995,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MARKER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125930Z" creationid="Judy" creationdate="20151207T125930Z">
+        <seg>打標機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MARTINI OCCHIALI SRL was founded in the Eighties by Dario Martini and Nadia Zampol with the aim of offering customers a product with a high quality standard, making use of the experience acquired in over ten years of activity in the eyewear sector, in the production of moulds and small parts for spectacles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T021357Z">
@@ -39649,6 +39769,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020150Z" creationid="Judy" creationdate="20151205T020150Z">
         <seg>手冊由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual movement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125412Z" creationid="Judy" creationdate="20151207T125412Z">
+        <seg>手動移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -49753,6 +49881,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REEL ALIGNMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125446Z" creationid="Judy" creationdate="20151207T125446Z">
+        <seg>卷筒對位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REEL ALIGNMENT (unwind.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054909Z" creationid="Judy" creationdate="20151206T054909Z">
@@ -56335,6 +56471,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spot detector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125416Z" creationid="Judy" creationdate="20151207T125416Z">
+        <seg>光電感應器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spot detector (hidden)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034703Z" creationid="Judy" creationdate="20151205T034703Z">
@@ -56956,6 +57100,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T235118Z">
         <seg>嚴格的員工資料處理準則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stroke limit detectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125927Z" creationid="Judy" creationdate="20151207T125927Z">
+        <seg>行程極限感測器</seg>
       </tuv>
     </tu>
     <tu>
@@ -66576,6 +66728,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These allow the positions to be adjusted in two directions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T124917Z" creationid="Judy" creationdate="20151207T124857Z">
+        <seg>此設計能朝兩個方向調整位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These audits at the initiative of HUTCHINSON or its client may be performed by HUTCHINSON (or a third party organization appointed by HUTCHISON) in the premises of any of HUTCHINSON Suppliers’ subcontractor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T233328Z">
@@ -66869,6 +67029,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144722Z">
         <seg>其為要求規範之附加內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are adjustable by hand.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T124914Z" creationid="Judy" creationdate="20151207T124914Z">
+        <seg>感應器能手動調整，</seg>
       </tuv>
     </tu>
     <tu>
@@ -68386,6 +68554,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033816Z">
         <seg>產品將會安裝於 install_path 中指定之資料夾中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will keep a set distance for correct reading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125405Z" creationid="Judy" creationdate="20151207T125405Z">
+        <seg>如此能保持一定的距離以得到正確的讀數。</seg>
       </tuv>
     </tu>
     <tu>
