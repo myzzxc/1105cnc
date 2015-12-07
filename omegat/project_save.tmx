@@ -63558,6 +63558,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reel brake works in coordination with the balancing arm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120058Z" creationid="Judy" creationdate="20151207T120058Z">
+        <seg>卷筒煞車由平衡臂控制，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reel shaft has an (expansive) gripping system that is driven by pressurised air.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113337Z" creationid="Judy" creationdate="20151205T070338Z">
@@ -63898,6 +63906,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T191728Z">
         <seg>HUTCHINSON 根據以下 4 個標準選擇供應商：“品質”(Q)、“成本”(C)、“交貨期”(D) 和“創新”(I)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selector disconnects  the brake air pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120427Z" creationid="Judy" creationdate="20151207T120427Z">
+        <seg>選擇開關能切斷剎車之空氣壓力，</seg>
       </tuv>
     </tu>
     <tu>
