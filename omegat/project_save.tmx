@@ -15911,6 +15911,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connect  the reel brake with the key situated in right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T115832Z" creationid="Judy" creationdate="20151207T115832Z">
+        <seg>使用右側選擇開關   將剎車片固定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connect directly to your cloud storage sites such as Dropbox®, Evernote®, Box, Windows Live SkyDrive®, and Google Drive™.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113649Z">
@@ -39427,6 +39435,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make the splice of laminate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T115742Z" creationid="Judy" creationdate="20151207T115742Z">
+        <seg>拼接箔片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make your choice of user interface languages: installation language only, all available languages or the selected languages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T101459Z">
@@ -48368,6 +48384,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034232Z" creationid="Judy" creationdate="20151206T034232Z">
         <seg>按下 RUN (運行)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press RUN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T115854Z" creationid="Judy" creationdate="20151207T115854Z">
+        <seg>按下運行開關。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60743,6 +60767,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160101Z">
         <seg>紙箱切刀之裁刀匣垂直固定用於切割多種不同材料之多功能刀具，可切割塑膠薄片、厚卡紙以及泡綿板等材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The brake pad descends.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T115841Z" creationid="Judy" creationdate="20151207T115841Z">
+        <seg>煞車片將會降下。</seg>
       </tuv>
     </tu>
     <tu>
