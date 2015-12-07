@@ -7081,6 +7081,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air pressure regulator</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121721Z" creationid="Judy" creationdate="20151207T121721Z">
+        <seg>空氣壓力調節器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air supplyconnection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T133739Z">
@@ -18347,6 +18355,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120811Z" creationid="Judy" creationdate="20151207T120811Z">
+        <seg>感測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deviation Alarm: Programming the standard deviation that enables the corresponding alarm, when the cumulated deviation exceeds the limit set in this parameter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T151458Z" creationid="Judy" creationdate="20151129T151458Z">
@@ -29481,6 +29497,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the sensor should fail to detect any of the end movements in production, this might cause supply problems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121645Z" creationid="Judy" creationdate="20151207T121645Z">
+        <seg>若感應器無法於生產中檢測到任何結束動作，可能會造成供貨問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the servo is on, the range sample is only taken in averaging cycles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144008Z" creationid="Judy" creationdate="20151201T144008Z">
@@ -36131,6 +36155,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T151421Z" creationid="Judy" creationdate="20151206T151421Z">
         <seg>其為第二固定皮重，可在任何指定的時間使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is activated by a pneumatic cylinder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121416Z" creationid="Judy" creationdate="20151207T121416Z">
+        <seg>由氣壓缸驅動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47073,6 +47105,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the roller on the reel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120834Z" creationid="Judy" creationdate="20151207T120834Z">
+        <seg>將滾輪置於卷筒上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Placing parking brake 670 on the shaft 680 of shiftable transmission 144 increases the life span of parking brake 670.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T133417Z">
@@ -47109,6 +47149,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T140000Z">
         <seg>電漿切削</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120856Z" creationid="Judy" creationdate="20151207T120856Z">
+        <seg>平板Plate</seg>
       </tuv>
     </tu>
     <tu>
@@ -47386,10 +47434,26 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pneumatic Piston</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120543Z" creationid="Judy" creationdate="20151207T120543Z">
+        <seg>氣動活塞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pneumatic Switching</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T071856Z">
         <seg>氣動開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pneumatic cylinder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121734Z" creationid="Judy" creationdate="20151207T121734Z">
+        <seg>氣壓缸</seg>
       </tuv>
     </tu>
     <tu>
@@ -49657,6 +49721,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REEL END DETECTOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120633Z" creationid="Judy" creationdate="20151207T120633Z">
+        <seg>卷筒末端感測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REEL END DETECTOR (unwind.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054830Z" creationid="Judy" creationdate="20151206T054816Z">
@@ -50085,6 +50157,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054034Z" creationid="Judy" creationdate="20151206T054028Z">
         <seg>建議每 500 小時進行一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recommendation: Periodically check the state of the sensors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121558Z" creationid="Judy" creationdate="20151207T121558Z">
+        <seg>建議：定期檢查感應器的狀態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54516,6 +54596,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120554Z" creationid="Judy" creationdate="20151207T120554Z">
+        <seg>選擇開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selector key</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065755Z" creationid="Judy" creationdate="20151205T065755Z">
@@ -54712,6 +54800,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182646Z">
         <seg>於最大長期溫度下對持續負荷之敏感性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensors (x2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121702Z" creationid="Judy" creationdate="20151207T121702Z">
+        <seg>感應器 (x2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -54916,6 +55012,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set position of detector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120850Z" creationid="Judy" creationdate="20151207T120850Z">
+        <seg>設置感測器的位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set tab order for form fields</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T071600Z">
@@ -54928,6 +55032,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T040817Z">
         <seg>設定技術和營運目標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the detector correctly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120806Z" creationid="Judy" creationdate="20151207T120806Z">
+        <seg>請正確設置感測器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61003,6 +61115,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The compensator bars moves vertically with a rocking system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120946Z" creationid="Judy" creationdate="20151207T120946Z">
+        <seg>補償桿隨擺動系統垂直移動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The competition for water − between water ‘uses’ and water ‘users’ − increases the risk of localized conflicts and continued inequities in access to services, with significant impacts on local economies and human well-being.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T134144Z">
@@ -67058,6 +67178,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This detector stops the machine before the laminated reel ends.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120750Z" creationid="Judy" creationdate="20151207T120750Z">
+        <seg>此感測器能在箔片卷筒耗盡前停止機台，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This document covers the main installation scenarios for the Nuance Power PDF Advanced product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T020734Z">
@@ -70036,6 +70164,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turning off brake</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120606Z" creationid="Judy" creationdate="20151207T120606Z">
+        <seg>關閉剎車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Twin 5HP Elte Spindles – Twin Y configuration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143811Z">
@@ -71082,6 +71218,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T140845Z">
         <seg>用於大型塑膠工件切割、壓克力噴漆樣版切割以及噴沙樣板切割，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used for the reel change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120438Z" creationid="Judy" creationdate="20151207T120438Z">
+        <seg>用於更換卷筒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72763,6 +72907,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T144245Z">
         <seg>我們希望供應商以卓越的政策來達到零問題的目標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have 2 sensors that detect the ends of the compensator bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121527Z" creationid="Judy" creationdate="20151207T121527Z">
+        <seg>機台設有 2 個感應器能檢測補償桿的端點。</seg>
       </tuv>
     </tu>
     <tu>
