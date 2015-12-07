@@ -36271,6 +36271,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is deactivated when the foil drag begins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T124706Z" creationid="Judy" creationdate="20151207T124706Z">
+        <seg>當開始抽取箔片時停用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is essential to place the machine level.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044320Z" creationid="Judy" creationdate="20151205T044320Z">
@@ -41450,6 +41458,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T061005Z">
         <seg>移動、調整大小、旋轉、翻轉、排序、群組、設定透明度、剪下、複製和貼上圖形和影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving bar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T124711Z" creationid="Judy" creationdate="20151207T124711Z">
+        <seg>移動桿</seg>
       </tuv>
     </tu>
     <tu>
@@ -47469,6 +47485,14 @@ IN / EX</seg>
         <seg>Pneumatic cylinder</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121734Z" creationid="Judy" creationdate="20151207T121734Z">
+        <seg>氣壓缸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pneumatic cylinders</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T124717Z" creationid="Judy" creationdate="20151207T124717Z">
         <seg>氣壓缸</seg>
       </tuv>
     </tu>
@@ -56303,6 +56327,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spot Photocell</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T124721Z" creationid="Judy" creationdate="20151207T124721Z">
+        <seg>光電感應器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spot detector (hidden)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034703Z" creationid="Judy" creationdate="20151205T034703Z">
@@ -61415,6 +61447,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T145448Z">
         <seg>顯示詳細 Request Compensation Change 畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The detector is fixed to manually adjustable moving supports.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T124814Z" creationid="Judy" creationdate="20151207T124814Z">
+        <seg>感應器固定於能手動調節移動的支座上，</seg>
       </tuv>
     </tu>
     <tu>
@@ -68330,6 +68370,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T090609Z">
         <seg>將真空泵或鼓風機連接至機台的真空歧管。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will be automatically activated and deactivated in synchrony with the paper movement (once per cycle).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T124630Z" creationid="Judy" creationdate="20151207T124630Z">
+        <seg>此裝置將會隨紙張移動同步自動啟動和停止 (每個循環一次)。</seg>
       </tuv>
     </tu>
     <tu>
