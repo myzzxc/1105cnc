@@ -26648,6 +26648,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go into the unwinder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T114256Z" creationid="Judy" creationdate="20151207T114256Z">
+        <seg>進入開卷機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go through the Pro installer steps</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T151828Z">
@@ -76633,6 +76641,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T150801Z">
         <seg>和圖 10 中之無段變速單元的空氣處理系統的進氣口位置與動力源和無段變速單元的關係代表圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and then Stop-E.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T114135Z" creationid="Judy" creationdate="20151207T114135Z">
+        <seg>然後設備停止。</seg>
       </tuv>
     </tu>
     <tu>
