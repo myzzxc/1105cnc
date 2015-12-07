@@ -21539,8 +21539,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Expandable shaft</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070618Z" creationid="Judy" creationdate="20151205T070618Z">
-        <seg>膨脹式轉軸</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113405Z" creationid="Judy" creationdate="20151205T070618Z">
+        <seg>展開式轉軸</seg>
       </tuv>
     </tu>
     <tu>
@@ -24369,8 +24369,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Fit the reel on the expanding reel holder.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070034Z" creationid="Judy" creationdate="20151205T070034Z">
-        <seg>安裝卷筒至卷筒固定座上。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113317Z" creationid="Judy" creationdate="20151205T070034Z">
+        <seg>安裝卷筒至展開卷筒座上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50241,6 +50241,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reel Expanding Shaft</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113254Z" creationid="Judy" creationdate="20151207T113254Z">
+        <seg>卷筒展開軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reel alignment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034819Z" creationid="Judy" creationdate="20151205T022057Z">
@@ -61309,8 +61317,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The expandable system is driven by sending air in at one of the ends.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070546Z" creationid="Judy" creationdate="20151205T070456Z">
-        <seg>供應空氣至膨脹式系統一端以驅動系統，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113328Z" creationid="Judy" creationdate="20151205T070456Z">
+        <seg>供應空氣至展開式系統一端以驅動系統，</seg>
       </tuv>
     </tu>
     <tu>
@@ -63384,8 +63392,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The reel shaft has an (expansive) gripping system that is driven by pressurised air.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070534Z" creationid="Judy" creationdate="20151205T070338Z">
-        <seg>卷筒軸具有由壓縮空氣驅動的 (膨脹式) 夾持系統，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113337Z" creationid="Judy" creationdate="20151205T070338Z">
+        <seg>卷筒軸具有由壓縮空氣驅動的 (展開式) 夾持系統，</seg>
       </tuv>
     </tu>
     <tu>
@@ -70137,6 +70145,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043300Z" creationid="Judy" creationdate="20151206T043300Z">
         <seg>開卷機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNWINDER UNIT MAINTENANCE AND GUIDE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113148Z" creationid="Judy" creationdate="20151207T113148Z">
+        <seg>開卷機組維護和指南</seg>
       </tuv>
     </tu>
     <tu>
