@@ -11682,6 +11682,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brake pad</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T114023Z" creationid="Judy" creationdate="20151207T114023Z">
+        <seg>刹車片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brake pedal 220 is operatively coupled to brake units associated with one or more of wheels 104 to slow the speed of vehicle 100.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T104617Z">
@@ -18820,6 +18828,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not carry out this operation with the machine running.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T114012Z" creationid="Judy" creationdate="20151207T114012Z">
+        <seg>請勿於機器運轉中進行此操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not do anything if you are unsure of the consequences.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145733Z" creationid="Judy" creationdate="20151205T145733Z">
@@ -21237,6 +21253,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053915Z" creationid="Judy" creationdate="20151206T053915Z">
         <seg>每月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every time a new reel is installed on the shaft make sure the grip system (expansive) has been correctly activated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113848Z" creationid="Judy" creationdate="20151207T113848Z">
+        <seg>每次安裝新卷筒於卷筒軸上時，請確認夾持系統 (展開式) 已正確啟動，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25125,6 +25149,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T103126Z" creationid="Judy" creationdate="20151126T141546Z">
         <seg>低速輸送間隔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For maintenance, see manual SVECOM (pdf file in CD).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113932Z" creationid="Judy" creationdate="20151207T113932Z">
+        <seg>維護相關資訊請見 SVECOM 手冊 (光碟中的 pdf 檔案)。</seg>
       </tuv>
     </tu>
     <tu>
