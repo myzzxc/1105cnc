@@ -50281,6 +50281,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reel change: To remove the reel, just press the centre of the air inlet to release the air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113557Z" creationid="Judy" creationdate="20151207T113557Z">
+        <seg>更換卷筒：若要拆下卷筒，只需按下空氣入口的中心以釋放空氣，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reel end detector</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021930Z" creationid="Judy" creationdate="20151205T021930Z">
@@ -61323,6 +61331,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The expandable system is driven by sending in air at one of the ends.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113455Z" creationid="Judy" creationdate="20151207T113455Z">
+        <seg>展開式系統於一端供應空氣以驅動系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The expansion retainers which may couple various accessories to cargo carrying portion 210.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T110727Z">
@@ -62120,6 +62136,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T062504Z">
         <seg>護網下端也包含固定至車輛踏板之孔眼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The machine has a gun for this operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113500Z" creationid="Judy" creationdate="20151207T113500Z">
+        <seg>機台上設有空氣槍以進行此操作。</seg>
       </tuv>
     </tu>
     <tu>
