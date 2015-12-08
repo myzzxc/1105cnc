@@ -36601,6 +36601,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has several options: NOT, FIX (Fixed), TMP (Timed), INTER (Flash).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131513Z" creationid="Judy" creationdate="20151208T131513Z">
+        <seg>有多種選項可選擇：NOT、FIX (固定)、TMP (計時)、INTER (閃爍)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has synchronized export from simultaneous multiple cameras ( until 64 ).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151016T133530Z">
@@ -52003,6 +52011,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject Confirmation Reason Request: If the operator is requested about a reason for reject confirmation lack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131337Z" creationid="Judy" creationdate="20151208T131206Z">
+        <seg>Reject Confirmation Reason Request (請求退回確認原因)：是否要求操作員提供關於無退回確認的原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject Control: (Only MD / XR): Indicates who leads the reject control, whether the weight control or MD itself.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T130540Z" creationid="Judy" creationdate="20151208T130540Z">
@@ -57722,6 +57738,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stop Confirmation Alarm Type: Alarm for lack of confirmation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131349Z" creationid="Judy" creationdate="20151208T131330Z">
+        <seg>Stop Confirmation Alarm Type (停止確認警報類型)：無確認之警報，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop Time Init: Is the stop time concept used when the machine start.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160647Z" creationid="Judy" creationdate="20151201T160336Z">
@@ -59857,7 +59881,7 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Text Reject Confirmation: Text to be shown when a lack of reject confirmation occurs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131105Z" creationid="Judy" creationdate="20151208T131105Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131344Z" creationid="Judy" creationdate="20151208T131105Z">
         <seg>Text Reject Confirmation (退回確認文字)：若無退回確認時顯示之文字。</seg>
       </tuv>
     </tu>
