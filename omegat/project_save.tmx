@@ -26507,6 +26507,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full Drawer Reason Request: If the operator is requested about a reason or cause of full drawer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T135029Z" creationid="Judy" creationdate="20151208T135029Z">
+        <seg>Full Drawer Reason Request (請求退回櫃已滿原因)：是否要求操作員提供退回櫃已滿的原由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full Drawer Text: Text to be shown when full drawer occurs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T134739Z" creationid="Judy" creationdate="20151208T134739Z">
+        <seg>Full Drawer Text (退回櫃已滿文字)：當退回累積櫃已滿時顯示之文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full HD 1920x1080 Recording</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125823Z">
@@ -32863,6 +32879,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the latest two a performance time isrequired.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141028Z" creationid="Judy" creationdate="20151208T141028Z">
+        <seg>後兩個選項需輸入時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the multitrack machines, this screen will be common for all of them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141806Z" creationid="Judy" creationdate="20151128T141806Z">
@@ -36613,6 +36637,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T120410Z">
         <seg>固定式攝影機具有隱私遮罩功能 (遮住某些螢幕區域以隱藏在螢幕上的任何細節)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has several options, NOT, FIX (Fixed), TMP (Timed), INTER (Flash).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141022Z" creationid="Judy" creationdate="20151208T141022Z">
+        <seg>有多種選項可選擇：NOT、FIX (固定)、TMP (計時)、INTER (閃爍)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -47755,6 +47787,22 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pilot Full Drawer Alarm Output: Output through which the full drawer pilot exits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141235Z" creationid="Judy" creationdate="20151208T141235Z">
+        <seg>Pilot Full Drawer Alarm Output (試轉退回櫃已滿警報輸出)：退回櫃已滿時之輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pilot Full Drawer Alarm Type: Alarm for full drawer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141208Z" creationid="Judy" creationdate="20151208T141208Z">
+        <seg>Pilot Full Drawer Alarm Type (試轉退回櫃已滿警報類型)：退回櫃已滿之警報，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pin 10 is reserved for the Wiznet interface, SS for the SD card is on Pin 4. The board uses the standardized 1.0 pinout, consisting of:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043025Z">
@@ -57782,6 +57830,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131349Z" creationid="Judy" creationdate="20151208T131330Z">
         <seg>Stop Confirmation Alarm Type (停止確認警報類型)：無確認之警報，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Full Drawer Alarm Output: Output through which the full drawer exits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141104Z" creationid="Judy" creationdate="20151208T141104Z">
+        <seg>Stop Full Drawer Alarm Output (退回櫃已滿停止警報輸出)：退回櫃已滿時之輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Full Drawer Alarm Type: Alarm for full drawer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141017Z" creationid="Judy" creationdate="20151208T141017Z">
+        <seg>Stop Full Drawer Alarm Type (退回櫃已滿停止警報類型)：退回櫃已滿之警報，</seg>
       </tuv>
     </tu>
     <tu>
