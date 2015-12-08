@@ -34649,6 +34649,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows also programming the different communications functions for the port you prefer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T153239Z" creationid="Judy" creationdate="20151208T153239Z">
+        <seg>埠位也可依喜好設定不同的通訊功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows also to make zooms on the graphic to see the weighting with a better definition.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160207Z" creationid="Judy" creationdate="20151204T160207Z">
@@ -48580,6 +48588,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Port 0 is reserved for communications to PCI Board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T153241Z" creationid="Judy" creationdate="20151208T153131Z">
+        <seg>埠 0 預留作為與 PCI 板之通訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Portfolios</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071129Z">
@@ -57037,6 +57053,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132229Z" creationid="Judy" creationdate="20151128T132229Z">
         <seg>所以新使用者應該先完成註冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So through it you can configure the communications ports 1 and 2 of the CP2000 (bauds, stop bits and parity).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T153101Z" creationid="Judy" creationdate="20151208T153101Z">
+        <seg>也可以設定 CP2000 之通訊埠 1 和 2 (鮑、停止位元和同位).</seg>
       </tuv>
     </tu>
     <tu>
