@@ -69809,6 +69809,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time between tracks: This parameter marks the periodicity of stating the value of zero, as long as in the parameter “Mode Zero” you select the “Track” or “Track + Automatic” option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T112904Z" creationid="Judy" creationdate="20151208T112904Z">
+        <seg>Time between tracks (軌道歸零時間)：此參數為歸零的週期，於參數「Mode Zero (歸零模式)」中選擇「Track」或「Track + Automatic」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time off and Leave of Absence</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T121618Z">
