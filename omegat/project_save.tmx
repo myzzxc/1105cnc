@@ -32847,6 +32847,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the latest two a performance time is required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131530Z" creationid="Judy" creationdate="20151208T131530Z">
+        <seg>後兩個選項需輸入時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the multitrack machines, this screen will be common for all of them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141806Z" creationid="Judy" creationdate="20151128T141806Z">
@@ -57734,6 +57742,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042100Z" creationid="Judy" creationdate="20151206T042100Z">
         <seg>停止按鈕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Confirmation Alarm Output: Output through which alarm for lack of confirmation exits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131610Z" creationid="Judy" creationdate="20151208T131610Z">
+        <seg>Stop Confirmation Alarm Type (停止確認警報輸出)：無確認退出之輸出，</seg>
       </tuv>
     </tu>
     <tu>
