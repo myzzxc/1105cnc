@@ -10531,8 +10531,16 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Average Speed Engine 1(optional): Programming the average speed in meters per minute.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053318Z" creationid="Judy" creationdate="20151208T053318Z">
-        <seg>Average Speed Engine 1 (馬達平均速度 1，選配)：設定平均速度，單位為公尺每分鐘，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053505Z" creationid="Judy" creationdate="20151208T053318Z">
+        <seg>Average Speed Engine 1 (馬達平均速度 1，選配)：設定之平均速度，單位為公尺每分鐘，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Average Speed Engine 2, 3, 4(optional): Programming average speed in meters per minute if there are more than one engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053636Z" creationid="Judy" creationdate="20151208T053501Z">
+        <seg>Average Speed Engine 2, 3, 4 (馬達平均速度 2, 3, 4，選配)：多於一組馬達時設定之平均速度，單位為公尺每分鐘，</seg>
       </tuv>
     </tu>
     <tu>
@@ -40234,6 +40242,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum speed: Programming the maximum speed in packs per minute for all formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053432Z" creationid="Judy" creationdate="20151208T053432Z">
+        <seg>Maximum  speed (最高速度)：所有格式運作之包裝每分鐘最高速度設定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>May 27, 2011</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T121331Z">
@@ -68362,6 +68378,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T121706Z" creationid="Judy" creationdate="20151201T121706Z">
         <seg>此參數為以連續包裝之數量為樣本所計算的平均重量，同時發送校正信號以進行檢測之錯誤補償。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This parameter will be editable depending on the Average speed engine 2, 3, 4: Programming average speed in meters per minute if more than one engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053538Z" creationid="Judy" creationdate="20151208T053538Z">
+        <seg>Average Speed Engine 2, 3, 4 (馬達平均速度 2, 3, 4，選配)：設定之平均速度，單位為公尺每分鐘，</seg>
       </tuv>
     </tu>
     <tu>
