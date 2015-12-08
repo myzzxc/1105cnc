@@ -13071,6 +13071,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capacity (Max): If this maximum weight being in production is exceeded, the checkweigher will automatically reject the pack without being counted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T104314Z" creationid="Judy" creationdate="20151208T104314Z">
+        <seg>Capacity (重量最大值)：生產之重量超過此最大重量值時，檢重機將會自動退回包裝且不列入計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capacity:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T125113Z">
@@ -29943,6 +29951,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070206Z">
         <seg>若 NUUSERLANGUI 屬性值為 2，則安裝程式將部署指令列定義之使用者介面語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the weight scale value is changed, you must perform a new dynamic adjustment (see Dynamic Analysis).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T104134Z" creationid="Judy" creationdate="20151208T104134Z">
+        <seg>若更改不同重量尺度值，必須執行新的動態調整 (請見動態分析)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62266,6 +62282,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133002Z" creationid="Judy" creationdate="20151129T132457Z">
         <seg>不同的選項為：Last (最近)、Partial Production (部分生產)、Total Production (總生產) 和 Times Control (限定時間)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The different scales are: 0.01 g, 0.02 g, 0.05g, 0.1g, 0.2g, 0.5g, 1g, 2g, 5g, 10g, 20g, 50g, 100g.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T104047Z" creationid="Judy" creationdate="20151208T104047Z">
+        <seg>不同的尺度為： 0.01 克、0.02克、0.05克、0.1克、0.2克、0.5克、1克、2g克、5g克、10g克、20g克、50g克、100g。</seg>
       </tuv>
     </tu>
     <tu>
