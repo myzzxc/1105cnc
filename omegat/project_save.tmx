@@ -15466,6 +15466,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compaction Time: During this time the dosing device is inactive and therefore compaction cycle starts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T150518Z" creationid="Judy" creationdate="20151208T150518Z">
+        <seg>Compaction Time (壓制時間)：此時間內給料裝置停用，而壓制循環開始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Companies who pursue this strategy must respond quickly to the needs of the individual customer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T072502Z">
@@ -46923,6 +46931,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Packs Queue: Number of packs discarded at the beginning of a stock cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T150646Z" creationid="Judy" creationdate="20151208T150646Z">
+        <seg>Packs Queue (包裝佇列)：存貨循環開始時丟棄之最初包裝數量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packs Range: This parameter indicates the number of packs to be counted to take a range sample.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143451Z" creationid="Judy" creationdate="20151201T143451Z">
@@ -73107,8 +73123,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Using Derivatives: If the parameter is set with YES option, it allows making corrections during deriving or Stock cycles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T150303Z" creationid="Judy" creationdate="20151208T150113Z">
-        <seg>Using Derivatives (使用推導):: If the parameter is set with YES option, it allows making corrections during deriving or Stock cycles.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T150421Z" creationid="Judy" creationdate="20151208T150113Z">
+        <seg>Using Derivatives (使用推導)：若此參數設定為「YES」選項，可以再推導或存貨循環中進行校正。</seg>
       </tuv>
     </tu>
     <tu>
