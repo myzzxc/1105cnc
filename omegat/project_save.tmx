@@ -4625,6 +4625,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A menu list is shown with the following options; only the IP configuration option is always available; the other functions can be not active depending on the machine configuration:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T154118Z" creationid="Judy" creationdate="20151208T154118Z">
+        <seg>功能表清單將顯示以下選項；只有 IP 設置選項始終可用；其他功能依機台配置可能無法使用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A menu will open up with list of options as shown below:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T235755Z">
@@ -4862,6 +4870,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161830Z" creationid="Judy" creationdate="20151206T161830Z">
         <seg>畫面將會出現選項清單，選擇其中的「Weight Conveyor (秤重式輸送機)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A screen appears with an options list, where we have to select the "Ethernet Communications" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T153626Z" creationid="Judy" creationdate="20151208T153626Z">
+        <seg>畫面將會出現選項清單，選擇其中的「Ethernet Communications (乙太網路通訊)」選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24282,6 +24298,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152802Z" creationid="Judy" creationdate="20151208T152802Z">
         <seg>圖 3.52 序列埠通訊設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.53.Configuration Ethernet Communications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T153654Z" creationid="Judy" creationdate="20151208T153654Z">
+        <seg>圖 3.53 乙太網路通訊設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -70309,6 +70333,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131630Z" creationid="Judy" creationdate="20151128T131630Z">
         <seg>藉由此畫面能變更使用者名稱和密碼以及其他選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen, you can configure the internal data related to Ethernet communications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T153606Z" creationid="Judy" creationdate="20151208T153606Z">
+        <seg>透過此畫面可以設定乙太網路通訊相關的內部資料，</seg>
       </tuv>
     </tu>
     <tu>
