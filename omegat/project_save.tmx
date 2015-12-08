@@ -11322,6 +11322,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Being limited the frequency, as a security measure, to 20 Hz minimum and 95 Hz maximum, the cadence value shall be limited to the equivalent values in e / minute.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052012Z" creationid="Judy" creationdate="20151208T052012Z">
+        <seg>轉速將會被限制於最低 20 Hz 而最高 95 Hz 以確保安全性，輸送間隔值應限制於此區間內，其單位為 e  / 分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bellow suction cup</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032618Z" creationid="Judy" creationdate="20151206T032618Z">
@@ -62824,6 +62832,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041251Z" creationid="Judy" creationdate="20151206T041251Z">
         <seg>於正常情況下最大音量等於或小於 79 分貝 (A)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The meaning of the parameters shown on the screen is described below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052018Z" creationid="Judy" creationdate="20151208T052018Z">
+        <seg>以下為此畫面顯示之功能參數說明：</seg>
       </tuv>
     </tu>
     <tu>
