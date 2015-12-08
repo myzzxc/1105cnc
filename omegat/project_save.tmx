@@ -47731,6 +47731,22 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pilot Confirmation Alarm Output: Output through which the alarm pilot for lack of confirmation exits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T132554Z" creationid="Judy" creationdate="20151208T132121Z">
+        <seg>Pilot Confirmation Alarm Output (試轉確認警報輸出)：試轉無確認退出之輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pilot Confirmation Alarm Type: Alarm for lack of confirmation has several options: NOT, FIX (Fixed), TMP (Timed), INTER (Flash).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T132051Z" creationid="Judy" creationdate="20151208T132051Z">
+        <seg>Pilot Confirmation Alarm Type (試轉確認警報類型)：無確認之警報有多種選項：NOT、FIX (固定)、TMP (計時)、INTER (閃爍)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pin 10 is reserved for the Wiznet interface, SS for the SD card is on Pin 4. The board uses the standardized 1.0 pinout, consisting of:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043025Z">
@@ -57748,8 +57764,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Stop Confirmation Alarm Output: Output through which alarm for lack of confirmation exits.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131610Z" creationid="Judy" creationdate="20151208T131610Z">
-        <seg>Stop Confirmation Alarm Type (停止確認警報輸出)：無確認退出之輸出，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T132559Z" creationid="Judy" creationdate="20151208T131610Z">
+        <seg>Stop Confirmation Alarm Output (停止確認警報輸出)：無確認退出之輸出。</seg>
       </tuv>
     </tu>
     <tu>
