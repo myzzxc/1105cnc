@@ -40218,6 +40218,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum rpm( optional): Number of revolutions when the speed shifting parameter is set as "SIGMA" or "FHB".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052856Z" creationid="Judy" creationdate="20151208T052856Z">
+        <seg>Maximum rpm (最高轉速，選配)：當變速參數設定為「SIGMA」或「FHB」時之轉速。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>May 27, 2011</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T121331Z">
@@ -40734,6 +40742,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T122122Z">
         <seg>避免分裂之最小空間和邊距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum speed: Setting the minimum speed in packs per minute for all formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053039Z" creationid="Judy" creationdate="20151208T053039Z">
+        <seg>Minimum speed (最低速度)：重量：該格式運作之包裝每分鐘速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78844,6 +78860,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T133250Z">
         <seg>所有加工階段依據先進先出原則，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rpm Adjustment(optional): Number of revolutions for the average working speed adjustment when the speed shifting parameter is set as "SIGMA" or "FHB".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053014Z" creationid="Judy" creationdate="20151208T053014Z">
+        <seg>rpm Adjustment (轉速調整，選配)：當變速參數設定為「SIGMA」或「FHB」時之平均工作速度調整的轉速。</seg>
       </tuv>
     </tu>
     <tu>
