@@ -23758,6 +23758,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figura  3.44.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T114625Z" creationid="Judy" creationdate="20151208T114625Z">
+        <seg>圖 3.44 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure  3.21.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152041Z" creationid="Judy" creationdate="20151129T152041Z">
@@ -25053,6 +25061,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T111545Z">
         <seg>Windows XP 中，依上述步驟進行 vcredist.msi。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a better understanding of this screen, its different parameters are explained below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T114734Z" creationid="Judy" creationdate="20151208T114734Z">
+        <seg>為了更方便了解此畫面操作，以下為其不同參數之定義：</seg>
       </tuv>
     </tu>
     <tu>
@@ -54462,6 +54478,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen sample to config reject/peripheral DM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T114659Z" creationid="Judy" creationdate="20151208T114654Z">
+        <seg>退回/週邊 DM 裝置設定畫面範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen to perform vibrations analysis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095626Z" creationid="Judy" creationdate="20151206T095626Z">
@@ -54594,6 +54618,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T044355Z">
         <seg>第二部分 485 的間隔件 484 也包含供螺栓 492 嵌合的開口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second, it allows you access the possible peripheral devices incorporated to weight control, namely MD (metals detector) or XR (XR inspector).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T114330Z" creationid="Judy" creationdate="20151208T114330Z">
+        <seg>第二為設定秤重控制的週邊裝置，即 MD (金屬探測器) 或 XR (X 光探測器)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56549,6 +56581,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T122039Z">
         <seg>設計圖：以完整設計圖說明建築單位配置，請涵蓋單位的數量和尺寸詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Situation MD / XR: (Only MD / XR) Options: Before or after weight control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T115014Z" creationid="Judy" creationdate="20151208T115014Z">
+        <seg>Situation MD / XR (金屬/X光探測器位置)：(僅金屬/X光探測器) 選項：秤重控制器前方或後方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69369,6 +69409,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen has two functions: first is used for setting reject confirmations of any reject output that has been previously scheduled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T114109Z" creationid="Judy" creationdate="20151208T114109Z">
+        <seg>此畫面具有兩個功能：第一為設定任何已預先設置之退回輸出的退回確認；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This screen includes the fields related to the compensation change.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144925Z">
@@ -70489,6 +70537,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T022608Z">
         <seg>為了強化公司間程式設定的共用，可以將已安裝和設置完成的 Power PDF  設定加入部署套裝程式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enter a reject confirmation or a peripheral device it is necessary to press the “New” button: thus, being created, for editing it you will press on a magnifying glass “Edit” on right side.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T114621Z" creationid="Judy" creationdate="20151208T114621Z">
+        <seg>要輸入退回確認或週邊裝置必須按下「New (新建)」按鈕以建立，若要編輯則需按下右側的放大鏡「Edit (編輯)」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
