@@ -4802,6 +4802,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A screen appears with a list of options, where we have to select the "Outputs PCI" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073703Z" creationid="Judy" creationdate="20151208T073703Z">
+        <seg>畫面將會出現選項清單，選擇其中的「Outputs PCI (PCI 輸出)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A screen appears with a list of options, where we have to select the "Retaining Section" option.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054056Z" creationid="Judy" creationdate="20151208T054056Z">
@@ -10533,6 +10541,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T121510Z" creationid="Judy" creationdate="20151201T121510Z">
         <seg>Average Packs (平均包裝)：平均循環中取平均值的包裝數量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Average Speed : Visualization  of the average speed in meters per minute</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073451Z" creationid="Judy" creationdate="20151208T073451Z">
+        <seg>Average Speed (平均速度)：設定之平均速度，單位為公尺每分鐘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40258,6 +40274,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum Speed: Visualization  of the maximum speed in packs per minute for all formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073539Z" creationid="Judy" creationdate="20151208T073539Z">
+        <seg>Maximum  speed (最高速度)：所有格式之包裝每分鐘最高速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum current draw is 50 mA.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124432Z">
@@ -40806,6 +40830,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053142Z" creationid="Judy" creationdate="20151208T053039Z">
         <seg>Minimum speed (最低速度)：所有格式運作之包裝每分鐘最低速度設定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum speed: Visualization of the minimum speed in packs per minute for all formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073432Z" creationid="Judy" creationdate="20151208T073432Z">
+        <seg>Minimum speed (最低速度)：所有格式運作之包裝每分鐘最低速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68734,6 +68766,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen is used to configure the outputs of the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073621Z" creationid="Judy" creationdate="20151208T073621Z">
+        <seg>此畫面可以用於設定檢重機輸出，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This screen is used to configure the weight retainer section concerning the existence of speed shifting, engines number, band length, etc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054032Z" creationid="Judy" creationdate="20151208T054032Z">
@@ -69382,6 +69422,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144022Z" creationid="Judy" creationdate="20151129T144022Z">
         <seg>要進入畫面請由第一下拉式選單中選擇「Alarm (警報)」選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the screen the "Configure" option is selected from the main menu and then the "Internal Data" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073629Z" creationid="Judy" creationdate="20151208T073629Z">
+        <seg>若要進入畫面，由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
       </tuv>
     </tu>
     <tu>
