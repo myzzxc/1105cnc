@@ -51995,6 +51995,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject Control: (Only MD / XR): Indicates who leads the reject control, whether the weight control or MD itself.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T130540Z" creationid="Judy" creationdate="20151208T130540Z">
+        <seg>Reject Control (退回控制)：(僅金屬/X光探測器)：指明控制退回之裝置為秤重控制或金屬探測器本身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject Furt.: Reject by stealth, provided that the total confirmation is enabled (optional).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T082626Z" creationid="Judy" creationdate="20151208T082626Z">
