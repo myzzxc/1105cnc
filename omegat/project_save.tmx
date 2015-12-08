@@ -15879,6 +15879,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configurable Speed: It means the setting of an existent Speed Shifter and its model.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052132Z" creationid="Judy" creationdate="20151208T052132Z">
+        <seg>Configurable Speed (可設置速度)：代表該機型之變速器的設定值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configurable Workflows</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T071825Z">
@@ -16516,6 +16524,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T021118Z">
         <seg>轉換掃描彩色 (圖像) PDF 檔案為壓縮 MRC-PDF 檔案（平均壓縮 8 倍）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conveyor ID: Identification address to manage the shifter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052357Z" creationid="Judy" creationdate="20151208T052324Z">
+        <seg>Conveyor ID (輸送機 ID)：管理變速器的識別位址。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46585,6 +46601,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parameter set from factory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052315Z" creationid="Judy" creationdate="20151208T052315Z">
+        <seg>參數於出廠前便完成設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameters Programming Cell</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134818Z" creationid="Judy" creationdate="20151129T134818Z">
@@ -47886,6 +47910,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123847Z">
         <seg>可能變更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possible options are: "NO", "3G3JV" "XD", "SIGMA", "AL-BRA", "YAS-J1000", "SIGMA + YAS-J1000", "FHB".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052248Z" creationid="Judy" creationdate="20151208T052248Z">
+        <seg>選項包括：「NO」、「3G3JV」、「XD」、「SIGMA」、「AL-BRA」、「YAS-J1000」、「SIGMA + YAS-J1000」、「FHB」，</seg>
       </tuv>
     </tu>
     <tu>
