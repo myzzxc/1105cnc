@@ -51545,10 +51545,74 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject +2: Activates the relay when the individual sample has a weight exceeding the T + 2 tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074521Z" creationid="Judy" creationdate="20151208T074521Z">
+        <seg>Reject +2 (退回 +2)：當個別樣品重量超過 T + 2 容許值時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject +3: Activates the relay when the individual sample has a weight exceeding the T + 3 tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074511Z" creationid="Judy" creationdate="20151208T074511Z">
+        <seg>Reject +3 (退回 +3)：當個別樣品重量超過 T + 3 容許值時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject -1: Activates the relay when the individual sample has a weight that exceeds the T-1 tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074545Z" creationid="Judy" creationdate="20151208T074545Z">
+        <seg>Reject -1 (退回 -1)：當個別樣品重量超過 T - 1 容許值時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject -2: Activates the relay when the individual sample has a weight that exceeds the T-2 tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074557Z" creationid="Judy" creationdate="20151208T074557Z">
+        <seg>Reject -2 (退回 -2)：當個別樣品重量超過 T - 2 容許值時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject -3: Activates the relay when the individual sample has a weight exceeding the T-3 tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074606Z" creationid="Judy" creationdate="20151208T074606Z">
+        <seg>Reject -3 (退回 -3)：當個別樣品重量超過 T - 3 容許值時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject / Peripheral</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140503Z">
         <seg>退回 / 週邊裝置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject CC: Activates the relay when the individual sample has a correct weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074358Z" creationid="Judy" creationdate="20151208T074358Z">
+        <seg>Reject CC (退回 CC)：當個別樣品具有正確重量時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject Cadence: Activates the relay when an error cadence occurs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074849Z" creationid="Judy" creationdate="20151208T074849Z">
+        <seg>Reject Cadence (退回輸送間隔)：當輸送間隔發生錯誤時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject MD: Activates the relay when a metal detector rejects it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074655Z" creationid="Judy" creationdate="20151208T074655Z">
+        <seg>Reject MD (退回 MD)：當金屬探測器退回樣品時啟動繼電器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51565,6 +51629,38 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T104016Z" creationid="Judy" creationdate="20151129T102904Z">
         <seg>未計算箱重退回：包裝未計算箱重而退回，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject OFL / UFL: Activates the relay when there is an overflow / underflow error.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T075111Z" creationid="Judy" creationdate="20151208T075111Z">
+        <seg>Reject OFL / UFL (退回 OFL / UFL)：當出現過量/不足量錯誤時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject XR: Activates the relay when it occurs a reject by pollutant XR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074813Z" creationid="Judy" creationdate="20151208T074813Z">
+        <seg>Reject XR (退回 XR)：當污染 X 光探測器退回樣品時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject length: Activates the relay when an error in length occurs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T075118Z" creationid="Judy" creationdate="20151208T074941Z">
+        <seg>Reject length (退回長度)：當長度出現錯誤時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject zero: Activates the relay when an error of zero exists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T075114Z" creationid="Judy" creationdate="20151208T075014Z">
+        <seg>Reject zero (退回歸零)：當歸零存在錯誤時啟動繼電器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61571,6 +61667,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The concepts which a physical exit from the PCI can be assigned to, are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074254Z" creationid="Judy" creationdate="20151208T074242Z">
+        <seg>實體輸出 (繼電器) 可以指定之參數為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The consequences of a default</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T151711Z">
@@ -69136,8 +69240,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Through this screen we can associate to a physical exit (relay) the different output concepts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073815Z" creationid="Judy" creationdate="20151208T073815Z">
-        <seg>藉由此畫面可以將實體輸出 (繼電器) 連接至不同輸出參數，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074252Z" creationid="Judy" creationdate="20151208T073815Z">
+        <seg>藉由此畫面可以將實體輸出 (繼電器) 指定為不同輸出參數，</seg>
       </tuv>
     </tu>
     <tu>
