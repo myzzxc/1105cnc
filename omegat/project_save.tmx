@@ -4802,6 +4802,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A screen appears with a list of options, where we have to select the "Retaining Section" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054056Z" creationid="Judy" creationdate="20151208T054056Z">
+        <seg>畫面將會出現選項清單，選擇其中的「Retaining Section (固定區段)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A screen appears with a list of options, where we have to select the "Weight Conveyor" option.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161830Z" creationid="Judy" creationdate="20151206T161830Z">
@@ -15951,6 +15959,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure Retaining: Configuring the existence of retainer section and model.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054608Z" creationid="Judy" creationdate="20151208T054608Z">
+        <seg>Configure Retaining (設定固定器)：設定是否有固定區段以及其型號，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configure the appearance and location of the application shortcut and click ’Next’.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115614Z">
@@ -18214,6 +18230,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T063615Z">
         <seg>根據環境條件 (光電、感應器提供之數值等) 決定監控之物品由產線上分離與否。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on the packs / min, the system calculates the minimum and maximum length that should have the packs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054450Z" creationid="Judy" creationdate="20151208T054414Z">
+        <seg>系統根據「包裝/分」數值計算包裝應有的最小和最大長度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32037,6 +32061,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the "Speed 50Hz" box speed in m / min of the retaining band is indicated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054423Z" creationid="Judy" creationdate="20151208T054258Z">
+        <seg>於「Speed 50Hz (轉速 Hz)」方塊中輸入以「公尺/分」為單位的數度值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Account Information section, complete fields including Account Type, Bank Name, Bank Sort Code, and Account Number.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T144931Z">
@@ -43893,6 +43925,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the “Configure Retaining” box is indicated whether it has a shifter or not.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054148Z" creationid="Judy" creationdate="20151208T054148Z">
+        <seg>於「Configurable  Retaining (設定固定器)」方塊中需輸入是否具有變速器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On this detailed screen, you will see three sections: an upper section, the Hiring Restrictions tab and the Qualifications tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234358Z">
@@ -53711,6 +53751,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014536Z">
         <seg>適用範圍 1-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Configuration Retaining Section</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054111Z" creationid="Judy" creationdate="20151208T054111Z">
+        <seg>固定區段設定畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -65427,6 +65475,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T082849Z">
         <seg>數值值必須是一個包含 ShareScan 使用者主目錄資訊的有效的伺服器位址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value of e / min and mm are just for information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054339Z" creationid="Judy" creationdate="20151208T054339Z">
+        <seg>e / 分和釐米之數值僅供參考，</seg>
       </tuv>
     </tu>
     <tu>
