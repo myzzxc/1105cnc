@@ -16898,6 +16898,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Correcting minimum pack is made taking into account the "Lower Limit" and "Margin Bottom" parameters as well as the "Derivative Followed Packs" parameters, i.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T145201Z" creationid="Judy" creationdate="20151208T145201Z">
+        <seg>校正最少包裝將會考慮「Lower Limit (下極限)」和「Margin Bottom (邊際底線)」參數以及「Derivative Followed Packs (前一包裝推導)」參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corresponding reference characters indicate corresponding parts throughout the several views.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T110748Z">
@@ -49472,8 +49480,8 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Previously you must configure the "Use Derivatives" parameter with "YES" option.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T144352Z" creationid="Judy" creationdate="20151208T144352Z">
-        <seg>必須Previously you must configure the "Use Derivatives" parameter with "YES" option.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T144443Z" creationid="Judy" creationdate="20151208T144352Z">
+        <seg>必須先設定「Use Derivatives (使用推導值)」參數為「YES」選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79035,6 +79043,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T145206Z" creationid="Judy" creationdate="20151208T145206Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e.g. on 32-bit OS:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T053933Z">
@@ -80359,6 +80375,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T133016Z">
         <seg>使用之量測方法；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the number of consecutive packs that exceed the lower limit and is programmed into the Servo section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T145418Z" creationid="Judy" creationdate="20151208T145418Z">
+        <seg>亦即超過下極限的連續包裝數量，參數已於伺服章節中設定。</seg>
       </tuv>
     </tu>
     <tu>
