@@ -13263,6 +13263,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cell Filter: The larger the filter, the lower the frequency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T113113Z" creationid="Judy" creationdate="20151208T113113Z">
+        <seg>Cell Filter (儲存格篩選)：篩選數越多則頻率越低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Celsius degrees</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030837Z">
@@ -26742,6 +26750,14 @@ HD Memory Camcorder</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150731T141145Z">
         <seg>GZ-RX520
 HD 記憶體數位攝影機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain ADC: This parameter allows you to program different gains for ADC converter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T113415Z" creationid="Judy" creationdate="20151208T113415Z">
+        <seg>Gain ADC (ADC 增益)：此參數可設定 ADC 轉換器的不同增益值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42837,6 +42853,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not Zero Alarm: This parameter allows you to program how often an alarm is triggered, because it has been impossible to make a zero.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T113018Z" creationid="Judy" creationdate="20151208T113018Z">
+        <seg>Not Zero Alarm (未歸零警報)：此參數能設定因為無法歸零而觸發警報的頻率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043645Z">
@@ -43907,6 +43931,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130044Z">
         <seg>官方電子郵件地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offset ADC: This parameter represents the zero point compensation and the ADC converter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T113334Z" creationid="Judy" creationdate="20151208T113334Z">
+        <seg>Offset ADC (ADC 補償)：此為零點補償和 ADC 轉換器參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54009,6 +54041,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T123229Z">
         <seg>以大量授權優惠價取得相同的強大功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample Rate: This parameter allows to increase the time between one reading and the next.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T113248Z" creationid="Judy" creationdate="20151208T113248Z">
+        <seg>Sample Rate (取樣率)：此參數能選擇增加讀取數值的間隔時間。</seg>
       </tuv>
     </tu>
     <tu>
