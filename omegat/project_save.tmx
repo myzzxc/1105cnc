@@ -27234,6 +27234,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gross: It corresponds to the total gross weight of the package.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T103635Z" creationid="Judy" creationdate="20151208T103635Z">
+        <seg>Gross (毛重)：包裝總重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gross: Quantity expressed in mass units including product and container.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T132055Z">
@@ -42197,6 +42205,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T131941Z">
         <seg>淨重 (Net)：一組包裝中包含之產品重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Net: It corresponds to the weight of product, subtracting the tare of the programmed pack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T103547Z" creationid="Judy" creationdate="20151208T103547Z">
+        <seg>Net (淨重)：產品重量減去設定之容器重所得之數值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74310,6 +74326,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151122T132258Z">
         <seg>重量差 (Weight Scale, d)：以質量單位表示之兩連續量測之差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Scale: Through this parameter it is possible to adjust the weight resolution and the data shown on the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T103843Z" creationid="Judy" creationdate="20151208T103830Z">
+        <seg>Weight Scale (秤重尺度)：此參數中能調整畫面上的重量解析和資料顯示尺度，</seg>
       </tuv>
     </tu>
     <tu>
