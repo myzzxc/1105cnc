@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(*)If the type of servo is double PID, four servo outputs may be programmed, two for positive and two for negative corrections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084005Z" creationid="Judy" creationdate="20151208T084005Z">
+        <seg>(*) 若伺服馬達的類型為雙 PID，可以設定四組伺服輸出，兩組為正而兩組為負校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(1) update your  personal data yourself</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T124007Z">
@@ -7169,6 +7177,24 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm Average Weight +: Activates the relay when this alarm exists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083425Z" creationid="Judy" creationdate="20151208T083425Z">
+        <seg>Alarm Average Weight +  (平均重量警報 +)：當此警報存在時啟動繼電器。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm Average Weight -: Activates the relay when this alarm exists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083441Z" creationid="Judy" creationdate="20151208T083441Z">
+        <seg>Alarm Average Weight - (平均重量警報 -)：當此警報存在時啟動繼電器。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm Average weight +: It indicates the positive limit for jumping the average weight alarm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T123731Z" creationid="Judy" creationdate="20151129T123643Z">
@@ -7197,6 +7223,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135403Z">
         <seg>報警遮罩 [2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm Photocell: Activates the relay when the photocell for packs passing is covered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083849Z" creationid="Judy" creationdate="20151208T083849Z">
+        <seg>Alarm Photocell (光電感應器警報)：當包裝通過之光電感應器被遮蔽時啟動繼電器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24659,6 +24693,22 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T152409Z">
         <seg>五組‡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Alarm CH1: Activates the relay when a fixed alarm for channel 1 exists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083307Z" creationid="Judy" creationdate="20151208T083307Z">
+        <seg>Fix Alarm CH1 (固定警報頻道 1)：當頻道 1 存在固定警報 (CH1) 時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Alarm CH2: Activates the relay when a fixed alarm for channel 1 exists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083322Z" creationid="Judy" creationdate="20151208T083322Z">
+        <seg>Fix Alarm CH2 (固定警報頻道 2)：當頻道 2 存在固定警報 (CH1) 時啟動繼電器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45423,6 +45473,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output FeedBack +: Activates the relay to make a positive correction of servo (*).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T082946Z" creationid="Judy" creationdate="20151208T082946Z">
+        <seg>Output FeedBack + (輸出回饋 +)：啟動繼電器以針對伺服馬達進行正校正(*)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output FeedBack -: Activates the relay to make a negative correction of servo (*).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083003Z" creationid="Judy" creationdate="20151208T083003Z">
+        <seg>Output FeedBack - (輸出回饋 -)：啟動繼電器以針對伺服馬達進行負校正(*)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output Listing: A not editable parameter (the possible options are USB, printer, Not).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132038Z" creationid="Judy" creationdate="20151129T132038Z">
@@ -50313,6 +50379,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Range Alarm: Activates the relay when the programmed range limit is exceeded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083734Z" creationid="Judy" creationdate="20151208T083734Z">
+        <seg>Range Alarm (範圍警報)：當超出設定範圍限制時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rapid indexing of PDFs and images  on the desktop</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T024345Z">
@@ -53968,6 +54042,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014536Z">
         <seg>適用範圍 1-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Configuration Outputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084028Z" creationid="Judy" creationdate="20151208T084028Z">
+        <seg>輸出設定畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -59297,6 +59379,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141903Z">
         <seg>測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test Alarm: Activates the relay when the scheduled time for making a weight, tare, or external detector (metal or X-ray detector) test is exceeded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083754Z" creationid="Judy" creationdate="20151208T083655Z">
+        <seg>Test Alarm (測試警報)：當秤重、計算箱重、或外部探測器 (金屬或 X 光探測器) 測試超過設定之時間時啟動繼電器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69575,6 +69665,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T014454Z">
         <seg>Title:
 職稱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tmp Alarm CH1: Activates the relay when a temporary channel 1 alarm (CH1) exists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083152Z" creationid="Judy" creationdate="20151208T083152Z">
+        <seg>Tmp Alarm CH1 (暫時警報頻道 1)：當存在暫時頻道 1 警報 (CH1) 時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tmp Alarm CH2: Activates the relay when a temporary channel 2 alarm (CH2) exists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083205Z" creationid="Judy" creationdate="20151208T083205Z">
+        <seg>Tmp Alarm CH2 (暫時警報頻道 2)：當存在暫時頻道 1 警報 (CH2) 時啟動繼電器。</seg>
       </tuv>
     </tu>
     <tu>
