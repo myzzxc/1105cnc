@@ -24270,6 +24270,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.51.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152708Z" creationid="Judy" creationdate="20151208T152708Z">
+        <seg>圖 3.51 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.52.Configuration Serial Ports Communications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152802Z" creationid="Judy" creationdate="20151208T152802Z">
+        <seg>圖 3.52 序列埠通訊設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.6.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140455Z" creationid="Judy" creationdate="20151128T140455Z">
@@ -54678,6 +54694,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Configuration Serial Communications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152729Z" creationid="Judy" creationdate="20151208T152729Z">
+        <seg>序列通訊設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Configuration Weight Conveyor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161846Z" creationid="Judy" creationdate="20151206T161846Z">
@@ -70265,6 +70289,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen, you can configure the internal data related to serial communications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152824Z" creationid="Judy" creationdate="20151208T152824Z">
+        <seg>透過此畫面可以設定序列通訊相關的內部資料，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen, you can configure the internal data related to the feedback / range.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141411Z" creationid="Judy" creationdate="20151208T141320Z">
@@ -70977,6 +71009,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100253Z" creationid="Judy" creationdate="20151206T100253Z">
         <seg>要從主功能表進入驗證畫面必須點擊「Verify (驗證)」按鈕以顯示驗證下拉式功能表，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enter to configure a selected port you have to click on "Edition" button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152654Z" creationid="Judy" creationdate="20151208T152654Z">
+        <seg>若要進入選擇之埠位設定請點擊「Edition (編輯)」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75398,6 +75438,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T044103Z">
         <seg>當固定螺絲 206 鬆開後，前蓋部分 196 可沿軸 204 朝相對基座部分 194 之方向 202 旋轉以打開風箱 180。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When entering the screen a summary of how the different ports are configured is shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152541Z" creationid="Judy" creationdate="20151208T152541Z">
+        <seg>進入畫面時將會顯示不同埠位如何設定之簡易說明，</seg>
       </tuv>
     </tu>
     <tu>
