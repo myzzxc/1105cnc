@@ -19678,6 +19678,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the stock cycle you can perform two types of corrections, one is for minimum pack and the other by the derived limit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T144345Z" creationid="Judy" creationdate="20151208T144345Z">
+        <seg>存貨循環期間可以進行兩種類型的校正，一種為最少包裝而另一種為推導極限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During this period, all deliveries must include an analysis certificate certifying that the products delivered have been checked by the Supplier and that they have been declared compliant with these controls unless otherwise stated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121306Z">
@@ -49458,6 +49466,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144652Z" creationid="Judy" creationdate="20151129T144652Z">
         <seg>設置輸出前必須為各警報分配物理輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previously you must configure the "Use Derivatives" parameter with "YES" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T144352Z" creationid="Judy" creationdate="20151208T144352Z">
+        <seg>必須Previously you must configure the "Use Derivatives" parameter with "YES" option.</seg>
       </tuv>
     </tu>
     <tu>
