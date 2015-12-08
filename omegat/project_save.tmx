@@ -46947,6 +46947,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Packs at Start Point: Number of packs discarded for the corrections calculation the first time the checkweigher is started.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T151616Z" creationid="Judy" creationdate="20151208T151616Z">
+        <seg>Packs at Start Point (起始包裝)：檢重機啟動最初校正計算丟棄之包裝數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packs: Number of packs to average on a compaction cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122916Z" creationid="Judy" creationdate="20151201T122916Z">
@@ -68216,6 +68224,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T032618Z">
         <seg>這些開口能加速空氣流過散熱器 444 (見圖 3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These packs are formed by the addition of the packs programmed in this parameter plus the packs automatically calculated (number of packs processed by the checkweigher during the correction time).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T150930Z" creationid="Judy" creationdate="20151208T150930Z">
+        <seg>這些包裝包括此參數設定之加上自動計算之包裝數量 (校正期間檢重機處理之包裝數量)。</seg>
       </tuv>
     </tu>
     <tu>
