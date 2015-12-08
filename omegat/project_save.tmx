@@ -51593,6 +51593,22 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject Auxiliary 1: Activates the relay when the auxiliary input 1 is detected ad activated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T082301Z" creationid="Judy" creationdate="20151208T082301Z">
+        <seg>Reject Auxiliary 1 (退回備用 1)：當備用輸入 1 偵測到啟動訊號時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject Auxiliary 2: Activates the relay when the auxiliary input 2 is detected ad activated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T082324Z" creationid="Judy" creationdate="20151208T082324Z">
+        <seg>Reject Auxiliary 2 (退回備用 2)：當備用輸入 2 偵測到啟動訊號時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject CC: Activates the relay when the individual sample has a correct weight.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074358Z" creationid="Judy" creationdate="20151208T074358Z">
