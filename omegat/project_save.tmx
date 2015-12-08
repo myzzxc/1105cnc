@@ -52148,8 +52148,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Retaining Section</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140228Z">
-        <seg>定位區段</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053956Z">
+        <seg>固定區段</seg>
       </tuv>
     </tu>
     <tu>
@@ -68384,8 +68384,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This parameter will be editable depending on the Average speed engine 2, 3, 4: Programming average speed in meters per minute if more than one engine.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053538Z" creationid="Judy" creationdate="20151208T053538Z">
-        <seg>Average Speed Engine 2, 3, 4 (馬達平均速度 2, 3, 4，選配)：設定之平均速度，單位為公尺每分鐘，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053819Z" creationid="Judy" creationdate="20151208T053538Z">
+        <seg>此參數可根據「馬達平均速度 2, 3, 4 ：多於一組馬達時設定之平均速度，單位為公尺每分鐘」進行編輯，</seg>
       </tuv>
     </tu>
     <tu>
@@ -68650,6 +68650,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161722Z" creationid="Judy" creationdate="20151206T161722Z">
         <seg>此畫面用於設定影響秤重之因素：速度變化、馬達數量、輸送帶長度等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen is used to configure the weight retainer section concerning the existence of speed shifting, engines number, band length, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054032Z" creationid="Judy" creationdate="20151208T054032Z">
+        <seg>此畫面用於設定秤重固定器區段影響秤重之因素：速度變化、馬達數量、輸送帶長度等。</seg>
       </tuv>
     </tu>
     <tu>
