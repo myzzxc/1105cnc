@@ -48026,6 +48026,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possible options are: "NOT" and the type of shifter programmed in weight tranche.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073240Z" creationid="Judy" creationdate="20151208T073240Z">
+        <seg>可選的選項為：「NOT」和秤重輸送帶之變速器型號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Possible problems, causes and solutions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023130Z" creationid="Judy" creationdate="20151205T023130Z">
@@ -56531,6 +56539,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062252Z">
         <seg>超速警報：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speed at 50 Hz: Programming the speed in meters per minute.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073326Z" creationid="Judy" creationdate="20151208T073326Z">
+        <seg>Speed at 50 Hz (50 Hz 轉速)：設定之速度，單位為公尺每分鐘，</seg>
       </tuv>
     </tu>
     <tu>
@@ -68418,6 +68434,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T052016Z">
         <seg>此面板中可指定處理 .pdf 檔、相關程式和應用程式（Power PDF 進階版、PDF Convert 和 Create Assistant）的一般設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This parameter is editable depending on the parameter "Configure Retainer" configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073402Z" creationid="Judy" creationdate="20151208T073402Z">
+        <seg>此參數可根據參數「Configure Retainer (設定固定器)」設置進行編輯。</seg>
       </tuv>
     </tu>
     <tu>
