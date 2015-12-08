@@ -10529,6 +10529,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average Speed Engine 1(optional): Programming the average speed in meters per minute.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053318Z" creationid="Judy" creationdate="20151208T053318Z">
+        <seg>Average Speed Engine 1 (馬達平均速度 1，選配)：設定平均速度，單位為公尺每分鐘，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Average weight: Value expressed in mass units meaning the average value of individual values ​​from a sample.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T064924Z">
@@ -40748,8 +40756,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Minimum speed: Setting the minimum speed in packs per minute for all formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053039Z" creationid="Judy" creationdate="20151208T053039Z">
-        <seg>Minimum speed (最低速度)：重量：該格式運作之包裝每分鐘速度。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053142Z" creationid="Judy" creationdate="20151208T053039Z">
+        <seg>Minimum speed (最低速度)：所有格式運作之包裝每分鐘最低速度設定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -56481,8 +56489,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Speed ​​Weight:  It indicates the speed in packs per minute which this format is going to work with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124739Z" creationid="Judy" creationdate="20151129T102825Z">
-        <seg>速度重量：該格式運作之包裝每分鐘速度。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053106Z" creationid="Judy" creationdate="20151129T102825Z">
+        <seg>速度秤重：該格式運作之包裝每分鐘速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61791,6 +61799,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T080511Z">
         <seg>大眾已充分認識水的經濟價值，各種形式的經濟企業進行所有活動時都會考慮對水資源的影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The edition of this parameter can change the minimum and maximum speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053404Z" creationid="Judy" creationdate="20151208T053404Z">
+        <seg>編輯此參數可以變更最小和最大速度，</seg>
       </tuv>
     </tu>
     <tu>
@@ -68346,6 +68362,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T121706Z" creationid="Judy" creationdate="20151201T121706Z">
         <seg>此參數為以連續包裝之數量為樣本所計算的平均重量，同時發送校正信號以進行檢測之錯誤補償。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This parameter will be editable depending on the speed parameter setting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053213Z" creationid="Judy" creationdate="20151208T053213Z">
+        <seg>此參數可根據速度參數設置進行編輯。</seg>
       </tuv>
     </tu>
     <tu>
