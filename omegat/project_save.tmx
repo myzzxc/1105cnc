@@ -51675,8 +51675,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Reject units’ control: Reject by units control related to the option of floating net (optional).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T075545Z" creationid="Judy" creationdate="20151208T075545Z">
-        <seg>Reject units’ control (退回未計算箱重)：當於偵測到特殊應用箱重中未計算箱重時啟動繼電器。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T075822Z" creationid="Judy" creationdate="20151208T075545Z">
+        <seg>Reject units’ control (退回數量管控)：不符合數量管控中浮動淨重選項而退回 (選配)。</seg>
       </tuv>
     </tu>
     <tu>
