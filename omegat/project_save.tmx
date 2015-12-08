@@ -39461,6 +39461,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MD / XR Input: (Only MD / XR): Indicates the physical entry through which comes to weight control the MD detection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T130242Z" creationid="Judy" creationdate="20151208T130242Z">
+        <seg>MD / XR Input (金屬/X光探測器輸入)：(僅金屬/X光探測器) 金屬探測器連接至秤重控制器的實體輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MD: Input indicating metals detector has detected a contaminant.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084835Z" creationid="Judy" creationdate="20151208T084745Z">
