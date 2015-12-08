@@ -6889,6 +6889,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After entering the configuration data, click on the ‘execute’ button to apply the changes on the machine; after that a notice will appear confirming that the changes have been made successfully.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155454Z" creationid="Judy" creationdate="20151208T155454Z">
+        <seg>輸入配置資料後，按一下「exexute (執行)」按鈕以套用變更於機器上；按下後將會顯示確認已成功更改通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After filling the vessel, allow approximately 5 minutes for trapped air to escape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T055545Z">
@@ -18162,6 +18170,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data Hub</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155501Z" creationid="Judy" creationdate="20151208T155501Z">
+        <seg>資料中心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data Listing: If the selected option is YES, the button “Execute” appears at the central bottom of the screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132810Z" creationid="Judy" creationdate="20151129T132805Z">
@@ -24326,6 +24342,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.55.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155603Z" creationid="Judy" creationdate="20151208T155603Z">
+        <seg>圖 3.55 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.6.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140455Z" creationid="Judy" creationdate="20151128T140455Z">
@@ -30310,6 +30334,14 @@ Hsin Chang 工業公司</seg>
         <seg>If this parameter validation involves go out of production or disarrange the format, the checkweigher will show a previous warning message allowing cancel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161836Z" creationid="Judy" creationdate="20151206T161836Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this parameter validation involves go out of production or disarrange the format, the chwckweigher will show a previous warning message allowing cancel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155553Z" creationid="Judy" creationdate="20151208T155553Z">
         <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
@@ -54754,6 +54786,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014536Z">
         <seg>適用範圍 1-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Config Ethernet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155627Z" creationid="Judy" creationdate="20151208T155627Z">
+        <seg>設定乙太網路畫面</seg>
       </tuv>
     </tu>
     <tu>
