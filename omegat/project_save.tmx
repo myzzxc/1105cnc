@@ -10691,6 +10691,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average Weight Control: Servo operating mode that performs corrections from the average weight calculated during the averaging cycle, taking into account the average cumulative total weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T150251Z" creationid="Judy" creationdate="20151208T150112Z">
+        <seg>Average Weight Control  (平均重量管控)：執行由平均循環中計算之平均重量校正的伺服操作模式，考慮平均累積總重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Average weight: Value expressed in mass units meaning the average value of individual values ​​from a sample.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151121T064924Z">
@@ -56159,6 +56167,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Servo Operation: Indicates the operation mode of the servo outputs: Proportional or by pulses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T150045Z" creationid="Judy" creationdate="20151208T150045Z">
+        <seg>Servo Operation (伺服操作)：伺服輸出之操作模式：比例或脈衝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Servo-motor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023114Z" creationid="Judy" creationdate="20151205T023114Z">
@@ -73085,6 +73101,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143950Z">
         <seg>提供視覺化的經驗豐富印象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using Derivatives: If the parameter is set with YES option, it allows making corrections during deriving or Stock cycles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T150303Z" creationid="Judy" creationdate="20151208T150113Z">
+        <seg>Using Derivatives (使用推導):: If the parameter is set with YES option, it allows making corrections during deriving or Stock cycles.</seg>
       </tuv>
     </tu>
     <tu>
