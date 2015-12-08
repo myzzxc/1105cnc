@@ -69586,6 +69586,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To have a speed value of 50 Hz it will be necessary to measure it with a tachometer on the conveyor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T051739Z" creationid="Judy" creationdate="20151208T051739Z">
+        <seg>必須使用輸送帶上的轉速表量測以維持 50 Hz 的轉速值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To highlight some of the most common ones we’ve created a short set of videos:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121308Z">
