@@ -33551,6 +33551,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Input Reject Confirmation: Physical entry through which for the reject confirmation signal comes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131007Z" creationid="Judy" creationdate="20151208T131007Z">
+        <seg>Input Reject Confirmation (輸入退回確認)：實體輸入之退回確認訊號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Input Voltage Level</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050213Z">
@@ -58720,6 +58728,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Synchro MD / XR: (Only MD / XR): Synchronism of MD, whether with pack step detection (photocell) or with weight elaboration (weight).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T130836Z" creationid="Judy" creationdate="20151208T130836Z">
+        <seg>Synchro MD / XR (同步金屬/X光探測器)：(僅金屬/X光探測器)：金屬探測器與包裝步驟偵測 (光電感應器) 或秤重機 (重量) 同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System Architecture</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T140308Z">
@@ -59835,6 +59851,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140846Z">
         <seg>測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Reject Confirmation: Text to be shown when a lack of reject confirmation occurs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T131105Z" creationid="Judy" creationdate="20151208T131105Z">
+        <seg>Text Reject Confirmation (退回確認文字)：若無退回確認時顯示之文字。</seg>
       </tuv>
     </tu>
     <tu>
