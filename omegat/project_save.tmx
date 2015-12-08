@@ -19720,6 +19720,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dynamic Analysis).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T104351Z" creationid="Judy" creationdate="20151208T104351Z">
+        <seg>動態分析)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dynamic Data</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160611Z" creationid="Judy" creationdate="20151204T160611Z">
@@ -29727,6 +29735,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122203Z">
         <seg>如果員工更改婚姻狀況、殘疾狀態或性別，Workday 將通知員工自動更改其福利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the full scale value is changed, you must perform a new dynamic adjustment (see 3.4.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T104349Z" creationid="Judy" creationdate="20151208T104349Z">
+        <seg>若更改不同最大重量值，必須執行新的動態調整 (請見 3.4.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -41008,6 +41024,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090638Z">
         <seg>最低空氣壓力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum Weight (Min): This parameter, as information, indicates the user the minimum value that the checkweigher can weigh.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T104515Z" creationid="Judy" creationdate="20151208T104515Z">
+        <seg>Minimum Weight (最小重量值)：此參數為檢重機可量測之最小重量值，供使用者參考。</seg>
       </tuv>
     </tu>
     <tu>
