@@ -45031,6 +45031,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oputput Conveyors  On: Activates the relay when it goes into production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T082708Z" creationid="Judy" creationdate="20151208T082708Z">
+        <seg>Oputput Conveyors On (輸送機輸出開啟)：當開始生產時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or flatten everything in a document, including signatures, stamps, mark-ups, annotations, filled form fields and graphics for enhanced document security.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T085117Z">
@@ -51621,6 +51629,15 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074849Z" creationid="Judy" creationdate="20151208T074849Z">
         <seg>Reject Cadence (退回輸送間隔)：當輸送間隔發生錯誤時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject Furt.: Reject by stealth, provided that the total confirmation is enabled (optional).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T082626Z" creationid="Judy" creationdate="20151208T082626Z">
+        <seg>Reject Furt. (退回 Furt.)：背景作業退回，需啟用最終確認 (選配)。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -73467,6 +73484,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T065516Z">
         <seg>人類使用後的所有主要廢水被收集並適當地處理後以再利用或重新釋放回環境中，而最大化水資源的再利用是實現人人享有水資源的主要方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Watchdog Output: It checks the state of the pci board and activates the relay scheduled every 30 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T082838Z" creationid="Judy" creationdate="20151208T082744Z">
+        <seg>Watchdog Output (監控輸出)：檢查 PCI 板狀態並每 30 秒定期啟動繼電器。</seg>
       </tuv>
     </tu>
     <tu>
