@@ -4601,6 +4601,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A maximum of 8 outputs can be activated and neither alarms nor servo outputs can have the same output as the reject.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074009Z" creationid="Judy" creationdate="20151208T074009Z">
+        <seg>做多可啟用 8 組輸出，而警報或伺服輸出皆不能具有相同的退回輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A media server may be created to make the images available for the Internet without accessing the main server.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T122239Z">
@@ -30157,6 +30165,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042515Z" creationid="Judy" creationdate="20151206T042515Z">
         <seg>若進行直條包裝成型區之維護或清潔操作時，請等待一段時間使夾頭溫度下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you put 0 it means there is not an active output.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073844Z" creationid="Judy" creationdate="20151208T073836Z">
+        <seg>若輸入 0 代表停用輸出，</seg>
       </tuv>
     </tu>
     <tu>
@@ -66992,6 +67008,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is the possibility of incorporating an expansion board for inputs/outputs, in which case we would be talking about sixteen possible outputs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074138Z" creationid="Judy" creationdate="20151208T074138Z">
+        <seg>可以外加輸入/輸出擴充板以擴充至十六組輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There must be a SAI alarm input programmed to alarm message be displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T154744Z" creationid="Judy" creationdate="20151206T154744Z">
@@ -69106,6 +69130,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121609Z" creationid="Judy" creationdate="20151128T121527Z">
         <seg>此按鍵用於取得靜態平衡之系統偏移量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen we can associate to a physical exit (relay) the different output concepts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073815Z" creationid="Judy" creationdate="20151208T073815Z">
+        <seg>藉由此畫面可以將實體輸出 (繼電器) 連接至不同輸出參數，</seg>
       </tuv>
     </tu>
     <tu>
