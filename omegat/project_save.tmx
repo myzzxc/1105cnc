@@ -18042,6 +18042,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DNS Server: The DNS server address of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155239Z" creationid="Judy" creationdate="20151208T155234Z">
+        <seg>DNS Server (DNS 伺服器)：機器之 DNS 伺服器位址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DO NOT exceed the design pressure shown on the assembly drawing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T132730Z">
@@ -27002,6 +27010,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gateway: Field where the interface gateway is located.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155203Z" creationid="Judy" creationdate="20151208T155203Z">
+        <seg>Gateway (通道)：界面通道欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gear selector 216 is operatively coupled to the shiftable transmission 144 to select a gear of the shiftable transmission 144.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T103013Z">
@@ -29383,6 +29399,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T002305Z">
         <seg>IOD（固定設備零件）：由固定設備和方法所生產之零件，用於產品和流程審核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IP Address: Field where the IP address of the interface is located.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155109Z" creationid="Judy" creationdate="20151208T155109Z">
+        <seg>IP Address (IP 位址)：介面之 IP 位址欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35313,6 +35337,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also shows the cable symbols if connected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T154848Z" creationid="Judy" creationdate="20151208T154848Z">
+        <seg>同時幫網路連接時也會顯示電線符號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also supports zoom via the mouse wheel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T131736Z">
@@ -39525,6 +39557,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAC address: (not editable) The MAC address of the Net Interface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155025Z" creationid="Judy" creationdate="20151208T155025Z">
+        <seg>MAC address (MAC 位址)：(不可編輯) 網路介面之 MAC 位址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080339Z">
@@ -42557,6 +42597,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T154655Z" creationid="Judy" creationdate="20151208T154655Z">
         <seg>Net Interface (網路介面)：(不可編輯) 網路介面名稱，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Net Mask: Field where the Interface Net Mask is located.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155147Z" creationid="Judy" creationdate="20151208T155147Z">
+        <seg>Net Mask (網路遮罩)：介面網路遮罩欄位。</seg>
       </tuv>
     </tu>
     <tu>
