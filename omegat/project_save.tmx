@@ -4818,6 +4818,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A screen appears with a list of options, where we have to select the "Cell" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T103000Z" creationid="Judy" creationdate="20151208T103000Z">
+        <seg>畫面將會出現選項清單，選擇其中的「Cell (儲存格)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A screen appears with a list of options, where we have to select the "Outputs PCI" option.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073703Z" creationid="Judy" creationdate="20151208T073703Z">
@@ -7499,6 +7507,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All inputs can be configured to be active at 1 or active at 0.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T092605Z" creationid="Judy" creationdate="20151208T092605Z">
+        <seg>所有輸入可以設定為 1 啟用或 0 啟用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All machinery and equipment can be disconnected by a switch that can be locked and labeled.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T141222Z">
@@ -8033,6 +8049,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065027Z">
         <seg>真空泵與除塵風機之馬達啟動台也同時安裝於底座上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also we should indicate whether this input is active with the photocell or weight synchronism.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T092337Z" creationid="Judy" creationdate="20151208T092337Z">
+        <seg>同時也需指明此輸入是否與光電感應器或秤重機同步啟動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12234,6 +12258,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T115148Z">
         <seg>調整後獨立懸吊 116 可將控制臂 530 和控制臂 532 連接至框架 112 端點，而框架 112 整體長度可以縮短。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default will all be active at 0.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T092627Z" creationid="Judy" creationdate="20151208T092627Z">
+        <seg>預設情況下為 0 啟用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24070,6 +24102,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.42.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T102910Z" creationid="Judy" creationdate="20151208T102910Z">
+        <seg>圖 3.42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.5.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140238Z" creationid="Judy" creationdate="20151128T140238Z">
@@ -29691,6 +29731,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the inputs of DM, RX or SYNC Servo A / B are used, we must also indicate whether these inputs are active with the photocell or weight synchronism.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T092434Z" creationid="Judy" creationdate="20151208T092434Z">
+        <seg>若使用 DM、RX 或 SYNC Servo A / B 之輸入，同時也需指明這些輸入是否與光電感應器或秤重機同步啟動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the machine has the additional plate for inputs/outputs, on the screen entries ranging from "Input 7" to "Input 14" will appear.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101424Z" creationid="Judy" creationdate="20151206T101424Z">
@@ -29974,6 +30022,14 @@ Hsin Chang 工業公司</seg>
         <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing to cancel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161626Z" creationid="Judy" creationdate="20151129T134758Z">
+        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing to cancell the action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T103045Z" creationid="Judy" creationdate="20151208T103045Z">
         <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
@@ -54134,6 +54190,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Configuration Parameters Cell</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T102935Z" creationid="Judy" creationdate="20151208T102935Z">
+        <seg>設定參數儲存格畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Configuration Retaining Section</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054111Z" creationid="Judy" creationdate="20151208T054111Z">
@@ -69561,6 +69625,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen, you can configure the related to the cell data (weight sensor).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T102833Z" creationid="Judy" creationdate="20151208T102833Z">
+        <seg>透過此畫面可以設定相關儲存格資料 (秤重感應器)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen, you can create a format based on an existing format.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124753Z" creationid="Judy" creationdate="20151129T124127Z">
@@ -69889,6 +69961,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104816Z" creationid="Judy" creationdate="20151206T104816Z">
         <seg>若要進入畫面，由主畫面選擇「Verify (驗證)」後選擇「Graphic Mode (圖形模式)」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the screen, the "Configure" option is selected from the main menu and then the "Internal Data" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T102945Z" creationid="Judy" creationdate="20151208T102945Z">
+        <seg>若要進入畫面，由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
       </tuv>
     </tu>
     <tu>
