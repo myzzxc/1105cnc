@@ -10523,6 +10523,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auxiliary 1:Auxiliary Input 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084914Z" creationid="Judy" creationdate="20151208T084914Z">
+        <seg>Auxiliary 1 (備用 1)：備用輸入 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Distribution Media: Individual license (serialised), Volume Licensing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081327Z">
@@ -26027,6 +26035,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Free: No physical entry is assigned to the corresponding input.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084525Z" creationid="Judy" creationdate="20151208T084525Z">
+        <seg>Free (自由)：無實體輸入分配至對應的輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Freezing temperature of birds</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T033559Z">
@@ -39253,6 +39269,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MD: Input indicating metals detector has detected a contaminant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084835Z" creationid="Judy" creationdate="20151208T084745Z">
+        <seg>MD：金屬探測器偵測到污染物之輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MECHANICAL GUARANTEE PERIOD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115809Z">
@@ -50407,6 +50431,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083734Z" creationid="Judy" creationdate="20151208T083734Z">
         <seg>Range Alarm (範圍警報)：當超出設定範圍限制時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range: Input indicating a range cycle has been fulfilled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084758Z" creationid="Judy" creationdate="20151208T084629Z">
+        <seg>Range (範圍)：指定之循環的範圍已完成之輸入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61850,6 +61882,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T030726Z" creationid="Judy" creationdate="20151205T030623Z">
         <seg>其概念為以最優異的尺寸達到簡單、耐用和多用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The concepts which a physical entry from the PCI can be assigned to, are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084428Z" creationid="Judy" creationdate="20151208T084428Z">
+        <seg>PCI 之實體輸入可以指定之參數為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -74202,6 +74242,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weight Test: It launches a weight test if we are in the weight test production screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084735Z" creationid="Judy" creationdate="20151208T084735Z">
+        <seg>Weight Test (重量測試)：若在重量測試生產畫面中將會啟動重量測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welders are wearing appropriate protective clothing including heat/fire resistant gloves.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T143150Z">
@@ -76327,6 +76375,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050423Z">
         <seg>X-MINK 旋轉式葉片泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XR: Input indicating pollutant detected by X-ray</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084857Z" creationid="Judy" creationdate="20151208T084857Z">
+        <seg>XR：X 光偵測到污染物之輸入。</seg>
       </tuv>
     </tu>
     <tu>
