@@ -10683,6 +10683,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Averaging cycle:  During the averaging cycle trend the weight packs trend is calculated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T142232Z" creationid="Judy" creationdate="20151208T142232Z">
+        <seg>Averaging cycle (平均循環)：平均循環週期將會計算包裝重量趨勢，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoid use in conditions where sand and/</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125159Z">
@@ -15422,6 +15430,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T120857Z">
         <seg>小型建築車輛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compaction Cycle: When the dosing device starts it is possible that the first packs have not the common shifting matching the product features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141943Z" creationid="Judy" creationdate="20151208T141943Z">
+        <seg>Compaction Cycle (壓制循環)：當給料裝置啟動時，最初的包裝可能無法達到一般正常運轉之產品特性，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30219,6 +30235,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If we have a programmed number of compaction packs, these will not be taken into account by the servo when making corrections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T142100Z" creationid="Judy" creationdate="20151208T142100Z">
+        <seg>若設定壓制包裝的數量，這些數量的包裝將不會計入作為伺服馬達的校正參考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If we visualize the learnt background as transparent blue pixels, the internal representation of the scenes background would cover the whole screen:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T112437Z">
@@ -44647,6 +44671,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once calculated this trend, it will be calculated with the ideal weight (net weight).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T142407Z" creationid="Judy" creationdate="20151208T142331Z">
+        <seg>當計算出此趨勢時，將會計算此趨勢與理想重量 (淨重) 之差異，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once deliveries have been completed, data needs to be reviewed to ensure that there were no major fluctuations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T052005Z">
@@ -56825,6 +56857,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So during the compaction cycle the servo keeps inactive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T142140Z" creationid="Judy" creationdate="20151208T142140Z">
+        <seg>因此在壓制循環階段將會停用伺服功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So it's shorther than period that we gave, 90 days</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T124126Z">
@@ -57822,6 +57862,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T161504Z">
         <seg>庫存水準不符交付績效要求，無優良的運送方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stock or Derivation Cycle: After correcting the averaging cycle, stock cycle starts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T142704Z" creationid="Judy" creationdate="20151208T142604Z">
+        <seg>Stock or Derivation Cycle (存貨或推導循環)：校正平均循環後，將開始存貨循環，</seg>
       </tuv>
     </tu>
     <tu>
@@ -65305,6 +65353,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The servo operating is divided in the following cycles: "compaction", "averaging", "deriving" and "stock" cycles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T142621Z" creationid="Judy" creationdate="20151208T141749Z">
+        <seg>伺服操作可以劃分為以下循環：「壓制」、「平均」、「推導」和「存貨」循環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The shafts of the swing nuts are received in the recesses of portions 208 and the swing nuts are tightened to secure front cover portion 196 relative to base portion 194.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T043835Z">
@@ -68605,10 +68661,26 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This cycle includes all packs that were in transit between the dosing device and the checkweigher and have not been affected by the correction made in the averaging cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T142852Z" creationid="Judy" creationdate="20151208T142852Z">
+        <seg>此循環包含給料裝置和檢重機之間運送的所有包裝且不受平均循環中所作之校正影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This detector stops the machine before the laminated reel ends.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120750Z" creationid="Judy" creationdate="20151207T120750Z">
         <seg>此感測器能在箔片卷筒耗盡前停止機台，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This difference will become an activating time for a relay output.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T142436Z" creationid="Judy" creationdate="20151208T142436Z">
+        <seg>此差異值將作為繼電器輸出的啟用時間。</seg>
       </tuv>
     </tu>
     <tu>
