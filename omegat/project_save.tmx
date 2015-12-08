@@ -51657,6 +51657,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject mean weight: Activates the relay when the average weight value of the right packs is below net weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T075246Z" creationid="Judy" creationdate="20151208T075246Z">
+        <seg>Reject mean weight (退回平均重量)：當正確包裝之平均重量值低於淨重值時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject zero: Activates the relay when an error of zero exists.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T075114Z" creationid="Judy" creationdate="20151208T075014Z">
