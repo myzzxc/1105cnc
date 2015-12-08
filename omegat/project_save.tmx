@@ -18637,6 +18637,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Differ: It corresponds to the difference regarding the standard pack, subtracting the net weight and the tare of the programmed pack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T103400Z" creationid="Judy" creationdate="20151208T103400Z">
+        <seg>Differ (差值)：標準包裝減去設定之包裝淨重和容器重的重量差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Difference between modularization and standardization</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T025502Z">
@@ -74342,6 +74350,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084735Z" creationid="Judy" creationdate="20151208T084735Z">
         <seg>Weight Test (重量測試)：若在重量測試生產畫面中將會啟動重量測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight display: Through this parameter is allowed the user to view the weight in the following ways:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T103206Z" creationid="Judy" creationdate="20151208T103206Z">
+        <seg>Weight display (重量顯示)：此參數供使用者以下列方式檢視重量：</seg>
       </tuv>
     </tu>
     <tu>
