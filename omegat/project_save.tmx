@@ -4826,6 +4826,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A screen appears with a list of options, where we have to select the "PCI Inputs" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084215Z" creationid="Judy" creationdate="20151208T084215Z">
+        <seg>畫面將會出現選項清單，選擇其中的「PCI Inputs (PCI 輸入)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A screen appears with a list of options, where we have to select the "Retaining Section" option.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054056Z" creationid="Judy" creationdate="20151208T054056Z">
@@ -31238,6 +31246,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case the validation of this parameter involves going out of production or disarranging format, the checkweigher will show a previous warning allowing to cancell the action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084356Z" creationid="Judy" creationdate="20151208T084356Z">
+        <seg>若確認此參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case to edit this parameter should be necessary to go out of production, the checkweigher will show a previous warning message.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084323Z" creationid="Judy" creationdate="20151208T084323Z">
+        <seg>若編輯此參數需要停止生產時，檢重機將先顯示警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In certain cases of non-compliance, the Supplier may propose a "deferral request" for HUTCHINSON before shipping, which, if HUTCHINSON approves, allows it to continue to deliver at least for a given period/quantity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144957Z">
@@ -54046,6 +54070,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Configuration Inputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084231Z" creationid="Judy" creationdate="20151208T084231Z">
+        <seg>輸入設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Configuration Outputs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084028Z" creationid="Judy" creationdate="20151208T084028Z">
@@ -68997,6 +69029,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T155313Z" creationid="Judy" creationdate="20151201T155313Z">
         <seg>使用者能利用此畫面設定時間控制的基本參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen allows the user to program the functions that will perform the various inputs in the PCI-72 board.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084155Z" creationid="Judy" creationdate="20151208T084155Z">
+        <seg>此畫面能設定 PCI-72 板中所執行的各種輸入功能。</seg>
       </tuv>
     </tu>
     <tu>
