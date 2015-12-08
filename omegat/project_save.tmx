@@ -51665,6 +51665,22 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject no tare (optional): Activates the relay when no tare is detected in the special application tare-weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T075554Z" creationid="Judy" creationdate="20151208T075538Z">
+        <seg>Reject no tare (退回未計算箱重，選配)：當於偵測到特殊應用箱重中未計算箱重時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject units’ control: Reject by units control related to the option of floating net (optional).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T075545Z" creationid="Judy" creationdate="20151208T075545Z">
+        <seg>Reject units’ control (退回未計算箱重)：當於偵測到特殊應用箱重中未計算箱重時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject zero: Activates the relay when an error of zero exists.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T075114Z" creationid="Judy" creationdate="20151208T075014Z">
