@@ -51641,6 +51641,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject Weight Test: Activates the relay when a test pack has passed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T082103Z" creationid="Judy" creationdate="20151208T082103Z">
+        <seg>Reject Weight Test (退回秤重測試)：當包裝測試未通過時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject XR: Activates the relay when it occurs a reject by pollutant XR.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T074813Z" creationid="Judy" creationdate="20151208T074813Z">
