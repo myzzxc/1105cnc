@@ -24310,6 +24310,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.54.Config IP on Ethernet Communications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T154505Z" creationid="Judy" creationdate="20151208T154505Z">
+        <seg>圖 3.54 乙太網路通訊設定 IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.6.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140455Z" creationid="Judy" creationdate="20151128T140455Z">
@@ -25203,7 +25211,15 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For a better understanding of this screen, its different parameters are explained below:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T114734Z" creationid="Judy" creationdate="20151208T114734Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T154602Z" creationid="Judy" creationdate="20151208T114734Z">
+        <seg>為了更方便了解此畫面操作，以下為其不同參數之定義：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a better understanding of this screen, its various parameters are explained below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T154607Z" creationid="Judy" creationdate="20151208T154526Z">
         <seg>為了更方便了解此畫面操作，以下為其不同參數之定義：</seg>
       </tuv>
     </tu>
@@ -42533,6 +42549,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141247Z">
         <seg>網路資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Net Interface: (not editable) Name of Net Interface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T154655Z" creationid="Judy" creationdate="20151208T154655Z">
+        <seg>Net Interface (網路介面)：(不可編輯) 網路介面名稱，</seg>
       </tuv>
     </tu>
     <tu>
@@ -69877,6 +69901,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T155345Z" creationid="Judy" creationdate="20151204T155345Z">
         <seg>此畫面可以於圖表上顯示之秤重動作編輯秤重和歸零之初始和最終值，以及此秤重之標準重量和差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen allows us to install the net settings of the computer, displays all available net interfaces and the right side of it displays a connector symbol to indicate the cable is connected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T154434Z" creationid="Judy" creationdate="20151208T154434Z">
+        <seg>此畫面中可以安裝電腦之網路設定、顯示所有可用的網路介面，而畫面右側會顯示連接器符號以指示網路線已連接。</seg>
       </tuv>
     </tu>
     <tu>
