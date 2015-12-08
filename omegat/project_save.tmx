@@ -10531,6 +10531,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auxiliary 2: Auxiliary Input 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084923Z" creationid="Judy" creationdate="20151208T084923Z">
+        <seg>Auxiliary 2 (備用 2)：備用輸入 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Distribution Media: Individual license (serialised), Volume Licensing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081327Z">
@@ -29543,6 +29551,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055659Z">
         <seg>若供應之電壓低於7V，則5V針腳供應之電源可能低於5V而使電路板不穩定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Auxiliary inputs 1 and 2 are used, they can be associated to a text that can be programmed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T085132Z" creationid="Judy" creationdate="20151208T085132Z">
+        <seg>若使用備用輸入 1 和 2，可以設定相關文字說明。</seg>
       </tuv>
     </tu>
     <tu>
