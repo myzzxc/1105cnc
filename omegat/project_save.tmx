@@ -26499,6 +26499,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full Drawer Input: Physical entry through which the reject accumulation drawer is detected as full.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T134559Z" creationid="Judy" creationdate="20151208T134559Z">
+        <seg>Full Drawer Input (退回櫃已滿輸入)：偵測到退回累積櫃已滿的實體輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full HD 1920x1080 Recording</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125823Z">
