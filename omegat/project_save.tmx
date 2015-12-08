@@ -6417,6 +6417,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Servo Output:  It allows activating the PCI outputs assigned to the positive and negative servo corrections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T145939Z" creationid="Judy" creationdate="20151208T145939Z">
+        <seg>Active Servo Output (主動伺服輸出)：啟動指定之正或負伺服校正 PCI 輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activity log for Edge Recordings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T121314Z">
@@ -6901,6 +6909,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T024833Z">
         <seg>十年過後，他決定開始生產完整金屬眼鏡框，於參加各種設計課程之後，他建立了以他自己名字命名的品牌，以突顯出他的創造性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After that an averaging cycle and finally a stock or deriving cycle is performed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T145614Z" creationid="Judy" creationdate="20151208T145610Z">
+        <seg>接著開始平均循環，而最後執行存貨或推導循環，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25109,6 +25125,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T111545Z">
         <seg>Windows XP 中，依上述步驟進行 vcredist.msi。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a better understanding of this screen the various parameters of PID servo type are explained below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T145808Z" creationid="Judy" creationdate="20151208T145808Z">
+        <seg>為了更方便了解此畫面操作，以下為 PID 伺服類型之不同參數的定義：</seg>
       </tuv>
     </tu>
     <tu>
@@ -65385,6 +65409,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The servo operation way is first of all a compaction cycle the checkweigher starts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T145511Z" creationid="Judy" creationdate="20151208T145511Z">
+        <seg>伺服操作方式為檢重機啟動時先進行壓制循環，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The shafts of the swing nuts are received in the recesses of portions 208 and the swing nuts are tightened to secure front cover portion 196 relative to base portion 194.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T043835Z">
@@ -68104,6 +68136,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T071029Z">
         <seg>分別為英文、法文和德文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These latest two cycles are repeated while the checweigher is operating.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T145715Z" creationid="Judy" creationdate="20151208T145715Z">
+        <seg>上述最後兩個循環於檢重機運作期間重複循環。</seg>
       </tuv>
     </tu>
     <tu>
