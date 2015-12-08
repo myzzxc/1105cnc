@@ -28394,6 +28394,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Holding Weight: By means of this parameter you can program how long you want to keep the last weighing on the display, before showing the zero that will be on the platform.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T105148Z" creationid="Judy" creationdate="20151208T105148Z">
+        <seg>Holding Weight (重量資料保留時間)：此參數可以設定最後一筆秤重資料顯示的時間，若設為零該數值將會保留在畫面上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Honda 89 FF400R Pilot Service Manual, Honda Motor co., Ftd., (265 pages), 1988.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141423Z">
@@ -65649,6 +65657,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The user has the following options: Not, Automatic, Track or Track + Automatic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T105419Z" creationid="Judy" creationdate="20151208T105419Z">
+        <seg>使用者可選擇以下選項：Not (不使用)、Automatic (自動)、Track (軌道) 或 Track + Automatic (軌道 + 自動)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The user may choose to display only the name of the objects, only their description, or both, under the "Name (description)" format.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T150615Z">
@@ -77497,6 +77513,14 @@ whether it�s raining or snowing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161525Z" creationid="Judy" creationdate="20151206T161525Z">
         <seg>Zero Automatic Start (啟動歸零自動)：能選擇啟動自動或手動歸零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zero Mode: This parameter corresponds to the operation way of zero when the system is in production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T105259Z" creationid="Judy" creationdate="20151208T105259Z">
+        <seg>Zero Mode (歸零模式)：此參數為系統生產期間歸零之操作方式，</seg>
       </tuv>
     </tu>
     <tu>
