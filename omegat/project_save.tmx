@@ -16536,6 +16536,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conveyor Length: Length of the weight tranche band.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052553Z" creationid="Judy" creationdate="20151208T052553Z">
+        <seg>Conveyor Length (秤重式輸送機長度)」：秤重輸送帶長度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conveyor Length” box length of the weight band in mm is indicated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T162359Z" creationid="Judy" creationdate="20151206T162359Z">
@@ -20703,6 +20711,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145649Z">
         <seg>有時，工程師因為接口說明而必須修改元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engines(Optional): Number of engines to be controlled by the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052512Z" creationid="Judy" creationdate="20151208T052512Z">
+        <seg>Engines(馬達，選配)：由檢重機控制的馬達數量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40182,6 +40198,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T160334Z">
         <seg>將電廠冷卻系統用水的效率最大化，加強風能、太陽能發電和地熱能的發電量等等，將會成為未來實現水資源永續性的決定性因素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum Pack Length: Value calculated from the band length and corresponding to 90% of it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052730Z" creationid="Judy" creationdate="20151208T052724Z">
+        <seg>Maximum Pack Length (最大包裝長度)：由輸送帶長度計算出之數值，對應至其長度的 90%。</seg>
       </tuv>
     </tu>
     <tu>
