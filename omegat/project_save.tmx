@@ -4874,6 +4874,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A screen appears with an options list, where we have to select the "Serial Communications" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152401Z" creationid="Judy" creationdate="20151208T152350Z">
+        <seg>畫面將會出現選項清單，選擇其中的「Serial Communications (序列通訊)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A screen appears with an options list, where we must select the "Feedback / Range" option.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141427Z" creationid="Judy" creationdate="20151208T141427Z">
@@ -46955,6 +46963,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Packs for Offset: Number of packs that combined with the average weight of production will give  a partial correction to be added to the correction to be applied after averaging cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152028Z" creationid="Judy" creationdate="20151208T152028Z">
+        <seg>Packs for Offset (補償包裝)：計算生產平均重量使用之包裝數量，可計算部分校正值，用以加上平均循環之後套用之校正值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packs: Number of packs to average on a compaction cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T122916Z" creationid="Judy" creationdate="20151201T122916Z">
@@ -50887,6 +50903,30 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T083734Z" creationid="Judy" creationdate="20151208T083734Z">
         <seg>Range Alarm (範圍警報)：當超出設定範圍限制時啟動繼電器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range Alarm: It generates range alarm on display when the range tolerance is exceeded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152220Z" creationid="Judy" creationdate="20151208T152220Z">
+        <seg>Range Alarm (範圍警報)：當超出範圍容許值時螢幕可顯示範圍警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range Mode: It allows selecting standard or special range modes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152247Z" creationid="Judy" creationdate="20151208T152247Z">
+        <seg>Range Mode (範圍模式)：可選擇標準或特殊範圍模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range Parameters: It allows to give the parameters expressed in absolute or relative.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152124Z" creationid="Judy" creationdate="20151208T152124Z">
+        <seg>Range Parameters (範圍參數)：可使用絕對或相對方式表示此參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56065,8 +56105,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Serial Communications</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140519Z">
-        <seg>串列通訊</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152314Z">
+        <seg>序列通訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -70639,8 +70679,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To access this screen the "Configure" option is selected from the main menu and then the "Internal Data" option.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161752Z" creationid="Judy" creationdate="20151206T161752Z">
-        <seg>若要進入畫面，由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152338Z" creationid="Judy" creationdate="20151206T161752Z">
+        <seg>若要進入此畫面，由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
       </tuv>
     </tu>
     <tu>
