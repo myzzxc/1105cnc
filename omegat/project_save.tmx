@@ -11382,8 +11382,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Batch: Indicating whether the format is numeric or alphanumeric.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145550Z" creationid="Judy" creationdate="20151206T145550Z">
-        <seg>Batch (批號)：指定數字或字母加數字格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T145550Z">
+        <seg>Batch (批號)：指定數字或字母加數字規格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11582,8 +11582,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Before starting production, make sure the machine has been programmed in the right format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083557Z" creationid="Judy" creationdate="20151205T083557Z">
-        <seg>開始生產前，確保機器之程式已設定為正確的格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163329Z" creationid="Judy" creationdate="20151205T083557Z">
+        <seg>開始生產前，確保機器之程式已設定為正確的規格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13529,8 +13529,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Change FMT - Listing / Delete: Automatically Listing-Delete option referred to production data in a format change.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161414Z" creationid="Judy" creationdate="20151206T161414Z">
-        <seg>Change FMT - Listing / Delete  (並更 FMT-列表 / 刪除)：格式變更中自動列表刪除生產資料的選項。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T161414Z">
+        <seg>Change FMT - Listing / Delete  (並更 FMT-列表 / 刪除)：規格變更中自動列表刪除生產資料的選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15508,8 +15508,8 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       <tuv lang="EN-US">
         <seg>Common Dynamic Data: Enables the use of some unique dynamic data for all formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160437Z" creationid="Judy" creationdate="20151206T160437Z">
-        <seg>Common Dynamic Data (共用動態資料)：啟用將某些獨有的動態資料用於所有格式，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T160437Z">
+        <seg>Common Dynamic Data (共用動態資料)：啟用將某些獨有的動態資料用於所有規格，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17468,8 +17468,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Creating Format from an Original Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124910Z" creationid="Judy" creationdate="20151129T124910Z">
-        <seg>由原始的格式建立格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T124910Z">
+        <seg>由原始的規格建立規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -21602,8 +21602,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Erasing Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125156Z" creationid="Judy" creationdate="20151129T125156Z">
-        <seg>刪除格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T125156Z">
+        <seg>刪除規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -24550,6 +24550,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File Format: It is the format type that is generated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163349Z" creationid="Judy" creationdate="20151209T163112Z">
+        <seg>File Format (檔案格式)：生成之檔案類型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Open/Save from/to Cloud</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T020843Z">
@@ -25401,6 +25409,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a better understanding of this screen, its parameters are explained below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162837Z" creationid="Judy" creationdate="20151209T162837Z">
+        <seg>為了更方便了解此畫面操作，以下為其不同參數之定義：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a better understanding of this screen, its various parameters are explained below:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T154607Z" creationid="Judy" creationdate="20151208T154526Z">
@@ -25789,8 +25805,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For format changes please consult with the Aranow technical department.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034202Z" creationid="Judy" creationdate="20151205T034202Z">
-        <seg>請與 Aranow 技術部咨詢以進行格式變更，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163227Z" creationid="Judy" creationdate="20151205T034202Z">
+        <seg>請與 Aranow 技術部咨詢以進行規格變更，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26045,8 +26061,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For programming the servo control previously one work format must be selected; after you just click on “Accept” key.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152357Z" creationid="Judy" creationdate="20151129T152357Z">
-        <seg>若要設定伺服控制參數，須先選擇一個格式並點擊「Accept」按鍵。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T152357Z">
+        <seg>若要設定伺服控制參數，須先選擇一個規格並點擊「Accept」按鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26141,8 +26157,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>For the device to start the productive cycle for the first time or after any change in format, it must be ensured that the machine is suitably adjusted to the format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T080947Z" creationid="Judy" creationdate="20151205T080003Z">
-        <seg>設備首次開始生產或於任何格式更改之後，必須確保機台已依格式適當地進行調整，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163227Z" creationid="Judy" creationdate="20151205T080003Z">
+        <seg>設備首次開始生產或於任何規格更改之後，必須確保機台已依規格適當地進行調整，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26341,8 +26357,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Format Tolerance: For setting the format tolerance in absolute or relative referred to net weight.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T150714Z" creationid="Judy" creationdate="20151206T150714Z">
-        <seg>Format Tolerance (格式公差)：設定格式之絕對或相對淨重之容許公差。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T150714Z">
+        <seg>Format Tolerance (規格公差)：設定規格之絕對或相對淨重之容許公差。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29685,8 +29701,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If "Length" or "Cadence" data were modified, the checkweigher will understand that format has been disarranged (then the checkweigher will display the message "This Format will remain disadjusted").</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124723Z" creationid="Judy" creationdate="20151128T151507Z">
-        <seg>若修改「Length (長度)」或「Cadence (輸送間隔)」資料時，檢重機能偵測形式已被打亂 (然後檢重機將顯示「This Format will remain disadjusted (此格式將維持不變)」訊息)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151128T151507Z">
+        <seg>若修改「Length (長度)」或「Cadence (輸送間隔)」資料時，檢重機能偵測形式已被打亂 (然後檢重機將顯示「This Format will remain disadjusted (此規格將維持不變)」訊息)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30253,8 +30269,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If the new format is activated without having been previously set up, in the header this message is shown: " Out of production Machine - Adjust work format".</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124728Z" creationid="Judy" creationdate="20151128T151840Z">
-        <seg>若未預先設定便啟用新的形式，顯示面板中將出現：「Out of production Machine - Adjust work format (機台停止生產 - 調整工作格式)」訊息。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151128T151840Z">
+        <seg>若未預先設定便啟用新的形式，顯示面板中將出現：「Out of production Machine - Adjust work format (機台停止生產 - 調整工作規格)」訊息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30493,64 +30509,64 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves go out of production or disarrange the format, the checkweigher will show a previous warning message allowing cancel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161836Z" creationid="Judy" creationdate="20151206T161836Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T161836Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves go out of production or disarrange the format, the chwckweigher will show a previous warning message allowing cancel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155553Z" creationid="Judy" creationdate="20151208T155553Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151208T155553Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing cancel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161635Z" creationid="Judy" creationdate="20151129T133839Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T133839Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing canceling.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161620Z" creationid="Judy" creationdate="20151129T151831Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T151831Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing to cancel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161626Z" creationid="Judy" creationdate="20151129T134758Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T134758Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the checkweigher will show a previous warning message allowing to cancell the action.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T103045Z" creationid="Judy" creationdate="20151208T103045Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151208T103045Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the controller will show a previous warning message allowing cancel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161455Z" creationid="Judy" creationdate="20151129T125829Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，控制器將先顯示允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T125829Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，控制器將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If this parameter validation involves going out of production or disarranging the format, the controller will show a previous warning message allowing to cancel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161444Z" creationid="Judy" creationdate="20151204T161444Z">
-        <seg>若確認參數需要停止生產或重新讀取格式，控制器將先顯示允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151204T161444Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，控制器將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30853,8 +30869,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If you try to delete the active form, the system will show the message "Work Format can not be erased".</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125150Z" creationid="Judy" creationdate="20151129T125150Z">
-        <seg>若嘗試刪除使用中表單，系統將顯示「Work Format can not be erased (無法刪除工作格式)」訊息。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T125150Z">
+        <seg>若嘗試刪除使用中表單，系統將顯示「Work Format can not be erased (無法刪除工作規格)」訊息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30951,6 +30967,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T174400Z" creationid="Judy" creationdate="20151202T174400Z">
         <seg>若欲進行非自動歸零，必須點擊按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to modify any parameter just select the parameter and click on it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162807Z" creationid="Judy" creationdate="20151209T162807Z">
+        <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31856,8 +31880,16 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In case the validation of this parameter involves going out of production or disarranging format, the checkweigher will show a previous warning allowing to cancell the action.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084356Z" creationid="Judy" creationdate="20151208T084356Z">
-        <seg>若確認此參數需要停止生產或重新讀取格式，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151208T084356Z">
+        <seg>若確認此參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case this parameter validation involves going out of production or disarranging format, the checkweigher will show a previous warning allowing cancel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162834Z" creationid="Judy" creationdate="20151209T162834Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32769,8 +32801,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In the "Original Format" box you select the format whose data you want to copy and in the "To Format" box you select the number of the new format to be created.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124850Z" creationid="Judy" creationdate="20151129T124222Z">
-        <seg>於「Original Format (原始格式)」方塊中選擇欲複製的資料格式，於「To Format (格式化)」方塊中選擇欲建立的新格式數量。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T124222Z">
+        <seg>於「Original Format (原始規格)」方塊中選擇欲複製的資料規格，於「To Format (規格化)」方塊中選擇欲建立的新規格數量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35569,6 +35601,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be a file with txt (UTF-8), EXCEL-V (vertical) or EXCEL-H (horizontal) format (when the "Listings Output" parameter is configured as USB).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163432Z" creationid="Judy" creationdate="20151209T163145Z">
+        <seg>可為文字檔 (UTF-8)、EXCEL-V (垂直) 或 EXCEL-H (水平) 格式 (當「Listings Output (列表輸出)」參數設定為 USB 時)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be delayed on Windows XP clients when the administrator enables logon optimization for group policy, in which case you will see an entry in the event log after the first reboot, as shown below.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T101611Z">
@@ -36979,8 +37019,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It has been submitted to production tests with the format chosen by the client.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T031016Z" creationid="Judy" creationdate="20151205T031016Z">
-        <seg>並已依客戶指定選擇之格式呈交生產測試認證。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163227Z" creationid="Judy" creationdate="20151205T031016Z">
+        <seg>並已依客戶指定選擇之規格呈交生產測試認證。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37203,8 +37243,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It is common for all formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160024Z" creationid="Judy" creationdate="20151206T160024Z">
-        <seg>適用所有格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T160024Z">
+        <seg>適用所有規格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40495,8 +40535,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Make sure the product being treated is the planned format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065304Z" creationid="Judy" creationdate="20151205T065256Z">
-        <seg>確保加工之產品為設定之格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163227Z" creationid="Judy" creationdate="20151205T065256Z">
+        <seg>確保加工之產品為設定之規格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40511,8 +40551,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Make sure the right adjustments have been made on the screen for the format to be made: Number of tracks, Stick length, Speed (cycles/min.), Program, etc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081224Z" creationid="Judy" creationdate="20151205T081224Z">
-        <seg>確保畫面上已正確調整為所需的格式：軌道數、直條包裝長度、速度 (循環/分)、程式設定等。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163227Z" creationid="Judy" creationdate="20151205T081224Z">
+        <seg>確保畫面上已正確調整為所需的規格：軌道數、直條包裝長度、速度 (循環/分)、程式設定等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41094,8 +41134,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Maximum Speed: Visualization  of the maximum speed in packs per minute for all formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073539Z" creationid="Judy" creationdate="20151208T073539Z">
-        <seg>Maximum  speed (最高速度)：所有格式之包裝每分鐘最高速度。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151208T073539Z">
+        <seg>Maximum  speed (最高速度)：所有規格之包裝每分鐘最高速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41118,8 +41158,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Maximum speed: Programming the maximum speed in packs per minute for all formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053432Z" creationid="Judy" creationdate="20151208T053432Z">
-        <seg>Maximum  speed (最高速度)：所有格式運作之包裝每分鐘最高速度設定，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151208T053432Z">
+        <seg>Maximum  speed (最高速度)：所有規格運作之包裝每分鐘最高速度設定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -41662,16 +41702,16 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Minimum speed: Setting the minimum speed in packs per minute for all formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053142Z" creationid="Judy" creationdate="20151208T053039Z">
-        <seg>Minimum speed (最低速度)：所有格式運作之包裝每分鐘最低速度設定，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151208T053039Z">
+        <seg>Minimum speed (最低速度)：所有規格運作之包裝每分鐘最低速度設定，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Minimum speed: Visualization of the minimum speed in packs per minute for all formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T073432Z" creationid="Judy" creationdate="20151208T073432Z">
-        <seg>Minimum speed (最低速度)：所有格式運作之包裝每分鐘最低速度。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151208T073432Z">
+        <seg>Minimum speed (最低速度)：所有規格運作之包裝每分鐘最低速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45137,8 +45177,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Once it appears in the "Format" box the fitting format for that work, you just have to click on the key “Accept”.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133316Z" creationid="Judy" creationdate="20151129T133316Z">
-        <seg>當「Format (格式)」方塊中出現了適當的工作格式時，只需點擊「Accept (接受)」鍵。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T133316Z">
+        <seg>當「Format (規格)」方塊中出現了適當的工作規格時，只需點擊「Accept (接受)」鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45185,8 +45225,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Once the format has been chosen, the machine shows the dynamic analysis and keeps waiting for the activation of the photocell to be able of analyzing the weight.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154014Z" creationid="Judy" creationdate="20151203T154014Z">
-        <seg>一旦選定格式後，機台顯示動態分析並等待光電感應器啟動以分析重量。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151203T154014Z">
+        <seg>一旦選定規格後，機台顯示動態分析並等待光電感應器啟動以分析重量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46325,6 +46365,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T132038Z" creationid="Judy" creationdate="20151129T132038Z">
         <seg>輸出清單 (Output Listing)：不可編輯之參數 (可能的選項包括 USB、印表機、NOT)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output Listing: The type of peripheral device to be used is selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162935Z" creationid="Judy" creationdate="20151209T162935Z">
+        <seg>Output Listing (輸出列表)：選擇使用之週邊裝置類型，</seg>
       </tuv>
     </tu>
     <tu>
@@ -50394,8 +50442,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Product: Format name.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124731Z" creationid="Judy" creationdate="20151128T152010Z">
-        <seg>產品 (Product)：格式名稱。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151128T152010Z">
+        <seg>產品 (Product)：規格名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53439,8 +53487,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Retainer Speed: This parameter (non-programmable) indicates in packs/min the production of retaining band which the format has been programmed with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091818Z" creationid="Judy" creationdate="20151206T091818Z">
-        <seg>Retainer Speed (固定器速度)：此參數 (無法調整) 為固定輸送帶之生產速度，其格式已設定並以 (包裝/分) 表示。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T091818Z">
+        <seg>Retainer Speed (固定器速度)：此參數 (無法調整) 為固定輸送帶之生產速度，其規格已設定並以 (包裝/分) 表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54507,8 +54555,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>STICK FORMAT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033555Z" creationid="Judy" creationdate="20151205T031751Z">
-        <seg>直條包裝格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163227Z" creationid="Judy" creationdate="20151205T031751Z">
+        <seg>直條包裝規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -55520,8 +55568,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>See Section 1.10 Change of format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034117Z" creationid="Judy" creationdate="20151205T034117Z">
-        <seg>請見章節 1.10 《變更格式》。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163227Z" creationid="Judy" creationdate="20151205T034117Z">
+        <seg>請見章節 1.10 《變更規格》。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56249,8 +56297,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Selecting Dynamic Analysis Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T153721Z" creationid="Judy" creationdate="20151203T153721Z">
-        <seg>選擇動態分析格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151203T153721Z">
+        <seg>選擇動態分析規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -57964,8 +58012,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Speed ​​Weight:  It indicates the speed in packs per minute which this format is going to work with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053106Z" creationid="Judy" creationdate="20151129T102825Z">
-        <seg>速度秤重：該格式運作之包裝每分鐘速度。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T102825Z">
+        <seg>速度秤重：該規格運作之包裝每分鐘速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58148,8 +58196,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Standard-Regulations: It refers to the application of possible regulations (EEC-MSUR-INMETRO) to the format tolerance levels.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124735Z" creationid="Judy" creationdate="20151129T030504Z">
-        <seg>標準規範：格式容許值適用之規範 (EEC-MSUR-INMETRO)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T030504Z">
+        <seg>標準規範：規格容許值適用之規範 (EEC-MSUR-INMETRO)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60713,8 +60761,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The "Copy Format" option is selected from the dropdown menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124748Z" creationid="Judy" creationdate="20151129T124059Z">
-        <seg>「Copy Format (複製格式)」選項由下拉功能表中選擇，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T124059Z">
+        <seg>「Copy Format (複製規格)」選項由下拉功能表中選擇，</seg>
       </tuv>
     </tu>
     <tu>
@@ -63840,16 +63888,16 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The format can be selected from the list using the keys  and   or entering the number using the keyboard: in this case marking in the "Format" box the format chosen to work with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150504Z" creationid="Judy" creationdate="20151128T134152Z">
-        <seg>可以由清單中使用   和   鍵或使用鍵盤輸入號碼選擇格式：此時標記欲選擇使用的規格「Format」方塊。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151128T134152Z">
+        <seg>可以由清單中使用   和   鍵或使用鍵盤輸入號碼選擇規格：此時標記欲選擇使用的規格「Format」方塊。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The format can be selected using the keys  and.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133132Z" creationid="Judy" creationdate="20151129T133132Z">
-        <seg>可以使用   和    鍵選擇格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T133132Z">
+        <seg>可以使用   和    鍵選擇規格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64281,8 +64329,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The machine has all functions programmed to the size of the indicated format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033911Z" creationid="Judy" creationdate="20151205T033911Z">
-        <seg>機器所有功能之程式已設計為指定之格式尺寸，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163227Z" creationid="Judy" creationdate="20151205T033911Z">
+        <seg>機器所有功能之程式已設計為指定之規格尺寸，</seg>
       </tuv>
     </tu>
     <tu>
@@ -64345,8 +64393,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The machine must have several programmes pre-calculated depending on the habitual production formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034424Z" creationid="Judy" creationdate="20151205T034424Z">
-        <seg>機器必須根據常用生產格式預先計算多種程式設定。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163227Z" creationid="Judy" creationdate="20151205T034424Z">
+        <seg>機器必須根據常用生產規格預先計算多種程式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64737,8 +64785,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The new created format will keep the programmed data and the copied format settings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124759Z" creationid="Judy" creationdate="20151129T124159Z">
-        <seg>新建立的格式將保留程式化資料並複製格式設置，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T124159Z">
+        <seg>新建立的規格將保留程式化資料並複製規格設置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -66051,8 +66099,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The size of the formats is:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033750Z" creationid="Judy" creationdate="20151205T033750Z">
-        <seg>其格式尺寸為：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163227Z" creationid="Judy" creationdate="20151205T033750Z">
+        <seg>其規格尺寸為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -68085,8 +68133,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The vibrations analysis section is used to know whether the system, at the selected format speed, has many vibrations as a result of the weight band length, which is the most common, or it is due to any mechanical component (misalignment of the machine, roller, etc).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T095501Z" creationid="Judy" creationdate="20151206T095501Z">
-        <seg>振動分析部分用以了解系統於所選之格式速度中是否因為秤重輸送帶長度 (最常見) 或是任何機械元件 (機台、滾子未對位等) 而產生許多振動。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T095501Z">
+        <seg>振動分析部分用以了解系統於所選之規格速度中是否因為秤重輸送帶長度 (最常見) 或是任何機械元件 (機台、滾子未對位等) 而產生許多振動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69221,6 +69269,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can be NOT, Printer, USB, Printer + USB.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163031Z" creationid="Judy" creationdate="20151209T163031Z">
+        <seg>可選擇的選項為： NOT、Printer (列表機)、USB、Printer + USB (列表機 + USB)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can be always or frecuency ( amount of weights every amount of times.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162101Z" creationid="Judy" creationdate="20151209T162101Z">
@@ -69947,8 +70003,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This operation must be carried out every time the format is statically or dynamically maladjusted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T173536Z" creationid="Judy" creationdate="20151202T173536Z">
-        <seg>每次進行靜態或動態格式調整不良時必須進行此操作。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151202T173536Z">
+        <seg>每次進行靜態或動態規格調整不良時必須進行此操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70699,8 +70755,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Through this screen you can program general operating parameters, such as the number of lines in the Data Hub, the type of regulations which you want to work with, the batch format (numeric or alphanumeric), the margin given in % to generate a length error and if we are working with Data Hub or not.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145123Z" creationid="Judy" creationdate="20151206T145123Z">
-        <seg>透過此畫面可以設定一般操作條件，如資料中心之產線數量、使用之規範類型、批次格式 (數字或數字加字母)、長度誤差容許值 %、以及是否使用資料中心。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T145123Z">
+        <seg>透過此畫面可以設定一般操作條件，如資料中心之產線數量、使用之規範類型、批次規格 (數字或數字加字母)、長度誤差容許值 %、以及是否使用資料中心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70787,8 +70843,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Through this screen, you can create a format based on an existing format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124753Z" creationid="Judy" creationdate="20151129T124127Z">
-        <seg>此畫面中可以基於現有的格式建立格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T124127Z">
+        <seg>此畫面中可以基於現有的規格建立規格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70851,8 +70907,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Time Stamp: Informative parameter indicating when you have performed the last modification on the format (Date and time of last modification).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124744Z" creationid="Judy" creationdate="20151129T124008Z">
-        <seg>時間戳記：執行最後一次修改格式的資訊參數 (最後一次修改的日期和時間)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T124008Z">
+        <seg>時間戳記：執行最後一次修改規格的資訊參數 (最後一次修改的日期和時間)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71087,24 +71143,24 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To access the screen you select the "Change Format" option from the dropdown menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133022Z" creationid="Judy" creationdate="20151129T133022Z">
-        <seg>要進入畫面請由下拉式選單中選擇「Change Format (更改格式)」選項。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T133022Z">
+        <seg>要進入畫面請由下拉式選單中選擇「Change Format (更改規格)」選項。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>To access the screen you select the "Erase Format" option from the dropdown menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125019Z" creationid="Judy" creationdate="20151129T125019Z">
-        <seg>要進入畫面請由下拉式選單中選擇「Erase Format (刪除格式)」選項。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T125019Z">
+        <seg>要進入畫面請由下拉式選單中選擇「Erase Format (刪除規格)」選項。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>To access the screen you select the "Formats" option from the dropdown menu and click on "Reject" button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142253Z" creationid="Judy" creationdate="20151129T142253Z">
-        <seg>要進入畫面請由下拉式選單中選擇「Format (格式)」選項並點擊「Reject (退回)」按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T142253Z">
+        <seg>要進入畫面請由下拉式選單中選擇「Format (規格)」選項並點擊「Reject (退回)」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71279,8 +71335,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To carry out a dynamic analysis, first you must select a format through the next screen.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T153609Z" creationid="Judy" creationdate="20151203T153609Z">
-        <seg>進行動態分析前必須先於下一個畫面中選擇一個格式，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151203T153609Z">
+        <seg>進行動態分析前必須先於下一個畫面中選擇一個規格，</seg>
       </tuv>
     </tu>
     <tu>
@@ -71399,8 +71455,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To delete a format, you must select one from the list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125045Z" creationid="Judy" creationdate="20151129T125045Z">
-        <seg>若要刪除格式，必須自清單中選擇一個格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T125045Z">
+        <seg>若要刪除規格，必須自清單中選擇一個規格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71616,8 +71672,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To list or delete calculations it will be necessary to select a format and click on the “Accept” key of the keyboard.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125325Z" creationid="Judy" creationdate="20151129T125325Z">
-        <seg>若要列出或刪除計算則必須選擇一個格式，然後點擊鍵盤上的「Accept」按鍵。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T125325Z">
+        <seg>若要列出或刪除計算則必須選擇一個規格，然後點擊鍵盤上的「Accept」按鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71808,8 +71864,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To set the format reject parameters you must previously select a format and click on "Accept" key.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142432Z" creationid="Judy" creationdate="20151129T142432Z">
-        <seg>若要設定格式退回參數，須先選擇一個格式並點擊「Accept」按鍵。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T142432Z">
+        <seg>若要設定規格退回參數，須先選擇一個規格並點擊「Accept」按鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75540,8 +75596,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Weight Speed ​​: This (non-programmable) parameter indicates in packs/min the maximum production which the format has been programmed with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T091859Z" creationid="Judy" creationdate="20151206T091859Z">
-        <seg>Weight  Speed (秤重速度)：此參數 (無法調整) 為最大生產速度，其格式已設定並以 (包裝/分) 表示。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T091859Z">
+        <seg>Weight  Speed (秤重速度)：此參數 (無法調整) 為最大生產速度，其規格已設定並以 (包裝/分) 表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76116,8 +76172,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>When selecting a format, a message appears warning you will take the machine out of production in case you click on “Accept”.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T153713Z" creationid="Judy" creationdate="20151203T153713Z">
-        <seg>選擇格式時會顯示機台將會停止生產的警告，此時點擊「Accept (接受)」。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151203T153713Z">
+        <seg>選擇規格時會顯示機台將會停止生產的警告，此時點擊「Accept (接受)」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77545,8 +77601,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Working format: Format which the checkweigher is working with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150439Z">
-        <seg>工作規格 (Working format)：檢重機使用的格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z">
+        <seg>工作規格 (Working format)：檢重機使用的規格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78093,16 +78149,16 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You can also access from the first dropdown menu “Programming" and "Formats".</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T142340Z" creationid="Judy" creationdate="20151129T142340Z">
-        <seg>也可以由第一組下拉選單之「Programming (程式化)」和「Format (格式)」進入。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T142340Z">
+        <seg>也可以由第一組下拉選單之「Programming (程式化)」和「Format (規格)」進入。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You can also access from the first dropdown menu, “General Menu”, clicking on “Change Format”.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133053Z" creationid="Judy" creationdate="20151129T133053Z">
-        <seg>也可以由第一組下拉選單之「General Menu (一般功能表)」中，點擊「Change Format (更改格式)」按鈕進入。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T133053Z">
+        <seg>也可以由第一組下拉選單之「General Menu (一般功能表)」中，點擊「Change Format (更改規格)」按鈕進入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78349,8 +78405,8 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You have to adjust the longest format, so that all are within the ranges of it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T160546Z" creationid="Judy" creationdate="20151206T160546Z">
-        <seg>必須調整為時間最長的格式，以便包含所有範圍。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T160546Z">
+        <seg>必須調整為時間最長的規格，以便包含所有範圍。</seg>
       </tuv>
     </tu>
     <tu>
