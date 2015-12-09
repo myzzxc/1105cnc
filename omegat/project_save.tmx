@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Keeping compatibility with older checkweighers).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154838Z" creationid="Judy" creationdate="20151209T154838Z">
+        <seg>(維持與舊版檢重機的相容性)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Multi Monitor).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T133712Z">
@@ -15720,6 +15728,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063533Z">
         <seg>相容性/協作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatibility: DHUB can have three values FRX DHUB, DHUB FRX-XL or GUI-V.2-6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154738Z" creationid="Judy" creationdate="20151209T154738Z">
+        <seg>Compatibility (相容性)：DHUB 有三種數值可供設定：FRX DHUB、DHUB FRX-XL 或 GUI-V.2-6，</seg>
       </tuv>
     </tu>
     <tu>
@@ -76204,8 +76220,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>When you select any of these peripherals, some new parameters appear on the screen (ID., FMT., DATA HUB, DATA HUB PORT and LOCAL PORT) .The parameters described below depend on having Active = Yes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154335Z" creationid="Judy" creationdate="20151209T154335Z">
-        <seg>當選擇When you select any of these peripherals, some new parameters appear on the screen (ID., FMT., DATA HUB, DATA HUB PORT and LOCAL PORT) .The parameters described below depend on having Active = Yes.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154629Z" creationid="Judy" creationdate="20151209T154335Z">
+        <seg>當選擇以上任何一個裝置時，畫面將出現一些新的參數 (ID.、FMT.、DATA HUB、DATA HUB PORT 和 LOCAL PORT) 以下說明之參數為設定為 Active = Yes。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79478,6 +79494,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150406T120032Z">
         <seg>送貨以及正常補貨都將受到影響。&lt;segment 0013&gt;
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>depending on the protocols type is used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154810Z" creationid="Judy" creationdate="20151209T154810Z">
+        <seg>設定取決於使用之通訊協定類型。</seg>
       </tuv>
     </tu>
     <tu>
