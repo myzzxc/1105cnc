@@ -11820,6 +11820,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Block Datahub Data: If yes, block the access to the user to program some parameters of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161717Z" creationid="Judy" creationdate="20151209T161717Z">
+        <seg>Block Datahub Data (阻擋資料中心資料)：若設為「是」，將會阻擋使用者設定機台某些參數的權限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Block the switches.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065627Z" creationid="Judy" creationdate="20151206T065627Z">
@@ -18302,6 +18310,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023125Z">
         <seg>當資料傳遞時，資料有可能重複或已經過時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Datahub data request: (Info Only) Always on, allows Datahub to request data to checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161539Z" creationid="Judy" creationdate="20151209T161539Z">
+        <seg>Datahub data request (資料中心請求資料)：(僅限資訊) 永遠為開啟，允許資料中心向檢重機請求資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56273,16 +56289,16 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Send empty production: On yes it allows to send a shift report no matter if it’s empty.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161050Z" creationid="Judy" creationdate="20151209T161050Z">
-        <seg>Send empty production (傳送空生產)：設定為「是」時無論報告是否空白皆會傳送排程報告。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161409Z" creationid="Judy" creationdate="20151209T161050Z">
+        <seg>Send empty production (傳送空白生產報告)：設定為「是」時無論報告是否空白皆會傳送排程報告。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Send times per product: On yes, when is performed a product change, it allows to send a production shift report plus a times shift report  to the Datahub.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161358Z" creationid="Judy" creationdate="20151209T161358Z">
-        <seg>Send times per product (傳送時間生產報告)：設定為「是」時，當更換產品時將會傳送生產排程報告加上時間排程報告: On yes, when is performed a product change, it allows to send a production shift report plus a times shift report  to the Datahub.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161424Z" creationid="Judy" creationdate="20151209T161358Z">
+        <seg>Send times per product (傳送時間生產報告)：設定為「是」時，當更換產品時將會傳送生產排程報告加上時間排程報告至資料中心。</seg>
       </tuv>
     </tu>
     <tu>
