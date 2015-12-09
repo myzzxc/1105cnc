@@ -6475,8 +6475,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Active Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124434Z">
-        <seg>使用中格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150434Z">
+        <seg>使用中規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -9931,8 +9931,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Assemble auger filler and auger tube in depending of format to do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151206T032031Z">
-        <seg>螺旋填料器和螺旋管組裝取決於製造格式，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T145648Z" creationid="Judy" creationdate="20151206T032031Z">
+        <seg>螺旋填料器和螺旋管組裝取決於製造規格，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13497,8 +13497,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Change Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124417Z">
-        <seg>更改格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150423Z">
+        <seg>更改規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -13609,8 +13609,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Change the reel in accordance with the format to be manufactured.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033129Z" creationid="Judy" creationdate="20151206T033129Z">
-        <seg>依製造格式更換所需卷筒，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150400Z" creationid="Judy" creationdate="20151206T033129Z">
+        <seg>依製造規格更換所需卷筒，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13705,8 +13705,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Check that the changes made are correct according to the sachet format to be manufactured.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033647Z" creationid="Judy" creationdate="20151206T033647Z">
-        <seg>檢查所做之變更皆正確符合欲製造之直條包裝格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150410Z" creationid="Judy" creationdate="20151206T033647Z">
+        <seg>檢查所做之變更皆正確符合欲製造之直條包裝規格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16908,8 +16908,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Copy Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124426Z">
-        <seg>複製格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150431Z">
+        <seg>複製規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -20549,8 +20549,8 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Edit Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124424Z">
-        <seg>編輯格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150429Z">
+        <seg>編輯規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -21522,8 +21522,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Erase Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124429Z">
-        <seg>刪除格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150433Z">
+        <seg>刪除規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -24528,8 +24528,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Fill the hopper with product in accordance with the format change.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033555Z" creationid="Judy" creationdate="20151206T033555Z">
-        <seg>按照變更格式裝入產品至料斗中。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150407Z" creationid="Judy" creationdate="20151206T033555Z">
+        <seg>按照變更規格裝入產品至料斗中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26261,32 +26261,32 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Format not established</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031604Z" creationid="Judy" creationdate="20151206T031604Z">
-        <seg>未建立格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150402Z" creationid="Judy" creationdate="20151206T031604Z">
+        <seg>未建立規格</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Format, net, tare, are basic data for each product; user, batch and turn will be common to all tracks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124451Z" creationid="Judy" creationdate="20151128T093021Z">
-        <seg>格式、淨重、皮重為各產品之基本資訊；所有軌道之使用者、批號以及轉向將會相同。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150441Z" creationid="Judy" creationdate="20151128T093021Z">
+        <seg>規格、淨重、皮重為各產品之基本資訊；所有軌道之使用者、批號以及轉向將會相同。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Format: Set of data associated with a product and identified with a number completely defining inspection criteria.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124438Z">
-        <seg>格式 (Format)：完全以編號定義檢驗標準的產品相關資料集。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150436Z">
+        <seg>規格 (Format)：完全以編號定義檢驗標準的產品相關資料集。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Formats Programming</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124419Z">
-        <seg>格式程式化</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150425Z">
+        <seg>規格程式化</seg>
       </tuv>
     </tu>
     <tu>
@@ -33713,8 +33713,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>Indication out of production machine, adjust work format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124458Z" creationid="Judy" creationdate="20151128T093639Z">
-        <seg>機台生產停止指示，調整工作格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150444Z" creationid="Judy" creationdate="20151128T093639Z">
+        <seg>機台生產停止指示，調整工作規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -42859,8 +42859,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>New Format</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124422Z">
-        <seg>開啟新格式</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150427Z">
+        <seg>開啟新規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -52838,8 +52838,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Replace reel by format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T115553Z" creationid="Judy" creationdate="20151207T115553Z">
-        <seg>依格式更換卷筒。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150421Z" creationid="Judy" creationdate="20151207T115553Z">
+        <seg>依規格更換卷筒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56017,8 +56017,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Select the program according to the format to be manufactured and press LOAD.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034018Z" creationid="Judy" creationdate="20151206T033952Z">
-        <seg>依製造格式選擇程式並按下 LOAD (讀取)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150412Z" creationid="Judy" creationdate="20151206T033952Z">
+        <seg>依製造規格選擇程式並按下 LOAD (讀取)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60545,8 +60545,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The "Change Format" screen is used to select the work format (product) which you want to change to.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124516Z" creationid="Judy" creationdate="20151128T133836Z">
-        <seg>在「Change Format」畫面用於選擇欲變更之工作格式 (產品)，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150458Z" creationid="Judy" creationdate="20151128T133836Z">
+        <seg>在「Change Format」畫面用於選擇欲變更之工作規格 (產品)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -62424,8 +62424,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The auger filler Ø14 doesn’t need the forming tube because the auger tube does the two functions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151206T032228Z">
-        <seg>螺旋填料器 Ø14 無需成形管，因為螺旋管便具有種功能。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150343Z" creationid="Judy" creationdate="20151206T032228Z">
+        <seg>螺旋填料器 Ø14 無需成形管，因為螺旋管便具有兩種功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72281,8 +72281,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Turn the filler button ON in the WORK screen, according to the format change.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040603Z" creationid="Judy" creationdate="20151206T040603Z">
-        <seg>於「Work (工作)」畫面上根據格式變更開啟按下 FILLER (填料器) 按鈕將其開啟。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150419Z" creationid="Judy" creationdate="20151206T040603Z">
+        <seg>於「Work (工作)」畫面上根據規格變更開啟按下 FILLER (填料器) 按鈕將其開啟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73235,8 +73235,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Use special cleaning products.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055509Z" creationid="Judy" creationdate="20151205T055509Z">
-        <seg>使用特殊清潔產品，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T145006Z" creationid="Judy" creationdate="20151205T055509Z">
+        <seg>使用專用清潔產品，</seg>
       </tuv>
     </tu>
     <tu>
@@ -77345,8 +77345,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Working format: Format which the checkweigher is working with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124446Z">
-        <seg>工作格式 (Working format)：檢重機使用的格式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150439Z">
+        <seg>工作規格 (Working format)：檢重機使用的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77853,16 +77853,16 @@ Edit your video afterwards just like the pros do.</seg>
       <tuv lang="EN-US">
         <seg>You can access also from the "Program" and "Format" buttons.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124506Z" creationid="Judy" creationdate="20151128T133750Z">
-        <seg>也能藉由「Program (程式)」和「Format (格式)」按鈕進入。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150453Z" creationid="Judy" creationdate="20151128T133750Z">
+        <seg>也能藉由「Program (程式)」和「Format (規格)」按鈕進入。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You can access from the first dropdown "General Menu", clicking the "Change Format" button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T124502Z" creationid="Judy" creationdate="20151128T133701Z">
-        <seg>可以由第一組下拉選單之「General Menu (一般功能表)」中，點擊「Change Format (更改格式)」按鈕進入。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150449Z" creationid="Judy" creationdate="20151128T133701Z">
+        <seg>可以由第一組下拉選單之「General Menu (一般功能表)」中，點擊「Change Format (更改規格)」按鈕進入。</seg>
       </tuv>
     </tu>
     <tu>
