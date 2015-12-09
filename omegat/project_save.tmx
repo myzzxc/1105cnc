@@ -4954,6 +4954,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A screen appears with an options list, where we have to select the "Shifts" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164020Z" creationid="Judy" creationdate="20151209T164020Z">
+        <seg>畫面將會出現選項清單，選擇其中的「Shifts (班表)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A screen appears with an options list, where we must select the "Feedback / Range" option.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141427Z" creationid="Judy" creationdate="20151208T141427Z">
@@ -24506,6 +24514,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162621Z" creationid="Judy" creationdate="20151209T162621Z">
         <seg>圖 3.56 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.57.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163854Z" creationid="Judy" creationdate="20151209T163854Z">
+        <seg>圖 3.57 </seg>
       </tuv>
     </tu>
     <tu>
@@ -55086,6 +55102,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Config Shifts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163904Z" creationid="Judy" creationdate="20151209T163904Z">
+        <seg>設定輪班畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Configuration Feedback/Range</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T141442Z" creationid="Judy" creationdate="20151208T141442Z">
@@ -56393,8 +56417,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Send empty production: On yes it allows to send a shift report no matter if it’s empty.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161409Z" creationid="Judy" creationdate="20151209T161050Z">
-        <seg>Send empty production (傳送空白生產報告)：設定為「是」時無論報告是否空白皆會傳送排程報告。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164136Z" creationid="Judy" creationdate="20151209T161050Z">
+        <seg>Send empty production (傳送空白生產報告)：設定為「是」時無論報告是否空白皆會傳送班表報告。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56985,8 +57009,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Shift (t-dd): Displaying the work shift.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134303Z" creationid="Judy" creationdate="20151129T134303Z">
-        <seg>Shift 班表 (時-日)：顯示工作班表。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164108Z" creationid="Judy" creationdate="20151129T134303Z">
+        <seg>Shift (班表，時-日)：顯示工作班表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57001,8 +57025,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Shifts</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140840Z">
-        <seg>輪班</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164049Z">
+        <seg>班表</seg>
       </tuv>
     </tu>
     <tu>
@@ -70753,6 +70777,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen you can configure shifts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164037Z" creationid="Judy" creationdate="20151209T163936Z">
+        <seg>透過此畫面可以設定班表，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen you can configure the internal data related to listings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162704Z" creationid="Judy" creationdate="20151209T162704Z">
@@ -71241,6 +71273,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131352Z" creationid="Judy" creationdate="20151128T131348Z">
         <seg>要從一般功能表進入此畫面必須點擊「User Choices (使用者選項)」按鈕以顯示下拉式功能表，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this screen the "Configure" option is selected from the general menu and then the "Internal Data" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163949Z" creationid="Judy" creationdate="20151209T163949Z">
+        <seg>若要進入此畫面，由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
       </tuv>
     </tu>
     <tu>
