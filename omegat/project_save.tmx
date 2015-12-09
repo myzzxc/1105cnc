@@ -16291,8 +16291,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Confirm that the electric network installation which the machine will connect to is appropriate and able to support the power of the machine.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035953Z" creationid="Judy" creationdate="20151205T035953Z">
-        <seg>確認將供應至機器的電網合適且足以提供機器所需的功率。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T144935Z" creationid="Judy" creationdate="20151205T035953Z">
+        <seg>確認供應至機器之電壓符合規範且能電力能滿足機器所需的功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38456,8 +38456,8 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>LIFTING AND TRANSPORT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035710Z" creationid="Judy" creationdate="20151205T035710Z">
-        <seg>吊掛和搬運</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T144541Z" creationid="Judy" creationdate="20151205T035710Z">
+        <seg>起重和搬運</seg>
       </tuv>
     </tu>
     <tu>
