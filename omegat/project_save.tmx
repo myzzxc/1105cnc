@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(US)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T112818Z" creationid="Judy" creationdate="20151209T112818Z">
+        <seg> (美國)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(US); Brian M. Safranski, Strandquist, MN (US); Richard L. Sunsdahl,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151113T142354Z">
@@ -2457,6 +2465,14 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T102008Z">
         <seg>自行生產製品數減少 17%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>17, 2014</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T112931Z" creationid="Judy" creationdate="20151209T112922Z">
+        <seg>2014 年 4 月 17 日</seg>
       </tuv>
     </tu>
     <tu>
@@ -8899,6 +8915,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T022710Z">
         <seg>申請</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appl.No.:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T112901Z" creationid="Judy" creationdate="20151209T112901Z">
+        <seg>申請編號：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19538,6 +19562,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055354Z">
         <seg>繪圖（註解）工具，包括線段、矩形、鉛筆、橢圓、多邊形、雲狀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dresser, WI</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T112809Z" creationid="Judy" creationdate="20151209T112809Z">
+        <seg>威斯康辛州 Dresser </seg>
       </tuv>
     </tu>
     <tu>
@@ -38246,6 +38278,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kevin A. McNutt,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T112745Z" creationid="Judy" creationdate="20151209T112745Z">
+        <seg>Kevin A. McNutt，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Benefits:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T031823Z">
@@ -39861,6 +39901,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T112847Z" creationid="Judy" creationdate="20151209T112830Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MN (US); Mark A. Smith, Center City, MN (US); Curtis R. Kjaer, Roseau, MN (US); Stephen L. Nelson, Osceola, WI (US); Keith A. Hollman, Osceola, WI (US); Jeffrey M. Maher, Hugo, MN (US); Kevin A. McNutt, Osceola, WI (US); Jerome J. Rubatt, Stacy, MN (US); Adam J. Schlangen, Rush City, MN (US)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T054857Z">
@@ -41024,6 +41072,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T115741Z">
         <seg>醫學影像設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medina,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T112841Z" creationid="Judy" creationdate="20151209T112841Z">
+        <seg>明尼蘇達州 Medina</seg>
       </tuv>
     </tu>
     <tu>
@@ -72555,6 +72611,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
         <seg>US 2012/0031694 Al Feb.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T121347Z">
+        <seg>US 2012/0031694 A1 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>US 2014/0102820 Al Apr.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T112914Z" creationid="Judy" creationdate="20151209T112914Z">
         <seg>US 2012/0031694 A1 </seg>
       </tuv>
     </tu>
