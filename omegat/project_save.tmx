@@ -25425,6 +25425,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a better understanding of this screen, its different parameters and options are explained below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164214Z" creationid="Judy" creationdate="20151209T164214Z">
+        <seg>為了更方便了解此畫面操作，以下為其不同參數和選項之定義：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a better understanding of this screen, its different parameters are explained below:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T154602Z" creationid="Judy" creationdate="20151208T114734Z">
@@ -31913,6 +31921,14 @@ Hsin Chang 工業公司</seg>
         <seg>In case this parameter validation involves going out of production or disarranging format, the checkweigher will show a previous warning allowing cancel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162834Z" creationid="Judy" creationdate="20151209T162834Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case this parameter validation involves going out of production or disarranging format, the checkweigher will show a previous warning message allowing cancel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164202Z" creationid="Judy" creationdate="20151209T164202Z">
         <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
@@ -55104,8 +55120,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Screen Config Shifts</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163904Z" creationid="Judy" creationdate="20151209T163904Z">
-        <seg>設定輪班畫面</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164147Z" creationid="Judy" creationdate="20151209T163904Z">
+        <seg>設定班表畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -56425,8 +56441,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Send times per product: On yes, when is performed a product change, it allows to send a production shift report plus a times shift report  to the Datahub.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161424Z" creationid="Judy" creationdate="20151209T161358Z">
-        <seg>Send times per product (傳送時間生產報告)：設定為「是」時，當更換產品時將會傳送生產排程報告加上時間排程報告至資料中心。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164144Z" creationid="Judy" creationdate="20151209T161358Z">
+        <seg>Send times per product (傳送時間生產報告)：設定為「是」時，當更換產品時將會傳送生產班表報告加上時間班表報告至資料中心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66109,6 +66125,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T134721Z">
         <seg>擴充模組板使用數位針腳2和3作為與M10之軟體序列通訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shifts configuration screen allows setting a number of shifts in case that no Data Hub exists or it is disconnected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164411Z" creationid="Judy" creationdate="20151209T164411Z">
+        <seg>班表設定畫面中可以於沒有資料中心或資料中心斷線時設定班表總數，</seg>
       </tuv>
     </tu>
     <tu>
