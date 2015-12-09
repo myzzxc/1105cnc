@@ -23356,6 +23356,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FMT: Number of format digits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154939Z" creationid="Judy" creationdate="20151209T154920Z">
+        <seg>FMT：規格數字之位數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOB FIRST SHIPMENT  / 1ST FRANCO MILL SITE (for local Indonesia Project)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122613Z">
@@ -35525,6 +35533,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132052Z">
         <seg>它能將這些像素組合成一個群組，建立追蹤的物體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can have the values seven or eight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154955Z" creationid="Judy" creationdate="20151209T154955Z">
+        <seg>可設定為七或八位數。</seg>
       </tuv>
     </tu>
     <tu>
