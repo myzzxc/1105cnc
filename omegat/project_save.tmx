@@ -56279,6 +56279,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send Alerts: Depending on the protocol used (COMPATIBILITY) we will be able of sending alert messages to the DATA HUB.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161816Z" creationid="Judy" creationdate="20151209T161816Z">
+        <seg>Send Alerts (傳送警報)：取決與使用之傳輸協定 (相容性)，可傳送警報資料至資料中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send a PDF file to a fax machine via email</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T062523Z">
@@ -75438,6 +75446,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T081819Z">
         <seg>重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Out: ( Info Only ) If yes, send messages to datahub with individual weights.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161919Z" creationid="Judy" creationdate="20151209T161919Z">
+        <seg>Weight Out (重量輸出)：(僅限資訊 ) 若設定為「是」，將傳送個別重量訊息至資料中心，</seg>
       </tuv>
     </tu>
     <tu>
