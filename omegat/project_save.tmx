@@ -6497,6 +6497,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active: If this device is on or off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154048Z" creationid="Judy" creationdate="20151209T154043Z">
+        <seg>Active (啟用)：裝置開啟或關閉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activity log for Edge Recordings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T121314Z">
@@ -47935,6 +47943,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054506Z" creationid="Judy" creationdate="20151206T054506Z">
         <seg>檢查週期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Peripheral: A device connected via Data Hub.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154022Z" creationid="Judy" creationdate="20151209T154022Z">
+        <seg>Peripheral (週邊裝置)：透過資料中心連接之裝置。</seg>
       </tuv>
     </tu>
     <tu>
