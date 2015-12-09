@@ -4962,6 +4962,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A screen with an options list appears where you have to select the "Listings" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162726Z" creationid="Judy" creationdate="20151209T162726Z">
+        <seg>畫面將會出現選項清單，選擇其中的「Listings (列表)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A second clasp 690 is provided at the forwardmost end of the net 620 (FIG. 24) and as best shown in FIG. 26 includes an aperture 692, slot 694, apertures 696, and slots 698, 700.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T050552Z">
@@ -24482,6 +24490,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155603Z" creationid="Judy" creationdate="20151208T155603Z">
         <seg>圖 3.55 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.56.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162621Z" creationid="Judy" creationdate="20151209T162621Z">
+        <seg>圖 3.56 </seg>
       </tuv>
     </tu>
     <tu>
@@ -55030,6 +55046,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Configuration Listings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162652Z" creationid="Judy" creationdate="20151209T162652Z">
+        <seg>列表設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Configuration Outputs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084028Z" creationid="Judy" creationdate="20151208T084028Z">
@@ -70653,6 +70677,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134029Z" creationid="Judy" creationdate="20151129T134029Z">
         <seg>藉由此畫面能變更日期、時間、班表、批次、顯示語言以及公司名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can configure the internal data related to listings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162704Z" creationid="Judy" creationdate="20151209T162704Z">
+        <seg>透過此畫面可以設定列表相關的內部資料，</seg>
       </tuv>
     </tu>
     <tu>
