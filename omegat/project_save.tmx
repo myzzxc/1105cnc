@@ -10449,6 +10449,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Test Listing:  When a test is made, you can generate an automatic listing of Test if YES is programmed (for printer only) in this field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163808Z" creationid="Judy" creationdate="20151209T163808Z">
+        <seg>Auto Test Listing (自動測試列表)：當完成測試時，若此欄位設定為「YES」(僅限列表機) 則可生成測試自動列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Tracking</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092417Z">
@@ -60257,6 +60265,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z">
         <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tare Auto Listing: When changing the tare, you can generate an automatic listing of tare change, if YES is programmed (for printer only) in this field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163702Z" creationid="Judy" creationdate="20151209T163702Z">
+        <seg>Tare Auto Listing (計算箱重自動列表)：當變更箱重時，若此欄位設定為「YES」(僅限列表機) 則可生成箱重變更自動列表。</seg>
       </tuv>
     </tu>
     <tu>
