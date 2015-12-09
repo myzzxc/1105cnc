@@ -17874,6 +17874,22 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DATA HUB IP: IP address of the computer where the Data Hub is installed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T160639Z" creationid="Judy" creationdate="20151209T160639Z">
+        <seg>DATA HUB IP (資料中心 IP)：資料中心安裝之電腦 IP 位址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DATAHUB Port: Data Hub program port.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T160725Z" creationid="Judy" creationdate="20151209T160725Z">
+        <seg>DATAHUB Port (資料中心連接埠)：資料中心設定連接埠，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DATASHEET ENTERPRISE EDITION Version 7.0</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T014728Z">
