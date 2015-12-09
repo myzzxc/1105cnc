@@ -64711,6 +64711,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The options you can choose are Data Hub, DATAHUBP, DATAHUBLT, DATAHUBLTP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154338Z" creationid="Judy" creationdate="20151209T154325Z">
+        <seg>此選項中可選擇 Data Hub、DATAHUBP、DATAHUBLT、DATAHUBLTP，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The original revision of the Shield contained a full-size SD card slot; this is not supported.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022324Z">
@@ -76190,6 +76198,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T042022Z">
         <seg>當完成必要的修改並發佈包含自訂工具的套裝程式後，依照以下方式儲存修改後的設置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you select any of these peripherals, some new parameters appear on the screen (ID., FMT., DATA HUB, DATA HUB PORT and LOCAL PORT) .The parameters described below depend on having Active = Yes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154335Z" creationid="Judy" creationdate="20151209T154335Z">
+        <seg>當選擇When you select any of these peripherals, some new parameters appear on the screen (ID., FMT., DATA HUB, DATA HUB PORT and LOCAL PORT) .The parameters described below depend on having Active = Yes.</seg>
       </tuv>
     </tu>
     <tu>
