@@ -29563,6 +29563,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IP Address: Ethernet address that the checkweigher will have.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162158Z" creationid="Judy" creationdate="20151209T162158Z">
+        <seg>IP Address (IP 位址)：檢重機之乙太網路位址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IP Address: Field where the IP address of the interface is located.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155109Z" creationid="Judy" creationdate="20151208T155109Z">
@@ -42676,6 +42684,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153131Z" creationid="Judy" creationdate="20151129T153131Z">
         <seg>NEG Trend Limit (負趨勢限制)：此參數僅適用於平均重量管控啟動運作時，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NET Mask: It is the net mask to be applied.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162215Z" creationid="Judy" creationdate="20151209T162215Z">
+        <seg>Net Mask (網路遮罩)：套用之網路遮罩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69177,6 +69193,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T131357Z">
         <seg>這就需要重新確定投資方案和提供服務的操作流程，從而在社會當中更為公平地分配水資源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be always or frecuency ( amount of weights every amount of times.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162101Z" creationid="Judy" creationdate="20151209T162101Z">
+        <seg>可設定為永遠傳送或固定傳送頻率 (每多少次量測傳送多少重量資訊)。</seg>
       </tuv>
     </tu>
     <tu>
