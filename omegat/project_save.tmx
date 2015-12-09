@@ -56271,6 +56271,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send empty production: On yes it allows to send a shift report no matter if it’s empty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161050Z" creationid="Judy" creationdate="20151209T161050Z">
+        <seg>Send empty production (傳送空生產)：設定為「是」時無論報告是否空白皆會傳送排程報告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send times per product: On yes, when is performed a product change, it allows to send a production shift report plus a times shift report  to the Datahub.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161358Z" creationid="Judy" creationdate="20151209T161358Z">
+        <seg>Send times per product (傳送時間生產報告)：設定為「是」時，當更換產品時將會傳送生產排程報告加上時間排程報告: On yes, when is performed a product change, it allows to send a production shift report plus a times shift report  to the Datahub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sending information back and forth between different departments often results in wasted time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023054Z">
