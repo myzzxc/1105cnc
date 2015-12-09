@@ -45391,6 +45391,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you have configured a shift, it must be validated to keep the coherence of the scheduled shifts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164741Z" creationid="Judy" creationdate="20151209T164741Z">
+        <seg>當完成班表設定後，必須確認以保持與排定之班表的一致性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you have selected one of the above fields with the option YES, the button “Execute” appears at the bottom of the screen: you must click on to trigger the action.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T125645Z" creationid="Judy" creationdate="20151129T125645Z">
@@ -63678,6 +63686,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The final hour of each shift will be the start time of the next.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164647Z" creationid="Judy" creationdate="20151209T164638Z">
+        <seg>每班次的結束時間為下一班次的開始時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fire &amp; smoke detection algorithm works by sampling the colour, frequency and characteristics over time of the pixels in an image.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153338Z">
@@ -78319,6 +78335,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T233112Z">
         <seg>點擊螢幕左上方的 圖示可以回到首頁畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can configure up to five shifts per day and even the vhole week.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164646Z" creationid="Judy" creationdate="20151209T164601Z">
+        <seg>每天可以設定最多五個班次，最多可以設定一整週，</seg>
       </tuv>
     </tu>
     <tu>
