@@ -7041,6 +7041,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After that the following screen is shown:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021353Z" creationid="Judy" creationdate="20151210T021353Z">
+        <seg>此時將顯示以下畫面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After that this difference is added to the resulting weight to offset the natural effects of weighting a moving pack.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092659Z" creationid="Judy" creationdate="20151206T092659Z">
@@ -17506,6 +17514,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating New User</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021407Z" creationid="Judy" creationdate="20151210T021407Z">
+        <seg>新增使用者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a New Format</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150527Z" creationid="Judy" creationdate="20151128T141120Z">
@@ -24574,6 +24590,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.61.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021356Z" creationid="Judy" creationdate="20151210T021356Z">
+        <seg>圖 3.61 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.62.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021456Z" creationid="Judy" creationdate="20151210T021456Z">
+        <seg>圖 3.62 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.7.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141102Z" creationid="Judy" creationdate="20151128T141102Z">
@@ -31039,6 +31071,22 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160542Z" creationid="Judy" creationdate="20151204T160542Z">
         <seg>若欲更改動態資料以進行秤重調整或振動分析，點擊「Adjustments (調整)」鍵將顯示以下的畫面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to change the user's name and access level, you have to click on "Edit User" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021453Z" creationid="Judy" creationdate="20151210T021448Z">
+        <seg>若要更改使用者名稱和存取權限，請點擊「Edit User (編輯使用者)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to delete a user, then you have to click on the "Erase User" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021525Z" creationid="Judy" creationdate="20151210T021522Z">
+        <seg>若要刪除使用者，請點擊「Erase User (刪除使用者)」選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45335,6 +45383,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the dropdown menu is open, we select the option we want at that moment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021259Z" creationid="Judy" creationdate="20151210T021259Z">
+        <seg>當此功能表開啟後選擇所需之選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the format has been chosen, the machine shows the dynamic analysis and keeps waiting for the activation of the photocell to be able of analyzing the weight.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151203T154014Z">
@@ -55314,6 +55370,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020714Z" creationid="Judy" creationdate="20151210T020714Z">
         <seg>客戶生產設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Edit User</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021506Z" creationid="Judy" creationdate="20151210T021506Z">
+        <seg>編輯使用者畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -68587,6 +68651,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then a new menu appears with the following options: "New User", "Edit User", "Erase User", "Define Access" and "Users Configuration".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021302Z" creationid="Judy" creationdate="20151210T021233Z">
+        <seg>接著會出現一個新的功能表顯示以下選項：「New User (新增使用者)」、「Edit User (編輯使用者」、「Erase User (刪除使用者)」、「Define Access (設定權限)」以及「Users Configuration (使用者設定)」，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then select the Employee’s name as shown in the screenshot below:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T232027Z">
@@ -71753,6 +71825,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T120142Z">
         <seg>為了確保不斷提供正確的產品，模塊化計劃期間和結束之後，模塊化管理提供了產品架構生命週期管理軟體 (PALMA®)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a new user, you have to click on the "New User" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021347Z" creationid="Judy" creationdate="20151210T021347Z">
+        <seg>若要新增使用者，請點擊「New User (新增使用者)」選項，</seg>
       </tuv>
     </tu>
     <tu>
