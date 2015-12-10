@@ -59965,6 +59965,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TEST Notify - Shift Close: If this field is configured with YES option, an automatic notice occurs when closing a shift.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015600Z" creationid="Judy" creationdate="20151210T015600Z">
+        <seg>TEST Notify – Shift Close (測試通知 - 班次結束)：若此欄位設定為「YES」，當班次結束時將會自動出現通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEST Notify – Start Machine: If this field is configured with YES option, an automatic notice occurs when starting the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015521Z" creationid="Judy" creationdate="20151210T015521Z">
+        <seg>TEST Notify – Start Machine (測試通知 - 啟動機台)：若此欄位設定為「YES」，當機台啟動時將會自動出現通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE PURCHASER WILL PROVIDE ACCOMMODATION &amp; MEALS AT MILLSITE ACCORDING TO THE LOCAL STANDARDS (ONLY IF IT IS AVAILABLE IN THE MILL SITE)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141727Z">
