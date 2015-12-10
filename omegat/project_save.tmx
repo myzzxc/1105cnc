@@ -10827,6 +10827,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average Correction: It indicates the last correction made in an averaging cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151534Z" creationid="Judy" creationdate="20151210T151534Z">
+        <seg>Average Correction (平均校正)：平均循環中最後進行的校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Average Packs: Number of packs to make the average in an average cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T121510Z" creationid="Judy" creationdate="20151201T121510Z">
@@ -10855,6 +10863,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T053636Z" creationid="Judy" creationdate="20151208T053501Z">
         <seg>Average Speed Engine 2, 3, 4 (馬達平均速度 2, 3, 4，選配)：多於一組馬達時設定之平均速度，單位為公尺每分鐘，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Average Weight (p): It indicates the weight average of the ongoing production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151051Z" creationid="Judy" creationdate="20151210T151051Z">
+        <seg>Average Weight (平均重量 p)：正在生產中的平均重量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17182,6 +17198,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T145201Z" creationid="Judy" creationdate="20151208T145201Z">
         <seg>校正最少包裝將會考慮「Lower Limit (下極限)」和「Margin Bottom (邊際底線)」參數以及「Derivative Followed Packs (前一包裝推導)」參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Correction Stock: Indicates the last correction made in a stock cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151556Z" creationid="Judy" creationdate="20151210T151556Z">
+        <seg>Correction Stock (存貨校正)：存貨循環中最後進行的校正。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43553,6 +43577,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Negative correction: It indicates the last negative correction performed (on the left box); the box on the right corresponds to the maximum negative correction we can reach.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151342Z" creationid="Judy" creationdate="20151210T151342Z">
+        <seg>Negative Correction (負校正)：最後進行的負校正 (位於左側方塊)；右側方塊為可達成之最大負校正值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neither of output shaft 138 of power source 130 nor input shaft 142 of CVT unit 140 pass through spacer 484.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T050619Z">
@@ -44850,6 +44882,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035354Z">
         <seg>訂單數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of stops: It is a counter indicating the times the checkweigher has stopped its production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T150409Z" creationid="Judy" creationdate="20151210T150409Z">
+        <seg>Number of stops (停止數)：檢重機停止生產次數之計數器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48139,10 +48179,26 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Packs average: The partial counter is displayed and in the adjacent box the programmed number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151214Z" creationid="Judy" creationdate="20151210T150628Z">
+        <seg>Packs average (包裝平均)：顯示相鄰方塊中設定數量之部分計數器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packs for Offset: Number of packs that combined with the average weight of production will give  a partial correction to be added to the correction to be applied after averaging cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152028Z" creationid="Judy" creationdate="20151208T152028Z">
         <seg>Packs for Offset (補償包裝)：計算生產平均重量使用之包裝數量，可計算部分校正值，用以加上平均循環之後套用之校正值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packs stock: The partial counter is displayed and in the adjacent box the programmed number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151201Z" creationid="Judy" creationdate="20151210T150700Z">
+        <seg>Packs stock (包裝平均)：顯示相鄰方塊中設定數量之部分計數器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49832,6 +49888,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143331Z" creationid="Judy" creationdate="20151201T123220Z">
         <seg>Positive Correction Factor (正校正係數)：此參數控制發送至注料機的信號時間以校正產品過輕，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Positive Correction: It indicates the last positive correction performed (on the left box); the box on the right corresponds to the maximum positive correction we can reach.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151306Z" creationid="Judy" creationdate="20151210T151144Z">
+        <seg>Positive Correction (正校正)：最後進行的正校正 (位於左側方塊)；右側方塊為可達成之最大正校正值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57735,6 +57799,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Servo average: Indicates the average of the last average made by the servo.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T150820Z" creationid="Judy" creationdate="20151210T150820Z">
+        <seg>Servo average (伺服平均)：伺服所最後執行的平均數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Servo-motor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023114Z" creationid="Judy" creationdate="20151205T023114Z">
@@ -61361,6 +61433,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081511Z">
         <seg>目標市場：SOHO 族、專業人士、小型公司、大型企業、醫療合法律單位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target Weight: Indicates the theoretical target wanted to be achieved in production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151011Z" creationid="Judy" creationdate="20151210T151011Z">
+        <seg>Target Weight (目標重量)：生產中欲達到的理論目標值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69555,6 +69635,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Theoretical Correction: It indicates the theoretical calculated correction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151455Z" creationid="Judy" creationdate="20151210T151455Z">
+        <seg>Theoretical Correction (理論校正)：校正計算理論值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There also remain major uncertainties about the amount of water required to meet the demand for food, energy and other human uses, and to sustain ecosystems.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T085557Z">
@@ -73851,6 +73939,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T150328Z" creationid="Judy" creationdate="20151210T150328Z">
         <seg>Trend Limit (趨勢極限)：請見第 3.4.6 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trend: Indicates the trend calculation which has been performed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T150916Z" creationid="Judy" creationdate="20151210T150916Z">
+        <seg>Trend (趨勢)：執行之計算之趨勢。</seg>
       </tuv>
     </tu>
     <tu>
