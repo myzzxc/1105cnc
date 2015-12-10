@@ -16265,6 +16265,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Config - Functions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T122228Z" creationid="Judy" creationdate="20151210T122228Z">
+        <seg>設定 - 功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configurability</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031800Z">
@@ -24682,6 +24690,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141102Z" creationid="Judy" creationdate="20151128T141102Z">
         <seg>圖 3.7 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.70.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T122218Z" creationid="Judy" creationdate="20151210T122218Z">
+        <seg>圖 3.70 </seg>
       </tuv>
     </tu>
     <tu>
@@ -71329,6 +71345,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen you can modify the license registration to have access to some specific functions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T122203Z" creationid="Judy" creationdate="20151210T122203Z">
+        <seg>透過此畫面可以修改註冊授權以取得特定功能的使用權限，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen you can modify the weight display parameter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134732Z" creationid="Judy" creationdate="20151129T134732Z">
@@ -71681,6 +71705,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T125800Z">
         <seg>總體而言：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the "Functions" section, you select the "Configuration" option from the general menu and then the "Functions" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T122216Z" creationid="Judy" creationdate="20151210T122216Z">
+        <seg>若要進入此畫面，由主畫面選擇「Configure (設置)」後選擇「Functions (功能)」選項。</seg>
       </tuv>
     </tu>
     <tu>
