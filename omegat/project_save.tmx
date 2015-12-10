@@ -24662,6 +24662,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.68.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121141Z" creationid="Judy" creationdate="20151210T121141Z">
+        <seg>圖 3.68 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.69.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121338Z" creationid="Judy" creationdate="20151210T121338Z">
+        <seg>圖 3.69 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.7.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141102Z" creationid="Judy" creationdate="20151128T141102Z">
@@ -26819,10 +26835,26 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the general menu you select the "Configuration" option and then the "Backups/Reset" option, where appears a new dropdown menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121254Z" creationid="Judy" creationdate="20151210T121222Z">
+        <seg>於一般功能表中選擇「Configure (設定)」選項後再選擇「Backups/Reset (備份/還原) 」，接著選擇「Backups/Reset (備份/重置)」選項以顯示新下拉式選單，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the general menu you select the "Configure" option and then the "Backups/Reset", where is shown a new dropdown menu with the following options: "Backup", "Restore", "Reset", "Reset PCI", "Desktop", "Delete CAD/LEN/OFL", "Disconnect USB", “Erase Alarms".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120735Z" creationid="Judy" creationdate="20151210T120413Z">
         <seg>於一般功能表中選擇「Configure (設定)」選項後再選擇「Backups/Reset (備份/還原) 」，接著會顯示下拉式選單，選單中有下列選項：「Backup (備份)」、「Restore (還原)」、「Reset (重置)」、「Reset PCI (重置 PCI)」、「Desktop (桌面)」、「Delete CAD/LEN/OFL (刪除 CAD/LEN/OFL)」、「Disconnect USB (退出 USB)」、「Erase Alarms (消除警報)」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the general menu, the "Configuration" option is selected and then the "Backups/Reset" option, where appears a new dropdown menu and there you choose the "Restore" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121136Z" creationid="Judy" creationdate="20151210T121136Z">
+        <seg>於一般功能表中選擇「Configure (設定)」選項後再選擇「Backups/Reset (備份/還原) 」，接著於顯示之下拉式選單中選擇「Restore (還原)」選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55374,6 +55406,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Config - Backup/Reset-Reset</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121356Z" creationid="Judy" creationdate="20151210T121356Z">
+        <seg>備份/重置-重置設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Config Backup/Reset</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120918Z" creationid="Judy" creationdate="20151210T120918Z">
@@ -55394,6 +55434,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164147Z" creationid="Judy" creationdate="20151209T163904Z">
         <seg>設定班表畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Config-Restore</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121411Z" creationid="Judy" creationdate="20151210T121150Z">
+        <seg>設定-還原畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -68991,6 +69039,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131856Z">
         <seg>市場上只有兩個產品能提供我們所需的所有功能 —— Adobe 和 Nuance……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There you choose the "Reset" option to load the checkweigher parameters by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121336Z" creationid="Judy" creationdate="20151210T121226Z">
+        <seg>於選單中選擇「Reset (重置)」選項以載入檢重機預設參數。</seg>
       </tuv>
     </tu>
     <tu>
