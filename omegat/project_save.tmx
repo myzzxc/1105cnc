@@ -45303,6 +45303,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the programmed time is over, if the weight test is not made, then every two minutes a reminder will appear on the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020040Z" creationid="Judy" creationdate="20151210T015940Z">
+        <seg>當設定時間結束時，若未進行秤重測試，則每隔兩分鐘將出現提醒畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the trucks have been loaded, the data log must be started so that a record is kept of the environmental conditions throughout the journey.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051845Z">
@@ -75780,8 +75788,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Weight Test - Notify: If this field is configured with YES option, an automatic warning occurs at the end of the programmed time, which will be not less than thirty minutes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015916Z" creationid="Judy" creationdate="20151210T015916Z">
-        <seg>Weight Test - Notify (秤重測試 - 通知)：若此欄位設定為「YES」，當設定之時間 (大於三十分鐘) 結束時將會自動出現通知，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015942Z" creationid="Judy" creationdate="20151210T015916Z">
+        <seg>Weight Test - Notify (秤重測試 - 通知)：若此欄位設定為「YES」，當設定之時間 (大於三十分鐘) 結束時將會自動出現通知。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75798,6 +75806,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015759Z" creationid="Judy" creationdate="20151210T015759Z">
         <seg>Weight Test Mode (秤重測試模式)：選擇欲執行之秤種模式，總重或淨重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Test- Frequency: If the precedent option is programmed as YES, will be shown this field where the warning time for the weight tests is programmed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020225Z" creationid="Judy" creationdate="20151210T020225Z">
+        <seg>Weight Test- Frequency (秤重測試 - 頻率)：若設定為「YES」時，此欄位將顯示秤重測試設定之警示時間。</seg>
       </tuv>
     </tu>
     <tu>
