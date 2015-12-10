@@ -19224,8 +19224,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Disconnect USB</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141100Z">
-        <seg>切斷 USB 連接</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121833Z">
+        <seg>退出 USB 裝置</seg>
       </tuv>
     </tu>
     <tu>
@@ -35721,6 +35721,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows you in a sure way the disconnexion of the USB units or pendrives.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121922Z" creationid="Judy" creationdate="20151210T121922Z">
+        <seg>此選項能以安全的方式退出 USB 裝置或隨身碟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows you to easily trace product and design decisions back to strategy to ensure a lasting product foundation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T141035Z">
@@ -38069,6 +38077,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T151817Z">
         <seg>提供現場和局部音訊監控，操作人員可以選擇同時接收所需音訊的一台攝影機或攝影機群組，使用麥克風和揚聲器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It puts to 0 all the system alarms having an output of its own.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T122109Z" creationid="Judy" creationdate="20151210T122109Z">
+        <seg>將所有自身具有輸出之系統警報值設定為 0。</seg>
       </tuv>
     </tu>
     <tu>
