@@ -29202,6 +29202,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Histograms: It is also possible that data are displayed as a histogram: Histogram of the last weights, of the average weight (see Figure 3.74.) and of the servo correction and its cycles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131605Z" creationid="Judy" creationdate="20151210T131605Z">
+        <seg>折線圖：資料也能以折線圖顯示：平均重量 (請見圖 3.74) 和伺服校正以及其循環之最新重量折線圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Holder 370 bounds a side of a channel 382 formed by holder 370 and shield 380.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143000Z">
