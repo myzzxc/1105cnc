@@ -12654,6 +12654,30 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C(+1): It indicates the correct units number but with overweight between the tolerances (T+2) and (T+1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134744Z" creationid="Judy" creationdate="20151210T134547Z">
+        <seg>C(+1)：超重介於容許公差 (T + 2) 和 (T + 1) 之間的正確產品數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C(-1): It indicates the number of lightweight correct units between the tolerances (T-1) and (T-2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134741Z" creationid="Judy" creationdate="20151210T134701Z">
+        <seg>C(-1)：重量不足介於容許公差 (T - 1) 和 (T - 2) 之間的正確產品數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C(&gt;&lt;):It indicates the number of correct units between the tolerances (T+1) and (T-1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134737Z" creationid="Judy" creationdate="20151210T134737Z">
+        <seg>C(&gt;&lt;)：介於容許公差 (T + 1) 和 (T - 1) 之間的正確產品數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CALL: 855.374.4772</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133007Z">
@@ -51621,8 +51645,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>R(+2): It indicates the number of rejected units between tolerances (T+2) and (T+3).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134359Z" creationid="Judy" creationdate="20151210T134359Z">
-        <seg>R(+2)：介於容許公差 (T + 2) 和 (T + 3) 所退回之數量。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134438Z" creationid="Judy" creationdate="20151210T134359Z">
+        <seg>R(+2)：介於容許公差 (T + 2) 和 (T + 3) 之間所退回之數量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51635,10 +51659,18 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>R(-1): It indicates the number of rejected units between tolerances (T-1) and (T-2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134430Z" creationid="Judy" creationdate="20151210T134430Z">
+        <seg>R(-1)：介於容許公差 (T - 1) 和 (T - 2) 之間所退回之數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>R(-2): It indicates the number of rejected units between tolerances (T-2) and (T-3).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134411Z" creationid="Judy" creationdate="20151210T134411Z">
-        <seg>R(-2)：介於容許公差 (T - 2) 和 (T - 3) 所退回之數量。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134434Z" creationid="Judy" creationdate="20151210T134411Z">
+        <seg>R(-2)：介於容許公差 (T - 2) 和 (T - 3) 之間所退回之數量。</seg>
       </tuv>
     </tu>
     <tu>
