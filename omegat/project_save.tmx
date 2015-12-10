@@ -24806,10 +24806,34 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.79.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130802Z" creationid="Judy" creationdate="20151210T130802Z">
+        <seg>圖 3.79 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.8.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141948Z" creationid="Judy" creationdate="20151128T141948Z">
         <seg>圖 3.8 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.80.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130919Z" creationid="Judy" creationdate="20151210T130907Z">
+        <seg>圖 3.80 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.81.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131022Z" creationid="Judy" creationdate="20151210T131022Z">
+        <seg>圖 3.81 </seg>
       </tuv>
     </tu>
     <tu>
@@ -51024,6 +51048,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Production Submenu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131035Z" creationid="Judy" creationdate="20151210T131035Z">
+        <seg>生產子功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Production and Supply Chain Strategy</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123929Z">
@@ -55862,6 +55894,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen containing the information of the net configuration for the checkweigher PC panel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130741Z" creationid="Judy" creationdate="20151210T130741Z">
+        <seg>此畫面包含檢重機 PC 面板的網路設定資訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen containing the information related to Regulations of Weight being in use for the tolerances calculation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130903Z" creationid="Judy" creationdate="20151210T130903Z">
+        <seg>此畫面包含容許值計算所使用之相關秤重規則的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen images and print samples on this catalogue are simulated unless otherwise specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T051351Z">
@@ -55874,6 +55922,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T114659Z" creationid="Judy" creationdate="20151208T114654Z">
         <seg>退回/週邊 DM 裝置設定畫面範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen that makes a backup and a report in a pdf format about the current state of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131019Z" creationid="Judy" creationdate="20151210T131019Z">
+        <seg>進行備份和生成關於機器的目前狀態的 pdf 格式報告之畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72033,6 +72089,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123148Z" creationid="Judy" creationdate="20151210T123148Z">
         <seg>若要進入此畫面，由主畫面選擇「Configure (設置)」後選擇「Production Data (生產資料)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the Functions section you choose the "Information" option from the main menu and then the "Net Information" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130759Z" creationid="Judy" creationdate="20151210T130759Z">
+        <seg>若要進入此「Functions (功能)」畫面，由主畫面選擇「Information (資訊)」後選擇「Net Information (網路資訊)」選項。</seg>
       </tuv>
     </tu>
     <tu>
