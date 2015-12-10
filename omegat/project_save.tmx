@@ -31660,6 +31660,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image 73</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151813Z" creationid="Judy" creationdate="20151210T151813Z">
+        <seg>圖 73</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immediately upon receipt and before removing the heat exchanger from the carrier vehicle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T131324Z">
@@ -48811,6 +48819,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pending Compacted Packs: It indicates the pending compacted packs in a compaction cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151810Z" creationid="Judy" creationdate="20151210T151810Z">
+        <seg>Pending Compacted Packs (處理壓制包裝)：壓制循環中之處理壓制包裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>People</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T092318Z">
@@ -52223,6 +52239,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141824Z">
         <seg>範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range (Optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151819Z" creationid="Judy" creationdate="20151210T151819Z">
+        <seg>範圍 (選配)</seg>
       </tuv>
     </tu>
     <tu>
