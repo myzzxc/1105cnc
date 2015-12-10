@@ -24190,6 +24190,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 78</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140750Z" creationid="Judy" creationdate="20151210T140750Z">
+        <seg>圖 78</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figura  3.43.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T113926Z" creationid="Judy" creationdate="20151208T113926Z">
@@ -24610,6 +24618,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T102910Z" creationid="Judy" creationdate="20151208T102910Z">
         <seg>圖 3.42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.45.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140951Z" creationid="Judy" creationdate="20151210T140951Z">
+        <seg>圖 3.45 </seg>
       </tuv>
     </tu>
     <tu>
@@ -31467,6 +31483,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to change any value, this has to be performed from the Servo/Range section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140924Z" creationid="Judy" creationdate="20151210T140901Z">
+        <seg>若想更改任何參數，必須於「Servo/Range (伺服/範圍)」畫面中進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to change the dynamic data, carry out a weight adjustment or vibrations analysis, click on “Adjustments” key and it will be shown the screen below:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160542Z" creationid="Judy" creationdate="20151204T160542Z">
@@ -31527,6 +31551,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T023214Z">
         <seg>若欲使用共用的產品設定，於開始匯入前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you wish to associate it to one of the eight available concepts, you must simply click on the chosen item.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140616Z" creationid="Judy" creationdate="20151210T140616Z">
+        <seg>若希望分配至八個可用參數之一，必須點擊欲分配之項目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56070,6 +56102,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Production Servo</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140957Z" creationid="Judy" creationdate="20151210T140957Z">
+        <seg>生產伺服畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Programming General Data</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133942Z" creationid="Judy" creationdate="20151129T133855Z">
@@ -57651,6 +57691,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141822Z">
         <seg>伺服 (Pid)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servo (Pid) (Optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140749Z" creationid="Judy" creationdate="20151210T140749Z">
+        <seg>伺服 (Pid) (選配)</seg>
       </tuv>
     </tu>
     <tu>
@@ -66023,6 +66071,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The parameters description shown in this screen is explained in the same section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T141015Z" creationid="Judy" creationdate="20151210T140923Z">
+        <seg>此畫面中顯示之參數說明收錄於同一節之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The participation of one or several HUTCHINSON representatives in this operation, however, does not impact its right to later refuse all or part of a delivery that includes non-compliant products.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T135239Z">
@@ -67461,6 +67517,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T125320Z">
         <seg>瀏覽器監控系統允許使用者透過先前建立之馬賽克分割畫面查看所有攝影機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system also allows to identify concepts in the Production Scheduling section (as mentioned above), in the Edit Concepts option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140739Z" creationid="Judy" creationdate="20151210T140739Z">
+        <seg>系統也能在生產排程畫面中 (如前文所述) 編輯參數的選項中輸入參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71517,6 +71581,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140027Z" creationid="Judy" creationdate="20151210T140027Z">
         <seg>此畫面顯示產線停機和生產時間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen displays the servo data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140802Z" creationid="Judy" creationdate="20151210T140802Z">
+        <seg>此畫面顯示伺服資料，</seg>
       </tuv>
     </tu>
     <tu>
