@@ -16273,6 +16273,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Config - Licenses</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123125Z" creationid="Judy" creationdate="20151210T123125Z">
+        <seg>設定 - 授權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configurability</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T031800Z">
@@ -20470,6 +20478,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104722Z" creationid="Judy" creationdate="20151206T101157Z">
         <seg>每個輸入方塊中包含輸入本身的說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each license involves a functionalities pack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123029Z" creationid="Judy" creationdate="20151210T123029Z">
+        <seg>每組授權中包含一組功能包，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24698,6 +24714,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T122218Z" creationid="Judy" creationdate="20151210T122218Z">
         <seg>圖 3.70 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.71.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123119Z" creationid="Judy" creationdate="20151210T123119Z">
+        <seg>圖 3.23 </seg>
       </tuv>
     </tu>
     <tu>
@@ -31227,6 +31251,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to modify any parameter just select the parameter and then click on it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123151Z" creationid="Judy" creationdate="20151210T123151Z">
+        <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to modify the users’ configuration you have to click the option "Users Config".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022110Z" creationid="Judy" creationdate="20151210T022110Z">
@@ -32153,6 +32185,14 @@ Hsin Chang 工業公司</seg>
         <seg>In case this parameter validation involves going out of production or disarranging format, the checkweigher will show a previous warning message allowing cancel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164202Z" creationid="Judy" creationdate="20151209T164202Z">
+        <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case this parameter validation should involve go out of production or disarrange the format, the checkweigher will show a previous warning message allowing cancel the action.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123202Z" creationid="Judy" creationdate="20151210T123202Z">
         <seg>若確認參數需要停止生產或重新讀取規格，檢重機將先顯示允許取消操作之警示畫面。</seg>
       </tuv>
     </tu>
@@ -71345,6 +71385,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen you can modify the different licenses of the equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T122957Z" creationid="Judy" creationdate="20151210T122957Z">
+        <seg>透過此畫面可以修改設備之不同授權，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen you can modify the license registration to have access to some specific functions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T122203Z" creationid="Judy" creationdate="20151210T122203Z">
@@ -71717,6 +71765,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the "Production Data" section, you select the "Configuration" option from the general menu and then the "Production Data" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123148Z" creationid="Judy" creationdate="20151210T123148Z">
+        <seg>若要進入此畫面，由主畫面選擇「Configure (設置)」後選擇「Production Data (生產資料)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the screen "Verify" is selected from the main menu, then you select "Verify Inputs".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100613Z" creationid="Judy" creationdate="20151206T100613Z">
@@ -71953,6 +72009,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T155232Z" creationid="Judy" creationdate="20151201T155232Z">
         <seg>要進入畫面請由第一下拉式選單中選擇「Times (計時器)」選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To activate a license you must contact the technical support department of "VARPE Control de Peso S.A."</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123115Z" creationid="Judy" creationdate="20151210T123115Z">
+        <seg>若要啟動授權必須聯繫「VARPE Control de Peso S.A.」之技術支援部門。</seg>
       </tuv>
     </tu>
     <tu>
