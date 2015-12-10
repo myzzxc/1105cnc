@@ -8277,6 +8277,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, pressing the matching button, the stop concept can be changed to counting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140145Z" creationid="Judy" creationdate="20151210T140145Z">
+        <seg>此外，按下相應之按鈕，停止參數可以更改為計數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternative Extraction Units:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T091843Z">
@@ -24914,6 +24922,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135637Z" creationid="Judy" creationdate="20151210T135637Z">
         <seg>圖 3.86 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.87.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140148Z" creationid="Judy" creationdate="20151210T140148Z">
+        <seg>圖 3.87 </seg>
       </tuv>
     </tu>
     <tu>
@@ -56062,6 +56078,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Times Control</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140158Z" creationid="Judy" creationdate="20151210T140158Z">
+        <seg>時間控制畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Verification Marks</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124722Z" creationid="Judy" creationdate="20151210T124722Z">
@@ -71401,6 +71425,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen allows recording the time the machine has been stopped.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135916Z" creationid="Judy" creationdate="20151210T135916Z">
+        <seg>此畫面可以記錄機台停機時間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This screen allows the user to program the basic parameters for times control.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T155313Z" creationid="Judy" creationdate="20151201T155313Z">
@@ -71469,6 +71501,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135419Z" creationid="Judy" creationdate="20151210T135419Z">
         <seg>此畫面顯示的生產資料已於「Configure-&gt; Internal Data&gt; Customer Production (設定-&gt;內部資料 &gt; 客戶生產)」中設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen displays the downtime and the production time of the line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140027Z" creationid="Judy" creationdate="20151210T140027Z">
+        <seg>此畫面顯示產線停機和生產時間，</seg>
       </tuv>
     </tu>
     <tu>
@@ -73234,6 +73274,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T142432Z">
         <seg>若要設定規格退回參數，須先選擇一個規格並點擊「Accept」按鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To set this up go to Times (Optional).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135951Z" creationid="Judy" creationdate="20151210T135951Z">
+        <seg>若要進行設定，請點選「Times (計時器，選配)」。</seg>
       </tuv>
     </tu>
     <tu>
