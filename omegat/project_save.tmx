@@ -11332,6 +11332,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch Control</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135651Z" creationid="Judy" creationdate="20151210T135651Z">
+        <seg>批次管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Conversion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070953Z">
@@ -17724,7 +17732,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Customer (Optional)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135154Z" creationid="Judy" creationdate="20151210T135154Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135841Z" creationid="Judy" creationdate="20151210T135154Z">
         <seg>客戶 (選配)</seg>
       </tuv>
     </tu>
@@ -17740,8 +17748,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Customer Batch Control (optional)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141814Z">
-        <seg>客戶批次控制 (可選)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135835Z">
+        <seg>客戶批次管控 (選配)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17780,7 +17788,7 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Customer Summary (optional)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135428Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135838Z">
         <seg>客戶總結 (選配)</seg>
       </tuv>
     </tu>
@@ -24898,6 +24906,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135255Z" creationid="Judy" creationdate="20151210T135255Z">
         <seg>圖 3.84 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.86.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135637Z" creationid="Judy" creationdate="20151210T135637Z">
+        <seg>圖 3.86 </seg>
       </tuv>
     </tu>
     <tu>
@@ -36181,6 +36197,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141613Z">
         <seg>可於 Microsoft 網站下載：http://www.microsoft.com/en-us/download/details.aspx?id=17851 或使用 Power PDF 安裝媒體中 Prerequisites 資料夾內的程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be filtered by the Summary key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135602Z" creationid="Judy" creationdate="20151210T135602Z">
+        <seg>可使用 Summary (總結) 按鍵進行篩選。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64178,6 +64202,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092822Z">
         <seg>電流需求大部分視主軸大小與數目而定：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The customer Batch Control screen shows the statistical control made every hour on a sample of a given product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135812Z" creationid="Judy" creationdate="20151210T135812Z">
+        <seg>客戶批次管控畫面中顯示指定產品的樣品每小時所進行之統計管控資料。</seg>
       </tuv>
     </tu>
     <tu>
