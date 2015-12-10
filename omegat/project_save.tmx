@@ -4970,6 +4970,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A screen is shown with an options list, where you have to choose the "Customer" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020656Z" creationid="Judy" creationdate="20151210T020656Z">
+        <seg>畫面將會出現選項清單，選擇其中的「Customer (客戶)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A screen with an options list appears where you have to select the "Listings" option.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162726Z" creationid="Judy" creationdate="20151209T162726Z">
@@ -24538,6 +24546,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015149Z" creationid="Judy" creationdate="20151210T015149Z">
         <seg>圖 3.58 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.59.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020658Z" creationid="Judy" creationdate="20151210T020658Z">
+        <seg>圖 3.59 </seg>
       </tuv>
     </tu>
     <tu>
@@ -55278,6 +55294,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Configure Customer Production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020714Z" creationid="Judy" creationdate="20151210T020714Z">
+        <seg>客戶生產設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen General- Configuration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144727Z" creationid="Judy" creationdate="20151206T144727Z">
@@ -70937,6 +70961,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen you can configure the different production fields, which afterwards will be shown on the "Customer Production" screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020629Z" creationid="Judy" creationdate="20151210T020629Z">
+        <seg>透過此畫面可以設定不同生產欄位，設定值會顯示於「Customer Production (客戶生產)」畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen you can configure the internal data related to listings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162704Z" creationid="Judy" creationdate="20151209T162704Z">
@@ -71456,6 +71488,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
         <seg>To access this screen the "Configure" option is selected from the main menu and then the "Internal Data" option.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152338Z" creationid="Judy" creationdate="20151206T161752Z">
+        <seg>若要進入此畫面，由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this screen you select the "Configure" option from the general menu and after that the "Internal Data" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020647Z" creationid="Judy" creationdate="20151210T020647Z">
         <seg>若要進入此畫面，由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
       </tuv>
     </tu>
