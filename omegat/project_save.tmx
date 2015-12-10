@@ -40061,6 +40061,22 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MD Test - Notify: If this field is configured with YES option, an automatic warning occurs at the end of the programmed time, which will be not less than thirty minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020317Z" creationid="Judy" creationdate="20151210T020317Z">
+        <seg>MD Test - Notify (金屬探測器測試 - 通知)：若此欄位設定為「YES」，當設定之時間 (大於三十分鐘) 結束時將會自動出現通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MD Test- Frequency: If the precedent option is programmed as YES, will be shown this field where the warning time for the MD tests is programmed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020354Z" creationid="Judy" creationdate="20151210T020354Z">
+        <seg>MD Test- Frequency (金屬探測器測試 - 頻率)：若設定為「YES」時，此欄位將顯示金屬探測器測試設定之警示時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MD: Input indicating metals detector has detected a contaminant.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084835Z" creationid="Judy" creationdate="20151208T084745Z">
@@ -45299,6 +45315,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082209Z" creationid="Judy" creationdate="20151205T082119Z">
         <seg>當機台製造之直條包裝長度符合以上所述，按下停止按鈕停止機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the programmed time is over, if the MD test is not made, then every two minutes a reminder will appear on the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020326Z" creationid="Judy" creationdate="20151210T020326Z">
+        <seg>當設定時間結束時，若未進行金屬探測器測試，則每隔兩分鐘將出現提醒畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the programmed time is over, if the tare test is not made, then every two minutes a reminder will appear on the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020426Z" creationid="Judy" creationdate="20151210T020426Z">
+        <seg>當設定時間結束時，若未進行箱重測試，則每隔兩分鐘將出現提醒畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60397,10 +60429,26 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tare Test - Notify: If this field is configured with YES option, an automatic warning occurs at the end of the programmed time, which will be not less than thirty minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020415Z" creationid="Judy" creationdate="20151210T020415Z">
+        <seg>Tare Test - Notify (箱重測試 - 通知)：若此欄位設定為「YES」，當設定之時間 (大於三十分鐘) 結束時將會自動出現通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tare Test Limit: Is the tare % that can be modified with the Tare Test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152256Z" creationid="Judy" creationdate="20151128T152221Z">
         <seg>容器重測試限制 (Tare Test Limit)：容器重測試可修改之容器重 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tare Test – Frequency:  If the precedent option is programmed as YES, will be shown this field where the warning time for the tare tests is programmed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020445Z" creationid="Judy" creationdate="20151210T020445Z">
+        <seg>Tare Test – Frequency (箱重測試 - 頻率)：若設定為「YES」時，此欄位將顯示箱重測試設定之警示時間。</seg>
       </tuv>
     </tu>
     <tu>
