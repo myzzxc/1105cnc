@@ -24566,6 +24566,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.60.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020933Z" creationid="Judy" creationdate="20151210T020933Z">
+        <seg>圖 3.60 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.7.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141102Z" creationid="Judy" creationdate="20151128T141102Z">
@@ -41416,6 +41424,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152046Z" creationid="Judy" creationdate="20151129T152046Z">
         <seg>報警遮罩 2 選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu Configuration Users</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020945Z" creationid="Judy" creationdate="20151210T020945Z">
+        <seg>使用者設定畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -70985,6 +71001,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen you can create, edit and delete users and define each one access.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021012Z" creationid="Judy" creationdate="20151210T021012Z">
+        <seg>透過此畫面可以建立、修改和刪除使用者資料，以及設定各使用者之存取權限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can create, modify and delete access users, as well as configure the access for each one of them:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020929Z" creationid="Judy" creationdate="20151210T020929Z">
+        <seg>透過此畫面可以建立、修改和刪除使用者資料，以及設定各使用者之存取權限：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen you can modify the weight display parameter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134732Z" creationid="Judy" creationdate="20151129T134732Z">
@@ -71441,6 +71473,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T145052Z" creationid="Judy" creationdate="20151201T145052Z">
         <seg>要進入該畫面請由第一「Programming (程式化)」下拉式選單中選擇「Partials (分段)」選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the users’ configuration menu you select the "Configure" option from the main menu and then "Users" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021033Z" creationid="Judy" creationdate="20151210T021033Z">
+        <seg>若要進入此畫面，由主畫面選擇「Configure (設置)」後選擇「Users (使用者)」選項。</seg>
       </tuv>
     </tu>
     <tu>
