@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26783,6 +26783,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T154057Z">
         <seg>於套裝程式儲存之資料夾中使用記事本開啓 PowerPDF_DeploymentConfig.xml 並進行編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the general menu you select the "Configure" option and then the "Backups/Reset", where is shown a new dropdown menu with the following options: "Backup", "Restore", "Reset", "Reset PCI", "Desktop", "Delete CAD/LEN/OFL", "Disconnect USB", “Erase Alarms".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120413Z" creationid="Judy" creationdate="20151210T120413Z">
+        <seg>於一般功能表中選擇「Configure (設定)」選項後再選擇「Backups/Reset (備份/還原) ", where is shown a new dropdown menu with the following options: "Backup", "Restore", "Reset", "Reset PCI", "Desktop", "Delete CAD/LEN/OFL", "Disconnect USB", “Erase Alarms".</seg>
       </tuv>
     </tu>
     <tu>
@@ -71181,6 +71189,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T133917Z" creationid="Judy" creationdate="20151129T133601Z">
         <seg>透過此畫面可以設定一般性的程式化參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can save a security copy of the current version, restore a precedent version, delete the configuration files, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120306Z" creationid="Judy" creationdate="20151210T120306Z">
+        <seg>透過此畫面可以設定目前版本的安全性副本、回復前一版本、刪除設定檔等等，</seg>
       </tuv>
     </tu>
     <tu>
