@@ -17162,6 +17162,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Correct Packs: The number of packages correctly produced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T150101Z" creationid="Judy" creationdate="20151210T150101Z">
+        <seg>Correct Packs (正確包裝)：生產之正確包裝數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Correct calibration allows the camera to know that one metre in the algorithm is equal to one metre in reality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T132942Z">
@@ -46833,6 +46841,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oscillation: It corresponds to the avaraging cycle path.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T150220Z" creationid="Judy" creationdate="20151210T150220Z">
+        <seg>Oscillation (振盪)：平均循環路徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oswobodzenia 1 40-403 Katowice, Poland Phone: +48 32 259 75 50</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083549Z">
@@ -73654,6 +73670,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total packs: It is the number of all produced packs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T150253Z" creationid="Judy" creationdate="20151210T150253Z">
+        <seg>Total packs (總包裝)：生產之包裝總數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Touch Screen</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022830Z" creationid="Judy" creationdate="20151205T022830Z">
@@ -73819,6 +73843,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114545Z">
         <seg>運輸設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trend Limit: See section 3.4.6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T150328Z" creationid="Judy" creationdate="20151210T150328Z">
+        <seg>Trend Limit (趨勢極限)：請見第 3.4.6 節。</seg>
       </tuv>
     </tu>
     <tu>
