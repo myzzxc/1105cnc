@@ -18516,6 +18516,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Define Access</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022039Z" creationid="Judy" creationdate="20151210T022039Z">
+        <seg>設定權限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Define a modularity strategy that best contributes to the business objectives</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T040559Z">
@@ -24610,6 +24618,22 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021538Z" creationid="Judy" creationdate="20151210T021538Z">
         <seg>圖 3.63 刪除使用者畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.64.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022034Z" creationid="Judy" creationdate="20151210T022034Z">
+        <seg>圖 3.64 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.65.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022116Z" creationid="Judy" creationdate="20151210T022116Z">
+        <seg>圖 3.65 </seg>
       </tuv>
     </tu>
     <tu>
@@ -31111,6 +31135,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T162807Z" creationid="Judy" creationdate="20151209T162807Z">
         <seg>若想更改任何參數，只需於清單中點擊以選擇欲更改之參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to modify the users’ configuration you have to click the option "Users Config".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022110Z" creationid="Judy" creationdate="20151210T022110Z">
+        <seg>若要修改使用者，請點擊「User Config (使用者設定)」選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71017,6 +71049,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through the option "Define Access" you can configure the access level for the different options of the system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022031Z" creationid="Judy" creationdate="20151210T022031Z">
+        <seg>透過「Define Access (設定權限)」選項可以設定不同人員對系統的存取權限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this key it is possible to perform a non-automatic zero adjustment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T121030Z" creationid="Judy" creationdate="20151128T120811Z">
@@ -74484,8 +74524,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Value 0: the sections with this value indicate free access.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021742Z" creationid="Judy" creationdate="20151210T021742Z">
-        <seg>數值 0：設定此數值則代表具有所有存取權限，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021903Z" creationid="Judy" creationdate="20151210T021742Z">
+        <seg>數值 0：此數值則設定為擁有所有存取權限，</seg>
       </tuv>
     </tu>
     <tu>
@@ -74494,6 +74534,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021832Z" creationid="Judy" creationdate="20151210T021832Z">
         <seg>數值 1：此數值設定為操作員存取權限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value 2: the sections with this value will indicate that maintenance staff can access.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021923Z" creationid="Judy" creationdate="20151210T021923Z">
+        <seg>數值 2：此數值設定為維修人員存取權限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value 3: the sections with this value will indicate that engineering staff can access.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021939Z" creationid="Judy" creationdate="20151210T021939Z">
+        <seg>數值 3：此數值設定為工程人員存取權限。</seg>
       </tuv>
     </tu>
     <tu>
