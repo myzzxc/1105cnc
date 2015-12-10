@@ -8789,6 +8789,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another screen with an options list appears where you have to select the "Tests" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015141Z" creationid="Judy" creationdate="20151210T015141Z">
+        <seg>畫面將會出現選項清單，選擇其中的「Tests (測試)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another time the model can fail is if the model of the objects pixel looks very similar to the background model:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T105514Z">
@@ -24522,6 +24530,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163854Z" creationid="Judy" creationdate="20151209T163854Z">
         <seg>圖 3.57 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.58.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015149Z" creationid="Judy" creationdate="20151210T015149Z">
+        <seg>圖 3.58 </seg>
       </tuv>
     </tu>
     <tu>
@@ -55206,6 +55222,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Configuration Tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015157Z" creationid="Judy" creationdate="20151210T015157Z">
+        <seg>測試設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Configuration Weight Conveyor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161846Z" creationid="Judy" creationdate="20151206T161846Z">
@@ -70841,6 +70865,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Through this screen you can configure the test type to be performed on the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015125Z" creationid="Judy" creationdate="20151210T015125Z">
+        <seg>透過此畫面可以設定機台執行之測試類型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Through this screen you can modify the weight display parameter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134732Z" creationid="Judy" creationdate="20151129T134732Z">
@@ -71321,6 +71353,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T131352Z" creationid="Judy" creationdate="20151128T131348Z">
         <seg>要從一般功能表進入此畫面必須點擊「User Choices (使用者選項)」按鈕以顯示下拉式功能表，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this screen the "Configuration" option is selected from the general menu and then the "Internal Data" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015128Z" creationid="Judy" creationdate="20151210T015128Z">
+        <seg>若要進入此畫面，由主畫面選擇「Configure (設置)」後選擇「Internal Data (內部資料)」選項。</seg>
       </tuv>
     </tu>
     <tu>
