@@ -17780,8 +17780,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Customer Summary (optional)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141804Z">
-        <seg>客戶總結 (可選)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135428Z">
+        <seg>客戶總結 (選配)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24894,6 +24894,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.84.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135255Z" creationid="Judy" creationdate="20151210T135255Z">
+        <seg>圖 3.84 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.9.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T143129Z" creationid="Judy" creationdate="20151128T143129Z">
@@ -24914,6 +24922,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075023Z" creationid="Judy" creationdate="20151205T075023Z">
         <seg>圖 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure3.85.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135436Z" creationid="Judy" creationdate="20151210T135436Z">
+        <seg>圖 3.85 </seg>
       </tuv>
     </tu>
     <tu>
@@ -59795,6 +59811,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Summary Customer Production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135444Z" creationid="Judy" creationdate="20151210T135444Z">
+        <seg>客戶生產總結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Super LoLux</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T124445Z">
@@ -63904,8 +63928,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The client options are Data, Summary and Batch Control.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135202Z" creationid="Judy" creationdate="20151210T135202Z">
-        <seg>用戶端選項是資料、 摘要和批量控制。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135249Z" creationid="Judy" creationdate="20151210T135202Z">
+        <seg>客戶選項為資料、總結和批次管控。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64154,6 +64178,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T092822Z">
         <seg>電流需求大部分視主軸大小與數目而定：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The customer summary screen shows the production data of different ended shifts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135516Z" creationid="Judy" creationdate="20151210T135516Z">
+        <seg>客戶總結畫面中顯示不同班次之生產資料，</seg>
       </tuv>
     </tu>
     <tu>
@@ -71397,6 +71429,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144632Z" creationid="Judy" creationdate="20151206T144632Z">
         <seg>此畫面中可進行檢重機各個部分的設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen displays production data that have been previously configured in Configure-&gt; Internal Data&gt; Customer Production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135419Z" creationid="Judy" creationdate="20151210T135419Z">
+        <seg>此畫面顯示的生產資料已於「Configure-&gt; Internal Data&gt; Customer Production (設定-&gt;內部資料 &gt; 客戶生產)」中設定</seg>
       </tuv>
     </tu>
     <tu>
