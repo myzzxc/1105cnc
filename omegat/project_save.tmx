@@ -21931,6 +21931,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every time you carry out a “Creating Backup ", the precedent one is lost.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121010Z" creationid="Judy" creationdate="20151210T121010Z">
+        <seg>每次進行「建立備份」時，前一份備份檔案將會被刪除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everyday</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130849Z" creationid="Judy" creationdate="20151128T130849Z">
@@ -24638,6 +24646,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.66.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120750Z" creationid="Judy" creationdate="20151210T120750Z">
+        <seg>圖 3.66 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.67.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120905Z" creationid="Judy" creationdate="20151210T120905Z">
+        <seg>圖 3.67 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.7.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141102Z" creationid="Judy" creationdate="20151128T141102Z">
@@ -26787,10 +26811,18 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the general menu you select the "Configuration" option and then the "Backups/Reset" option, where appears a new dropdown menu where you choose the "Backup" option to make a security copy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120901Z" creationid="Judy" creationdate="20151210T120901Z">
+        <seg>於一般功能表中選擇「Configure (設定)」選項後再選擇「Backups/Reset (備份/還原) 」，接著於顯示之下拉式選單中選擇「Backup (備份)」選項以製作安全性副本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the general menu you select the "Configure" option and then the "Backups/Reset", where is shown a new dropdown menu with the following options: "Backup", "Restore", "Reset", "Reset PCI", "Desktop", "Delete CAD/LEN/OFL", "Disconnect USB", “Erase Alarms".</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120413Z" creationid="Judy" creationdate="20151210T120413Z">
-        <seg>於一般功能表中選擇「Configure (設定)」選項後再選擇「Backups/Reset (備份/還原) ", where is shown a new dropdown menu with the following options: "Backup", "Restore", "Reset", "Reset PCI", "Desktop", "Delete CAD/LEN/OFL", "Disconnect USB", “Erase Alarms".</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120735Z" creationid="Judy" creationdate="20151210T120413Z">
+        <seg>於一般功能表中選擇「Configure (設定)」選項後再選擇「Backups/Reset (備份/還原) 」，接著會顯示下拉式選單，選單中有下列選項：「Backup (備份)」、「Restore (還原)」、「Reset (重置)」、「Reset PCI (重置 PCI)」、「Desktop (桌面)」、「Delete CAD/LEN/OFL (刪除 CAD/LEN/OFL)」、「Disconnect USB (退出 USB)」、「Erase Alarms (消除警報)」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41524,6 +41556,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Menu Backups/Reset</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120759Z" creationid="Judy" creationdate="20151210T120759Z">
+        <seg>備份/重置單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Menu Configuration Users</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020945Z" creationid="Judy" creationdate="20151210T020945Z">
@@ -45435,6 +45475,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T105828Z">
         <seg>一旦元件經由 HUTCHINSON 授權後，供應商必須貼上所有權銘板 （若設備維護/修理所在處無法貼上銘板，如有必要供應商必須刻寫於設備上），銘板上包含 HUTCHINSON 提供的以下資訊：設備所有者名稱和數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the dropdown is open, you select the option you want at that moment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120745Z" creationid="Judy" creationdate="20151210T120745Z">
+        <seg>當下拉式功能表開啟後選擇所需之選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55322,6 +55370,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T014536Z">
         <seg>適用範圍 1-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Config Backup/Reset</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120918Z" creationid="Judy" creationdate="20151210T120918Z">
+        <seg>備份/重置設定畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -70385,6 +70441,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This option allows restore the machine with the latest data existing in the Directory /home/varpe/CP_BACKUP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T121122Z" creationid="Judy" creationdate="20151210T121122Z">
+        <seg>此選項可使用目錄 /home/varpe/CP_BACKUP 中的最新資料還原機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This option gives you the opportunity to create a transform file (.mst) based on the differences between the open package and the modifications set by yourself.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T020740Z">
@@ -71195,8 +71259,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Through this screen you can save a security copy of the current version, restore a precedent version, delete the configuration files, etc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120306Z" creationid="Judy" creationdate="20151210T120306Z">
-        <seg>透過此畫面可以設定目前版本的安全性副本、回復前一版本、刪除設定檔等等，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T120429Z" creationid="Judy" creationdate="20151210T120306Z">
+        <seg>透過此畫面可以設定目前版本的安全性副本、還原前一版本、刪除設定檔等等，</seg>
       </tuv>
     </tu>
     <tu>
