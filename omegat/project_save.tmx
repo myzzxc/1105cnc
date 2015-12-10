@@ -24606,6 +24606,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.63 Screen Erase User</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021538Z" creationid="Judy" creationdate="20151210T021538Z">
+        <seg>圖 3.63 刪除使用者畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.7.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141102Z" creationid="Judy" creationdate="20151128T141102Z">
@@ -43375,6 +43383,14 @@ without the documented approval of the appropriate Quality Control personnel.
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072049Z">
         <seg>沒有限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No protection exists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021751Z" creationid="Judy" creationdate="20151210T021751Z">
+        <seg>沒有限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62613,6 +62629,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The access levels will be the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021616Z" creationid="Judy" creationdate="20151210T021616Z">
+        <seg>存取權限分為以下層級：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The access to the screen does not involve out of production.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T142818Z" creationid="Judy" creationdate="20151128T142814Z">
@@ -74454,6 +74478,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150821T135227Z">
         <seg>價值評估對於生態系統保育的取捨也相當重要，而且可提供發展計畫更好的參考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value 0: the sections with this value indicate free access.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021742Z" creationid="Judy" creationdate="20151210T021742Z">
+        <seg>數值 0：設定此數值則代表具有所有存取權限，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value 1: the sections with this value will indicate that operators can access.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021832Z" creationid="Judy" creationdate="20151210T021832Z">
+        <seg>數值 1：此數值設定為操作員存取權限。</seg>
       </tuv>
     </tu>
     <tu>
