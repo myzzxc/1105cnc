@@ -17722,6 +17722,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customer (Optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135154Z" creationid="Judy" creationdate="20151210T135154Z">
+        <seg>客戶 (選配)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customer / Server Architecture.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T022420Z">
@@ -24878,6 +24886,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.83.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134747Z" creationid="Judy" creationdate="20151210T134747Z">
+        <seg>圖 3.83 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.9.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T143129Z" creationid="Judy" creationdate="20151128T143129Z">
@@ -30219,10 +30235,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a partial is cleared, the total production data will not be erased.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135059Z" creationid="Judy" creationdate="20151210T134939Z">
+        <seg>若清除部分數量，總生產資料將不會被刪除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a risk of late delivery is identified, the supplier shall inform HUTCHINSON immediately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T134951Z">
         <seg>若發現延遲交貨之風險，供應商應立即通知 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a total is cleared, all partial production data will be erased.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135105Z" creationid="Judy" creationdate="20151210T135009Z">
+        <seg>若清除總數量，部分生產資料將會被刪除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33979,6 +34011,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T160636Z" creationid="Judy" creationdate="20151129T151941Z">
         <seg>在此畫面中遮罩套用至警報 2 的不同參數中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this screen the partial or total line data are shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134826Z" creationid="Judy" creationdate="20151210T134826Z">
+        <seg>此畫面中顯示部分或全部產線資料，</seg>
       </tuv>
     </tu>
     <tu>
@@ -50478,6 +50518,22 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press on the key to switch from line to track</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135142Z" creationid="Judy" creationdate="20151210T135142Z">
+        <seg>點擊按鍵以切換產線至軌道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press on the key to switch from total to partial.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135049Z" creationid="Judy" creationdate="20151210T135049Z">
+        <seg>點擊按鍵以切換總數與部分數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press the center the axle hole to take out the indoor air.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T115539Z" creationid="Judy" creationdate="20151207T115539Z">
@@ -55858,6 +55914,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020714Z" creationid="Judy" creationdate="20151210T020714Z">
         <seg>客戶生產設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Counters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134754Z" creationid="Judy" creationdate="20151210T134754Z">
+        <seg>計數器畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -63838,6 +63902,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The client options are Data, Summary and Batch Control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135202Z" creationid="Judy" creationdate="20151210T135202Z">
+        <seg>用戶端選項是資料、 摘要和批量控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The clip 916 has arms which surround and rigidify the latching tongue 914, in order to make the latching process a one handed operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T070657Z">
@@ -64162,6 +64234,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T124814Z" creationid="Judy" creationdate="20151207T124814Z">
         <seg>感應器固定於能手動調節移動的支座上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The difference between the total and the partial is that total is the sum of all partials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135111Z" creationid="Judy" creationdate="20151210T134910Z">
+        <seg>總數量為所有部分數量的總和。</seg>
       </tuv>
     </tu>
     <tu>
