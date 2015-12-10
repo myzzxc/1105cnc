@@ -17130,6 +17130,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Correction factors: It refers to the possibility of modifying the servo correction values from production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123629Z" creationid="Judy" creationdate="20151210T123629Z">
+        <seg>Correction factors (校正因子)：此參數為生產中允許之伺服校正值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corresponding reference characters indicate corresponding parts throughout the several views.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T110748Z">
@@ -24726,6 +24734,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.72.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123729Z" creationid="Judy" creationdate="20151210T123729Z">
+        <seg>圖 3.72 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.73.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123913Z" creationid="Judy" creationdate="20151210T123913Z">
+        <seg>圖 3.73 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.8.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T141948Z" creationid="Judy" creationdate="20151128T141948Z">
@@ -27498,6 +27522,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General Information Screen</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123919Z" creationid="Judy" creationdate="20151210T123919Z">
+        <seg>一般資訊畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General Menu</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085638Z" creationid="Judy" creationdate="20151128T085638Z">
@@ -27902,6 +27934,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135837Z">
         <seg>圖形模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphic window: It refers to the possibility of modifying the histogram scaling when YES option is selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123726Z" creationid="Judy" creationdate="20151210T123726Z">
+        <seg>Graphic window (圖形視窗)：當選擇 YES 選項，可修改長條圖的尺度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50656,6 +50696,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prod Data Mod (Production data modification): It is a parameter that selecting YES option allows to modify production data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123454Z" creationid="Judy" creationdate="20151210T123312Z">
+        <seg>Prod Data Mod (生產資料修改)：若此參數設定為「YES」則允許修改生產資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Produce more professional-looking documents</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113430Z">
@@ -55518,6 +55566,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Config Production Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123752Z" creationid="Judy" creationdate="20151210T123752Z">
+        <seg>生產資料設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Config Shifts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164147Z" creationid="Judy" creationdate="20151209T163904Z">
@@ -57179,6 +57235,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121608Z">
         <seg>工作條件測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servo (FEED-BACK): It is a parameter that selecting YES option allows to modify Servo data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123521Z" creationid="Judy" creationdate="20151210T123448Z">
+        <seg>Servo (伺服，回饋)：若此參數設定為「YES」則允許修改伺服資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70997,6 +71061,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150621Z" creationid="Judy" creationdate="20151128T150615Z">
         <seg>此畫面根據每個特定工作規格而不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section allows acces to all informative screens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123910Z" creationid="Judy" creationdate="20151210T123910Z">
+        <seg>此選項能存取所有資訊畫面。</seg>
       </tuv>
     </tu>
     <tu>
