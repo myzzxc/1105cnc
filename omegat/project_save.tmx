@@ -74097,6 +74097,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User Config Levels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022149Z" creationid="Judy" creationdate="20151210T022149Z">
+        <seg>使用者層級設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User Interface (UI) languages</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055327Z">
@@ -74524,7 +74532,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Value 0: the sections with this value indicate free access.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021903Z" creationid="Judy" creationdate="20151210T021742Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022255Z" creationid="Judy" creationdate="20151210T021742Z">
         <seg>數值 0：此數值則設定為擁有所有存取權限，</seg>
       </tuv>
     </tu>
@@ -74532,7 +74540,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Value 1: the sections with this value will indicate that operators can access.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021832Z" creationid="Judy" creationdate="20151210T021832Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022250Z" creationid="Judy" creationdate="20151210T021832Z">
         <seg>數值 1：此數值設定為操作員存取權限。</seg>
       </tuv>
     </tu>
@@ -74540,7 +74548,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Value 2: the sections with this value will indicate that maintenance staff can access.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021923Z" creationid="Judy" creationdate="20151210T021923Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022242Z" creationid="Judy" creationdate="20151210T021923Z">
         <seg>數值 2：此數值設定為維修人員存取權限。</seg>
       </tuv>
     </tu>
@@ -74548,7 +74556,7 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Value 3: the sections with this value will indicate that engineering staff can access.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021939Z" creationid="Judy" creationdate="20151210T021939Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T022239Z" creationid="Judy" creationdate="20151210T021939Z">
         <seg>數值 3：此數值設定為工程人員存取權限。</seg>
       </tuv>
     </tu>
