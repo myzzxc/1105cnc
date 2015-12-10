@@ -1818,6 +1818,14 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T125038Z" creationid="Judy" creationdate="20151210T125038Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T131807Z">
@@ -21955,6 +21963,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every time a static or dynamic adjustment is made, or the parameters of weight cell are modified, the checkweigher increases a "Configurations" counter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124617Z" creationid="Judy" creationdate="20151210T124617Z">
+        <seg>每次進行靜態或動態調整後、或更改秤重儲存格的參數時，檢重機將增加一個「Configurations (設置)」計數器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every time you add a new dependent, there is a To Do action to change your benefits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151922Z">
@@ -24746,6 +24762,46 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123913Z" creationid="Judy" creationdate="20151210T123913Z">
         <seg>圖 3.73 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.74.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124108Z" creationid="Judy" creationdate="20151210T124108Z">
+        <seg>圖 3.74 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.75.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124716Z" creationid="Judy" creationdate="20151210T124716Z">
+        <seg>圖 3.75 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.76.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T125042Z" creationid="Judy" creationdate="20151210T125042Z">
+        <seg>圖 3.76 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.77.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T125706Z" creationid="Judy" creationdate="20151210T125706Z">
+        <seg>圖 3.77 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.78.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130309Z" creationid="Judy" creationdate="20151210T130309Z">
+        <seg>圖 3.78 </seg>
       </tuv>
     </tu>
     <tu>
@@ -29310,6 +29366,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T051247Z">
         <seg>安裝説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However the dynamic counter is specific for each product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124711Z" creationid="Judy" creationdate="20151210T124711Z">
+        <seg>然而動態計數器隨各產品而異。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55694,6 +55758,30 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Informative about Errors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130320Z" creationid="Judy" creationdate="20151210T130320Z">
+        <seg>關於錯誤資訊畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Informative about Messages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T125916Z" creationid="Judy" creationdate="20151210T125916Z">
+        <seg>關於訊息資訊畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Informative about Versions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124122Z" creationid="Judy" creationdate="20151210T124122Z">
+        <seg>關於版本資訊畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Learning (S-E)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T092052Z" creationid="Judy" creationdate="20151206T092052Z">
@@ -55738,6 +55826,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161329Z" creationid="Judy" creationdate="20151204T161329Z">
         <seg>動態資料設定畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Verification Marks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124722Z" creationid="Judy" creationdate="20151210T124722Z">
+        <seg>驗證標記畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -55794,6 +55890,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T122727Z">
         <seg>擷取任何連接至網路且運行 Windows 的電腦上螢幕、鍵盤和滑鼠並錄製其螢幕畫面於與閉路電視相同之儲存媒體中，以便未來搜尋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ScreenAudit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T125047Z" creationid="Judy" creationdate="20151210T125047Z">
+        <seg>審核畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -56314,6 +56418,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142752Z">
         <seg>完整資訊請參閱數據資料表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the section 3.6.4 for more information about this screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130526Z" creationid="Judy" creationdate="20151210T130526Z">
+        <seg>關於此畫面的詳細資訊請參見 3.6.4 節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66793,6 +66905,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The static counter is common for all products.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124638Z" creationid="Judy" creationdate="20151210T124638Z">
+        <seg>靜態計數器適用所有的產品，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The steam trap bypass valve should be open when starting up a steam-heated heat exchanger.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T133238Z">
@@ -70681,6 +70801,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This option offers the user information about detected errors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130157Z" creationid="Judy" creationdate="20151210T130157Z">
+        <seg>此選項可提供偵測之錯誤的資訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option offers the user information about operations performed by the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T125535Z" creationid="Judy" creationdate="20151210T125535Z">
+        <seg>此選項可提供檢重機所進行之操作的資訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This option will be selected by a People Manager (or any approver) where certain changes will need to be made to an action that has been submitted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T130823Z">
@@ -71001,6 +71137,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This screen allows viewing the license register and enabled functions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130528Z" creationid="Judy" creationdate="20151210T130416Z">
+        <seg>此畫面可以查看註冊授權和啟用功能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This screen allows you to access setting the checkweigher in its various sections.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T144632Z" creationid="Judy" creationdate="20151206T144632Z">
@@ -71067,8 +71211,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This section allows acces to all informative screens.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123910Z" creationid="Judy" creationdate="20151210T123910Z">
-        <seg>此選項能存取所有資訊畫面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124046Z" creationid="Judy" creationdate="20151210T123910Z">
+        <seg>此畫面能存取所有資訊畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71437,6 +71581,54 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015125Z" creationid="Judy" creationdate="20151210T015125Z">
         <seg>透過此畫面可以設定機台執行之測試類型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can consult the different errors of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130211Z" creationid="Judy" creationdate="20151210T130211Z">
+        <seg>透過此畫面可以查詢檢重機的不同錯誤，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can consult the information about the different versions of the checkweigher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124035Z" creationid="Judy" creationdate="20151210T124035Z">
+        <seg>透過此畫面可以查詢檢重機之不同版本資訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can consult the register of changes performed in the machine, as working format, static or dynamic adjustments, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130558Z" creationid="Judy" creationdate="20151210T124944Z">
+        <seg>透過此畫面可以查詢機台註冊更改之記錄，如工作規格、靜態或動態調整等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can consult the registration of changes made in the machine, as work format, static or dynamic adjustments, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130544Z" creationid="Judy" creationdate="20151210T130544Z">
+        <seg>透過此畫面可以查詢機台註冊更改之記錄，如工作規格、靜態或動態調整等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can consult the times the machine has been statically calibrated, the times configurations have been modified, etc.  To access the Messages sections you select the "Information" option from the general menu, then the "Audit" option and finally "Messages".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T125700Z" creationid="Judy" creationdate="20151210T125700Z">
+        <seg>透過此畫面可以查詢機台靜態校正時間、設定修改時間等資訊，若要進入「Messages (訊息)」畫面，由主畫面選擇「Information (資訊)」後選擇「Audit (審核)」選項再選擇「Messages (訊息)」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through this screen you can consult the times the machine has been statically calibrated, the times the configurations have been made, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124255Z" creationid="Judy" creationdate="20151210T124255Z">
+        <seg>透過此畫面可以查詢機台靜態校正時間、設定修改時間等資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71845,6 +72037,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the Functions section, you choose the "Information" option from the main menu and then the "Functions" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130646Z" creationid="Judy" creationdate="20151210T130646Z">
+        <seg>若要進入此「Functions (功能)」畫面，由主畫面選擇「Information (資訊)」後選擇「Functions (功能)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the screen "Verify" is selected from the main menu, then you select "Verify Inputs".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100613Z" creationid="Judy" creationdate="20151206T100613Z">
@@ -71965,6 +72165,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the “Functions” section you select the "Information" option from the general menu, then the "Audit" option and finally "General"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T125034Z" creationid="Judy" creationdate="20151210T125034Z">
+        <seg>若要進入「Functions (功能)」畫面，由主畫面選擇「Information (資訊)」後選擇「Audit (審核)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the “Verification Marks” section, you choose the "Information" option from the general menu and then the "Verification Marks" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124349Z" creationid="Judy" creationdate="20151210T124349Z">
+        <seg>若要進入「Verification Marks (驗證標記)」畫面，由主畫面選擇「Information (資訊)」後選擇「Verification Marks (驗證標記)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access this Installation Guide, click Help in the Home tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T030126Z">
@@ -72081,6 +72297,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T155232Z" creationid="Judy" creationdate="20151201T155232Z">
         <seg>要進入畫面請由第一下拉式選單中選擇「Times (計時器)」選項，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this section, you select the "Information" option from the general menu and then the "About" option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T124106Z" creationid="Judy" creationdate="20151210T124038Z">
+        <seg>若要進入此畫面，由主畫面選擇「Information (資訊)」後選擇「About (關於)」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this “Functions” section you select the "Information" option from the general menu, then the "Audit" option and finally "Errors".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130307Z" creationid="Judy" creationdate="20151210T130307Z">
+        <seg>若要進入此「Functions (功能)」畫面，由主畫面選擇「Information (資訊)」後選擇「Audit (審核)」選項再選擇「Errors (錯誤)」。</seg>
       </tuv>
     </tu>
     <tu>
