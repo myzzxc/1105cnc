@@ -24086,6 +24086,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 29</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131317Z" creationid="Judy" creationdate="20151210T131317Z">
+        <seg>圖 29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 34</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T151624Z" creationid="Judy" creationdate="20151129T151624Z">
@@ -24122,6 +24130,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T101545Z" creationid="Judy" creationdate="20151206T101545Z">
         <seg>圖 51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 76</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131320Z" creationid="Judy" creationdate="20151210T131320Z">
+        <seg>圖 76</seg>
       </tuv>
     </tu>
     <tu>
@@ -28020,8 +28036,8 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Graphic window: It refers to the possibility of modifying the histogram scaling when YES option is selected.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123726Z" creationid="Judy" creationdate="20151210T123726Z">
-        <seg>Graphic window (圖形視窗)：當選擇 YES 選項，可修改長條圖的尺度。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131302Z" creationid="Judy" creationdate="20151210T123726Z">
+        <seg>Graphic window (圖形視窗)：當選擇 YES 選項，可修改折線圖的尺度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29180,8 +29196,8 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Histogram Graphic Window: Configuration of scale for the screen “Production Histogram”.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T145653Z" creationid="Judy" creationdate="20151206T145653Z">
-        <seg>Histogram Graphic Window (長條圖視窗)：設定「Production Histogram (生產長條圖)」畫面之比例。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131257Z" creationid="Judy" creationdate="20151206T145653Z">
+        <seg>Histogram Graphic Window (折線圖視窗)：設定「Production Histogram (生產折線圖)」畫面之比例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55790,6 +55806,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Histogram</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131313Z" creationid="Judy" creationdate="20151210T131313Z">
+        <seg>折線圖畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Informative about Errors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130320Z" creationid="Judy" creationdate="20151210T130320Z">
@@ -64078,6 +64102,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The different production screens you can access clicking on:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131214Z" creationid="Judy" creationdate="20151210T131214Z">
+        <seg>可以點擊以下按鈕以進入不同的生產畫面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The different scales are: 0.01 g, 0.02 g, 0.05g, 0.1g, 0.2g, 0.5g, 1g, 2g, 5g, 10g, 20g, 50g, 100g.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T104047Z" creationid="Judy" creationdate="20151208T104047Z">
@@ -66157,6 +66189,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T140637Z">
         <seg>HUTCHINSON 產品中一項或多項零件之生產外包時，必須能讓 HUTCHINSON 終端客戶針對外包商進行此類零件的特殊要求之管控。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The production screens provide the user information about a certain format production:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131129Z" creationid="Judy" creationdate="20151210T131129Z">
+        <seg>生產畫面提供特定規格的生產資訊：</seg>
       </tuv>
     </tu>
     <tu>
