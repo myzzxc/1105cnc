@@ -59965,6 +59965,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TEST Notify - Format Change: If this field is configured with YES option, an automatic notice occurs when changing format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015637Z" creationid="Judy" creationdate="20151210T015637Z">
+        <seg>TEST Notify – Format Change (測試通知 - 更改規格)：若此欄位設定為「YES」，當更改規格時將會自動出現通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TEST Notify - Shift Close: If this field is configured with YES option, an automatic notice occurs when closing a shift.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015600Z" creationid="Judy" creationdate="20151210T015600Z">
@@ -75770,10 +75778,26 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weight Test - Notify: If this field is configured with YES option, an automatic warning occurs at the end of the programmed time, which will be not less than thirty minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015916Z" creationid="Judy" creationdate="20151210T015916Z">
+        <seg>Weight Test - Notify (秤重測試 - 通知)：若此欄位設定為「YES」，當設定之時間 (大於三十分鐘) 結束時將會自動出現通知，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weight Test Limit: The grams maximum modifiable by a Weight Test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T152400Z" creationid="Judy" creationdate="20151128T152400Z">
         <seg>重量測試限制 (Weight Test Limit)：重量測試可修改之最大重量 (克)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Test Mode: We select the weight test mode to be performed, GROSS or NET.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015759Z" creationid="Judy" creationdate="20151210T015759Z">
+        <seg>Weight Test Mode (秤重測試模式)：選擇欲執行之秤種模式，總重或淨重。</seg>
       </tuv>
     </tu>
     <tu>
