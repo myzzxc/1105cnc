@@ -30699,6 +30699,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If in static mode the checkweigher is weighing well but not in dynamic mode, it will be necessary to check whether the graph on section Dynamic Analysis is well centred, according to the initial and final times.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113849Z" creationid="Judy" creationdate="20151211T113849Z">
+        <seg>若靜態模式下檢重機正常而在動態模式下異常，必須檢查動態分析畫面的圖表是否對齊其起始和結束時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it finds a match it can move the PTZ by the amount needed to get the object in the middle again - in this case the red arrow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T150929Z">
@@ -31015,6 +31023,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T104349Z" creationid="Judy" creationdate="20151208T104349Z">
         <seg>若更改不同最大重量值，必須執行新的動態調整 (請見 3.4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the graph is well centered and many vibrations are observed, check the conveyor mechanical performance (bearings, band, etc.) and its alignment with the inlet conveyor, to avoid product shocks and possible frictions at the input of the weight conveyor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113907Z" creationid="Judy" creationdate="20151211T113907Z">
+        <seg>若圖表好為中心和許多振動觀察到，請檢查輸送機的力學性能 (軸承、 樂隊等) 和與進氣式輸送機，避免產品衝擊和重量輸送機的輸入可能摩擦接軌。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70263,6 +70279,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021302Z" creationid="Judy" creationdate="20151210T021233Z">
         <seg>接著會出現一個新的功能表顯示以下選項：「New User (新增使用者)」、「Edit User (編輯使用者」、「Erase User (刪除使用者)」、「Define Access (設定權限)」以及「Users Configuration (使用者設定)」，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then increase or decrease this weight and check that the display shows the correct weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113552Z" creationid="Judy" creationdate="20151211T113552Z">
+        <seg>然後增加或減少該重量並檢查是否顯示正確的重量。</seg>
       </tuv>
     </tu>
     <tu>
