@@ -64790,6 +64790,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The checkweigher does not count packs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T122044Z" creationid="Judy" creationdate="20151211T122044Z">
+        <seg>檢重機無法計算包裝數量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The checkweigher does not reject</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114340Z" creationid="Judy" creationdate="20151211T114340Z">
