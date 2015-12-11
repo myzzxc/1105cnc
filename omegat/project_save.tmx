@@ -14055,6 +14055,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check whether the printer led is enabled (flashing).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T123331Z" creationid="Judy" creationdate="20151211T123331Z">
+        <seg>檢查印表機指示燈是否亮起 (閃爍)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check your uniform support on the ground.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044750Z" creationid="Judy" creationdate="20151205T044750Z">
@@ -26851,6 +26859,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For that, press the print key in production sections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T123501Z" creationid="Judy" creationdate="20151211T123501Z">
+        <seg>於生產畫面中按下列印按鍵，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the W5500, set digital pin 10 as a high output.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133429Z">
@@ -30635,6 +30651,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If after fullfilling all the previous points, the problem persists, check if the board is sending signal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T123426Z" creationid="Judy" creationdate="20151211T123426Z">
+        <seg>若已執行上述步驟但問題仍然存在，都請檢查電路板是否發出訊號，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If all of the conditions are correct and the alarm conditions have been resolved, the machine can be started by pressing the RUN button.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062545Z" creationid="Judy" creationdate="20151205T062545Z">
@@ -31357,8 +31381,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If the voltages are correct, verify that the LEDs LD2 and LD3 (red color) are active (flashing).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T122240Z" creationid="Judy" creationdate="20151211T122240Z">
-        <seg>若電壓正確，請檢查指示燈 LD2 和 LD3 (紅色) 啟動 (閃爍)，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T123344Z" creationid="Judy" creationdate="20151211T122240Z">
+        <seg>若電壓正確，請檢查指示燈 LD2 和 LD3 (紅色) 已亮起 (閃爍)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -78606,6 +78630,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T050951Z">
         <seg>雞隻存放於冷藏室時，必須維持空氣流通，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When clicking on print key, verify that the led corresponding to the printer output is active (flashing)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T123620Z" creationid="Judy" creationdate="20151211T123620Z">
+        <seg>按下列印鍵後，確認對應之印表機輸出指示燈已亮起 (閃爍)。</seg>
       </tuv>
     </tu>
     <tu>
