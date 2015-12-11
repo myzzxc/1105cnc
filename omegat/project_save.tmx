@@ -52357,8 +52357,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Range: Message displayed when the machine has made a carousel round (from the programmed vessels number) without receiving any back input signal of the carousel (the input range must be programmed).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T015919Z" creationid="Judy" creationdate="20151211T015919Z">
-        <seg>Range (範圍)：: Message displayed when the machine has made a carousel round (from the programmed vessels number) without receiving any back input signal of the carousel (the input range must be programmed).</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020257Z" creationid="Judy" creationdate="20151211T015919Z">
+        <seg>Range (範圍)：當機台轉盤轉動時 (根據設定容器數量) 未接收到任何轉盤返回輸入訊號 (必需設定輸入範圍) 顯示之訊息，</seg>
       </tuv>
     </tu>
     <tu>
