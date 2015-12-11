@@ -10209,6 +10209,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the bottom of the screen there is a set of buttons that let you quickly access a set of screens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020626Z" creationid="Judy" creationdate="20151211T020626Z">
+        <seg>畫面底部有一組能快速連結其它畫面之按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of a period determined by each HUTCHINSON entity, the Supplier is informed that the product enters the “validation for series production” stage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T121451Z">
@@ -34163,6 +34171,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T175022Z">
         <seg>於此議題上，HUTCHINSON 要求供應商負責產品之安全性和產品適用之法規。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this screen average data and production average weight are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020830Z" creationid="Judy" creationdate="20151211T020830Z">
+        <seg>此畫面中顯示平均資料和生產平均重量，</seg>
       </tuv>
     </tu>
     <tu>
@@ -68450,6 +68466,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The values of the average weight of the correct packs in total and partial production are also shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020931Z" creationid="Judy" creationdate="20151211T020931Z">
+        <seg>也會顯示全部和部分生產正確包裝的平均重量值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The vehicle 810 includes a frame 812, and although not specifically shown, would include ground engaging members in the form of tires, which are driven by a drive train.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T065014Z">
@@ -70649,6 +70673,30 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T132218Z">
         <seg>此懸臂  526 設計能安裝較長的阻尼元件 560 和更大移動行程的懸吊 116。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This button allows access the current range screen, see Figure 3.89</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020731Z" creationid="Judy" creationdate="20151211T020731Z">
+        <seg>此按鈕可進入目前範圍畫面，請參閱圖 3.89</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This button allows access the display-range screen, see Figure 3.90</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020711Z" creationid="Judy" creationdate="20151211T020711Z">
+        <seg>此按鈕可進入顯示-範圍畫面，請參閱圖 3.90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This button allows access the range history screen, see Figure 3.91</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020650Z" creationid="Judy" creationdate="20151211T020650Z">
+        <seg>此按鈕可進入範圍歷史畫面，請參閱圖 3.91</seg>
       </tuv>
     </tu>
     <tu>
