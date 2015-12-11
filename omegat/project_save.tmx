@@ -76081,8 +76081,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Units: It is the units’ number within a pack.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T143941Z" creationid="Judy" creationdate="20151211T143941Z">
-        <seg>Units (單位)：: It is the units’ number within a pack.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T144013Z" creationid="Judy" creationdate="20151211T143941Z">
+        <seg>Units (單元)：一個包裝中的單元數量。</seg>
       </tuv>
     </tu>
     <tu>
