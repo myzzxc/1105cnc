@@ -31642,6 +31642,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If touch does not work, probably it will be necessary to change the cable, the LCD or the board</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T135140Z" creationid="Judy" creationdate="20151211T135140Z">
+        <seg>若觸控面板無法正常運作，可能需要更換訊號線、液晶螢幕或電路板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If using more than 12V, the voltage regulator may overheat and damage the board.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055824Z">
@@ -68874,8 +68882,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>The touch does not work</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T134752Z" creationid="Judy" creationdate="20151211T134752Z">
-        <seg>觸  摸不工作</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T135016Z" creationid="Judy" creationdate="20151211T134752Z">
+        <seg>觸控面板無法正常運作</seg>
       </tuv>
     </tu>
     <tu>
@@ -77177,6 +77185,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Verify that the touch serial port wiring is rightly connected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T135241Z" creationid="Judy" creationdate="20151211T135241Z">
+        <seg>確認觸控面板序列埠接線已正確連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Verify that the warning Cable Not Insert is not displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131952Z" creationid="Judy" creationdate="20151211T131952Z">
@@ -77189,6 +77205,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113406Z" creationid="Judy" creationdate="20151211T113406Z">
         <seg>確認秤重感應器上無影響其作動之異物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify that varpe.bat file has the right configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T135205Z" creationid="Judy" creationdate="20151211T135205Z">
+        <seg>確認檔案「varpe.bat」之設定正確。</seg>
       </tuv>
     </tu>
     <tu>
