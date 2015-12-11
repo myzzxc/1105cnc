@@ -26000,6 +26000,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Floating Net: When this option is enabled, the weight reject tolerances will depend on the value of the floating net.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T150019Z" creationid="Judy" creationdate="20151211T150019Z">
+        <seg>Floating Net (浮動淨重)：當啟用此選項時，重量退回容許值將取決於浮動淨重之數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flolder 370 bounds a side of a channel 382 formed by holder 370 and shield 380.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163047Z" creationid="Judy" creationdate="20151202T163047Z">
@@ -76107,6 +76115,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T053320Z">
         <seg>Unist 切削液噴嘴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit Average-Reject Calculation: When this option is enabled, the weight value of a refused pack for positive or negative reject limit becomes part of calculation for the next floating net.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T145918Z" creationid="Judy" creationdate="20151211T145918Z">
+        <seg>Unit Average-Reject Calculation (單元平均--退回計算)：當啟用此選項時，退回之包裝重量值的正或負退回極限將用以計算下一組浮動淨重平均值。</seg>
       </tuv>
     </tu>
     <tu>
