@@ -48986,6 +48986,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Packs averaging: Number of packs for getting the average.This parameter is the number of consecutive packs making the simple to calculate the weight average and as a result the next floating net.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T143928Z" creationid="Judy" creationdate="20151211T143928Z">
+        <seg>Packs averaging (包裝平均)：取平均的包裝數，此參數為連續包裝用以計算浮動淨重之平均重量的數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packs for Offset: Number of packs that combined with the average weight of production will give  a partial correction to be added to the correction to be applied after averaging cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152028Z" creationid="Judy" creationdate="20151208T152028Z">
@@ -51617,6 +51625,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022626Z">
         <seg>前一版擴充模組與Mega不相容，通電後必須手動重置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previously a screen will be shown for selecting the format, which the units’ control will be programmed on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T143652Z" creationid="Judy" creationdate="20151211T143652Z">
+        <seg>螢幕將會先顯示選擇將設定之單位控制之規格的畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76059,6 +76075,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T161127Z" creationid="Judy" creationdate="20151206T161100Z">
         <seg>Units Sec (單位) TO1-TO2 / TU1-TU2：觸發 Packs Sec (包裝警報) 所需之單位數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Units: It is the units’ number within a pack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T143941Z" creationid="Judy" creationdate="20151211T143941Z">
+        <seg>Units (單位)：: It is the units’ number within a pack.</seg>
       </tuv>
     </tu>
     <tu>
