@@ -68241,6 +68241,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The speed driving does not work (OMRON type variator 3G3JV)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T130812Z" creationid="Judy" creationdate="20151211T130812Z">
+        <seg>速度驅動無法正常工作 (OMRON 歐姆龍型變速器 3G3JV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The standard gantry clearance is150mm for all AXYZ Series machines.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T131325Z">
@@ -76974,6 +76982,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035820Z" creationid="Judy" creationdate="20151205T035820Z">
         <seg>確認機器放置的區域能承受機器的重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify that the driver receives voltage, as specified in the electric drawing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T130917Z" creationid="Judy" creationdate="20151211T130917Z">
+        <seg>確認驅動器之電壓如電路圖所示。</seg>
       </tuv>
     </tu>
     <tu>
