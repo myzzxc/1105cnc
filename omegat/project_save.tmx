@@ -25078,6 +25078,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.97.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T105323Z" creationid="Judy" creationdate="20151211T105323Z">
+        <seg>圖 3.97 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074913Z" creationid="Judy" creationdate="20151205T074913Z">
@@ -35765,6 +35773,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T091549Z">
         <seg>允許阻檔並終止由 Active Directory 匯入之使用者帳戶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows calculating the servo correction factor (related to dosing).The servo tests will be recorded in the section Audit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T105317Z" creationid="Judy" creationdate="20151211T105317Z">
+        <seg>機台可計算伺服校正因子 (與給料相關) ，伺服測試將會記錄在審核資料中，</seg>
       </tuv>
     </tu>
     <tu>
@@ -56486,6 +56502,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Servo Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T105332Z" creationid="Judy" creationdate="20151211T105332Z">
+        <seg>伺服測試畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Setting Dynamic Data</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T161329Z" creationid="Judy" creationdate="20151204T161329Z">
@@ -57162,6 +57186,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130526Z" creationid="Judy" creationdate="20151210T130526Z">
         <seg>關於此畫面的詳細資訊請參見 3.6.4 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the section Audit for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T105320Z" creationid="Judy" creationdate="20151211T105320Z">
+        <seg>更多資訊請見「審核」章節。</seg>
       </tuv>
     </tu>
     <tu>
