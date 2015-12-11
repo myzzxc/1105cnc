@@ -25046,6 +25046,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.93.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T022655Z" creationid="Judy" creationdate="20151211T022655Z">
+        <seg>圖 3.93 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074913Z" creationid="Judy" creationdate="20151205T074913Z">
@@ -27159,6 +27167,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140318Z" creationid="Judy" creationdate="20151128T140102Z">
         <seg>從一般功能表中選擇「Programming (程式化)」按鈕後將顯示圖 3.6 之下拉選單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the average difference of the weights obtained by the checweigher and the real weights taken by the scale, a correction can be made to adjust the machine dynamic weight.The various weight tests performed are recorded in the audit section by clicking on the "Correction" or "Save" button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T022612Z" creationid="Judy" creationdate="20151211T022612Z">
+        <seg>藉由檢重機和磅秤所取得的重量差異值進行校正以調整機台的動態秤重，點擊「Correction (校正)」或「Save (保存)」按鈕，所執行的各種秤重測試將會記錄於審核資料中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56454,6 +56470,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Weight Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T022706Z" creationid="Judy" creationdate="20151211T022706Z">
+        <seg>秤重測試畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen containing the information of the net configuration for the checkweigher PC panel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130741Z" creationid="Judy" creationdate="20151210T130741Z">
@@ -57050,6 +57074,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035552Z" creationid="Judy" creationdate="20151205T035548Z">
         <seg>詳細解釋請參閱觸控式螢幕說明，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See “Audit” section for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T022653Z" creationid="Judy" creationdate="20151211T022653Z">
+        <seg>詳細資訊請參閱「Audit (審核)」章節。</seg>
       </tuv>
     </tu>
     <tu>
