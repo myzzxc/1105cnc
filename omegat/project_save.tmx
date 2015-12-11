@@ -14023,6 +14023,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check the status of the printing ribbon and the paper roll.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T123016Z" creationid="Judy" creationdate="20151211T123016Z">
+        <seg>檢查列印色帶、送紙輥的狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the weights of the parts to be lifted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040509Z" creationid="Judy" creationdate="20151205T040235Z">
@@ -30747,6 +30755,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it still does not work, the photocell will have to be replaced with a new one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T122837Z" creationid="Judy" creationdate="20151211T122837Z">
+        <seg>若仍無法運作，必須更換新的光電感應器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If made with a passing pack, an error will occur.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100041Z" creationid="Judy" creationdate="20151206T100022Z">
@@ -31171,6 +31187,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the photocell does not work, the wiring must be checked.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T122806Z" creationid="Judy" creationdate="20151211T122806Z">
+        <seg>若光電感應器無法正常運作，必須檢查接線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the photocell works but the chekweigher still does not count packs, the CPU board will have to be replaced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T122924Z" creationid="Judy" creationdate="20151211T122924Z">
+        <seg>若光電感應器正常但檢重機仍無法計算包裝數量，則必須更換 CPU 板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the pressure cannot be held, the probable cause is a broken tube.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T070426Z">
@@ -31381,8 +31413,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If they are not flashing there may be an error in the communication between the PC and the PCI72 plate.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T122417Z" creationid="Judy" creationdate="20151211T122417Z">
-        <seg>若指示燈未閃爍，PC 和 PCI72 板</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T122444Z" creationid="Judy" creationdate="20151211T122417Z">
+        <seg>若指示燈未閃爍，電腦和 PCI72 板之間的通訊可能有錯誤，</seg>
       </tuv>
     </tu>
     <tu>
@@ -33779,6 +33811,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T052700Z">
         <seg>總體而言，必須確保冷藏鏈功能正常，並將細菌繁殖的可能性降至最低以避免保存期限縮短。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In that case you must change the cable, the PC or the plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T122552Z" creationid="Judy" creationdate="20151211T122552Z">
+        <seg>此時必須更換連接線、電腦或 PCI72 板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58823,6 +58863,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Should the problem still remain, verify, from section 3.5 Verify E/S, that when the photocell is covered, the input is enabled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T122706Z" creationid="Judy" creationdate="20151211T122706Z">
+        <seg>若題仍持續，於 3.5 Verify E/S 畫面中檢查光電感應器是否被覆蓋、輸入是否已啟用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should there be 3D files or CAD plan exchanges, the Supplier must have the software allowing these exchanges with the HUTCHINSON site in question.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T023424Z">
@@ -63181,6 +63229,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133633Z">
         <seg>第二代乙太網路擴充模組目前不相容於Arduino Zero Pro電路板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The FENIX PN-10-180 printer does not print or prints wrong (when applicable)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T123002Z" creationid="Judy" creationdate="20151211T123002Z">
+        <seg>FENIX PN-10-180 印表機無法列印或列印錯誤 (如適用)</seg>
       </tuv>
     </tu>
     <tu>
@@ -76866,10 +76922,26 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Verify that in the printer voltage connector (CON 1) the 4 pins are wired as specified in the connection drawing with 1.5 mm cables.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T123306Z" creationid="Judy" creationdate="20151211T123306Z">
+        <seg>確認印表機電源連接線 (CON 1) 中的 4 個針腳依照電路圖並使用 1.5 毫米電線連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Verify that the area on which the machine will be placed upon is designed to support the weight of the machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035820Z" creationid="Judy" creationdate="20151205T035820Z">
         <seg>確認機器放置的區域能承受機器的重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify that the printer communications cable (CON 3) is connected to the connector specified on the electric drawings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T123127Z" creationid="Judy" creationdate="20151211T123127Z">
+        <seg>確認印表機通信傳輸線 (CON 3) 已依電路圖所示連接。</seg>
       </tuv>
     </tu>
     <tu>
