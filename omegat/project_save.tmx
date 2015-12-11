@@ -21106,6 +21106,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T142207Z" creationid="Judy" creationdate="20151211T142202Z">
+        <seg>電氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrical Equipment &amp; Electronics</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114614Z">
@@ -42595,6 +42603,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T142156Z" creationid="Judy" creationdate="20151211T142156Z">
+        <seg>機械</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical Materials: Replacement or repair of defective mechanical parts or manufacturing defects.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T033744Z" creationid="Judy" creationdate="20151128T033744Z">
@@ -54663,6 +54679,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T123140Z">
         <seg>移除網路上擷取之電腦操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove power and air supply</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T142241Z" creationid="Judy" creationdate="20151211T142241Z">
+        <seg>切斷機台電源和空氣供應。</seg>
       </tuv>
     </tu>
     <tu>
