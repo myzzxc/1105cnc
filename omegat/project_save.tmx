@@ -26595,6 +26595,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information check Static Analysis of this manual</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112737Z" creationid="Judy" creationdate="20151211T112737Z">
+        <seg>詳細資訊請參閱本手冊之靜力分析章節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information, please visit nuance.com.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051057Z">
@@ -27934,6 +27942,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085638Z" creationid="Judy" creationdate="20151128T085638Z">
         <seg>一般選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General OverwiewAdjust packsStatic Analysis (adjustment process)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112707Z" creationid="Judy" creationdate="20151211T112707Z">
+        <seg>General OverwiewAdjust packsStatic Analysis (調整流程)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35395,6 +35411,22 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135843Z">
         <seg>內部資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal Data Configuration (if applicable)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112748Z" creationid="Judy" creationdate="20151211T112748Z">
+        <seg>內部資料設定配置 (如適用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal Data of this manual</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112636Z" creationid="Judy" creationdate="20151211T112636Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -43416,6 +43448,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More information in section ¡Error!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112622Z" creationid="Judy" creationdate="20151211T112622Z">
+        <seg>詳細資訊請見本手冊之內部資料章節「¡Error!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More particularly, the present invention relates to side-by-side all terrain vehicles having plural rows of seats.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T125806Z">
@@ -44273,6 +44313,14 @@ without the documented approval of the appropriate Quality Control personnel.
         <seg>No revision level change is required for grammatical or minor typographical emendations, but they must be documented in the revision history.
 文法或小幅錯字修正無需更改版本數，但必須記錄於修訂歷史中。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No se encuentra el origen de la referencia..</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112632Z" creationid="Judy" creationdate="20151211T112632Z">
+        <seg>No se encuentra el origen de la referencia.」</seg>
       </tuv>
     </tu>
     <tu>
@@ -47621,14 +47669,6 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T082902Z">
         <seg>過高的扭矩值會對 IMPERVITE® 內部零件造成負載並可能會導致破裂。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Overview</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150424T113948Z">
-        <seg>概述</seg>
       </tuv>
     </tu>
     <tu>
@@ -59870,6 +59910,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021327Z" creationid="Judy" creationdate="20151205T021327Z">
         <seg>開始生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static Adjustment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112648Z" creationid="Judy" creationdate="20151211T112648Z">
+        <seg>靜態調整</seg>
       </tuv>
     </tu>
     <tu>
