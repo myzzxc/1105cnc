@@ -38617,6 +38617,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a second overfilling that is activated through a physical enabled input for an external overfilling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154950Z" creationid="Judy" creationdate="20151211T154950Z">
+        <seg>其為由外部實體輸入啟用之外部過重所啟動的二次過重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a second overfilling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154629Z" creationid="Judy" creationdate="20151211T154629Z">
@@ -48179,16 +48187,16 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>Overfilling Addition (optional): It corresponds to the quantity of target product to be added to the net weight and to the base overfilling.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154648Z" creationid="Judy" creationdate="20151211T154534Z">
-        <seg>Overfilling Addition (過重追加，選配)：目標產品超出淨重和過重基準的量，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T155101Z" creationid="Judy" creationdate="20151211T154534Z">
+        <seg>Overfilling Addition (過填料追加，選配)：目標產品超出淨重和過重基準的量，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Overfilling: It corresponds to the quantity of target product to be added to the net weight.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154401Z" creationid="Judy" creationdate="20151211T154401Z">
-        <seg>Overfilling (過重)：目標產品超出淨重的量，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T155051Z" creationid="Judy" creationdate="20151211T154401Z">
+        <seg>Overfilling (過填料)：目標產品超出淨重的量，</seg>
       </tuv>
     </tu>
     <tu>
