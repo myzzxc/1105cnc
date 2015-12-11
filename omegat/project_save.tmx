@@ -21284,6 +21284,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enables a series of tests of packs’ weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021438Z" creationid="Judy" creationdate="20151211T021438Z">
+        <seg>啟動一系列的包裝重量測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enables automatic updating of Customer Monitoring</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T011707Z">
@@ -25026,6 +25034,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021138Z" creationid="Judy" creationdate="20151211T021138Z">
         <seg>圖 3.91 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.92.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021338Z" creationid="Judy" creationdate="20151211T021338Z">
+        <seg>圖 3.92 </seg>
       </tuv>
     </tu>
     <tu>
@@ -35769,6 +35785,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows display the weight stability values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021249Z" creationid="Judy" creationdate="20151211T021249Z">
+        <seg>可顯示重量穩定性值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows e-mails to be sent through SMTP to make use of servers with SSL authentication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T025652Z">
@@ -38686,6 +38710,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T095522Z">
         <seg>請注意，未經授權重新錄製有版權之影帶、錄影或光碟之聲音或影像、 廣播或有線電視節目以及任何文學、 戲劇、 音樂、 或藝術作品可能觸犯法律。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It stores the last 50 values.These values should be close to zero.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021336Z" creationid="Judy" creationdate="20151211T021336Z">
+        <seg>程式儲存最新的 50 筆數值，這些數值應接近零。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56414,6 +56446,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Weight Stability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021345Z" creationid="Judy" creationdate="20151211T021345Z">
+        <seg>重量穩定性畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen containing the information of the net configuration for the checkweigher PC panel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T130741Z" creationid="Judy" creationdate="20151210T130741Z">
@@ -61891,6 +61931,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141903Z">
         <seg>測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test (Optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021353Z" creationid="Judy" creationdate="20151211T021353Z">
+        <seg>測試 (選配)</seg>
       </tuv>
     </tu>
     <tu>
@@ -77518,6 +77566,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141858Z">
         <seg>重量穩定性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021410Z" creationid="Judy" creationdate="20151211T021410Z">
+        <seg>秤重測試</seg>
       </tuv>
     </tu>
     <tu>
