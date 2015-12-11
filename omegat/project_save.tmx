@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(In any case, select the format you want and make a dynamic and/or static adjustment, if necessary).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113018Z" creationid="Judy" creationdate="20151211T113018Z">
+        <seg>(在任何情況下如有必要，請選擇欲進行，動態或靜態調整的規格)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Keeping compatibility with older checkweighers).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T154838Z" creationid="Judy" creationdate="20151209T154838Z">
@@ -20216,6 +20224,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dynamic Adjustment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113023Z" creationid="Judy" creationdate="20151211T113023Z">
+        <seg>動態調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dynamic Analysis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135824Z">
@@ -26603,6 +26619,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information see Dynamic Adjustment in this manual</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113039Z" creationid="Judy" creationdate="20151211T113039Z">
+        <seg>詳細資訊請參閱本手冊之動態分析章節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information see Section 0.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112921Z" creationid="Judy" creationdate="20151211T112921Z">
+        <seg>詳細資訊請參閱本手冊章節 0 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information, please visit nuance.com.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051057Z">
@@ -26983,6 +27015,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122246Z">
         <seg>FormTyper™ 自動轉換不可輸入的表單成為可輸入之 PDF 表單，使用者能填入、儲存並傳送電子郵件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Format Editing of this manual</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112930Z" creationid="Judy" creationdate="20151211T112930Z">
+        <seg>規格編輯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54136,6 +54176,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T074006Z">
         <seg>發行日期：亞太地區公告日期為 4 月 3 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112849Z" creationid="Judy" creationdate="20151211T112849Z">
+        <seg>發佈規格</seg>
       </tuv>
     </tu>
     <tu>
