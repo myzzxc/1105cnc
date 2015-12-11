@@ -30979,6 +30979,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Reject still does not work, replace the connector and afterwards the solenoid valve coil.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T115017Z" creationid="Judy" creationdate="20151211T115017Z">
+        <seg>若仍然無法正常退回，請更換連接器和電磁閥線圈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Terminate child processes dialog appears click Yes to close the background processes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T153220Z">
