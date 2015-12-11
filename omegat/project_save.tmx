@@ -44376,6 +44376,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Negative Reject limit: Lower limit for a pack reject.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T145556Z" creationid="Judy" creationdate="20151211T145556Z">
+        <seg>Negative Reject Limit (負退回極限)：包裝退回的下極限值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Negative correction: It indicates the last negative correction performed (on the left box); the box on the right corresponds to the maximum negative correction we can reach.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151342Z" creationid="Judy" creationdate="20151210T151342Z">
@@ -80690,6 +80698,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022848Z" creationid="Judy" creationdate="20151205T022848Z">
         <seg>工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working Mode: Setting of the clearance type applied by the units’ control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T145702Z" creationid="Judy" creationdate="20151211T145702Z">
+        <seg>Working Mode (工作模式)：設定單元控制套用之間隙類型。</seg>
       </tuv>
     </tu>
     <tu>
