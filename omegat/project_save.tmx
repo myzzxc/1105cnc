@@ -8831,8 +8831,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Annex 2 - Servo Moving reject</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T142616Z">
-        <seg>附件 2 —— 退回伺服運動</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T153638Z">
+        <seg>附件 2 —— 伺服移動退回</seg>
       </tuv>
     </tu>
     <tu>
@@ -57225,6 +57225,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140158Z" creationid="Judy" creationdate="20151210T140158Z">
         <seg>時間控制畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Units’ Control Programming</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T153601Z" creationid="Judy" creationdate="20151211T153601Z">
+        <seg>單元控制設定畫面</seg>
       </tuv>
     </tu>
     <tu>
