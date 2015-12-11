@@ -44221,6 +44221,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normally this box is empty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T015509Z" creationid="Judy" creationdate="20151211T015452Z">
+        <seg>正常情況下此方塊為空白。ty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Norms and attitudes have changed as a result of educational interventions, institutional changes, improved scientific and technical knowledge, sharing of lessons learned and best practices, and proactive policy and legislative developments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T063445Z">
@@ -45659,6 +45667,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T150435Z">
         <seg>可於監視用戶端上設置系統之目標物件清單中的名稱和物件的顯示模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the top right there is a box (above the 'Average' box) where error messages are shown when available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T015454Z" creationid="Judy" creationdate="20151211T015450Z">
+        <seg>右上方有一個方塊 (「Average (平均) 」方塊上方) 用於顯示錯誤訊息，</seg>
       </tuv>
     </tu>
     <tu>
@@ -64750,6 +64766,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The error messages that may appear are the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T015520Z" creationid="Judy" creationdate="20151211T015520Z">
+        <seg>以下是可能出現的錯誤訊息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The example was done with the Professional, but is valid for the Standard and Enterprise.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143115Z">
@@ -77958,6 +77982,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151203T153713Z">
         <seg>選擇規格時會顯示機台將會停止生產的警告，此時點擊「Accept (接受)」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When starting for the first time, it appears in the left column of vessels the message "Empty".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T015347Z" creationid="Judy" creationdate="20151211T015347Z">
+        <seg>第一次啟動時，容器左側欄位顯示「Empty (空)」訊息。</seg>
       </tuv>
     </tu>
     <tu>
