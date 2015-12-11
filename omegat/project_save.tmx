@@ -16753,6 +16753,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Constant Number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131248Z" creationid="Judy" creationdate="20151211T131248Z">
+        <seg>代碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Construction Elevators</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121120Z">
@@ -18990,9 +18998,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050259Z">
-        <seg>
-說明</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131310Z">
+        <seg>說明</seg>
       </tuv>
     </tu>
     <tu>
@@ -31115,6 +31122,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the driver does not follow the checkweigher instructions or it stops without any reason, check the following list of parameters:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131234Z" creationid="Judy" creationdate="20151211T131234Z">
+        <seg>若驅動器不受檢重機控制或無故停止時，請檢查下列參數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the employee is changing the marital status, disability status or gender, Workday will notify the employee to change his/her benefits automatically.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T122203Z">
@@ -34963,6 +34978,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T093400Z" creationid="Judy" creationdate="20151128T093400Z">
         <seg>機台生產停止指示，進行靜態調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicator</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131303Z" creationid="Judy" creationdate="20151211T131303Z">
+        <seg>指示器</seg>
       </tuv>
     </tu>
     <tu>
@@ -52032,6 +52055,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Programmed Selection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131335Z" creationid="Judy" creationdate="20151211T131335Z">
+        <seg>程式設定選擇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Programming</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140310Z">
@@ -58123,6 +58154,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153430Z">
         <seg>選擇供應商 / 投標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selection Range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131315Z" creationid="Judy" creationdate="20151211T131315Z">
+        <seg>選擇範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -76982,6 +77021,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035820Z" creationid="Judy" creationdate="20151205T035820Z">
         <seg>確認機器放置的區域能承受機器的重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify that the communications cable is switched to the CPU connector, as specified in the electric drawing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131026Z" creationid="Judy" creationdate="20151211T131026Z">
+        <seg>確認通訊傳輸線切換到 CPU 連接器，如電路圖所示。</seg>
       </tuv>
     </tu>
     <tu>
