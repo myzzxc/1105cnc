@@ -31314,6 +31314,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the problem still persists, it will be necessary to change the electronic driver or the PC serial port.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T135347Z" creationid="Judy" creationdate="20151211T135347Z">
+        <seg>若問題依然存在，則需更換電子驅動器或電腦的序列埠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the problem still persists, the display must be changed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T132102Z" creationid="Judy" creationdate="20151211T132102Z">
@@ -74409,6 +74417,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150830Z">
         <seg>點擊 Salary (薪資) 欄位右方的   圖示以進行特設薪資變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make easier the spare materials orders, a listing of the checkweigher mechanical and electrical parts, with its matching list of materials, is offered below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T135520Z" creationid="Judy" creationdate="20151211T135520Z">
+        <seg>為了簡化備用材料的訂購，以下提供了檢重機機械和電氣零件與其匹配材料的清單。</seg>
       </tuv>
     </tu>
     <tu>
