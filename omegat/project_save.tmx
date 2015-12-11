@@ -4793,6 +4793,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A previous screen will appear where the user can select the format, which the parameters will be edited on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154001Z" creationid="Judy" creationdate="20151211T154001Z">
+        <seg>螢幕將先出現讓使用者選擇欲編輯參數之規格的畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A pro-poor pricing policy keeps costs as low as possible, while ensuring that water is paid for at a level that supports maintenance and potential expansion of the system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T132308Z">
@@ -22739,6 +22747,15 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External Overfilling (optional):It corresponds to the quantity of target product to be added to the net weight and to the base overfilling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154734Z" creationid="Judy" creationdate="20151211T154638Z">
+        <seg>External Overfilling (外部過重，選配)：目標產品超出淨重和過重基準的量，
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External receiver:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150429T133942Z">
@@ -25301,6 +25318,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure A.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154048Z" creationid="Judy" creationdate="20151211T154048Z">
+        <seg>圖 A.2 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure3.85.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135436Z" creationid="Judy" creationdate="20151210T135436Z">
@@ -26219,6 +26244,14 @@ Count on steady, less jittery images with effective compensation for camera shak
         <seg>For a better understanding of this screen, the different parameters are explained below:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144830Z" creationid="Judy" creationdate="20151129T134118Z">
+        <seg>為了更方便了解此畫面操作，以下為其不同參數之定義：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a better understanding of this screen, the different parameters are shown below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154046Z" creationid="Judy" creationdate="20151211T154046Z">
         <seg>為了更方便了解此畫面操作，以下為其不同參數之定義：</seg>
       </tuv>
     </tu>
@@ -33093,6 +33126,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case the checkweigher has the servo moving reject function, the program will show the following screen, where the user can program or modify the parameters related to the servo moving reject.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T153804Z" creationid="Judy" creationdate="20151211T153804Z">
+        <seg>當檢重機設有伺服移動退回功能時，程式將具有以下畫面，使用者能設定或修改伺服移動退回相關參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In case the validation of this parameter involves going out of production or disarranging format, the checkweigher will show a previous warning allowing to cancell the action.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151208T084356Z">
@@ -38576,6 +38617,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a second overfilling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154629Z" creationid="Judy" creationdate="20151211T154629Z">
+        <seg>其為二次過重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is activated by a pneumatic cylinder.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121416Z" creationid="Judy" creationdate="20151207T121416Z">
@@ -38892,6 +38941,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T152706Z" creationid="Judy" creationdate="20151129T152706Z">
         <seg>設定為淨重之 % 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is programmed in % with reference to the net weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154422Z" creationid="Judy" creationdate="20151211T154422Z">
+        <seg>設定為相對淨重之 % 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48120,6 +48177,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overfilling Addition (optional): It corresponds to the quantity of target product to be added to the net weight and to the base overfilling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154648Z" creationid="Judy" creationdate="20151211T154534Z">
+        <seg>Overfilling Addition (過重追加，選配)：目標產品超出淨重和過重基準的量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overfilling: It corresponds to the quantity of target product to be added to the net weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154401Z" creationid="Judy" creationdate="20151211T154401Z">
+        <seg>Overfilling (過重)：目標產品超出淨重的量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overlay (Merge) multiple document pages into one PDF page</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150613T040305Z">
@@ -57201,6 +57274,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021146Z" creationid="Judy" creationdate="20151211T021146Z">
         <seg>範圍歷史畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Servo Data Programming</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154059Z" creationid="Judy" creationdate="20151211T154059Z">
+        <seg>伺服資料設定畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -81286,6 +81367,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150449Z" creationid="Judy" creationdate="20151128T133701Z">
         <seg>可以由第一組下拉選單之「General Menu (一般功能表)」中，點擊「Change Format (更改規格)」按鈕進入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can access there through Programming-&gt; Servo /Range.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154039Z" creationid="Judy" creationdate="20151211T154039Z">
+        <seg>可由 Programming-&gt; Servo /Range  (程式設定 -&gt; 伺服/範圍) 進入。</seg>
       </tuv>
     </tu>
     <tu>
