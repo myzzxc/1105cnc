@@ -25054,6 +25054,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.94.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023144Z" creationid="Judy" creationdate="20151211T023144Z">
+        <seg>圖 3.94 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.95.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023258Z" creationid="Judy" creationdate="20151211T023258Z">
+        <seg>圖 3.95 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074913Z" creationid="Judy" creationdate="20151205T074913Z">
@@ -27173,8 +27189,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>From the average difference of the weights obtained by the checweigher and the real weights taken by the scale, a correction can be made to adjust the machine dynamic weight.The various weight tests performed are recorded in the audit section by clicking on the "Correction" or "Save" button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T022612Z" creationid="Judy" creationdate="20151211T022612Z">
-        <seg>藉由檢重機和磅秤所取得的重量差異值進行校正以調整機台的動態秤重，點擊「Correction (校正)」或「Save (保存)」按鈕，所執行的各種秤重測試將會記錄於審核資料中。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023126Z" creationid="Judy" creationdate="20151211T022612Z">
+        <seg>藉由檢重機和磅秤所取得的重量差異值進行校正以調整機台的動態秤重，點擊「Correction (校正)」或「Save (儲存)」按鈕，所執行的各種秤重測試將會記錄於審核資料中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36597,6 +36613,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T071255Z">
         <seg>具有故障切換和故障回復設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It enables a series of X-ray detector test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023246Z" creationid="Judy" creationdate="20151211T023246Z">
+        <seg>機台可進行一系列的 X 光探測器測試，</seg>
       </tuv>
     </tu>
     <tu>
@@ -52379,6 +52403,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RX Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023313Z" creationid="Judy" creationdate="20151211T023313Z">
+        <seg>X 光探測器測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rack and pinion drive system forXand Yaxes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T114938Z">
@@ -56310,6 +56342,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Dm Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023205Z" creationid="Judy" creationdate="20151211T023205Z">
+        <seg>金屬探測器測試畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Edit User</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T021506Z" creationid="Judy" creationdate="20151210T021506Z">
@@ -57018,6 +57058,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T042153Z">
         <seg>請參見第 3.2.1 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See section “Audit” for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023142Z" creationid="Judy" creationdate="20151211T023142Z">
+        <seg>更多資訊請見「審核」章節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61641,6 +61689,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T151526Z" creationid="Judy" creationdate="20151206T151337Z">
         <seg>Tare Offer (皮重功能)：選擇啟用皮重功能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tare Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023340Z" creationid="Judy" creationdate="20151211T023340Z">
+        <seg>箱重測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -68618,6 +68674,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The various external detector tests performed are recorded in the audit section by clicking on the "Save" button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023113Z" creationid="Judy" creationdate="20151211T023113Z">
+        <seg>點擊「Save (儲存)」按鈕，所執行的各種外部探測器測試將會記錄在審核資料中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The vehicle 810 includes a frame 812, and although not specifically shown, would include ground engaging members in the form of tires, which are driven by a drive train.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T065014Z">
@@ -71965,6 +72029,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154319Z" creationid="Judy" creationdate="20151203T154319Z">
         <seg>此畫面能讓使用者於光電感應器偵測包裝實際尺寸和正常工作速度通過時檢視包裝的重量變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen allows to enter the type of witness to be detected by the external detector, and counts the correct and incorrect tests number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023252Z" creationid="Judy" creationdate="20151211T023252Z">
+        <seg>此畫面可輸入外部探測器欲檢測的物質類型，並計算正確和不正確的測試數量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79839,6 +79911,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050423Z">
         <seg>X-MINK 旋轉式葉片泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XR Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023234Z" creationid="Judy" creationdate="20151211T023234Z">
+        <seg>X 光探測器測試</seg>
       </tuv>
     </tu>
     <tu>
