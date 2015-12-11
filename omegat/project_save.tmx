@@ -13887,6 +13887,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check that in section 0, “Reject”, the action value is not zero.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114506Z" creationid="Judy" creationdate="20151211T114458Z">
+        <seg>請參閱章節 0, 「退回」，操作數值非零，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check that sticks make the long corresponding to the distance between spots.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083040Z" creationid="Judy" creationdate="20151205T083040Z">
@@ -30619,6 +30627,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If all the points are fulfilled, but the problem still remains, it will probably be necessary to replace the CPU.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114327Z" creationid="Judy" creationdate="20151211T114327Z">
+        <seg>若以上檢查皆正常，但問題仍然存在，可能需要更換 CPU。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If all the process has been successfully performed, you will automatically access the screen 3.28.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T141416Z" creationid="Judy" creationdate="20151203T141416Z">
@@ -30701,8 +30717,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If in static mode the checkweigher is weighing well but not in dynamic mode, it will be necessary to check whether the graph on section Dynamic Analysis is well centred, according to the initial and final times.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113849Z" creationid="Judy" creationdate="20151211T113849Z">
-        <seg>若靜態模式下檢重機正常而在動態模式下異常，必須檢查動態分析畫面的圖表是否對齊其起始和結束時間。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113923Z" creationid="Judy" creationdate="20151211T113849Z">
+        <seg>若靜態模式下檢重機正常而在動態模式下異常，必須檢查動態分析畫面的圖表是否位於其起始和結束時間中間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31029,8 +31045,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If the graph is well centered and many vibrations are observed, check the conveyor mechanical performance (bearings, band, etc.) and its alignment with the inlet conveyor, to avoid product shocks and possible frictions at the input of the weight conveyor.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113907Z" creationid="Judy" creationdate="20151211T113907Z">
-        <seg>若圖表好為中心和許多振動觀察到，請檢查輸送機的力學性能 (軸承、 樂隊等) 和與進氣式輸送機，避免產品衝擊和重量輸送機的輸入可能摩擦接軌。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114252Z" creationid="Judy" creationdate="20151211T113907Z">
+        <seg>若圖表位於中間且觀測到許多震動，檢查輸送機機械性能 (軸承、輸送帶等) 以及與入口輸送機之對位，以避免產品的撞擊和與秤重輸送機入口產生摩擦的可能性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64734,6 +64750,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The checkweigher does not reject</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114340Z" creationid="Judy" creationdate="20151211T114340Z">
+        <seg>檢重機無法退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The checkweigher does not weigh well</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113238Z" creationid="Judy" creationdate="20151211T113238Z">
@@ -77190,6 +77214,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053506Z">
         <seg>W5500 TCP/IP嵌入式乙太網路控制器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114255Z" creationid="Judy" creationdate="20151211T114255Z">
+        <seg>警告</seg>
       </tuv>
     </tu>
     <tu>
