@@ -19806,6 +19806,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Download: A message that appears when the input puls generated while turning the carousel is over three quarters of the cadence time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T015722Z" creationid="Judy" creationdate="20151211T015722Z">
+        <seg>Download (下載)：當轉盤轉動超過四分之三的輸送間隔時間時將產生輸入訊號以顯示一條訊息，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download: PDF of GSM shield schematic, Reference design</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133214Z">
@@ -38073,6 +38081,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is necessary to have a configured Range input to know when the back round is ended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T015926Z" creationid="Judy" creationdate="20151211T015901Z">
+        <seg>必須設定範圍輸入以了解返回轉動結束時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is necessary work with precision values is ensures the correct sealing of sticks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065529Z" creationid="Judy" creationdate="20151206T065529Z">
@@ -52335,6 +52351,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084758Z" creationid="Judy" creationdate="20151208T084629Z">
         <seg>Range (範圍)：指定之循環的範圍已完成之輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range: Message displayed when the machine has made a carousel round (from the programmed vessels number) without receiving any back input signal of the carousel (the input range must be programmed).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T015919Z" creationid="Judy" creationdate="20151211T015919Z">
+        <seg>Range (範圍)：: Message displayed when the machine has made a carousel round (from the programmed vessels number) without receiving any back input signal of the carousel (the input range must be programmed).</seg>
       </tuv>
     </tu>
     <tu>
