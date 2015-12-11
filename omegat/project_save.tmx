@@ -41876,6 +41876,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make pressure on the roller ends</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T143309Z" creationid="Judy" creationdate="20151211T143228Z">
+        <seg>於兩端輥上加壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure all of the protection devices are perfectly closed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065523Z" creationid="Judy" creationdate="20151205T065523Z">
@@ -54727,6 +54735,22 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T020020Z">
         <seg>如果需要額外的載貨空間且無需乘客空間時能拆除一張或多張後排座椅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing the band</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T143113Z" creationid="Judy" creationdate="20151211T143113Z">
+        <seg>拆除傳輸帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing the band or the roller</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T143331Z" creationid="Judy" creationdate="20151211T143331Z">
+        <seg>拆除傳輸帶或輥</seg>
       </tuv>
     </tu>
     <tu>
