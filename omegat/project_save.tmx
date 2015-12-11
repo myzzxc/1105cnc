@@ -56614,6 +56614,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ScreenTare Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023653Z" creationid="Judy" creationdate="20151211T023653Z">
+        <seg>箱重測試畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screens</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101627Z">
@@ -58123,6 +58131,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T150045Z" creationid="Judy" creationdate="20151208T150045Z">
         <seg>Servo Operation (伺服操作)：伺服輸出之操作模式：比例或脈衝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servo Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T023715Z" creationid="Judy" creationdate="20151211T023715Z">
+        <seg>伺服測試</seg>
       </tuv>
     </tu>
     <tu>
