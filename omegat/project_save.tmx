@@ -35905,6 +35905,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It allows making a series of metal detector test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T022801Z" creationid="Judy" creationdate="20151211T022740Z">
+        <seg>機台可進行一系列的金屬探測器測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows modifications in system objects, such as cameras, map, analytics configuration, LPR configuration, and screen styles, to be automatically reflected in the surveillance client, without the need to update the client.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T142928Z">
@@ -40825,6 +40833,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T130242Z" creationid="Judy" creationdate="20151208T130242Z">
         <seg>MD / XR Input (金屬/X光探測器輸入)：(僅金屬/X光探測器) 金屬探測器連接至秤重控制器的實體輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MD Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T022717Z" creationid="Judy" creationdate="20151211T022717Z">
+        <seg>金屬探測器測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -71909,6 +71925,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T142542Z">
         <seg>堅固的 Exacto 型刀鋒設計包含了多種尺寸及強度可供選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen allows entering the type of witness to be detected by the external detector, and counts the correct and incorrect tests number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T022954Z" creationid="Judy" creationdate="20151211T022954Z">
+        <seg>此畫面可輸入外部探測器欲檢測的物質類型，並計算正確和不正確的測試數量。</seg>
       </tuv>
     </tu>
     <tu>
