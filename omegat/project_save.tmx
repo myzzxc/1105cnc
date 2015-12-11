@@ -6417,6 +6417,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112334Z" creationid="Judy" creationdate="20151211T112334Z">
+        <seg>執行動作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actionable design specification for implementing products</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T122322Z">
@@ -13663,6 +13671,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change Production Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112225Z" creationid="Judy" creationdate="20151211T112225Z">
+        <seg>更改生產資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change User</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134437Z">
@@ -13675,6 +13691,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T132424Z" creationid="Judy" creationdate="20151128T132424Z">
         <seg>變更使用者密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change button: We are sent to the production data display, provided this option is set.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112141Z" creationid="Judy" creationdate="20151211T112141Z">
+        <seg>更改按鈕：點選此選項將進入生產資料畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13731,6 +13755,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023057Z" creationid="Judy" creationdate="20151205T023057Z">
         <seg>更改密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change production data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112145Z" creationid="Judy" creationdate="20151211T112145Z">
+        <seg>更改生產資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -16421,6 +16453,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T054608Z" creationid="Judy" creationdate="20151208T054608Z">
         <seg>Configure Retaining (設定固定器)：設定是否有固定區段以及其型號，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure cell</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112446Z" creationid="Judy" creationdate="20151211T112446Z">
+        <seg>設定儲存格</seg>
       </tuv>
     </tu>
     <tu>
@@ -24702,6 +24742,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.47.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112221Z" creationid="Judy" creationdate="20151211T112221Z">
+        <seg>圖 3.47 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3.5.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T140238Z" creationid="Judy" creationdate="20151128T140238Z">
@@ -28110,6 +28158,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T151828Z">
         <seg>進行安裝程式步驟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112438Z" creationid="Judy" creationdate="20151211T112415Z">
+        <seg>進入執行畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -36333,6 +36389,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150910T141035Z">
         <seg>它能輕鬆地追蹤產品和設計決策以維持和策略同調，確保長久的產品基礎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It allows you to modify certain parameters regarding the format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112219Z" creationid="Judy" creationdate="20151211T112219Z">
+        <seg>可修改規格的特定參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59878,6 +59942,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T051357Z">
         <seg>加強您的供應鏈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112326Z" creationid="Judy" creationdate="20151211T112326Z">
+        <seg>步驟</seg>
       </tuv>
     </tu>
     <tu>
