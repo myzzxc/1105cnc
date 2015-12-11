@@ -68872,6 +68872,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The touch does not work</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T134752Z" creationid="Judy" creationdate="20151211T134752Z">
+        <seg>觸  摸不工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The track change is automatically performed clicking on the screen header</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143647Z" creationid="Judy" creationdate="20151129T143647Z">
