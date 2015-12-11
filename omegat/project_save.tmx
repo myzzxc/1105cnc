@@ -14015,6 +14015,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check whether in static mode the checkweigher weighs correctly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113438Z" creationid="Judy" creationdate="20151211T113438Z">
+        <seg>檢查靜態模式下檢重機是否能正確秤重，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check your uniform support on the ground.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T044750Z" creationid="Judy" creationdate="20151205T044750Z">
@@ -27994,6 +28002,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General OverwiewPacks AdjustmentDynamic Analysis (calibration process)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113301Z" creationid="Judy" creationdate="20151211T113301Z">
+        <seg>General OverwiewPacks AdjustmentDynamic Analysis (校正流程)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General description of the surveillance and recording software:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T021422Z">
@@ -41529,6 +41545,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083312Z" creationid="Judy" creationdate="20151205T083312Z">
         <seg>加入填料試轉數個直條包裝以檢查是否正常。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make a static adjustment (see section 3.4.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113521Z" creationid="Judy" creationdate="20151211T113500Z">
+        <seg>使用已知重量進行靜態調整 (請見章節 3.4.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59986,6 +60010,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Static Analysis) with an already known weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113525Z" creationid="Judy" creationdate="20151211T113511Z">
+        <seg>靜態分析)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Static adjustment process.Going on in successive steps buttons “Standard Weight” and “Loaded Platform” are being enabled.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T141228Z" creationid="Judy" creationdate="20151203T141222Z">
@@ -64682,6 +64714,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151124T151936Z" creationid="Judy" creationdate="20151124T151936Z">
         <seg>檢重機檢查所有通過生產線的產品，其中若有任何不符合重量規格之產品將會被剔除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The checkweigher does not weigh well</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113238Z" creationid="Judy" creationdate="20151211T113238Z">
+        <seg>檢重機無法秤重</seg>
       </tuv>
     </tu>
     <tu>
@@ -76722,6 +76762,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Verify that the weight sensor does not have any kind of dirt which could avoid its free movement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113406Z" creationid="Judy" creationdate="20151211T113406Z">
+        <seg>確認秤重感應器上無影響其作動之異物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Verify the bands are not disbanded or torn</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T130751Z" creationid="Judy" creationdate="20151128T130751Z">
@@ -80943,6 +80991,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T123504Z">
         <seg>畫面將會導向下一個頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will find hereafter how to proceed in order to settle the following situations:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113217Z" creationid="Judy" creationdate="20151211T113217Z">
+        <seg>以下為可能遭遇之故障的排除方法：</seg>
       </tuv>
     </tu>
     <tu>
