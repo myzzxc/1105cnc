@@ -25014,6 +25014,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3.90.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020938Z" creationid="Judy" creationdate="20151211T020938Z">
+        <seg>圖 3.90 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.91.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021138Z" creationid="Judy" creationdate="20151211T021138Z">
+        <seg>圖 3.91 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074913Z" creationid="Judy" creationdate="20151205T074913Z">
@@ -34191,6 +34207,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this screen the latest twenty range cycles are shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021023Z" creationid="Judy" creationdate="20151211T021023Z">
+        <seg>此畫面中顯示最新的二十筆範圍週期，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this screen the partial or total line data are shown.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134826Z" creationid="Judy" creationdate="20151210T134826Z">
@@ -36261,6 +36285,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T042108Z">
         <seg>此外，電路板還有其它功能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also has the refresh button allowing displaying, within the history, the latest generated cycles while viewing this screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021136Z" creationid="Judy" creationdate="20151211T021136Z">
+        <seg>其中也有重新整理按鈕可於檢視此畫面時顯示歷史資料中最新的循環資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56294,6 +56326,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen Production Display: Range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020950Z" creationid="Judy" creationdate="20151211T020950Z">
+        <seg>生產顯示：範圍畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen Production Servo</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140957Z" creationid="Judy" creationdate="20151210T140957Z">
@@ -56314,6 +56354,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T152415Z" creationid="Judy" creationdate="20151210T152415Z">
         <seg>範圍畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Range History</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T021146Z" creationid="Judy" creationdate="20151211T021146Z">
+        <seg>範圍歷史畫面</seg>
       </tuv>
     </tu>
     <tu>
