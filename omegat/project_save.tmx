@@ -11780,6 +11780,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Belts and pulleys transmission</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T142359Z" creationid="Judy" creationdate="20151211T142359Z">
+        <seg>皮帶和皮帶輪傳動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Benefit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T015421Z">
@@ -19373,6 +19381,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct transmission</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T142743Z" creationid="Judy" creationdate="20151211T142743Z">
+        <seg>直接傳動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direction Control:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T062539Z">
@@ -19985,6 +20001,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055354Z">
         <seg>繪圖（註解）工具，包括線段、矩形、鉛筆、橢圓、多邊形、雲狀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing out the clips</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T142833Z" creationid="Judy" creationdate="20151211T142833Z">
+        <seg>解開扣環</seg>
       </tuv>
     </tu>
     <tu>
@@ -76059,6 +76083,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T074351Z">
         <seg>模塊化無可比擬的專家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unplug the engine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T142352Z" creationid="Judy" creationdate="20151211T142352Z">
+        <seg>拔下馬達電源線</seg>
       </tuv>
     </tu>
     <tu>
