@@ -25936,6 +25936,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fixed Weight Product: This is the tare weight of the units within a pack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T145251Z" creationid="Judy" creationdate="20151211T145251Z">
+        <seg>Fixed Weight Product (固定重量產品)：包裝中的單元之箱重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fixed, pre- tensioned (0.04mm) baflscrews minimize thermal growth, enhance rigidity, stability, and precision of the machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151117T131200Z">
@@ -42563,6 +42571,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum Floating Limit: Upper weight limit for a pack to join the average weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T145411Z" creationid="Judy" creationdate="20151211T145411Z">
+        <seg>Maximum Floating Limit (最大浮動極限)：包裝採用以計算平均重量的重量上極限值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum Frequency</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131410Z" creationid="Judy" creationdate="20151211T131410Z">
@@ -43135,6 +43151,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T090638Z">
         <seg>最低空氣壓力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum Floating Limit: Lower weight limit for a pack to join the average weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T145433Z" creationid="Judy" creationdate="20151211T145433Z">
+        <seg>Minimum Floating Limit (最小浮動極限)：包裝採用以計算平均重量的重量下極限值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50719,6 +50743,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151306Z" creationid="Judy" creationdate="20151210T151144Z">
         <seg>Positive Correction (正校正)：最後進行的正校正 (位於左側方塊)；右側方塊為可達成之最大正校正值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Positive Reject Limit: Upper limit for a pack reject.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T145541Z" creationid="Judy" creationdate="20151211T145541Z">
+        <seg>Positive Reject Limit (正退回極限)：包裝退回的上極限值。</seg>
       </tuv>
     </tu>
     <tu>
