@@ -25293,6 +25293,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure A.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T150707Z" creationid="Judy" creationdate="20151211T150707Z">
+        <seg>圖 A.1 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure3.85.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135436Z" creationid="Judy" creationdate="20151210T135436Z">
@@ -26002,8 +26010,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>Floating Net: When this option is enabled, the weight reject tolerances will depend on the value of the floating net.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T150019Z" creationid="Judy" creationdate="20151211T150019Z">
-        <seg>Floating Net (浮動淨重)：當啟用此選項時，重量退回容許值將取決於浮動淨重之數值。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T150652Z" creationid="Judy" creationdate="20151211T150019Z">
+        <seg>Floating Net (浮動淨重)：當啟用此選項時，重量退回容許值將取決於浮動淨重值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31622,6 +31630,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T015205Z" creationid="Judy" creationdate="20151211T015205Z">
         <seg>若極限超過正和負兩個方向時，數值顯示紅色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this option is disabled, the weight reject tolerances will depend on the initial net.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T150644Z" creationid="Judy" creationdate="20151211T150644Z">
+        <seg>若此選項已停用，則重量退回容許值將取決於初始淨重值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74817,6 +74833,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150604T122049Z">
         <seg>Power PDF 的自訂安裝 ＆ 佈署工具能輕易地進行企業級資料管控，為大型法律事務所和法務部門提供支援 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To switch back to the previous screen click on the Esc key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T150702Z" creationid="Judy" creationdate="20151211T150702Z">
+        <seg>若要回到前一畫面，請點擊 Esc 鍵。</seg>
       </tuv>
     </tu>
     <tu>
