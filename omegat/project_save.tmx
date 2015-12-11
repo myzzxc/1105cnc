@@ -8229,6 +8229,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also check on the drawing that the parameter that you would like to reject is actually wired.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114601Z" creationid="Judy" creationdate="20151211T114601Z">
+        <seg>此外檢查電路圖確認欲退回之參數已正確連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also mounted on the stand are motor starter boxes for both the vacuum pump and dust extraction blower.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T065027Z">
@@ -13899,6 +13907,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083040Z" creationid="Judy" creationdate="20151205T083040Z">
         <seg>檢查直條包裝長度對應至感測點之間的距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check that the air pressure of the system is at 6 bars and that the control valve is open.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114633Z" creationid="Judy" creationdate="20151211T114633Z">
+        <seg>檢查系統的空氣壓力為 6 bars，且控制閥門已開啟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30851,6 +30867,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If points 1 and 2 are met, go to section “Verify E/S”  and force the reject output to verify it is activated (the LED will have to light up).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114827Z" creationid="Judy" creationdate="20151211T114827Z">
+        <seg>若第 1 和第 2 點皆滿足，進入「Verify E/S」畫面並強制退出輸出以確認其已啟動 (指示燈會亮起)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If pressure continues to drop slowly, check test fixtures and test gaskets for leaks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065052Z">
@@ -30935,6 +30959,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151031T081716Z">
         <seg>如果員工的職等為 A-D，職位變更申請也會送至職能總監 (Functional Director, Opex 成員)、 人力資源職能總監 (HR Functional ，與 Opex 成員同等) 集團獎勵總監 (Group Reward Director)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the LED does not light up, the problem is on the CPU that will have to be replaced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114924Z" creationid="Judy" creationdate="20151211T114924Z">
+        <seg>若指示燈未亮起，則為 CPU 的問題，必須進行更換。</seg>
       </tuv>
     </tu>
     <tu>
