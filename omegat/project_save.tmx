@@ -52357,8 +52357,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>Range: Message displayed when the machine has made a carousel round (from the programmed vessels number) without receiving any back input signal of the carousel (the input range must be programmed).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020257Z" creationid="Judy" creationdate="20151211T015919Z">
-        <seg>Range (範圍)：當機台轉盤轉動時 (根據設定容器數量) 未接收到任何轉盤返回輸入訊號 (必需設定輸入範圍) 顯示之訊息，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020542Z" creationid="Judy" creationdate="20151211T015919Z">
+        <seg>Range (範圍)：當機台轉盤轉動時 (根據設定容器數量) 未接收到任何轉盤返回輸入訊號 (必需設定輸入範圍) 顯示之訊息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70136,6 +70136,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T031447Z">
         <seg>上述材料由傳統路達或刀具加工具極具挑戰性，但擺動刀可輕易處理以上材料，提供乾淨的切邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These messages also appear in the left column described as Synchro (equivalent to the range message) and Downlo (equivalent to the message DOWNLOAD).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020530Z" creationid="Judy" creationdate="20151211T020528Z">
+        <seg>這些訊息也會顯示於左側欄位之 Synchro (同步) (與範圍訊息相同) 和 Downlo (下載) 說明中 (與 DOWNLOAD 訊息相同)。</seg>
       </tuv>
     </tu>
     <tu>
