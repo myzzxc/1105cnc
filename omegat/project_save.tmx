@@ -6056,6 +6056,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acceleration Time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131418Z" creationid="Judy" creationdate="20151211T131418Z">
+        <seg>加速時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accelerator pedal 218 is operatively coupled to power source 130 to control the speed of vehicle 100.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T103536Z">
@@ -13991,6 +13999,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check the display voltage supply according to the drawing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131840Z" creationid="Judy" creationdate="20151211T131840Z">
+        <seg>檢查顯示器電壓供應是否符合電路圖所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the dose and setting if it is necessary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040703Z" creationid="Judy" creationdate="20151206T040703Z">
@@ -18672,6 +18688,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T121347Z">
         <seg>2012 年 12 月 11 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deceleration time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131425Z" creationid="Judy" creationdate="20151211T131425Z">
+        <seg>減速時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -30738,10 +30762,26 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any warning was displayed, you should verify that the VGA output is plugged.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T132038Z" creationid="Judy" creationdate="20151211T132038Z">
+        <seg>若顯示任何警告，應確認已插入 VGA 輸出線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If automatic controls are used on the steam line, use slow opening valves to prevent water hammer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T074738Z">
         <seg>若蒸汽管道使用自動控制，應使用慢速開啟閥門，防止水快速衝出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If following all the previous instructions it is not possible to solve the problem, it will be necessary to change a work format and verify that the led corresponding to the serial channel is active (flashing).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131622Z" creationid="Judy" creationdate="20151211T131622Z">
+        <seg>若依照以上指示仍無法解決問題時，必須更改工作規格並確認對應之序列通道指示燈已亮起 (閃爍)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31270,6 +31310,22 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T123753Z" creationid="Judy" creationdate="20151211T123753Z">
         <seg>若印表機輸出已啟動但無法列印，可能為配線、電路板或印表機之問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the problem still persists, the display must be changed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T132102Z" creationid="Judy" creationdate="20151211T132102Z">
+        <seg>如果問題依然存在則必須更換顯示器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the problem still persists, we recommend you to contact our Technical Service before modifying any programming parameter of the driver.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131705Z" creationid="Judy" creationdate="20151211T131705Z">
+        <seg>若問題依然存在，建議於修改任何驅動器程式設定參數前聯繫我們的技術服務部門。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42435,6 +42491,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum Frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131410Z" creationid="Judy" creationdate="20151211T131410Z">
+        <seg>最大頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum Pack Length: Value calculated from the band length and corresponding to 90% of it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052730Z" creationid="Judy" creationdate="20151208T052724Z">
@@ -42447,6 +42511,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151208T073539Z">
         <seg>Maximum  speed (最高速度)：所有規格之包裝每分鐘最高速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum Voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131413Z" creationid="Judy" creationdate="20151211T131413Z">
+        <seg>最大電壓</seg>
       </tuv>
     </tu>
     <tu>
@@ -47108,6 +47180,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142150Z">
         <seg>發生事件時開啟彈出式攝影機影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operating Mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131345Z" creationid="Judy" creationdate="20151211T131345Z">
+        <seg>操作模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -53606,6 +53686,22 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192833Z">
         <seg>參考測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference Frequency 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131434Z" creationid="Judy" creationdate="20151211T131434Z">
+        <seg>參考頻率 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference Frequency Selection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131402Z" creationid="Judy" creationdate="20151211T131402Z">
+        <seg>參考頻率選擇</seg>
       </tuv>
     </tu>
     <tu>
@@ -63404,6 +63500,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T152941Z">
         <seg>安裝報告中會記錄錯誤：Printer driver detected（偵測到印表機驅動程式）、Files excluded from package（安裝套裝程式中排除之檔案）、Unsupported shell extension detected（偵測到 shell extension 檔案）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LCD display does not work</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131812Z" creationid="Judy" creationdate="20151211T131812Z">
+        <seg>液晶顯示器無法正常運作</seg>
       </tuv>
     </tu>
     <tu>
@@ -77061,6 +77165,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040504Z" creationid="Judy" creationdate="20151205T040318Z">
         <seg>確認吊掛機台部件之工具和機械具有足夠的承重力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify that the warning Cable Not Insert is not displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T131952Z" creationid="Judy" creationdate="20151211T131952Z">
+        <seg>確認無 Cable Not Insert (未插入訊號線) 之警示訊息。</seg>
       </tuv>
     </tu>
     <tu>
