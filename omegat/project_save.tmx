@@ -27267,6 +27267,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the main production screens we have the following shortcuts:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T111850Z" creationid="Judy" creationdate="20151211T111850Z">
+        <seg>主生產畫面中含有下列捷徑：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From there, PALMA™ helps your company to manage your product assortment and architecture over its lifecycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T082206Z">
@@ -40441,6 +40449,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T123824Z">
         <seg>列出所有能增進安全性、保全、無障礙設施和住戶福祉的特點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Listing/Delete Button: We are sent to the listing/delete screen for calculations of format work.See section “0.Listing/Delete calculations”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112038Z" creationid="Judy" creationdate="20151211T112038Z">
+        <seg>列表/刪除按鈕：進入列表/刪除畫面以執行規格計算，請見章節「列表/刪除計算」。</seg>
       </tuv>
     </tu>
     <tu>
