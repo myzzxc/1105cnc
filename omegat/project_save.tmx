@@ -13710,6 +13710,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONFIRM PASSWORD:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064709Z" creationid="Judy" creationdate="20151212T064709Z">
+        <seg>確認密碼：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONFIRM WINDOW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064754Z" creationid="Judy" creationdate="20151212T064754Z">
+        <seg>確認視窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONFIRM:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064448Z" creationid="Judy" creationdate="20151212T064448Z">
@@ -17221,6 +17237,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143420Z" creationid="Judy" creationdate="20151129T143420Z">
         <seg>Conf (ms)：Conf (ms) 欄為分配至輸出的確認視窗時間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conf.Inp</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064747Z" creationid="Judy" creationdate="20151212T064747Z">
+        <seg>確認輸入</seg>
       </tuv>
     </tu>
     <tu>
@@ -21745,6 +21769,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXTEND REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064915Z" creationid="Judy" creationdate="20151212T064915Z">
+        <seg>延伸退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS  from 150mm to 200mm (per Z)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134843Z">
@@ -24016,6 +24048,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035731Z" creationid="Judy" creationdate="20151212T035731Z">
         <seg>回饋——範圍程式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FEEDERS NUMBER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064828Z" creationid="Judy" creationdate="20151212T064828Z">
+        <seg>進料機編號</seg>
       </tuv>
     </tu>
     <tu>
@@ -41550,6 +41590,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LABEL PRINT DELAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064952Z" creationid="Judy" creationdate="20151212T064952Z">
+        <seg>標籤列印延遲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LANGUAGE:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032857Z" creationid="Judy" creationdate="20151212T032857Z">
@@ -55555,6 +55603,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RESTORE REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064926Z" creationid="Judy" creationdate="20151212T064926Z">
+        <seg>還原退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RESTORE SECURITY COPY FROM DISK!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054820Z" creationid="Judy" creationdate="20151212T054820Z">
@@ -64132,6 +64188,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T062541Z">
         <seg>Superseded documents such as old standards are removed and replaced promptly.
 被取代之文件如舊標準等文件必須立即進行更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supervisor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064808Z" creationid="Judy" creationdate="20151212T064808Z">
+        <seg>主管人員</seg>
       </tuv>
     </tu>
     <tu>
@@ -80137,6 +80201,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064702Z" creationid="Judy" creationdate="20151212T064702Z">
+        <seg>使用者：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Users</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115445Z">
@@ -81454,6 +81526,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053603Z" creationid="Judy" creationdate="20151212T053603Z">
         <seg>秤重速度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WEIGHT TEST MODE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064942Z" creationid="Judy" creationdate="20151212T064942Z">
+        <seg>秤重測試模式</seg>
       </tuv>
     </tu>
     <tu>
