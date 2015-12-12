@@ -5378,6 +5378,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACCUMULATED TARES WILL BE DELETED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054708Z" creationid="Judy" creationdate="20151212T054708Z">
+        <seg>累積箱重將被刪除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCUMULATIVE) UNTIL 5 YEARS FROM THE DAY WHEN PRICES START ESCALATING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T123419Z">
@@ -5582,6 +5590,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035158Z" creationid="Judy" creationdate="20151212T035158Z">
         <seg>報警容許值 (-)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ALL DATA WILL BE ERASED!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054747Z" creationid="Judy" creationdate="20151212T054747Z">
+        <seg>所有資料都將被清除！</seg>
       </tuv>
     </tu>
     <tu>
@@ -11292,6 +11308,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BACKUP PROCESS CHECKWEIGHTER DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054603Z" creationid="Judy" creationdate="20151212T054603Z">
+        <seg>備份檢重機生產程序資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BACKUP/RESET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041338Z" creationid="Judy" creationdate="20151212T041338Z">
@@ -13286,6 +13310,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHANGING MACHINE TYPE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054634Z" creationid="Judy" creationdate="20151212T054634Z">
+        <seg>變更機台類型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHANGING NUMBER OF FORMATS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054652Z" creationid="Judy" creationdate="20151212T054652Z">
+        <seg>變更規格編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHANGING YOUR BANK ACCOUNT DETAILS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T144503Z">
@@ -13746,6 +13786,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T040616Z" creationid="Judy" creationdate="20151205T040616Z">
         <seg>吊掛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CREATE BACKUP IN USB DEVICE?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054524Z" creationid="Judy" creationdate="20151212T054524Z">
+        <seg>於 USB 裝置中建立備份檔案嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CREATE SECURITY COPY!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054759Z" creationid="Judy" creationdate="20151212T054759Z">
+        <seg>建立安全性副本！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42797,6 +42853,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MANUAL INSTRUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054725Z" creationid="Judy" creationdate="20151212T054725Z">
+        <seg>說明手冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MANUFACTURE EMPTY STICKS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034031Z" creationid="Judy" creationdate="20151206T034031Z">
@@ -55159,6 +55223,22 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041410Z" creationid="Judy" creationdate="20151212T041410Z">
         <seg>還原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RESTORE PROCESS CHECKWEIGHTER DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054619Z" creationid="Judy" creationdate="20151212T054619Z">
+        <seg>還原檢重機生產程序資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RESTORE SECURITY COPY FROM DISK!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054820Z" creationid="Judy" creationdate="20151212T054820Z">
+        <seg>從磁碟中還原安全性副本！</seg>
       </tuv>
     </tu>
     <tu>
