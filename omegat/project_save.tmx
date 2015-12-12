@@ -30579,6 +30579,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T031714Z" creationid="Judy" creationdate="20151212T031714Z">
+        <seg>資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INSIDE THE MACHINE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043449Z" creationid="Judy" creationdate="20151206T043449Z">
@@ -49911,6 +49919,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151202T163855Z" creationid="Judy" creationdate="20151202T163855Z">
         <seg>車輛承載駕駛、乘客以及貨物 (總增加重量為 740 磅)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passing product ...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T031629Z" creationid="Judy" creationdate="20151212T031629Z">
+        <seg>輸送產品⋯⋯</seg>
       </tuv>
     </tu>
     <tu>
