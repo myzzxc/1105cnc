@@ -22641,6 +22641,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>END@PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143837Z" creationid="Judy" creationdate="20151212T143837Z">
+        <seg>結束@生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ENGINE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T120257Z" creationid="Judy" creationdate="20151212T120257Z">
@@ -22813,6 +22821,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T143739Z">
         <seg>範例 3：用戶已經有 Digifort 監控專業版和 32 架設影機，另外打算購買 4 套影像分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXECUTE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143728Z" creationid="Judy" creationdate="20151212T143728Z">
+        <seg>執行</seg>
       </tuv>
     </tu>
     <tu>
@@ -31682,10 +31698,18 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOLDING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143739Z" creationid="Judy" creationdate="20151212T143723Z">
+        <seg>暫停</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOLDING WEIGHT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064144Z" creationid="Judy" creationdate="20151212T064144Z">
-        <seg>維持重量</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143807Z" creationid="Judy" creationdate="20151212T064144Z">
+        <seg>暫停秤重</seg>
       </tuv>
     </tu>
     <tu>
@@ -48540,6 +48564,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053624Z" creationid="Judy" creationdate="20151212T053624Z">
         <seg>通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOW.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143843Z" creationid="Judy" creationdate="20151212T143843Z">
+        <seg>現在</seg>
       </tuv>
     </tu>
     <tu>
@@ -90312,6 +90344,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>camera</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143930Z" creationid="Judy" creationdate="20151212T143930Z">
+        <seg>攝影機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>change auger filler, auger tube and forming tube IT IS NECESSARY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151206T031945Z">
@@ -90627,6 +90667,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>error</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143925Z" creationid="Judy" creationdate="20151212T143925Z">
+        <seg>錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>etc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120308Z">
@@ -90695,6 +90743,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T134828Z">
         <seg>由框架支撐之多組接觸地面元件；以及一個單元，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gap &lt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143852Z" creationid="Judy" creationdate="20151212T143852Z">
+        <seg>間隙 &lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -90971,6 +91027,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>length</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143854Z" creationid="Judy" creationdate="20151212T143854Z">
+        <seg>長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>less than 1 %</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T142225Z">
@@ -91144,6 +91208,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T143252Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>metal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143900Z" creationid="Judy" creationdate="20151212T143900Z">
+        <seg>金屬</seg>
       </tuv>
     </tu>
     <tu>
@@ -92240,6 +92312,14 @@ z	Everio MediaBrowser 4 Software Provided
 ▋可使用 iMovie 和 Final Cut Pro X 進行後製處理
 ▋附贈 Everio MediaBrowser 4 軟體
  輕鬆上傳至 YouTube/ Facebook （相容 HD 高畫質）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>zero.e</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143915Z" creationid="Judy" creationdate="20151212T143915Z">
+        <seg>歸零.e</seg>
       </tuv>
     </tu>
     <tu>
