@@ -5578,6 +5578,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACUMUL.TARES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142911Z" creationid="Judy" creationdate="20151212T142911Z">
+        <seg>累計箱重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACUMULATE REACTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082648Z" creationid="Judy" creationdate="20151212T082648Z">
@@ -13534,6 +13542,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CADENCE ERROR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142721Z" creationid="Judy" creationdate="20151212T142721Z">
+        <seg>輸送間隔錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CADENCE REJECT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034901Z" creationid="Judy" creationdate="20151212T034901Z">
@@ -14286,6 +14302,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONFIRM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142802Z" creationid="Judy" creationdate="20151212T142802Z">
+        <seg>確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONFIRM END PRODUCTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054331Z" creationid="Judy" creationdate="20151212T054331Z">
@@ -14366,6 +14390,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONTAINER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142840Z" creationid="Judy" creationdate="20151212T142840Z">
+        <seg>集裝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONTAINERS USAGE TERMS:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T160733Z">
@@ -14378,6 +14410,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020927Z" creationid="Judy" creationdate="20151205T020927Z">
         <seg>目錄：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONTINUOS REFUSED PACKAGES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142747Z" creationid="Judy" creationdate="20151212T142747Z">
+        <seg>連續退回包裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -43302,6 +43342,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LENGHT ERROR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142725Z" creationid="Judy" creationdate="20151212T142725Z">
+        <seg>長度錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LENGTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033659Z" creationid="Judy" creationdate="20151212T033659Z">
@@ -58147,6 +58195,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REJECT CONFIRM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142815Z" creationid="Judy" creationdate="20151212T142815Z">
+        <seg>退回確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REJECT CONFIRMATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T114810Z" creationid="Judy" creationdate="20151212T114810Z">
@@ -61584,6 +61640,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SERIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142913Z" creationid="Judy" creationdate="20151212T142913Z">
+        <seg>系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SERIES - TENDENCE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081246Z" creationid="Judy" creationdate="20151212T081205Z">
@@ -61612,6 +61676,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134509Z">
         <seg>系列桌台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERIES+TENDENCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142936Z" creationid="Judy" creationdate="20151212T142936Z">
+        <seg>序列+趨勢</seg>
       </tuv>
     </tu>
     <tu>
@@ -84918,6 +84990,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115028Z" creationid="Judy" creationdate="20151212T115028Z">
         <seg>重量警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WEIGHT CELL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142800Z" creationid="Judy" creationdate="20151212T142800Z">
+        <seg>重量儲存格</seg>
       </tuv>
     </tu>
     <tu>
