@@ -11892,6 +11892,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BROADCAST ADRESS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150650Z" creationid="Judy" creationdate="20151212T150650Z">
+        <seg>廣播位址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BRUSH RING ATTACHMENT FOR HIGH CAPACITY PRESSURE FOOT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132322Z">
@@ -14258,6 +14266,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081154Z" creationid="Judy" creationdate="20151212T081154Z">
         <seg>設置-序列通訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONFIGURATION - TCP/UDP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150707Z" creationid="Judy" creationdate="20151212T150707Z">
+        <seg>設置——TCP/UDP</seg>
       </tuv>
     </tu>
     <tu>
@@ -20286,6 +20302,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T082833Z">
         <seg>文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOMAIN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150825Z" creationid="Judy" creationdate="20151212T150825Z">
+        <seg>網域</seg>
       </tuv>
     </tu>
     <tu>
@@ -30790,6 +30814,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GATEWAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150747Z" creationid="Judy" creationdate="20151212T150747Z">
+        <seg>閘道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GEARS, BEARING AND OIL SEALS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054001Z" creationid="Judy" creationdate="20151206T054001Z">
@@ -31742,6 +31774,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053606Z" creationid="Judy" creationdate="20151206T053606Z">
         <seg>水平切割刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOSTNAME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150812Z" creationid="Judy" creationdate="20151212T150812Z">
+        <seg>主機名稱</seg>
       </tuv>
     </tu>
     <tu>
@@ -33547,6 +33587,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INSPECTOR UDP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150546Z" creationid="Judy" creationdate="20151212T150546Z">
+        <seg>UDP 檢查器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INSTALLATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T072657Z">
@@ -33647,6 +33695,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T002305Z">
         <seg>IOD（固定設備零件）：由固定設備和方法所生產之零件，用於產品和流程審核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IP ADRESS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150604Z" creationid="Judy" creationdate="20151212T150604Z">
+        <seg>IP 位址</seg>
       </tuv>
     </tu>
     <tu>
@@ -43654,6 +43710,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOCAL IP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150716Z" creationid="Judy" creationdate="20151212T150716Z">
+        <seg>本地 IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOCAL TAXES AND IMPORT DUTIES ARE NOT INCLUDED.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T150802Z">
@@ -48380,6 +48444,22 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032934Z" creationid="Judy" creationdate="20151212T032934Z">
         <seg>淨重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NET INFO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150523Z" creationid="Judy" creationdate="20151212T150523Z">
+        <seg>網路資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NET MASK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150655Z" creationid="Judy" creationdate="20151212T150655Z">
+        <seg>網路遮罩</seg>
       </tuv>
     </tu>
     <tu>
@@ -53410,6 +53490,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PORT SERVER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150900Z" creationid="Judy" creationdate="20151212T150900Z">
+        <seg>伺服器連接埠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POS Trend Limit: This parameter is only taken into account in case of working with Average Weight Control activated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153048Z" creationid="Judy" creationdate="20151129T152900Z">
@@ -53654,6 +53742,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T023426Z">
         <seg>價格為加拿大多倫多工廠交貨價。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRIMARY DNS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150759Z" creationid="Judy" creationdate="20151212T150759Z">
+        <seg>主 DNS</seg>
       </tuv>
     </tu>
     <tu>
@@ -61608,6 +61704,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECUNDARY DNS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150808Z" creationid="Judy" creationdate="20151212T150808Z">
+        <seg>次 DNS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SECURITY AND PREVENTIVE MAINTENANCE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040937Z" creationid="Judy" creationdate="20151206T040937Z">
@@ -61652,6 +61756,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125043Z">
         <seg>供應商選擇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SEND ALERTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150905Z" creationid="Judy" creationdate="20151212T150905Z">
+        <seg>發送警報</seg>
       </tuv>
     </tu>
     <tu>
@@ -61764,6 +61876,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115319Z">
         <seg>接受嚴重生產妨害罰金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERVER IP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150851Z" creationid="Judy" creationdate="20151212T150851Z">
+        <seg>伺服器 IP</seg>
       </tuv>
     </tu>
     <tu>
@@ -82552,6 +82672,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UDP INSPECTOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150555Z" creationid="Judy" creationdate="20151212T150555Z">
+        <seg>UDP 檢查器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UNASSIGNED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034028Z" creationid="Judy" creationdate="20151212T034015Z">
@@ -85110,6 +85238,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T122459Z" creationid="Judy" creationdate="20151212T122459Z">
         <seg>秤重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WEIGHT OUT MODE FREQUENCY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150936Z" creationid="Judy" creationdate="20151212T150936Z">
+        <seg>秤重模式頻率</seg>
       </tuv>
     </tu>
     <tu>
