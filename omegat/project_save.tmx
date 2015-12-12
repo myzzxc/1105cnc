@@ -5965,6 +5965,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUXILIARY NAME INPUT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T075259Z" creationid="Judy" creationdate="20151212T075259Z">
+        <seg>備用名稱輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVAILABILITY GUARANTEE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T113723Z">
@@ -32223,6 +32231,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040016Z" creationid="Judy" creationdate="20151212T040016Z">
         <seg>初始包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INITIAL/COMPENSATE PACKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T075431Z" creationid="Judy" creationdate="20151212T075431Z">
+        <seg>初始/補償包裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -59725,6 +59741,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032847Z" creationid="Judy" creationdate="20151212T032847Z">
         <seg>標準：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>START</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T075312Z" creationid="Judy" creationdate="20151212T075303Z">
+        <seg>啟始</seg>
       </tuv>
     </tu>
     <tu>
