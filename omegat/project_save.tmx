@@ -55915,6 +55915,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RANGE PARAMETERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T075919Z" creationid="Judy" creationdate="20151212T075919Z">
+        <seg>範圍參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RANGE – ALARM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053406Z" creationid="Judy" creationdate="20151212T053406Z">
