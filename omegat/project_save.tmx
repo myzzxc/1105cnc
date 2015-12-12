@@ -19621,6 +19621,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dispenser Relationship: This parameter indicates the dispenser regulation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T023134Z" creationid="Judy" creationdate="20151212T023134Z">
+        <seg>Dispenser Relationship (給料機關係)：此為給料機調節參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display the MACHINE SETTINGS .</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075325Z" creationid="Judy" creationdate="20151205T074513Z">
@@ -19673,6 +19681,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022757Z">
         <seg>可分配之 PDF 產品設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribute Down Correction: This parameter controls the duration of the signal applied for the dispenser to correct an excess of product.It indicates the packs number which the calculated correction must be distributed in.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T023040Z" creationid="Judy" creationdate="20151212T023040Z">
+        <seg>Distribute Strong-UP Correction (分派負校正)：此參數控制套用至給料器以校正產品超量的訊號持續時間，其為計算校正值必須分派之包裝數量。</seg>
       </tuv>
     </tu>
     <tu>
