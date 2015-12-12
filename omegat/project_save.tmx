@@ -13246,6 +13246,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONFIGURABLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034816Z" creationid="Judy" creationdate="20151212T034816Z">
+        <seg>可配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONFIGURATION - GENERAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032633Z" creationid="Judy" creationdate="20151212T032542Z">
@@ -13330,6 +13338,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125119Z">
         <seg>成本中心 (COST CENTER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COSTUMER  PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034810Z" creationid="Judy" creationdate="20151212T034810Z">
+        <seg>客戶生產</seg>
       </tuv>
     </tu>
     <tu>
@@ -40542,6 +40558,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LAST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034652Z" creationid="Judy" creationdate="20151212T034652Z">
+        <seg>最後</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LC CONFIRMATION FEE IS UNDER SUPPLIER'S ACCOUNT IF PAID BY CONFIRMED LC.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141645Z">
@@ -48974,6 +48998,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134417Z">
         <seg>PANELBUILDER 2D &amp; 鈑金排版軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PARC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034743Z" creationid="Judy" creationdate="20151212T034727Z">
+        <seg>局部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PARCIAL PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034748Z" creationid="Judy" creationdate="20151212T034748Z">
+        <seg>局部生產</seg>
       </tuv>
     </tu>
     <tu>
@@ -63181,6 +63221,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TIME CONTROL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034758Z" creationid="Judy" creationdate="20151212T034755Z">
+        <seg>時間控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TIME OFF</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T123054Z">
@@ -63193,6 +63241,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033831Z" creationid="Judy" creationdate="20151212T033831Z">
         <seg>時間程式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIMES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034806Z" creationid="Judy" creationdate="20151212T034806Z">
+        <seg>時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -63253,10 +63309,34 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TOTAL PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034753Z" creationid="Judy" creationdate="20151212T034753Z">
+        <seg>總生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOTAL TRACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034733Z" creationid="Judy" creationdate="20151212T034733Z">
+        <seg>總軌道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TOUCH SCREEN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035624Z" creationid="Judy" creationdate="20151205T035624Z">
         <seg>觸控式螢幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034729Z" creationid="Judy" creationdate="20151212T034729Z">
+        <seg>軌道</seg>
       </tuv>
     </tu>
     <tu>
