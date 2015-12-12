@@ -5997,6 +5997,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTOMATIC OSCILLATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083253Z" creationid="Judy" creationdate="20151212T083253Z">
+        <seg>自動振盪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMATIC STOP IN THE EVENT OF ALARM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144506Z" creationid="Judy" creationdate="20151205T144506Z">
@@ -6057,6 +6065,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T071256Z" creationid="Judy" creationdate="20151212T071256Z">
         <seg>平均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AVER./COMPACT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083330Z" creationid="Judy" creationdate="20151212T083330Z">
+        <seg>平均/壓制</seg>
       </tuv>
     </tu>
     <tu>
@@ -11724,6 +11740,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BOTTOM SECURITY FACTOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083124Z" creationid="Judy" creationdate="20151212T083124Z">
+        <seg>下安全係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BRIEF DESCRIPTION OF THE DRAWINGS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151026T150004Z">
@@ -13782,10 +13806,42 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COMPACT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083317Z" creationid="Judy" creationdate="20151212T083317Z">
+        <seg>壓制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMPACT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083337Z" creationid="Judy" creationdate="20151212T083337Z">
+        <seg>壓制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMPACTED PACKAGES=OK</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074246Z" creationid="Judy" creationdate="20151212T074246Z">
         <seg>壓制包裝=OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMPACTING COUNTER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083348Z" creationid="Judy" creationdate="20151212T083348Z">
+        <seg>壓制計數器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMPACTING TIME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083310Z" creationid="Judy" creationdate="20151212T083310Z">
+        <seg>壓制時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -24428,6 +24484,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FB PRIORITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083218Z" creationid="Judy" creationdate="20151212T083218Z">
+        <seg>回饋優先性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FDX: indicates that the network connection is full duplex</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133614Z">
@@ -24480,6 +24544,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052817Z" creationid="Judy" creationdate="20151212T052817Z">
         <seg>回饋設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FEEDBACK OUTPUTS ACTIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083232Z" creationid="Judy" creationdate="20151212T083232Z">
+        <seg>回饋輸出啟動</seg>
       </tuv>
     </tu>
     <tu>
@@ -29942,6 +30014,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GRAMS PULSE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083051Z" creationid="Judy" creationdate="20151212T083051Z">
+        <seg>克數脈衝訊號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GRAPHIC WINDOW</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035025Z" creationid="Judy" creationdate="20151212T035025Z">
@@ -32471,6 +32551,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033241Z" creationid="Judy" creationdate="20151212T033241Z">
         <seg>初始箱重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INITIAL CICLES NUMBER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083103Z" creationid="Judy" creationdate="20151212T083103Z">
+        <seg>初始循環數</seg>
       </tuv>
     </tu>
     <tu>
@@ -42350,6 +42438,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIMIT (POS./NEG.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083145Z" creationid="Judy" creationdate="20151212T083145Z">
+        <seg>限制 (正/負)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LIMIT AVER.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073053Z" creationid="Judy" creationdate="20151212T073053Z">
@@ -48822,6 +48918,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OSCILLATION REFERENCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083203Z" creationid="Judy" creationdate="20151212T083203Z">
+        <seg>振盪參考值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OTHER DELAYS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114633Z">
@@ -52234,6 +52338,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PROPORCIONAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083024Z" creationid="Judy" creationdate="20151212T083024Z">
+        <seg>比例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PROPOSED REVISIONS TO ACCEPTANCE CRITERIA FOR ADHESIVE ANCHOR SYSTEMS IN CONCRETE ELEMENTS (AC308)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T200513Z">
@@ -52294,6 +52406,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053613Z" creationid="Judy" creationdate="20151212T053613Z">
         <seg>訊號脈衝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PULSE LENGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083039Z" creationid="Judy" creationdate="20151212T083039Z">
+        <seg>訊號脈衝時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -56109,6 +56229,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150526T122635Z">
         <seg>供應商品質說明手冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QUEUE PACKAGES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083303Z" creationid="Judy" creationdate="20151212T083303Z">
+        <seg>包裝佇列</seg>
       </tuv>
     </tu>
     <tu>
@@ -80692,6 +80820,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153220Z">
         <seg>美元計價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USE DERIVATIVES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083241Z" creationid="Judy" creationdate="20151212T083241Z">
+        <seg>使用導數</seg>
       </tuv>
     </tu>
     <tu>
