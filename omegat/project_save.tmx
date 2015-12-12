@@ -11195,6 +11195,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average W</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T055043Z" creationid="Judy" creationdate="20151212T055043Z">
+        <seg>平均重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Average Weight (p): It indicates the weight average of the ongoing production.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151051Z" creationid="Judy" creationdate="20151210T151051Z">
@@ -13106,6 +13114,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T134737Z" creationid="Judy" creationdate="20151210T134737Z">
         <seg>C(&gt;&lt;)：介於容許公差 (T + 1) 和 (T - 1) 之間的正確產品數量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CADENCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T055030Z" creationid="Judy" creationdate="20151212T055030Z">
+        <seg>輸送間隔</seg>
       </tuv>
     </tu>
     <tu>
@@ -20056,6 +20072,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090613Z" creationid="Judy" creationdate="20151206T090613Z">
         <seg>Difference (差異值)：此參數為靜態和動態秤重值之間的差異值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different Weights</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054856Z" creationid="Judy" creationdate="20151212T054856Z">
+        <seg>重量差異</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different Zeros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054913Z" creationid="Judy" creationdate="20151212T054913Z">
+        <seg>歸零差異</seg>
       </tuv>
     </tu>
     <tu>
@@ -42079,6 +42111,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Length Wrong</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054905Z" creationid="Judy" creationdate="20151212T054905Z">
+        <seg>長度錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Length: It indicates the pack length in millimeters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T101844Z" creationid="Judy" creationdate="20151129T101844Z">
@@ -55243,6 +55283,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RESTORE SECURITY COPY FROM USB!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054834Z" creationid="Judy" creationdate="20151212T054834Z">
+        <seg>從 USB 裝置中還原安全性副本！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REVIEW &amp; APPROVAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132902Z">
@@ -58476,6 +58524,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053640Z" creationid="Judy" creationdate="20151212T053640Z">
         <seg>班表結束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SHIFT@START</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054845Z" creationid="Judy" creationdate="20151212T054845Z">
+        <seg>班表@開始</seg>
       </tuv>
     </tu>
     <tu>
@@ -78415,6 +78471,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two Weights</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T055027Z" creationid="Judy" creationdate="20151212T054930Z">
+        <seg>連續兩次秤重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two columns are displayed Request and View.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144613Z">
@@ -78435,6 +78499,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T162427Z" creationid="Judy" creationdate="20151203T162427Z">
         <seg>也會顯示另外兩條黑色垂直虛線，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two zeros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T055020Z" creationid="Judy" creationdate="20151212T055020Z">
+        <seg>連續兩次歸零</seg>
       </tuv>
     </tu>
     <tu>
