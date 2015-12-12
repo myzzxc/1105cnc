@@ -13590,6 +13590,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CORRECTION FACTORS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053012Z" creationid="Judy" creationdate="20151212T053002Z">
+        <seg>校正係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CORRECTIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041205Z" creationid="Judy" creationdate="20151212T041205Z">
@@ -18730,10 +18738,34 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DATAHUB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053055Z" creationid="Judy" creationdate="20151212T053055Z">
+        <seg>資料中心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DATAHUB DATA REQUEST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053138Z" creationid="Judy" creationdate="20151212T053138Z">
+        <seg>資料中心請求資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DATAHUB Port: Data Hub program port.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T160725Z" creationid="Judy" creationdate="20151209T160725Z">
         <seg>DATAHUB Port (資料中心連接埠)：資料中心設定連接埠，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DATAHUB UDP CONNECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053108Z" creationid="Judy" creationdate="20151212T053108Z">
+        <seg>資料中心 UDP 連接</seg>
       </tuv>
     </tu>
     <tu>
@@ -18990,6 +19022,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053428Z">
         <seg>選配碟型彈簧墊片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DISPLAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053036Z" creationid="Judy" creationdate="20151212T053036Z">
+        <seg>顯示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DISPLAY@RANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053049Z" creationid="Judy" creationdate="20151212T053049Z">
+        <seg>顯示@範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -23508,6 +23556,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FACTORS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053010Z" creationid="Judy" creationdate="20151212T053010Z">
+        <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FASTER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132852Z">
@@ -23560,6 +23616,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052817Z" creationid="Judy" creationdate="20151212T052817Z">
         <seg>回饋設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FEEDBACK TYPE:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053018Z" creationid="Judy" creationdate="20151212T053018Z">
+        <seg>回饋類型：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28890,6 +28954,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033642Z" creationid="Judy" creationdate="20151212T033642Z">
         <seg>總重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GROUP ELEMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052957Z" creationid="Judy" creationdate="20151212T052957Z">
+        <seg>群組元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -57655,6 +57727,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SCADA TCP CONNECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053126Z" creationid="Judy" creationdate="20151212T053126Z">
+        <seg>SCADA TCP 連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCANNER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022738Z">
@@ -57800,10 +57880,26 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SERIAL FORMAT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053232Z" creationid="Judy" creationdate="20151212T053232Z">
+        <seg>序列規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SERIES ELEMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052903Z" creationid="Judy" creationdate="20151212T052854Z">
         <seg>系列元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERIES LIMIT MIN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052938Z" creationid="Judy" creationdate="20151212T052938Z">
+        <seg>系列限制最小值</seg>
       </tuv>
     </tu>
     <tu>
@@ -64089,6 +64185,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052906Z" creationid="Judy" creationdate="20151212T052906Z">
         <seg>趨勢元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TENDENCE LIMIT MIN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052947Z" creationid="Judy" creationdate="20151212T052947Z">
+        <seg>趨勢限制最小值</seg>
       </tuv>
     </tu>
     <tu>
