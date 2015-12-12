@@ -24047,6 +24047,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error CR receiving  dynamic graphic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125445Z" creationid="Judy" creationdate="20151212T125445Z">
+        <seg>CR 接收動態圖形錯誤 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error LF receiving  dynamic graphic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125436Z" creationid="Judy" creationdate="20151212T125416Z">
+        <seg>LF 接收動態圖形錯誤 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error comms.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125255Z" creationid="Judy" creationdate="20151212T125255Z">
@@ -24059,6 +24075,22 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124742Z" creationid="Judy" creationdate="20151212T124742Z">
         <seg>檔案錯誤⋯⋯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error index number different 1602(indexMemoGrafica)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125425Z" creationid="Judy" creationdate="20151212T125352Z">
+        <seg>索引號相異 1602(indexMemoGrafica) 錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error instruction code send false</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125524Z" creationid="Judy" creationdate="20151212T125524Z">
+        <seg>指令代碼發送錯誤</seg>
       </tuv>
     </tu>
     <tu>
@@ -24083,6 +24115,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124733Z" creationid="Judy" creationdate="20151212T124733Z">
         <seg>儲存檔案錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error status track.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125612Z" creationid="Judy" creationdate="20151212T125612Z">
+        <seg>軌道狀態錯誤，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44497,6 +44537,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123903Z">
         <seg>更長的折舊時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lost communications PCI72</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125639Z" creationid="Judy" creationdate="20151212T125639Z">
+        <seg>失去 PCI72 通訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -81451,6 +81499,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031017Z">
         <seg>追蹤記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Track unavailable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125622Z" creationid="Judy" creationdate="20151212T125622Z">
+        <seg>軌道不存在</seg>
       </tuv>
     </tu>
     <tu>
