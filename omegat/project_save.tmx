@@ -5514,6 +5514,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACTION CONVERSION FACTOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082913Z" creationid="Judy" creationdate="20151212T082835Z">
+        <seg>動作轉換係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACTION TIME</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035213Z" creationid="Judy" creationdate="20151212T035213Z">
@@ -24460,6 +24468,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FEEDBACK ACTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082909Z" creationid="Judy" creationdate="20151212T082909Z">
+        <seg>回饋動作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FEEDBACK CONFIG</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052817Z" creationid="Judy" creationdate="20151212T052817Z">
@@ -42486,6 +42502,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOWER CORRECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082735Z" creationid="Judy" creationdate="20151212T082702Z">
+        <seg>校正下限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LUBRICATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052323Z" creationid="Judy" creationdate="20151206T052323Z">
@@ -44225,6 +44249,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032308Z" creationid="Judy" creationdate="20151206T032308Z">
         <seg>安裝以進行填料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MOVING AVERAGE LIMIT (0) (R-)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082820Z" creationid="Judy" creationdate="20151212T082820Z">
+        <seg>移動平均限制 (0) (R-)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56299,6 +56331,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RANGE CICLES NUMBER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082857Z" creationid="Judy" creationdate="20151212T082857Z">
+        <seg>範圍循環數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RANGE LIMIT EXCEDED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080829Z" creationid="Judy" creationdate="20151212T080829Z">
@@ -59780,6 +59820,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040937Z" creationid="Judy" creationdate="20151206T040937Z">
         <seg>安全和預防性維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECURITY LOWER LIMIT (0) (R-) (Nor/Ft)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082719Z" creationid="Judy" creationdate="20151212T082719Z">
+        <seg>安全下限 (0) (R-) (Nor/Ft)</seg>
       </tuv>
     </tu>
     <tu>
