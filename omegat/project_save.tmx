@@ -1914,6 +1914,14 @@ Take Everio out in the snow or on the slopes � even if you�re freezing, Ever
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0 MORE ATTEMPTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073454Z" creationid="Judy" creationdate="20151212T073454Z">
+        <seg>更多歸零嘗試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0.2% of invoices are</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T230629Z">
@@ -5849,6 +5857,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T121615Z">
         <seg>ATC - 自動換刀器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUDIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073403Z" creationid="Judy" creationdate="20151212T073403Z">
+        <seg>審核</seg>
       </tuv>
     </tu>
     <tu>
@@ -13414,6 +13430,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHANGE PASSW.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073401Z" creationid="Judy" creationdate="20151212T073401Z">
+        <seg>更改密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHANGE PASSWORD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064656Z" creationid="Judy" creationdate="20151212T064656Z">
@@ -19074,6 +19098,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DATA OF MACHINE WILL BE ERASED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073353Z" creationid="Judy" creationdate="20151212T073353Z">
+        <seg>將清除所有機台資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DATA PROD.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040810Z" creationid="Judy" creationdate="20151212T040810Z">
@@ -19090,10 +19122,26 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DATAHUB &gt;&gt;&gt; FORMAT &gt;&gt;&gt; CHECKWEIGHER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073303Z" creationid="Judy" creationdate="20151212T073303Z">
+        <seg>資料中心 &gt;&gt;&gt; 規格 &gt;&gt;&gt; 檢重機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DATAHUB DATA REQUEST</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053138Z" creationid="Judy" creationdate="20151212T053138Z">
         <seg>資料中心請求資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DATAHUB FORMAT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073318Z" creationid="Judy" creationdate="20151212T073318Z">
+        <seg>資料中心規格 </seg>
       </tuv>
     </tu>
     <tu>
@@ -21693,6 +21741,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T231005Z">
         <seg>結束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>END CHECKWEIGHER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073229Z" creationid="Judy" creationdate="20151212T073229Z">
+        <seg>關閉檢重機</seg>
       </tuv>
     </tu>
     <tu>
@@ -25280,6 +25336,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064050Z" creationid="Judy" creationdate="20151212T064050Z">
         <seg>規格資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FORMATS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073357Z" creationid="Judy" creationdate="20151212T073357Z">
+        <seg>規格：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59393,6 +59457,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>START CHECKWEIGHER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073311Z" creationid="Judy" creationdate="20151212T073311Z">
+        <seg>啟動檢重機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>START MACHINE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053628Z" creationid="Judy" creationdate="20151212T053628Z">
@@ -65569,6 +65641,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054253Z" creationid="Judy" creationdate="20151212T054253Z">
         <seg>無法刪除使用中規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE LICENCE NUMBER IS NOT CORRECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073329Z" creationid="Judy" creationdate="20151212T073329Z">
+        <seg>授權編號不正確</seg>
       </tuv>
     </tu>
     <tu>
@@ -81842,6 +81922,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WAIT 5 MIN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073512Z" creationid="Judy" creationdate="20151212T073512Z">
+        <seg>等待 5 分鐘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WARNING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114255Z" creationid="Judy" creationdate="20151211T114255Z">
@@ -82070,6 +82158,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064508Z" creationid="Judy" creationdate="20151212T064508Z">
         <seg>密碼錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WRONG PASSWORD.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073518Z" creationid="Judy" creationdate="20151212T073459Z">
+        <seg>密碼錯誤，</seg>
       </tuv>
     </tu>
     <tu>
