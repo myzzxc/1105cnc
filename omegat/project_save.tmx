@@ -5941,6 +5941,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AVER.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T071256Z" creationid="Judy" creationdate="20151212T071256Z">
+        <seg>平均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVERAGE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040636Z" creationid="Judy" creationdate="20151212T040636Z">
@@ -50373,6 +50381,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040028Z" creationid="Judy" creationdate="20151212T040028Z">
         <seg>補償包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PACKS/FIX WEIGHT/NUMBER UNITS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T071346Z" creationid="Judy" creationdate="20151212T071346Z">
+        <seg>包裝/固定重量/單位數</seg>
       </tuv>
     </tu>
     <tu>
