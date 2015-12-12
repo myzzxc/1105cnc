@@ -5538,6 +5538,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACUMULATE REACTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082648Z" creationid="Judy" creationdate="20151212T082648Z">
+        <seg>累積反應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADC is an all wheel drive system that provides on-demand torque transfer to the front wheels when one of the wheels 104 of rear axle 110 lose traction and that provides engine braking torque to the wheels 104 of front axle 108.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015046Z">
@@ -14098,6 +14106,38 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040613Z" creationid="Judy" creationdate="20151212T040603Z">
         <seg>校正 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CORRECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082443Z" creationid="Judy" creationdate="20151212T082443Z">
+        <seg>校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CORRECTION FACTOR (POS./NEG.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082518Z" creationid="Judy" creationdate="20151212T082518Z">
+        <seg>校正係數 (正/負)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CORRECTION FACTOR NEGATIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082541Z" creationid="Judy" creationdate="20151212T082541Z">
+        <seg>負校正係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CORRECTION FACTOR POSITIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082529Z" creationid="Judy" creationdate="20151212T082529Z">
+        <seg>正校正係數</seg>
       </tuv>
     </tu>
     <tu>
@@ -24352,6 +24392,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T073824Z" creationid="Judy" creationdate="20151205T073824Z">
         <seg>內面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FACTOR CORRECCION (POS./NEG.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082512Z" creationid="Judy" creationdate="20151212T082512Z">
+        <seg>校正係數 (正/負)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43805,6 +43853,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082439Z" creationid="Judy" creationdate="20151212T082439Z">
+        <seg>最大值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MAX.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072056Z">
@@ -44033,6 +44089,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120912Z">
         <seg>MFD® 處理流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MIN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082435Z" creationid="Judy" creationdate="20151212T082435Z">
+        <seg>最小值</seg>
       </tuv>
     </tu>
     <tu>
@@ -46992,6 +47056,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NORMAL CORRECTION FACTOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082550Z" creationid="Judy" creationdate="20151212T082550Z">
+        <seg>正常校正係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOSE RIDER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132450Z">
@@ -48770,6 +48842,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041143Z" creationid="Judy" creationdate="20151212T041143Z">
         <seg>超過震動限制，進行更新？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OVERPACK ACTUAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082401Z" creationid="Judy" creationdate="20151212T082401Z">
+        <seg>合成包裝實際值</seg>
       </tuv>
     </tu>
     <tu>
@@ -56267,6 +56347,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REACTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082639Z" creationid="Judy" creationdate="20151212T082639Z">
+        <seg>反應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REAR OF VEHICLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085241Z">
@@ -60469,6 +60557,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T055048Z" creationid="Judy" creationdate="20151206T055029Z">
         <seg>開卷機對位馬達之行程極限 (開卷機)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STRONG CORRECTION FACTOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082622Z" creationid="Judy" creationdate="20151212T082622Z">
+        <seg>強校正係數</seg>
       </tuv>
     </tu>
     <tu>
