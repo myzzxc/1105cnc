@@ -10651,6 +10651,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic Reject Limit: This YES or NO parameter allows recalculating the minimum vessel parameter value automatically depending on the % of accumulated reject.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T013427Z" creationid="Judy" creationdate="20151212T013427Z">
+        <seg>Automatic Reject Limit (自動退回限制)：此參數設定為 YES (是) 或 NO (否)，可根據累積退回之百分比重新自動計算最小容器參數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic Tool Changer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082114Z">
@@ -42700,10 +42708,26 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum Negative Limit: When the weight of a pack exceeds this parameter value on the negative side, it is automatically excluded for the servo average calculation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T013229Z" creationid="Judy" creationdate="20151212T013229Z">
+        <seg>Max Negative Limit (最大負限制)：當包裝重量小於此參數值時，此重量將會排除在回饋的平均計算之外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum Pack Length: Value calculated from the band length and corresponding to 90% of it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T052730Z" creationid="Judy" creationdate="20151208T052724Z">
         <seg>Maximum Pack Length (最大包裝長度)：由輸送帶長度計算出之數值，對應至其長度的 90%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum Positive Limit: When the weight of a pack exceeds this parameter value on the positive side, it is automatically excluded for the servo average calculation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T013209Z" creationid="Judy" creationdate="20151212T013209Z">
+        <seg>Max Positive Limit (最大正限制)：當包裝重量大於此參數值時，此重量將會排除在回饋的平均計算之外。</seg>
       </tuv>
     </tu>
     <tu>
