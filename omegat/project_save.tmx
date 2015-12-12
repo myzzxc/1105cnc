@@ -5418,6 +5418,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACCUMULATED TARES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074148Z" creationid="Judy" creationdate="20151212T074148Z">
+        <seg>累積箱重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCUMULATED TARES WILL BE DELETED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054708Z" creationid="Judy" creationdate="20151212T054708Z">
@@ -5590,6 +5598,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073857Z" creationid="Judy" creationdate="20151212T073857Z">
         <seg>後金屬探測器確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AFTER XR CONFIRM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074059Z" creationid="Judy" creationdate="20151212T074059Z">
+        <seg>後 X 光探測器確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -13650,6 +13666,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125701Z">
         <seg>商業檢查清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMPACTED PACKAGES=OK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074246Z" creationid="Judy" creationdate="20151212T074246Z">
+        <seg>壓制包裝=OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -25464,6 +25488,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073936Z" creationid="Judy" creationdate="20151212T073936Z">
         <seg>裝箱滿載金屬探測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FULL BOX XR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074008Z" creationid="Judy" creationdate="20151212T074008Z">
+        <seg>裝箱滿載 X 光探測器</seg>
       </tuv>
     </tu>
     <tu>
@@ -41902,6 +41934,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LENGTH TOLERANCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074158Z" creationid="Judy" creationdate="20151212T074158Z">
+        <seg>長度容許值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LENGTH:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033650Z" creationid="Judy" creationdate="20151212T033650Z">
@@ -43529,6 +43569,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073909Z" creationid="Judy" creationdate="20151212T073909Z">
         <seg>金屬探測器退回確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MD REJECT FULL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074026Z" creationid="Judy" creationdate="20151212T074026Z">
+        <seg>金屬探測器退回滿載</seg>
       </tuv>
     </tu>
     <tu>
@@ -50621,6 +50669,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040102Z" creationid="Judy" creationdate="20151212T040102Z">
         <seg>包裝/分鐘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PACK.WITHOUT TARE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074221Z" creationid="Judy" creationdate="20151212T074221Z">
+        <seg>包裝未計算箱重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PACKAGES (TO2=OK)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074232Z" creationid="Judy" creationdate="20151212T074232Z">
+        <seg>包裝 (TO2=OK)</seg>
       </tuv>
     </tu>
     <tu>
@@ -59200,6 +59264,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SERIAL NUMBER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074150Z" creationid="Judy" creationdate="20151212T074150Z">
+        <seg>序號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SERIES ELEMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052903Z" creationid="Judy" creationdate="20151212T052854Z">
@@ -59509,6 +59581,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T055030Z" creationid="Judy" creationdate="20151206T054858Z">
         <seg>位置感測器 (開卷機)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STABILITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074105Z" creationid="Judy" creationdate="20151212T074105Z">
+        <seg>穩定性</seg>
       </tuv>
     </tu>
     <tu>
@@ -82098,6 +82178,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WEIGHT STABILITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074103Z" creationid="Judy" creationdate="20151212T074103Z">
+        <seg>重量穩定性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WEIGHT TEST MODE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064942Z" creationid="Judy" creationdate="20151212T064942Z">
@@ -85247,6 +85335,22 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073944Z" creationid="Judy" creationdate="20151212T073944Z">
         <seg>X 光探測器確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XR R.CONFIRM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074000Z" creationid="Judy" creationdate="20151212T074000Z">
+        <seg>X 光探測器退回確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XR REJECT FULL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074040Z" creationid="Judy" creationdate="20151212T074040Z">
+        <seg>X 光探測器退回滿載</seg>
       </tuv>
     </tu>
     <tu>
