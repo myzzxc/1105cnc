@@ -49514,6 +49514,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRINT / ERASE DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034330Z" creationid="Judy" creationdate="20151212T034330Z">
+        <seg>列印/刪除資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRINT DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034324Z" creationid="Judy" creationdate="20151212T034324Z">
+        <seg>列印資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRINT TO CUT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022733Z">
@@ -56836,6 +56852,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034107Z" creationid="Judy" creationdate="20151212T034107Z">
         <seg>選擇匯出之檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SELECT INPUT DIRECTORY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034321Z" creationid="Judy" creationdate="20151212T034321Z">
+        <seg>選擇輸入目錄</seg>
       </tuv>
     </tu>
     <tu>
