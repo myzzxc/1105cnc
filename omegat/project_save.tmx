@@ -5586,6 +5586,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AFTER MD CONFIRM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073857Z" creationid="Judy" creationdate="20151212T073857Z">
+        <seg>後金屬探測器確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AGENDA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T231617Z">
@@ -13230,6 +13238,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAJON.R WEIGTH FULL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073727Z" creationid="Judy" creationdate="20151212T073727Z">
+        <seg>設定退回重量滿載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CALL: 855.374.4772</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133007Z">
@@ -13710,6 +13726,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONF.R WEIGTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073642Z" creationid="Judy" creationdate="20151212T073642Z">
+        <seg>設定退回重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONF.R WEIGTH+FULL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073732Z" creationid="Judy" creationdate="20151212T073732Z">
+        <seg>設定退回重量+滿載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONFIDENTIALITY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T145815Z">
@@ -13778,6 +13810,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054331Z" creationid="Judy" creationdate="20151212T054331Z">
         <seg>確認結束生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONFIRM PASSWORD DIFERENT NEW PASSWORD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073604Z" creationid="Judy" creationdate="20151212T073604Z">
+        <seg>確認不同的密碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -25124,6 +25164,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FILLER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073609Z" creationid="Judy" creationdate="20151212T073609Z">
+        <seg>填料器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FILTERS OF HOPPER AIR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053551Z" creationid="Judy" creationdate="20151206T053551Z">
@@ -25408,6 +25456,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085220Z">
         <seg>車輛前側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FULL BOX MD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073936Z" creationid="Judy" creationdate="20151212T073936Z">
+        <seg>裝箱滿載金屬探測器</seg>
       </tuv>
     </tu>
     <tu>
@@ -43453,10 +43509,26 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MD CONFIRM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073816Z" creationid="Judy" creationdate="20151212T073816Z">
+        <seg>金屬探測器確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MD PRODUCT UNAVAILABLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054415Z" creationid="Judy" creationdate="20151212T054415Z">
         <seg>金屬探測器產品不可用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MD R.CONFIRM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073909Z" creationid="Judy" creationdate="20151212T073909Z">
+        <seg>金屬探測器退回確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -51322,6 +51394,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PREV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073843Z" creationid="Judy" creationdate="20151212T073808Z">
+        <seg>前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PREVENTIVE MAINTENANCE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T051722Z" creationid="Judy" creationdate="20151206T051722Z">
@@ -55607,6 +55687,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080107Z">
         <seg>RAM 記憶體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073606Z" creationid="Judy" creationdate="20151212T073606Z">
+        <seg>範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -85151,6 +85239,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T062953Z" creationid="Judy" creationdate="20151212T062953Z">
         <seg>X 光探測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XR CONFIRM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073944Z" creationid="Judy" creationdate="20151212T073944Z">
+        <seg>X 光探測器確認</seg>
       </tuv>
     </tu>
     <tu>
