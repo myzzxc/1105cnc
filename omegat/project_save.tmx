@@ -5740,6 +5740,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALPHANUMERICAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080943Z" creationid="Judy" creationdate="20151212T080943Z">
+        <seg>字母數字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AMDEC: Default Method, Effect and Critical Level Analysis (see standard NF-X 60-510): Quantitative prevention method analysis of the reliability of a system by determining, in terms of severity and occurrences, the effects of each default method and their critical impact on other system elements and/or functions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025644Z">
@@ -5961,6 +5969,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143008Z">
         <seg>自動區域管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUX.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081022Z" creationid="Judy" creationdate="20151212T081022Z">
+        <seg>輔助</seg>
       </tuv>
     </tu>
     <tu>
@@ -14106,6 +14122,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040656Z" creationid="Judy" creationdate="20151212T040656Z">
         <seg>累計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CURRENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080937Z" creationid="Judy" creationdate="20151212T080937Z">
+        <seg>當前</seg>
       </tuv>
     </tu>
     <tu>
@@ -25252,6 +25276,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FILLER LIMIT EXCEDED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080821Z" creationid="Judy" creationdate="20151212T080821Z">
+        <seg>超出填料器限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FILTERS OF HOPPER AIR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053551Z" creationid="Judy" creationdate="20151206T053551Z">
@@ -30486,6 +30518,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045516Z" creationid="Judy" creationdate="20151212T045516Z">
         <seg>折線圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HISTORICAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080934Z" creationid="Judy" creationdate="20151212T080934Z">
+        <seg>歷史</seg>
       </tuv>
     </tu>
     <tu>
@@ -43813,6 +43853,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MIN.F.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080929Z" creationid="Judy" creationdate="20151212T080929Z">
+        <seg>填料器最小值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MINIMUM WEIGHT (Min)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064117Z" creationid="Judy" creationdate="20151212T064117Z">
@@ -46827,6 +46875,14 @@ z	Everio MediaBrowser 4 Software Provided
         <seg>NUMERIC</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052628Z" creationid="Judy" creationdate="20151212T052628Z">
+        <seg>數字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NUMERICAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080945Z" creationid="Judy" creationdate="20151212T080945Z">
         <seg>數字</seg>
       </tuv>
     </tu>
@@ -55915,6 +55971,22 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RANGE LIMIT EXCEDED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080829Z" creationid="Judy" creationdate="20151212T080829Z">
+        <seg>超出範圍限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RANGE MODE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080804Z" creationid="Judy" creationdate="20151212T080804Z">
+        <seg>範圍模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RANGE PARAMETERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T075919Z" creationid="Judy" creationdate="20151212T075919Z">
@@ -55927,6 +55999,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053406Z" creationid="Judy" creationdate="20151212T053406Z">
         <seg>範圍——警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RANGE-FILLER LIMIT EXCEDED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080853Z" creationid="Judy" creationdate="20151212T080853Z">
+        <seg>超出範圍—填料器限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -85543,6 +85623,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121527Z">
         <seg>有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YEAR DAY NUMBER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080959Z" creationid="Judy" creationdate="20151212T080959Z">
+        <seg>年日數字</seg>
       </tuv>
     </tu>
     <tu>
