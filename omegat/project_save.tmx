@@ -21609,6 +21609,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EFFECTIVE AVERAGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072530Z" creationid="Judy" creationdate="20151212T072530Z">
+        <seg>有效平均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EFFICIENCY %</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041244Z" creationid="Judy" creationdate="20151212T041244Z">
@@ -25092,6 +25100,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FLOATING LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072826Z" creationid="Judy" creationdate="20151212T072826Z">
+        <seg>浮動限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FLOATING SHELL FLANGE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053320Z">
@@ -25248,6 +25264,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T070120Z" creationid="Judy" creationdate="20151206T070120Z">
         <seg>成形管和輥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FORTRESS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072755Z" creationid="Judy" creationdate="20151212T072755Z">
+        <seg>堡壘</seg>
       </tuv>
     </tu>
     <tu>
@@ -41694,6 +41718,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LAST PACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072540Z" creationid="Judy" creationdate="20151212T072540Z">
+        <seg>最後包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LC CONFIRMATION FEE IS UNDER SUPPLIER'S ACCOUNT IF PAID BY CONFIRMED LC.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141645Z">
@@ -43473,6 +43505,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T120912Z">
         <seg>MFD® 處理流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MIN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072829Z" creationid="Judy" creationdate="20151212T072829Z">
+        <seg>最小</seg>
       </tuv>
     </tu>
     <tu>
@@ -46308,6 +46348,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072522Z" creationid="Judy" creationdate="20151212T072522Z">
         <seg>負極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEGATIVE REJECT LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072842Z" creationid="Judy" creationdate="20151212T072842Z">
+        <seg>負退回極限</seg>
       </tuv>
     </tu>
     <tu>
@@ -51018,6 +51066,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POSITIVE REJECT LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072838Z" creationid="Judy" creationdate="20151212T072838Z">
+        <seg>正退回極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POSITIVE/NEGATIVE LIMIT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072513Z" creationid="Judy" creationdate="20151212T072513Z">
@@ -51270,6 +51326,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033719Z" creationid="Judy" creationdate="20151212T033719Z">
         <seg>產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRODUCT FIX WEIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072821Z" creationid="Judy" creationdate="20151212T072821Z">
+        <seg>產品固定重量</seg>
       </tuv>
     </tu>
     <tu>
@@ -55611,6 +55675,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REJECT (+)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072846Z" creationid="Judy" creationdate="20151212T072846Z">
+        <seg>退回 (+)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REJECT (1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034845Z" creationid="Judy" creationdate="20151212T034845Z">
@@ -55655,6 +55727,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053752Z" creationid="Judy" creationdate="20151212T053752Z">
         <seg>請記得！！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REMOT MD.:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072814Z" creationid="Judy" creationdate="20151212T072808Z">
+        <seg>遠端金屬探測器：</seg>
       </tuv>
     </tu>
     <tu>
@@ -55807,6 +55887,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T142541Z">
         <seg>選路 - 雕刻 - 3D 雕刻 - 電漿 - 印刷切割 - 刀具切削 - 模具製造 - 切削</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RR PACKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072559Z" creationid="Judy" creationdate="20151212T072559Z">
+        <seg>RR 包裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -65753,6 +65841,22 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T125207Z">
         <seg>三 Z 刀架步進器（三 Z 現貨價格相同）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TT PACKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072551Z" creationid="Judy" creationdate="20151212T072551Z">
+        <seg>TT 包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TT/RR PACKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072546Z" creationid="Judy" creationdate="20151212T072546Z">
+        <seg>TT/RR 包裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -79368,10 +79472,34 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UNIT CONTROL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072628Z" creationid="Judy" creationdate="20151212T072628Z">
+        <seg>單元控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNIT CONTROL PROGRAM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072642Z" creationid="Judy" creationdate="20151212T072642Z">
+        <seg>單元控制程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UNIT COUNTER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T065217Z" creationid="Judy" creationdate="20151212T065217Z">
         <seg>單位計數器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNIT REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072630Z" creationid="Judy" creationdate="20151212T072621Z">
+        <seg>單元退回</seg>
       </tuv>
     </tu>
     <tu>
@@ -79420,6 +79548,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T131112Z">
         <seg>福利更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UPDATE NET</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072607Z" creationid="Judy" creationdate="20151212T072607Z">
+        <seg>更新淨重</seg>
       </tuv>
     </tu>
     <tu>
