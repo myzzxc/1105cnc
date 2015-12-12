@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(ms)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124037Z" creationid="Judy" creationdate="20151212T124037Z">
+        <seg>(毫秒)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(quality, performance, technology...).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T193007Z">
@@ -6604,6 +6612,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143310Z" creationid="Judy" creationdate="20151129T143310Z">
         <seg>Acc (ms)：Acc (ms) 欄為退回裝置啟動之時間，以毫秒表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124025Z" creationid="Judy" creationdate="20151212T124025Z">
+        <seg>加速 </seg>
       </tuv>
     </tu>
     <tu>
@@ -14126,6 +14142,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONFIGURATION -  OUTPUTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124320Z" creationid="Judy" creationdate="20151212T124320Z">
+        <seg>設置——輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONFIGURATION - AUTOMATIC LISTINGS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081240Z" creationid="Judy" creationdate="20151212T081240Z">
@@ -14154,6 +14178,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032633Z" creationid="Judy" creationdate="20151212T032542Z">
         <seg>設置——一般</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONFIGURATION - INPUTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124232Z" creationid="Judy" creationdate="20151212T124232Z">
+        <seg>設置——輸入</seg>
       </tuv>
     </tu>
     <tu>
@@ -33035,6 +33067,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INPUTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124205Z" creationid="Judy" creationdate="20151212T124205Z">
+        <seg>輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INPUTS ALARM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032557Z" creationid="Judy" creationdate="20151212T032557Z">
@@ -44661,6 +44701,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MD OUTPUT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124333Z" creationid="Judy" creationdate="20151212T124333Z">
+        <seg>金屬探測器輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MD PRODUCT UNAVAILABLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054415Z" creationid="Judy" creationdate="20151212T054415Z">
@@ -44761,6 +44809,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040839Z" creationid="Judy" creationdate="20151212T040839Z">
         <seg>平均計算——退回單元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MEAN ERROR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124150Z" creationid="Judy" creationdate="20151212T124150Z">
+        <seg>平均錯誤</seg>
       </tuv>
     </tu>
     <tu>
@@ -44921,6 +44977,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064117Z" creationid="Judy" creationdate="20151212T064117Z">
         <seg>最小重量 (最小)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MINUTES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124047Z" creationid="Judy" creationdate="20151212T124047Z">
+        <seg>分鐘</seg>
       </tuv>
     </tu>
     <tu>
@@ -47928,6 +47992,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NON DEFINED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124113Z" creationid="Judy" creationdate="20151212T124113Z">
+        <seg>未定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NORMAL CORRECTION FACTOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082550Z" creationid="Judy" creationdate="20151212T082550Z">
@@ -49734,10 +49806,26 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OUTPUT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124324Z" creationid="Judy" creationdate="20151212T124324Z">
+        <seg>輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OUTPUT LISTING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081300Z" creationid="Judy" creationdate="20151212T081300Z">
         <seg>輸出列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OUTPUTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124237Z" creationid="Judy" creationdate="20151212T124237Z">
+        <seg>輸出</seg>
       </tuv>
     </tu>
     <tu>
@@ -52370,6 +52458,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PATTERN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124141Z" creationid="Judy" creationdate="20151212T124141Z">
+        <seg>模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PATTERN REJECT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053958Z" creationid="Judy" creationdate="20151212T053958Z">
@@ -52402,10 +52498,26 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PCI INPUTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124207Z" creationid="Judy" creationdate="20151212T124207Z">
+        <seg>PCI 輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PCI Inputs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140243Z">
         <seg>PCI 輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PCI OUTPUTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124326Z" creationid="Judy" creationdate="20151212T124326Z">
+        <seg>PCI 輸出</seg>
       </tuv>
     </tu>
     <tu>
@@ -54319,6 +54431,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T021506Z" creationid="Judy" creationdate="20151205T021439Z">
         <seg>人身安全功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ph (mm)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124043Z" creationid="Judy" creationdate="20151212T124043Z">
+        <seg>Ph (毫米)</seg>
       </tuv>
     </tu>
     <tu>
@@ -83286,6 +83406,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141735Z">
         <seg>簽證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VOLUM.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124203Z" creationid="Judy" creationdate="20151212T124203Z">
+        <seg>體積</seg>
       </tuv>
     </tu>
     <tu>
