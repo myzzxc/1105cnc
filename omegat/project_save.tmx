@@ -43396,6 +43396,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum Correction Impulse: This parameter indicates the minimum value of correction to be sent to the dispenser.Until the accumulative correction does not exceed this value, no correction signal is sent to the dispenser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T023606Z" creationid="Judy" creationdate="20151212T023606Z">
+        <seg>Minimum Correction Impulse (最小校正訊號)：此參數為發送校正至給料機的最小值，累積校正未超過此數值前不會發送校正訊號至給料機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum Floating Limit: Lower weight limit for a pack to join the average weight.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T145433Z" creationid="Judy" creationdate="20151211T145433Z">
@@ -76629,6 +76637,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T055241Z">
         <seg>使用設計插圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Limit Top-points: This YES or NO programming parameter allows to exclude the weight of one of the dispenser vessels to be considered for servo regulatiion.This vessel should be constant within the packs averaging cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T023906Z" creationid="Judy" creationdate="20151212T023906Z">
+        <seg>Use Limit Top-points (使用限制頂點)：此參數設定為 YES (是) 或 NO (否)，可排除給料機其中一組容器之重量不受伺服調節，此容器於包裝平均計算循環中應為定值。</seg>
       </tuv>
     </tu>
     <tu>
