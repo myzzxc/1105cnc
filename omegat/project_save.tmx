@@ -5514,6 +5514,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACTIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074642Z" creationid="Judy" creationdate="20151212T074642Z">
+        <seg>啟用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACTUAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064002Z" creationid="Judy" creationdate="20151212T064002Z">
@@ -32219,6 +32227,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074658Z" creationid="Judy" creationdate="20151212T074658Z">
+        <seg>輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INPUT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074645Z" creationid="Judy" creationdate="20151212T074645Z">
+        <seg>輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INPUT TARE OFFERT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033404Z" creationid="Judy" creationdate="20151212T033404Z">
@@ -43797,6 +43821,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MODE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074638Z" creationid="Judy" creationdate="20151212T074638Z">
+        <seg>模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MODIFY REASON OR ACCEPT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035407Z" creationid="Judy" creationdate="20151212T035407Z">
@@ -51230,6 +51262,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074618Z" creationid="Judy" creationdate="20151212T074618Z">
         <seg>週邊裝置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PERIPHERALS @ON LINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074635Z" creationid="Judy" creationdate="20151212T074635Z">
+        <seg>週邊裝置@上線</seg>
       </tuv>
     </tu>
     <tu>
