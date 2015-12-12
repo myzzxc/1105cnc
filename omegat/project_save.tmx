@@ -11684,6 +11684,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BOT.LIM.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082038Z" creationid="Judy" creationdate="20151212T082038Z">
+        <seg>最低限度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BOTTOM LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082027Z" creationid="Judy" creationdate="20151212T082027Z">
+        <seg>最低限度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BOTTOM MARGIN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081811Z" creationid="Judy" creationdate="20151212T081811Z">
@@ -43797,6 +43813,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAXIMO OVERPACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082334Z" creationid="Judy" creationdate="20151212T082201Z">
+        <seg>合成包裝最大值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MB of free hard disk space for application files; additional space required for temporary</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T064427Z">
@@ -44025,6 +44049,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080929Z" creationid="Judy" creationdate="20151212T080929Z">
         <seg>填料器最小值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MINIMUM OVERPACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082329Z" creationid="Judy" creationdate="20151212T082059Z">
+        <seg>合成包裝最小值</seg>
       </tuv>
     </tu>
     <tu>
@@ -48744,16 +48776,32 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>OVERPAK</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053515Z" creationid="Judy" creationdate="20151212T053515Z">
-        <seg>過重</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082300Z" creationid="Judy" creationdate="20151212T053515Z">
+        <seg>合成包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OVERPAK TARGET</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082309Z" creationid="Judy" creationdate="20151212T082309Z">
+        <seg>合成包裝目標</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>OVPK END - AVER.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073023Z" creationid="Judy" creationdate="20151212T073023Z">
-        <seg>OVPK 結束——平均</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082222Z" creationid="Judy" creationdate="20151212T073023Z">
+        <seg>合成包裝結束——平均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OVPK TARGET</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082227Z" creationid="Judy" creationdate="20151212T082227Z">
+        <seg>合成包裝目標</seg>
       </tuv>
     </tu>
     <tu>
@@ -66111,8 +66159,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>TARGET OVERPAK</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053523Z" creationid="Judy" creationdate="20151212T053523Z">
-        <seg>目標過重</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082315Z" creationid="Judy" creationdate="20151212T053523Z">
+        <seg>合成包裝目標</seg>
       </tuv>
     </tu>
     <tu>
