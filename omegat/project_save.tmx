@@ -48414,6 +48414,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OSCILATION LIMIT FILLER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T075735Z" creationid="Judy" creationdate="20151212T075735Z">
+        <seg>填料器振盪限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OSCILATION LIMIT RANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T075738Z" creationid="Judy" creationdate="20151212T075722Z">
+        <seg>範圍振盪限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OSCILLATING KNIFE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130300Z">
@@ -55887,6 +55903,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073606Z" creationid="Judy" creationdate="20151212T073606Z">
         <seg>範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RANGE ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T075746Z" creationid="Judy" creationdate="20151212T075746Z">
+        <seg>範圍警報</seg>
       </tuv>
     </tu>
     <tu>
