@@ -20604,6 +20604,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Demanding data format cp</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125204Z" creationid="Judy" creationdate="20151212T125204Z">
+        <seg>請求資料規格副本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Demonstrates MM’s experience</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143855Z">
@@ -24035,6 +24043,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T135150Z">
         <seg>提供人體工學地板墊予以站立工作之勞工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error comms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125255Z" creationid="Judy" creationdate="20151212T125255Z">
+        <seg>通訊錯誤 </seg>
       </tuv>
     </tu>
     <tu>
@@ -31026,10 +31042,42 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Going to dynamic adjust</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125107Z" creationid="Judy" creationdate="20151212T125107Z">
+        <seg>執行動態調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Going to dynamic analysis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125052Z" creationid="Judy" creationdate="20151212T125052Z">
+        <seg>執行動態分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Going to dynamic learn</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125102Z" creationid="Judy" creationdate="20151212T125102Z">
+        <seg>執行動態接收</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Going to static adjust track</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125041Z" creationid="Judy" creationdate="20151212T125026Z">
+        <seg>執行靜態調整軌道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Going to static analysis</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125020Z" creationid="Judy" creationdate="20151212T125020Z">
-        <seg>進行靜態分析</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125046Z" creationid="Judy" creationdate="20151212T125020Z">
+        <seg>執行靜態分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -84898,6 +84946,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waiting time reinit cp's</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125242Z" creationid="Judy" creationdate="20151212T125242Z">
+        <seg>等待副本初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warning signs are installed indicating hot fluid splash zones in quenching operations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235946Z">
@@ -91275,6 +91331,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>starting machine reset</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125131Z" creationid="Judy" creationdate="20151212T125131Z">
+        <seg>開始重置機台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>stopping the Productive Process in the event of EMERGENCY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T143811Z" creationid="Judy" creationdate="20151205T143811Z">
@@ -91535,6 +91599,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T140316Z">
         <seg>如圖 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>track 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125307Z" creationid="Judy" creationdate="20151212T125307Z">
+        <seg>軌道 1</seg>
       </tuv>
     </tu>
     <tu>
