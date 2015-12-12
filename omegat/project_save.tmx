@@ -31579,6 +31579,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the servo is on, the range sample is only taken in an averaging cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T024045Z" creationid="Judy" creationdate="20151212T024045Z">
+        <seg>若伺服開啓，範圍之樣本僅於平均循環中取樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the servo is on, the range sample is only taken in averaging cycles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144008Z" creationid="Judy" creationdate="20151201T144008Z">
@@ -49286,6 +49294,14 @@ IN / EX</seg>
         <seg>Packs Range: This parameter indicates the number of packs to be counted to take a range sample.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T143451Z" creationid="Judy" creationdate="20151201T143451Z">
+        <seg>Packs Range (包裝範圍)：此參數為取樣範圍計算之包裝數量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packs Range: This parameter indicates the packs number to be counted to get a range sample.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T023929Z" creationid="Judy" creationdate="20151212T023929Z">
         <seg>Packs Range (包裝範圍)：此參數為取樣範圍計算之包裝數量，</seg>
       </tuv>
     </tu>
@@ -77117,6 +77133,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T035345Z">
         <seg>使用此工具可以：選擇安裝 Power PDF 進階版之位置、預先定義序號並將其變更為唯讀、設定功能安裝狀態、設定自訂安裝對話視窗中的可見功能 、設置預設應用程式設定、部署自訂檔案、於安裝中加入修補程式和匯入預先定義的應用程式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usually it corresponds to the number of filling vessels of the dispenser machine.This range sample value is displayed on one of the production screens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T024030Z" creationid="Judy" creationdate="20151212T024030Z">
+        <seg>通常代表給料機之填充容器數量，包裝範圍之數值顯示於一個生產畫面上。</seg>
       </tuv>
     </tu>
     <tu>
