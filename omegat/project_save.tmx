@@ -49221,6 +49221,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NoTara</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150227Z" creationid="Judy" creationdate="20151212T150227Z">
+        <seg>無計算箱重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Noise-cancelling headset microphone for Dragon Notes (not included)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T050014Z">
