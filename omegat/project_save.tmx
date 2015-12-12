@@ -11572,6 +11572,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BAR CODE REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115012Z" creationid="Judy" creationdate="20151212T115012Z">
+        <seg>條碼退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BARCODE READER WITH CABLE ( Panelbuilder only)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T142956Z">
@@ -13746,6 +13754,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054202Z" creationid="Judy" creationdate="20151212T054202Z">
         <seg>關閉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CM REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T114846Z" creationid="Judy" creationdate="20151212T114846Z">
+        <seg>CM 退回</seg>
       </tuv>
     </tu>
     <tu>
@@ -25612,6 +25628,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FILLED BOX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T114833Z" creationid="Judy" creationdate="20151212T114833Z">
+        <seg>已輸入方塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FILLED BOX ALARM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053440Z" creationid="Judy" creationdate="20151212T053440Z">
@@ -32367,6 +32391,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150324T143622Z">
         <seg>當安裝與使用未正確遵循適用之產品、材料或施工方法之規範以滿足效能表現、或經常發生故障、或不合理之損壞時，ICC-ES保留拒絕發出或續發任何評估報告之權利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ID FORMAT REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115021Z" creationid="Judy" creationdate="20151212T115021Z">
+        <seg>ID 規格退回</seg>
       </tuv>
     </tu>
     <tu>
@@ -44277,6 +44309,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MEAN IPEM REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T114953Z" creationid="Judy" creationdate="20151212T114953Z">
+        <seg>平均 IPEM 退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MECHANICAL GUARANTEE PERIOD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115809Z">
@@ -47376,6 +47416,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOT TARE REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T114912Z" creationid="Judy" creationdate="20151212T114912Z">
+        <seg>未計算箱重退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOT VALID CORRECTION, CHECK SCALE WEIGHT!!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T062640Z" creationid="Judy" creationdate="20151212T062640Z">
@@ -48946,6 +48994,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040334Z" creationid="Judy" creationdate="20151212T040334Z">
         <seg>ADC 偏移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OFL/UFL REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T114851Z" creationid="Judy" creationdate="20151212T114851Z">
+        <seg>OFL/UFL 退回</seg>
       </tuv>
     </tu>
     <tu>
@@ -60529,6 +60585,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SO REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T114957Z" creationid="Judy" creationdate="20151212T114957Z">
+        <seg>SO 退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SO WHY ARE WE EVOLVING?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T131802Z">
@@ -60845,6 +60909,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040409Z" creationid="Judy" creationdate="20151212T040409Z">
         <seg>標準重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STD.DEVIATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115042Z" creationid="Judy" creationdate="20151212T115042Z">
+        <seg>標準差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STD.DEVIATION ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115038Z" creationid="Judy" creationdate="20151212T115038Z">
+        <seg>標準差警報</seg>
       </tuv>
     </tu>
     <tu>
@@ -67025,6 +67105,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032738Z" creationid="Judy" creationdate="20151212T032732Z">
         <seg>時間 (時：分)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIME ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115104Z" creationid="Judy" creationdate="20151212T115104Z">
+        <seg>時間警報</seg>
       </tuv>
     </tu>
     <tu>
@@ -80960,6 +81048,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UNIT CONTROL REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115005Z" creationid="Judy" creationdate="20151212T115005Z">
+        <seg>單元控制退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UNIT COUNTER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T065217Z" creationid="Judy" creationdate="20151212T065217Z">
@@ -83326,6 +83422,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053358Z" creationid="Judy" creationdate="20151212T053358Z">
         <seg>重量警報 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WEIGHT ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115028Z" creationid="Judy" creationdate="20151212T115028Z">
+        <seg>重量警報</seg>
       </tuv>
     </tu>
     <tu>
@@ -86495,6 +86599,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T050423Z">
         <seg>X-MINK 旋轉式葉片泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X/R GRAPHIC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115125Z" creationid="Judy" creationdate="20151212T115125Z">
+        <seg>X/R 圖形</seg>
       </tuv>
     </tu>
     <tu>
