@@ -6237,6 +6237,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AVERAGE WT(CC)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143033Z" creationid="Judy" creationdate="20151212T143033Z">
+        <seg>平均重量 (CC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVG WEIGHT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040051Z" creationid="Judy" creationdate="20151212T040051Z">
@@ -45069,6 +45077,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAXIMUM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143230Z" creationid="Judy" creationdate="20151212T143230Z">
+        <seg>最大值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MAXIMUM PRODUCT LENGTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T120153Z" creationid="Judy" creationdate="20151212T120153Z">
@@ -45393,6 +45409,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080929Z" creationid="Judy" creationdate="20151212T080929Z">
         <seg>填料器最小值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MINIMUM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143239Z" creationid="Judy" creationdate="20151212T143239Z">
+        <seg>最小值</seg>
       </tuv>
     </tu>
     <tu>
@@ -88299,6 +88323,14 @@ Edit your video afterwards just like the pros do.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XR HISTOGRAM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143134Z" creationid="Judy" creationdate="20151212T143134Z">
+        <seg>X 光探測器折線圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XR INPUT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T120134Z" creationid="Judy" creationdate="20151212T120134Z">
@@ -92256,6 +92288,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192148Z">
         <seg>§§非必要測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>­ DELETE ACCUMULATED TARES !</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143228Z" creationid="Judy" creationdate="20151212T143228Z">
+        <seg>­ 刪除累積箱重！</seg>
       </tuv>
     </tu>
     <tu>
