@@ -5957,6 +5957,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AVERAGE CALCULAT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072526Z" creationid="Judy" creationdate="20151212T072526Z">
+        <seg>平均計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVERAGE PACKS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035802Z" creationid="Judy" creationdate="20151212T035802Z">
@@ -41790,6 +41798,22 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIMIT LOWER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072457Z" creationid="Judy" creationdate="20151212T072457Z">
+        <seg>下極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LIMIT UP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072448Z" creationid="Judy" creationdate="20151212T072448Z">
+        <seg>上極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LIMIT UP/LOWER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072114Z" creationid="Judy" creationdate="20151212T072114Z">
@@ -46276,6 +46300,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040625Z" creationid="Judy" creationdate="20151212T040625Z">
         <seg>負值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEGATIVE LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072522Z" creationid="Judy" creationdate="20151212T072522Z">
+        <seg>負極限</seg>
       </tuv>
     </tu>
     <tu>
@@ -50974,6 +51006,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040619Z" creationid="Judy" creationdate="20151212T040607Z">
         <seg>正值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POSITIVE LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072518Z" creationid="Judy" creationdate="20151212T072518Z">
+        <seg>正極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POSITIVE/NEGATIVE LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072513Z" creationid="Judy" creationdate="20151212T072513Z">
+        <seg>正/負極限</seg>
       </tuv>
     </tu>
     <tu>
