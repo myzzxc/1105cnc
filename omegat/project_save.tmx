@@ -7475,6 +7475,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm Range: This parameter is the value in grams used as alarm value in range production, applied when there is a range detector in the dosing device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T024446Z" creationid="Judy" creationdate="20151212T024352Z">
+        <seg>Alarm Range (範圍警報)：用於生產之警報克數值；僅適用於給料裝置中具有範圍偵測器時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm Systems;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T132757Z">
@@ -25258,6 +25266,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T131022Z" creationid="Judy" creationdate="20151210T131022Z">
         <seg>圖 3.81 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3.82.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T024547Z" creationid="Judy" creationdate="20151212T024547Z">
+        <seg>圖 3.82 </seg>
       </tuv>
     </tu>
     <tu>
@@ -53463,6 +53479,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T152247Z" creationid="Judy" creationdate="20151208T152247Z">
         <seg>Range Mode (範圍模式)：可選擇標準或特殊範圍模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range Offset: The entire part of this parameter expresses the packs number to be offset; the decimal part, depending on the cadence, expresses the offset time when taking a range sample.This applies when there is a range detector in the dosing device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T024455Z" creationid="Judy" creationdate="20151212T024327Z">
+        <seg>Range Offset (範圍偏移)：此參數的整數部分為偏移的包裝數量；其小數部分取決於序列輸送，代表取得範圍樣本的間隙時間。 此參數僅適用於當給料裝置中設有範圍偵測器時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84829,8 +84853,8 @@ Sound zooms along with the picture for a perfect match.</seg>
       <tuv lang="EN-US">
         <seg>used as alarm value in production; applicable only when there is a range detector in the dosing-device.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151201T144753Z" creationid="Judy" creationdate="20151201T144608Z">
-        <seg>用於生產之警報 gr. 數值；僅適用於給料裝置中具有範圍偵測器時。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T024423Z" creationid="Judy" creationdate="20151201T144608Z">
+        <seg>用於生產警報之克數值；僅適用於給料裝置中具有範圍偵測器時。</seg>
       </tuv>
     </tu>
     <tu>
