@@ -14070,6 +14070,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COMM UDP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164421Z" creationid="Judy" creationdate="20151212T164421Z">
+        <seg>UDP 通訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMMERCIAL CHECK LIST</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125701Z">
@@ -14550,6 +14558,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONTROL BATCH DATA WILL BE ERASED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164245Z" creationid="Judy" creationdate="20151212T164245Z">
+        <seg>管控批次資料將被刪除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONTROL PANEL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035456Z" creationid="Judy" creationdate="20151205T035456Z">
@@ -14578,6 +14594,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054238Z" creationid="Judy" creationdate="20151212T054238Z">
         <seg>複製規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164319Z" creationid="Judy" creationdate="20151212T164319Z">
+        <seg>校正</seg>
       </tuv>
     </tu>
     <tu>
@@ -14642,6 +14666,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053012Z" creationid="Judy" creationdate="20151212T053002Z">
         <seg>校正係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CORRECTION NEGATIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164520Z" creationid="Judy" creationdate="20151212T164520Z">
+        <seg>負校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CORRECTION POSITIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164516Z" creationid="Judy" creationdate="20151212T164516Z">
+        <seg>正校正</seg>
       </tuv>
     </tu>
     <tu>
@@ -14762,6 +14802,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080937Z" creationid="Judy" creationdate="20151212T080937Z">
         <seg>當前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CURRENT OVERPACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164441Z" creationid="Judy" creationdate="20151212T164441Z">
+        <seg>當前合成包裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -20122,6 +20170,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DELETE LOCAL LANGUAGE FILE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164536Z" creationid="Judy" creationdate="20151212T164536Z">
+        <seg>刪除本地語言檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DELIVERING THE PRODUCT FOR ACCEPTANCE AND AS A SERIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152952Z">
@@ -20262,6 +20318,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162919Z" creationid="Judy" creationdate="20151212T162919Z">
         <seg>目的地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DESTINATION IP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164425Z" creationid="Judy" creationdate="20151212T164425Z">
+        <seg>目標 IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DESTINATION PORT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164432Z" creationid="Judy" creationdate="20151212T164432Z">
+        <seg>目標連接埠</seg>
       </tuv>
     </tu>
     <tu>
@@ -25416,6 +25488,22 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082512Z" creationid="Judy" creationdate="20151212T082512Z">
         <seg>校正係數 (正/負)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FACTOR NORMAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164337Z" creationid="Judy" creationdate="20151212T164337Z">
+        <seg>係數正常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FACTOR STRONG</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164349Z" creationid="Judy" creationdate="20151212T164349Z">
+        <seg>係數強</seg>
       </tuv>
     </tu>
     <tu>
@@ -45981,6 +46069,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MOVING AVERAGE CONSTANT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164401Z" creationid="Judy" creationdate="20151212T164401Z">
+        <seg>移動平均常數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOVING AVERAGE LIMIT (0) (R-)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082820Z" creationid="Judy" creationdate="20151212T082820Z">
@@ -48932,6 +49028,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124113Z" creationid="Judy" creationdate="20151212T124113Z">
         <seg>未定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NORMAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164300Z" creationid="Judy" creationdate="20151212T164300Z">
+        <seg>正常</seg>
       </tuv>
     </tu>
     <tu>
@@ -62621,6 +62725,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122453Z">
         <seg>備品零件儲存位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPARING RELATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164506Z" creationid="Judy" creationdate="20151212T164506Z">
+        <seg>備用關係</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPARING RELATION (NEW)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164503Z" creationid="Judy" creationdate="20151212T164503Z">
+        <seg>備用關係 (新)</seg>
       </tuv>
     </tu>
     <tu>
@@ -85926,6 +86046,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T122541Z" creationid="Judy" creationdate="20151212T122541Z">
         <seg>秤重測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WEIGHT TEST LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164254Z" creationid="Judy" creationdate="20151212T164254Z">
+        <seg>秤重測試極限</seg>
       </tuv>
     </tu>
     <tu>
