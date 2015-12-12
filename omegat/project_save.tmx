@@ -30739,6 +30739,22 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INIT TARE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033241Z" creationid="Judy" creationdate="20151212T033241Z">
+        <seg>初始箱重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INPUT TARE OFFERT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033404Z" creationid="Judy" creationdate="20151212T033404Z">
+        <seg>輸入箱重建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INPUTS ALARM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032557Z" creationid="Judy" creationdate="20151212T032557Z">
@@ -48820,8 +48836,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PATRON TARE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032958Z" creationid="Judy" creationdate="20151212T032958Z">
-        <seg>箱重</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033203Z" creationid="Judy" creationdate="20151212T032958Z">
+        <seg>箱重模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -62773,6 +62789,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TARE OFFERT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033354Z" creationid="Judy" creationdate="20151212T033354Z">
+        <seg>箱重建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TARE-WEIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033218Z" creationid="Judy" creationdate="20151212T033218Z">
+        <seg>箱重——重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TAX ISSUES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T135705Z">
@@ -62849,6 +62881,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T015521Z" creationid="Judy" creationdate="20151210T015521Z">
         <seg>TEST Notify – Start Machine (測試通知 - 啟動機台)：若此欄位設定為「YES」，當機台啟動時將會自動出現通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEST TARE LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033229Z" creationid="Judy" creationdate="20151212T033229Z">
+        <seg>箱重測試限制</seg>
       </tuv>
     </tu>
     <tu>
