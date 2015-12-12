@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(POS/NEG) MIN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082012Z" creationid="Judy" creationdate="20151212T082012Z">
+        <seg>(正/負) 最小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Please refer to Table 3.0 for the necessary requirements)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T081555Z">
@@ -11676,6 +11684,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BOTTOM MARGIN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081811Z" creationid="Judy" creationdate="20151212T081811Z">
+        <seg>底限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BRIEF DESCRIPTION OF THE DRAWINGS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151026T150004Z">
@@ -14026,6 +14042,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035456Z" creationid="Judy" creationdate="20151205T035456Z">
         <seg>控制面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONVEYORS ON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081728Z" creationid="Judy" creationdate="20151212T081728Z">
+        <seg>輸送機開啟</seg>
       </tuv>
     </tu>
     <tu>
@@ -19466,6 +19490,22 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DERIV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081932Z" creationid="Judy" creationdate="20151212T081932Z">
+        <seg>導數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DERIVATIVE LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081745Z" creationid="Judy" creationdate="20151212T081745Z">
+        <seg>導數限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DERIVER PACKS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073142Z" creationid="Judy" creationdate="20151212T073142Z">
@@ -19690,6 +19730,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DOBLE PID</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081713Z" creationid="Judy" creationdate="20151212T081713Z">
+        <seg>雙 PID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DOCUMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T082833Z">
@@ -19710,6 +19758,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053257Z" creationid="Judy" creationdate="20151212T053257Z">
         <seg>雙 MAVG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOUBLE PI</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081705Z" creationid="Judy" creationdate="20151212T081705Z">
+        <seg>雙 PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOUBLE PID</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081723Z" creationid="Judy" creationdate="20151212T081723Z">
+        <seg>雙 PID</seg>
       </tuv>
     </tu>
     <tu>
@@ -32307,6 +32371,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INI.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081924Z" creationid="Judy" creationdate="20151212T081924Z">
+        <seg>初始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INIT NET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052808Z" creationid="Judy" creationdate="20151212T052808Z">
@@ -42190,6 +42262,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081906Z" creationid="Judy" creationdate="20151212T081906Z">
+        <seg>極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LIMIT AVER.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073053Z" creationid="Judy" creationdate="20151212T073053Z">
@@ -43665,6 +43745,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142322Z">
         <seg>2014 年三月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MARGIN FOLLOWED PACKAGES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081853Z" creationid="Judy" creationdate="20151212T081853Z">
+        <seg>接續包裝最低限度</seg>
       </tuv>
     </tu>
     <tu>
@@ -46763,6 +46851,14 @@ z	Everio MediaBrowser 4 Software Provided
         <seg>NEG.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035817Z" creationid="Judy" creationdate="20151212T035817Z">
+        <seg>負</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEGAT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081941Z" creationid="Judy" creationdate="20151212T081941Z">
         <seg>負</seg>
       </tuv>
     </tu>
@@ -51573,6 +51669,14 @@ Nuance 線上說明”。</seg>
         <seg>POS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035830Z" creationid="Judy" creationdate="20151212T035830Z">
+        <seg>正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POSIT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081902Z" creationid="Judy" creationdate="20151212T081902Z">
         <seg>正</seg>
       </tuv>
     </tu>
