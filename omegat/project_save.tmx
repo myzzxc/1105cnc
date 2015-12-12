@@ -19962,6 +19962,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DYNAMIC ADJUST.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T084106Z" creationid="Judy" creationdate="20151212T084106Z">
+        <seg>動態調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DYNAMIC ANALYSIS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032616Z" creationid="Judy" creationdate="20151212T032616Z">
@@ -22141,6 +22149,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064627Z" creationid="Judy" creationdate="20151212T064627Z">
         <seg>最終重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>END ZERO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T084103Z" creationid="Judy" creationdate="20151212T084103Z">
+        <seg>歸零結束</seg>
       </tuv>
     </tu>
     <tu>
@@ -42398,6 +42414,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LEARN VIB.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T084037Z" creationid="Judy" creationdate="20151212T084037Z">
+        <seg>學習振動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LEARNING LIMIT (S-E)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083937Z" creationid="Judy" creationdate="20151212T083937Z">
@@ -61133,6 +61157,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054433Z" creationid="Judy" creationdate="20151212T054433Z">
         <seg>關機模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SYSTEM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T084108Z" creationid="Judy" creationdate="20151212T084108Z">
+        <seg>系統</seg>
       </tuv>
     </tu>
     <tu>
