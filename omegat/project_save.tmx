@@ -22749,8 +22749,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>External Overfilling (optional):It corresponds to the quantity of target product to be added to the net weight and to the base overfilling.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154734Z" creationid="Judy" creationdate="20151211T154638Z">
-        <seg>External Overfilling (外部過重，選配)：目標產品超出淨重和過重基準的量，
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T155116Z" creationid="Judy" creationdate="20151211T154638Z">
+        <seg>External Overfilling (外部過填料，選配)：目標產品超出淨重和過重基準的量，
 </seg>
       </tuv>
     </tu>
@@ -38619,16 +38619,16 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It is a second overfilling that is activated through a physical enabled input for an external overfilling.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154950Z" creationid="Judy" creationdate="20151211T154950Z">
-        <seg>其為由外部實體輸入啟用之外部過重所啟動的二次過重。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T155139Z" creationid="Judy" creationdate="20151211T154950Z">
+        <seg>其為由外部實體輸入啟用之外部過填料所啟動的二次過填料。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It is a second overfilling.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154629Z" creationid="Judy" creationdate="20151211T154629Z">
-        <seg>其為二次過重。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T155109Z" creationid="Judy" creationdate="20151211T154629Z">
+        <seg>其為二次過填料。</seg>
       </tuv>
     </tu>
     <tu>
