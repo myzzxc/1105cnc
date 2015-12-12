@@ -5602,6 +5602,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADJUST WEIGHT LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083928Z" creationid="Judy" creationdate="20151212T083928Z">
+        <seg>調整重量限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADJUSTMENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040344Z" creationid="Judy" creationdate="20151212T040344Z">
@@ -42374,6 +42382,30 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LEARN (S-E)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T084005Z" creationid="Judy" creationdate="20151212T084005Z">
+        <seg>學習 (S-E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEARN S-E (MIN-MAX)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083751Z" creationid="Judy" creationdate="20151212T083751Z">
+        <seg>學習 S-E (最小—最大)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEARNING LIMIT (S-E)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083937Z" creationid="Judy" creationdate="20151212T083937Z">
+        <seg>學習極限 (S-E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LEARNING OBJECTIVES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123956Z">
@@ -42522,6 +42554,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072114Z" creationid="Judy" creationdate="20151212T072114Z">
         <seg>上/下極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LIMITS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083940Z" creationid="Judy" creationdate="20151212T083940Z">
+        <seg>限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -49022,6 +49062,22 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OVERFLOW RESIDUAL LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083733Z" creationid="Judy" creationdate="20151212T083733Z">
+        <seg>超過殘值限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OVERFLOW VIBRATION LIMIT ZERO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083713Z" creationid="Judy" creationdate="20151212T083713Z">
+        <seg>超過歸零振動極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OVERFLOW VIBRATION LIMIT,UPDATE?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041143Z" creationid="Judy" creationdate="20151212T041143Z">
@@ -52302,6 +52358,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T235241Z">
         <seg>流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PROD.TIME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083954Z" creationid="Judy" creationdate="20151212T083954Z">
+        <seg>生產時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -56931,6 +56995,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RET.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083820Z" creationid="Judy" creationdate="20151212T083820Z">
+        <seg>固定器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REVIEW &amp; APPROVAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132902Z">
@@ -59879,10 +59951,26 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SAMPLES WEIGHT (S-E)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083902Z" creationid="Judy" creationdate="20151212T083838Z">
+        <seg>重量樣品 (S-E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SAMPLES WEIGHT END</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041222Z" creationid="Judy" creationdate="20151212T041222Z">
         <seg>樣品秤重結束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SAMPLES ZERO (S-E)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083910Z" creationid="Judy" creationdate="20151212T083910Z">
+        <seg>歸零樣品 (S-E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -59915,6 +60003,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053126Z" creationid="Judy" creationdate="20151212T053126Z">
         <seg>SCADA TCP 連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCALE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083759Z" creationid="Judy" creationdate="20151212T083759Z">
+        <seg>尺度</seg>
       </tuv>
     </tu>
     <tu>
@@ -60385,10 +60481,26 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SPEED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T084002Z" creationid="Judy" creationdate="20151212T084002Z">
+        <seg>速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SPEED RET/WEIG:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053553Z" creationid="Judy" creationdate="20151212T053553Z">
         <seg>速度 RET/WEIG：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPEED:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083824Z" creationid="Judy" creationdate="20151212T083824Z">
+        <seg>速度：</seg>
       </tuv>
     </tu>
     <tu>
@@ -66785,6 +66897,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032738Z" creationid="Judy" creationdate="20151212T032732Z">
         <seg>時間 (時：分)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIME BETWEEN TRACKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083924Z" creationid="Judy" creationdate="20151212T083924Z">
+        <seg>軌道之間時間</seg>
       </tuv>
     </tu>
     <tu>
