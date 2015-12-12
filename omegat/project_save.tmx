@@ -5370,6 +5370,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACCESS TIMES:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064357Z" creationid="Judy" creationdate="20151212T064357Z">
+        <seg>層級存取時間：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCOMODATION &amp; MEALS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141317Z">
@@ -5510,6 +5518,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040641Z" creationid="Judy" creationdate="20151206T040641Z">
         <seg>調整填料量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ADJUST WEIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064637Z" creationid="Judy" creationdate="20151212T064637Z">
+        <seg>調整重量</seg>
       </tuv>
     </tu>
     <tu>
@@ -13270,6 +13286,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CELL FILTER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064550Z" creationid="Judy" creationdate="20151212T064550Z">
+        <seg>儲存格篩選器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CELL PROGRAMMING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040211Z" creationid="Judy" creationdate="20151212T040211Z">
@@ -13326,10 +13350,34 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHANGE FORMAT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064650Z" creationid="Judy" creationdate="20151212T064650Z">
+        <seg>更改規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHANGE OF FILLER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032423Z" creationid="Judy" creationdate="20151206T031350Z">
         <seg>更換填料器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHANGE PASSWORD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064656Z" creationid="Judy" creationdate="20151212T064656Z">
+        <seg>更改密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHANGE USER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064652Z" creationid="Judy" creationdate="20151212T064652Z">
+        <seg>變更使用者</seg>
       </tuv>
     </tu>
     <tu>
@@ -13658,6 +13706,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054331Z" creationid="Judy" creationdate="20151212T054331Z">
         <seg>確認結束生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONFIRM:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064448Z" creationid="Judy" creationdate="20151212T064448Z">
+        <seg>確認：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19122,6 +19178,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DENIED ACCES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064516Z" creationid="Judy" creationdate="20151212T064516Z">
+        <seg>拒絕存取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION AND APPLICATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T022825Z">
@@ -21545,6 +21609,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>END WEIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064627Z" creationid="Judy" creationdate="20151212T064627Z">
+        <seg>最終重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ENVIRONMENTAL REGULATIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232952Z">
@@ -21597,6 +21669,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T132819Z">
         <seg>ERP 系統；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ERROR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064647Z" creationid="Judy" creationdate="20151212T064647Z">
+        <seg>錯誤</seg>
       </tuv>
     </tu>
     <tu>
@@ -42949,6 +43029,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MACHINE TYPE:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064436Z" creationid="Judy" creationdate="20151212T064436Z">
+        <seg>機台類型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINERY : 2 SETS INTERFOLD &amp; POCKETPACK MACHINE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153133Z">
@@ -42969,6 +43057,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122527Z">
         <seg>維護系統協議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MAKE STATIC ADJUST.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064644Z" creationid="Judy" creationdate="20151212T064644Z">
+        <seg>執行靜態調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -43425,6 +43521,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022630Z">
         <seg>多重刀具配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MULTIFMT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064413Z" creationid="Judy" creationdate="20151212T064413Z">
+        <seg>多重規格：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46160,6 +46264,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOT ZERO ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064541Z" creationid="Judy" creationdate="20151212T064541Z">
+        <seg>未歸零警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T082913Z">
@@ -47041,6 +47153,14 @@ without the documented approval of the appropriate Quality Control personnel.
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070538Z">
         <seg>註：NUUSERLANGUI 預設值為 0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Enter 4 digits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064501Z" creationid="Judy" creationdate="20151212T064501Z">
+        <seg>註：輸入 4 位數字</seg>
       </tuv>
     </tu>
     <tu>
@@ -55299,6 +55419,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REJ.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064444Z" creationid="Judy" creationdate="20151212T064444Z">
+        <seg>退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REJECT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032547Z" creationid="Judy" creationdate="20151212T032547Z">
@@ -58327,6 +58455,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S.WEIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064620Z" creationid="Judy" creationdate="20151212T064620Z">
+        <seg>初始重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SAI Alarm: Enables the possibility of having a SAI alarm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T154730Z" creationid="Judy" creationdate="20151206T154730Z">
@@ -58379,6 +58515,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035028Z" creationid="Judy" creationdate="20151212T035028Z">
         <seg>儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SAVE DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064635Z" creationid="Judy" creationdate="20151212T064635Z">
+        <seg>儲存資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -65077,6 +65221,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE USER DOES NOT EXIST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064518Z" creationid="Judy" creationdate="20151212T064518Z">
+        <seg>使用者不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE USER EXISTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064522Z" creationid="Judy" creationdate="20151212T064522Z">
+        <seg>使用者已存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THEORICAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040630Z" creationid="Judy" creationdate="20151212T040630Z">
@@ -65321,6 +65481,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033822Z" creationid="Judy" creationdate="20151212T033822Z">
         <seg>軌道說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRACKS NUM.:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064427Z" creationid="Judy" creationdate="20151212T064427Z">
+        <seg>軌道數量：</seg>
       </tuv>
     </tu>
     <tu>
@@ -79889,6 +80057,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064659Z" creationid="Judy" creationdate="20151212T064657Z">
+        <seg>使用者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User Choices</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T134104Z">
@@ -81414,6 +81590,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T085105Z">
         <seg>WORKLET (工作手冊)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WRONG PASSWORD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064508Z" creationid="Judy" creationdate="20151212T064508Z">
+        <seg>密碼錯誤</seg>
       </tuv>
     </tu>
     <tu>
@@ -85369,6 +85553,14 @@ whether it�s raining or snowing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040341Z" creationid="Judy" creationdate="20151212T040341Z">
         <seg>歸零</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZERO MODE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064527Z" creationid="Judy" creationdate="20151212T064527Z">
+        <seg>歸零模式</seg>
       </tuv>
     </tu>
     <tu>
