@@ -19677,10 +19677,18 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distribute Normal-Up Correction: This parameter helps to regulate the duration of the signal applied for the dispenser to correct a product default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T015112Z" creationid="Judy" creationdate="20151212T015112Z">
+        <seg>Distribute Strong-UP Correction (分派正常-正校正)：此參數能協助調節套用至給料器以校正產品預設值的訊號持續時間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribute Strong-UP Correction: This parameter helps to regulate the duration of the signal applied to the dispenser to correct a product default.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T014709Z" creationid="Judy" creationdate="20151212T014539Z">
-        <seg>Distribute Strong-UP Correction (分派強度-正校正)：此參數能協助調節套用至給料器以校正產品預設值的訊號之持續時間，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T015116Z" creationid="Judy" creationdate="20151212T014539Z">
+        <seg>Distribute Strong-UP Correction (分派強度-正校正)：此參數能協助調節套用至給料器以校正產品預設值的訊號持續時間，</seg>
       </tuv>
     </tu>
     <tu>
@@ -38675,8 +38683,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It indicates the packs number which the calculated correction must be distributed in.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T014704Z" creationid="Judy" creationdate="20151212T014704Z">
-        <seg>其為計算校正值必須分派之包裝數量，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T015129Z" creationid="Judy" creationdate="20151212T014704Z">
+        <seg>其為計算校正值必須分派之包裝數量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79636,8 +79644,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>When the programmed % is exceeded a positive correction will act applying the “Distribute Correction Strong-Up” factor.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T014713Z" creationid="Judy" creationdate="20151212T014303Z">
-        <seg>當設定之 % 將會使用「Distribute Correction Strong-Up (分派校正強度-正)」因子進行正校正。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T015034Z" creationid="Judy" creationdate="20151212T014303Z">
+        <seg>當設定之 % 將會使用「Distribute Correction Strong-Up (分派強度校正-正)」因子進行正校正。</seg>
       </tuv>
     </tu>
     <tu>
