@@ -42246,6 +42246,22 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LISTING SAVED IN DISK!!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081624Z" creationid="Judy" creationdate="20151212T081624Z">
+        <seg>列表已儲存於磁碟中！！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LISTING SAVED.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081555Z" creationid="Judy" creationdate="20151212T081555Z">
+        <seg>列表已儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LISTINGS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032609Z" creationid="Judy" creationdate="20151212T032609Z">
@@ -56311,6 +56327,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053752Z" creationid="Judy" creationdate="20151212T053752Z">
         <seg>請記得！！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REMEMBER: BEFORE REMOVE USB DRIVE PRESS @DISCONNECT BUTTON!!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081434Z" creationid="Judy" creationdate="20151212T081434Z">
+        <seg>請記得：移除 USB 磁碟機前請點擊 @DISCONNECT (斷線) 按鈕！！</seg>
       </tuv>
     </tu>
     <tu>
@@ -80316,6 +80340,38 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T132644Z">
         <seg>US20100090797、標題「VEHICLE SECURITY SYSTEM」、案號 PLR-00- 22557.01P；美國專利申請</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USB @DISCONNECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081637Z" creationid="Judy" creationdate="20151212T081637Z">
+        <seg>USB @斷線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USB DISCONNECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081645Z" creationid="Judy" creationdate="20151212T081645Z">
+        <seg>USB 斷線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USB DRIVE DETECTED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081346Z" creationid="Judy" creationdate="20151212T081346Z">
+        <seg>偵測到 USB 磁碟機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USB DRIVE NOT DETECTED,@CONNECT A DRIVE TO USB CONNECTOR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081526Z" creationid="Judy" creationdate="20151212T081526Z">
+        <seg>未偵測到 USB 磁碟機，@連接磁碟機至 USB 連接口。</seg>
       </tuv>
     </tu>
     <tu>
