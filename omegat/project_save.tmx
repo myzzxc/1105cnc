@@ -13694,6 +13694,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123941Z" creationid="Judy" creationdate="20151212T123941Z">
+        <seg>變更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHANGE FORMAT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064650Z" creationid="Judy" creationdate="20151212T064650Z">
@@ -42792,32 +42800,48 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>LEARN (S-E)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T084005Z" creationid="Judy" creationdate="20151212T084005Z">
-        <seg>學習 (S-E)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123742Z" creationid="Judy" creationdate="20151212T084005Z">
+        <seg>接收 (S-E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEARN PULSE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123750Z" creationid="Judy" creationdate="20151212T123329Z">
+        <seg>接收脈衝訊號</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LEARN S-E (MIN-MAX)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083751Z" creationid="Judy" creationdate="20151212T083751Z">
-        <seg>學習 S-E (最小—最大)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123738Z" creationid="Judy" creationdate="20151212T083751Z">
+        <seg>接收 S-E (最小—最大)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LEARN VIB.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T084037Z" creationid="Judy" creationdate="20151212T084037Z">
-        <seg>學習振動</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123743Z" creationid="Judy" creationdate="20151212T084037Z">
+        <seg>接收振動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEARN WEIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123745Z" creationid="Judy" creationdate="20151212T123323Z">
+        <seg>接收重量</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LEARNING LIMIT (S-E)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083937Z" creationid="Judy" creationdate="20151212T083937Z">
-        <seg>學習極限 (S-E)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123740Z" creationid="Judy" creationdate="20151212T083937Z">
+        <seg>接收極限 (S-E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42826,6 +42850,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T123956Z">
         <seg>學習目標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEARNING PULSE...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123751Z" creationid="Judy" creationdate="20151212T123339Z">
+        <seg>接收脈衝訊號⋯⋯</seg>
       </tuv>
     </tu>
     <tu>
@@ -43561,8 +43593,8 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>Learning......</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041254Z" creationid="Judy" creationdate="20151212T041254Z">
-        <seg>學習⋯⋯</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123735Z" creationid="Judy" creationdate="20151212T041254Z">
+        <seg>接收⋯⋯</seg>
       </tuv>
     </tu>
     <tu>
@@ -43739,6 +43771,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150801T094937Z">
         <seg>於智慧型手機 / 平板上了解更多關於四防 Everio 的資訊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123945Z" creationid="Judy" creationdate="20151212T123945Z">
+        <seg>層級</seg>
       </tuv>
     </tu>
     <tu>
@@ -47836,6 +47876,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054118Z" creationid="Judy" creationdate="20151212T054118Z">
         <seg>新增使用者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEXT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123927Z" creationid="Judy" creationdate="20151212T123927Z">
+        <seg>下一步</seg>
       </tuv>
     </tu>
     <tu>
@@ -53230,6 +53278,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053613Z" creationid="Judy" creationdate="20151212T053613Z">
         <seg>訊號脈衝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PULSE LEARNED!!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123754Z" creationid="Judy" creationdate="20151212T123416Z">
+        <seg>訊號脈衝已接收！！</seg>
       </tuv>
     </tu>
     <tu>
@@ -61697,6 +61753,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STOP T.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123921Z" creationid="Judy" creationdate="20151212T123910Z">
+        <seg>停止 T.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STOP TIME INIT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033901Z" creationid="Judy" creationdate="20151212T033901Z">
@@ -67985,6 +68049,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034753Z" creationid="Judy" creationdate="20151212T034753Z">
         <seg>總生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOTAL T.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123307Z" creationid="Judy" creationdate="20151212T123307Z">
+        <seg>總重</seg>
       </tuv>
     </tu>
     <tu>
@@ -83053,6 +83125,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132549Z">
         <seg>真空切換歧管（三 Z 加工組態）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VALIDATE PULSE?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T123835Z" creationid="Judy" creationdate="20151212T123835Z">
+        <seg>確認脈衝訊號？</seg>
       </tuv>
     </tu>
     <tu>
