@@ -5829,10 +5829,26 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AVERAGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040636Z" creationid="Judy" creationdate="20151212T040636Z">
+        <seg>平均值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVERAGE PACKS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035802Z" creationid="Judy" creationdate="20151212T035802Z">
         <seg>平均包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AVERAGE RANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040728Z" creationid="Judy" creationdate="20151212T040728Z">
+        <seg>平均範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -13494,6 +13510,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CORRECT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040613Z" creationid="Judy" creationdate="20151212T040603Z">
+        <seg>校正 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COST CENTER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125119Z">
@@ -13550,6 +13574,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CUMULATIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040656Z" creationid="Judy" creationdate="20151212T040656Z">
+        <seg>累計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CUSTOMER INTIMACY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030051Z">
@@ -13570,6 +13602,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T135644Z">
         <seg>無段變速單元 140 接受來自空氣進氣系統 160 之空氣並經由排氣系統 162 排出無段變速單元 140 內部之空氣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CYCLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040711Z" creationid="Judy" creationdate="20151212T040711Z">
+        <seg>循環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CYCLE RANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040722Z" creationid="Judy" creationdate="20151212T040722Z">
+        <seg>循環範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -23340,6 +23388,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FEED BACK HISTOGRAM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040519Z" creationid="Judy" creationdate="20151212T040519Z">
+        <seg>回饋折線圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FEED-BACK</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032603Z" creationid="Judy" creationdate="20151212T032603Z">
@@ -30911,6 +30967,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T130325Z">
         <seg>如果因為賣方因素而終止合約：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IMPACT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040736Z" creationid="Judy" creationdate="20151212T040736Z">
+        <seg>影響</seg>
       </tuv>
     </tu>
     <tu>
@@ -40822,6 +40886,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LAST CYCLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040708Z" creationid="Judy" creationdate="20151212T040708Z">
+        <seg>最後循環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LC CONFIRMATION FEE IS UNDER SUPPLIER'S ACCOUNT IF PAID BY CONFIRMED LC.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141645Z">
@@ -45248,6 +45320,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NEGATIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040625Z" creationid="Judy" creationdate="20151212T040625Z">
+        <seg>負值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032934Z" creationid="Judy" creationdate="20151212T032934Z">
@@ -46906,6 +46986,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130300Z">
         <seg>擺動刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OSCILLATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040539Z" creationid="Judy" creationdate="20151212T040539Z">
+        <seg>振盪</seg>
       </tuv>
     </tu>
     <tu>
@@ -49217,6 +49305,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PACKS HISTOGRAM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040506Z" creationid="Judy" creationdate="20151212T040506Z">
+        <seg>包裝折線圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PACKS INTERVAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033836Z" creationid="Judy" creationdate="20151212T033836Z">
@@ -49758,6 +49854,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032712Z" creationid="Judy" creationdate="20151206T032712Z">
         <seg>將平面置於垂直封裝機對側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POSITIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040619Z" creationid="Judy" creationdate="20151212T040607Z">
+        <seg>正值</seg>
       </tuv>
     </tu>
     <tu>
@@ -57897,6 +58001,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STOCK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040649Z" creationid="Judy" creationdate="20151212T040649Z">
+        <seg>存貨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STOP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035646Z" creationid="Judy" creationdate="20151205T035646Z">
@@ -57909,6 +58021,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033901Z" creationid="Judy" creationdate="20151212T033901Z">
         <seg>停止時間初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOP TIMES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040740Z" creationid="Judy" creationdate="20151212T040740Z">
+        <seg>停止時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -63677,6 +63797,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THEORICAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040630Z" creationid="Judy" creationdate="20151212T040630Z">
+        <seg>理論值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THEREAFTER, ESCALATED BY 0.25% PER FULL MONTH DURING TWO FOLLOWING YEARS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T120219Z">
@@ -63897,6 +64025,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150601T000000Z">
         <seg>TRANSFORMS="&lt;source_path&gt;\1036.mst" 定義安裝語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TREND</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040521Z" creationid="Judy" creationdate="20151212T040521Z">
+        <seg>趨勢</seg>
       </tuv>
     </tu>
     <tu>
