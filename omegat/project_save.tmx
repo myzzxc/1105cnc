@@ -17370,6 +17370,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Correction Reject (-): This YES or NO programming parameter allows a special correction when a pack has exceeded the lower rejecting tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T013649Z" creationid="Judy" creationdate="20151212T013649Z">
+        <seg>Correction Reject (校正退回) (-)：此參數設定為 YES (是) 或 NO (否)，當包裝超過退回容許直下限時可進行特別校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Correction Stock: Indicates the last correction made in a stock cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T151556Z" creationid="Judy" creationdate="20151210T151556Z">
@@ -30955,6 +30963,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it is set to No, the minimum vessel limit value is fixed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T013513Z" creationid="Judy" creationdate="20151212T013513Z">
+        <seg>若其設定值為 No，則最小容器極限值為固定值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it still does not work, the photocell will have to be replaced with a new one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T122837Z" creationid="Judy" creationdate="20151211T122837Z">
@@ -38985,6 +39001,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is programmed in % with reference to R-.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T013801Z" creationid="Judy" creationdate="20151212T013801Z">
+        <seg>其設定為相對 R- 之 % 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is programmed in % with reference to the net weight.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T154422Z" creationid="Judy" creationdate="20151211T154422Z">
@@ -42736,6 +42760,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151208T073539Z">
         <seg>Maximum  speed (最高速度)：所有規格之包裝每分鐘最高速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum Vessel Limit (O) (R-): This parameter indicates the correction top when positive corrections are made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T013739Z" creationid="Judy" creationdate="20151212T013739Z">
+        <seg>Maximum Vessel Limit (最大容器限制) (O) (R-)：此參數為進行正校正時的最大校正量，</seg>
       </tuv>
     </tu>
     <tu>
