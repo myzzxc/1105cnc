@@ -5941,6 +5941,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTO TEST LISTING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081332Z" creationid="Judy" creationdate="20151212T081332Z">
+        <seg>測試自動列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMATIC LIST PROGRAMMING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035526Z" creationid="Judy" creationdate="20151212T035526Z">
@@ -5952,6 +5960,14 @@ Keep going.</seg>
         <seg>AUTOMATIC LISTING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035531Z" creationid="Judy" creationdate="20151212T035531Z">
+        <seg>自動列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUTOMATIC LISTINGS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081228Z" creationid="Judy" creationdate="20151212T081228Z">
         <seg>自動列表</seg>
       </tuv>
     </tu>
@@ -5975,8 +5991,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>AUX.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081022Z" creationid="Judy" creationdate="20151212T081022Z">
-        <seg>輔助</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081050Z" creationid="Judy" creationdate="20151212T081022Z">
+        <seg>備用接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -13830,6 +13846,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONFIGURATION - AUTOMATIC LISTINGS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081240Z" creationid="Judy" creationdate="20151212T081240Z">
+        <seg>設置—自動列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONFIGURATION - CELL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052729Z" creationid="Judy" creationdate="20151212T052729Z">
@@ -13850,6 +13874,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032633Z" creationid="Judy" creationdate="20151212T032542Z">
         <seg>設置——一般</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONFIGURATION - LISTINGS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081252Z" creationid="Judy" creationdate="20151212T081252Z">
+        <seg>設置—列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONFIGURATION - SERIAL COMMUNICATIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081154Z" creationid="Judy" creationdate="20151212T081154Z">
+        <seg>設置-序列通訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -21969,6 +22009,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EVEN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081110Z" creationid="Judy" creationdate="20151212T081110Z">
+        <seg>偶數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXAMPLE 1: The customer does not want to put Digifort 16 licenses and analytical, so he gets the Base version and a Professional Pack of 8 additional licenses Professional (DGFPR1008V6 DGFPR1108V6 +), moreover it must acquire a license basis Analytical and a pack of 16 permits analytical (DGFAN1000V1 + DGFAN1116V1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150321T144228Z">
@@ -25232,6 +25280,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T110337Z">
         <seg>圖 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FILE FORMAT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081304Z" creationid="Judy" creationdate="20151212T081304Z">
+        <seg>檔案格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -42198,6 +42254,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LISTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081025Z" creationid="Judy" creationdate="20151212T081025Z">
+        <seg>清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LL.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T134325Z">
@@ -48342,6 +48406,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ODD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081123Z" creationid="Judy" creationdate="20151212T081123Z">
+        <seg>奇數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OF MECHANICAL GUARANTEE PERIOD AGAINST CERTIFICATE OF FINAL ACCEPTANCE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151815Z">
@@ -48538,6 +48610,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115600Z">
         <seg>否則，將處合約價 200% 之罰金。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OUTPUT LISTING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081300Z" creationid="Judy" creationdate="20151212T081300Z">
+        <seg>輸出列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -59512,6 +59592,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SERIES - TENDENCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081246Z" creationid="Judy" creationdate="20151212T081205Z">
+        <seg>序列—趨勢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SERIES ELEMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052903Z" creationid="Judy" creationdate="20151212T052854Z">
@@ -59532,6 +59620,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134509Z">
         <seg>系列桌台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERIES-TEND.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081244Z" creationid="Judy" creationdate="20151212T081222Z">
+        <seg>序列—趨勢</seg>
       </tuv>
     </tu>
     <tu>
@@ -65841,6 +65937,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032937Z" creationid="Judy" creationdate="20151212T032937Z">
         <seg>箱重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TARE AUTO LISTING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081320Z" creationid="Judy" creationdate="20151212T081320Z">
+        <seg>計算箱重自動列表</seg>
       </tuv>
     </tu>
     <tu>
