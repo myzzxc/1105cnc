@@ -19290,6 +19290,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Created new format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T140929Z" creationid="Judy" creationdate="20151212T140929Z">
+        <seg>建立新規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating Format from an Original Format</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151129T124910Z">
@@ -20608,6 +20616,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T025441Z">
         <seg>模塊和模塊化系統的定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T140925Z" creationid="Judy" creationdate="20151212T140925Z">
+        <seg>刪除規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -24167,6 +24183,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error asigning new format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T140921Z" creationid="Judy" creationdate="20151212T140921Z">
+        <seg>指定新規格錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error comms.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125255Z" creationid="Judy" creationdate="20151212T125255Z">
@@ -24187,6 +24211,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125857Z" creationid="Judy" creationdate="20151212T125857Z">
         <seg>刪除檔案錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error deleting format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T140903Z" creationid="Judy" creationdate="20151212T140903Z">
+        <seg>刪除規格錯誤</seg>
       </tuv>
     </tu>
     <tu>
@@ -28050,6 +28082,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T134933Z">
         <seg>以廠內管路水壓注水至供應端，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filled buffer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T140857Z" creationid="Judy" creationdate="20151212T140857Z">
+        <seg>填料緩衝區</seg>
       </tuv>
     </tu>
     <tu>
