@@ -5498,6 +5498,22 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALARM PROGRAMMING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035101Z" creationid="Judy" creationdate="20151212T035101Z">
+        <seg>警報程式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ALARM TOLERANCE (+)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035123Z" creationid="Judy" creationdate="20151212T035123Z">
+        <seg>報警遮罩 [1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALL PARTS/ITEMS DESCRIPTION AND NUMBER HAVE TO BE SUBMITTED IN EXCEL FORMAT PRIOR CONDUCTING OF OPERATION TEST ACCEPTANCE (HARDCOPY AND SOFTCOPY)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122441Z">
@@ -7493,8 +7509,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Alarm Masks [1]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135400Z">
-        <seg>報警遮罩 [1]</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035126Z">
+        <seg>警報遮罩 [1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -12878,6 +12894,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CADENCE REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034901Z" creationid="Judy" creationdate="20151212T034901Z">
+        <seg>輸送間隔退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CALL: 855.374.4772</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133007Z">
@@ -13248,8 +13272,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>CONFIGURABLE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034816Z" creationid="Judy" creationdate="20151212T034816Z">
-        <seg>可配置</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034821Z" creationid="Judy" creationdate="20151212T034816Z">
+        <seg>可設置</seg>
       </tuv>
     </tu>
     <tu>
@@ -20881,6 +20905,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ERASE CAD/LEN/OFL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034959Z" creationid="Judy" creationdate="20151212T034959Z">
+        <seg>刪除 CAD/LEN/OFL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ERP Systems;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T132819Z">
@@ -24072,6 +24104,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034046Z" creationid="Judy" creationdate="20151212T034046Z">
         <seg>檔案類型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FILES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035052Z" creationid="Judy" creationdate="20151212T035052Z">
+        <seg>檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -28426,6 +28466,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T135206Z">
         <seg>GPRS最大資料下行和上行傳送速率為85.6 kbps。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GRAPHIC WINDOW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035025Z" creationid="Judy" creationdate="20151212T035025Z">
+        <seg>圖形視窗</seg>
       </tuv>
     </tu>
     <tu>
@@ -49658,6 +49706,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PROGRAMMING - ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035112Z" creationid="Judy" creationdate="20151212T035112Z">
+        <seg>程式設定——警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PROJECT NAME</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125722Z">
@@ -53675,6 +53731,22 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>R.CADEN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034946Z" creationid="Judy" creationdate="20151212T034946Z">
+        <seg>輸送間隔退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R.LENGTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034952Z" creationid="Judy" creationdate="20151212T034952Z">
+        <seg>長度退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>R161 Communication in European patent application 11745641.8,(2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141816Z">
@@ -53847,6 +53919,22 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032547Z" creationid="Judy" creationdate="20151212T032547Z">
         <seg>退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REJECT (1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034845Z" creationid="Judy" creationdate="20151212T034845Z">
+        <seg>退回 (1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REJECT PROGRAMMING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034838Z" creationid="Judy" creationdate="20151212T034838Z">
+        <seg>退回程式設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -56791,6 +56879,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SAVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035028Z" creationid="Judy" creationdate="20151212T035028Z">
+        <seg>儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCANNER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022738Z">
@@ -56924,6 +57020,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T130624Z">
         <seg>退回 (SEND BACK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SEND USB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035047Z" creationid="Judy" creationdate="20151212T035047Z">
+        <seg>發送至 USB</seg>
       </tuv>
     </tu>
     <tu>
@@ -83097,6 +83201,22 @@ whether it�s raining or snowing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T083333Z">
         <seg>讓您發揮潛力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZERO R.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034931Z" creationid="Judy" creationdate="20151212T034931Z">
+        <seg>歸零退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZERO REJECT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034854Z" creationid="Judy" creationdate="20151212T034854Z">
+        <seg>歸零退回</seg>
       </tuv>
     </tu>
     <tu>
