@@ -13214,6 +13214,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHECK IF BELT IS WORKING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041059Z" creationid="Judy" creationdate="20151212T041059Z">
+        <seg>檢查輸送帶正常工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHECKS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033557Z" creationid="Judy" creationdate="20151206T033557Z">
@@ -13426,6 +13434,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032633Z" creationid="Judy" creationdate="20151212T032542Z">
         <seg>設置——一般</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONFIGURATIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041020Z" creationid="Judy" creationdate="20151212T041020Z">
+        <seg>設置</seg>
       </tuv>
     </tu>
     <tu>
@@ -18638,6 +18654,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T160639Z" creationid="Judy" creationdate="20151209T160639Z">
         <seg>DATA HUB IP (資料中心 IP)：資料中心安裝之電腦 IP 位址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DATA PROD.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040810Z" creationid="Judy" creationdate="20151212T040810Z">
+        <seg>生產資料模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -42441,6 +42465,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T084835Z" creationid="Judy" creationdate="20151208T084745Z">
         <seg>MD：金屬探測器偵測到污染物之輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MEAN CALC.-REJECT UNIT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040839Z" creationid="Judy" creationdate="20151212T040839Z">
+        <seg>平均計算——退回單元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77680,6 +77712,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UPDATING VIBRATION VALUE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041037Z" creationid="Judy" creationdate="20151212T041037Z">
+        <seg>更新振動值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UPGRADE TO ARTCAM INSIGNA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T133838Z">
@@ -78802,6 +78842,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VIB.CALC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041044Z" creationid="Judy" creationdate="20151212T040919Z">
+        <seg>振動計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VIB.LIM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040900Z" creationid="Judy" creationdate="20151212T040900Z">
+        <seg>震動限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VIBRATION ANALYSIS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032618Z" creationid="Judy" creationdate="20151212T032618Z">
@@ -79866,6 +79922,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WORK MODE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040816Z" creationid="Judy" creationdate="20151212T040816Z">
+        <seg>工作模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WORKING VISA AND WORKING PERMIT SHALL BE PAID BY THE SUPPLIER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T141754Z">
@@ -79878,6 +79942,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T085105Z">
         <seg>WORKLET (工作手冊)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WRONG SAMPLES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040849Z" creationid="Judy" creationdate="20151212T040849Z">
+        <seg>錯誤樣品</seg>
       </tuv>
     </tu>
     <tu>
@@ -84866,6 +84938,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>discarded</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040945Z" creationid="Judy" creationdate="20151212T040945Z">
+        <seg>丟棄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>don't forget to fill IN/EX column</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T153832Z">
@@ -84947,6 +85027,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>empty</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040925Z" creationid="Judy" creationdate="20151212T040925Z">
+        <seg>空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>engaging member positioned forward of the operator area, the third ground engaging member being positioned on the first side of the vertical centerline longitudinal plane of the vehicle and the fourth ground engaging member being positioned on the second side of the vertical centerline longitudinal plane of the vehicle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T020242Z">
@@ -84999,6 +85087,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T233726Z">
         <seg>欄位中的    圖示以選擇調職原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>filling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040954Z" creationid="Judy" creationdate="20151212T040954Z">
+        <seg>填料</seg>
       </tuv>
     </tu>
     <tu>
