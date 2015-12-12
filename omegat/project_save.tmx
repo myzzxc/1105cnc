@@ -5730,6 +5730,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AL CONT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163438Z" creationid="Judy" creationdate="20151212T163438Z">
+        <seg>警報計數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AL.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115238Z" creationid="Judy" creationdate="20151212T115238Z">
@@ -14438,6 +14446,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163615Z" creationid="Judy" creationdate="20151212T163615Z">
+        <seg>計數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONTAI</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162912Z" creationid="Judy" creationdate="20151212T162912Z">
@@ -20122,6 +20138,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DENSITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163452Z" creationid="Judy" creationdate="20151212T163452Z">
+        <seg>密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DERIV.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081932Z" creationid="Judy" creationdate="20151212T081932Z">
@@ -20310,6 +20334,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053049Z" creationid="Judy" creationdate="20151212T053049Z">
         <seg>顯示@範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DISTRIBUTE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163816Z" creationid="Judy" creationdate="20151212T163816Z">
+        <seg>分發</seg>
       </tuv>
     </tu>
     <tu>
@@ -22741,6 +22773,30 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073229Z" creationid="Judy" creationdate="20151212T073229Z">
         <seg>關閉檢重機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>END PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163549Z" creationid="Judy" creationdate="20151212T163549Z">
+        <seg>結束生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>END SERVO +</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163753Z" creationid="Judy" creationdate="20151212T163753Z">
+        <seg>結束伺服 +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>END SERVO -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163757Z" creationid="Judy" creationdate="20151212T163757Z">
+        <seg>結束伺服 -</seg>
       </tuv>
     </tu>
     <tu>
@@ -43648,16 +43704,16 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>LEVEL CONT.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163129Z" creationid="Judy" creationdate="20151212T163129Z">
-        <seg>層級計算</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163423Z" creationid="Judy" creationdate="20151212T163129Z">
+        <seg>量計數</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LEVEL EXIT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163031Z" creationid="Judy" creationdate="20151212T163031Z">
-        <seg>層級出口</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163409Z" creationid="Judy" creationdate="20151212T163031Z">
+        <seg>量出口</seg>
       </tuv>
     </tu>
     <tu>
@@ -45985,6 +46041,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064413Z" creationid="Judy" creationdate="20151212T064413Z">
         <seg>多重規格：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MULTIPLES SALIDAS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163858Z" creationid="Judy" creationdate="20151212T163858Z">
+        <seg>多重輸出</seg>
       </tuv>
     </tu>
     <tu>
@@ -48784,6 +48848,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NO ACTIVE TRACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163515Z" creationid="Judy" creationdate="20151212T163515Z">
+        <seg>未啟用軌道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NO CLAIM OF INTEREST WILL BE BORNE AND ENTERTAINED BY THE PURCHASER FOR ANY DELAYED PAYMENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151128Z">
@@ -50450,6 +50522,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062222Z" creationid="Judy" creationdate="20151205T062222Z">
         <seg>關 / 開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OFFSET</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163805Z" creationid="Judy" creationdate="20151212T163805Z">
+        <seg>偏移量</seg>
       </tuv>
     </tu>
     <tu>
@@ -53674,6 +53754,30 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PHOTOCELL ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163625Z" creationid="Judy" creationdate="20151212T163625Z">
+        <seg>光電感應器警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PHOTOCELL ALARM BLOCKED OFF</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163726Z" creationid="Judy" creationdate="20151212T163658Z">
+        <seg>光電感應器遮蔽警報關閉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PHOTOCELL ALARM BLOCKED ON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163729Z" creationid="Judy" creationdate="20151212T163652Z">
+        <seg>光電感應器遮蔽警報開啓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PHOTOCELLS and DETECTORS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054746Z" creationid="Judy" creationdate="20151206T054746Z">
@@ -53806,6 +53910,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032712Z" creationid="Judy" creationdate="20151206T032712Z">
         <seg>將平面置於垂直封裝機對側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POSITIONAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163803Z" creationid="Judy" creationdate="20151212T163803Z">
+        <seg>位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -62100,6 +62212,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053232Z" creationid="Judy" creationdate="20151212T053232Z">
         <seg>序列規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERIAL FORMAT ANSW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163544Z" creationid="Judy" creationdate="20151212T163544Z">
+        <seg>序列規格回饋</seg>
       </tuv>
     </tu>
     <tu>
@@ -84465,6 +84585,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VBR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163447Z" creationid="Judy" creationdate="20151212T163447Z">
+        <seg>振動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VCA Algorithm Training</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T091837Z">
@@ -84534,6 +84662,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053916Z" creationid="Judy" creationdate="20151212T053916Z">
         <seg>振動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VIBRATION ALGORITHM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163556Z" creationid="Judy" creationdate="20151212T163556Z">
+        <seg>振動分析演算法</seg>
       </tuv>
     </tu>
     <tu>
@@ -85534,6 +85670,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114255Z" creationid="Judy" creationdate="20151211T114255Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING PHOTOCELL BLOCKED!!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163722Z" creationid="Judy" creationdate="20151212T163722Z">
+        <seg>警告光電感應器遮蔽！！</seg>
       </tuv>
     </tu>
     <tu>
