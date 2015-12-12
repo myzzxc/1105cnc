@@ -11028,6 +11028,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030828Z" creationid="Judy" creationdate="20151212T030828Z">
+        <seg>返回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BACKGROUND</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T143233Z">
@@ -40278,6 +40286,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOADING, PLEASE WAIT...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030708Z" creationid="Judy" creationdate="20151212T030708Z">
+        <seg>正在載入，請稍候⋯⋯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOCAL AGENT NAME</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T130058Z">
@@ -48874,6 +48890,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PLEASE WAIT...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030715Z" creationid="Judy" creationdate="20151212T030715Z">
+        <seg>請稍候⋯⋯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POLARIS Industries, Ranger Catalog, 2008 (32 pgs.).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T141919Z">
@@ -51910,6 +51934,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press test button ...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030853Z" creationid="Judy" creationdate="20151212T030853Z">
+        <seg>按下測試按鈕⋯⋯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press the center the axle hole to take out the indoor air.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T115539Z" creationid="Judy" creationdate="20151207T115539Z">
@@ -53359,6 +53391,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132902Z">
         <seg>校閱和批准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RIGHT WEIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030836Z" creationid="Judy" creationdate="20151212T030836Z">
+        <seg>正確重量</seg>
       </tuv>
     </tu>
     <tu>
@@ -57033,6 +57073,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090619Z" creationid="Judy" creationdate="20151206T090454Z">
         <seg>Samples Zero (樣品歸零 S-E)：此參數為歸零樣品的起始和結束值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save data or exit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030724Z" creationid="Judy" creationdate="20151212T030724Z">
+        <seg>儲存資料或退出</seg>
       </tuv>
     </tu>
     <tu>
@@ -60774,6 +60822,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T133711Z">
         <seg>開啓 Citrix MetaFrame Program Neighborhood。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start End calculated</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030822Z" creationid="Judy" creationdate="20151212T030822Z">
+        <seg>開始結束計算</seg>
       </tuv>
     </tu>
     <tu>
@@ -78326,6 +78382,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T085105Z">
         <seg>WORKLET (工作手冊)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WRONG WEIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030841Z" creationid="Judy" creationdate="20151212T030841Z">
+        <seg>錯誤重量</seg>
       </tuv>
     </tu>
     <tu>
