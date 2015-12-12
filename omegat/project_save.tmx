@@ -15287,6 +15287,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change work format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142556Z" creationid="Judy" creationdate="20151212T142556Z">
+        <seg>變更工作規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing Voltage:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T051134Z" creationid="Judy" creationdate="20151128T051134Z">
@@ -26316,6 +26324,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FMT CHANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142646Z" creationid="Judy" creationdate="20151212T142646Z">
+        <seg>變更規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FMT.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115152Z" creationid="Judy" creationdate="20151212T115152Z">
@@ -29883,6 +29899,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142636Z" creationid="Judy" creationdate="20151212T142636Z">
+        <seg>規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Format Editing of this manual</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T112930Z" creationid="Judy" creationdate="20151211T112930Z">
@@ -29895,6 +29919,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T150714Z">
         <seg>Format Tolerance (規格公差)：設定規格之絕對或相對淨重之容許公差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Format doesn't exist</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142634Z" creationid="Judy" creationdate="20151212T142634Z">
+        <seg>規格不存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -43106,6 +43138,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064952Z" creationid="Judy" creationdate="20151212T064952Z">
         <seg>標籤列印延遲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LACK OF ZERO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142711Z" creationid="Judy" creationdate="20151212T142711Z">
+        <seg>未歸零</seg>
       </tuv>
     </tu>
     <tu>
@@ -77487,6 +77527,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T120756Z" creationid="Judy" creationdate="20151212T120756Z">
         <seg>無啟用中單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are not free formats</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142628Z" creationid="Judy" creationdate="20151212T142628Z">
+        <seg>非可用規格</seg>
       </tuv>
     </tu>
     <tu>
