@@ -20202,6 +20202,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DEVIATION (CC)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162428Z" creationid="Judy" creationdate="20151212T162428Z">
+        <seg>偏差 (CC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEVIATION CONTROL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035754Z" creationid="Judy" creationdate="20151212T035754Z">
@@ -45245,6 +45253,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAX TARE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162503Z" creationid="Judy" creationdate="20151212T162503Z">
+        <seg>最大箱重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MAX.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072056Z">
@@ -45577,6 +45593,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082435Z" creationid="Judy" creationdate="20151212T082435Z">
         <seg>最小值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MIN TARE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162506Z" creationid="Judy" creationdate="20151212T162506Z">
+        <seg>最小箱重</seg>
       </tuv>
     </tu>
     <tu>
@@ -62285,6 +62309,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022719Z">
         <seg>軟體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOURCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162705Z" creationid="Judy" creationdate="20151212T162705Z">
+        <seg>來源</seg>
       </tuv>
     </tu>
     <tu>
@@ -83080,6 +83112,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UPS ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162702Z" creationid="Judy" creationdate="20151212T162702Z">
+        <seg>UPS 警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>US 2011/0298189 Al Dec.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T124453Z">
@@ -84281,6 +84321,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VALUE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162709Z" creationid="Judy" creationdate="20151212T162709Z">
+        <seg>數值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VALUE $</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033644Z">
@@ -85386,10 +85434,26 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WARNING UPS ALARM: POWER SUPPLY UNIT HAS BEEN DOWN @ACCEPT TO SHUT DOWN THE SYSTEM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162658Z" creationid="Judy" creationdate="20151212T162658Z">
+        <seg>警告上限警報：電源供應單元已切斷@確認關閉系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WARNING: INTRODUCE MACHINE NUMBER !</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162351Z" creationid="Judy" creationdate="20151212T162351Z">
         <seg>警告：輸入機器編號！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING: SELECTED FILE IS NOT AVAILABLE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162455Z" creationid="Judy" creationdate="20151212T162455Z">
+        <seg>警告：選擇之檔案不存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -89995,6 +90059,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131728Z">
         <seg>“[從前]……我們未購買足夠的授權供每個人使用……改用 Nuance 後我們能購買 [PDF] 軟體給每一個人使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[xxx]-EDICION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162419Z" creationid="Judy" creationdate="20151212T162419Z">
+        <seg>[xxx]-版</seg>
       </tuv>
     </tu>
     <tu>
