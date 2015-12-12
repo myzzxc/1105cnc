@@ -5821,10 +5821,26 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AVERAGE WEIGHT (CC)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040044Z" creationid="Judy" creationdate="20151212T040044Z">
+        <seg>平均重量 (CC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVERAGE WEIGHT CONTROL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035741Z" creationid="Judy" creationdate="20151212T035741Z">
         <seg>平均重量控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AVG WEIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040051Z" creationid="Judy" creationdate="20151212T040051Z">
+        <seg>平均重量</seg>
       </tuv>
     </tu>
     <tu>
@@ -18746,6 +18762,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DEVIATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040038Z" creationid="Judy" creationdate="20151212T040038Z">
+        <seg>偏差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEVIATION CONTROL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035754Z" creationid="Judy" creationdate="20151212T035754Z">
@@ -31043,6 +31067,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INITIAL PACKAGES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040016Z" creationid="Judy" creationdate="20151212T040016Z">
+        <seg>初始包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INPUT TARE OFFERT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033404Z" creationid="Judy" creationdate="20151212T033404Z">
@@ -40798,6 +40830,22 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIM.T+</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035932Z" creationid="Judy" creationdate="20151212T035902Z">
+        <seg>正趨勢限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LIM.T-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035946Z" creationid="Judy" creationdate="20151212T035908Z">
+        <seg>負趨勢限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LINK: indicates the presence of a network link and flashes when the Shield transmits or receives data</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133436Z">
@@ -45128,6 +45176,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NEG.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035817Z" creationid="Judy" creationdate="20151212T035817Z">
+        <seg>負</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032934Z" creationid="Judy" creationdate="20151212T032934Z">
@@ -49073,6 +49129,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>P/M</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040102Z" creationid="Judy" creationdate="20151212T040102Z">
+        <seg>包裝/分鐘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PACKING SEAL FOLLOWER AND BOLTING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053829Z">
@@ -49085,6 +49149,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033836Z" creationid="Judy" creationdate="20151212T033836Z">
         <seg>包裝間隔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PACKS TO COMPENSATE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040028Z" creationid="Judy" creationdate="20151212T040028Z">
+        <seg>補償包裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -49210,6 +49282,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PARTIAL LINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040034Z" creationid="Judy" creationdate="20151212T040034Z">
+        <seg>部分產線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PARTIAL PRINT VALUE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035712Z" creationid="Judy" creationdate="20151212T035712Z">
@@ -49278,6 +49358,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T140235Z">
         <seg>PCI 輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PCK/MIN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040100Z" creationid="Judy" creationdate="20151212T040100Z">
+        <seg>包裝/分鐘</seg>
       </tuv>
     </tu>
     <tu>
@@ -49582,6 +49670,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153048Z" creationid="Judy" creationdate="20151129T152900Z">
         <seg>POS Trend Limit (正趨勢限制)：此參數僅適用於平均重量管控啟動運作時，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035830Z" creationid="Judy" creationdate="20151212T035830Z">
+        <seg>正</seg>
       </tuv>
     </tu>
     <tu>
@@ -63541,6 +63637,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TOTAL (CC)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040114Z" creationid="Judy" creationdate="20151212T040114Z">
+        <seg>總 (CC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TOTAL BATCH PARTIAL NUMBER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035705Z" creationid="Judy" creationdate="20151212T035705Z">
@@ -63649,6 +63753,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035807Z" creationid="Judy" creationdate="20151212T035807Z">
         <seg>趨勢限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TREND LIMIT (0) (R-)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035823Z" creationid="Judy" creationdate="20151212T035823Z">
+        <seg>趨勢限制 (0) (R-)</seg>
       </tuv>
     </tu>
     <tu>
