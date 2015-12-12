@@ -19882,6 +19882,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DATAHUB IP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151157Z" creationid="Judy" creationdate="20151212T151157Z">
+        <seg>資料中心 IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DATAHUB Port: Data Hub program port.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T160725Z" creationid="Judy" creationdate="20151209T160725Z">
@@ -20568,6 +20576,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T134155Z" creationid="Judy" creationdate="20151129T134155Z">
         <seg>Date (日期)：實際日期設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Day</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151257Z" creationid="Judy" creationdate="20151212T151257Z">
+        <seg>日</seg>
       </tuv>
     </tu>
     <tu>
@@ -31638,6 +31654,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065748Z" creationid="Judy" creationdate="20151205T065748Z">
         <seg>噴槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HANDBOOK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151150Z" creationid="Judy" creationdate="20151212T151150Z">
+        <seg>手冊</seg>
       </tuv>
     </tu>
     <tu>
@@ -43270,6 +43294,30 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LABELING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151227Z" creationid="Judy" creationdate="20151212T151214Z">
+        <seg>標記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LABELING IP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151224Z" creationid="Judy" creationdate="20151212T151224Z">
+        <seg>標記 IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LABELING PROTOCOL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151245Z" creationid="Judy" creationdate="20151212T151245Z">
+        <seg>標記通訊協定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LACK OF ZERO</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142711Z" creationid="Judy" creationdate="20151212T142711Z">
@@ -43714,6 +43762,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150716Z" creationid="Judy" creationdate="20151212T150716Z">
         <seg>本地 IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOCAL PORT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151100Z" creationid="Judy" creationdate="20151212T151100Z">
+        <seg>本地連接埠</seg>
       </tuv>
     </tu>
     <tu>
@@ -48448,6 +48504,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NET CONFIGURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151137Z" creationid="Judy" creationdate="20151212T151137Z">
+        <seg>網路設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NET INFO</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150523Z" creationid="Judy" creationdate="20151212T150523Z">
@@ -52817,6 +52881,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PACKAGES SEND</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151119Z" creationid="Judy" creationdate="20151212T151119Z">
+        <seg>發送包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PACKING SEAL FOLLOWER AND BOLTING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053829Z">
@@ -53486,6 +53558,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074401Z" creationid="Judy" creationdate="20151212T074401Z">
         <seg>連接埠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PORT DATAHUB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151208Z" creationid="Judy" creationdate="20151212T151208Z">
+        <seg>資料中心連接埠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PORT LABELING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151236Z" creationid="Judy" creationdate="20151212T151236Z">
+        <seg>標記連接埠</seg>
       </tuv>
     </tu>
     <tu>
@@ -61591,6 +61679,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SCADA PORT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151134Z" creationid="Judy" creationdate="20151212T151134Z">
+        <seg>SCADA 連接埠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCADA TCP CONNECTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053126Z" creationid="Judy" creationdate="20151212T053126Z">
@@ -61772,6 +61868,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T130624Z">
         <seg>退回 (SEND BACK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SEND MINUTES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151111Z" creationid="Judy" creationdate="20151212T151111Z">
+        <seg>發送分鐘</seg>
       </tuv>
     </tu>
     <tu>
