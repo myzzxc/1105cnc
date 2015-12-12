@@ -5418,6 +5418,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACCEPTED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164219Z" creationid="Judy" creationdate="20151212T164219Z">
+        <seg>接受</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCEPTED (CC)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115612Z" creationid="Judy" creationdate="20151212T115612Z">
@@ -11740,10 +11748,34 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BATCH CONTROL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164212Z" creationid="Judy" creationdate="20151212T164212Z">
+        <seg>批次管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BATCH CONTROL TIME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164216Z" creationid="Judy" creationdate="20151212T164216Z">
+        <seg>批次管控時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BATCH ERROR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162320Z" creationid="Judy" creationdate="20151212T162320Z">
         <seg>批次錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BATCH UNITS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164224Z" creationid="Judy" creationdate="20151212T164224Z">
+        <seg>批次單位</seg>
       </tuv>
     </tu>
     <tu>
@@ -13850,6 +13882,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054652Z" creationid="Judy" creationdate="20151212T054652Z">
         <seg>變更規格編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHANGING SERVO TYPE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164208Z" creationid="Judy" creationdate="20151212T164208Z">
+        <seg>變更伺服類型</seg>
       </tuv>
     </tu>
     <tu>
@@ -53922,6 +53962,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POSITIONING SERVO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164154Z" creationid="Judy" creationdate="20151212T164154Z">
+        <seg>定位伺服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POSITIVE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040619Z" creationid="Judy" creationdate="20151212T040607Z">
@@ -62340,6 +62388,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T143226Z">
         <seg>伺服驅動器 2X &amp; Y  - 3 組驅動器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERVO TEST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164156Z" creationid="Judy" creationdate="20151212T164156Z">
+        <seg>伺服測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -83252,6 +83308,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162948Z" creationid="Judy" creationdate="20151212T162948Z">
         <seg>單位警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNITS PER EXIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164115Z" creationid="Judy" creationdate="20151212T164115Z">
+        <seg>單位出口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNITS PER LEVEL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164149Z" creationid="Judy" creationdate="20151212T164107Z">
+        <seg>單位量</seg>
       </tuv>
     </tu>
     <tu>
