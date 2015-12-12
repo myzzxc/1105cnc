@@ -68605,6 +68605,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TMP ALARM CH1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143422Z" creationid="Judy" creationdate="20151212T143422Z">
+        <seg>溫度警報 CH1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TMP ALARM CH2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143418Z" creationid="Judy" creationdate="20151212T143418Z">
+        <seg>溫度警報 CH2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TO-DO</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125917Z">
