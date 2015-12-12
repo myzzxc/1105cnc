@@ -11732,6 +11732,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BATCH ERROR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162320Z" creationid="Judy" creationdate="20151212T162320Z">
+        <seg>批次錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BATCH:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032843Z" creationid="Judy" creationdate="20151212T032843Z">
@@ -13854,6 +13862,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHECK SHIFTS CONFIGURATION!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151538Z" creationid="Judy" creationdate="20151212T151538Z">
+        <seg>檢查班次設定！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHECKS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033557Z" creationid="Judy" creationdate="20151206T033557Z">
@@ -14066,6 +14082,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032901Z" creationid="Judy" creationdate="20151212T032901Z">
         <seg>公司：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMPATIBILITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162323Z" creationid="Judy" creationdate="20151212T162323Z">
+        <seg>相容性</seg>
       </tuv>
     </tu>
     <tu>
@@ -14658,6 +14682,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080937Z" creationid="Judy" creationdate="20151212T080937Z">
         <seg>當前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CURRENT SHIFT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151404Z" creationid="Judy" creationdate="20151212T151404Z">
+        <seg>當前班次</seg>
       </tuv>
     </tu>
     <tu>
@@ -19942,6 +19974,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T152757Z">
         <seg>日期：2015年 9 月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DAY BEFORE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151512Z" creationid="Judy" creationdate="20151212T151512Z">
+        <seg>前一天</seg>
       </tuv>
     </tu>
     <tu>
@@ -48028,6 +48068,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monday</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151302Z" creationid="Judy" creationdate="20151212T151302Z">
+        <seg>星期一</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monthly</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054552Z" creationid="Judy" creationdate="20151206T054552Z">
@@ -48584,6 +48632,22 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NEXT DAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151521Z" creationid="Judy" creationdate="20151212T151521Z">
+        <seg>後一天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEXT SHIFT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151414Z" creationid="Judy" creationdate="20151212T151414Z">
+        <seg>下一班次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NEXT STEPS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T130433Z">
@@ -48604,6 +48668,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151128Z">
         <seg>不承擔和受理買方因任何延遲付款請求支付之利息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NO SHIFTS CONFIGURATED!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151554Z" creationid="Judy" creationdate="20151212T151554Z">
+        <seg>班次未設定！</seg>
       </tuv>
     </tu>
     <tu>
@@ -62120,6 +62192,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SHIFTS CONFIGURATED!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151607Z" creationid="Judy" creationdate="20151212T151607Z">
+        <seg>班次已設定！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SHIFTS NUMBER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032825Z" creationid="Judy" creationdate="20151212T032825Z">
@@ -62657,6 +62737,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STND</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162315Z" creationid="Judy" creationdate="20151212T162315Z">
+        <seg>標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STOCK</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040649Z" creationid="Judy" creationdate="20151212T040649Z">
@@ -63041,6 +63129,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041312Z" creationid="Judy" creationdate="20151212T041312Z">
         <seg>取樣歸零</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saturday</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151352Z" creationid="Judy" creationdate="20151212T151352Z">
+        <seg>星期六</seg>
       </tuv>
     </tu>
     <tu>
@@ -67511,6 +67607,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135444Z" creationid="Judy" creationdate="20151210T135444Z">
         <seg>客戶生產總結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sunday</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151354Z" creationid="Judy" creationdate="20151212T151354Z">
+        <seg>星期日</seg>
       </tuv>
     </tu>
     <tu>
@@ -80617,6 +80721,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thursday</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151307Z" creationid="Judy" creationdate="20151212T151307Z">
+        <seg>星期四</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus the dropdown menu for adjustment appears.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151204T160919Z" creationid="Judy" creationdate="20151204T160919Z">
@@ -82307,6 +82419,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061608Z" creationid="Judy" creationdate="20151205T061608Z">
         <seg>管外徑 Ø40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuesday</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151304Z" creationid="Judy" creationdate="20151212T151304Z">
+        <seg>星期二</seg>
       </tuv>
     </tu>
     <tu>
@@ -84153,6 +84273,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VALIDATE SHIFTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151501Z" creationid="Judy" creationdate="20151212T151501Z">
+        <seg>驗證班次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VALUE $</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033644Z">
@@ -84622,6 +84750,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T144125Z">
         <seg>車輛承載駕駛、乘客以及貨物 (總增加重量為 740 磅)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vendredi</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151348Z" creationid="Judy" creationdate="20151212T151348Z">
+        <seg>星期五</seg>
       </tuv>
     </tu>
     <tu>
@@ -85246,6 +85382,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045513Z" creationid="Judy" creationdate="20151212T045513Z">
         <seg>警告溫度警報！！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING: INTRODUCE MACHINE NUMBER !</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162351Z" creationid="Judy" creationdate="20151212T162351Z">
+        <seg>警告：輸入機器編號！</seg>
       </tuv>
     </tu>
     <tu>
@@ -86230,6 +86374,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T143643Z">
         <seg>網站： http://www.modularmanagement.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wednesday</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151306Z" creationid="Judy" creationdate="20151212T151306Z">
+        <seg>星期三</seg>
       </tuv>
     </tu>
     <tu>
