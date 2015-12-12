@@ -21257,6 +21257,22 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXPORT CONFIGURATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045423Z" creationid="Judy" creationdate="20151212T045423Z">
+        <seg>匯出設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXPORT DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045415Z" creationid="Judy" creationdate="20151212T045415Z">
+        <seg>匯出資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXTENDED Z AXIS CLEARANCE &amp; PROCESS  from 150mm to 200mm (per Z)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T134843Z">
@@ -29558,6 +29574,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043014Z" creationid="Judy" creationdate="20151206T043014Z">
         <seg>高溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HISTOGRAM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045516Z" creationid="Judy" creationdate="20151212T045516Z">
+        <seg>折線圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -41102,6 +41126,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOAD CONFIGURATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045429Z" creationid="Judy" creationdate="20151212T045429Z">
+        <seg>載入設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOADED PLATFORM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040427Z" creationid="Judy" creationdate="20151212T040427Z">
@@ -42097,6 +42129,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T051133Z">
         <seg>裝載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading program data ...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045440Z" creationid="Judy" creationdate="20151212T045440Z">
+        <seg>載入程式資料⋯⋯</seg>
       </tuv>
     </tu>
     <tu>
@@ -50246,6 +50286,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032508Z" creationid="Judy" creationdate="20151212T032508Z">
         <seg>生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRODUCTION DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045518Z" creationid="Judy" creationdate="20151212T045518Z">
+        <seg>生產資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRODUCTION DATA CONFIGURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045526Z" creationid="Judy" creationdate="20151212T045526Z">
+        <seg>生產資料設置</seg>
       </tuv>
     </tu>
     <tu>
@@ -63945,6 +64001,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033229Z" creationid="Judy" creationdate="20151212T033229Z">
         <seg>箱重測試限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE MACHINE WILL BE OUT OF PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045502Z" creationid="Judy" creationdate="20151212T045502Z">
+        <seg>機器將停止生產</seg>
       </tuv>
     </tu>
     <tu>
@@ -79934,6 +79998,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114255Z" creationid="Judy" creationdate="20151211T114255Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING TEMPERATURE ALARM!!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045513Z" creationid="Judy" creationdate="20151212T045513Z">
+        <seg>警告溫度警報！！</seg>
       </tuv>
     </tu>
     <tu>
