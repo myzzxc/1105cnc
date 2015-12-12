@@ -19522,6 +19522,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DEFINE ACCESS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083553Z" creationid="Judy" creationdate="20151212T083553Z">
+        <seg>設定權限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEFINITIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T153255Z">
@@ -21137,6 +21145,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150822T130858Z">
         <seg>在利益相關者之間分配成本和收益對於財務可行性來說相當重要。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distributor 1:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083627Z" creationid="Judy" creationdate="20151212T083604Z">
+        <seg>分送器 1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distributor 2:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083632Z" creationid="Judy" creationdate="20151212T083612Z">
+        <seg>分送器 2：</seg>
       </tuv>
     </tu>
     <tu>
@@ -42278,6 +42302,30 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LAG PACKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083502Z" creationid="Judy" creationdate="20151212T083502Z">
+        <seg>延遲包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LAG RANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083435Z" creationid="Judy" creationdate="20151212T083435Z">
+        <seg>延遲範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LAG TIME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083510Z" creationid="Judy" creationdate="20151212T083510Z">
+        <seg>延遲時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LANGUAGE:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032857Z" creationid="Judy" creationdate="20151212T032857Z">
@@ -51289,6 +51337,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PACK – RANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083522Z" creationid="Judy" creationdate="20151212T083522Z">
+        <seg>包裝—範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PACK.WITHOUT TARE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074221Z" creationid="Judy" creationdate="20151212T074221Z">
@@ -51333,6 +51389,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033836Z" creationid="Judy" creationdate="20151212T033836Z">
         <seg>包裝間隔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PACKS PEND.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083414Z" creationid="Judy" creationdate="20151212T083414Z">
+        <seg>包裝處理中</seg>
       </tuv>
     </tu>
     <tu>
@@ -51982,6 +52046,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072513Z" creationid="Judy" creationdate="20151212T072513Z">
         <seg>正/負極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POWER ON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083548Z" creationid="Judy" creationdate="20151212T083548Z">
+        <seg>打開電源</seg>
       </tuv>
     </tu>
     <tu>
@@ -60681,6 +60753,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STOCK PACKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083424Z" creationid="Judy" creationdate="20151212T083424Z">
+        <seg>存貨包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STOP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035646Z" creationid="Judy" creationdate="20151205T035646Z">
@@ -66713,6 +66793,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034758Z" creationid="Judy" creationdate="20151212T034755Z">
         <seg>時間控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIME LAG RANGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083539Z" creationid="Judy" creationdate="20151212T083539Z">
+        <seg>時間延遲範圍</seg>
       </tuv>
     </tu>
     <tu>
