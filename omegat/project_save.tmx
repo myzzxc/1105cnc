@@ -41790,6 +41790,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIMIT UP/LOWER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072114Z" creationid="Judy" creationdate="20151212T072114Z">
+        <seg>上/下極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LINK: indicates the presence of a network link and flashes when the Shield transmits or receives data</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133436Z">
@@ -43247,8 +43255,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MAX.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114938Z">
-        <seg>最高</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072056Z">
+        <seg>最大</seg>
       </tuv>
     </tu>
     <tu>
