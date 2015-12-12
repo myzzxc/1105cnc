@@ -5426,6 +5426,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACTION TIME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035213Z" creationid="Judy" creationdate="20151212T035213Z">
+        <seg>作動時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADC is an all wheel drive system that provides on-demand torque transfer to the front wheels when one of the wheels 104 of rear axle 110 lose traction and that provides engine braking torque to the wheels 104 of front axle 108.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151107T015046Z">
@@ -5508,8 +5516,16 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>ALARM TOLERANCE (+)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035123Z" creationid="Judy" creationdate="20151212T035123Z">
-        <seg>報警遮罩 [1]</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035154Z" creationid="Judy" creationdate="20151212T035123Z">
+        <seg>報警容許值 (+)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ALARM TOLERANCE (-)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035158Z" creationid="Judy" creationdate="20151212T035158Z">
+        <seg>報警容許值 (-)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5657,6 +5673,22 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033917Z" creationid="Judy" creationdate="20151212T033917Z">
         <seg>請求參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ASK FOR FORMAT DATAHUB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035338Z" creationid="Judy" creationdate="20151212T035252Z">
+        <seg>請求資料中心規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ASK FOR REASON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035311Z" creationid="Judy" creationdate="20151212T035311Z">
+        <seg>請求原因</seg>
       </tuv>
     </tu>
     <tu>
@@ -7517,8 +7549,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Alarm Masks [2]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T135403Z">
-        <seg>報警遮罩 [2]</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035137Z">
+        <seg>警報遮罩 [2]</seg>
       </tuv>
     </tu>
     <tu>
@@ -10101,6 +10133,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T154218Z">
         <seg>具有選配可交換式刀匣可供選擇，刀匣同時適用於標準刀鋒、輪形刀、壓花輪以及 45 度角刀鋒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ask for format DataHub:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035340Z" creationid="Judy" creationdate="20151212T035244Z">
+        <seg>請求資料中心規格：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13354,6 +13394,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142523Z">
         <seg>企業品管部門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CORRECT FORMAT RECEIVE FROM SHARED FOLDER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035434Z" creationid="Judy" creationdate="20151212T035434Z">
+        <seg>由共用資料夾接收之正確規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -31011,6 +31059,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INTRODUCE ALARM REASON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035402Z" creationid="Judy" creationdate="20151212T035402Z">
+        <seg>啟動警報原因</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INTRODUCTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T015711Z">
@@ -42237,6 +42293,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MODIFY REASON OR ACCEPT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035407Z" creationid="Judy" creationdate="20151212T035407Z">
+        <seg>修改原因或接受</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MON - FRI 7:30AM - 17:30</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T133024Z">
@@ -45044,6 +45108,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T132450Z">
         <seg>凸出式移動接環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOT CORRECT FORMAT RECEIVE FROM SHARED FOLDER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035445Z" creationid="Judy" creationdate="20151212T035445Z">
+        <seg>由共用資料夾接收之不正確規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -53791,6 +53863,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085241Z">
         <seg>車輛後側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REASON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035409Z" creationid="Judy" creationdate="20151212T035409Z">
+        <seg>原因</seg>
       </tuv>
     </tu>
     <tu>
