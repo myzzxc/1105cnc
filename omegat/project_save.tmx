@@ -26788,6 +26788,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FULL LEVEL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163311Z" creationid="Judy" creationdate="20151212T163311Z">
+        <seg>滿載量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FUNCTIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041240Z" creationid="Judy" creationdate="20151212T041240Z">
@@ -43634,6 +43642,22 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054043Z" creationid="Judy" creationdate="20151212T053938Z">
         <seg>存取層級識別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEVEL CONT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163129Z" creationid="Judy" creationdate="20151212T163129Z">
+        <seg>層級計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEVEL EXIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163031Z" creationid="Judy" creationdate="20151212T163031Z">
+        <seg>層級出口</seg>
       </tuv>
     </tu>
     <tu>
