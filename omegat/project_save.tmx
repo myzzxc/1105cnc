@@ -5322,6 +5322,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ABOUT ...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041335Z" creationid="Judy" creationdate="20151212T041335Z">
+        <seg>關於⋯⋯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ABSTRACT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20151021T125325Z">
@@ -11244,6 +11252,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BACKUP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041346Z" creationid="Judy" creationdate="20151212T041346Z">
+        <seg>備份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BACKUP/RESET</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041338Z" creationid="Judy" creationdate="20151212T041338Z">
+        <seg>備份/重置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BAFFLE PLATES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150502T053552Z">
@@ -13530,6 +13554,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040613Z" creationid="Judy" creationdate="20151212T040603Z">
         <seg>校正 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CORRECTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041205Z" creationid="Judy" creationdate="20151212T041205Z">
+        <seg>校正</seg>
       </tuv>
     </tu>
     <tu>
@@ -19010,6 +19042,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DRIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041407Z" creationid="Judy" creationdate="20151212T041407Z">
+        <seg>磁碟機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DRM Security - FileOpen support</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T054257Z">
@@ -19054,6 +19094,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032616Z" creationid="Judy" creationdate="20151212T032616Z">
         <seg>動態分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DYNAMIC STANDARD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041227Z" creationid="Judy" creationdate="20151212T041227Z">
+        <seg>動態標準</seg>
       </tuv>
     </tu>
     <tu>
@@ -21069,6 +21117,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033909Z" creationid="Judy" creationdate="20151212T033909Z">
         <seg>編輯參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EFFICIENCY %</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041244Z" creationid="Judy" creationdate="20151212T041244Z">
+        <seg>效率 %</seg>
       </tuv>
     </tu>
     <tu>
@@ -24584,6 +24640,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085220Z">
         <seg>車輛前側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FUNCTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041240Z" creationid="Judy" creationdate="20151212T041240Z">
+        <seg>功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -41495,6 +41559,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learning......</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041254Z" creationid="Judy" creationdate="20151212T041254Z">
+        <seg>學習⋯⋯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T082936Z">
@@ -42509,6 +42581,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MESSAGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041344Z" creationid="Judy" creationdate="20151212T041344Z">
+        <seg>訊息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>METAL FABRICATION AND PROCESS TOOLS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131107T022548Z">
@@ -42617,6 +42697,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132850Z">
         <seg>更加自動化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MORE CHOICES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041237Z" creationid="Judy" creationdate="20151212T041237Z">
+        <seg>更多選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -47066,6 +47154,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115600Z">
         <seg>否則，將處合約價 200% 之罰金。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OVERFLOW VIBRATION LIMIT,UPDATE?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041143Z" creationid="Judy" creationdate="20151212T041143Z">
+        <seg>超過震動限制，進行更新？</seg>
       </tuv>
     </tu>
     <tu>
@@ -54467,6 +54563,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RESTORE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041410Z" creationid="Judy" creationdate="20151212T041410Z">
+        <seg>還原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REVIEW &amp; APPROVAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132902Z">
@@ -54847,6 +54951,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T142622Z">
         <seg>重新啓動電腦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Receiving graph...</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041304Z" creationid="Judy" creationdate="20151212T041304Z">
+        <seg>正在接收圖表⋯⋯</seg>
       </tuv>
     </tu>
     <tu>
@@ -57367,6 +57479,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SAMPLES WEIGHT END</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041222Z" creationid="Judy" creationdate="20151212T041222Z">
+        <seg>樣品秤重結束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SAVE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035028Z" creationid="Judy" creationdate="20151212T035028Z">
@@ -58337,6 +58457,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T090619Z" creationid="Judy" creationdate="20151206T090454Z">
         <seg>Samples Zero (樣品歸零 S-E)：此參數為歸零樣品的起始和結束值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sampling weight</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041330Z" creationid="Judy" creationdate="20151212T041330Z">
+        <seg>取樣重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sampling zero</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041312Z" creationid="Judy" creationdate="20151212T041312Z">
+        <seg>取樣歸零</seg>
       </tuv>
     </tu>
     <tu>
@@ -78862,6 +78998,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032618Z" creationid="Judy" creationdate="20151212T032618Z">
         <seg>振動分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VIBRATION LIMIT OK, UPDATE?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041202Z" creationid="Judy" creationdate="20151212T041202Z">
+        <seg>符合震動限制，進行更新？</seg>
       </tuv>
     </tu>
     <tu>
