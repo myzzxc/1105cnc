@@ -80666,6 +80666,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vibration limit overflow</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T062613Z" creationid="Judy" creationdate="20151212T062613Z">
+        <seg>超出振動限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vibration: At the time the stability criterion on the platform fails, the LED is shown in gray; meanwhile, the LED remains green.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101138Z" creationid="Judy" creationdate="20151128T091249Z">
