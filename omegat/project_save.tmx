@@ -638,6 +638,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(R- is the value of T-1  if we work with Regulations, or it is the value of T-2 if we do not work with Regulations).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T013931Z" creationid="Judy" creationdate="20151212T013931Z">
+        <seg>(若使用規範則 R- 為 T-1 之數值，若不使用規範則為 T-2 之數值)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(R- is the value of T-1 if we work with Regulations, or the value of T-2 if we do not work with Regulations).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T014103Z" creationid="Judy" creationdate="20151212T014103Z">
+        <seg>(若使用規範則 R- 為 T-1 之數值，若不使用規範則為 T-2 之數值)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(SIGNATURE)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T155740Z">
@@ -19661,6 +19677,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distribute Strong-UP Correction: This parameter helps to regulate the duration of the signal applied to the dispenser to correct a product default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T014709Z" creationid="Judy" creationdate="20151212T014539Z">
+        <seg>Distribute Strong-UP Correction (分派強度-正校正)：此參數能協助調節套用至給料器以校正產品預設值的訊號之持續時間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribute plugins, hotfixes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T090334Z">
@@ -37137,6 +37161,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It cannot exceed the “Distribute Normal Correction” parameter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T014856Z" creationid="Judy" creationdate="20151212T014856Z">
+        <seg>其數值不能超過「Distribute Normal Correction (分派正常校正)」參數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It cannot workout that there are two objects there!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T120743Z">
@@ -38637,6 +38669,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T095538Z">
         <seg>具有簡便的加入書籤程序以快速標記事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It indicates the packs number which the calculated correction must be distributed in.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T014704Z" creationid="Judy" creationdate="20151212T014704Z">
+        <seg>其為計算校正值必須分派之包裝數量，</seg>
       </tuv>
     </tu>
     <tu>
@@ -43332,6 +43372,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum Vessel Limit (O) (R-): This parameter indicates the correction top when negative corrections are made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T013953Z" creationid="Judy" creationdate="20151212T013953Z">
+        <seg>Minimum Vessel Limit (最小容器限制) (O) (R-)：此參數為進行負校正時的最大校正量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum Weight (Min): This parameter, as information, indicates the user the minimum value that the checkweigher can weigh.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T104515Z" creationid="Judy" creationdate="20151208T104515Z">
@@ -45161,6 +45209,14 @@ without the documented approval of the appropriate Quality Control personnel.
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065545Z" creationid="Judy" creationdate="20151206T065545Z">
         <seg>正常流程：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal-Strong (O) (R) Limit: It is programmed in % with reference to R-.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T014056Z" creationid="Judy" creationdate="20151212T014056Z">
+        <seg>Normal-Strong Limit (正常強度限制) (O) (R)：其設定為相對 R- 之 % 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79574,6 +79630,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122422Z">
         <seg>當此針腳為高電位時，LED 燈亮起；低電位時 LED 燈熄滅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the programmed % is exceeded a positive correction will act applying the “Distribute Correction Strong-Up” factor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T014713Z" creationid="Judy" creationdate="20151212T014303Z">
+        <seg>當設定之 % 將會使用「Distribute Correction Strong-Up (分派校正強度-正)」因子進行正校正。</seg>
       </tuv>
     </tu>
     <tu>
