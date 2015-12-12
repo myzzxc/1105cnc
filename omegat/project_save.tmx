@@ -14438,10 +14438,26 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONTAI</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162912Z" creationid="Judy" creationdate="20151212T162912Z">
+        <seg>集裝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONTAINER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142840Z" creationid="Judy" creationdate="20151212T142840Z">
         <seg>集裝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONTAINER EXIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162959Z" creationid="Judy" creationdate="20151212T162959Z">
+        <seg>集裝箱出口</seg>
       </tuv>
     </tu>
     <tu>
@@ -14602,6 +14618,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115648Z" creationid="Judy" creationdate="20151212T115648Z">
         <seg>計數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COUNTER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162724Z" creationid="Judy" creationdate="20151212T162724Z">
+        <seg>計數器</seg>
       </tuv>
     </tu>
     <tu>
@@ -20170,6 +20194,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DESTINATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162919Z" creationid="Judy" creationdate="20151212T162919Z">
+        <seg>目的地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DETAILED DESCRIPTION OF THE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T111521Z">
@@ -22925,6 +22957,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033623Z">
         <seg>執行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162925Z" creationid="Judy" creationdate="20151212T162925Z">
+        <seg>出口</seg>
       </tuv>
     </tu>
     <tu>
@@ -26736,6 +26776,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074008Z" creationid="Judy" creationdate="20151212T074008Z">
         <seg>裝箱滿載 X 光探測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FULL CONT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T163021Z" creationid="Judy" creationdate="20151212T163021Z">
+        <seg>滿載計數</seg>
       </tuv>
     </tu>
     <tu>
@@ -45261,6 +45309,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAX UNIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162928Z" creationid="Judy" creationdate="20151212T162928Z">
+        <seg>最大單位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MAX.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072056Z">
@@ -45517,6 +45573,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MED WEIG</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162840Z" creationid="Judy" creationdate="20151212T162840Z">
+        <seg>平均重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MENUS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053526Z" creationid="Judy" creationdate="20151212T053526Z">
@@ -45601,6 +45665,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162506Z" creationid="Judy" creationdate="20151212T162506Z">
         <seg>最小箱重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MIN VALUE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162931Z" creationid="Judy" creationdate="20151212T162931Z">
+        <seg>最小值</seg>
       </tuv>
     </tu>
     <tu>
@@ -69117,6 +69189,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TOTAL KG</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162847Z" creationid="Judy" creationdate="20151212T162847Z">
+        <seg>總公斤數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TOTAL LIQUIDATED DAMAGES (LD): 15%</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T115003Z">
@@ -83020,6 +83100,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040200Z" creationid="Judy" creationdate="20151212T040200Z">
         <seg>單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNITS AL.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162948Z" creationid="Judy" creationdate="20151212T162948Z">
+        <seg>單位警報</seg>
       </tuv>
     </tu>
     <tu>
