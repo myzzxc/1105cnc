@@ -18153,6 +18153,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connecting track</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125002Z" creationid="Judy" creationdate="20151212T125002Z">
+        <seg>連接軌道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection speed: 10/100Mb</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T013759Z">
@@ -21661,6 +21669,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't exist product at md.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124953Z" creationid="Judy" creationdate="20151212T124953Z">
+        <seg>金屬探測器未偵測到產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don’t let the hassle of filling out long forms slow down your business.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T113746Z">
@@ -24019,6 +24035,38 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T135150Z">
         <seg>提供人體工學地板墊予以站立工作之勞工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error file..</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124742Z" creationid="Judy" creationdate="20151212T124742Z">
+        <seg>檔案錯誤⋯⋯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error loading messages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124705Z" creationid="Judy" creationdate="20151212T124705Z">
+        <seg>載入訊息錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error opening file</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124726Z" creationid="Judy" creationdate="20151212T124726Z">
+        <seg>開啓檔案錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error saving file</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124733Z" creationid="Judy" creationdate="20151212T124733Z">
+        <seg>儲存檔案錯誤</seg>
       </tuv>
     </tu>
     <tu>
@@ -30974,6 +31022,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T134946Z">
         <seg>開啓 “Add/Remove programs（增加/移除應用程式）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Going to static analysis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125020Z" creationid="Judy" creationdate="20151212T125020Z">
+        <seg>進行靜態分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -48885,6 +48941,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not tracks actives</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124822Z" creationid="Judy" creationdate="20151212T124822Z">
+        <seg>軌道未啟用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not two.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T043709Z">
@@ -64119,10 +64183,26 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sended product to md.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124921Z" creationid="Judy" creationdate="20151212T124921Z">
+        <seg>輸送產品至金屬探測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sending information back and forth between different departments often results in wasted time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T023054Z">
         <seg>不同部門之間來回發送資訊經常造成時間的浪費，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sending speed to weight conveyor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124902Z" creationid="Judy" creationdate="20151212T124902Z">
+        <seg>發送速度訊號至秤重輸送機</seg>
       </tuv>
     </tu>
     <tu>
@@ -67457,6 +67537,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T014628Z">
         <seg>系統資源說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System started</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124832Z" creationid="Judy" creationdate="20151212T124832Z">
+        <seg>系統已啟動</seg>
       </tuv>
     </tu>
     <tu>
@@ -91455,6 +91543,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T142309Z">
         <seg>如圖 9 中所示之連接至防滾架中段 74 的橫向框架元件 124 如此處進一步說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>uncalibrating formats track..</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T124812Z" creationid="Judy" creationdate="20151212T124812Z">
+        <seg>軌道規格無法校正⋯⋯</seg>
       </tuv>
     </tu>
     <tu>
