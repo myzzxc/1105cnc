@@ -13816,8 +13816,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>CAN NOT DELETE USER SESION</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061049Z" creationid="Judy" creationdate="20151213T061049Z">
-        <seg>無法刪除使用者設定</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062731Z" creationid="Judy" creationdate="20151213T061049Z">
+        <seg>無法刪除使用者工作</seg>
       </tuv>
     </tu>
     <tu>
@@ -13898,6 +13898,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040943Z" creationid="Judy" creationdate="20151206T040943Z">
         <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CC-AVERAGE WEIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062542Z" creationid="Judy" creationdate="20151213T062542Z">
+        <seg>CC-平均重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CC-DEVIATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062532Z" creationid="Judy" creationdate="20151213T062532Z">
+        <seg>CC-偏差</seg>
       </tuv>
     </tu>
     <tu>
@@ -14210,6 +14226,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054202Z" creationid="Judy" creationdate="20151212T054202Z">
         <seg>關閉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CLOSE SESION TIME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062803Z" creationid="Judy" creationdate="20151213T062803Z">
+        <seg>關閉工作時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -54642,6 +54666,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POINT ERASE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062554Z" creationid="Judy" creationdate="20151213T062554Z">
+        <seg>刪除點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POLARIS Industries, Ranger Catalog, 2008 (32 pgs.).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151021T141919Z">
@@ -55310,6 +55342,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062458Z" creationid="Judy" creationdate="20151213T062433Z">
         <seg>前脈衝訊號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PULSES NOW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062511Z" creationid="Judy" creationdate="20151213T062511Z">
+        <seg>當前訊號脈衝</seg>
       </tuv>
     </tu>
     <tu>
@@ -70413,6 +70453,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TOTAL (+ER)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062525Z" creationid="Judy" creationdate="20151213T062525Z">
+        <seg>總值 (+ER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TOTAL (CC)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040128Z" creationid="Judy" creationdate="20151212T040114Z">
@@ -84488,6 +84536,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UPDATING SPEEDS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062519Z" creationid="Judy" creationdate="20151213T062519Z">
+        <seg>更新速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UPDATING VIBRATION VALUE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041037Z" creationid="Judy" creationdate="20151212T041037Z">
@@ -84684,6 +84740,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053903Z" creationid="Judy" creationdate="20151212T053903Z">
         <seg>使用者和訪問權限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USERS CONFIG</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062516Z" creationid="Judy" creationdate="20151213T062516Z">
+        <seg>使用者設置</seg>
       </tuv>
     </tu>
     <tu>
