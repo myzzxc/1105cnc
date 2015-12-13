@@ -11137,6 +11137,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end, release the emergency stop button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162814Z" creationid="Judy" creationdate="20151213T162814Z">
+        <seg>最後，鬆開緊急停止按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the moment that the zero limit time is met, the LED will light red; at that time, the LED of Total Zero will also be shown in red.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T090712Z" creationid="Judy" creationdate="20151128T090712Z">
@@ -13488,6 +13496,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T082141Z">
         <seg>刷環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brush gently in order not to damage the lining.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162725Z" creationid="Judy" creationdate="20151213T162725Z">
+        <seg>輕輕刷洗避免損壞表面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16684,6 +16700,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T151731Z" creationid="Judy" creationdate="20151213T151731Z">
         <seg>鉤爪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean the sealing surfaces.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162713Z" creationid="Judy" creationdate="20151213T162713Z">
+        <seg>清潔封裝面，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22833,6 +22857,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055544Z" creationid="Judy" creationdate="20151205T055544Z">
         <seg>請勿使用含有酸、漂白劑或磨料之化學物質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not use inflammable or aggressive liquids.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162718Z" creationid="Judy" creationdate="20151213T162718Z">
+        <seg>請勿使用腐蝕性或易燃液體，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29921,6 +29953,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fit in reverse order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162741Z" creationid="Judy" creationdate="20151213T162741Z">
+        <seg>以上述相反順序進行安裝，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fit the laminate between the guide plates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125337Z" creationid="Judy" creationdate="20151207T125331Z">
@@ -35959,6 +35999,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T085039Z">
         <seg>若熱交換器操作於高壓下，建議安裝卸壓裝置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the holes are blocked the blades might break.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162703Z" creationid="Judy" creationdate="20151213T162703Z">
+        <seg>若孔洞阻塞，刀片可能會斷裂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44730,6 +44778,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125711Z">
         <seg>保護您的影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep the holes clean.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162633Z" creationid="Judy" creationdate="20151213T162633Z">
+        <seg>保持孔洞清潔，</seg>
       </tuv>
     </tu>
     <tu>
@@ -78217,6 +78273,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sealers have small holes for cutting blades.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162610Z" creationid="Judy" creationdate="20151213T162610Z">
+        <seg>封裝機中有供切割刀片使用的小孔，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sealers must reach a minimum temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083522Z" creationid="Judy" creationdate="20151205T083522Z">
@@ -86996,6 +87060,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
         <seg>Use the bronze brush supplied.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160020Z" creationid="Judy" creationdate="20151213T160020Z">
+        <seg>使用原廠提供之銅刷，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the bronze brush we supply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162720Z" creationid="Judy" creationdate="20151213T162720Z">
         <seg>使用原廠提供之銅刷，</seg>
       </tuv>
     </tu>
