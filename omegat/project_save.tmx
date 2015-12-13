@@ -6181,6 +6181,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUGER FILLERS AND AUGER TUBES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T141018Z" creationid="Judy" creationdate="20151213T141018Z">
+        <seg>螺旋填料器和螺旋管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUT.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T120304Z" creationid="Judy" creationdate="20151212T120304Z">
@@ -11321,6 +11329,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auger tubes removal:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T141150Z" creationid="Judy" creationdate="20151213T141150Z">
+        <seg>拆除螺旋填料管：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authenticate document owners using self-signing, Microsoft Crypto or third-party digital signatures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T053751Z">
@@ -12720,6 +12736,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035737Z" creationid="Judy" creationdate="20151205T035737Z">
         <seg>放置機台前，客戶必須：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before proceeding, empty the hopper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T141136Z" creationid="Judy" creationdate="20151213T141130Z">
+        <seg>開始作業前請清空料斗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83477,6 +83501,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To carry out cleaning or maintenance is necessary to remove both elements in order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T141119Z" creationid="Judy" creationdate="20151213T141119Z">
+        <seg>必須按順序拆除這兩個元件以進行清潔或維修，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change an existing allowance change, click the       icon on the right of the Allowance field.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150821Z">
@@ -84571,6 +84603,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T040646Z">
         <seg>若想達到二種目標，便會失去在第一種目標上的專注性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tubo aspiración</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T141010Z" creationid="Judy" creationdate="20151213T141010Z">
+        <seg>吸入管</seg>
       </tuv>
     </tu>
     <tu>
