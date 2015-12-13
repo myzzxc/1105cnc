@@ -11217,6 +11217,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auger filler</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135348Z" creationid="Judy" creationdate="20151213T135348Z">
+        <seg>螺旋填料器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auger filler and auger tube to know general mounting details.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151206T032111Z">
@@ -11261,6 +11269,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032459Z" creationid="Judy" creationdate="20151205T022246Z">
         <seg>螺旋填料器和螺旋管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auger tube</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135357Z" creationid="Judy" creationdate="20151213T135357Z">
+        <seg>螺旋填料管</seg>
       </tuv>
     </tu>
     <tu>
@@ -19606,6 +19622,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T115542Z">
         <seg>當主框架 80 和前框架 82 沒有完全對齊時，連接器 84 也能與框架管 90、170 對齊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coupling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135320Z" creationid="Judy" creationdate="20151213T135320Z">
+        <seg>耦合</seg>
       </tuv>
     </tu>
     <tu>
@@ -34387,6 +34411,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INDIVIDUAL DOSER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135238Z" creationid="Judy" creationdate="20151213T135238Z">
+        <seg>獨立填料器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INERT GAS INPUT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061546Z" creationid="Judy" creationdate="20151205T061546Z">
@@ -39363,6 +39395,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035916Z">
         <seg>工業化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inert gas flow meter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135207Z" creationid="Judy" creationdate="20151213T135207Z">
+        <seg>惰性氣體流量計</seg>
       </tuv>
     </tu>
     <tu>
@@ -46797,6 +46837,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MIXERS DEVICE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135403Z" creationid="Judy" creationdate="20151213T135403Z">
+        <seg>混合裝置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T112847Z" creationid="Judy" creationdate="20151209T112830Z">
@@ -48704,6 +48752,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131112T091756Z">
         <seg>噴頭配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mixer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135331Z" creationid="Judy" creationdate="20151213T135331Z">
+        <seg>混合器</seg>
       </tuv>
     </tu>
     <tu>
@@ -58888,6 +58944,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product Outlet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135231Z" creationid="Judy" creationdate="20151213T135231Z">
+        <seg>產品出口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product Overview</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T112947Z">
@@ -67143,6 +67207,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Servo motor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135251Z" creationid="Judy" creationdate="20151213T135251Z">
+        <seg>伺服馬達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Servo-motor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023114Z" creationid="Judy" creationdate="20151205T023114Z">
@@ -69572,6 +69644,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T124259Z">
         <seg>以5V或3.3V針腳供應電壓將不會經過穩壓器，可能會損壞電路板，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135326Z" creationid="Judy" creationdate="20151213T135326Z">
+        <seg>支稱</seg>
       </tuv>
     </tu>
     <tu>
@@ -75983,6 +76063,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The mixing system is thus independent of the dosing system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135611Z" creationid="Judy" creationdate="20151213T135611Z">
+        <seg>因此混合系統獨立於調料系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The model may look something like this:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104853Z">
@@ -76043,6 +76131,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T132401Z">
         <seg>動作錄影允許選擇無限制對動作敏感或不敏感之區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The motor uses a pinions system with transmission chain to activate the mixer system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135535Z" creationid="Judy" creationdate="20151213T135535Z">
+        <seg>馬達利用小齒輪系統傳動皮帶以帶動混合系統，</seg>
       </tuv>
     </tu>
     <tu>
@@ -84211,6 +84307,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T034749Z">
         <seg>變速箱外殼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transmission tooth belt</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135314Z" creationid="Judy" creationdate="20151213T135314Z">
+        <seg>傳動齒帶</seg>
       </tuv>
     </tu>
     <tu>
