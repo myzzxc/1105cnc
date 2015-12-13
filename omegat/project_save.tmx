@@ -13068,6 +13068,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blade</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150727Z" creationid="Judy" creationdate="20151213T150727Z">
+        <seg>刀片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blade Unit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145533Z" creationid="Judy" creationdate="20151213T145533Z">
@@ -16071,6 +16079,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing the blades:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150621Z" creationid="Judy" creationdate="20151213T150621Z">
+        <seg>更換刀片：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Channel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081544Z">
@@ -16579,6 +16595,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151119T142329Z">
         <seg> 項專利範圍，49 張圖表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clamp</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150735Z" creationid="Judy" creationdate="20151213T150735Z">
+        <seg>夾具</seg>
       </tuv>
     </tu>
     <tu>
@@ -32410,6 +32434,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give only a quarter turn to the screw each time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150615Z" creationid="Judy" creationdate="20151213T150615Z">
+        <seg>每次只調整螺絲四分之一轉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Given the above, it becomes obvious that processing must be completed without delay, so that birds reach the prechiller within approximately 18 minutes of slaughter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T032240Z">
@@ -36199,6 +36231,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T192457Z">
         <seg>若未進行此測試，應於評估報告中標明用於決定開發和拼接長度之 f'c 值符合ACI318，不得超過2500psi (17.2 MPa)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If through use the blades do not cut properly (wear) give more cutting pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150539Z" creationid="Judy" creationdate="20151213T150539Z">
+        <seg>如果刀片無法正確切割箔片 (磨損)，調整更大的切割壓力，</seg>
       </tuv>
     </tu>
     <tu>
@@ -58870,6 +58910,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure Screw</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150724Z" creationid="Judy" creationdate="20151213T150724Z">
+        <seg>壓力螺絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure switch</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061041Z" creationid="Judy" creationdate="20151205T061041Z">
@@ -63487,6 +63535,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roller shaft</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150828Z" creationid="Judy" creationdate="20151213T150828Z">
+        <seg>轉軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roof module</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T030741Z">
@@ -66058,6 +66114,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101627Z">
         <seg>畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screw for removal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150748Z" creationid="Judy" creationdate="20151213T150748Z">
+        <seg>拆除之螺絲</seg>
       </tuv>
     </tu>
     <tu>
@@ -69382,6 +69446,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033608Z" creationid="Judy" creationdate="20151205T022512Z">
         <seg>直條包裝成形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stick forming tube support</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150815Z" creationid="Judy" creationdate="20151213T150815Z">
+        <seg>直條包裝成形管支架</seg>
       </tuv>
     </tu>
     <tu>
@@ -83849,6 +83921,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150821Z">
         <seg>點擊 Allowance (津貼) 欄位右方的   圖示以進行津貼變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the blades remove the indicated screw.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150710Z" creationid="Judy" creationdate="20151213T150710Z">
+        <seg>拆除指定之螺絲以更換刀片。</seg>
       </tuv>
     </tu>
     <tu>
