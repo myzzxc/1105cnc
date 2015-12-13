@@ -13942,6 +13942,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CELL - SEAL (C1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063112Z" creationid="Judy" creationdate="20151213T062948Z">
+        <seg>儲存格——保護 (C1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CELL CONFIG</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052741Z" creationid="Judy" creationdate="20151212T052741Z">
@@ -13962,6 +13970,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040211Z" creationid="Judy" creationdate="20151212T040211Z">
         <seg>儲存格程式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CELL SEAL WILL BE MODIFIED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063105Z" creationid="Judy" creationdate="20151213T063105Z">
+        <seg>將修改儲存格保護</seg>
       </tuv>
     </tu>
     <tu>
@@ -14126,6 +14142,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHECK IF BELT IS STOPPED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063146Z" creationid="Judy" creationdate="20151213T063146Z">
+        <seg>檢查皮帶是否停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHECK IF BELT IS WORKING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T041059Z" creationid="Judy" creationdate="20151212T041059Z">
@@ -14138,6 +14162,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151538Z" creationid="Judy" creationdate="20151212T151538Z">
         <seg>檢查班次設定！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHECKING ZERO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063151Z" creationid="Judy" creationdate="20151213T063151Z">
+        <seg>檢查歸零</seg>
       </tuv>
     </tu>
     <tu>
@@ -63889,6 +63921,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STATIC - SEAL (C2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063116Z" creationid="Judy" creationdate="20151213T063007Z">
+        <seg>靜態—保護 (C2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STATIC ADJUST.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040350Z" creationid="Judy" creationdate="20151212T040350Z">
@@ -63909,6 +63949,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T063035Z" creationid="Judy" creationdate="20151212T063035Z">
         <seg>靜態 NOV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STATIC SEAL WILL BE MODIFIED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063126Z" creationid="Judy" creationdate="20151213T063126Z">
+        <seg>將修改靜態保護</seg>
       </tuv>
     </tu>
     <tu>
@@ -91449,6 +91497,14 @@ whether it�s raining or snowing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040341Z" creationid="Judy" creationdate="20151212T040341Z">
         <seg>歸零</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZERO DONE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063132Z" creationid="Judy" creationdate="20151213T063132Z">
+        <seg>歸零完成</seg>
       </tuv>
     </tu>
     <tu>
