@@ -15094,6 +15094,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CUMULATIVE LIST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063209Z" creationid="Judy" creationdate="20151213T063209Z">
+        <seg>累積清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CURRENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080937Z" creationid="Judy" creationdate="20151212T080937Z">
@@ -26992,6 +27000,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053440Z" creationid="Judy" creationdate="20151212T053440Z">
         <seg>輸入方塊警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FILLED BOX STOP ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063504Z" creationid="Judy" creationdate="20151213T063504Z">
+        <seg>輸入方塊停止警報</seg>
       </tuv>
     </tu>
     <tu>
@@ -44394,6 +44410,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T060419Z" creationid="Judy" creationdate="20151213T060419Z">
         <seg>限制浮動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LIM. NEXT PACKAGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063348Z" creationid="Judy" creationdate="20151213T063348Z">
+        <seg>下一包裝限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -64189,6 +64213,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035646Z" creationid="Judy" creationdate="20151205T035646Z">
         <seg>停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOP CONFIRMATION ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063412Z" creationid="Judy" creationdate="20151213T063412Z">
+        <seg>停止確認警報</seg>
       </tuv>
     </tu>
     <tu>
@@ -84740,6 +84772,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083241Z" creationid="Judy" creationdate="20151212T083241Z">
         <seg>使用導數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USE LIMIT NEXT PACKAGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063227Z" creationid="Judy" creationdate="20151213T063227Z">
+        <seg>下一包裝使用限制</seg>
       </tuv>
     </tu>
     <tu>
