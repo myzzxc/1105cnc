@@ -8427,6 +8427,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alignment: Do this when the sealers are cold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160257Z" creationid="Judy" creationdate="20151213T160257Z">
+        <seg>對位：於封裝機冷卻時進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All AXYZ Series tables have thefollowing standard and available options:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131106T153006Z">
@@ -29993,6 +30001,22 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fixing handle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160212Z" creationid="Judy" creationdate="20151213T160212Z">
+        <seg>固定手把</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixing screw</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160220Z" creationid="Judy" creationdate="20151213T160220Z">
+        <seg>固定螺絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flash Memory</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053305Z">
@@ -33458,6 +33482,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160217Z" creationid="Judy" creationdate="20151213T160217Z">
+        <seg>手把</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Handling and taking immediate action following a complaint at the HUTCHINSON site must be performed within 48 hours after it is issued.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T152811Z">
@@ -36031,6 +36063,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T155721Z" creationid="Judy" creationdate="20151213T155721Z">
         <seg>若風裝機故障，可能為封裝器髒汙所造成，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the sealers lose fixture, they can cause defective sealing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160343Z" creationid="Judy" creationdate="20151213T160343Z">
+        <seg>若封裝機未固定，可能導致密封具有缺陷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44262,6 +44302,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T143517Z" creationid="Judy" creationdate="20151129T143517Z">
         <seg>若已設置退回確認輸入此選項永遠為啟用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will be the sealers with the centre of the bagging lines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160512Z" creationid="Judy" creationdate="20151213T160512Z">
+        <seg>封裝機位於裝袋線中心，</seg>
       </tuv>
     </tu>
     <tu>
