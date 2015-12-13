@@ -82259,8 +82259,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This must always be in the same position opposite the vertical sealing for correct Stick formation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T151535Z" creationid="Judy" creationdate="20151213T151535Z">
-        <seg>此部分必須位於與垂直密封之對側以使直條包裝正確成型。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T152937Z" creationid="Judy" creationdate="20151213T151535Z">
+        <seg>此部分必須位於與垂直封裝之對側以使直條包裝正確成型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87894,6 +87894,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022426Z" creationid="Judy" creationdate="20151205T022426Z">
         <seg>垂直切割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical seaLING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T152925Z" creationid="Judy" creationdate="20151213T152925Z">
+        <seg>垂直封裝</seg>
       </tuv>
     </tu>
     <tu>
