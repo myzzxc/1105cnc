@@ -6117,6 +6117,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATENCION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135731Z" creationid="Judy" creationdate="20151213T135731Z">
+        <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATTENTION!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115505Z" creationid="Judy" creationdate="20151212T115505Z">
@@ -6876,6 +6884,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T132726Z">
         <seg>存取控制；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access by removing the top and front cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135712Z" creationid="Judy" creationdate="20151213T135712Z">
+        <seg>拆除頂部和前方外蓋可進入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12984,6 +13000,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T161717Z" creationid="Judy" creationdate="20151209T161717Z">
         <seg>Block Datahub Data (阻擋資料中心資料)：若設為「是」，將會阻擋使用者設定機台某些參數的權限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block de switches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135923Z" creationid="Judy" creationdate="20151213T135923Z">
+        <seg>並鎖定開關，</seg>
       </tuv>
     </tu>
     <tu>
@@ -21174,6 +21198,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T030740Z">
         <seg>變質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Danger of trapping by circular movements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135828Z" creationid="Judy" creationdate="20151213T135828Z">
+        <seg>轉動零件可能有捲入風險，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30013,6 +30045,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145543Z">
         <seg>對於工程師，很容易因為系統元件而分散注意力，因為他們占了大部分的設計工作且決定了系統的成本，但接口決定了系統的效能、風險和價值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For any interior maintenance turn off the pneumatic and electric switches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135902Z" creationid="Judy" creationdate="20151213T135851Z">
+        <seg>進行任何內部維護作業請關閉氣動和電動開關，</seg>
       </tuv>
     </tu>
     <tu>
