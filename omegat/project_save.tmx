@@ -15727,6 +15727,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carry out cleaning with the sealers in hot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162240Z" creationid="Judy" creationdate="20151213T162240Z">
+        <seg>於封裝機熱機時進行清潔，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Case 1: MTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T101027Z">
@@ -30225,6 +30233,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow the instructions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162441Z" creationid="Judy" creationdate="20151213T162441Z">
+        <seg>依照以下步驟進行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Following a short feed withdrawal, should the crop break, any feed contained therein, and accompanying pathogens, are evacuated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T043506Z">
@@ -43417,6 +43433,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is best to use protective gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162256Z" creationid="Judy" creationdate="20151213T162256Z">
+        <seg>建議使用防護手套，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is common for all formats.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T163226Z" creationid="Judy" creationdate="20151206T160024Z">
@@ -50260,6 +50284,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082721Z" creationid="Judy" creationdate="20151205T082603Z">
         <seg>移動感測點至紙片上標示之新的位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the front sealer unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162535Z" creationid="Judy" creationdate="20151213T162535Z">
+        <seg>移動前封裝機裝置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80891,6 +80923,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are sharp blades and hot surfaces.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162329Z" creationid="Judy" creationdate="20151213T162329Z">
+        <seg>機台中有鋒利刀片和高溫表面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are two small buttons on the shield.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141652Z">
@@ -81328,6 +81368,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T021757Z">
         <seg>這些設定只有在執行安裝程式根目錄中的 setup.exe 進行安裝時才會生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These should be periodically cleaned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162223Z" creationid="Judy" creationdate="20151213T162223Z">
+        <seg>應定期清洗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83901,6 +83949,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the interior surfaces of the sealer, it is necessary remove the front sealer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162412Z" creationid="Judy" creationdate="20151213T162412Z">
+        <seg>若要進入封裝機內表面，必須拆除前封裝機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the screen "Verify" is selected from the main menu, then you select "Verify Inputs".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T100613Z" creationid="Judy" creationdate="20151206T100613Z">
@@ -84682,6 +84738,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043628Z" creationid="Judy" creationdate="20151205T043628Z">
         <seg>要將機台放置於其安裝區域，請使用具有足夠承重力之正常叉動車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To press STOP to detain the machine and then EMERGENCY STOP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162521Z" creationid="Judy" creationdate="20151213T162521Z">
+        <seg>按下停止按鈕停止機器後再按下緊急停止開關。</seg>
       </tuv>
     </tu>
     <tu>
