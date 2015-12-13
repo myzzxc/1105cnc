@@ -44486,6 +44486,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep clean at all times for proper stick formation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T151310Z" creationid="Judy" creationdate="20151213T151310Z">
+        <seg>隨時保持清潔以使直條包裝正確成形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125621Z">
@@ -58032,6 +58040,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T121529Z">
         <seg>職位管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position of the forming tube: The forming pipe has a flat area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T151346Z" creationid="Judy" creationdate="20151213T151346Z">
+        <seg>成形管位置：成形管上有一平面區，</seg>
       </tuv>
     </tu>
     <tu>
@@ -81723,6 +81739,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T051319Z">
         <seg>此圖為預設目標檔案夾之設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This facilitates access to this area for cleaning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T151232Z" creationid="Judy" creationdate="20151213T151232Z">
+        <seg>此設計有利於進入該區域進行清潔，</seg>
       </tuv>
     </tu>
     <tu>
