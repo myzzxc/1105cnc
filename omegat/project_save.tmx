@@ -44214,6 +44214,22 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOADER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T055743Z" creationid="Judy" creationdate="20151213T055743Z">
+        <seg>裝載機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOADERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T055747Z" creationid="Judy" creationdate="20151213T055747Z">
+        <seg>裝載機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOADING, PLEASE WAIT...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030708Z" creationid="Judy" creationdate="20151212T030708Z">
