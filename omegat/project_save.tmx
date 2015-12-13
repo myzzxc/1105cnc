@@ -16656,6 +16656,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clean them periodically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T155732Z" creationid="Judy" creationdate="20151213T155732Z">
+        <seg>請定期清潔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clean up oil spills and leaks immediately using a nonflammable absorbent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T000208Z">
@@ -35987,6 +35995,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the seal is faulty, the sealers may be dirty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T155721Z" creationid="Judy" creationdate="20151213T155721Z">
+        <seg>若風裝機故障，可能為封裝器髒汙所造成，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the sensor should fail to detect any of the end movements in production, this might cause supply problems.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121645Z" creationid="Judy" creationdate="20151207T121645Z">
@@ -43437,6 +43453,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065529Z" creationid="Judy" creationdate="20151206T065529Z">
         <seg>直條包裝的正確封裝需要精確的工作溫度值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not necessary to remove the protective cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T155612Z" creationid="Judy" creationdate="20151213T155612Z">
+        <seg>無需拆除保護蓋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78837,6 +78861,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151101T031803Z">
         <seg>此單元至少由框架以第一連接、第二連接和第三連接支撐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The unit has to be moved for cleaning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T155759Z" creationid="Judy" creationdate="20151213T155759Z">
+        <seg>必須拆除該裝置以進行清潔，</seg>
       </tuv>
     </tu>
     <tu>
