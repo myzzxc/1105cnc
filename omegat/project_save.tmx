@@ -6028,6 +6028,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>APPLYING THIS CONFIGURATION AND RESTART THE MACHINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064447Z" creationid="Judy" creationdate="20151213T064447Z">
+        <seg>套用此設置並重新開機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ARANOW Packaging Machinery</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020205Z" creationid="Judy" creationdate="20151205T020205Z">
@@ -23329,6 +23337,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ENTRADA YA OCUPADA@ENTRADA CONFIRMACION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064355Z" creationid="Judy" creationdate="20151213T064355Z">
+        <seg>輸入忙碌中@確認輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ENVIRONMENTAL REGULATIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232952Z">
@@ -34551,6 +34567,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155109Z" creationid="Judy" creationdate="20151208T155109Z">
         <seg>IP Address (IP 位址)：介面之 IP 位址欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IP CONFIGURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064402Z" creationid="Judy" creationdate="20151213T064402Z">
+        <seg>IP 設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -45909,6 +45933,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAC ADRESS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064410Z" creationid="Judy" creationdate="20151213T064410Z">
+        <seg>MAC 位址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MAC address: (not editable) The MAC address of the Net Interface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T155025Z" creationid="Judy" creationdate="20151208T155025Z">
@@ -49616,6 +49648,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NET INTERFACE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064406Z" creationid="Judy" creationdate="20151213T064406Z">
+        <seg>網路介面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NET MASK</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150655Z" creationid="Judy" creationdate="20151212T150655Z">
@@ -49644,6 +49684,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064219Z" creationid="Judy" creationdate="20151212T064219Z">
         <seg>開啟新規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEW NET CONFI APPLIED CORRECTLY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064513Z" creationid="Judy" creationdate="20151213T064513Z">
+        <seg>新網可信度</seg>
       </tuv>
     </tu>
     <tu>
@@ -49732,6 +49780,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151128Z">
         <seg>不承擔和受理買方因任何延遲付款請求支付之利息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NO HAY SALIDAS PENDIENTES DE CONFIRMACION@QUIERE IR A CONFIGURAR SALIDAS?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064311Z" creationid="Judy" creationdate="20151213T064311Z">
+        <seg>無輸出確認@現在進行輸出設定？</seg>
       </tuv>
     </tu>
     <tu>
