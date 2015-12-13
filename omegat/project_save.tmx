@@ -14094,6 +14094,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHANGE USER CLOSE TIME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063816Z" creationid="Judy" creationdate="20151213T063816Z">
+        <seg>變更使用者關閉時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHANGE program on touch screen</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033903Z" creationid="Judy" creationdate="20151206T033903Z">
@@ -26990,24 +26998,24 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FILLED BOX</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T114833Z" creationid="Judy" creationdate="20151212T114833Z">
-        <seg>已輸入方塊</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063748Z" creationid="Judy" creationdate="20151212T114833Z">
+        <seg>箱件已滿</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>FILLED BOX ALARM</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053440Z" creationid="Judy" creationdate="20151212T053440Z">
-        <seg>輸入方塊警報</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063733Z" creationid="Judy" creationdate="20151212T053440Z">
+        <seg>箱件已滿警報</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>FILLED BOX STOP ALARM</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063504Z" creationid="Judy" creationdate="20151213T063504Z">
-        <seg>輸入方塊停止警報</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063740Z" creationid="Judy" creationdate="20151213T063504Z">
+        <seg>箱件已滿停止警報</seg>
       </tuv>
     </tu>
     <tu>
@@ -44406,6 +44414,22 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIGHT CONFIRMATION ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063658Z" creationid="Judy" creationdate="20151213T063658Z">
+        <seg>試轉確認警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LIGHT FILLED BOX ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063728Z" creationid="Judy" creationdate="20151213T063728Z">
+        <seg>試轉箱件已滿警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LIM FLOAT.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T060419Z" creationid="Judy" creationdate="20151213T060419Z">
@@ -59711,6 +59735,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034845Z" creationid="Judy" creationdate="20151212T034845Z">
         <seg>退回 (1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REJECT / PERIPHERAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063819Z" creationid="Judy" creationdate="20151213T063819Z">
+        <seg>退回 / 週邊裝置</seg>
       </tuv>
     </tu>
     <tu>
