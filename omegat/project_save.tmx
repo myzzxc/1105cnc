@@ -45645,6 +45645,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAX.F.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053430Z" creationid="Judy" creationdate="20151213T053430Z">
+        <seg>最大 F.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MAXIMO OVERPACK</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082334Z" creationid="Judy" creationdate="20151212T082201Z">
@@ -59275,6 +59283,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RESULTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053318Z" creationid="Judy" creationdate="20151213T053318Z">
+        <seg>結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RET.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083820Z" creationid="Judy" creationdate="20151212T083820Z">
@@ -63035,8 +63051,16 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>SPR COR DOWN</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053207Z" creationid="Judy" creationdate="20151213T053207Z">
-        <seg>分派向下校正</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053621Z" creationid="Judy" creationdate="20151213T053207Z">
+        <seg>發送向下校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPR COR UP N/S</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053612Z" creationid="Judy" creationdate="20151213T053544Z">
+        <seg>發送向上校正正常/強</seg>
       </tuv>
     </tu>
     <tu>
@@ -63061,6 +63085,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053011Z" creationid="Judy" creationdate="20151213T053011Z">
         <seg>發送向上強校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPREAD UP/DOWN CORRECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053605Z" creationid="Judy" creationdate="20151213T053605Z">
+        <seg>發送向上/向下校正</seg>
       </tuv>
     </tu>
     <tu>
