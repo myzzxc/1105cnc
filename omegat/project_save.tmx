@@ -59608,6 +59608,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protector panel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145523Z" creationid="Judy" creationdate="20151213T145523Z">
+        <seg>保護面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prototype Part Delivery Requirements (components)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150529T001419Z">
@@ -64845,6 +64853,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043444Z" creationid="Judy" creationdate="20151206T043444Z">
         <seg>直條包裝成型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STICK PRODUCTION MAINTENANCE AND GUIDE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145500Z" creationid="Judy" creationdate="20151213T145500Z">
+        <seg>直條包裝生產機組維護和指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -86878,6 +86894,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142333Z">
         <seg>版本編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VERTICAL cutting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145512Z" creationid="Judy" creationdate="20151213T145512Z">
+        <seg>垂直切割</seg>
       </tuv>
     </tu>
     <tu>
