@@ -13052,6 +13052,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blade Unit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145533Z" creationid="Judy" creationdate="20151213T145533Z">
+        <seg>刀片單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blade oscillation and tangential control ensures that the cutting blade delivers accurate cuts even on thicker materials without excessive over cut.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T135923Z">
@@ -62460,6 +62468,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove the protective cover to enter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145600Z" creationid="Judy" creationdate="20151213T145552Z">
+        <seg>拆除保護蓋以進入，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove vertically the tube, as the auger filler is inside and could be damaged if removal is forced in the opposite direction.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142828Z" creationid="Judy" creationdate="20151213T142828Z">
@@ -74398,6 +74414,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The blade unit is assembled on a bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145701Z" creationid="Judy" creationdate="20151213T145701Z">
+        <seg>刀片組安裝於一支桿件上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The blades between horizontal sealers make the horizontal cut.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064713Z" creationid="Judy" creationdate="20151205T064713Z">
@@ -76931,6 +76955,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131105T152039Z">
         <seg>氣動/電動組合最適合於高負荷或連續使用之應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pneumatic cylinder lifts the bar when the paper has to be passed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145742Z" creationid="Judy" creationdate="20151213T145742Z">
+        <seg>當包裝紙通過時氣壓缸提起桿件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88998,6 +89030,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041022Z" creationid="Judy" creationdate="20151206T041022Z">
         <seg>以下情況中請穿戴機械和隔熱手套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wear protective gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145607Z" creationid="Judy" creationdate="20151213T145607Z">
+        <seg>配戴防護手套。</seg>
       </tuv>
     </tu>
     <tu>
