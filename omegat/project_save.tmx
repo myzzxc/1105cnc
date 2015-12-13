@@ -31978,6 +31978,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gears adjustment:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140018Z" creationid="Judy" creationdate="20151213T140018Z">
+        <seg>齒輪調整：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gender</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T150207Z">
@@ -32526,6 +32534,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T055445Z">
         <seg>網格、對齊網格和自訂繪圖輔助線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Groove</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140237Z" creationid="Judy" creationdate="20151213T140237Z">
+        <seg>固定滑槽</seg>
       </tuv>
     </tu>
     <tu>
@@ -46089,6 +46105,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123903Z">
         <seg>更長的折舊時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loosen the screw.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140136Z" creationid="Judy" creationdate="20151213T140136Z">
+        <seg>鬆開螺絲，</seg>
       </tuv>
     </tu>
     <tu>
@@ -65694,6 +65718,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screw to loosen</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140207Z" creationid="Judy" creationdate="20151213T140207Z">
+        <seg>轉開以放鬆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scroll down to the Hiring Restrictions tab and proceed to Step 3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234713Z">
@@ -71799,6 +71831,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tension</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140217Z" creationid="Judy" creationdate="20151213T140217Z">
+        <seg>張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tension at decreased installation temperature8</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121811Z">
@@ -71827,6 +71867,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T121625Z">
         <seg>低強度混凝土中之張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension pinion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140212Z" creationid="Judy" creationdate="20151213T140212Z">
+        <seg>張力齒輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -75799,6 +75847,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The machine has to be sealed to alert.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140011Z" creationid="Judy" creationdate="20151213T140011Z">
+        <seg>機台必須鎖定且設立警告標誌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine is designed to dose the powder product and to pack it in the stick.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T033430Z" creationid="Judy" creationdate="20151205T033430Z">
@@ -77997,6 +78053,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T023955Z" creationid="Judy" creationdate="20151128T023645Z">
         <seg>檢重機之技術規格列於機台的功能標示牌上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tension pinion will have to be released to adjust, tighten and loosen the chain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140109Z" creationid="Judy" creationdate="20151213T140109Z">
+        <seg>必須放鬆張力齒輪以進行皮帶調整、收緊、放鬆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84675,6 +84739,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T162427Z" creationid="Judy" creationdate="20151203T162427Z">
         <seg>也會顯示另外兩條黑色垂直虛線，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two turns are sufficient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140154Z" creationid="Judy" creationdate="20151213T140154Z">
+        <seg>兩轉便足夠。</seg>
       </tuv>
     </tu>
     <tu>
