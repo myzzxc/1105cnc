@@ -5570,6 +5570,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACQUIRING DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065939Z" creationid="Judy" creationdate="20151213T065939Z">
+        <seg>擷取資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACT: flashes when RX or TX activity is present</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133629Z">
@@ -12004,6 +12012,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BELT STATUS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065958Z" creationid="Judy" creationdate="20151213T065958Z">
+        <seg>輸送帶狀態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BIGGEST AND HEAVIEST PART</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T143145Z">
@@ -12080,6 +12096,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083124Z" creationid="Judy" creationdate="20151212T083124Z">
         <seg>下安全係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BOX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065948Z" creationid="Judy" creationdate="20151213T065948Z">
+        <seg>相件</seg>
       </tuv>
     </tu>
     <tu>
@@ -15146,6 +15170,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080937Z" creationid="Judy" creationdate="20151212T080937Z">
         <seg>當前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CURRENT DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065910Z" creationid="Judy" creationdate="20151213T065910Z">
+        <seg>資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -20814,6 +20846,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053049Z" creationid="Judy" creationdate="20151212T053049Z">
         <seg>顯示@範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DISTANCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065906Z" creationid="Judy" creationdate="20151213T065906Z">
+        <seg>距離</seg>
       </tuv>
     </tu>
     <tu>
@@ -44518,6 +44558,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065903Z" creationid="Judy" creationdate="20151213T065903Z">
+        <seg>試轉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LIGHT CONFIRMATION ALARM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063658Z" creationid="Judy" creationdate="20151213T063658Z">
@@ -54434,6 +54482,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PAST DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065918Z" creationid="Judy" creationdate="20151213T065918Z">
+        <seg>過去的資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PATENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T082756Z">
@@ -64081,6 +64137,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>START BELTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T070007Z" creationid="Judy" creationdate="20151213T070007Z">
+        <seg>啟動輸送帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>START CHECKWEIGHER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073311Z" creationid="Judy" creationdate="20151212T073311Z">
@@ -64437,6 +64501,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035646Z" creationid="Judy" creationdate="20151205T035646Z">
         <seg>停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOP BELTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T070017Z" creationid="Judy" creationdate="20151213T070017Z">
+        <seg>停止輸送帶</seg>
       </tuv>
     </tu>
     <tu>
