@@ -13870,6 +13870,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAPTURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065708Z" creationid="Judy" creationdate="20151213T065708Z">
+        <seg>截取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CARBON FIBER CUTTING &amp; LAMINATION QUICKLIST</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151106T000448Z">
@@ -14906,6 +14914,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081728Z" creationid="Judy" creationdate="20151212T081728Z">
         <seg>輸送機開啟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COPY ACTIVE PRODUCT DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065609Z" creationid="Judy" creationdate="20151213T065609Z">
+        <seg>複製使用中產品資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -20366,6 +20382,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053138Z" creationid="Judy" creationdate="20151212T053138Z">
         <seg>資料中心請求資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DATAHUB DISCONNECTED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065616Z" creationid="Judy" creationdate="20151213T065616Z">
+        <seg>資料中心斷線</seg>
       </tuv>
     </tu>
     <tu>
@@ -27492,6 +27516,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FURTIVE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065554Z" creationid="Judy" creationdate="20151213T065554Z">
+        <seg>隱藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face Detection:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T060540Z">
@@ -31706,6 +31738,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083051Z" creationid="Judy" creationdate="20151212T083051Z">
         <seg>克數脈衝訊號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GRAPHIC MODE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065628Z" creationid="Judy" creationdate="20151213T065628Z">
+        <seg>圖形模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -55579,6 +55619,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PUT USB - CREATE MACHINE DATA?@THE MACHINE WILL BE OUT OF PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065523Z" creationid="Judy" creationdate="20151213T065523Z">
+        <seg>插入 USB——建立機器資料？@機器將停止生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PWM Channels</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T053027Z">
@@ -64025,6 +64073,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>START AUTOMATIC ZERO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065720Z" creationid="Judy" creationdate="20151213T065720Z">
+        <seg>啟動自動歸零</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>START CHECKWEIGHER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T073311Z" creationid="Judy" creationdate="20151212T073311Z">
@@ -70437,6 +70493,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TEXT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065729Z" creationid="Judy" creationdate="20151213T065729Z">
+        <seg>文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE ACTIVE FORMAT CANNOT BE ERASED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054253Z" creationid="Judy" creationdate="20151212T054253Z">
@@ -70773,6 +70837,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TOTAL CONFIRMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065625Z" creationid="Judy" creationdate="20151213T065625Z">
+        <seg>總確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TOTAL KG</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162847Z" creationid="Judy" creationdate="20151212T162847Z">
@@ -70993,6 +71065,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T122316Z" creationid="Judy" creationdate="20151212T122316Z">
         <seg>TY. 軌道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TYPE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065723Z" creationid="Judy" creationdate="20151213T065723Z">
+        <seg>型式</seg>
       </tuv>
     </tu>
     <tu>
@@ -87174,6 +87254,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062224Z" creationid="Judy" creationdate="20151213T062224Z">
         <seg>等待</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WAITING FOR PACKAGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065703Z" creationid="Judy" creationdate="20151213T065635Z">
+        <seg>等待包裝通過</seg>
       </tuv>
     </tu>
     <tu>
