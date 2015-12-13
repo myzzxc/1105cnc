@@ -22765,6 +22765,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not fix the setscrew strongly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T161739Z" creationid="Judy" creationdate="20151213T161723Z">
+        <seg>請勿用力固定阻擋螺絲，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not produce more than the recommended amount.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145631Z" creationid="Judy" creationdate="20151205T145631Z">
@@ -78673,6 +78681,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The surplus pressure deforms the probe.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T161806Z" creationid="Judy" creationdate="20151213T161806Z">
+        <seg>過大的壓力會造成探針變形，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The surveillance station, at all times, may provide the name of the operator connected to it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151015T120142Z">
@@ -82343,6 +82359,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This makes difficult subsequent removal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T161847Z" creationid="Judy" creationdate="20151213T161847Z">
+        <seg>而使探針難以取下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This makes it very difficult to apply sensible decisions towards raising abandoned or removed objects.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T113301Z">
@@ -84736,8 +84760,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>To replace them, remove the cover screws and loosen the trap screws than fixing the probe and the element.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T161434Z" creationid="Judy" creationdate="20151213T161434Z">
-        <seg>若要進行更換，拆下外蓋螺絲並鬆開替換他們，卸下蓋螺釘，擰松比固定探頭和元素的陷阱螺釘。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T161629Z" creationid="Judy" creationdate="20151213T161434Z">
+        <seg>若要進行更換，拆下外蓋螺絲並鬆開阻擋螺絲，接著固定探針和元件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85273,8 +85297,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Trap screws</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160833Z" creationid="Judy" creationdate="20151213T160833Z">
-        <seg>螺絲孔</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T161550Z" creationid="Judy" creationdate="20151213T160833Z">
+        <seg>阻擋螺絲</seg>
       </tuv>
     </tu>
     <tu>
