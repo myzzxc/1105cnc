@@ -6141,6 +6141,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTOMATIC SHIFTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053729Z" creationid="Judy" creationdate="20151213T053729Z">
+        <seg>自動班次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMATIC STOP IN THE EVENT OF ALARM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144506Z" creationid="Judy" creationdate="20151205T144506Z">
@@ -45461,6 +45469,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MACHINE INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053657Z" creationid="Judy" creationdate="20151213T053657Z">
+        <seg>機台資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE NUMBER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033808Z" creationid="Judy" creationdate="20151212T033808Z">
@@ -45997,6 +46013,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MIN OVERPACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053647Z" creationid="Judy" creationdate="20151213T053647Z">
+        <seg>最小合成包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MIN TARE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162506Z" creationid="Judy" creationdate="20151212T162506Z">
@@ -46033,6 +46057,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143239Z" creationid="Judy" creationdate="20151212T143239Z">
         <seg>最小值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MINIMUM GLASS LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053713Z" creationid="Judy" creationdate="20151213T053713Z">
+        <seg>最小容器限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -49188,6 +49220,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082550Z" creationid="Judy" creationdate="20151212T082550Z">
         <seg>正常校正係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NORMAL-STRONG LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053725Z" creationid="Judy" creationdate="20151213T053725Z">
+        <seg>正常—強極限</seg>
       </tuv>
     </tu>
     <tu>
