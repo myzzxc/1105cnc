@@ -44246,6 +44246,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LAST REGISTERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065442Z" creationid="Judy" creationdate="20151213T065442Z">
+        <seg>最後一組記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LC CONFIRMATION FEE IS UNDER SUPPLIER'S ACCOUNT IF PAID BY CONFIRMED LC.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T141645Z">
@@ -70593,6 +70601,22 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034806Z" creationid="Judy" creationdate="20151212T034806Z">
         <seg>時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIMETABLE OF MONDAY WILL BE CLONED TO ALL DAYS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065416Z" creationid="Judy" creationdate="20151213T065416Z">
+        <seg>將複製星期一的時程表至每一天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIMETABLE WILL BE ERASED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T065337Z" creationid="Judy" creationdate="20151213T065337Z">
+        <seg>將刪除時程表</seg>
       </tuv>
     </tu>
     <tu>
