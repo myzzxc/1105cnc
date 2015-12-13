@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See figure 5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143340Z" creationid="Judy" creationdate="20151213T143340Z">
+        <seg>(請見圖 5)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Setup 1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141953Z">
@@ -6189,6 +6197,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUGER FILLER CONNETION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143415Z" creationid="Judy" creationdate="20151213T143415Z">
+        <seg>螺旋填料器連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUGER FILLER Ø14 PITCH 22</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032434Z" creationid="Judy" creationdate="20151206T031545Z">
@@ -11339,8 +11355,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Auger tube</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135357Z" creationid="Judy" creationdate="20151213T135357Z">
-        <seg>螺旋填料管</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143452Z" creationid="Judy" creationdate="20151213T135357Z">
+        <seg>螺旋管</seg>
       </tuv>
     </tu>
     <tu>
@@ -20842,6 +20858,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DETAIL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143403Z" creationid="Judy" creationdate="20151213T143403Z">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DETAILED DESCRIPTION OF THE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151022T111521Z">
@@ -22169,6 +22193,22 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125703Z" creationid="Judy" creationdate="20151207T125703Z">
         <seg>箔片移動方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direction of removal auger filler</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143436Z" creationid="Judy" creationdate="20151213T143436Z">
+        <seg>螺旋填料器拆除方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direction of removal auger tube</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143443Z" creationid="Judy" creationdate="20151213T143443Z">
+        <seg>螺旋管拆除方向</seg>
       </tuv>
     </tu>
     <tu>
@@ -62348,6 +62388,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove it with care to avoid damaging it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143335Z" creationid="Judy" creationdate="20151213T143335Z">
+        <seg>小心拆除以避免損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove operation of those computers captured on the network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T123140Z">
@@ -71701,6 +71749,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take the auger filler and gently pull vertically on it as shown in the figure, until it is released from its fixture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143306Z" creationid="Judy" creationdate="20151213T143306Z">
+        <seg>取下螺旋填料器並如圖所示輕輕地以垂直方向拉出，直到與裝置分離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the last stick manufactured.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T082356Z" creationid="Judy" creationdate="20151205T082356Z">
@@ -71753,6 +71809,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T160917Z">
         <seg>彎刀之裁刀匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tank removal:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143558Z" creationid="Judy" creationdate="20151213T143558Z">
+        <seg>拆除料槽：</seg>
       </tuv>
     </tu>
     <tu>
@@ -75739,6 +75803,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150606T051457Z">
         <seg>專業解決方案的高價格使多數人無法取得強大的 PDF 軟，而低價替代產品的功能有限，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hopper will have to be removed for cleaning or maintenance operations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143527Z" creationid="Judy" creationdate="20151213T143527Z">
+        <seg>必須拆除料斗以進行清潔或維護。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83573,6 +83645,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To assemble proceed in reverse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143504Z" creationid="Judy" creationdate="20151213T143504Z">
+        <seg>組裝依上述步驟反向進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To assemble the netting 600, upper marginal edge 730 of the netting is sewn into slots 684 and 694 of the respective clasps 680, 690.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T051936Z">
@@ -84106,6 +84186,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T125653Z">
         <seg>若要將懸臂 526B 從車輛 100 上拆除，需將後部 534B 固定至軸承載具 536B 之緊固件拆除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove the auger filler, it is first necessary to remove the auger tube.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143126Z" creationid="Judy" creationdate="20151213T143126Z">
+        <seg>若要拆除螺旋填料器，必須先拆除和螺旋管。</seg>
       </tuv>
     </tu>
     <tu>
