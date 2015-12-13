@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See figure 4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142835Z" creationid="Judy" creationdate="20151213T142835Z">
+        <seg>(請見圖 4)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Setup 1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T141953Z">
@@ -10833,6 +10841,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aspiration tube</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143015Z" creationid="Judy" creationdate="20151213T143015Z">
+        <seg>抽吸管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assemble auger filler and auger tube in depending of format to do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T145648Z" creationid="Judy" creationdate="20151206T032031Z">
@@ -11269,6 +11285,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032500Z" creationid="Judy" creationdate="20151206T032111Z">
         <seg>螺旋填料器和螺旋管一般安裝詳細資訊」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auger filler removal:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143039Z" creationid="Judy" creationdate="20151213T143039Z">
+        <seg>拆除螺旋填料器：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22549,6 +22573,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not remove the tube until the two systems are released.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142539Z" creationid="Judy" creationdate="20151213T142539Z">
+        <seg>上述兩組系統鬆開前請勿拆除管件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not soak the camcorder in hot springs or water of 40ºC or higher.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125134Z">
@@ -29523,8 +29555,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>First disconnect aspiration tubes of the forming tube, if machine had it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142211Z" creationid="Judy" creationdate="20151213T142211Z">
-        <seg>若機台裝有成形吸入管，須先拆除。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143019Z" creationid="Judy" creationdate="20151213T142211Z">
+        <seg>若機台裝有成形抽吸管，須先拆除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46093,6 +46125,22 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Locking screw</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142941Z" creationid="Judy" creationdate="20151213T142941Z">
+        <seg>固定螺絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locking system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142935Z" creationid="Judy" creationdate="20151213T142935Z">
+        <seg>固定系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log in as an Administrator.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T114356Z">
@@ -62332,6 +62380,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove vertically the tube, as the auger filler is inside and could be damaged if removal is forced in the opposite direction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142828Z" creationid="Judy" creationdate="20151213T142828Z">
+        <seg>垂直取下管件，由於螺旋填料器位於內部，若拆除過程施力於填料器上時可能會造成其損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing one or more of the rear seats may be desired if extra storage space is required and the space is not required for a rider.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T020020Z">
@@ -66240,8 +66296,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>See figure 3.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T074706Z" creationid="Judy" creationdate="20151205T074644Z">
-        <seg>請見圖 3，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142546Z" creationid="Judy" creationdate="20151205T074644Z">
+        <seg>請見圖 3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74162,6 +74218,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150343Z" creationid="Judy" creationdate="20151206T032228Z">
         <seg>螺旋填料器 Ø14 無需成形管，因為螺旋管便具有兩種功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The auger tube has an o-ring that is necessary for correct assembly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142917Z" creationid="Judy" creationdate="20151213T142917Z">
+        <seg>螺旋管之 o 形密封環必需正確組裝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84042,6 +84106,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151110T125653Z">
         <seg>若要將懸臂 526B 從車輛 100 上拆除，需將後部 534B 固定至軸承載具 536B 之緊固件拆除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove the tube, the screw has to be loosened and the part fitted on the cylinder block has to be turned until the flat part of the auger filler is free.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142452Z" creationid="Judy" creationdate="20151213T142452Z">
+        <seg>若要拆除管件，必須鬆開螺絲且旋轉安裝於缸體上的部分直到螺旋填料器的平面部分已鬆開，</seg>
       </tuv>
     </tu>
     <tu>
