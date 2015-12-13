@@ -5810,6 +5810,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALL FORTMATS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T052728Z" creationid="Judy" creationdate="20151213T052728Z">
+        <seg>所有規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALL PARTS/ITEMS DESCRIPTION AND NUMBER HAVE TO BE SUBMITTED IN EXCEL FORMAT PRIOR CONDUCTING OF OPERATION TEST ACCEPTANCE (HARDCOPY AND SOFTCOPY)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T122441Z">
@@ -31206,6 +31214,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GLASS MAXIMUM LIMIT (0) (R-)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T052805Z" creationid="Judy" creationdate="20151213T052805Z">
+        <seg>容器最大限制 (0) (R-)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GOODS CONTRACT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T131342Z">
@@ -45553,6 +45569,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082439Z" creationid="Judy" creationdate="20151212T082439Z">
         <seg>最大值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MAX OBJECTIVE REJECT (R-1)(R-2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T052716Z" creationid="Judy" creationdate="20151213T052716Z">
+        <seg>最大目標退回 (R-1)(R-2)</seg>
       </tuv>
     </tu>
     <tu>
