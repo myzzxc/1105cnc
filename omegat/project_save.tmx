@@ -14118,6 +14118,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COLOCAR PEN DRIVE PARA DESCARGAR ARCHIVOS EN MEMORIA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054026Z" creationid="Judy" creationdate="20151213T054026Z">
+        <seg>隨身碟下載儲存路徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMM UDP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164421Z" creationid="Judy" creationdate="20151212T164421Z">
@@ -20042,6 +20050,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054104Z" creationid="Judy" creationdate="20151213T054104Z">
+        <seg>資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DATA HUB IP: IP address of the computer where the Data Hub is installed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T160639Z" creationid="Judy" creationdate="20151209T160639Z">
@@ -23045,6 +23061,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053449Z" creationid="Judy" creationdate="20151212T053449Z">
         <seg>刪除@警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ERASE AUDIT (MONTHLY)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054153Z" creationid="Judy" creationdate="20151213T054153Z">
+        <seg>刪除審核 (每月)</seg>
       </tuv>
     </tu>
     <tu>
@@ -54650,6 +54674,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRODUCTION ABSTRACT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054102Z" creationid="Judy" creationdate="20151213T054102Z">
+        <seg>生產總結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRODUCTION DATA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045518Z" creationid="Judy" creationdate="20151212T045518Z">
@@ -54670,6 +54702,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054325Z" creationid="Judy" creationdate="20151212T054325Z">
         <seg>將會刪除生產資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRODUCTION SUMMARY DATA WILL BE ERASED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054128Z" creationid="Judy" creationdate="20151213T054128Z">
+        <seg>生產總結資料將被刪除</seg>
       </tuv>
     </tu>
     <tu>
@@ -59147,10 +59187,26 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REJECT TEST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054134Z" creationid="Judy" creationdate="20151213T054134Z">
+        <seg>退回測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REJECTED (RR)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072853Z" creationid="Judy" creationdate="20151212T072853Z">
         <seg>退回 (RR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REJECTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054107Z" creationid="Judy" creationdate="20151213T054107Z">
+        <seg>退回</seg>
       </tuv>
     </tu>
     <tu>
@@ -59327,6 +59383,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053318Z" creationid="Judy" creationdate="20151213T053318Z">
         <seg>結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RESUMEN PRODUCCION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054052Z" creationid="Judy" creationdate="20151213T054052Z">
+        <seg>生產總結</seg>
       </tuv>
     </tu>
     <tu>
