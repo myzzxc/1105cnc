@@ -13084,6 +13084,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blade pressure adjustment:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150224Z" creationid="Judy" creationdate="20151213T150224Z">
+        <seg>刀片壓力調整：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blade unit position:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145918Z" creationid="Judy" creationdate="20151213T145918Z">
@@ -16035,6 +16043,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150400Z" creationid="Judy" creationdate="20151206T033129Z">
         <seg>依製造規格更換所需卷筒，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change with the upper screw to give all of the blades the same pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150313Z" creationid="Judy" creationdate="20151213T150313Z">
+        <seg>更換上方螺絲使所有刀片具有相同的壓力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78657,6 +78673,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The use of excessive force wears the blade's edge prematurely.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150354Z" creationid="Judy" creationdate="20151213T150354Z">
+        <seg>壓力過大將會使刀鋒過早磨耗，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The user has the following options: Not, Automatic, Track or Track + Automatic.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T105419Z" creationid="Judy" creationdate="20151208T105419Z">
@@ -88998,6 +89022,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T114037Z">
         <seg>我們發現到這個模型對於任何有不同的或不斷變化的客戶需求的組織會有很大價值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend setting all blades to the minimum pressure with which the laminate can be cut.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150438Z" creationid="Judy" creationdate="20151213T150438Z">
+        <seg>建議將所有刀片設置為切割箔片所需的最小壓力。</seg>
       </tuv>
     </tu>
     <tu>
