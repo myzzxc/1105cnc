@@ -1664,6 +1664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- MINIMUM TEMPERATURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T055612Z" creationid="Judy" creationdate="20151213T055612Z">
+        <seg>- 最低溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Nuance PDF Customer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131813Z">
@@ -1732,6 +1740,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T060451Z" creationid="Judy" creationdate="20151205T060451Z">
         <seg>- 拉出緊急停止開關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- TEMPERATURE ERROR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T055628Z" creationid="Judy" creationdate="20151213T055628Z">
+        <seg>- 溫度錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- TEMPERATURE GROWTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T055621Z" creationid="Judy" creationdate="20151213T055621Z">
+        <seg>- 溫度增加</seg>
       </tuv>
     </tu>
     <tu>
@@ -6041,6 +6065,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164722Z" creationid="Judy" creationdate="20151212T164722Z">
         <seg>審核資料將被刪除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUDIT TEMPERATURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T055602Z" creationid="Judy" creationdate="20151213T055602Z">
+        <seg>溫度審核</seg>
       </tuv>
     </tu>
     <tu>
@@ -54714,6 +54746,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRODUCTION EXIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T055651Z" creationid="Judy" creationdate="20151213T055633Z">
+        <seg>生產輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRODUCTION SUMMARY DATA WILL BE ERASED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054128Z" creationid="Judy" creationdate="20151213T054128Z">
@@ -62383,6 +62423,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SAME DATA DINAMIC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T055550Z" creationid="Judy" creationdate="20151213T055550Z">
+        <seg>相同動態資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SAMPLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040316Z" creationid="Judy" creationdate="20151212T040316Z">
@@ -69473,6 +69521,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040436Z" creationid="Judy" creationdate="20151212T040436Z">
         <seg>溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEMPERATURE ALARM PCI</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T055702Z" creationid="Judy" creationdate="20151213T055647Z">
+        <seg>PCI 溫度警報 </seg>
       </tuv>
     </tu>
     <tu>
@@ -86278,6 +86334,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T114255Z" creationid="Judy" creationdate="20151211T114255Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING ALARM - LACK OF OUTS IN NEGATIVE REJECTS!!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T055533Z" creationid="Judy" creationdate="20151213T055533Z">
+        <seg>故障警報——負輸出缺乏退回！！</seg>
       </tuv>
     </tu>
     <tu>
