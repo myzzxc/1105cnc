@@ -6133,6 +6133,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTOMATIC REJECT LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053055Z" creationid="Judy" creationdate="20151213T053055Z">
+        <seg>自動退回極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMATIC STOP IN THE EVENT OF ALARM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144506Z" creationid="Judy" creationdate="20151205T144506Z">
@@ -14086,6 +14094,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COIL LENGTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053143Z" creationid="Judy" creationdate="20151213T053143Z">
+        <seg>線圈長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COLLET DRAG KNIFE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131107T130257Z">
@@ -20498,6 +20514,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DM DISTANCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053139Z" creationid="Judy" creationdate="20151213T053139Z">
+        <seg>金屬探測器距離</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DMS / Cloud Connectors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150602T134144Z">
@@ -23101,6 +23125,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052654Z" creationid="Judy" creationdate="20151212T052654Z">
         <seg>錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ESTADISTICS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053238Z" creationid="Judy" creationdate="20151213T053238Z">
+        <seg>統計</seg>
       </tuv>
     </tu>
     <tu>
@@ -26936,6 +26968,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072755Z" creationid="Judy" creationdate="20151212T072755Z">
         <seg>堡壘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOTOCELS DISTANCE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053117Z" creationid="Judy" creationdate="20151213T053117Z">
+        <seg>光電感應器距離</seg>
       </tuv>
     </tu>
     <tu>
@@ -45941,6 +45981,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MIN IMPULSE CORRECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053047Z" creationid="Judy" creationdate="20151213T053047Z">
+        <seg>最小脈衝修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MIN TARE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162506Z" creationid="Judy" creationdate="20151212T162506Z">
@@ -46137,6 +46185,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032308Z" creationid="Judy" creationdate="20151206T032308Z">
         <seg>安裝以進行填料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MOVING AVERAGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053101Z" creationid="Judy" creationdate="20151213T053101Z">
+        <seg>移動平均</seg>
       </tuv>
     </tu>
     <tu>
@@ -49124,6 +49180,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T082550Z" creationid="Judy" creationdate="20151212T082550Z">
         <seg>正常校正係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NORMAL-STRONG LIMIT (0) (R-)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053039Z" creationid="Judy" creationdate="20151213T053039Z">
+        <seg>正常—強極限 (0) (R-)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53918,6 +53982,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164800Z" creationid="Judy" creationdate="20151212T164800Z">
         <seg>峰值極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PEAK LIMIT VALUE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053024Z" creationid="Judy" creationdate="20151213T053024Z">
+        <seg>峰值極限值</seg>
       </tuv>
     </tu>
     <tu>
@@ -62456,6 +62528,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SENSITIVE AREA LENGHT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053153Z" creationid="Judy" creationdate="20151213T053153Z">
+        <seg>感應區域長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SER./TREND.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115234Z" creationid="Judy" creationdate="20151212T115234Z">
@@ -62949,6 +63029,38 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T055030Z" creationid="Judy" creationdate="20151206T054858Z">
         <seg>位置感測器 (開卷機)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPR COR DOWN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053207Z" creationid="Judy" creationdate="20151213T053207Z">
+        <seg>分派向下校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPREAD DOWN CORRECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053006Z" creationid="Judy" creationdate="20151213T053006Z">
+        <seg>發送向下正常校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPREAD UP NORMAL CORRECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053000Z" creationid="Judy" creationdate="20151213T053000Z">
+        <seg>發送向上正常校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPREAD UP STRONG CORRECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053011Z" creationid="Judy" creationdate="20151213T053011Z">
+        <seg>發送向上強校正</seg>
       </tuv>
     </tu>
     <tu>
