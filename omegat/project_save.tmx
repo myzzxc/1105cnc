@@ -16712,10 +16712,18 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cleaning: If the seal is faulty, it might be because the sealers are dirty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162210Z" creationid="Judy" creationdate="20151213T162135Z">
+        <seg>清潔：若封裝機故障，可能為封裝器髒汙所造成，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cleaning: Preferable with the sealers hot.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T153033Z" creationid="Judy" creationdate="20151213T153033Z">
-        <seg>清潔：建議於封口機熱機時進行，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162156Z" creationid="Judy" creationdate="20151213T153033Z">
+        <seg>清潔：建議於封裝機熱機時進行，</seg>
       </tuv>
     </tu>
     <tu>
@@ -36093,8 +36101,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>If the seal is faulty, the sealers may be dirty.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T155721Z" creationid="Judy" creationdate="20151213T155721Z">
-        <seg>若風裝機故障，可能為封裝器髒汙所造成，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162147Z" creationid="Judy" creationdate="20151213T155721Z">
+        <seg>若封裝機故障，可能為封裝器髒汙所造成，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44510,6 +44518,14 @@ or artistic work embodied therein.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024147Z">
         <seg>日文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jaws</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162125Z" creationid="Judy" creationdate="20151213T162125Z">
+        <seg>夾頭</seg>
       </tuv>
     </tu>
     <tu>
