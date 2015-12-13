@@ -23465,6 +23465,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ERROR APPLYING NET CONFIG</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064537Z" creationid="Judy" creationdate="20151213T064537Z">
+        <seg>套用網路設定錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ERROR CADENCE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115806Z" creationid="Judy" creationdate="20151212T115806Z">
@@ -49690,8 +49698,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>NEW NET CONFI APPLIED CORRECTLY</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064513Z" creationid="Judy" creationdate="20151213T064513Z">
-        <seg>新網可信度</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064522Z" creationid="Judy" creationdate="20151213T064513Z">
+        <seg>正確套用新網路設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -63328,10 +63336,26 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SEND EMPTY PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064622Z" creationid="Judy" creationdate="20151213T064622Z">
+        <seg>發送空生產</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SEND MINUTES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T151111Z" creationid="Judy" creationdate="20151212T151111Z">
         <seg>發送分鐘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SEND TIMES PER PRODUCT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064821Z" creationid="Judy" creationdate="20151213T064821Z">
+        <seg>發送時間規格</seg>
       </tuv>
     </tu>
     <tu>
