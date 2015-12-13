@@ -20986,6 +20986,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DOSING UNIT MAINTENANCE AND GUIDE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135056Z" creationid="Judy" creationdate="20151213T134925Z">
+        <seg>填料裝置維護和指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DOSING stations</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034912Z" creationid="Judy" creationdate="20151205T034912Z">
@@ -22607,8 +22615,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Dosing unit maintenance and guide</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022340Z" creationid="Judy" creationdate="20151205T022158Z">
-        <seg>給料機組維護和指南</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135108Z" creationid="Judy" creationdate="20151205T022158Z">
+        <seg>填料裝置維護和指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -46161,6 +46169,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T030322Z" creationid="Judy" creationdate="20151205T030322Z">
         <seg>主要特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MAIN DOSER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135044Z" creationid="Judy" creationdate="20151213T134953Z">
+        <seg>主填料器</seg>
       </tuv>
     </tu>
     <tu>
