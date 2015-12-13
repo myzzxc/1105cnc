@@ -14270,6 +14270,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COMBI DM ERROR@PLEASE VERIFY DM APPLICATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061538Z" creationid="Judy" creationdate="20151213T061538Z">
+        <seg>組合金屬探測器錯誤@請確認金屬探測器安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMM UDP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164421Z" creationid="Judy" creationdate="20151212T164421Z">
@@ -20578,6 +20586,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DEVI (CC)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061147Z" creationid="Judy" creationdate="20151213T061147Z">
+        <seg>偏差 (CC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEVIATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040038Z" creationid="Judy" creationdate="20151212T040038Z">
@@ -20662,6 +20678,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053049Z" creationid="Judy" creationdate="20151212T053049Z">
         <seg>顯示@範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DISTANCE R.CONFIRM LINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061241Z" creationid="Judy" creationdate="20151213T061241Z">
+        <seg>產線距離退回確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -23245,6 +23269,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054239Z" creationid="Judy" creationdate="20151212T054239Z">
         <seg>刪除規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ERASE PARTIAL DATA FEEDBACK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061201Z" creationid="Judy" creationdate="20151213T061201Z">
+        <seg>刪除部分回饋資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -46053,6 +46085,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MD R.CONFIRM LINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061226Z" creationid="Judy" creationdate="20151213T061226Z">
+        <seg>產線金屬探測器退回確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MD REJECT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T114729Z" creationid="Judy" creationdate="20151212T114729Z">
@@ -46449,6 +46489,30 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121028Z">
         <seg>週一至週五 7:30 -17:30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MONITORING CONTROL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061315Z" creationid="Judy" creationdate="20151213T061315Z">
+        <seg>監測管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MONITORING CONTROL ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061320Z" creationid="Judy" creationdate="20151213T061320Z">
+        <seg>監測管控警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MONITORING CONTROL ALARM TIME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061325Z" creationid="Judy" creationdate="20151213T061325Z">
+        <seg>監測管控警報時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -69941,6 +70005,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE LICENSE WILL EXPIRE IN XX DAYS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061351Z" creationid="Judy" creationdate="20151213T061351Z">
+        <seg>授權將在 XX 天後過期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE MACHINE WILL BE OUT OF PRODUCTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T045502Z" creationid="Judy" creationdate="20151212T045502Z">
@@ -86926,6 +86998,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115137Z" creationid="Judy" creationdate="20151212T115137Z">
         <seg>視窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WINDOW R.CONFIRM LINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061306Z" creationid="Judy" creationdate="20151213T061306Z">
+        <seg>產線窗口退回確認</seg>
       </tuv>
     </tu>
     <tu>
