@@ -16111,6 +16111,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing the resistor or temperature probe: Do this when the sealers are cold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160922Z" creationid="Judy" creationdate="20151213T160922Z">
+        <seg>更換電阻或溫度探針：於封裝機冷卻時進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Channel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T081544Z">
@@ -24237,6 +24245,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T070136Z" creationid="Judy" creationdate="20151206T070136Z">
         <seg>每次更換卷筒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each sealer part contains 1 heat element and 1 probe.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T161018Z" creationid="Judy" creationdate="20151213T161018Z">
+        <seg>封裝機每一部分包含 1 組加熱元件和 1 組探針，</seg>
       </tuv>
     </tu>
     <tu>
@@ -46449,6 +46465,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043256Z" creationid="Judy" creationdate="20151206T043256Z">
         <seg>位置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock and consign the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T161117Z" creationid="Judy" creationdate="20151213T161117Z">
+        <seg>固定於機台上，</seg>
       </tuv>
     </tu>
     <tu>
