@@ -23097,6 +23097,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ERASE PROD ABSTRACT (MONTHLY)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054646Z" creationid="Judy" creationdate="20151213T054646Z">
+        <seg>刪除生產總結 (每月)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ERASE USER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054150Z" creationid="Judy" creationdate="20151212T054150Z">
@@ -59155,6 +59163,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REJECT ALARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054700Z" creationid="Judy" creationdate="20151213T054700Z">
+        <seg>退回警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REJECT CONFIRM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142815Z" creationid="Judy" creationdate="20151212T142815Z">
@@ -59175,6 +59191,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115912Z" creationid="Judy" creationdate="20151212T115912Z">
         <seg>退回控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REJECT CORRECTION (-)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054655Z" creationid="Judy" creationdate="20151213T054655Z">
+        <seg>退回校正 (-)</seg>
       </tuv>
     </tu>
     <tu>
