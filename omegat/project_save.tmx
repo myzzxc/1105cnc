@@ -29985,6 +29985,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fix their position by tightening the jaw fixing screws.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160600Z" creationid="Judy" creationdate="20151213T160600Z">
+        <seg>鎖緊夾具螺絲以固定其位置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fixed Weight Product: This is the tare weight of the units within a pack.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T145251Z" creationid="Judy" creationdate="20151211T145251Z">
@@ -66334,6 +66342,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screws</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160836Z" creationid="Judy" creationdate="20151213T160836Z">
+        <seg>螺絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screws to be removed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140644Z" creationid="Judy" creationdate="20151213T140644Z">
@@ -74586,6 +74602,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T155539Z">
         <seg>演算法設定較為保守，因此可能會產生假警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The alignment avoids sealing faults and wear in the sealer parts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160645Z" creationid="Judy" creationdate="20151213T160645Z">
+        <seg>正確對位能避免封裝錯誤和封裝機零件的磨損。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85211,6 +85235,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114545Z">
         <seg>運輸設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trap screws</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160833Z" creationid="Judy" creationdate="20151213T160833Z">
+        <seg>螺絲孔</seg>
       </tuv>
     </tu>
     <tu>
