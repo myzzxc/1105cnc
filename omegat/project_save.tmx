@@ -23321,6 +23321,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ENTRADA YA OCUPADA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T063956Z" creationid="Judy" creationdate="20151213T063956Z">
+        <seg>輸入忙碌中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ENVIRONMENTAL REGULATIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T232952Z">
@@ -62963,6 +62971,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T033642Z">
         <seg>銷售</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SALIDA YA OCUPADA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064000Z" creationid="Judy" creationdate="20151213T064000Z">
+        <seg>輸出忙碌中</seg>
       </tuv>
     </tu>
     <tu>
