@@ -16527,6 +16527,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clasps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143913Z" creationid="Judy" creationdate="20151213T143913Z">
+        <seg>扣環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classification</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T133126Z">
@@ -47597,6 +47605,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make a visual check through the window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143803Z" creationid="Judy" creationdate="20151213T143803Z">
+        <seg>請透過檢視窗檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make empty sticks until the sticks formation test has been completed with the new reel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034413Z" creationid="Judy" creationdate="20151206T034413Z">
@@ -47673,6 +47689,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062640Z" creationid="Judy" creationdate="20151205T062640Z">
         <seg>確保機門緊閉；否則安全系統將會制止機台啟動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the hopper is empty before removing it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143710Z" creationid="Judy" creationdate="20151213T143710Z">
+        <seg>拆除前請確保料斗已清空，</seg>
       </tuv>
     </tu>
     <tu>
@@ -84198,6 +84222,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To remove the hopper it is first necessary to remove all of the tubes and the augers fillers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143642Z" creationid="Judy" creationdate="20151213T143642Z">
+        <seg>若要拆除料斗，必須先拆除所有外管和螺旋填料器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To remove the tube, the screw has to be loosened and the part fitted on the cylinder block has to be turned until the flat part of the auger filler is free.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142452Z" creationid="Judy" creationdate="20151213T142452Z">
@@ -89570,6 +89602,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When it is empty, release the fixing clasps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143846Z" creationid="Judy" creationdate="20151213T143846Z">
+        <seg>當確認料斗清空後鬆開固定扣環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When it starts, the machine drags the paper and places it correctly using a photocell.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T064006Z" creationid="Judy" creationdate="20151205T064006Z">
@@ -90298,6 +90338,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T032106Z">
         <seg>擋風玻璃零件 	3	1	67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T143922Z" creationid="Judy" creationdate="20151213T143922Z">
+        <seg>檢視窗</seg>
       </tuv>
     </tu>
     <tu>
