@@ -16591,6 +16591,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change the position of the sealers to bring them closer by adjusting the encoder degrees on the touchscreen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164622Z" creationid="Judy" creationdate="20151214T164622Z">
+        <seg>透過觸控螢幕調整編碼器角度以變更封裝機位置使其更加接近。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the reel in accordance with the format to be manufactured.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T150400Z" creationid="Judy" creationdate="20151206T033129Z">
@@ -45254,6 +45262,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164347Z" creationid="Judy" creationdate="20151214T164347Z">
         <seg>製作完整直條包裝可能需要增加或減少密封的溫度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It may be necessary to increase the pressure of the sealed in the sealed contact phase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164454Z" creationid="Judy" creationdate="20151214T164454Z">
+        <seg>製作完整直條包裝可能需要於封裝接觸階段增加密封的壓力，</seg>
       </tuv>
     </tu>
     <tu>
@@ -80910,6 +80926,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163628Z" creationid="Judy" creationdate="20151214T163628Z">
         <seg>封裝機表面具有凹槽，當前後封裝機閉合時凹槽必須密合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sealing temperature is normally between 100º C and 200º C, depending on the type of foil.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164722Z" creationid="Judy" creationdate="20151214T164704Z">
+        <seg>熱封溫度通常介於 100  至 200 ˚C之間，溫度取決於箔片類型，</seg>
       </tuv>
     </tu>
     <tu>
