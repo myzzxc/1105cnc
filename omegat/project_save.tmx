@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15226,6 +15226,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035456Z" creationid="Judy" creationdate="20151205T035456Z">
         <seg>控制面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONVEYOR BELT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T110106Z" creationid="Judy" creationdate="20151214T110106Z">
+        <seg>輸送皮帶</seg>
       </tuv>
     </tu>
     <tu>
@@ -47161,6 +47169,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091819Z" creationid="Judy" creationdate="20151214T091819Z">
         <seg>潤滑：檢查蝸杆軸具有適當的潤滑，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lubrication: The belt conveyor is designed for minimal maintenance using self-lubricated components.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T110239Z" creationid="Judy" creationdate="20151214T110239Z">
+        <seg>潤滑：帶式輸送機之設計使用自潤滑元件，只需最小程度的維護。</seg>
       </tuv>
     </tu>
     <tu>
