@@ -33218,6 +33218,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grease needs to be visible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091846Z" creationid="Judy" creationdate="20151214T091846Z">
+        <seg>必須能看見潤滑脂，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Great Summit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150819T143442Z">
@@ -35987,6 +35995,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If not, set lubrication with the automatic pump.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091945Z" creationid="Judy" creationdate="20151214T091945Z">
+        <seg>若無法看見，請使用自動泵進行潤滑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If one of the sensors detects that the foil has come out of its route, it sends the signal for operate the aligner motor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125639Z" creationid="Judy" creationdate="20151207T125639Z">
@@ -38090,6 +38106,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151014T144759Z">
         <seg>攝影機註冊表中，可以選擇所需的欄位以提高辨識性，如：名稱、說明、韌體、連接埠、位址、使用者是否活動中等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of doubt, ask ARANOW’s technical services.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091754Z" creationid="Judy" creationdate="20151214T091754Z">
+        <seg>若有任何疑問，請聯繫 ARANOW 技術服務中心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47125,6 +47149,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lubrication: Check that the worm shafts are properly lubricated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091819Z" creationid="Judy" creationdate="20151214T091819Z">
+        <seg>潤滑：檢查蝸杆軸具有適當的潤滑，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MAC ADRESS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064410Z" creationid="Judy" creationdate="20151213T064410Z">
@@ -51403,8 +51435,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>Never change if your knowledge of the equipment is limited.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091637Z" creationid="Judy" creationdate="20151214T091637Z">
-        <seg>若不具備設備維修知識，請勿進行更換作業。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091715Z" creationid="Judy" creationdate="20151214T091637Z">
+        <seg>若不具備設備維修知識，請勿進行更換作業，</seg>
       </tuv>
     </tu>
     <tu>
@@ -68451,6 +68483,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T081814Z">
         <seg>系列系統配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serious damage can occur when incorrect position is used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091714Z" creationid="Judy" creationdate="20151214T091714Z">
+        <seg>若使用不正確的位置可能會發生嚴重損傷。</seg>
       </tuv>
     </tu>
     <tu>
