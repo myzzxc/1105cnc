@@ -14758,6 +14758,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CLEANNING: Used for cleaning the hopper or for product change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132609Z" creationid="Judy" creationdate="20151214T132609Z">
+        <seg>CLEANNING (清潔)：用於清潔料斗或更換產品，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CLICK HERE FOR THE LIST OF HR POLICIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T121109Z">
@@ -45990,6 +45998,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LEVEL: Normally ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132730Z" creationid="Judy" creationdate="20151214T132730Z">
+        <seg>LEVEL (存量)：通常為開，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LICENCE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053914Z" creationid="Judy" creationdate="20151212T053914Z">
@@ -53318,6 +53334,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OFF disconnects the hopper level detector.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132802Z" creationid="Judy" creationdate="20151214T132802Z">
+        <seg>關閉時將切斷料斗存量偵測器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OFF disconnects the operation of the dust exhaust system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131921Z" creationid="Judy" creationdate="20151214T131921Z">
@@ -53386,6 +53410,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T114947Z" creationid="Judy" creationdate="20151214T114947Z">
         <seg>ON 開啟並輸入數值為 18 克，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ON, the auger rotates continuously, to empty the hopper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132646Z" creationid="Judy" creationdate="20151214T132646Z">
+        <seg>開啟時，螺旋桿持續轉動以清空料斗，</seg>
       </tuv>
     </tu>
     <tu>
@@ -65800,6 +65832,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SETTING SERVOS: To be able to go to this screen, the program asks for a password.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132849Z" creationid="Judy" creationdate="20151214T132849Z">
+        <seg>SETTING SERVOS (設定伺服)：進入此畫面前程式會要求輸入密碼，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SETTINGS is limited according to the access configuration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123127Z" creationid="Judy" creationdate="20151214T123127Z">
@@ -71358,6 +71398,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T032801Z" creationid="Judy" creationdate="20151128T032801Z">
         <seg>停止按鈕：其為紅色，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop by putting on OFF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132705Z" creationid="Judy" creationdate="20151214T132705Z">
+        <seg>切換至關閉以停止。</seg>
       </tuv>
     </tu>
     <tu>
