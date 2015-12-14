@@ -83716,6 +83716,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These are technical parameters related to servomotor specifications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154850Z" creationid="Judy" creationdate="20151214T154850Z">
+        <seg>參數皆為伺服馬達規格相關之技術參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These audits at the initiative of HUTCHINSON or its client may be performed by HUTCHINSON (or a third party organization appointed by HUTCHISON) in the premises of any of HUTCHINSON Suppliers’ subcontractor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150528T233328Z">
@@ -83879,8 +83887,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>These parameters apply an acceleration factor when starting and deceleration at the end of the movement vertical length.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154815Z" creationid="Judy" creationdate="20151214T154815Z">
-        <seg>這些參數於垂直長度運動啟動時套用加速係並於結束時套用減速係數，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154912Z" creationid="Judy" creationdate="20151214T154815Z">
+        <seg>這些參數於垂直長度運動開始時套用加速係數，並於結束時套用減速係數，</seg>
       </tuv>
     </tu>
     <tu>
