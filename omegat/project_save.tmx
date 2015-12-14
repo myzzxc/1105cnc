@@ -17880,6 +17880,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close by hand the front jaw seals and back jaw seals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071058Z" creationid="Judy" creationdate="20151214T071058Z">
+        <seg>手動閉合封裝機前夾頭和封裝機後夾頭，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close the connector cover firmly until it clicks and confirm that the red sign completely goes off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125108Z">
@@ -46809,6 +46817,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123903Z">
         <seg>更長的折舊時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loosen the nuts of the front jaw seals and the screws of the back jaw seals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071009Z" creationid="Judy" creationdate="20151214T071009Z">
+        <seg>鬆開封裝機前夾頭之螺母和封裝機後夾頭之螺絲。</seg>
       </tuv>
     </tu>
     <tu>
