@@ -6293,6 +6293,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AURGER FILLER 1-4: They are normally all ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131157Z" creationid="Judy" creationdate="20151214T131157Z">
+        <seg>AUGER FILLER 1-4 (螺旋填料器 1-4)：通常為開，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUT.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T120304Z" creationid="Judy" creationdate="20151212T120304Z">
@@ -40067,6 +40075,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131114T031209Z">
         <seg>此時請依下表間隙擺設機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this MENU screen, access is given to the control parameters of the different parts of the doser unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131142Z" creationid="Judy" creationdate="20151214T131142Z">
+        <seg>此功能表中能控制填料器裝置的不同零件參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84477,6 +84493,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T135916Z" creationid="Judy" creationdate="20151210T135916Z">
         <seg>此畫面可以記錄機台停機時間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen allows the operator to control, activate and handle the dosers individually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131218Z" creationid="Judy" creationdate="20151214T131218Z">
+        <seg>此畫面功能表中能控制填料器裝置的不同零件參數。</seg>
       </tuv>
     </tu>
     <tu>
