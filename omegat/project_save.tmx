@@ -14134,6 +14134,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By pressing on the alarm values we can vary the upper and lower limit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144752Z" creationid="Judy" creationdate="20151214T144752Z">
+        <seg>點擊警報數值可以變更上下極限值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By pressing on the numerical values have access to calculator.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T113252Z" creationid="Judy" creationdate="20151214T113252Z">
@@ -32436,6 +32444,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From this screen we will have access to see the production data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144913Z" creationid="Judy" creationdate="20151214T144913Z">
+        <seg>此畫面能檢視生產資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From this screen you can access any screen to program or display information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085758Z" creationid="Judy" creationdate="20151128T085758Z">
@@ -37000,6 +37016,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092443Z" creationid="Judy" creationdate="20151128T092221Z">
         <seg>若欄位為黃色 (如圖所示)，代表生產正在進行中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the temperature fails to lie within the range an alarm appears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144819Z" creationid="Judy" creationdate="20151214T144819Z">
+        <seg>若溫度無法維持於範圍內將會出現警報，</seg>
       </tuv>
     </tu>
     <tu>
@@ -57455,6 +57479,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054102Z" creationid="Judy" creationdate="20151213T054102Z">
         <seg>生產總結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRODUCTION CONTROL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144847Z" creationid="Judy" creationdate="20151214T144847Z">
+        <seg>生產管控</seg>
       </tuv>
     </tu>
     <tu>
@@ -78592,6 +78624,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The machine stops.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144831Z" creationid="Judy" creationdate="20151214T144831Z">
+        <seg>此時機台將會停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine voltage plug will have ground fault protection by a differential switch (RCD) with a sensitivity of 200 mA or more and with a run time of 0.1 seconds or more.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050505Z" creationid="Judy" creationdate="20151128T050505Z">
@@ -81431,6 +81471,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T020931Z" creationid="Judy" creationdate="20151211T020931Z">
         <seg>也會顯示全部和部分生產正確包裝的平均重量值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The values on the left give a fixed value and those on the right are the actual values (black background).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144701Z" creationid="Judy" creationdate="20151214T144701Z">
+        <seg>左邊之數值為給定值，右邊之數值為實際值 (黑色背景)。</seg>
       </tuv>
     </tu>
     <tu>
