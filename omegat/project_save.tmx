@@ -8763,6 +8763,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of the counters are zeroed by pressing RESET.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T145337Z" creationid="Judy" creationdate="20151214T145326Z">
+        <seg>按下 RESET (重置) 後所有的計數器將會歸零，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of the powerful features enterprises need with an interface users already know.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070558Z">
@@ -19477,6 +19485,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T144935Z" creationid="Judy" creationdate="20151205T035953Z">
         <seg>確認供應至機器之電壓符合規範且能電力能滿足機器所需的功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T145335Z" creationid="Judy" creationdate="20151214T145335Z">
+        <seg>請確認。</seg>
       </tuv>
     </tu>
     <tu>
