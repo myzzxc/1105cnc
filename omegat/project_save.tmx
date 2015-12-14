@@ -26546,6 +26546,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples: 3000 (3 laps).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131605Z" creationid="Judy" creationdate="20151214T131549Z">
+        <seg>例：3000 (3 圈)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Excavator Accessories</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T120937Z">
@@ -82195,6 +82203,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The white background column indicates the number of laps that the endless performs for a dose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131436Z" creationid="Judy" creationdate="20151214T131436Z">
+        <seg>白色背景之欄位為填料器轉動圈數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The whole unit will move but the paper will not be dragged.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124125Z" creationid="Judy" creationdate="20151214T124125Z">
@@ -82736,6 +82752,14 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T121315Z">
         <seg>這些影片展示出完成 PDF 建立/轉檔、文件組合和加密的相關工作流程是如此的簡單，甚至可以使用 Nuance 世界知名的語音辨識技術。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These digits show the number of turns of endless (No.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131537Z" creationid="Judy" creationdate="20151214T131537Z">
+        <seg>數字代表轉環轉數 (</seg>
       </tuv>
     </tu>
     <tu>
@@ -84499,8 +84523,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This screen allows the operator to control, activate and handle the dosers individually.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131218Z" creationid="Judy" creationdate="20151214T131218Z">
-        <seg>此畫面功能表中能控制填料器裝置的不同零件參數。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131331Z" creationid="Judy" creationdate="20151214T131218Z">
+        <seg>操作人員能藉由此畫面分別控制、啟動和處理填料器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -96559,6 +96583,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T122000Z" creationid="Judy" creationdate="20151207T122000Z">
         <seg>箔片煞車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>laps x 1000).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131543Z" creationid="Judy" creationdate="20151214T131543Z">
+        <seg>圈數 x 1000)。</seg>
       </tuv>
     </tu>
     <tu>
