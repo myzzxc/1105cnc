@@ -8869,6 +8869,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow the sealer to cool.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081755Z" creationid="Judy" creationdate="20151214T081755Z">
+        <seg>等待封裝機冷卻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow user to disable/enable Maintain Revisions in Application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T072820Z">
@@ -22621,6 +22629,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnect and block the electric and pneumatic switches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081728Z" creationid="Judy" creationdate="20151214T081728Z">
+        <seg>切斷並鎖定電氣和氣動迴路開關，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disconnect and lock the machine from the power and pressurized air supply.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031658Z" creationid="Judy" creationdate="20151206T031658Z">
@@ -35811,6 +35827,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If necessary, signal to warn.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081750Z" creationid="Judy" creationdate="20151214T081750Z">
+        <seg>如有必要，請設立警告標誌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no Data Hub exists and we have the "Automatic Shifts Enabled" (YES), at the end of each pre-scheduled shift a report of shift production will be generated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151209T164923Z" creationid="Judy" creationdate="20151209T164923Z">
@@ -39747,6 +39771,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T135532Z">
         <seg>在此分頁中輸入 Supplier 供(應商)、Currency (貨幣)、Pay Rate (薪資)、Frequency (頻率) 和 Maximum Amount (最大數量) 等必需資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this way, the pneumatic cylinders are without pressurized air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081712Z" creationid="Judy" creationdate="20151214T081712Z">
+        <seg>如此一來氣壓缸中便無加壓空氣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46889,6 +46921,22 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T123903Z">
         <seg>更長的折舊時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loosen screws</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081934Z" creationid="Judy" creationdate="20151214T081934Z">
+        <seg>鬆開螺絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loosen the allen screws and remove the blade in the direction indicated by the arrow:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081924Z" creationid="Judy" creationdate="20151214T081924Z">
+        <seg>鬆開內六角螺絲並依圖中箭頭方向取下刀片：</seg>
       </tuv>
     </tu>
     <tu>
@@ -68123,6 +68171,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121702Z" creationid="Judy" creationdate="20151207T121702Z">
         <seg>感應器 (x2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separate the sealing jaws.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081817Z" creationid="Judy" creationdate="20151214T081807Z">
+        <seg>分離封裝夾頭。</seg>
       </tuv>
     </tu>
     <tu>
