@@ -4393,6 +4393,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>= check change</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152422Z" creationid="Judy" creationdate="20151214T152422Z">
+        <seg>= 檢查變更項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt;0.8</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T182220Z">
@@ -8727,6 +8735,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T092605Z" creationid="Judy" creationdate="20151208T092605Z">
         <seg>所有輸入可以設定為 1 啟用或 0 啟用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All machine settings will be changed to the programmed settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152203Z" creationid="Judy" creationdate="20151214T152203Z">
+        <seg>機台的所有設置都將變更為程式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26639,6 +26655,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T101850Z" creationid="Judy" creationdate="20151128T101850Z">
         <seg>下拉選單範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example steps of LOAD:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152335Z" creationid="Judy" creationdate="20151214T152335Z">
+        <seg>載入步驟範例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50037,6 +50061,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meaning of signs:                     = clicking on</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152412Z" creationid="Judy" creationdate="20151214T152412Z">
+        <seg>圖示的意義：                     = 點擊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurable Improvement</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150924T103617Z">
@@ -60657,8 +60689,8 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Press LOAD RECIPE to load the selected program.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152040Z" creationid="Judy" creationdate="20151214T152040Z">
-        <seg>點擊 LOAD RECIPE (讀取參數設定) 以選擇程式。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152323Z" creationid="Judy" creationdate="20151214T152040Z">
+        <seg>點擊 LOAD RECIPE (載入參數設定) 以選擇程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60711,6 +60743,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press SAVE RECIPE to record a new program with the parameters that have been adjusted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152308Z" creationid="Judy" creationdate="20151214T152308Z">
+        <seg>點擊 SAVE RECIPE (儲存參數設定) 以錄製調整過的新程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press STOP .</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T034427Z" creationid="Judy" creationdate="20151206T034427Z">
@@ -60723,6 +60763,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031618Z" creationid="Judy" creationdate="20151206T031618Z">
         <seg>按下停止開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press YES to confirm or NO to exit the selected program.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152129Z" creationid="Judy" creationdate="20151214T152129Z">
+        <seg>點擊 YES (是) 以確認或 NO (否) 以退出選擇程式。</seg>
       </tuv>
     </tu>
     <tu>
