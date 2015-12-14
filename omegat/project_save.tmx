@@ -6277,6 +6277,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUGER FILLER: Normally ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124752Z" creationid="Judy" creationdate="20151214T124752Z">
+        <seg>AUGER FILLER (螺旋填料器)：通常為開，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUGER FILLERS AND AUGER TUBES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T141018Z" creationid="Judy" creationdate="20151213T141018Z">
@@ -6313,6 +6321,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164912Z" creationid="Judy" creationdate="20151212T164912Z">
         <seg>自動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUTOMATIC ALLIGNMENT: Normal is ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124938Z" creationid="Judy" creationdate="20151214T124938Z">
+        <seg>AUTOMATIC ALLIGNMENT (自動對位)：通常為開，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24593,6 +24609,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EYE MARK: Normally ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125042Z" creationid="Judy" creationdate="20151214T125042Z">
+        <seg>EYE MARK (): Normally ON.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each HUTCHINSON Group entity defines its assignment/contracting rules.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T015248Z">
@@ -36367,6 +36391,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T055659Z">
         <seg>若供應之電壓低於7V，則5V針腳供應之電源可能低於5V而使電路板不穩定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If switched OFF it inhibits the film alignment photocell signals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125038Z" creationid="Judy" creationdate="20151214T125038Z">
+        <seg>若關閉則將會切斷箔片光電感應器之對位訊號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52067,6 +52099,14 @@ without the documented approval of the appropriate Quality Control personnel.
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No dosing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124857Z" creationid="Judy" creationdate="20151214T124857Z">
+        <seg>不進行填料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No limit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151010T072049Z">
@@ -56982,6 +57022,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T122414Z" creationid="Judy" creationdate="20151212T122414Z">
         <seg>印表機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRINTER: Normally ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124910Z" creationid="Judy" creationdate="20151214T124910Z">
+        <seg>PRINTER (印表機)：通常為開，</seg>
       </tuv>
     </tu>
     <tu>
@@ -69219,6 +69267,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124513Z" creationid="Judy" creationdate="20151214T124513Z">
         <seg>設定 OFF + OFF。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set OFF + ON</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124732Z" creationid="Judy" creationdate="20151214T124732Z">
+        <seg>設定 OFF + ON。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91670,6 +91726,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121338Z">
         <seg>輪式裝載機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When OFF, the operation of this unit is turned off</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124920Z" creationid="Judy" creationdate="20151214T124920Z">
+        <seg>當關閉時，該機組之運行將會關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When OFF, the operation of this unit is turned off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124848Z" creationid="Judy" creationdate="20151214T124848Z">
+        <seg>當關閉時，該機組之運行將會關閉，</seg>
       </tuv>
     </tu>
     <tu>
