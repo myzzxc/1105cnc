@@ -16551,6 +16551,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change by a new batch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235830Z" creationid="Judy" creationdate="20151214T235830Z">
+        <seg>變更為新的批次，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change by a new reel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235225Z" creationid="Judy" creationdate="20151214T235225Z">
@@ -16831,6 +16839,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check heat element, temperature probe and alarm limit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235733Z" creationid="Judy" creationdate="20151214T235733Z">
+        <seg>檢查加熱元件、溫度探針和警報極限值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check horizontal sealer alignment when finished.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082022Z" creationid="Judy" creationdate="20151214T082022Z">
@@ -16875,6 +16891,30 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235556Z" creationid="Judy" creationdate="20151214T235556Z">
         <seg>檢查印表機指示燈，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check reading correct of spot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235709Z" creationid="Judy" creationdate="20151214T235709Z">
+        <seg>檢查位置感應正確，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check spot photocell position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235644Z" creationid="Judy" creationdate="20151214T235644Z">
+        <seg>檢查光電感應器位置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check sticks production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235923Z" creationid="Judy" creationdate="20151214T235923Z">
+        <seg>檢查直條包裝生產，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22653,6 +22693,14 @@ REJECT (退回)：啟動退回程序。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete problem that it causes rejection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235941Z" creationid="Judy" creationdate="20151214T235941Z">
+        <seg>排除造成退回之問題，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete problem.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235334Z" creationid="Judy" creationdate="20151214T235334Z">
@@ -24722,6 +24770,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>END OF LOTE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235808Z" creationid="Judy" creationdate="20151214T235808Z">
+        <seg>批次結束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>END OF REEL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235220Z" creationid="Judy" creationdate="20151214T235220Z">
@@ -25190,6 +25246,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151022Z" creationid="Judy" creationdate="20151214T151022Z">
         <seg>EYE MARK FAILURE (檢測標記故障)：光電感應器偵測到最大錯誤數量，超過此數值將會關閉機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EYE MARK SPOT LOST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235631Z" creationid="Judy" creationdate="20151214T235631Z">
+        <seg>失去檢測標記訊號</seg>
       </tuv>
     </tu>
     <tu>
@@ -48850,6 +48914,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T143230Z" creationid="Judy" creationdate="20151212T143230Z">
         <seg>最大值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MAXIMUM OF REJECTED STICKS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235917Z" creationid="Judy" creationdate="20151214T235917Z">
+        <seg>退回直條包裝最大值</seg>
       </tuv>
     </tu>
     <tu>
@@ -74258,6 +74330,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033623Z" creationid="Judy" creationdate="20151212T033623Z">
         <seg>溫度警報櫃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEMPERATURE FAULT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235712Z" creationid="Judy" creationdate="20151214T235712Z">
+        <seg>溫度故障</seg>
       </tuv>
     </tu>
     <tu>
