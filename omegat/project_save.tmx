@@ -27269,6 +27269,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FAULTY SEALING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T162853Z" creationid="Judy" creationdate="20151214T162853Z">
+        <seg>錯誤封裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FB PRIORITY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083218Z" creationid="Judy" creationdate="20151212T083218Z">
@@ -36672,6 +36680,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125639Z" creationid="Judy" creationdate="20151207T125639Z">
         <seg>若其中一個感應器檢測到箔片已偏離路線，將會發送信號至對位馬達。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If one or more sticks have a faulty seal, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T162945Z" creationid="Judy" creationdate="20151214T162945Z">
+        <seg>若一個或多個直條包裝具有錯誤封裝，請進行以下步驟：</seg>
       </tuv>
     </tu>
     <tu>
@@ -49334,6 +49350,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make a few empty sticks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163038Z" creationid="Judy" creationdate="20151214T163038Z">
+        <seg>進行數次空直條包裝製作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make a few sticks with the dose to check.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083312Z" creationid="Judy" creationdate="20151205T083312Z">
@@ -57415,6 +57439,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072513Z" creationid="Judy" creationdate="20151212T072513Z">
         <seg>正/負極限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POSSIBLE PROBLEMS, CAUSES AND SOLUTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T162850Z" creationid="Judy" creationdate="20151214T162850Z">
+        <seg>可能出現的問題、原因和解決方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -88332,6 +88364,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065607Z" creationid="Judy" creationdate="20151206T065607Z">
         <seg>切斷機台之電氣和氣動迴路開關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn off the product dosing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163002Z" creationid="Judy" creationdate="20151214T163002Z">
+        <seg>關閉產品給料，</seg>
       </tuv>
     </tu>
     <tu>
