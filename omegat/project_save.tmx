@@ -8451,6 +8451,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alignment: It must work in parallel to the horizontal sealer station.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082657Z" creationid="Judy" creationdate="20151214T082657Z">
+        <seg>對位：必須與水平封裝站台平行以運作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alignment: This work must be performed by a technician.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051629Z" creationid="Judy" creationdate="20151214T051629Z">
@@ -14006,6 +14014,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C and D must be centred.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082737Z" creationid="Judy" creationdate="20151214T082737Z">
+        <seg>C 和 D 之中心須對齊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C – Command and Control</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T144801Z">
@@ -14130,6 +14146,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062150Z" creationid="Judy" creationdate="20151213T062150Z">
         <seg>無法變更使用中規格 @ 請先停止 RX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CANALIZED CHUTE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082740Z" creationid="Judy" creationdate="20151214T082740Z">
+        <seg>滑槽</seg>
       </tuv>
     </tu>
     <tu>
@@ -16687,6 +16711,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chute</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082812Z" creationid="Judy" creationdate="20151214T082812Z">
+        <seg>滑槽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cincinnati, OH 45241 Phone: +1 513 771 7444</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T083459Z">
@@ -16852,6 +16884,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T070026Z" creationid="Judy" creationdate="20151206T070026Z">
         <seg>清潔點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cleaning: Follow the general cleaning instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082804Z" creationid="Judy" creationdate="20151214T082804Z">
+        <seg>清潔：依照一般清潔指示進行。</seg>
       </tuv>
     </tu>
     <tu>
