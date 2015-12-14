@@ -43937,6 +43937,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is necessary to reset this position in the event of an emergency stop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091546Z" creationid="Judy" creationdate="20151214T091546Z">
+        <seg>緊急停止後必須重設此位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is necessary work with precision values is ensures the correct sealing of sticks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T065529Z" creationid="Judy" creationdate="20151206T065529Z">
@@ -51393,6 +51401,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never change if your knowledge of the equipment is limited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091637Z" creationid="Judy" creationdate="20151214T091637Z">
+        <seg>若不具備設備維修知識，請勿進行更換作業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Never clean the machine when it is in operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145436Z" creationid="Judy" creationdate="20151205T145436Z">
@@ -54195,6 +54211,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T025452Z">
         <seg>DARIO MARTINI 花了畢生的精力在眼鏡的世界，已經可以稱他為“精通眼鏡”的設計師。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the sensors is "position 0".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091435Z" creationid="Judy" creationdate="20151214T091435Z">
+        <seg>其中一組感應器為「位置 0」，</seg>
       </tuv>
     </tu>
     <tu>
@@ -63480,6 +63504,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T055644Z" creationid="Judy" creationdate="20151205T055644Z">
         <seg>清洗後更換保護蓋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace with new sensors in case of malfunction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091348Z" creationid="Judy" creationdate="20151214T091348Z">
+        <seg>故障時請更換新感應器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81381,8 +81413,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Their location is designed to avoid impact.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091245Z" creationid="Judy" creationdate="20151214T091245Z">
-        <seg>其位置之設計能避免撞擊，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091355Z" creationid="Judy" creationdate="20151214T091245Z">
+        <seg>其位置之設計能避免撞擊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83747,8 +83779,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>This sensor should never be cancelled.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091327Z" creationid="Judy" creationdate="20151214T091327Z">
-        <seg>請勿取消感應器之功能。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091349Z" creationid="Judy" creationdate="20151214T091327Z">
+        <seg>請勿取消感應器之功能，</seg>
       </tuv>
     </tu>
     <tu>
