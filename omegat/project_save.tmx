@@ -65665,6 +65665,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SPEED: This shows the actual speed in cycles per minute.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T113849Z" creationid="Judy" creationdate="20151214T113849Z">
+        <seg>SPEED (速度)：此欄位顯示實際速度，單位為每分鐘轉數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SPI: on the ICSP header.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T132017Z">
@@ -87288,6 +87296,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UNWINDER: With the arrows, the whole unwinder unit can be moved to right and left by activating the motor that moves it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T114012Z" creationid="Judy" creationdate="20151214T114012Z">
+        <seg>UNWINDER (開卷機)：使用箭頭能啟動馬達以移動開卷機向右或向左。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UNWINDING stations</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034552Z" creationid="Judy" creationdate="20151205T034552Z">
@@ -89918,6 +89934,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T142800Z" creationid="Judy" creationdate="20151212T142800Z">
         <seg>重量儲存格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WEIGHT CHECKED: Use this button to adjust the laps of endless dose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T114100Z" creationid="Judy" creationdate="20151214T114100Z">
+        <seg>WEIGHT CHECKER (重量檢查器):: Use this button to adjust the laps of endless dose.</seg>
       </tuv>
     </tu>
     <tu>
