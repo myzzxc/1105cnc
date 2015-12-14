@@ -8403,6 +8403,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alignment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051707Z" creationid="Judy" creationdate="20151214T051707Z">
+        <seg>對位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alignment detector</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T034638Z" creationid="Judy" creationdate="20151205T034638Z">
@@ -8431,6 +8439,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160257Z" creationid="Judy" creationdate="20151213T160257Z">
         <seg>對位：於封裝機冷卻時進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alignment: This work must be performed by a technician.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051629Z" creationid="Judy" creationdate="20151214T051629Z">
+        <seg>對位：必須由技術人員執行此項工作，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22905,6 +22921,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081019Z" creationid="Judy" creationdate="20151205T081019Z">
         <seg>執行以下操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do this when the sealers are in working temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051651Z" creationid="Judy" creationdate="20151214T051651Z">
+        <seg>於封裝機達到工作溫度時進行，</seg>
       </tuv>
     </tu>
     <tu>
@@ -43507,8 +43531,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>It is best to use protective gloves.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162256Z" creationid="Judy" creationdate="20151213T162256Z">
-        <seg>建議使用防護手套，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051657Z" creationid="Judy" creationdate="20151213T162256Z">
+        <seg>建議使用防護手套。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63064,6 +63088,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053442Z" creationid="Judy" creationdate="20151206T053442Z">
         <seg>當元件磨損或損壞時更換元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace the probes or the resistors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051542Z" creationid="Judy" creationdate="20151214T051542Z">
+        <seg>更換探針或電阻。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84557,6 +84589,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To do this remove the fixation screws.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051524Z" creationid="Judy" creationdate="20151214T051524Z">
+        <seg>請先卸下固定螺絲以拆除夾具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To do this with the SD card, set pin 4 as an output and write a high to it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150425T133427Z">
@@ -84898,6 +84938,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T152430Z">
         <seg>為了達到我們卓越的目標並滿足客戶的需求，整個供應鏈必須共同參與，且我們期望供應商能主動參與此流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To reassemble proceed in reverse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051551Z" creationid="Judy" creationdate="20151214T051551Z">
+        <seg>組裝依上述步驟反向進行組裝。</seg>
       </tuv>
     </tu>
     <tu>
