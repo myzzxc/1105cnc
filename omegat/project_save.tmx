@@ -21906,6 +21906,15 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DUST EXHAUST: Activates the operation of the dust exhaust system.REJECT: Activates rejection order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143553Z" creationid="Judy" creationdate="20151214T143553Z">
+        <seg>DUST EXHAUST (排塵)：啟動排塵系統運作。
+REJECT (退回)：啟動退回程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DUST EXHAUST: Normal is ON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125359Z" creationid="Judy" creationdate="20151214T125359Z">
@@ -36979,6 +36988,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the system has a printer connected drives the print order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143944Z" creationid="Judy" creationdate="20151214T143944Z">
+        <seg>若系統有連接印表機以啟動列印程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the tab is in yellow (as shown right now) it means that we are in production.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T092443Z" creationid="Judy" creationdate="20151128T092221Z">
@@ -44217,6 +44234,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a display of exclusive use for Aranow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144520Z" creationid="Judy" creationdate="20151214T144520Z">
+        <seg>僅供 Aranow 公司使用之畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a particularly useful option forconverting existing templates and fixtures into automated cutting files where original drawings donot exist.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T050419Z">
@@ -51368,6 +51393,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves the group of horizontal sealers group up and down</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144329Z" creationid="Judy" creationdate="20151214T144246Z">
+        <seg>向上和向下移動水平封裝機組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moving bar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T124711Z" creationid="Judy" creationdate="20151207T124711Z">
@@ -56754,6 +56787,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PERFORATIONS: This activates the order of movement of the perforation unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144011Z" creationid="Judy" creationdate="20151214T144011Z">
+        <seg>PERFORATIONS (穿孔)：啟動穿孔裝置作動程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PERFORMANCE DEVIATION (Details to be agreed separately)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T114914Z">
@@ -57306,6 +57347,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRINTER: The machine is ready to install a printer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143739Z" creationid="Judy" creationdate="20151214T143739Z">
+        <seg>PRINTER (印表機)：機台已就緒安裝印表機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRINTING SIDE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T073836Z" creationid="Judy" creationdate="20151205T073836Z">
@@ -57374,6 +57423,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T030000Z">
         <seg>產品的領導地位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRODUCT LOADER: Activates the operation of the product loader system (horizontal auger filler)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143709Z" creationid="Judy" creationdate="20151214T143709Z">
+        <seg>PRODUCT LOADER (產品裝載機)：啟動產品裝載系統運作 (水平螺旋填料器)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57564,8 +57621,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PULLING JAWS: Activates the movement of the horizontal sealer jaws.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143312Z" creationid="Judy" creationdate="20151214T143312Z">
-        <seg>PULLING JAWS (抽拉夾頭)：啟動水平封裝機夾頭運動。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144025Z" creationid="Judy" creationdate="20151214T143312Z">
+        <seg>PULLING JAWS (抽拉夾頭)：啟動水平封裝機夾頭作動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60526,6 +60583,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressing the   tab gives access to more options on the screen, only the movement generated by the main motor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144229Z" creationid="Judy" creationdate="20151214T144229Z">
+        <seg>按下  鍵以顯示更多由主馬達驅動之運動的選項於畫面中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure Foot - Universal 5Y</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T070308Z">
@@ -62149,8 +62214,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>REJECT: Activates the movement of the reject ramp.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143443Z" creationid="Judy" creationdate="20151214T143443Z">
-        <seg>REJECT (退回)：啟動退回匝道運動。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144022Z" creationid="Judy" creationdate="20151214T143443Z">
+        <seg>REJECT (退回)：啟動退回匝道作動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65608,6 +65673,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SEALERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144524Z" creationid="Judy" creationdate="20151214T144524Z">
+        <seg>封裝機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SEALERS: Normally ON.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123821Z" creationid="Judy" creationdate="20151214T123803Z">
@@ -65980,6 +66053,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T120313Z" creationid="Judy" creationdate="20151212T120313Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SET UP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144453Z" creationid="Judy" creationdate="20151214T144453Z">
+        <seg>安裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -72999,8 +73080,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>TEAR NOTCH: This gives the release unit movement order.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143240Z" creationid="Judy" creationdate="20151214T143240Z">
-        <seg>TEAR NOTCH (撕裂口)：釋放單位運動順序。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144030Z" creationid="Judy" creationdate="20151214T143240Z">
+        <seg>TEAR NOTCH (撕裂口)：啟動釋放裝置作動程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83565,6 +83646,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This MENU screen shows the temperature (ºC) of the horizontal and vertical sealing jaws.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144623Z" creationid="Judy" creationdate="20151214T144617Z">
+        <seg>此功能表畫面中顯示水平和垂直封裝夾頭之溫度  (ºC)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Product/Process audit is performed based on the HUTCHINSON guidelines: HUT DQ FP1001.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150527T143800Z">
@@ -84035,6 +84124,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T141904Z">
         <seg>此功能會以特定顏色 (標準為綠色) 標示出螢幕畫面上的動作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This gives the movement order to the printer unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143810Z" creationid="Judy" creationdate="20151214T143810Z">
+        <seg>啟動印表機裝置作動程序，</seg>
       </tuv>
     </tu>
     <tu>
@@ -88200,6 +88297,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UP / DOWN: We can move up or down the pulling device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144409Z" creationid="Judy" creationdate="20151214T144409Z">
+        <seg>UP / DOWN (上/下)：可以向上或向下移動抽拉裝置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UPDATE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T121606Z" creationid="Judy" creationdate="20151212T121606Z">
@@ -91518,6 +91623,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T122921Z">
         <seg>水源對於支持永續發展各個層面的作用，已經獲得廣泛的認可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We activates selector by pressing without lifting the finger</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144450Z" creationid="Judy" creationdate="20151214T144450Z">
+        <seg>按住按不放以啟動選擇器。</seg>
       </tuv>
     </tu>
     <tu>
