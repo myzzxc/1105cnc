@@ -7056,6 +7056,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access is only given with a technician’s password.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150223Z" creationid="Judy" creationdate="20151214T150223Z">
+        <seg>僅能使用技術人員之密碼進入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access only using the technician's password.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132924Z" creationid="Judy" creationdate="20151214T132924Z">
@@ -32460,6 +32468,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From this screen the internal settings of the machine can be modified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150302Z" creationid="Judy" creationdate="20151214T150302Z">
+        <seg>透過此畫面可以修改機台之內部設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From this screen we will have access to see the production data.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144913Z" creationid="Judy" creationdate="20151214T144913Z">
@@ -52130,6 +52146,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never change a value if your knowledge of the equipment is limited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150333Z" creationid="Judy" creationdate="20151214T150333Z">
+        <seg>若不具備設備維修知識，請勿更改數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Never change if your knowledge of the equipment is limited.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091715Z" creationid="Judy" creationdate="20151214T091637Z">
@@ -66125,6 +66149,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132849Z" creationid="Judy" creationdate="20151214T132849Z">
         <seg>SETTING SERVOS (設定伺服)：進入此畫面前程式會要求輸入密碼，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SETTINGS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150138Z" creationid="Judy" creationdate="20151214T150138Z">
+        <seg>設定</seg>
       </tuv>
     </tu>
     <tu>
