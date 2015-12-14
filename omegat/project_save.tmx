@@ -7849,6 +7849,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust with the sealer nuts, couting nuts and shafts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163717Z" creationid="Judy" creationdate="20151214T163717Z">
+        <seg>調整封裝機螺母、計數器螺母和轉軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjusters 496 includes a first member 497 having an opening to receive bolt 492 and a threaded exterior surface and a second member 498 having an opening to receive bolt 492 and an interior threaded surface which is threadably engaged with the threaded exterior surface of first member 497.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T044433Z">
@@ -35203,6 +35211,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Horizontal sealer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163430Z" creationid="Judy" creationdate="20151214T163430Z">
+        <seg>水平封裝機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horizontal sealing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022600Z" creationid="Judy" creationdate="20151205T022600Z">
@@ -49454,10 +49470,26 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure it is vertically aligned on the central shaft of the stick formation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163405Z" creationid="Judy" creationdate="20151214T163405Z">
+        <seg>確保垂直直條包裝成形之中心軸對齊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure no alarm signal appears.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145057Z" creationid="Judy" creationdate="20151205T145057Z">
         <seg>確保沒有出現警報訊號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure that it is fixed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163422Z" creationid="Judy" creationdate="20151214T163422Z">
+        <seg>並確定已固定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69007,6 +69039,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See maintenance manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163730Z" creationid="Judy" creationdate="20151214T163730Z">
+        <seg>請參閱維修手冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See manual “touch screen”.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081731Z" creationid="Judy" creationdate="20151205T081731Z">
@@ -78688,6 +78728,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The grooves of the horizontal sealer must be aligned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163458Z" creationid="Judy" creationdate="20151214T163458Z">
+        <seg>水平封裝機之凹槽必須對齊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ground wire must be connected to the protective grounding screw marked with PE and the symbol.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T050841Z" creationid="Judy" creationdate="20151128T050841Z">
@@ -80750,6 +80798,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083522Z" creationid="Judy" creationdate="20151205T083522Z">
         <seg>封裝機必須達到最低工作溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sealers surface has engraved crests that must come together when the front and rear sealer are joined.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163628Z" creationid="Judy" creationdate="20151214T163628Z">
+        <seg>封裝機表面具有凹槽，當前後封裝機閉合時凹槽必須密合。</seg>
       </tuv>
     </tu>
     <tu>
