@@ -24611,8 +24611,8 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>EYE MARK: Normally ON.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125042Z" creationid="Judy" creationdate="20151214T125042Z">
-        <seg>EYE MARK (): Normally ON.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125121Z" creationid="Judy" creationdate="20151214T125042Z">
+        <seg>EYE MARK (檢測標記)：通常為開，</seg>
       </tuv>
     </tu>
     <tu>
@@ -53206,6 +53206,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OFF can be used to make adjustments for the first time at the beginning of the productive cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125221Z" creationid="Judy" creationdate="20151214T125221Z">
+        <seg>進行第一次生產循環起始調整時可關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OFF is displayed in number of turns or laps (nr x 1000).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T114836Z" creationid="Judy" creationdate="20151214T114554Z">
@@ -66449,6 +66457,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STICK HOLDER: Normally ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125319Z" creationid="Judy" creationdate="20151214T125319Z">
+        <seg>STICK HOLDER (直條包裝固定器)：通常為開，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STICK PRODUCTION MAINTENANCE AND GUIDE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145500Z" creationid="Judy" creationdate="20151213T145500Z">
@@ -67858,6 +67874,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144743Z" creationid="Judy" creationdate="20151205T144743Z">
         <seg>請見</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See 1.8.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125242Z" creationid="Judy" creationdate="20151214T125242Z">
+        <seg>請參閱手冊 1.8.1. 節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91740,8 +91764,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>When OFF, the operation of this unit is turned off.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124848Z" creationid="Judy" creationdate="20151214T124848Z">
-        <seg>當關閉時，該機組之運行將會關閉，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125323Z" creationid="Judy" creationdate="20151214T124848Z">
+        <seg>當關閉時，該機組之運行將會關閉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -96761,6 +96785,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T133454Z" creationid="Judy" creationdate="20151207T133454Z">
         <seg>第一進氣口位置接近驅動元件而第二進氣口位置接近被驅動元件，第一進氣口和第二進氣口皆與第二空氣進氣系統連接以接收來自第二空氣進氣系統之空氣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of the manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125248Z" creationid="Judy" creationdate="20151214T125248Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
