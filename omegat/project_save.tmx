@@ -23830,6 +23830,14 @@ REJECT (退回)：啟動退回程序。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dosing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234222Z" creationid="Judy" creationdate="20151214T234222Z">
+        <seg>填料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double Band</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151126T144730Z" creationid="Judy" creationdate="20151126T144730Z">
@@ -29142,6 +29150,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Faulty reel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234138Z" creationid="Judy" creationdate="20151214T234138Z">
+        <seg>卷筒故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faulty sealing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023205Z" creationid="Judy" creationdate="20151205T023150Z">
@@ -31046,6 +31062,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150614T063230Z">
         <seg>使用規範檢查器或透過另存為 PDF/A 指令修復不符合 PDF/A 規範問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix once more with the compressed air inlet inside.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234127Z" creationid="Judy" creationdate="20151214T234127Z">
+        <seg>再次於壓縮空氣入口注入空氣以固定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49762,6 +49786,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T070243Z" creationid="Judy" creationdate="20151205T070243Z">
         <seg>確保卷筒無法側向移動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the reel has no fault from manufacture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234203Z" creationid="Judy" creationdate="20151214T234203Z">
+        <seg>請確保卷筒沒有故障製造缺陷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83972,6 +84004,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There may be a problem in the dosing or dosage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234312Z" creationid="Judy" creationdate="20151214T234312Z">
+        <seg>填料或填料量可能有問題，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There must be a SAI alarm input programmed to alarm message be displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T154744Z" creationid="Judy" creationdate="20151206T154744Z">
@@ -89189,6 +89229,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232746Z" creationid="Judy" creationdate="20151214T232746Z">
         <seg>箔片開卷不均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNEVEN PRODUCT DOSING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234205Z" creationid="Judy" creationdate="20151214T234205Z">
+        <seg>產品給料不均</seg>
       </tuv>
     </tu>
     <tu>
