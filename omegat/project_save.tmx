@@ -6325,6 +6325,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTO: ON Mixer turn impulses together with the turn of the screw.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132458Z" creationid="Judy" creationdate="20151214T132407Z">
+        <seg>AUTO (自動)：開啟時將會間歇性轉動螺桿以帶動混合器轉動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMATIC</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164912Z" creationid="Judy" creationdate="20151212T164912Z">
@@ -16875,6 +16883,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T020859Z">
         <seg>選擇存檔位置、輸入檔案名稱並儲存轉換檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose according to product testing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132011Z" creationid="Judy" creationdate="20151214T132011Z">
+        <seg>根據產品測試選擇，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44097,6 +44113,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has two keys:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132035Z" creationid="Judy" creationdate="20151214T132035Z">
+        <seg>其包含兩個按鍵：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It indicates the packs number which the calculated correction must be distributed in.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T015129Z" creationid="Judy" creationdate="20151212T014704Z">
@@ -47729,6 +47753,22 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T064644Z" creationid="Judy" creationdate="20151212T064644Z">
         <seg>執行靜態調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MAN / AUTO: Both on OFF the mixer blades do not work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132539Z" creationid="Judy" creationdate="20151214T132452Z">
+        <seg>MAN / AUTO (手動 / 自動)：兩按鈕皆關閉時，混合器刀片不運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MAN: ON mixer rotates continuously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132436Z" creationid="Judy" creationdate="20151214T132436Z">
+        <seg>MAN (手動)：開啟時混合器將會持續轉動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53274,6 +53314,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125221Z" creationid="Judy" creationdate="20151214T125221Z">
         <seg>進行第一次生產循環起始調整時可關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OFF disconnects the operation of the dust exhaust system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131921Z" creationid="Judy" creationdate="20151214T131921Z">
+        <seg>當關閉時，排塵系統將會停止運行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66561,6 +66609,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STIRRER: Determines the working mode of the blade.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132002Z" creationid="Judy" creationdate="20151214T132002Z">
+        <seg>STIRRER  (攪拌器)：決定刀片之工作模式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STND</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162315Z" creationid="Judy" creationdate="20151212T162315Z">
@@ -72841,6 +72897,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033229Z" creationid="Judy" creationdate="20151212T033229Z">
         <seg>箱重測試限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEST: A test dose of one of the dosing system can be done manually, the machine must be stopped and the dispenser activated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131800Z" creationid="Judy" creationdate="20151214T131800Z">
+        <seg>TEST (測試)：手動測試其中一組給料系統之給料量，機台必須停止而給料機處於啟動狀態，</seg>
       </tuv>
     </tu>
     <tu>
@@ -86109,6 +86173,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To do this press ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131846Z" creationid="Judy" creationdate="20151214T131846Z">
+        <seg>按下開啟按鈕以進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To do this remove the fixation screws.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051524Z" creationid="Judy" creationdate="20151214T051524Z">
@@ -97011,6 +97083,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T033235Z">
         <seg>或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or 3333 (3,333 laps)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131618Z" creationid="Judy" creationdate="20151214T131618Z">
+        <seg>或 3333 (3,333 圈)。</seg>
       </tuv>
     </tu>
     <tu>
