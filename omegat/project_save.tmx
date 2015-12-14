@@ -24626,6 +24626,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXIT BELT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151144Z" creationid="Judy" creationdate="20151214T151144Z">
+        <seg>出口皮帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXIT BELT: By pressing it turns ON or OFF.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122551Z" creationid="Judy" creationdate="20151214T122551Z">
@@ -24758,6 +24766,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125709Z" creationid="Judy" creationdate="20151214T125709Z">
         <seg>EYE MARK FAILURE (檢測標記故障) (檢測警報)：通常為開，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EYE MARK FAILURE: Number of errors the spot photocell can withstand before stopping the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151022Z" creationid="Judy" creationdate="20151214T151022Z">
+        <seg>EYE MARK FAILURE (檢測標記故障)：光電感應器偵測到最大錯誤數量，超過此數值將會關閉機台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28233,6 +28249,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080821Z" creationid="Judy" creationdate="20151212T080821Z">
         <seg>超出填料器限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FILM ALIGNEMENT: Number of cycles when the aligner does not correctly detect the correct position of the laminate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151140Z" creationid="Judy" creationdate="20151214T151140Z">
+        <seg>FILM ALIGNEMENT (箔片對位)：對位器未偵測到箔片正確位置的循環次數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77391,6 +77415,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The criterion of the screen is similar to that of the "servo-motor machine".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151311Z" creationid="Judy" creationdate="20151214T151311Z">
+        <seg>畫面中的標準類似於「伺服馬達裝置」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The current Shield has a Power over Ethernet (PoE) module designed to extract power from a conventional twisted pair Category 5 Ethernet cable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T022927Z">
@@ -91871,6 +91903,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150501Z" creationid="Judy" creationdate="20151214T150501Z">
         <seg>可取得同步各個電力/氣動驅動的編碼器資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can enter parameters that determine the movement of the stick transfer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151221Z" creationid="Judy" creationdate="20151214T151221Z">
+        <seg>可以輸入決定直條包裝輸送運動之參數。</seg>
       </tuv>
     </tu>
     <tu>
