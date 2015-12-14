@@ -7048,6 +7048,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access: A special key is required to obtain access to the interior.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091104Z" creationid="Judy" creationdate="20151214T091104Z">
+        <seg>進入機台：須使用特殊鑰匙以進入機台內部，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accessibility Compliance Checking and Correction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150606T122814Z">
@@ -54295,6 +54303,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only maintenance staff are allowed access.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091139Z" creationid="Judy" creationdate="20151214T091139Z">
+        <seg>只有維修人員能進入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only one can be used at a time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024049Z">
@@ -68295,6 +68311,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensors: The interior sensors prevent drive movement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091216Z" creationid="Judy" creationdate="20151214T091216Z">
+        <seg>感應器：內部感應器能避免驅動作動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Separate the sealing jaws.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081817Z" creationid="Judy" creationdate="20151214T081807Z">
@@ -77047,6 +77071,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The key is held by the maintenance staff.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091122Z" creationid="Judy" creationdate="20151214T091122Z">
+        <seg>鑰匙由維修人員保管，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The kit also allows for custom configurations for SharePoint and other connectors, and Read Only Mode to enforce compliance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T122600Z">
@@ -81347,6 +81379,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Their location is designed to avoid impact.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091245Z" creationid="Judy" creationdate="20151214T091245Z">
+        <seg>其位置之設計能避免撞擊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their replacement by any other equivalent means may only be done if HUTCHINSON agrees in writing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T020718Z">
@@ -83701,6 +83741,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T025827Z">
         <seg>如有必要，此確保交貨計畫定義供應商保證於所有情況下，履行 HUTCHINSON 供貨要求的安全庫存 （數值、管理方法）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This sensor should never be cancelled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091327Z" creationid="Judy" creationdate="20151214T091327Z">
+        <seg>請勿取消感應器之功能。</seg>
       </tuv>
     </tu>
     <tu>
