@@ -11675,6 +11675,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic lubrication pump</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T090959Z" creationid="Judy" creationdate="20151214T090959Z">
+        <seg>自動潤滑泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic product updates turned off</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T022609Z">
@@ -30693,6 +30701,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T145543Z">
         <seg>對於工程師，很容易因為系統元件而分散注意力，因為他們占了大部分的設計工作且決定了系統的成本，但接口決定了系統的效能、風險和價值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For any interior cleaning or maintenance turn off the electrical and pneumatical switches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T090938Z" creationid="Judy" creationdate="20151214T090938Z">
+        <seg>進行任何內部清潔或維護作業請關閉氣動和電動開關，</seg>
       </tuv>
     </tu>
     <tu>
@@ -68495,6 +68511,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Servo motor of pulling device</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091012Z" creationid="Judy" creationdate="20151214T091012Z">
+        <seg>抽拉裝置伺服馬達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Servo-motor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023114Z" creationid="Judy" creationdate="20151205T023114Z">
@@ -77363,6 +77387,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T153259Z">
         <seg>驗證改正行動、資金和解決行動成效之措施必須於發出投訴後 1 個月內回報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mechanical and pneumatic settings of the parts placed inside the machine, must be performed by a specialist technician.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T090917Z" creationid="Judy" creationdate="20151214T090917Z">
+        <seg>機台內部之機械和氣動零件之設置必須由專業技術人員進行，</seg>
       </tuv>
     </tu>
     <tu>
@@ -88846,6 +88878,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022552Z" creationid="Judy" creationdate="20151205T022552Z">
         <seg>垂直封裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical sealing device</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T090949Z" creationid="Judy" creationdate="20151214T090949Z">
+        <seg>垂直封裝裝置</seg>
       </tuv>
     </tu>
     <tu>
