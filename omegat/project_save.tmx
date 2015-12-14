@@ -15670,6 +15670,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CUT: By pressing it turns ON or OFF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122720Z" creationid="Judy" creationdate="20151214T122720Z">
+        <seg>CUT (切割)：點擊按鈕能開啟或關閉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CUTTING ELEMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043047Z" creationid="Judy" creationdate="20151206T043047Z">
@@ -24429,6 +24437,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162925Z" creationid="Judy" creationdate="20151212T162925Z">
         <seg>出口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXIT BELT: By pressing it turns ON or OFF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122551Z" creationid="Judy" creationdate="20151214T122551Z">
+        <seg>EXIT BELT (出口皮帶)：點擊按鈕能開啟或關閉，</seg>
       </tuv>
     </tu>
     <tu>
@@ -41497,6 +41513,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It activates or deactivates the exit belt, from the operation of the rest of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122703Z" creationid="Judy" creationdate="20151214T122703Z">
+        <seg>能由機台其它部分的操作啟動或停用出口皮帶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows Event reports to be exported.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142253Z">
@@ -44229,6 +44253,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T123632Z" creationid="Judy" creationdate="20151129T123613Z">
         <seg>其置於檢重機末端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is possible that the number of turns is not the same per track according to the test made (dosing settings).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122512Z" creationid="Judy" creationdate="20151214T122500Z">
+        <seg>每條軌道的轉速可能一測試結果而有所不同 (給料設定)。</seg>
       </tuv>
     </tu>
     <tu>
