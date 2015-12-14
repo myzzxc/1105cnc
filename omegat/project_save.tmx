@@ -19513,6 +19513,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contact the manufacturer if wear is noted in its operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T092157Z" creationid="Judy" creationdate="20151214T092157Z">
+        <seg>若其運轉中發現有磨損，請與製造商聯繫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contact:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150704T050053Z">
@@ -33220,8 +33228,8 @@ HD 記憶體數位攝影機</seg>
       <tuv lang="EN-US">
         <seg>Grease needs to be visible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091846Z" creationid="Judy" creationdate="20151214T091846Z">
-        <seg>必須能看見潤滑脂，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091953Z" creationid="Judy" creationdate="20151214T091846Z">
+        <seg>須能看見潤滑脂，</seg>
       </tuv>
     </tu>
     <tu>
@@ -47157,6 +47165,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lubrication”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T092023Z" creationid="Judy" creationdate="20151214T092010Z">
+        <seg>潤滑」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MAC ADRESS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T064410Z" creationid="Judy" creationdate="20151213T064410Z">
@@ -57683,6 +57699,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay special attention to handling the servo-motors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T092226Z" creationid="Judy" creationdate="20151214T092226Z">
+        <seg>操作伺服馬達需特別注意，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Peab is one of the largest contractors in Europe’s Nordic region for building and home construction.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150927T150627Z">
@@ -67334,6 +67358,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Simalube’s manual on CD.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T092100Z" creationid="Judy" creationdate="20151214T092100Z">
+        <seg>請見光碟中之 Simalube 使用手冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See application file for complete search history.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T023033Z">
@@ -67346,6 +67378,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T134639Z">
         <seg>請參見以下的詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See chapter "2.6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T092006Z" creationid="Judy" creationdate="20151214T092006Z">
+        <seg>請見章節 「2.6. </seg>
       </tuv>
     </tu>
     <tu>
@@ -68619,6 +68659,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023114Z" creationid="Judy" creationdate="20151205T023114Z">
         <seg>伺服馬達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servo-motor maintenance: The servo-motors are fitted with brakes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T092128Z" creationid="Judy" creationdate="20151214T092128Z">
+        <seg>伺服馬達維修：伺服馬達裝有刹車，</seg>
       </tuv>
     </tu>
     <tu>
