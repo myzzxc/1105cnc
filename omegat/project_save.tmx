@@ -71128,6 +71128,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switch down the main air input.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T070517Z" creationid="Judy" creationdate="20151214T070517Z">
+        <seg>關閉主空氣輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Synchro MD / XR: (Only MD / XR): Synchronism of MD, whether with pack step detection (photocell) or with weight elaboration (weight).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T130836Z" creationid="Judy" creationdate="20151208T130836Z">
