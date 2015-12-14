@@ -7040,6 +7040,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access only using the technician's password.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132924Z" creationid="Judy" creationdate="20151214T132924Z">
+        <seg>僅能使用技術人員之密碼進入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access passwords and alarm devices, and the surveillance client computers are stored with encryption.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151011T105249Z">
@@ -40591,6 +40599,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indicated in rpm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T133140Z" creationid="Judy" creationdate="20151214T133140Z">
+        <seg>單位為 rpm (每分鐘轉數)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indicates the correction top when negative corrections are made.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T153139Z" creationid="Judy" creationdate="20151129T153139Z">
@@ -69435,6 +69451,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T091012Z" creationid="Judy" creationdate="20151214T091012Z">
         <seg>抽拉裝置伺服馬達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servo speed: In the white box we will enter the individual turning speeds of the endless screws.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T133104Z" creationid="Judy" creationdate="20151214T133104Z">
+        <seg>Servo speed (伺服速度)：白色方塊中輸入轉軸螺桿的個別轉速，</seg>
       </tuv>
     </tu>
     <tu>
