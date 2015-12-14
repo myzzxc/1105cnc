@@ -8723,6 +8723,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All movements may be turned off by pressing on their button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T134400Z" creationid="Judy" creationdate="20151214T134400Z">
+        <seg>所有動作都能藉由點擊按鈕而關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of the Powerful Features Enterprises Need With an Interface Users Already Know</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T131831Z">
@@ -36731,6 +36739,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the machine is working, none of these selectors can be activated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T134237Z" creationid="Judy" creationdate="20151214T134237Z">
+        <seg>若機台運行中，以上選擇器皆不能啟動，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the model is messed up, then the algorithm can’t decide what is a foreground pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T104641Z">
@@ -45420,8 +45436,8 @@ or artistic work embodied therein.</seg>
       <tuv lang="EN-US">
         <seg>JOG: (activation/deactivation time intervals).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T134151Z" creationid="Judy" creationdate="20151214T134037Z">
-        <seg>JOG (持續)：(啟動/停止一段時間)，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T134200Z" creationid="Judy" creationdate="20151214T134037Z">
+        <seg>JOG (持續)：(一段時間內啟動/停止)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -76630,6 +76646,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The buttons will automatically be turned off by leaving this screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T134457Z" creationid="Judy" creationdate="20151214T134457Z">
+        <seg>離開此畫面時將會自動關閉按鈕，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cage sections are shown connected at connection joints 230 and 232.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151023T124009Z">
@@ -78347,6 +78371,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062238Z" creationid="Judy" creationdate="20151205T062238Z">
         <seg>機台啟動步驟如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The machine must be at rest for these buttons to be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T134318Z" creationid="Judy" creationdate="20151214T134316Z">
+        <seg>必須於機器停止時方能使用以上按鈕。</seg>
       </tuv>
     </tu>
     <tu>
