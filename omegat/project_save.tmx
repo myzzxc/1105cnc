@@ -15680,8 +15680,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>CUT  /  STRINGS: Turn ON as one pleases.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124311Z" creationid="Judy" creationdate="20151214T124311Z">
-        <seg>CUT  /  STRINGS (切割 / 繩)：依所需開啟，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124431Z" creationid="Judy" creationdate="20151214T124311Z">
+        <seg>CUT  /  STRINGS (切割 / 串連)：依所需開啟，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16185,8 +16185,16 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Chain of indefinitely number of sticks without perforation and without cutting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124405Z" creationid="Judy" creationdate="20151214T124405Z">
-        <seg>無限量的直條包裝鏈Chain of indefinitely number of sticks without perforation and without cutting.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124501Z" creationid="Judy" creationdate="20151214T124405Z">
+        <seg>無限量的直條包裝鏈，不打孔且不切割，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chain with number determined, perforation and cutting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124547Z" creationid="Judy" creationdate="20151214T124547Z">
+        <seg>指定數量的直條包裝鏈，打孔並切割，</seg>
       </tuv>
     </tu>
     <tu>
@@ -69207,6 +69215,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set OFF + OFF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124513Z" creationid="Judy" creationdate="20151214T124513Z">
+        <seg>設定 OFF + OFF。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set ON + OFF, or ON + ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124558Z" creationid="Judy" creationdate="20151214T124558Z">
+        <seg>設定 ON + OFF 或 ON + ON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set a target location.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T025611Z">
@@ -70982,6 +71006,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031446Z" creationid="Judy" creationdate="20151206T031446Z">
         <seg>直條包裝重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sticks cut to units.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124719Z" creationid="Judy" creationdate="20151214T124719Z">
+        <seg>直條包裝切割成單位，</seg>
       </tuv>
     </tu>
     <tu>
@@ -76194,6 +76226,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T141748Z">
         <seg>標示"Reset"之按鈕與Arduino重置針腳相連，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The button “stick in strings” dominates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124654Z" creationid="Judy" creationdate="20151214T124654Z">
+        <seg>取決於「stick in strings (直條包裝串連)」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
