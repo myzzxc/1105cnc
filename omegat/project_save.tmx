@@ -24569,6 +24569,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each of the machine’s mechanisms is associated with certain degrees of the encoder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T111546Z" creationid="Judy" creationdate="20151214T111546Z">
+        <seg>機台的每個機對應至編碼器的特定角度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each output box contains a brief description of the output type.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104718Z" creationid="Judy" creationdate="20151206T104718Z">
@@ -24988,8 +24996,8 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>Electronic synchronisation or ENCODER: The stickpack machine phase control is done with the encoder.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T111313Z" creationid="Judy" creationdate="20151214T111313Z">
-        <seg>Electronic synchronisation or ENCODER (電子同步或編碼器)：直條包裝機編碼器進行相位控制，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T111742Z" creationid="Judy" creationdate="20151214T111313Z">
+        <seg>電子同步或編碼器 (Electronic synchronisation or ENCODER )：直條包裝機編碼器進行相位控制，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30869,6 +30877,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T140358Z">
         <seg>詳細資訊請參閱參考資訊和教學。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each cycle the machine turns through 0º to 359º.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T111448Z" creationid="Judy" creationdate="20151214T111448Z">
+        <seg>機台每循環由 0 º 轉至 359º，</seg>
       </tuv>
     </tu>
     <tu>
@@ -76186,6 +76202,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T155528Z">
         <seg>壓花輪另行販售，藉由精密推入固定機構可輕鬆更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The creates the machine’s synchronisation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T111608Z" creationid="Judy" creationdate="20151214T111608Z">
+        <seg>使機台同步。</seg>
       </tuv>
     </tu>
     <tu>
