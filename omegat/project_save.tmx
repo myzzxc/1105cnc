@@ -36219,6 +36219,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the sealer is seen to be uneven in any area, it may be due to misalignment in the part sealer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051854Z" creationid="Judy" creationdate="20151214T051854Z">
+        <seg>若封裝機任何部分未均勻對齊，可能是封裝機部分未對齊所造成，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the sealers lose fixture, they can cause defective sealing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160343Z" creationid="Judy" creationdate="20151213T160343Z">
@@ -77075,6 +77083,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150527T023741Z">
         <seg>最低要求等級如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The misalignment may be of the front sealers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051935Z" creationid="Judy" creationdate="20151214T051935Z">
+        <seg>未對齊的部份可能封裝機前部。</seg>
       </tuv>
     </tu>
     <tu>
