@@ -16279,6 +16279,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check that the marks left on the white paper are the same on each area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071533Z" creationid="Judy" creationdate="20151214T071533Z">
+        <seg>檢查在白紙上的痕跡於兩邊皆相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check that the spot is at the ends of the stick.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T083058Z" creationid="Judy" creationdate="20151205T083058Z">
@@ -36827,6 +36835,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you need to add more pressure, the distance between the counternut and the nut must be increased.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071744Z" creationid="Judy" creationdate="20151214T071744Z">
+        <seg>若需增加更多的壓力，必須增加對向螺母和螺母之間的距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you need to manipulate the pneumatic circuit, the machine has a manual device for locking the general air inlet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T084928Z" creationid="Judy" creationdate="20151128T084928Z">
@@ -54167,6 +54183,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open jaws and check the pressure they have done on the white paper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071500Z" creationid="Judy" creationdate="20151214T071500Z">
+        <seg>打開夾頭並檢查施加於白紙上的壓力，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open or save to Box, Google Docs, Office 365, DropBox, and several on-premise DMS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T063707Z">
@@ -54781,6 +54805,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T033658Z">
         <seg>有些公司想要提供多種不同的產品或服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise this will show where the jaws are doing more or less pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071705Z" creationid="Judy" creationdate="20151214T071705Z">
+        <seg>若壓痕不對稱，代表及夾頭壓力過高或過低，</seg>
       </tuv>
     </tu>
     <tu>
