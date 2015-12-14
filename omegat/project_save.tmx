@@ -5370,6 +5370,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A value may never be changed, except by personnel with sufficient knowledge.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151410Z" creationid="Judy" creationdate="20151214T151410Z">
+        <seg>若不具有足夠知識，請勿變更數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A vehicle may include a CVT unit or a power source which requires ambient air.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T083202Z">
@@ -5902,6 +5910,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T053337Z" creationid="Judy" creationdate="20151212T053337Z">
         <seg>平均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ALARM LOG</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151449Z" creationid="Judy" creationdate="20151214T151449Z">
+        <seg>警報日誌</seg>
       </tuv>
     </tu>
     <tu>
@@ -8755,6 +8771,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of the alarms given in production are recorded on this page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151529Z" creationid="Judy" creationdate="20151214T151529Z">
+        <seg>生產中所有警報皆記錄於此頁面中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of the biggest and most successful Consumer Goods businesses have recently been through operating model transformation programs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T131953Z">
@@ -8912,6 +8936,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150325T195010Z">
         <seg>由製造商進行的所有測試皆應由ITEA見證符合此標準12.1之規範要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All text data appearing on the screens can be seen in several languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151635Z" creationid="Judy" creationdate="20151214T151635Z">
+        <seg>可設定多種畫面顯示之文字語言，</seg>
       </tuv>
     </tu>
     <tu>
@@ -36380,6 +36412,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If in doubt, consult ARANOW´s technical service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151423Z" creationid="Judy" creationdate="20151214T151423Z">
+        <seg>若有任何疑問，請聯繫 ARANOW 技術服務中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If in static mode the checkweigher is weighing well but not in dynamic mode, it will be necessary to check whether the graph on section Dynamic Analysis is well centred, according to the initial and final times.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113923Z" creationid="Judy" creationdate="20151211T113849Z">
@@ -45999,6 +46039,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LANGUAGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151552Z" creationid="Judy" creationdate="20151214T151552Z">
+        <seg>語言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LANGUAGE:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032857Z" creationid="Judy" creationdate="20151212T032857Z">
@@ -54548,6 +54596,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T151603Z">
         <seg>於此頁面中上可選擇 Add (增加)、 Edit (編輯) 或 Delete (刪除) 家的詳細資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On this screen we can change password.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151446Z" creationid="Judy" creationdate="20151214T151446Z">
+        <seg>此畫面可進行密碼變更。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69707,6 +69763,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
         <seg>Serious damage can occur when incorrect values are used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150344Z" creationid="Judy" creationdate="20151214T150344Z">
+        <seg>若使用不正確的數值可能會發生嚴重損傷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serious damage can occur when using incorrect values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151415Z" creationid="Judy" creationdate="20151214T151415Z">
         <seg>若使用不正確的數值可能會發生嚴重損傷。</seg>
       </tuv>
     </tu>
@@ -91943,6 +92007,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T134215Z">
         <seg>此時能將介於 1m2 和 2m2 之間的物體視為人，而介於 3m2 和 5m2 之間的物體視為車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can view the time, the date and the type of alarm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151550Z" creationid="Judy" creationdate="20151214T151550Z">
+        <seg>可檢視警報時間、日期和類型。</seg>
       </tuv>
     </tu>
     <tu>
