@@ -24818,6 +24818,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXTRA PULLING LENGTH: This length is usually between 2 and 30 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153233Z" creationid="Judy" creationdate="20151214T153233Z">
+        <seg>EXTRA PULLING LENGTH (額外抽取長度)：此長度通常介於 2 至 30 毫米之間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXTRA SUPERVISORY SERVICES (as requested by the Purchaser in writing)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T142022Z">
@@ -77823,6 +77831,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The distance corresponds to the stroke of the pull during which the horizontal jaws are closed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153132Z" creationid="Judy" creationdate="20151214T153132Z">
+        <seg>該距離為當水平夾頭閉合時抽取之行程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The distance corresponds to the stroke of the pull during which the horizontal jaws are open.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153252Z" creationid="Judy" creationdate="20151214T153252Z">
+        <seg>該距離為當水平夾頭打開時抽取之行程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The diverter being associated with the base portion.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T144443Z">
@@ -81358,6 +81382,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151112T135451Z">
         <seg>阻尼元件於上投影圖中的中心線與第一懸吊軸上投影圖中的中心線之夾角整體上垂直。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The total drag movement length is hidden.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153358Z" creationid="Judy" creationdate="20151214T153358Z">
+        <seg>完整抽取運動長度不可見，</seg>
       </tuv>
     </tu>
     <tu>
