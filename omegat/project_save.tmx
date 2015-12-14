@@ -12748,6 +12748,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be careful when handling the sealer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081446Z" creationid="Judy" creationdate="20151214T081440Z">
+        <seg>處理封裝機時請小心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bearing carrier 536 includes an opening 538 through which one of the half shafts 150 is coupled to wheels 104.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151108T073156Z">
@@ -13160,6 +13168,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T145918Z" creationid="Judy" creationdate="20151213T145918Z">
         <seg>刀片組位置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blades substitution: Proceed with caution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081526Z" creationid="Judy" creationdate="20151214T081526Z">
+        <seg>更換刀片：請小心進行操作，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16826,8 +16842,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>Cleaning: The horizontal cut blades are in the rear sealer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081251Z" creationid="Judy" creationdate="20151214T081251Z">
-        <seg>清潔：橫向切割的刀片是在後方封口機。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081329Z" creationid="Judy" creationdate="20151214T081251Z">
+        <seg>清潔：水平切割刀片位於封裝機後方，</seg>
       </tuv>
     </tu>
     <tu>
@@ -59438,6 +59454,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press stop and then emergency stop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081627Z" creationid="Judy" creationdate="20151214T081618Z">
+        <seg>按下停止按鈕後再按下緊急停止開關，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press test button ...</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030853Z" creationid="Judy" creationdate="20151212T030853Z">
@@ -81852,6 +81876,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are fragile.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081355Z" creationid="Judy" creationdate="20151214T081355Z">
+        <seg>刀片很脆弱，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are important for the operating system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054414Z" creationid="Judy" creationdate="20151206T054414Z">
@@ -85302,6 +85334,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To substitute the blade, moving the front sealers will be needed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081610Z" creationid="Judy" creationdate="20151214T081610Z">
+        <seg>更換刀片需移動前封裝機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To support large enterprises Power PDF comes with a Custom Installation &amp; Deployment Kit that makes it easy to maintain enterprise-level data governance and control.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T122254Z">
@@ -87395,8 +87435,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Use the bronze brush supplied.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160020Z" creationid="Judy" creationdate="20151213T160020Z">
-        <seg>使用原廠提供之銅刷，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081457Z" creationid="Judy" creationdate="20151213T160020Z">
+        <seg>使用原廠提供之銅刷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90014,6 +90054,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T081832Z" creationid="Judy" creationdate="20151205T081832Z">
         <seg>將進行一些空包裝運轉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wear gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081452Z" creationid="Judy" creationdate="20151214T081444Z">
+        <seg>配戴手套，</seg>
       </tuv>
     </tu>
     <tu>
