@@ -48005,6 +48005,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MENU</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123206Z" creationid="Judy" creationdate="20151214T123206Z">
+        <seg>功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MENU and SETTING: It gives access to other main screens.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122925Z" creationid="Judy" creationdate="20151214T122925Z">
@@ -65272,6 +65280,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SELECTORS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123359Z" creationid="Judy" creationdate="20151214T123332Z">
+        <seg>SELECTORS (選擇器)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SEND ALERTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T150905Z" creationid="Judy" creationdate="20151212T150905Z">
@@ -65524,6 +65540,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T120313Z" creationid="Judy" creationdate="20151212T120313Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SETTINGS is limited according to the access configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123127Z" creationid="Judy" creationdate="20151214T123127Z">
+        <seg>設定根據存取設置而有所限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82163,6 +82187,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There follow the details of each of the functions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123329Z" creationid="Judy" creationdate="20151214T123329Z">
+        <seg>以下為各個功能的詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There follows a brief description of the operation:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061634Z" creationid="Judy" creationdate="20151205T061634Z">
@@ -84269,6 +84301,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T140802Z" creationid="Judy" creationdate="20151210T140802Z">
         <seg>此畫面顯示伺服資料，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen gives access to the options shown on the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123307Z" creationid="Judy" creationdate="20151214T123307Z">
+        <seg>此畫面中提供進入顯示於螢幕上之選項的連結，</seg>
       </tuv>
     </tu>
     <tu>
@@ -90350,6 +90390,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T040816Z" creationid="Judy" creationdate="20151212T040816Z">
         <seg>工作模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WORK: To return to the work screen, press on the work  logo.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123204Z" creationid="Judy" creationdate="20151214T123204Z">
+        <seg>WORK (工作)：要回到工作畫面，點擊工作   按鈕。</seg>
       </tuv>
     </tu>
     <tu>
