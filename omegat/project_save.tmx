@@ -21826,6 +21826,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DUST EXHAUST: Normal is ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125359Z" creationid="Judy" creationdate="20151214T125359Z">
+        <seg>DUST EXHAUST (排塵)：通常為開，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DVD Drive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20131113T080226Z">
@@ -24497,6 +24505,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXIT BELT: Normally ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125602Z" creationid="Judy" creationdate="20151214T125602Z">
+        <seg>EXIT BELT (出口皮帶)：通常為開。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXPANDABLE REEL AXIS – Reel change” in this manual.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T033401Z" creationid="Judy" creationdate="20151206T033217Z">
@@ -24605,6 +24621,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T142022Z">
         <seg>額外監工服務 (按買方以書面形式之要求)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EYE MARK FAILURE (SPOT ALARM): Normally ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125709Z" creationid="Judy" creationdate="20151214T125709Z">
+        <seg>EYE MARK FAILURE (檢測標記故障) (檢測警報)：通常為開，</seg>
       </tuv>
     </tu>
     <tu>
@@ -66585,6 +66609,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STRINGS: See explanation on CUT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125631Z" creationid="Judy" creationdate="20151214T125631Z">
+        <seg>STRINGS (串連)：請見切割之說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STROKE LIMIT of UNWINDER ALIGNEMENT MOTOR (unwind.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T055048Z" creationid="Judy" creationdate="20151206T055029Z">
@@ -91770,6 +91802,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When OFF, the operation of this unit turned off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125606Z" creationid="Judy" creationdate="20151214T125606Z">
+        <seg>當關閉時，該機組之運行將會關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When Reader mode is off, you can select each desired item of functionality one by one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T100143Z">
@@ -97487,6 +97527,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150529T015530Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the operation of this unit is turned off (aspiration cut).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125539Z" creationid="Judy" creationdate="20151214T125539Z">
+        <seg>關閉時此裝置之運行將會關閉 (吸取切屑)。</seg>
       </tuv>
     </tu>
     <tu>
