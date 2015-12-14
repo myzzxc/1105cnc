@@ -13156,6 +13156,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blade of tear notch</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082322Z" creationid="Judy" creationdate="20151214T082322Z">
+        <seg>撕裂口刀片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blade oscillation and tangential control ensures that the cutting blade delivers accurate cuts even on thicker materials without excessive over cut.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T135923Z">
@@ -16852,6 +16860,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162210Z" creationid="Judy" creationdate="20151213T162135Z">
         <seg>清潔：若封裝機故障，可能為封裝器髒汙所造成，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cleaning: Periodically make sure this unit is clean.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082512Z" creationid="Judy" creationdate="20151214T082512Z">
+        <seg>清潔：請定期清洗以確保裝置清潔，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22561,6 +22577,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125742Z" creationid="Judy" creationdate="20151212T125742Z">
         <seg>目錄完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dirt may interfere with the movement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082529Z" creationid="Judy" creationdate="20151214T082529Z">
+        <seg>污垢可能會影響作動，</seg>
       </tuv>
     </tu>
     <tu>
@@ -48421,6 +48445,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the surroundings of the drive pistons are free of dirt.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082558Z" creationid="Judy" creationdate="20151214T082558Z">
+        <seg>請確保驅動活塞周圍無污垢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure to change the network settings for your network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T141702Z">
@@ -58079,6 +58111,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120856Z" creationid="Judy" creationdate="20151207T120856Z">
         <seg>平板Plate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082353Z" creationid="Judy" creationdate="20151214T082353Z">
+        <seg>平板</seg>
       </tuv>
     </tu>
     <tu>
@@ -84797,6 +84837,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change any of the blades, it is only necessary to remove the indicated screws.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082304Z" creationid="Judy" creationdate="20151214T082304Z">
+        <seg>若要更換任何刀片，請拆除指定之螺絲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the blades remove the indicated screw.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150710Z" creationid="Judy" creationdate="20151213T150710Z">
@@ -96175,6 +96223,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T125131Z" creationid="Judy" creationdate="20151212T125131Z">
         <seg>開始重置機台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stick holder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082343Z" creationid="Judy" creationdate="20151214T082343Z">
+        <seg>直條包裝固定器</seg>
       </tuv>
     </tu>
     <tu>
