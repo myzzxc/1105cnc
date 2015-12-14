@@ -7841,6 +7841,22 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust from the touchscreen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232713Z" creationid="Judy" creationdate="20151214T232713Z">
+        <seg>於觸控式螢幕上進行調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust manually and fix.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232646Z" creationid="Judy" creationdate="20151214T232646Z">
+        <seg>手動調整並固定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust on the touchscreen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164356Z" creationid="Judy" creationdate="20151214T164356Z">
@@ -7861,6 +7877,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163717Z" creationid="Judy" creationdate="20151214T163717Z">
         <seg>調整封裝機螺母、計數器螺母和轉軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232600Z" creationid="Judy" creationdate="20151214T232600Z">
+        <seg>調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16735,6 +16759,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check its position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232638Z" creationid="Judy" creationdate="20151214T232638Z">
+        <seg>檢查其位置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check packing seal on floating end for leaks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T065603Z">
@@ -16963,6 +16995,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151211T113438Z" creationid="Judy" creationdate="20151211T113438Z">
         <seg>檢查靜態模式下檢重機是否能正確秤重，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check whether it moves to the side.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T233928Z" creationid="Judy" creationdate="20151214T233928Z">
+        <seg>檢查其是否移動到側邊，</seg>
       </tuv>
     </tu>
     <tu>
@@ -45899,6 +45939,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Its correct position is approximately in the centre at the unwinding post.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T233821Z" creationid="Judy" creationdate="20151214T233821Z">
+        <seg>其正確位置大約位於開卷基座中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s about the people, the structures, roles and responsibilities, processes and systems and how all these things come together to drive performance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T131548Z">
@@ -49634,6 +49682,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232413Z" creationid="Judy" creationdate="20151214T232413Z">
         <seg>請確認其運作和位置正確，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure that the foil is at the right distance for reading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232551Z" creationid="Judy" creationdate="20151214T232551Z">
+        <seg>確保箔片位於正確的距離以進行感應，</seg>
       </tuv>
     </tu>
     <tu>
@@ -63844,6 +63900,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reel centring.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T233739Z" creationid="Judy" creationdate="20151214T233710Z">
+        <seg>卷筒中心對位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reel change: To remove the reel, just press the centre of the air inlet to release the air.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113557Z" creationid="Judy" creationdate="20151207T113557Z">
@@ -63888,6 +63952,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T065818Z" creationid="Judy" creationdate="20151205T065818Z">
         <seg>卷筒定位器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reel shaft fixing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T233827Z" creationid="Judy" creationdate="20151214T233827Z">
+        <seg>卷筒軸固定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71843,6 +71915,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spot detector.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232702Z" creationid="Judy" creationdate="20151214T232702Z">
+        <seg>光電感應器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spot photocell</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022043Z" creationid="Judy" creationdate="20151205T022043Z">
@@ -78403,6 +78483,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T113455Z" creationid="Judy" creationdate="20151207T113455Z">
         <seg>展開式系統於一端供應空氣以驅動系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The expanding shaft mechanism may have lost its fixing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T233909Z" creationid="Judy" creationdate="20151214T233909Z">
+        <seg>展開軸機構可能鬆脫，</seg>
       </tuv>
     </tu>
     <tu>
@@ -89097,6 +89185,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UNEVEN FOIL UNWINDING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232746Z" creationid="Judy" creationdate="20151214T232746Z">
+        <seg>箔片開卷不均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNEVEN STICK LENGTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232653Z" creationid="Judy" creationdate="20151214T232653Z">
+        <seg>直條包裝長度不均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UNEVEN STICK WIDTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164754Z" creationid="Judy" creationdate="20151214T164754Z">
@@ -91367,6 +91471,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150523T073910Z">
         <seg>版本編號：第一版，無特定版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical cutter position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232628Z" creationid="Judy" creationdate="20151214T232628Z">
+        <seg>垂直刀具位置。</seg>
       </tuv>
     </tu>
     <tu>
