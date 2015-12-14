@@ -15766,6 +15766,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CUT: This turns on the horizontal cut between welders.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143357Z" creationid="Judy" creationdate="20151214T143357Z">
+        <seg>CUT (切割)：開啟封裝間的水平切割。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CUTTING ELEMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043047Z" creationid="Judy" creationdate="20151206T043047Z">
@@ -39657,8 +39665,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>In the OFF position the ramp is set to continuous reject.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T130121Z" creationid="Judy" creationdate="20151214T130121Z">
-        <seg>關閉時，坡道將會設定為連續退回。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143452Z" creationid="Judy" creationdate="20151214T130121Z">
+        <seg>關閉時，匝道將會設定為連續退回。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57554,6 +57562,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PULLING JAWS: Activates the movement of the horizontal sealer jaws.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143312Z" creationid="Judy" creationdate="20151214T143312Z">
+        <seg>PULLING JAWS (抽拉夾頭)：啟動水平封裝機夾頭運動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PULLING STROKE LIMIT DETECTOR (inside the machine)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054945Z" creationid="Judy" creationdate="20151206T054945Z">
@@ -62127,6 +62143,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054134Z" creationid="Judy" creationdate="20151213T054134Z">
         <seg>退回測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REJECT: Activates the movement of the reject ramp.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143443Z" creationid="Judy" creationdate="20151214T143443Z">
+        <seg>REJECT (退回)：啟動退回匝道運動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72969,6 +72993,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125838Z" creationid="Judy" creationdate="20151214T125814Z">
         <seg>TEAR NOTCH (撕裂口)：通常為開，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEAR NOTCH: This gives the release unit movement order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143240Z" creationid="Judy" creationdate="20151214T143240Z">
+        <seg>TEAR NOTCH (撕裂口)：釋放單位運動順序。</seg>
       </tuv>
     </tu>
     <tu>
