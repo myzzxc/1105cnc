@@ -8579,6 +8579,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aligner detector.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164856Z" creationid="Judy" creationdate="20151214T164856Z">
+        <seg>對位感應器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aligner motor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T125915Z" creationid="Judy" creationdate="20151207T125915Z">
@@ -23538,6 +23546,14 @@ REJECT (退回)：啟動退回程序。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145733Z" creationid="Judy" creationdate="20151205T145733Z">
         <seg>請勿進行任何無法確定結果之操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not exceed 250º C in order not to damage the elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164750Z" creationid="Judy" creationdate="20151214T164750Z">
+        <seg>請勿超過 250 ˚C 以避免損壞元件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40604,6 +40620,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T163534Z">
         <seg>於此情況下，將需要一個新的專業知識以進行分析，考慮到缺陷產品生產與退回週期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, check:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164848Z" creationid="Judy" creationdate="20151214T164848Z">
+        <seg>此情況下，檢查：</seg>
       </tuv>
     </tu>
     <tu>
@@ -89053,6 +89077,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145353Z" creationid="Judy" creationdate="20151205T145353Z">
         <seg>不當使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNEVEN STICK WIDTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164754Z" creationid="Judy" creationdate="20151214T164754Z">
+        <seg>直條包裝寬度不均</seg>
       </tuv>
     </tu>
     <tu>
