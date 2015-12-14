@@ -45418,6 +45418,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JOG: (activation/deactivation time intervals).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T134151Z" creationid="Judy" creationdate="20151214T134037Z">
+        <seg>JOG (持續)：(啟動/停止一段時間)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T070318Z">
@@ -47825,6 +47833,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T132539Z" creationid="Judy" creationdate="20151214T132452Z">
         <seg>MAN / AUTO (手動 / 自動)：兩按鈕皆關閉時，混合器刀片不運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MAN: (motion of continuous action).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T133844Z" creationid="Judy" creationdate="20151214T133844Z">
+        <seg>MAN (手動)：(連續作動)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -60366,6 +60382,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press again to stop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T134100Z" creationid="Judy" creationdate="20151214T134100Z">
+        <seg>再次按下按鈕後停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press any control button to ensure it is disconnected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051054Z" creationid="Judy" creationdate="20151214T051054Z">
@@ -71534,6 +71558,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T133819Z" creationid="Judy" creationdate="20151214T133819Z">
         <seg>僅於動作行程的末端自行停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stops when finger is raised off the button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T133909Z" creationid="Judy" creationdate="20151214T133909Z">
+        <seg>釋放按鈕後停止。</seg>
       </tuv>
     </tu>
     <tu>
