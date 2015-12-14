@@ -75562,6 +75562,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The PRODUCTION / MINUTE is equivalent to sticks/minute.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T145106Z" creationid="Judy" creationdate="20151214T145106Z">
+        <seg>PRODUCTION / MINUTE (生產 / 分鐘) 等於「直條包裝 /分鐘」，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The PTZ system allows control over the Focus, Iris, Auto-Focus and AutoIris, as well as also allowing PTZ Absolute and Relative controls of the cameras with these features.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T132451Z">
@@ -77339,6 +77347,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T140105Z">
         <seg>此資格重審之資料和零件必須提供予以 HUTCHINSON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The date is estimate of work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T145201Z" creationid="Judy" creationdate="20151214T145201Z">
+        <seg>日期工作預估時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86382,6 +86398,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To activate all of these counters, press OFF to turn it ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T145244Z" creationid="Judy" creationdate="20151214T145244Z">
+        <seg>若要啟動畫面中所有的計數器，點擊 OFF 將其開啟為 ON。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To add a new allowance, click Add.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T150858Z">
@@ -91919,6 +91943,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T140502Z" creationid="Judy" creationdate="20151213T140458Z">
         <seg>可避免元件過早磨損，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will have to put the NUMBER OF LINE for the programme to calculate the remaining production data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T145009Z" creationid="Judy" creationdate="20151214T145009Z">
+        <seg>必須輸入 NUMBER OF LINE (產線數量) 以供程式計算其餘生產資料。</seg>
       </tuv>
     </tu>
     <tu>
