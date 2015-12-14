@@ -56924,8 +56924,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PRODUCTION: This shows a count of the total production of correct sticks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T113420Z" creationid="Judy" creationdate="20151214T113420Z">
-        <seg>PRODUCTION (生產)：: This shows a count of the total production of correct sticks.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T113649Z" creationid="Judy" creationdate="20151214T113420Z">
+        <seg>PRODUCTION (生產)：此欄位顯示正確直條包裝之總生產數。</seg>
       </tuv>
     </tu>
     <tu>
