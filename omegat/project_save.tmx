@@ -35523,6 +35523,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INERT GAS: Normally ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125902Z" creationid="Judy" creationdate="20151214T125902Z">
+        <seg>INERT GAS (惰性氣體)：通常為開，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INFO</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052650Z" creationid="Judy" creationdate="20151212T052650Z">
@@ -61899,6 +61907,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REJECT: In the ON position the rejection process shall be started automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T130008Z" creationid="Judy" creationdate="20151214T130008Z">
+        <seg>REJECT (退回)：開啟時，將會自動開始退回程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REJECTED (RR)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T072853Z" creationid="Judy" creationdate="20151212T072853Z">
@@ -66269,6 +66285,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T032614Z" creationid="Judy" creationdate="20151212T032614Z">
         <seg>靜態分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STATIC DEVICE: Normally ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125916Z" creationid="Judy" creationdate="20151214T125916Z">
+        <seg>STATIC DEVICE (靜態裝置)：通常為開，</seg>
       </tuv>
     </tu>
     <tu>
@@ -72633,6 +72657,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053626Z" creationid="Judy" creationdate="20151206T053626Z">
         <seg>撕裂口刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEAR NOTCH: Normally ON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125838Z" creationid="Judy" creationdate="20151214T125814Z">
+        <seg>TEAR NOTCH (撕裂口)：通常為開，</seg>
       </tuv>
     </tu>
     <tu>
@@ -91782,6 +91814,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T121338Z">
         <seg>輪式裝載機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When OFF, it inhibits the alarm that would stop the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125806Z" creationid="Judy" creationdate="20151214T125806Z">
+        <seg>當關閉時，將會切斷停止機台之警報。</seg>
       </tuv>
     </tu>
     <tu>
