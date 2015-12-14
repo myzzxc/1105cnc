@@ -6124,6 +6124,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>APPROXIM. SEALING: 1st stage movement (approach) for the vertical sealer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T142927Z" creationid="Judy" creationdate="20151214T142913Z">
+        <seg>APPROXIM. SEALING (接近封裝)：垂直封裝機第一階段運動 (接近)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ARANOW Packaging Machinery</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020205Z" creationid="Judy" creationdate="20151205T020205Z">
@@ -55047,6 +55055,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only if the first approach phase has been completed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143023Z" creationid="Judy" creationdate="20151214T143023Z">
+        <seg>僅於第一階段接近動作已完成時進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only localised for legal or regulatory reasons</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T233125Z">
@@ -66741,6 +66757,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T043444Z" creationid="Judy" creationdate="20151206T043444Z">
         <seg>直條包裝成型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STICK HOLDER: Activates the plates located under the horizontal sealer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143123Z" creationid="Judy" creationdate="20151214T143123Z">
+        <seg>STICK HOLDER (直條包裝固定器)：啟動水平封裝機下方之平板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89566,6 +89590,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142333Z">
         <seg>版本編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VERTICAL SEALING: 2nd stage movement (separation) for the vertical sealer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T142954Z" creationid="Judy" creationdate="20151214T142921Z">
+        <seg>VERTICAL SEALING (垂直封裝)：垂直封裝機第二階段運動 (分離)，</seg>
       </tuv>
     </tu>
     <tu>
