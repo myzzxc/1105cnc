@@ -6269,6 +6269,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUGER FILLER: By pressing it turns ON or OFF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122805Z" creationid="Judy" creationdate="20151214T122805Z">
+        <seg>AUGER FILLER (螺旋填料器)：點擊按鈕能開啟或關閉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUGER FILLERS AND AUGER TUBES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T141018Z" creationid="Judy" creationdate="20151213T141018Z">
@@ -41521,6 +41529,30 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It activates or deactivates the horizontal cutting system, from the operation of the rest of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122740Z" creationid="Judy" creationdate="20151214T122740Z">
+        <seg>能由機台其它部分的操作啟動或停用水平切割系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It activates or deactivates the product dosing system, from the operation of the rest of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122826Z" creationid="Judy" creationdate="20151214T122826Z">
+        <seg>能由機台其它部分的操作啟動或停用產品填料系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It activates or deactivates the product reject system, from the operation of the rest of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122847Z" creationid="Judy" creationdate="20151214T122847Z">
+        <seg>能由機台其它部分的操作啟動或停用產品退回系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It allows Event reports to be exported.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T142253Z">
@@ -47969,6 +48001,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T162840Z" creationid="Judy" creationdate="20151212T162840Z">
         <seg>平均重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MENU and SETTING: It gives access to other main screens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122925Z" creationid="Judy" creationdate="20151214T122925Z">
+        <seg>MENU and SETTING (功能表和設定)：點擊可進入其它主畫面，</seg>
       </tuv>
     </tu>
     <tu>
@@ -61687,6 +61727,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T054134Z" creationid="Judy" creationdate="20151213T054134Z">
         <seg>退回測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REJECT: By pressing it turns ON or OFF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122838Z" creationid="Judy" creationdate="20151214T122838Z">
+        <seg>REJECT (退回)：點擊按鈕能開啟或關閉，</seg>
       </tuv>
     </tu>
     <tu>
@@ -84237,6 +84285,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T144925Z">
         <seg>此畫面中包含了薪資變更相關的欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screen is seen in detail in the following.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123032Z" creationid="Judy" creationdate="20151214T123032Z">
+        <seg>此畫面的詳細資訊收錄於後方。</seg>
       </tuv>
     </tu>
     <tu>
