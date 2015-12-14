@@ -5538,6 +5538,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACCELERATION / DECELERATION: By pressing   a page appears for entering values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154629Z" creationid="Judy" creationdate="20151214T154629Z">
+        <seg>ACCELERATION / DECELERATION (加速 / 減速)：點擊  按鈕將顯示輸入數值之畫面，pressing   a page appears for entering values.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCEPT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T034041Z" creationid="Judy" creationdate="20151212T034041Z">
@@ -14186,6 +14194,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T135610Z">
         <seg>將防擺桿 570 放置於動力源 130 前方，防擺桿 570 將更接懸臂 526A 和懸臂  526B 之樞軸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By pressing   a page appears for entering parameters of acceleration or deceleration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154536Z" creationid="Judy" creationdate="20151214T154536Z">
+        <seg>點擊   按鈕將顯示輸入加速或減速參數之頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83857,6 +83873,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151208T150930Z" creationid="Judy" creationdate="20151208T150930Z">
         <seg>這些包裝包括此參數設定之加上自動計算之包裝數量 (校正期間檢重機處理之包裝數量)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These parameters apply an acceleration factor when starting and deceleration at the end of the movement vertical length.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154815Z" creationid="Judy" creationdate="20151214T154815Z">
+        <seg>這些參數於垂直長度運動啟動時套用加速係並於結束時套用減速係數，</seg>
       </tuv>
     </tu>
     <tu>
