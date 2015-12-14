@@ -11899,6 +11899,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoid getting wet and wet surfaces which can cause a short-circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T072120Z" creationid="Judy" creationdate="20151214T072120Z">
+        <seg>避免潮濕和表面潮濕而導致短路，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoid use in conditions where sand and/</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150802T125159Z">
@@ -16307,6 +16315,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135859Z">
         <seg>檢查測試法蘭墊片有無滲漏，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the STATIC LINE manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T072221Z" creationid="Judy" creationdate="20151214T072221Z">
+        <seg>請參閱靜電線路手冊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87253,6 +87269,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150502T082947Z">
         <seg>使用易於密封且只需要低扭矩值之墊片，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use gloves when using this equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T072141Z" creationid="Judy" creationdate="20151214T072141Z">
+        <seg>使用本設備時請穿戴手套。</seg>
       </tuv>
     </tu>
     <tu>
