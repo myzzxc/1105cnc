@@ -4769,6 +4769,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A help screen will appear to resolve the problem.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112939Z" creationid="Judy" creationdate="20151214T112939Z">
+        <seg>螢幕將會顯示協助畫面以解決問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A high performance camera mounted on the head of the machine, the power behind the AVS lies initssoftware which is fully integrated within the new AXYZ A2MC machine control system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20131106T034800Z">
@@ -5924,8 +5932,8 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
       <tuv lang="EN-US">
         <seg>ALARM signal:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112725Z" creationid="Judy" creationdate="20151214T112725Z">
-        <seg>警報訊號：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112756Z" creationid="Judy" creationdate="20151214T112725Z">
+        <seg>警報符號：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14002,6 +14010,22 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T135610Z">
         <seg>將防擺桿 570 放置於動力源 130 前方，防擺桿 570 將更接懸臂 526A 和懸臂  526B 之樞軸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By pressing on the  logo more screen options are accessed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T113050Z" creationid="Judy" creationdate="20151214T113050Z">
+        <seg>點擊   符號能進入更多畫面選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By pressing on the  logo the above main screen is accessed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T113026Z" creationid="Judy" creationdate="20151214T113026Z">
+        <seg>點擊   符號能回到上一個主畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64261,6 +64285,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return to SCREEN:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112946Z" creationid="Judy" creationdate="20151214T112946Z">
+        <seg>返回畫面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return to work interviews following all sickness absence</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151026T234823Z">
@@ -91676,8 +91708,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>When this alarm signal appears  on the screen, press on the icon to find the reason for the alarm.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112747Z" creationid="Judy" creationdate="20151214T112747Z">
-        <seg>當此警報報警信號出現在螢幕上時，按圖示找到報警的原因。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112903Z" creationid="Judy" creationdate="20151214T112747Z">
+        <seg>當此警報符號   出現在螢幕上時，點擊圖示以查看警報原因，</seg>
       </tuv>
     </tu>
     <tu>
