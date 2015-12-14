@@ -16191,6 +16191,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing the blades: Proceed with care.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082209Z" creationid="Judy" creationdate="20151214T082209Z">
+        <seg>更換刀片：請小心進行操作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing the element or probe: Do this when the sealers are cold.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T050959Z" creationid="Judy" creationdate="20151214T050929Z">
@@ -16259,6 +16267,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T131945Z">
         <seg>於此頁面查看其它選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check horizontal sealer alignment when finished.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082022Z" creationid="Judy" creationdate="20151214T082022Z">
+        <seg>完成後檢查封裝機水平對位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16844,6 +16860,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162156Z" creationid="Judy" creationdate="20151213T153033Z">
         <seg>清潔：建議於封裝機熱機時進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cleaning: The blades of the tear unit are in the front sealer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082122Z" creationid="Judy" creationdate="20151214T082122Z">
+        <seg>清潔：撕裂口裝置之刀片位於封裝機前方，</seg>
       </tuv>
     </tu>
     <tu>
@@ -79137,6 +79161,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The support has several blades.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082238Z" creationid="Judy" creationdate="20151214T082238Z">
+        <seg>支架上有多組刀片，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The supported Microsoft App-V version is 5.0 SP1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T135620Z">
@@ -81295,6 +81327,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151129T144000Z" creationid="Judy" creationdate="20151129T144000Z">
         <seg>共有 4 種可用的警報輸出，2 種固定式 (Fix1 FIX2) 和 2 種定時式 (tmp1-TMP2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are 6 small blades.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T082137Z" creationid="Judy" creationdate="20151214T082137Z">
+        <seg>共有 6 小片刀片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85066,6 +85106,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T034745Z">
         <seg>若要安裝使用基本使用者介面的 Power PDF 進階版而完成時不顯示訊息方塊，請使用以下指令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To install, do the process in reverse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T081947Z" creationid="Judy" creationdate="20151214T081947Z">
+        <seg>安裝請依上述步驟反向進行。</seg>
       </tuv>
     </tu>
     <tu>
