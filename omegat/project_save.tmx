@@ -14342,6 +14342,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150349Z" creationid="Judy" creationdate="20151214T150349Z">
+        <seg>凸輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAN NOT DELETE ACTIVE USER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T054132Z" creationid="Judy" creationdate="20151212T054132Z">
@@ -54504,6 +54512,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On this screen, we have the pages that open when pressing .</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150540Z" creationid="Judy" creationdate="20151214T150540Z">
+        <seg>於此畫面中點擊    將會打開頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On your Profile Page, many tabs and sub tabs are displayed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T230607Z">
@@ -69648,6 +69664,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Serious damage can occur when incorrect values are used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150344Z" creationid="Judy" creationdate="20151214T150344Z">
+        <seg>若使用不正確的數值可能會發生嚴重損傷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Server Platform</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151008T134928Z">
@@ -73514,6 +73538,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033831Z" creationid="Judy" creationdate="20151212T033831Z">
         <seg>時間程式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIMER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150542Z" creationid="Judy" creationdate="20151214T150542Z">
+        <seg>計時器</seg>
       </tuv>
     </tu>
     <tu>
@@ -78384,6 +78416,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The input values are seconds or milliseconds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150651Z" creationid="Judy" creationdate="20151214T150651Z">
+        <seg>輸入之數值以秒或毫秒為單位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The input voltage to the Arduino board when it's using an external power source (as opposed to 5 volts from the USB connection or other regulated power source).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150426T123626Z">
@@ -80966,6 +81006,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T134436Z">
         <seg>第三位置可能位於駕駛區的座椅下方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The time when the driver must get into action can be modified, each time it is activated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150625Z" creationid="Judy" creationdate="20151214T150625Z">
+        <seg>每次啟動驅動時可修改啟動之時間，</seg>
       </tuv>
     </tu>
     <tu>
@@ -91791,6 +91839,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T031808Z">
         <seg>我們由斯德哥爾摩的皇家技術研究所和 IVF* 的一組研究模塊化的人員所成立，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can access the encoder data that synchronise each of the electro/pneumatic activations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150501Z" creationid="Judy" creationdate="20151214T150501Z">
+        <seg>可取得同步各個電力/氣動驅動的編碼器資料。</seg>
       </tuv>
     </tu>
     <tu>
