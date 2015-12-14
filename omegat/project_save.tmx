@@ -2783,8 +2783,8 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>1st, 2nd and 3rd SPEED: On the bottom, the values show the degrees between which to apply the speed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153928Z" creationid="Judy" creationdate="20151214T153928Z">
-        <seg>1st, 2nd 和 3rd SPEED % (第一、第二和第三階速度百分比)：位於畫面下半部，數值為主速度之 %，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154134Z" creationid="Judy" creationdate="20151214T153928Z">
+        <seg>1st, 2nd 和 3rd SPEED (第一、第二和第三階速度)：位於畫面下半部，該數值為速度適用之角度，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34067,6 +34067,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HOME MACHINE: It is to make the pulling back to the "home" point, normally pressed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154432Z" creationid="Judy" creationdate="20151214T154432Z">
+        <seg>HOME MACHINE (機台原點復歸)：將抽取裝置退回原點，通常為開，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOPPER</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054648Z" creationid="Judy" creationdate="20151206T054648Z">
@@ -37216,6 +37224,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144819Z" creationid="Judy" creationdate="20151214T144819Z">
         <seg>若溫度無法維持於範圍內將會出現警報，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the value is 0, speed is not activated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154226Z" creationid="Judy" creationdate="20151214T154226Z">
+        <seg>若數值為 0，將不啟用此速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46323,6 +46339,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033650Z" creationid="Judy" creationdate="20151212T033650Z">
         <seg>長度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LENGTH: It is the maximum movement of the pulling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154323Z" creationid="Judy" creationdate="20151214T154323Z">
+        <seg>LENGTH (最大長度)：抽取的最大運動長度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66742,6 +66766,22 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T113849Z" creationid="Judy" creationdate="20151214T113849Z">
         <seg>SPEED (速度)：此欄位顯示實際速度，單位為每分鐘轉數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPEEDS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154444Z" creationid="Judy" creationdate="20151214T154444Z">
+        <seg>速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPEEDS DEGREES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154452Z" creationid="Judy" creationdate="20151214T154452Z">
+        <seg>速度角度</seg>
       </tuv>
     </tu>
     <tu>
@@ -90543,6 +90583,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150927T035802Z">
         <seg>價值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Values must be between 0 and 359.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T154150Z" creationid="Judy" creationdate="20151214T154150Z">
+        <seg>數值必須介於 0 至 359 之間，</seg>
       </tuv>
     </tu>
     <tu>
