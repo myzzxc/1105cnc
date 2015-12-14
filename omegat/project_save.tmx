@@ -16151,6 +16151,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change of belt: To change of belt, only need loosen two screws, and it would be slackened belt.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T110346Z" creationid="Judy" creationdate="20151214T110346Z">
+        <seg>更換皮帶：更換皮帶只需要放鬆兩顆螺絲，皮帶便會鬆開，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change of filler</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032459Z" creationid="Judy" creationdate="20151205T021415Z">
@@ -81575,6 +81583,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151203T154546Z" creationid="Judy" creationdate="20151203T154546Z">
         <seg>接著將顯示兩條曲線，重量曲線圖為藍色，而光電訊號曲線為紅色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then you can replace it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T110415Z" creationid="Judy" creationdate="20151214T110415Z">
+        <seg>接著便能進行更換。</seg>
       </tuv>
     </tu>
     <tu>
