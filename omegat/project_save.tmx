@@ -76326,6 +76326,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The drives can drop sharply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T092428Z" creationid="Judy" creationdate="20151214T092428Z">
+        <seg>驅動器可能會快速減速。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The drivetrain 30, the front and rear suspension assemblies, and steering assemblies are more thoroughly described in our pending applications Ser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151114T140155Z">
@@ -81703,6 +81711,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T122340Z">
         <seg>內建 LED 燈連接至數位針腳 13，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a significant danger of becoming caught/trapped.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T092325Z" creationid="Judy" creationdate="20151214T092325Z">
+        <seg>可有會有捲入/夾傷之危險，</seg>
       </tuv>
     </tu>
     <tu>
