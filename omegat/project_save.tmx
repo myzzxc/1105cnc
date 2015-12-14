@@ -44497,6 +44497,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is used to temporarily deactivate a station.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123527Z" creationid="Judy" creationdate="20151214T123527Z">
+        <seg>用於暫時停用一個站台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is useful this to be accessible to the staff dealing with the machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T052111Z" creationid="Judy" creationdate="20151206T051918Z">
@@ -54031,6 +54039,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On this MENU selectors screens, basic ON/OFF machine functions are allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123509Z" creationid="Judy" creationdate="20151214T123500Z">
+        <seg>此選擇器功能表畫面中提供了機台基本的開/關功能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On this detailed screen, you will see three sections: an upper section, the Hiring Restrictions tab and the Qualifications tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151029T234358Z">
@@ -60098,6 +60114,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T030853Z" creationid="Judy" creationdate="20151212T030853Z">
         <seg>按下測試按鈕⋯⋯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the button to alternate between ON / OFF.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123559Z" creationid="Judy" creationdate="20151214T123559Z">
+        <seg>點擊按鈕以切換開/關。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86106,6 +86130,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T043628Z" creationid="Judy" creationdate="20151205T043628Z">
         <seg>要將機台放置於其安裝區域，請使用具有足夠承重力之正常叉動車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To preserve the state of some buttons, the programme must have been saved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T123641Z" creationid="Judy" creationdate="20151214T123641Z">
+        <seg>若要保留某些按鈕的狀態，必須已儲存該程式。</seg>
       </tuv>
     </tu>
     <tu>
