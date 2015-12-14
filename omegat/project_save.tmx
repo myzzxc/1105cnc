@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Green colour)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T052215Z" creationid="Judy" creationdate="20151214T052215Z">
+        <seg>(綠色)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Gross):</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T065048Z" creationid="Judy" creationdate="20151212T065048Z">
@@ -19906,6 +19914,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Counternut</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T052207Z" creationid="Judy" creationdate="20151214T052207Z">
+        <seg>對向螺母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Counters</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151120T141728Z">
@@ -30324,6 +30340,14 @@ Count on steady, less jittery images with effective compensation for camera shak
         <seg>Follow the instructions:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162441Z" creationid="Judy" creationdate="20151213T162441Z">
+        <seg>依照以下步驟進行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow the next steps:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T052224Z" creationid="Judy" creationdate="20151214T052224Z">
         <seg>依照以下步驟進行：</seg>
       </tuv>
     </tu>
@@ -44506,6 +44530,14 @@ or artistic work embodied therein.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will therefore be necessary to level to achieve the best possible sealing level using the nuts, counter nuts and trap screw.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T052155Z" creationid="Judy" creationdate="20151214T052124Z">
+        <seg>因此必須利用螺母、計數器螺母和阻擋螺絲調整以達到最佳的密封等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will work with all 5 and 10 HP spindles (Elte or HSD).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131108T141923Z">
@@ -52410,6 +52442,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T122324Z" creationid="Judy" creationdate="20151128T122324Z">
         <seg>數字鍵盤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nut</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T052209Z" creationid="Judy" creationdate="20151214T052209Z">
+        <seg>螺母</seg>
       </tuv>
     </tu>
     <tu>
@@ -68283,6 +68323,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150425T142617Z">
         <seg>電路板底部有許多數據機的針腳，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shaft</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T052212Z" creationid="Judy" creationdate="20151214T052212Z">
+        <seg>軸</seg>
       </tuv>
     </tu>
     <tu>
@@ -85555,6 +85603,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150923T114545Z">
         <seg>運輸設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trap screw</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T052222Z" creationid="Judy" creationdate="20151214T052222Z">
+        <seg>阻擋螺絲</seg>
       </tuv>
     </tu>
     <tu>
