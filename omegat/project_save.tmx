@@ -2775,8 +2775,16 @@ Accidental droppage can destroy an ordinary camcorder, but Everio is built tough
       <tuv lang="EN-US">
         <seg>1st, 2nd and 3rd SPEED %: The input values are % of the main speed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153555Z" creationid="Judy" creationdate="20151214T153555Z">
-        <seg>1st, 2nd 和 3rd SPEED % (第一、第二和第三階速度百分比)：數入數值為主速度之 %，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153935Z" creationid="Judy" creationdate="20151214T153555Z">
+        <seg>1st, 2nd 和 3rd SPEED % (第一、第二和第三階速度百分比)：輸入數值為主速度之 %，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1st, 2nd and 3rd SPEED: On the bottom, the values show the degrees between which to apply the speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153928Z" creationid="Judy" creationdate="20151214T153928Z">
+        <seg>1st, 2nd 和 3rd SPEED % (第一、第二和第三階速度百分比)：位於畫面下半部，數值為主速度之 %，</seg>
       </tuv>
     </tu>
     <tu>
@@ -78944,6 +78952,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The machine has an electromechanical limitation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153820Z" creationid="Judy" creationdate="20151214T153820Z">
+        <seg>此機器具有電機限制，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The machine has built-in automatic safety measures in order to eliminate risks to operators.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T025144Z" creationid="Judy" creationdate="20151205T025144Z">
@@ -89477,6 +89493,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022208Z" creationid="Judy" creationdate="20151205T021746Z">
         <seg>開卷機組維護和指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Up to 3 different speeds can be applied during the machine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153859Z" creationid="Judy" creationdate="20151214T153859Z">
+        <seg>機器工作循環中最多能套用 3 種不同的速度。</seg>
       </tuv>
     </tu>
     <tu>
