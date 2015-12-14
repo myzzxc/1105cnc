@@ -26667,6 +26667,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150826Z" creationid="Judy" creationdate="20151214T150826Z">
+        <seg>範例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples: 3000 (3 laps).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T131605Z" creationid="Judy" creationdate="20151214T131549Z">
@@ -37064,6 +37072,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T144819Z" creationid="Judy" creationdate="20151214T144819Z">
         <seg>若溫度無法維持於範圍內將會出現警報，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the value is 0, the timer is disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150819Z" creationid="Judy" creationdate="20151214T150819Z">
+        <seg>若數值為 0，將停用計時器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54514,8 +54530,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>On this screen, we have the pages that open when pressing .</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150540Z" creationid="Judy" creationdate="20151214T150540Z">
-        <seg>於此畫面中點擊    將會打開頁面。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150710Z" creationid="Judy" creationdate="20151214T150540Z">
+        <seg>於此畫面中點擊    以切換頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78604,6 +78620,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151024T062504Z">
         <seg>護網下端也包含固定至車輛踏板之孔眼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The machine cycles can be modified for the activation or deactivation of the device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T150752Z" creationid="Judy" creationdate="20151214T150752Z">
+        <seg>可修改機台循環以啟動或停用的裝置，</seg>
       </tuv>
     </tu>
     <tu>
