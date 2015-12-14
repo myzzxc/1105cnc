@@ -4929,6 +4929,14 @@ Whether you drop it into water or dive with it, IPX6/IPX8 certified waterproofin
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A password is needed to enter the program.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112156Z" creationid="Judy" creationdate="20151214T112156Z">
+        <seg>進入程式需要密碼，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A person wanders in towards the camera and has a blue jumper on.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T124446Z">
@@ -65240,6 +65248,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SESSION START screen:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112336Z" creationid="Judy" creationdate="20151214T112336Z">
+        <seg>工作起始畫面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T120313Z" creationid="Judy" creationdate="20151212T120313Z">
@@ -78601,6 +78617,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The program will mainly be prepared for tow access levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112317Z" creationid="Judy" creationdate="20151214T112317Z">
+        <seg>程式主要有兩種層級的存取權限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The program will not be installed until the user chooses to add it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150531T100230Z">
@@ -86214,6 +86238,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Touch the centre of the logo to start the session.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112128Z" creationid="Judy" creationdate="20151214T112128Z">
+        <seg>點擊標誌中心以開始工作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trace decisions back to strategy</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150913T024005Z">
@@ -92819,6 +92851,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T235310Z">
         <seg>勞工處理帶有淬火槽液體之工件時穿戴抗化學腐蝕手套和圍裙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workers level: A password is needed to enter this session.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112420Z" creationid="Judy" creationdate="20151214T112420Z">
+        <seg>工作人員層級 (Workers level)：需要輸入密碼已進入工作畫面，</seg>
       </tuv>
     </tu>
     <tu>
