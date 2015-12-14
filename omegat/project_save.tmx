@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16135,6 +16135,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing the element or probe: Do this when the sealers are cold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T050959Z" creationid="Judy" creationdate="20151214T050929Z">
+        <seg>更換元件或探針：於封裝機冷卻時進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing the resistor or temperature probe: Do this when the sealers are cold.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T160922Z" creationid="Judy" creationdate="20151213T160922Z">
@@ -22543,8 +22551,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>Disconnect the electrical and pneumatic switches.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T042253Z" creationid="Judy" creationdate="20151206T042253Z">
-        <seg>切斷電氣和氣動迴路開關。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051038Z" creationid="Judy" creationdate="20151206T042253Z">
+        <seg>切斷電氣和氣動迴路開關，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24301,6 +24309,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T070136Z" creationid="Judy" creationdate="20151206T070136Z">
         <seg>每次更換卷筒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each sealer contains 1 or 2 elements and 1 probe.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051031Z" creationid="Judy" creationdate="20151214T051031Z">
+        <seg>封裝機每一部分包含 1 或 2 組加熱元件和 1 組探針。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46597,6 +46613,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lock the switches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051042Z" creationid="Judy" creationdate="20151214T051042Z">
+        <seg>鎖定開關，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locking screw</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T142941Z" creationid="Judy" creationdate="20151213T142941Z">
@@ -58076,6 +58100,14 @@ IN / EX</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pneumatic air tubes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051126Z" creationid="Judy" creationdate="20151214T051126Z">
+        <seg>氣動空氣管路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pneumatic cylinder</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T121734Z" creationid="Judy" creationdate="20151207T121734Z">
@@ -59186,6 +59218,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031618Z" creationid="Judy" creationdate="20151206T031618Z">
         <seg>按下停止開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press any control button to ensure it is disconnected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T051054Z" creationid="Judy" creationdate="20151214T051054Z">
+        <seg>按壓任何的控制按鈕，以確保機器已關閉。</seg>
       </tuv>
     </tu>
     <tu>
