@@ -27980,6 +27980,14 @@ Count on steady, less jittery images with effective compensation for camera shak
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FILLER 1-4: The following indicators of host correspond to the number of turns multiplied x 1000 makes each worm to make a dose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122414Z" creationid="Judy" creationdate="20151214T122414Z">
+        <seg>FILLER 1-4 (填料器 1-4)：以下的主機指標為每支蝸桿進行填料之轉數乘以 1000 ，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FILLER LIMIT EXCEDED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T080821Z" creationid="Judy" creationdate="20151212T080821Z">
