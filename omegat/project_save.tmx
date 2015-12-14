@@ -75790,6 +75790,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The distance between the counter nut and the nut should be 1mm in between.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T070706Z" creationid="Judy" creationdate="20151214T070706Z">
+        <seg>螺母和對向螺母之間的距離應為 1 毫米，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The diverter being associated with the base portion.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151103T144443Z">
@@ -84469,6 +84477,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the distance between the counter nut and nut you must loosen the fix nut.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T070632Z" creationid="Judy" creationdate="20151214T070632Z">
+        <seg>鬆開固定螺母以調整螺母和對向螺母之間的距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To approve changes, click on your name in the top right corner of the page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151030T120259Z">
@@ -91883,6 +91899,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151012T143757Z">
         <seg>此隱私模式功能中，管理員可以設定當操作人員啟動監控用戶端上的隱私模式時，將失去相機存取權限的使用者的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With two number 17 keys you can adjust the distance between them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T070736Z" creationid="Judy" creationdate="20151214T070736Z">
+        <seg>使用兩支 17 號板手以調整其距離。</seg>
       </tuv>
     </tu>
     <tu>
