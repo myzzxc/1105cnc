@@ -49398,6 +49398,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make a few empty sticks until the fault is eliminated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163932Z" creationid="Judy" creationdate="20151214T163932Z">
+        <seg>進行數次空直條包裝製作直到故障排除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make a few empty sticks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163038Z" creationid="Judy" creationdate="20151214T163038Z">
@@ -49482,6 +49490,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T145057Z" creationid="Judy" creationdate="20151205T145057Z">
         <seg>確保沒有出現警報訊號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure that all of the sealers work at the right temperature according to the programme on the touchscreen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163835Z" creationid="Judy" creationdate="20151214T163835Z">
+        <seg>請確保封裝機依照觸控式螢幕上的程式設定處於合適的工作溫度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69187,6 +69203,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T035552Z" creationid="Judy" creationdate="20151205T035548Z">
         <seg>詳細解釋請參閱觸控式螢幕說明，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See touchscreen manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163844Z" creationid="Judy" creationdate="20151214T163844Z">
+        <seg>請參閱觸控螢幕手冊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95152,6 +95176,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151118T141049Z">
         <seg>國際檢索機構之 PCT/ US2011/046395 書面意見，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163738Z" creationid="Judy" creationdate="20151214T163738Z">
+        <seg>溫度錯誤。</seg>
       </tuv>
     </tu>
     <tu>
