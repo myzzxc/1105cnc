@@ -5922,6 +5922,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALARM signal:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112725Z" creationid="Judy" creationdate="20151214T112725Z">
+        <seg>警報訊號：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T061013Z" creationid="Judy" creationdate="20151213T061010Z">
@@ -6988,6 +6996,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T000900Z">
         <seg>此處可更改您的密碼和帳戶設定選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access to all screens and their parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112558Z" creationid="Judy" creationdate="20151214T112558Z">
+        <seg>能存取所有畫面和其參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13986,6 +14002,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151109T135610Z">
         <seg>將防擺桿 570 放置於動力源 130 前方，防擺桿 570 將更接懸臂 526A 和懸臂  526B 之樞軸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By pressing the logo  it is possible to see all the data to be able to contact the machine manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112713Z" creationid="Judy" creationdate="20151214T112713Z">
+        <seg>點擊    標誌便可檢視所有機台製造商的聯繫資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35339,6 +35363,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INFORMATION screen:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112605Z" creationid="Judy" creationdate="20151214T112605Z">
+        <seg>資訊畫面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INI.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T081924Z" creationid="Judy" creationdate="20151212T081924Z">
@@ -51805,6 +51837,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T052721Z" creationid="Judy" creationdate="20151212T052721Z">
         <seg>無訊息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No access is possible to some of the programme parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112448Z" creationid="Judy" creationdate="20151214T112448Z">
+        <seg>無法存取某些程式設定參數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73261,6 +73301,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Technician level: A password is needed to enter this session.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112526Z" creationid="Judy" creationdate="20151214T112506Z">
+        <seg>技術人員層級 (Technician level)：需要輸入密碼以進入工作畫面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technological innovation allows for reduced water consumption, such as through waterless sanitation infrastructure that provides energy and products from human excreta and eliminates pollution to precious freshwater resources.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150823T064609Z">
@@ -91626,6 +91674,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When this alarm signal appears  on the screen, press on the icon to find the reason for the alarm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112747Z" creationid="Judy" creationdate="20151214T112747Z">
+        <seg>當此警報報警信號出現在螢幕上時，按圖示找到報警的原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When this happens, the processor will reset, breaking the USB connection to the computer (meaning that the virtual serial / COM port will disappear).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150427T142403Z">
@@ -92857,8 +92913,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>Workers level: A password is needed to enter this session.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112420Z" creationid="Judy" creationdate="20151214T112420Z">
-        <seg>工作人員層級 (Workers level)：需要輸入密碼已進入工作畫面，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T112530Z" creationid="Judy" creationdate="20151214T112420Z">
+        <seg>操作人員層級 (Workers level)：需要輸入密碼以進入工作畫面，</seg>
       </tuv>
     </tu>
     <tu>
