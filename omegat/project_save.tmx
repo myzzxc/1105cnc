@@ -7841,6 +7841,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust on the touchscreen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164356Z" creationid="Judy" creationdate="20151214T164356Z">
+        <seg>於觸控式螢幕上進行調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the tension if necessary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T110836Z" creationid="Judy" creationdate="20151214T110836Z">
@@ -16895,10 +16903,26 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check the theoretical value on the touchscreen and adjust if necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164308Z" creationid="Judy" creationdate="20151214T164308Z">
+        <seg>檢查觸控螢幕上的理論值並於必要時進行調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the torque of the clamp screws.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150132Z" creationid="Judy" creationdate="20151213T150132Z">
         <seg>檢查夾具螺絲的的扭矩值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the weight and volume of the manufactured stick.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164243Z" creationid="Judy" creationdate="20151214T164243Z">
+        <seg>檢查製造之直條包裝重量和體積，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19701,6 +19725,14 @@ Additional power wherever you are.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061537Z" creationid="Judy" creationdate="20151205T061537Z">
         <seg>連接抽吸系統和惰性氣體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connect the product dosing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164121Z" creationid="Judy" creationdate="20151214T164121Z">
+        <seg>連接產品給料，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26887,6 +26919,14 @@ Count on steady, less jittery images with effective compensation for camera shak
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150609T145828Z">
         <seg>不包含加密文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excess amount of dosed product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164214Z" creationid="Judy" creationdate="20151214T164214Z">
+        <seg>產品調料過量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36388,6 +36428,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a faulty seal is noted, this may be due to:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164158Z" creationid="Judy" creationdate="20151214T164158Z">
+        <seg>如果仍有錯誤封裝出現，可能原因為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a group of pixels fall under both the colour range and flicker frequency over time we can flag those as fire blobs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150322T153909Z">
@@ -45202,6 +45250,14 @@ Hsin Chang 工業公司</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may be necessary to increase or decrease the sealed temperature with full sticks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164347Z" creationid="Judy" creationdate="20151214T164347Z">
+        <seg>製作完整直條包裝可能需要增加或減少密封的溫度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It must also be taken into account its width.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T045357Z" creationid="Judy" creationdate="20151128T045357Z">
@@ -46859,6 +46915,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151027T225908Z">
         <seg>缺乏通用版本的員工資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lack of sealed pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164407Z" creationid="Judy" creationdate="20151214T164407Z">
+        <seg>密封壓力不足。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49410,6 +49474,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163038Z" creationid="Judy" creationdate="20151214T163038Z">
         <seg>進行數次空直條包裝製作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make a few sticks with product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164145Z" creationid="Judy" creationdate="20151214T164145Z">
+        <seg>加入填料製作數個直條包裝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55244,6 +55316,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T020040Z" creationid="Judy" creationdate="20151210T015940Z">
         <seg>當設定時間結束時，若未進行秤重測試，則每隔兩分鐘將出現提醒畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the seal formation has been solved with an empty stick, the seal must be checked with the stick full of product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T164059Z" creationid="Judy" creationdate="20151214T164059Z">
+        <seg>當空直條包裝之封口成形已恢復正常，必須檢查填充產品之直條包裝密封。</seg>
       </tuv>
     </tu>
     <tu>
