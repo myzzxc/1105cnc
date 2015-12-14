@@ -63180,6 +63180,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeat the procedure until a uniform pressure across the sealing area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071816Z" creationid="Judy" creationdate="20151214T071816Z">
+        <seg>重複以上步驟直到封裝區的壓力均勻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace &lt;path&gt; and  &lt;output path&gt; with the real paths then press ENTER.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T140613Z">
@@ -82825,6 +82833,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This module eliminates static current carried by the paper due to the ionisation effect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T072022Z" creationid="Judy" creationdate="20151214T072022Z">
+        <seg>抗靜電桿可以消除紙張電離效應所帶來的靜電，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This must always be in the same position opposite the vertical sealing for correct Stick formation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T152937Z" creationid="Judy" creationdate="20151213T151535Z">
@@ -94340,6 +94356,14 @@ Sound zooms along with the picture for a perfect match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150528T144323Z">
         <seg>登入 HUTCHINSON 採購工具入口網站回答所有投訴，網址為： https://ivalua.hutchinson.fr/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>antistatic bar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071855Z" creationid="Judy" creationdate="20151214T071855Z">
+        <seg>抗靜電桿</seg>
       </tuv>
     </tu>
     <tu>
