@@ -16287,6 +16287,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check that the teeth of both jaws are correctly placed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071158Z" creationid="Judy" creationdate="20151214T071158Z">
+        <seg>檢查兩夾頭齒的位置正確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check that there is no leakage from the test flange gaskets.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150501T135859Z">
@@ -53791,6 +53799,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once this is done, retighten the nuts of the front jaw seals and the screws of the back jaw seals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071232Z" creationid="Judy" creationdate="20151214T071232Z">
+        <seg>完成上述步驟後，重新鎖緊封裝機前夾頭之螺母和封裝機後夾頭之螺絲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once this menu is open you can access on it any of the options “Verify Inputs", "Verify Outputs", "Graphic Mode”.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T104757Z" creationid="Judy" creationdate="20151206T100421Z">
@@ -57831,6 +57847,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T031713Z" creationid="Judy" creationdate="20151206T031713Z">
         <seg>若有必要，放置警告標誌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a white paper in between jaws and close them by setting on touch screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071426Z" creationid="Judy" creationdate="20151214T071426Z">
+        <seg>於兩夾頭之間放置一張白紙並由觸控式螢幕控制將其閉合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71140,6 +71164,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150530T024313Z">
         <seg>瑞典文*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch back on the main air input.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T071249Z" creationid="Judy" creationdate="20151214T071249Z">
+        <seg>打開主空氣輸入。</seg>
       </tuv>
     </tu>
     <tu>
