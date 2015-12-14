@@ -17312,6 +17312,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clean the reading focus.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232439Z" creationid="Judy" creationdate="20151214T232439Z">
+        <seg>清潔讀取頭，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clean the sealing surfaces.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T162713Z" creationid="Judy" creationdate="20151213T162713Z">
@@ -49618,6 +49626,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T163422Z" creationid="Judy" creationdate="20151214T163422Z">
         <seg>並確定已固定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure that its operation and position are correct.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T232413Z" creationid="Judy" creationdate="20151214T232413Z">
+        <seg>請確認其運作和位置正確，</seg>
       </tuv>
     </tu>
     <tu>
