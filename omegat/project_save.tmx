@@ -17031,6 +17031,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the corresponding tray.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151739Z" creationid="Judy" creationdate="20151214T151739Z">
+        <seg>選擇相應的語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose the server(s) that the Power PDF Advanced product will run on and click ’Next’.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T115323Z">
@@ -24902,6 +24910,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151210T123029Z" creationid="Judy" creationdate="20151210T123029Z">
         <seg>每組授權中包含一組功能包，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each loaded program should amount to a different work order with its corresponding parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152011Z" creationid="Judy" creationdate="20151214T152011Z">
+        <seg>每個已載入的程式設定能依其相應的參數執行不同的工作程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40452,6 +40468,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150526T175022Z">
         <seg>於此議題上，HUTCHINSON 要求供應商負責產品之安全性和產品適用之法規。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this screen access is given to the memory of a set number of programs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151903Z" creationid="Judy" creationdate="20151214T151903Z">
+        <seg>此畫面中可儲存一系列的程式設定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -57723,6 +57747,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PROGRAMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151740Z" creationid="Judy" creationdate="20151214T151740Z">
+        <seg>程式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PROGRESS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T060654Z" creationid="Judy" creationdate="20151213T060654Z">
@@ -60619,6 +60651,14 @@ IN / EX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T075207Z" creationid="Judy" creationdate="20151205T074639Z">
         <seg>按下 FIX (固定) 以滑入紙片，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press LOAD RECIPE to load the selected program.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152040Z" creationid="Judy" creationdate="20151214T152040Z">
+        <seg>點擊 LOAD RECIPE (讀取參數設定) 以選擇程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82784,6 +82824,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151013T143729Z">
         <seg>視訊播放器依據監控用戶端的設置調整影像大小，如置中、全螢幕以及保持圖像的原始比例等選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The viewing language is selected here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151701Z" creationid="Judy" creationdate="20151214T151701Z">
+        <seg>此處能選擇顯示語言，</seg>
       </tuv>
     </tu>
     <tu>
