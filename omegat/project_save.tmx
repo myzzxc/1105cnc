@@ -6237,6 +6237,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATTENTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152830Z" creationid="Judy" creationdate="20151214T152830Z">
+        <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATTENTION!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115505Z" creationid="Judy" creationdate="20151212T115505Z">
@@ -49230,6 +49238,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make LOAD.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152828Z" creationid="Judy" creationdate="20151214T152759Z">
+        <seg>點擊載入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make a clean machine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150531T141328Z">
@@ -57883,6 +57899,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PULLING LENGTH: The length should have the stick.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153019Z" creationid="Judy" creationdate="20151214T153019Z">
+        <seg>PULLING LENGTH (抽取長度)：直條包裝應留有之長度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PULLING STROKE LIMIT DETECTOR (inside the machine)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054945Z" creationid="Judy" creationdate="20151206T054945Z">
@@ -66317,6 +66341,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T164156Z" creationid="Judy" creationdate="20151212T164156Z">
         <seg>伺服測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SERVO-MOTOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152858Z" creationid="Judy" creationdate="20151214T152858Z">
+        <seg>伺服馬達</seg>
       </tuv>
     </tu>
     <tu>
@@ -92115,6 +92147,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We can enter parameters that condition the main pulling movement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152946Z" creationid="Judy" creationdate="20151214T152946Z">
+        <seg>可輸入主抽取運動之條件參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We can enter parameters that determine the movement of the stick transfer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T151221Z" creationid="Judy" creationdate="20151214T151221Z">
@@ -95608,6 +95648,14 @@ Edit your video afterwards just like the pros do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151028T125732Z">
         <seg>可以使用 Workday 檔案 (位於 Contact -&gt; Support Roles) 中提供的資訊找出您的支援職位人員，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the program Aranow as stencil.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T152854Z" creationid="Judy" creationdate="20151214T152854Z">
+        <seg>可使用 Aranow 程式作為模板。</seg>
       </tuv>
     </tu>
     <tu>
