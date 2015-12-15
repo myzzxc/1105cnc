@@ -24788,8 +24788,8 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>EMERGENCY STOP MACHINE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234525Z" creationid="Judy" creationdate="20151214T234525Z">
-        <seg>緊急停止機台</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T001023Z" creationid="Judy" creationdate="20151214T234525Z">
+        <seg>EMERGENCY STOP MACHINE (緊急停止機台)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28855,8 +28855,8 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FILLER FAULT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234638Z" creationid="Judy" creationdate="20151214T234638Z">
-        <seg>填料故障</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T001006Z" creationid="Judy" creationdate="20151214T234638Z">
+        <seg>FILLER FAULT (填料器故障)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33585,8 +33585,8 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       <tuv lang="EN-US">
         <seg>GATES OPEN</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234619Z" creationid="Judy" creationdate="20151214T234619Z">
-        <seg>機門開啟</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T001018Z" creationid="Judy" creationdate="20151214T234619Z">
+        <seg>GATES OPEN (機門開啟)</seg>
       </tuv>
     </tu>
     <tu>
@@ -71972,8 +71972,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>Some filler fault is active simultaneously.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234706Z" creationid="Judy" creationdate="20151214T234706Z">
-        <seg>某些填料故障會同時出現，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T001011Z" creationid="Judy" creationdate="20151214T234706Z">
+        <seg>某些填料器故障會同時出現，</seg>
       </tuv>
     </tu>
     <tu>
