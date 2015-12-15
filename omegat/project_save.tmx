@@ -98389,6 +98389,14 @@ Sound zooms along with the picture for a perfect match.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>accessing the filter in the airbox through the access opening in the floor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T130336Z" creationid="Judy" creationdate="20151215T130336Z">
+        <seg>透過底板之維修開口更換風箱內之濾芯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>added SDA and SCL pins: beside the AREF pin, two TWI pins have been added.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150426T043147Z">
