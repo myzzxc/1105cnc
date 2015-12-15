@@ -5898,6 +5898,14 @@ ICC-ES 代表或官方認可之合適機構將進行稽核以確認履行生產�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AIR FAULT AT MACHINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000448Z" creationid="Judy" creationdate="20151215T000448Z">
+        <seg>AIR FAULT AT MACHINE (機台空氣系統故障)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AIR INPUT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T061045Z" creationid="Judy" creationdate="20151205T061045Z">
@@ -16771,6 +16779,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151105T131959Z">
         <seg>檢查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check air inlet or pressure switch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000500Z" creationid="Judy" creationdate="20151215T000500Z">
+        <seg>檢查空氣入口或壓力開關，</seg>
       </tuv>
     </tu>
     <tu>
@@ -48702,6 +48718,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MACHINE IN PRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000516Z" creationid="Judy" creationdate="20151215T000516Z">
+        <seg>MACHINE IN PRODUCTION (機台生產中)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE INFORMATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T053657Z" creationid="Judy" creationdate="20151213T053657Z">
@@ -48714,6 +48738,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T033808Z" creationid="Judy" creationdate="20151212T033808Z">
         <seg>機台編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MACHINE READY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000333Z" creationid="Judy" creationdate="20151215T000333Z">
+        <seg>機台就緒</seg>
       </tuv>
     </tu>
     <tu>
@@ -49790,6 +49822,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Machine is stopped, ready and without alarms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000428Z" creationid="Judy" creationdate="20151215T000428Z">
+        <seg>機台已停止、就緒且無警報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Machine optimum precision performances  are achieved 60 minutes after the voltage is on.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151128T085342Z" creationid="Judy" creationdate="20151128T085342Z">
@@ -49802,6 +49842,14 @@ z	Everio MediaBrowser 4 Software Provided
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T020055Z" creationid="Judy" creationdate="20151205T020055Z">
         <seg>機台序號：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machine working out of line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000605Z" creationid="Judy" creationdate="20151215T000605Z">
+        <seg>機台工作脫節。</seg>
       </tuv>
     </tu>
     <tu>
