@@ -14918,6 +14918,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHECKWIGHER NOT READY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000210Z" creationid="Judy" creationdate="20151215T000210Z">
+        <seg>檢重機未就緒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHYAU BAN MACHINERY CO., LTD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T125904Z">
@@ -16791,6 +16799,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check checkwigher machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000217Z" creationid="Judy" creationdate="20151215T000217Z">
+        <seg>檢查檢重機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check correct position of down limit detector.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234915Z" creationid="Judy" creationdate="20151214T234915Z">
@@ -16891,6 +16907,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235556Z" creationid="Judy" creationdate="20151214T235556Z">
         <seg>檢查印表機指示燈，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check product feeder or level detector.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000148Z" creationid="Judy" creationdate="20151215T000148Z">
+        <seg>檢查產品填充器或存量感測器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17051,6 +17075,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T040703Z" creationid="Judy" creationdate="20151206T040703Z">
         <seg>若有必要，請檢查的調料量和設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the laminate alignment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000037Z" creationid="Judy" creationdate="20151215T000037Z">
+        <seg>檢查箔片對位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46855,6 +46887,14 @@ Applied during recording for superior fidelity during playback.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LEFT LIMIT ALIGNEMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235955Z" creationid="Judy" creationdate="20151214T235955Z">
+        <seg>左極限對位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LENGHT ERR.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T115408Z" creationid="Judy" creationdate="20151212T115408Z">
@@ -58427,6 +58467,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRODUCT LOADER FAULT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000100Z" creationid="Judy" creationdate="20151215T000100Z">
+        <seg>產品裝載機故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRODUCT LOADER: Activates the operation of the product loader system (horizontal auger filler)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143709Z" creationid="Judy" creationdate="20151214T143709Z">
@@ -58647,6 +58695,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T153019Z" creationid="Judy" creationdate="20151214T153019Z">
         <seg>PULLING LENGTH (抽取長度)：直條包裝應留有之長度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PULLING SELECTOR DISABLED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000259Z" creationid="Judy" creationdate="20151215T000259Z">
+        <seg>抽取選擇器關閉</seg>
       </tuv>
     </tu>
     <tu>
@@ -63520,6 +63576,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T132902Z">
         <seg>校閱和批准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RIGHT LIMIT ALIGNEMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000043Z" creationid="Judy" creationdate="20151215T000043Z">
+        <seg>右極限對位</seg>
       </tuv>
     </tu>
     <tu>
@@ -82354,6 +82418,22 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The unwinder has reached the left limit position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000025Z" creationid="Judy" creationdate="20151215T000025Z">
+        <seg>開卷機達到其左極限位置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The unwinder has reached the right limit position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000050Z" creationid="Judy" creationdate="20151215T000050Z">
+        <seg>開卷機達到其右極限位置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The use of excessive force wears the blade's edge prematurely.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T150354Z" creationid="Judy" creationdate="20151213T150354Z">
@@ -89204,6 +89284,14 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T062316Z" creationid="Judy" creationdate="20151205T062316Z">
         <seg>打開主開關 (電源和氣動) 以供應電源至機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn on the pulling selectors or exit screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000319Z" creationid="Judy" creationdate="20151215T000319Z">
+        <seg>開啟抽取選擇器或退出畫面，</seg>
       </tuv>
     </tu>
     <tu>
