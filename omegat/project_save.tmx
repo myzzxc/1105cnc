@@ -14808,8 +14808,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>CHANGE REEL SELECTOR ACTIVED</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235401Z" creationid="Judy" creationdate="20151214T235401Z">
-        <seg>更換卷筒選擇器啟動</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000903Z" creationid="Judy" creationdate="20151214T235401Z">
+        <seg>CHANGE REEL SELECTOR ACTIVED (更換卷筒選擇器啟動)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14928,8 +14928,8 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       <tuv lang="EN-US">
         <seg>CHECKWIGHER NOT READY</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000210Z" creationid="Judy" creationdate="20151215T000210Z">
-        <seg>檢重機未就緒</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000804Z" creationid="Judy" creationdate="20151215T000210Z">
+        <seg>CHECKWIGHER NOT READY (檢重機未就緒)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22332,8 +22332,8 @@ Additional power wherever you are.</seg>
       <tuv lang="EN-US">
         <seg>DOWN LIMIT MAIN MOTOR</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234908Z" creationid="Judy" creationdate="20151214T234908Z">
-        <seg>主馬達下限</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000951Z" creationid="Judy" creationdate="20151214T234908Z">
+        <seg>DOWN LIMIT MAIN MOTOR (主馬達下限)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24820,16 +24820,16 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>END OF LOTE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235808Z" creationid="Judy" creationdate="20151214T235808Z">
-        <seg>批次結束</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000834Z" creationid="Judy" creationdate="20151214T235808Z">
+        <seg>END OF LOTE (批次結束)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>END OF REEL</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235220Z" creationid="Judy" creationdate="20151214T235220Z">
-        <seg>卷筒用盡</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000914Z" creationid="Judy" creationdate="20151214T235220Z">
+        <seg>END OF REEL (卷筒用盡)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25300,8 +25300,8 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
       <tuv lang="EN-US">
         <seg>EYE MARK SPOT LOST</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235631Z" creationid="Judy" creationdate="20151214T235631Z">
-        <seg>失去檢測標記訊號</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000846Z" creationid="Judy" creationdate="20151214T235631Z">
+        <seg>EYE MARK SPOT LOST (失去檢測標記訊號)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27703,40 +27703,40 @@ Count on steady, less jittery images with effective compensation for camera shak
       <tuv lang="EN-US">
         <seg>FAULT AT PULLING DRIVE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235113Z" creationid="Judy" creationdate="20151214T235113Z">
-        <seg>抽取驅動故障</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000936Z" creationid="Judy" creationdate="20151214T235113Z">
+        <seg>FAULT AT PULLING DRIVE (抽取驅動故障)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>FAULT FILLER 1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235155Z" creationid="Judy" creationdate="20151214T235155Z">
-        <seg>填料器 1 故障</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000932Z" creationid="Judy" creationdate="20151214T235155Z">
+        <seg>FAULT FILLER 1 (填料器 1 故障)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>FAULT FILLER 2</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235159Z" creationid="Judy" creationdate="20151214T235159Z">
-        <seg>填料器 2 故障</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000928Z" creationid="Judy" creationdate="20151214T235159Z">
+        <seg>FAULT FILLER 2 (填料器 2 故障)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>FAULT FILLER 3</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235204Z" creationid="Judy" creationdate="20151214T235204Z">
-        <seg>填料器 3 故障</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000924Z" creationid="Judy" creationdate="20151214T235204Z">
+        <seg>FAULT FILLER 3 (填料器 3 故障)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>FAULT FILLER 4</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235207Z" creationid="Judy" creationdate="20151214T235207Z">
-        <seg>填料器 4 故障</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000920Z" creationid="Judy" creationdate="20151214T235207Z">
+        <seg>FAULT FILLER 4 (填料器 4 故障)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36086,8 +36086,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>I/O COMMUNICATION MODULE FAULT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234928Z" creationid="Judy" creationdate="20151214T234928Z">
-        <seg>I/O 通訊模組故障</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000946Z" creationid="Judy" creationdate="20151214T234928Z">
+        <seg>I/O COMMUNICATION MODULE FAULT (I/O 通訊模組故障)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36662,8 +36662,8 @@ Hsin Chang 工業公司</seg>
       <tuv lang="EN-US">
         <seg>INVERTER ALARM</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234951Z" creationid="Judy" creationdate="20151214T234951Z">
-        <seg>變頻器警報</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000941Z" creationid="Judy" creationdate="20151214T234951Z">
+        <seg>INVERTER ALARM (變頻器警報)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46905,8 +46905,8 @@ Applied during recording for superior fidelity during playback.</seg>
       <tuv lang="EN-US">
         <seg>LEFT LIMIT ALIGNEMENT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235955Z" creationid="Judy" creationdate="20151214T235955Z">
-        <seg>左極限對位</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000821Z" creationid="Judy" creationdate="20151214T235955Z">
+        <seg>LEFT LIMIT ALIGNEMENT (左極限對位)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48718,6 +48718,14 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MACHINE IN LINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000726Z" creationid="Judy" creationdate="20151215T000726Z">
+        <seg>MACHINE IN LINE (機台上線)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINE IN PRODUCTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000516Z" creationid="Judy" creationdate="20151215T000516Z">
@@ -48744,8 +48752,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MACHINE READY</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000333Z" creationid="Judy" creationdate="20151215T000333Z">
-        <seg>機台就緒</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000747Z" creationid="Judy" creationdate="20151215T000333Z">
+        <seg>MACHINE READY (機台就緒)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48848,8 +48856,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MANUAL SELECTORS ACTIVED</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235436Z" creationid="Judy" creationdate="20151214T235436Z">
-        <seg>手動選擇器啟動</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000857Z" creationid="Judy" creationdate="20151214T235436Z">
+        <seg>MANUAL SELECTORS ACTIVED (手動選擇器啟動)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48992,8 +49000,8 @@ z	Everio MediaBrowser 4 Software Provided
       <tuv lang="EN-US">
         <seg>MAXIMUM OF REJECTED STICKS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235917Z" creationid="Judy" creationdate="20151214T235917Z">
-        <seg>退回直條包裝最大值</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000827Z" creationid="Judy" creationdate="20151214T235917Z">
+        <seg>MAXIMUM OF REJECTED STICKS (退回直條包裝最大值)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49846,10 +49854,18 @@ z	Everio MediaBrowser 4 Software Provided
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Machine working in line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000739Z" creationid="Judy" creationdate="20151215T000739Z">
+        <seg>機台上線運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Machine working out of line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000605Z" creationid="Judy" creationdate="20151215T000605Z">
-        <seg>機台工作脫節。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000715Z" creationid="Judy" creationdate="20151215T000605Z">
+        <seg>機台脫離產線運作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58421,8 +58437,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PRINTER ALARM</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235458Z" creationid="Judy" creationdate="20151214T235458Z">
-        <seg>印表機警報</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000850Z" creationid="Judy" creationdate="20151214T235458Z">
+        <seg>PRINTER ALARM (印表機警報)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58517,8 +58533,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PRODUCT LOADER FAULT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000100Z" creationid="Judy" creationdate="20151215T000100Z">
-        <seg>產品裝載機故障</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000811Z" creationid="Judy" creationdate="20151215T000100Z">
+        <seg>PRODUCT LOADER FAULT (產品裝載機故障)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58749,8 +58765,8 @@ Nuance 線上說明”。</seg>
       <tuv lang="EN-US">
         <seg>PULLING SELECTOR DISABLED</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000259Z" creationid="Judy" creationdate="20151215T000259Z">
-        <seg>抽取選擇器關閉</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000755Z" creationid="Judy" creationdate="20151215T000259Z">
+        <seg>PULLING SELECTOR DISABLED (抽取選擇器關閉)</seg>
       </tuv>
     </tu>
     <tu>
@@ -63630,8 +63646,8 @@ PrimeSource 建築產品</seg>
       <tuv lang="EN-US">
         <seg>RIGHT LIMIT ALIGNEMENT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000043Z" creationid="Judy" creationdate="20151215T000043Z">
-        <seg>右極限對位</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000816Z" creationid="Judy" creationdate="20151215T000043Z">
+        <seg>RIGHT LIMIT ALIGNEMENT (右極限對位)</seg>
       </tuv>
     </tu>
     <tu>
@@ -68260,8 +68276,8 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       <tuv lang="EN-US">
         <seg>STRETCHING EXCESS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235300Z" creationid="Judy" creationdate="20151214T235300Z">
-        <seg>超出伸展範圍</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000909Z" creationid="Judy" creationdate="20151214T235300Z">
+        <seg>STRETCHING EXCESS (超出伸展範圍)</seg>
       </tuv>
     </tu>
     <tu>
@@ -74448,8 +74464,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>TEMPERATURE FAULT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T235712Z" creationid="Judy" creationdate="20151214T235712Z">
-        <seg>溫度故障</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000840Z" creationid="Judy" creationdate="20151214T235712Z">
+        <seg>TEMPERATURE FAULT (溫度故障)</seg>
       </tuv>
     </tu>
     <tu>
@@ -89995,8 +90011,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>UPPER LIMIT MAIN MOTOR</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T234743Z" creationid="Judy" creationdate="20151214T234743Z">
-        <seg>主馬達上限</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151215T000956Z" creationid="Judy" creationdate="20151214T234743Z">
+        <seg>UPPER LIMIT MAIN MOTOR (主馬達上限)</seg>
       </tuv>
     </tu>
     <tu>
