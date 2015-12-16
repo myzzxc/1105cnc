@@ -21922,6 +21922,14 @@ Additional power wherever you are.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DECLARATION OF CONFORMITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202537Z" creationid="Judy" creationdate="20151216T202537Z">
+        <seg>符合性聲明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEFINE ACCESS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083553Z" creationid="Judy" creationdate="20151212T083553Z">
@@ -34767,6 +34775,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HORIZONTAL CUT &amp; STRINGS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202425Z" creationid="Judy" creationdate="20151216T202425Z">
+        <seg>水平切割和串連</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HORIZONTAL CUT KNIFES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053606Z" creationid="Judy" creationdate="20151206T053606Z">
@@ -36540,6 +36556,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135238Z" creationid="Judy" creationdate="20151213T135238Z">
         <seg>獨立填料器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INERT GAS DIAGRAM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202502Z" creationid="Judy" creationdate="20151216T202502Z">
+        <seg>惰性氣體圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -68446,6 +68470,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STICK HOLDER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202450Z" creationid="Judy" creationdate="20151216T202450Z">
+        <seg>直條包裝固定器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STICK HOLDER: Activates the plates located under the horizontal sealer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T143123Z" creationid="Judy" creationdate="20151214T143123Z">
@@ -91929,8 +91961,8 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       <tuv lang="EN-US">
         <seg>VERTICAL CUT</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202309Z" creationid="Judy" creationdate="20151216T202309Z">
-        <seg>垂直刀具</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202439Z" creationid="Judy" creationdate="20151216T202309Z">
+        <seg>垂直切割</seg>
       </tuv>
     </tu>
     <tu>
