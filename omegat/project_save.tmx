@@ -58263,6 +58263,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PNEUMATIC DIAGRAMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T201230Z" creationid="Judy" creationdate="20151216T201230Z">
+        <seg>氣動管路圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POINT ERASE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T062554Z" creationid="Judy" creationdate="20151213T062554Z">
@@ -60779,8 +60787,8 @@ IN / EX</seg>
       <tuv lang="EN-US">
         <seg>Pneumatic diagrams</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T023411Z" creationid="Judy" creationdate="20151205T023411Z">
-        <seg>氣動管路途</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T201253Z" creationid="Judy" creationdate="20151205T023411Z">
+        <seg>氣動管路圖</seg>
       </tuv>
     </tu>
     <tu>
