@@ -12476,6 +12476,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BALL SLIDING BEARING 12X19X28</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213248Z" creationid="Judy" creationdate="20151216T213248Z">
+        <seg>滾珠滑動軸承 12X19X28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BALL SLIDING BEARING 25X35X40</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T205328Z" creationid="Judy" creationdate="20151216T205328Z">
@@ -16178,6 +16186,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T124431Z" creationid="Judy" creationdate="20151214T124311Z">
         <seg>CUT  /  STRINGS (切割 / 串連)：依所需開啟，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CUT BETWEEN SEALERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213150Z" creationid="Judy" creationdate="20151216T213150Z">
+        <seg>封裝機間切割刀具</seg>
       </tuv>
     </tu>
     <tu>
@@ -35199,6 +35215,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HORIZONTAL KNIFE WITH PITCH 3 MM.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213235Z" creationid="Judy" creationdate="20151216T213235Z">
+        <seg>水平刀，間隙 3 毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HORIZONTAL SEALING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202313Z" creationid="Judy" creationdate="20151216T202313Z">
@@ -36996,6 +37020,14 @@ Hsin Chang 工業公司</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T135238Z" creationid="Judy" creationdate="20151213T135238Z">
         <seg>獨立填料器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INERT GAS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213417Z" creationid="Judy" creationdate="20151216T213417Z">
+        <seg>惰性氣體</seg>
       </tuv>
     </tu>
     <tu>
@@ -55415,6 +55447,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T114851Z" creationid="Judy" creationdate="20151212T114851Z">
         <seg>OFL/UFL 退回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OIL SEAL 12X19X3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213256Z" creationid="Judy" creationdate="20151216T213256Z">
+        <seg>油封 12X19X3</seg>
       </tuv>
     </tu>
     <tu>
@@ -75530,18 +75570,26 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TEAR NOTCH KNIFE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213319Z" creationid="Judy" creationdate="20151216T213319Z">
+        <seg>易撕口刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TEAR NOTCH KNIFES</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053626Z" creationid="Judy" creationdate="20151206T053626Z">
-        <seg>撕裂口刀</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213329Z" creationid="Judy" creationdate="20151206T053626Z">
+        <seg>易撕口刀</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>TEAR NOTCH: Normally ON.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T125838Z" creationid="Judy" creationdate="20151214T125814Z">
-        <seg>TEAR NOTCH (撕裂口)：通常為開，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213358Z" creationid="Judy" creationdate="20151214T125814Z">
+        <seg>TEAR NOTCH (易撕口)：通常為開，</seg>
       </tuv>
     </tu>
     <tu>
@@ -76716,8 +76764,8 @@ For further details, see the Detailed User Guide.</seg>
       <tuv lang="EN-US">
         <seg>Tear notch</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T022652Z" creationid="Judy" creationdate="20151205T022652Z">
-        <seg>撕裂口</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213341Z" creationid="Judy" creationdate="20151205T022652Z">
+        <seg>易撕口</seg>
       </tuv>
     </tu>
     <tu>
