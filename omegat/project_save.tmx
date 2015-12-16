@@ -12396,6 +12396,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BALANCING ARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202117Z" creationid="Judy" creationdate="20151216T202117Z">
+        <seg>平衡臂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BANK GUARANTEES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150921T151512Z">
@@ -33747,6 +33755,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GENERAL DIAGRAM OF STICKPACK MACHINE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202111Z" creationid="Judy" creationdate="20151216T202111Z">
+        <seg>直條包裝機總圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GENERAL SAFETY RECOMMENDATIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T024945Z" creationid="Judy" creationdate="20151205T024945Z">
@@ -34755,6 +34771,14 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053606Z" creationid="Judy" creationdate="20151206T053606Z">
         <seg>水平切割刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HORIZONTAL SEALING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202313Z" creationid="Judy" creationdate="20151216T202313Z">
+        <seg>水平封裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -46951,6 +46975,14 @@ Applied during recording for superior fidelity during playback.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T083510Z" creationid="Judy" creationdate="20151212T083510Z">
         <seg>延遲時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LAMINATE BRAKE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202255Z" creationid="Judy" creationdate="20151216T202255Z">
+        <seg>箔片煞車</seg>
       </tuv>
     </tu>
     <tu>
@@ -63472,6 +63504,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REEL BRAKE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202115Z" creationid="Judy" creationdate="20151216T202115Z">
+        <seg>卷筒煞車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REEL END DETECTOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151207T120633Z" creationid="Judy" creationdate="20151207T120633Z">
@@ -74682,6 +74722,14 @@ For further details, see the Detailed User Guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TEAR NOTCH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202329Z" creationid="Judy" creationdate="20151216T202329Z">
+        <seg>易撕口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TEAR NOTCH KNIFES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053626Z" creationid="Judy" creationdate="20151206T053626Z">
@@ -74982,6 +75030,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150922T120219Z">
         <seg>此後兩年內，每完整一個月價格增加 0.25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THERMAL PRINTER CODER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202252Z" creationid="Judy" creationdate="20151216T202252Z">
+        <seg>熱感式印表機編碼器</seg>
       </tuv>
     </tu>
     <tu>
@@ -91867,6 +91923,22 @@ Records one frame at a time at set intervals for a fast-motion view.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T142333Z">
         <seg>版本編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VERTICAL CUT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202309Z" creationid="Judy" creationdate="20151216T202309Z">
+        <seg>垂直刀具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VERTICAL SEALING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202312Z" creationid="Judy" creationdate="20151216T202312Z">
+        <seg>垂直封裝</seg>
       </tuv>
     </tu>
     <tu>
