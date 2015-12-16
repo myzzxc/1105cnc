@@ -17391,6 +17391,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chief Operations Officer (COO)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T204609Z" creationid="Judy" creationdate="20151216T204609Z">
+        <seg>運營長 (COO)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chilling</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CC" changedate="20150509T045144Z">
@@ -18990,6 +18998,14 @@ Keep an eye on the whole team while getting a special close-up look at your hero
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150524T070831Z">
         <seg>雲端連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T204813Z" creationid="Judy" creationdate="20151216T204813Z">
+        <seg>代碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -22729,6 +22745,14 @@ REJECT (退回)：啟動退回程序。</seg>
         <seg>Date:
 日期：
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date: 12/11/2015</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T204758Z" creationid="Judy" creationdate="20151216T204758Z">
+        <seg>日期： 2015年11月12日</seg>
       </tuv>
     </tu>
     <tu>
@@ -63284,6 +63308,14 @@ PrimeSource 建築產品</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150525T125146Z">
         <seg>品質和供應鏈績效目標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T204822Z" creationid="Judy" creationdate="20151216T204822Z">
+        <seg>數量</seg>
       </tuv>
     </tu>
     <tu>
