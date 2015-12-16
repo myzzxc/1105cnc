@@ -6453,6 +6453,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUGER FILLER HOPPER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214411Z" creationid="Judy" creationdate="20151216T214411Z">
+        <seg>螺旋填料器料斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUGER FILLER Ø14 PITCH 22</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032434Z" creationid="Judy" creationdate="20151206T031545Z">
@@ -12636,6 +12644,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BEARING 15X32X9</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214401Z" creationid="Judy" creationdate="20151216T214401Z">
+        <seg>軸承 15X32X9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BEARING 15X35X11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T210258Z" creationid="Judy" creationdate="20151216T210258Z">
@@ -12648,6 +12664,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T210956Z" creationid="Judy" creationdate="20151216T210956Z">
         <seg>軸承 17X30X7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BEARING 22X50X14</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214211Z" creationid="Judy" creationdate="20151216T214211Z">
+        <seg>軸承 22X50X14</seg>
       </tuv>
     </tu>
     <tu>
@@ -14958,6 +14982,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHAIN TENSOR GEAR Z-17 3/8"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214351Z" creationid="Judy" creationdate="20151216T214351Z">
+        <seg>輸送帶張力齒輪 Z-17 3/8"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHAINS OF TRANSMISSION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T053700Z" creationid="Judy" creationdate="20151206T053700Z">
@@ -15506,6 +15538,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T111212Z" creationid="Judy" creationdate="20151214T111212Z">
         <seg>參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONE BEARING 15X35X11,75</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214251Z" creationid="Judy" creationdate="20151216T214251Z">
+        <seg>錐形軸承 15X35X11,75</seg>
       </tuv>
     </tu>
     <tu>
@@ -34175,6 +34215,14 @@ HUT DQ G32 (SlogM) Supplier Logistics Manual （供應商物流手冊）</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213742Z" creationid="Judy" creationdate="20151216T213742Z">
         <seg>齒輪傳動 Z-17  3/8"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GEAR Z=14 3/8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214159Z" creationid="Judy" creationdate="20151216T214159Z">
+        <seg>齒輪 Z=14 3/8</seg>
       </tuv>
     </tu>
     <tu>
@@ -55491,10 +55539,26 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OIL SEAL  40X50X9</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214305Z" creationid="Judy" creationdate="20151216T214305Z">
+        <seg>油封 40X50X9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OIL SEAL 12X19X3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213256Z" creationid="Judy" creationdate="20151216T213256Z">
         <seg>油封 12X19X3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OIL SEAL 20X27X4.8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214258Z" creationid="Judy" creationdate="20151216T214258Z">
+        <seg>油封 20X27X4.8</seg>
       </tuv>
     </tu>
     <tu>
@@ -76158,6 +76222,14 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214101Z" creationid="Judy" creationdate="20151216T214101Z">
         <seg>封閉式齒輪皮帶 HTD 78 5M-25  長度= 390</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOOTHED PULLEY Z-30 PITCH-5 WIDTH 25</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214143Z" creationid="Judy" creationdate="20151216T214143Z">
+        <seg>齒式皮帶輪 Z-30 間隙-5 寬度 25</seg>
       </tuv>
     </tu>
     <tu>
