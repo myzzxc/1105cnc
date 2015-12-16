@@ -6581,6 +6581,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTOMATIC SINGLE-POINT LUBRICATOR 60 ML</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T212928Z" creationid="Judy" creationdate="20151216T212928Z">
+        <seg>自動單點潤滑器 60 毫升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMATIC STOP IN THE EVENT OF ALARM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151205T144506Z" creationid="Judy" creationdate="20151205T144506Z">
@@ -6745,6 +6753,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="ccyu" changedate="20131109T082225Z">
         <seg>AVS-IP - AXYZ 視覺系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AXIAL BEARING 12X24X1.5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213009Z" creationid="Judy" creationdate="20151216T212956Z">
+        <seg>軸向軸承 12X24X1.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -12448,6 +12464,14 @@ Original technology reduces wind noises picked up at the microphone, so gusts of
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202117Z" creationid="Judy" creationdate="20151216T202117Z">
         <seg>平衡臂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BALL SLIDING BEARING  20X28X30</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213101Z" creationid="Judy" creationdate="20151216T213101Z">
+        <seg>滾珠滑動軸承 20X28X30</seg>
       </tuv>
     </tu>
     <tu>
@@ -29727,6 +29751,14 @@ CAN 網路的範例和車輛元件於美國專利申請編號 </seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FRONT HORIZONTAL JAW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213046Z" creationid="Judy" creationdate="20151216T213046Z">
+        <seg>前水平夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FRONT OF VEHICLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085220Z">
@@ -35031,6 +35063,14 @@ HD 記憶體數位攝影機</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HEATING ELEMENT Ø12X310</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213051Z" creationid="Judy" creationdate="20151216T213051Z">
+        <seg>加熱元件 Ø12X310</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HEATING ELEMENTS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T041147Z" creationid="Judy" creationdate="20151206T041147Z">
@@ -35163,6 +35203,22 @@ HD 記憶體數位攝影機</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T202313Z" creationid="Judy" creationdate="20151216T202313Z">
         <seg>水平封裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HORIZONTAL SEALING DRIVEN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T212935Z" creationid="Judy" creationdate="20151216T212935Z">
+        <seg>水平封裝驅動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HORIZONTAL SEALING DRIVEN AND JAW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213022Z" creationid="Judy" creationdate="20151216T213022Z">
+        <seg>水平封裝驅動和夾頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -55363,6 +55419,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OIL SEAL 20X28X004</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213112Z" creationid="Judy" creationdate="20151216T213112Z">
+        <seg>油封 20 X28X004</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OIL SEAL 25X35X4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T211706Z" creationid="Judy" creationdate="20151216T211706Z">
@@ -58106,6 +58170,14 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T060546Z" creationid="Judy" creationdate="20151213T060546Z">
         <seg>包裝區段 TO1-TO2/TU1-TU2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PACKING GLAND</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213027Z" creationid="Judy" creationdate="20151216T213027Z">
+        <seg>填料壓蓋</seg>
       </tuv>
     </tu>
     <tu>
@@ -63976,6 +64048,14 @@ PrimeSource 建築產品</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REAR HORIZONTAL JAW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T213040Z" creationid="Judy" creationdate="20151216T213040Z">
+        <seg>後水平夾頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REAR OF VEHICLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085241Z">
@@ -68450,6 +68530,14 @@ SHIN CHANG Coated nails 將維護程序以便追蹤內部或外部指定之要�
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T205307Z" creationid="Judy" creationdate="20151216T205307Z">
         <seg>滑動軸承含軸環 Ø25 X Ø28 X 11.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SLIDING BEARING Ø12 X Ø14 X 10</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T212944Z" creationid="Judy" creationdate="20151216T212944Z">
+        <seg>滑動軸承含軸環 Ø12 X Ø14 X 10</seg>
       </tuv>
     </tu>
     <tu>
