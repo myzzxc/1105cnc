@@ -6501,6 +6501,14 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUGER FILLER Ø14 PITCH 22 TUBE Ø18 FORMING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123659Z" creationid="Judy" creationdate="20151217T123659Z">
+        <seg>螺旋填料器 Ø14 間距 22 管徑 Ø18 成形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUGER FILLER: By pressing it turns ON or OFF.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151214T122805Z" creationid="Judy" creationdate="20151214T122805Z">
@@ -6529,6 +6537,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123530Z" creationid="Judy" creationdate="20151217T123530Z">
         <seg>螺旋管 Ø14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUGER TUBE Ø18 TO FORMING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123716Z" creationid="Judy" creationdate="20151217T123716Z">
+        <seg>螺旋管 Ø18 成形</seg>
       </tuv>
     </tu>
     <tu>
@@ -25602,6 +25618,14 @@ IP5X 防塵認證讓您毋需擔心於塵土飛揚的環境中使用 Everio。</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ESTÁNDAR SPARE PARTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123957Z" creationid="Judy" creationdate="20151217T123957Z">
+        <seg>標準備件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ETHERNET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T074454Z" creationid="Judy" creationdate="20151212T074454Z">
@@ -29895,10 +29919,26 @@ CAN 網路的範例和車輛元件於美國專利申請編號 </seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FRONT LEFT PROTECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123905Z" creationid="Judy" creationdate="20151217T123905Z">
+        <seg>左前護蓋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FRONT OF VEHICLE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151025T085220Z">
         <seg>車輛前側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FRONT RIGHT PROTECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123909Z" creationid="Judy" creationdate="20151217T123909Z">
+        <seg>右前護蓋</seg>
       </tuv>
     </tu>
     <tu>
@@ -59887,6 +59927,14 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PROTECCIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123830Z" creationid="Judy" creationdate="20151217T123830Z">
+        <seg>護蓋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PROTECTION DETECTORS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T054514Z" creationid="Judy" creationdate="20151206T054514Z">
@@ -76398,6 +76446,22 @@ For further details, see the Detailed User Guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151216T214143Z" creationid="Judy" creationdate="20151216T214143Z">
         <seg>齒式皮帶輪 Z-30 間隙-5 寬度 25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOP LEFT PROTECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123915Z" creationid="Judy" creationdate="20151217T123915Z">
+        <seg>左上護蓋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOP RIGHT PROTECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123850Z" creationid="Judy" creationdate="20151217T123850Z">
+        <seg>右上護蓋</seg>
       </tuv>
     </tu>
     <tu>
