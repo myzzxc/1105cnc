@@ -6461,6 +6461,30 @@ Keep going.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUGER FILLER LOCKING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123419Z" creationid="Judy" creationdate="20151217T123419Z">
+        <seg>螺旋填料器鎖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUGER FILLER SCREW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123632Z" creationid="Judy" creationdate="20151217T123632Z">
+        <seg>螺旋填料器螺桿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUGER FILLER Ø11 PITCH 15</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123541Z" creationid="Judy" creationdate="20151217T123541Z">
+        <seg>螺旋填料器 Ø11 間距 15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUGER FILLER Ø11 PITCH 15 TUBE Ø14</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123231Z" creationid="Judy" creationdate="20151217T123231Z">
@@ -6497,6 +6521,14 @@ Keep going.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151213T141018Z" creationid="Judy" creationdate="20151213T141018Z">
         <seg>螺旋填料器和螺旋管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUGER TUBE Ø14</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123530Z" creationid="Judy" creationdate="20151217T123530Z">
+        <seg>螺旋管 Ø14</seg>
       </tuv>
     </tu>
     <tu>
@@ -11851,8 +11883,8 @@ Keep going.</seg>
       <tuv lang="EN-US">
         <seg>Auger filler screw</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20151206T032947Z" creationid="Judy" creationdate="20151206T032947Z">
-        <seg>螺旋填料器螺杆</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123638Z" creationid="Judy" creationdate="20151206T032947Z">
+        <seg>螺旋填料器螺桿</seg>
       </tuv>
     </tu>
     <tu>
@@ -55515,10 +55547,26 @@ Nuance 線上說明”。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>O RING  Ø11XØ15X2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123557Z" creationid="Judy" creationdate="20151217T123557Z">
+        <seg>O-型環 Ø11XØ15X2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>O RING Ø49 X Ø53 X 2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123113Z" creationid="Judy" creationdate="20151217T123113Z">
         <seg>O 形環 Ø49 X Ø53 X 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>O-RING Ø40XØ42X2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123609Z" creationid="Judy" creationdate="20151217T123609Z">
+        <seg>O-型環 Ø40XØ42X2</seg>
       </tuv>
     </tu>
     <tu>
@@ -58611,6 +58659,22 @@ Nuance 線上說明”。</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20151212T035712Z" creationid="Judy" creationdate="20151212T035712Z">
         <seg>部分列印數值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PARTIAL RETAINER 150° Ø10</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123513Z" creationid="Judy" creationdate="20151217T123513Z">
+        <seg>部分固定器 150º Ø10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PARTIAL RETAINER 180° Ø10</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20151217T123505Z" creationid="Judy" creationdate="20151217T123505Z">
+        <seg>部分固定器 180º Ø10</seg>
       </tuv>
     </tu>
     <tu>
